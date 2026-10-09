@@ -1,0 +1,196 @@
+{
+ "verdicts": [
+  {
+   "id": "radio-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Tutorial MMAR de junho de 2026 reaberto; campos Capitania, Número da Inscrição e Viagem Internacional conferem."
+  },
+  {
+   "id": "radio-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Passos 10-11 do tutorial (jun/2026) confirmam etapa UIT/GMDSS com MMSI, pessoas a bordo e contato de emergência para a UIT."
+  },
+  {
+   "id": "radio-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://informacoes.anatel.gov.br/legislacao/component/content/article/170-resolucoes/2025/2022-resolucao-777",
+   "notes": "Art. 270 caput e §1º conferidos na página atual da Anatel, sem marca de alteração."
+  },
+  {
+   "id": "radio-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://informacoes.anatel.gov.br/legislacao/component/content/article/170-resolucoes/2025/2022-resolucao-777",
+   "notes": "Art. 269 conferido na página atual da Anatel, sem marca de alteração."
+  },
+  {
+   "id": "radio-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.23.6 d conferido no acervo local; índice da DPC mostra só a Portaria 200/2026 como última, sem alteração posterior."
+  },
+  {
+   "id": "radio-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.23.6 e/f conferidos no texto consolidado; sem portaria posterior no índice da DPC."
+  },
+  {
+   "id": "radio-39",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Texto de 4.23.6 c confere no acervo local (a checagem automática falhou só por hifenização); sem portaria posterior."
+  },
+  {
+   "id": "radio-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.23.6 a/b confere no acervo local (checagem automática falhou por quebra de linha); sem portaria posterior."
+  },
+  {
+   "id": "radio-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://infosar.decea.mil.br/",
+   "notes": "Página atual do INFOSAR confirma balizas 406 MHz e SEND com login gov.br; menu do DECEA lista Registro ELT/EPIRB/PLB."
+  },
+  {
+   "id": "radio-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://infosar.decea.mil.br/",
+   "notes": "Texto sobre BRMCC e redes SALVAERO/SALVAMAR presente na página atual."
+  },
+  {
+   "id": "radio-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/base-de-conhecimento/quais-os-tipos-de-balizas-de-emergencias-que-existem-para-aeronaves-e-embarcacoes/",
+   "notes": "Artigo (2019) ainda no ar com ELT/EPIRB/PLB; registro INFOSAR de ELT/EPIRB/PLB corroborado pelo menu do DECEA."
+  },
+  {
+   "id": "radio-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/base-de-conhecimento/o-que-e-o-registro-infosar/",
+   "notes": "Validade de 2 anos confirmada; artigo de 2019 (não expira) é superado e há artigo de renovação de 02/10/2026 coerente com validade."
+  },
+  {
+   "id": "radio-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/base-de-conhecimento/no-caso-do-recebimento-do-sinal-de-emergencia-de-uma-baliza-406mhz-que-nao-esteja-registada-no-infosar-as-autoridades-de-resgate-irao-fazer-a-operacao-de-busca/",
+   "notes": "Artigo de 2019 reaberto e ainda no ar; não há contradição posterior encontrada."
+  },
+  {
+   "id": "radio-46",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/sem-categoria/como-cadastrar-uma-baliza-406mhz-no-infosar/",
+   "notes": "Passo a passo (05/2024) reaberto; hexadecimal e tipo automático conferem."
+  },
+  {
+   "id": "radio-47",
+   "verdict": "confirmado",
+   "evidence_url": "https://www2.fab.mil.br/brmcc/index.php/codificacao",
+   "notes": "Página do BRMCC reaberta: EPIRB não SOLAS com MMSI ou serial, PLB serial, codificação normalmente pelo fabricante/revendedor."
+  },
+  {
+   "id": "radio-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpm/185",
+   "notes": "Página 185 da CP Macaé reaberta e com o texto citado."
+  },
+  {
+   "id": "radio-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/com2dn/salvamar-leste",
+   "notes": "Página reaberta com a Lei 7.273/1984 citada."
+  },
+  {
+   "id": "radio-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Anexo 5-A item h confere com o ZIP de anexos (mais novo) e com o consolidado; sem portaria posterior."
+  },
+  {
+   "id": "radio-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Anexo 5-A itens m e n conferem com o ZIP de anexos e o consolidado."
+  },
+  {
+   "id": "radio-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Anexo 5-A assuntos 1.6/1.7 conferem com o ZIP de anexos e o consolidado."
+  },
+  {
+   "id": "radio-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/offshore-cursos",
+   "notes": "Página atual da DPC lista CROG, CPSO, CBSP, CBSN, CESS e as categorias TNA/PPM (PNT por extenso não aparece literalmente)."
+  },
+  {
+   "id": "radio-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_10.pdf",
+   "notes": "Sinopse reaberta: 3 semanas, 88 h, Radioperador Geral, Regra IV/2 STCW."
+  },
+  {
+   "id": "radio-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_10.pdf",
+   "notes": "Requisitos de matrícula (ensino médio, 18 anos, saúde, inglês e computação básicos) conferem."
+  },
+  {
+   "id": "radio-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_11.pdf",
+   "notes": "Sinopse reaberta: 7 dias, 52 h, A-VI/4 e CBSP nos últimos 5 anos."
+  },
+  {
+   "id": "radio-57",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "notes": "Sinopse reaberta: 5 dias, 40 h, mais de 18 anos, fundamental, 6 h e 9 h conferem."
+  },
+  {
+   "id": "radio-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "notes": "Sinopse reaberta: 34 h, Regra V/2 e A-VI/1, validade de 5 anos."
+  },
+  {
+   "id": "radio-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Instituicoes_credenciadas_para_ministrar_Cursos_e_Treinamento_na_Modalidade_Presencial.pdf",
+   "notes": "Lista reaberta, atualizada em 30/09/2026; CROG no Rio e Macaé e CBSN/CBSP no Nordeste conferem (CBSP em Recife não aparece, só CBSN)."
+  },
+  {
+   "id": "radio-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Página RYA atual reaberta com o texto citado."
+  },
+  {
+   "id": "radio-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Duração 10 h, formato, sem experiência e idade mínima 16 conferem."
+  },
+  {
+   "id": "radio-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Taxa de exame de £76, paga ao RYA e separada do curso, confirmada na página atual."
+  },
+  {
+   "id": "radio-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Elegibilidade (16 anos, comprovante de curso, Restricted VHF ou radioperador aeronáutico) confere."
+  },
+  {
+   "id": "radio-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/regulations/licensing-onboard-electronics/",
+   "notes": "Seção 'Using the SRC abroad' reaberta com CEPT e restrição a embarcações do Reino Unido."
+  }
+ ]
+}

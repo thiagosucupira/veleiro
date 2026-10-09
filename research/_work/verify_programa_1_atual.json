@@ -1,0 +1,229 @@
+{
+ "verdicts": [
+  {
+   "id": "programa-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-39",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Vale só para o PDF consolidado de 03/03/2026; o ZIP mais novo diverge: 3.1 a) do ARA no ZIP tem I–VIII, sem ignição/fulgor nem abastecimento.",
+   "correction": "No ZIP de anexos (mais novo que o PDF consolidado) o Anexo 5-A do ARA NÃO traz os itens de combustível: 3.1 a) termina em VIII (VII primeiros socorros, VIII sobrevivência) e o plano de treinamento teórico vai só até 1.10 e o prático até 2.7; não usar como norma atual. Tratar combustível como item apenas do PDF; o ZIP prevalece por ser mais recente."
+  },
+  {
+   "id": "programa-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-46",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Vale só para o PDF consolidado de 03/03/2026; o ZIP mais novo diverge: plano teórico do ZIP termina em 1.10, sem 1.11/1.12.",
+   "correction": "No ZIP de anexos (mais novo que o PDF consolidado) o Anexo 5-A do ARA NÃO traz os itens de combustível: 3.1 a) termina em VIII (VII primeiros socorros, VIII sobrevivência) e o plano de treinamento teórico vai só até 1.10 e o prático até 2.7; não usar como norma atual. Tratar combustível como item apenas do PDF; o ZIP prevalece por ser mais recente."
+  },
+  {
+   "id": "programa-47",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Vale só para o PDF consolidado de 03/03/2026; o ZIP mais novo diverge: plano prático do ZIP termina em 2.7, sem 2.8.",
+   "correction": "No ZIP de anexos (mais novo que o PDF consolidado) o Anexo 5-A do ARA NÃO traz os itens de combustível: 3.1 a) termina em VIII (VII primeiros socorros, VIII sobrevivência) e o plano de treinamento teórico vai só até 1.10 e o prático até 2.7; não usar como norma atual. Tratar combustível como item apenas do PDF; o ZIP prevalece por ser mais recente."
+  },
+  {
+   "id": "programa-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Texto do ZIP confirma VII primeiros socorros e VIII sobrevivência, sem itens de combustível."
+  },
+  {
+   "id": "programa-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Obs. 1 do 5-E no ZIP traz reconhecimento de firma ou assinatura GOV.BR de ETN, instrutor e aluno."
+  },
+  {
+   "id": "programa-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-57",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado também no ZIP de anexos mais novo; índice DPC não lista portaria posterior à Port. 200/2026 (27/02/2026)."
+  },
+  {
+   "id": "programa-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Página reaberta hoje: 75 links de arquivos, 2026 a 2017 (2026 com 5 itens, CPA-II sem gabarito final)."
+  },
+  {
+   "id": "programa-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Página lista CPA-II prova e gabarito preliminar (06/10/2026); sem gabarito final ainda."
+  },
+  {
+   "id": "programa-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-06/gabaritofinal.pdf",
+   "notes": "Gabarito final CPA-I/2026 publicado na página oficial; documento estático, trecho achado literalmente."
+  },
+  {
+   "id": "programa-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-10/CPA-II-2026-MATRIZ.pdf",
+   "notes": "Reaberto: '(Valor: 0,25 cada questão – Valor Total: 10,0 pontos)'."
+  },
+  {
+   "id": "programa-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Prova histórica estática, publicada e listada na página oficial; trecho achado literalmente."
+  },
+  {
+   "id": "programa-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Prova histórica estática, publicada e listada na página oficial; trecho achado literalmente."
+  },
+  {
+   "id": "programa-65",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Prova histórica estática, publicada e listada na página oficial; trecho achado literalmente."
+  },
+  {
+   "id": "programa-66",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Prova histórica estática, publicada e listada na página oficial; trecho achado literalmente."
+  },
+  {
+   "id": "programa-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/navegador-amador",
+   "notes": "Reaberto: bloco 'Modelos de Provas' atual (atualizada 21/07/2026)."
+  },
+  {
+   "id": "programa-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/content/modelos-para-amadores",
+   "notes": "Página atual lista formulários e 'Instruções para o Exame' de ARA/CPA/MSA."
+  },
+  {
+   "id": "programa-69",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cppr/node/73",
+   "notes": "FAQ CPPR ainda diz 'Há prova prática...? Não.' (página de 26/05/2023, defasada mas condizente com Anexo 5-A)."
+  },
+  {
+   "id": "programa-70",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/delsfsul/perguntas-frequentes-amadores",
+   "notes": "FAQ ainda diz 2 h; NORMAM-211 (PDF e ZIP) Anexo 5-A diz 3 h para MSA, divergência corretamente descrita."
+  },
+  {
+   "id": "programa-71",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpaor/amadores",
+   "notes": "Página reaberta (atual. 28/07/2026): prova 1º/10/2026 14h–18h, gabarito final até 05/11/2026."
+  },
+  {
+   "id": "programa-72",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Rodapé reaberto traz a licença CC Atribuição-SemDerivações 3.0 Não Adaptada."
+  },
+  {
+   "id": "programa-73",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+   "notes": "Reaberto: art. 8º, IV exclui 'textos de tratados ou convenções, leis, decretos, regulamentos, decisões judiciais e demais atos oficiais' (checagem automática falhou só por formato)."
+  },
+  {
+   "id": "programa-74",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Anexo 5-A do ZIP ainda remete a 'modelo 5-I' e o índice só vai até 5-H; remissão desatualizada persiste."
+  }
+ ]
+}

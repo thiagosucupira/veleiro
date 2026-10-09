@@ -1,0 +1,705 @@
+{
+ "piloto-automatico": {
+  "txt": "Wikipédia, Self-steering gear (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Self-steering_gear",
+  "loc": "Seção \"Electronic self-steering\"",
+  "quote": "electronic self-steering gear can be programmed to hold a certain compass course, to maintain a certain angle to the wind",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 15, RIPEAM Regra 5, p. 15-4",
+    "quote": "Cada embarcação deverá manter, permanentemente, vigilância apropriada, visual e auditiva"
+   }
+  ],
+  "verificado": true
+ },
+ "piloto-de-vento": {
+  "txt": "Wikipédia, Self-steering gear (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Self-steering_gear",
+  "loc": "Seção \"Mechanical self-steering\"",
+  "quote": "The main goal of a mechanical self-steering gear is to keep a sailboat on a given course towards the apparent wind",
+  "verificado": true
+ },
+ "compasso-de-navegacao": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 11, item 11.6.2, p. 11-38",
+  "quote": "Os compassos são instrumentos essenciais na navegação, para medida de distâncias sobre a carta náutica",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 2, Apêndice 2A, p. 2-59",
+    "quote": "faz-se a medida da distância na escala de latitudes (nunca na escala de longitudes), em torno da Latitude Média"
+   }
+  ],
+  "verificado": true
+ },
+ "regua-paralela": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 11, item 11.6.1, p. 11-36 e 11-37",
+  "quote": "A régua paralela, mostrada na Figura 11.49, constitui a ferramenta tradicional do navegante para determinar a direção de qualquer linha traçada na carta náutica e para traçar uma linha em uma direção especificada.",
+  "verificado": true
+ },
+ "rumo-no-fundo": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 1, p. 1-15",
+  "quote": "Normalmente, o Rumo no Fundo é a composição do RUMO NA SUPERFÍCIE junto àquele provocado pelo efeito da corrente",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 1, p. 1-18",
+    "quote": "VELOCIDADE NO FUNDO (vel fd) é a expressão que designa velocidade ao longo da derrota realmente seguida, em relação ao fundo do mar"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 37, p. 37-13",
+    "quote": "também fornece o rumo e a velocidade no fundo"
+   }
+  ],
+  "verificado": true
+ },
+ "corrente": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 5, item 5.5, p. 5-6",
+  "quote": "O rumo da corrente é a direção para onde flui a corrente, contada a partir do Norte Verdadeiro",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 5, item 5.4, p. 5-5",
+    "quote": "Na prática da navegação costeira, emprega-se o termo “corrente” como a resultante de todos estes fatores sobre o movimento do navio"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, p. 42-29",
+    "quote": "a direção de onde sopra o vento"
+   }
+  ],
+  "verificado": true
+ },
+ "triangulo-de-corrente": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 5, item 5.6, p. 5-8",
+  "quote": "TRIÂNGULO DE CORRENTE (ESTIMADO): Conhecidos: • rumo e velocidade do navio (RN, velN)",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 5, item 5.5, p. 5-5",
+    "quote": "Velocidade no fundo (velfd) – é a distância percorrida pelo navio, em 1 hora, em relação ao fundo. É, então, a resultante da velocidade do navio com a velocidade da corrente."
+   }
+  ],
+  "verificado": true
+ },
+ "mare": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.2, p. 10-2",
+  "quote": "Maré é a oscilação vertical da superfície do mar ou outra grande massa d’água sobre a Terra, causada primariamente pelas diferenças na atração gravitacional da Lua e, em menor extensão, do Sol",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.1.4, p. 10-5 e 10-6",
+    "quote": "A maré semidiurna, então, apresenta duas PM e duas BM no período de 1 dia lunar, sendo pouco mais de 6 horas o intervalo de tempo entre uma PM e a BM consecutiva."
+   }
+  ],
+  "verificado": true
+ },
+ "preamar": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-8",
+  "quote": "PREAMAR (PM): maior altura que as águas alcançam em uma oscilação",
+  "verificado": true
+ },
+ "baixa-mar": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-8",
+  "quote": "BAIXA-MAR (BM): menor altura que alcançam as águas em uma oscilação",
+  "verificado": true
+ },
+ "amplitude": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-8",
+  "quote": "AMPLITUDE DA MARÉ: distância vertical entre uma PM e uma BM consecutivas",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.1.3, p. 10-4",
+    "quote": "Isto significa que a amplitude de maré é maior em todos os locais que apresentam uma preamar e uma baixa-mar consecutivas."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Cita trechos corretos (PM-BM consecutivas; maiores e menores amplitudes em sizigia/quadratura), mas a faixa regional da definicao ('poucos decimetros no Sul a varios metros no Maranhao e no Para') nao consta no trecho nem no Vol. I, cap. 10 (Marés) consultado. Remover a frase regional ou citar fonte que a suporte."
+ },
+ "enchente": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-8",
+  "quote": "ENCHENTE: intervalo de tempo durante o qual o nível do mar se eleva",
+  "verificado": true
+ },
+ "vazante": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-8",
+  "quote": "VAZANTE: intervalo de tempo durante o qual o nível do mar baixa",
+  "verificado": true
+ },
+ "estofo": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-9",
+  "quote": "ESTOFO DA MARÉ: período durante o qual o nível do mar fica praticamente estacionado",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.2.1, p. 10-27",
+    "quote": "com velocidade máxima para dentro na preamar, máxima para fora na baixa-mar e nula quando a maré atinge o nível médio"
+   }
+  ],
+  "verificado": false,
+  "motivo": "O trecho 'velocidade maxima para dentro na preamar, maxima para fora na baixa-mar e nula quando a mare atinge o nivel medio' (Vol. I, item 10.2.1, caso do canal de Santana/AP) contradiz 'corrente fraca ou nula perto da preamar ou da baixa-mar'. Apenas o trecho principal (nivel estacionario) sustenta a definicao."
+ },
+ "sizigia": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.3, p. 10-4",
+  "quote": "Assim, as Marés de Sizígia ocorrem em situações de Lua Cheia e Lua Nova, ou seja, quando Sol, Terra e Lua estão alinhados, o que faz com que as forças resultantes coincidam e as marés tenham as maiores amplitudes.",
+  "verificado": true
+ },
+ "quadratura": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.3, p. 10-4",
+  "quote": "Nas posições de Quarto Crescente e Quarto Minguante da Lua (quadratura), as atrações gravitacionais da Lua e do Sol sobre as águas dos oceanos atuam em ângulos retos.",
+  "verificado": true
+ },
+ "corrente-de-mare": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.2.1, p. 10-27",
+  "quote": "aquelas forças acarretam preliminarmente o movimento horizontal da massa líquida (corrente de maré), do qual resulta o movimento vertical do nível do mar, ou seja, a maré",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.2, p. 10-28",
+    "quote": "As Cartas de Correntes de Maré, impressas em papel, podem ser adquiridas no Posto de Vendas da EMGEPRON"
+   }
+  ],
+  "verificado": true
+ },
+ "tabua-das-mares": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.9, p. 10-13",
+  "quote": "As “Tábuas das Marés” constituem uma publicação editada anualmente pela DHN",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.1.9, p. 10-13",
+    "quote": "as alturas indicadas são cotas verticais acima do Nível de Redução"
+   },
+   {
+    "txt": "CHM, Tábuas de Maré",
+    "url": "https://www.marinha.mil.br/chm/tabuas-de-mare",
+    "loc": "Página \"Tábuas de Maré\" (CHM)",
+    "quote": "Para a correta visualização das Tábuas de Maré, instale o estilo de fonte em anexo."
+   }
+  ],
+  "verificado": true
+ },
+ "isobata": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 4, p. 4-8",
+  "quote": "o navio estará em algum ponto da ISÓBATA (Linha de Igual Profundidade) correspondente à profundidade obtida",
+  "verificado": true
+ },
+ "carta-12000": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 12, item 12.3, p. 12-7",
+  "quote": "A Carta 12.000 – Símbolos, Abreviaturas e Termos Usados nas Cartas Náuticas Brasileiras é uma publicação cuja utilização é essencial para interpretar corretamente todas as informações contidas nas cartas náuticas editadas pela DHN.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 2, p. 2-37",
+    "quote": "Símbolos, Abreviaturas e Termos usados nas Cartas Náuticas (INT 1 – Symbols, Abbreviations and Terms used on Charts)"
+   }
+  ],
+  "verificado": true
+ },
+ "avisos-aos-navegantes": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 12, item 12.11, p. 12-31",
+  "quote": "Os Avisos aos Navegantes (AVGANTES) são os meios utilizados para promover a tempestiva atualização das Cartas e Publicações Náuticas",
+  "verificado": true
+ },
+ "lista-de-farois": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 12, item 12.5, p. 12-10",
+  "quote": "Relaciona, então, os faróis, aerofaróis, faroletes, barcas-faróis, boias luminosas e luzes particulares, com todas as características que possam, direta ou indiretamente, ser úteis ao navegante.",
+  "verificado": true
+ },
+ "roteiro": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 12, item 12.4, p. 12-8",
+  "quote": "O Roteiro (publicação DH1) é uma publicação que contém as informações úteis ao navegante com relação à descrição da costa, demanda de portos e fundeadouros, perigos, profundidades em barras e canais, recursos em portos",
+  "verificado": true
+ },
+ "farol": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 13, item 13.2.2, p. 13-3",
+  "quote": "São auxílios à navegação constituídos por uma estrutura fixa, de forma e cores distintas, montados em pontos de coordenadas geográficas conhecidas",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 13, item 13.2.2, p. 13-3",
+    "quote": "com alcance luminoso noturno maior que 10 milhas náuticas"
+   }
+  ],
+  "verificado": true
+ },
+ "caracteristica-da-luz": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 13, item 13.2.5 b, p. 13-13",
+  "quote": "Característica: é a aparência pela qual as luzes são identificadas, obtida pela combinação de seus principais aspectos: ritmo e cor.",
+  "verificado": true
+ },
+ "lampejo": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 13, item 13.2.5 b, p. 13-13",
+  "quote": "Lampejo: intervalo de luz em relação a outro de maior duração de ausência total de luz (obscuridade) em um mesmo período.",
+  "outras": [
+   {
+    "txt": "Lista de Faróis, 40ª ed. (DHN)",
+    "url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+    "loc": "Lista de Faróis 40ª ed., Introdução, item 3.3, p. XIV",
+    "quote": "Luz na qual a duração da emissão luminosa, em cada período, é claramente menor que a duração do eclipse"
+   }
+  ],
+  "verificado": true
+ },
+ "ocultacao": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 13, item 13.2.5 b, p. 13-13",
+  "quote": "Ocultação: intervalo de obscuridade relativamente mais curto que o de luz em um mesmo período.",
+  "outras": [
+   {
+    "txt": "Lista de Faróis, 40ª ed. (DHN)",
+    "url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+    "loc": "Lista de Faróis 40ª ed., Introdução, item 3.3, p. XIV",
+    "quote": "Luz na qual a duração total das somas das fases em um mesmo período é nitidamente mais longa que a duração total dos eclipses"
+   }
+  ],
+  "verificado": true
+ },
+ "isofasica": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 13, item 13.2.5 b, p. 13-13",
+  "quote": "Isofase: intervalo de tempo em que a luz e a obscuridade têm igual duração em um mesmo período.",
+  "verificado": true
+ },
+ "luz-rapida": {
+  "txt": "Lista de Faróis, 40ª ed. (DHN)",
+  "url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+  "loc": "Lista de Faróis 40ª ed., Introdução, item 3.3, p. XV",
+  "quote": "4 – RÁPIDA Luz em que as emissões luminosas são repetidas em uma frequência igual ou superior a 50 vezes por minuto e inferior a 80 vezes por minuto.",
+  "outras": [
+   {
+    "txt": "Lista de Faróis, 40ª ed. (DHN)",
+    "url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+    "loc": "Lista de Faróis 40ª ed., Introdução, item 3.3, p. XV",
+    "quote": "igual ou superior a 80 vezes por minuto e inferior a 160 vezes por minuto"
+   }
+  ],
+  "verificado": true
+ },
+ "apartamento": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 17, p. 17-6",
+  "quote": "Apartamento (ap) – apartamento entre dois pontos é a distância, em milhas náuticas, correspondente à diferença de Longitude entre os dois pontos.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 33, item 33.2, p. 33-7",
+    "quote": "ap = Δλ . cos ϕm"
+   }
+  ],
+  "verificado": true
+ },
+ "navegacao-por-paralelo": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 16, item 16.2, p. 16-17",
+  "quote": "o navegante muitas vezes adotava a navegação por paralelo, ou navegação por Latitude, singrando para o Norte ou para o Sul, até atingir a Latitude do ponto de destino e, então, seguindo por este paralelo de Latitude até alcançar o referido local, embora isto pudesse significar um trajeto muito maior do que o percurso direto",
+  "verificado": true
+ },
+ "sextante": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 21, item 21.2.1, p. 21-2",
+  "quote": "O sextante é um instrumento de reflexão destinado à medida de ângulos e que, a bordo, é principalmente empregado na obtenção das alturas dos astros acima do horizonte.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 21, p. 21-6",
+    "quote": "permite leituras com precisão de 0,1' (ou 6 segundos)"
+   }
+  ],
+  "verificado": true
+ },
+ "altura": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.4.2, p. 18-9",
+  "quote": "ALTURA (a) de um astro – é o comprimento do arco do Vertical do astro (ou o ângulo central), medido entre o Horizonte e o astro",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 22, item 22.2, p. 22-2",
+    "quote": "As correções a serem aplicadas à altura instrumental (ai), para transformá-la em altura verdadeira (a), são as seguintes"
+   }
+  ],
+  "verificado": true
+ },
+ "distancia-zenital": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.4.2, p. 18-9",
+  "quote": "DISTÂNCIA ZENITAL (z) de um astro – é o arco do Vertical do astro entre o Zênite e o astro, medido a partir do Zênite.",
+  "verificado": true
+ },
+ "azimute": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.4.2, p. 18-9",
+  "quote": "AZIMUTE VERDADEIRO (Az) de um astro – é a distância angular, medida ao longo do Horizonte (ou o ângulo no Zênite) entre o Meridiano Local e o Vertical do astro, contado no sentido dos ponteiros do relógio, de 000º a 360º",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 19, p. 19-1",
+    "quote": "obtenção do azimute do Sol ou de outro astro (“azimute em função da hora”), para determinação do Desvio da Agulha"
+   }
+  ],
+  "verificado": true
+ },
+ "declinacao-do-astro": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.2, p. 18-2",
+  "quote": "A Declinação na Esfera Celeste corresponde à Latitude na Terra.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 23, item 23.2, p. 23-2",
+    "quote": "O Almanaque Náutico fornece o Ângulo Horário em Greenwich (AHG) e a Declinação (Dec) do Sol, da Lua e dos 4 planetas"
+   }
+  ],
+  "verificado": true
+ },
+ "angulo-horario": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.2, p. 18-2",
+  "quote": "ÂNGULO HORÁRIO – Ângulo Horário de um astro é o arco do Equador Celeste (ou o ângulo no Polo Celeste) entre um Meridiano Celeste e o Círculo Horário do astro, medido para oeste, de 000º a 360º.",
+  "verificado": true
+ },
+ "passagem-meridiana": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 25, item 25.1, p. 25-1",
+  "quote": "Denomina-se passagem meridiana do Sol, em um determinado local, ao instante em que o centro do Sol cruza exatamente o meridiano superior do local.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 25, item 25.1, p. 25-2",
+    "quote": "Lat = Dec + z"
+   }
+  ],
+  "verificado": true
+ },
+ "zenite": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.4.1, p. 18-7",
+  "quote": "é o ponto da Esfera Celeste situado na vertical do lugar",
+  "verificado": true
+ },
+ "nadir": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.4.1, p. 18-7",
+  "quote": "NADIR (N ou Na) – o Nadir é o ponto da Esfera Celeste diametralmente oposto ao Zênite.",
+  "verificado": true
+ },
+ "horizonte": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 18, item 18.4.1, p. 18-7",
+  "quote": "A linha de tangência do horizonte visual com a superfície do globo terrestre é materializada, em alto-mar, pela linha em que o céu parece unir-se à Terra.",
+  "verificado": true
+ },
+ "depressao-do-horizonte": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 22, item 22.2 b, p. 22-2 e 22-3",
+  "quote": "A correção dp ap é sempre negativa e aumenta à medida que cresce a elevação do olho do observador.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 22, item 22.2 b, p. 22-2",
+    "quote": "A depressão do horizonte ou depressão aparente (dp ap) resulta de se usar o horizonte visual como origem das alturas observadas."
+   }
+  ],
+  "verificado": true
+ },
+ "esfera-celeste": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 17, item 17.2.2, p. 17-8",
+  "quote": "Essa esfera aparente, de raio infinito, é denominada Esfera Celeste.",
+  "verificado": true
+ },
+ "equador-celeste": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 17, item 17.2.2, p. 17-8",
+  "quote": "EQUADOR CELESTE é o círculo máximo da Esfera Celeste perpendicular ao eixo dos Polos Celestes. É o Equador da Terra projetado na Esfera Celeste.",
+  "verificado": true
+ },
+ "polo-celeste": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 17, item 17.2.2, p. 17-8",
+  "quote": "POLOS CELESTES – são os pontos em que o eixo de rotação da Esfera Celeste intercepta sua superfície.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 25, item 25.1, p. 25-2",
+    "quote": "a Latitude meridiana é igual à altura do polo elevado sobre o horizonte"
+   }
+  ],
+  "verificado": true
+ },
+ "almanaque-nautico": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 23, item 23.2, p. 23-2",
+  "quote": "O Almanaque Náutico fornece o Ângulo Horário em Greenwich (AHG) e a Declinação (Dec) do Sol, da Lua e dos 4 planetas utilizados em navegação.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 18, p. 18-13",
+    "quote": "o Almanaque Náutico não informa o AHG das estrelas. Em vez disso, tabela as Ascensões Retas Versas (ARV) das estrelas e o Ângulo Horário em Greenwich do Ponto Vernal"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 19, item 19.11.3, p. 19-24",
+    "quote": "As Horas Legais de todos os países estão indicadas no Almanaque Náutico, publicado anualmente pela DHN"
+   }
+  ],
+  "verificado": false,
+  "motivo": "A definicao atribui AHG e declinacao tambem as estrelas, mas o Vol. II (p. 18-13, citado no proprio verbete) diz que o Almanaque Nautico 'nao informa o AHG das estrelas' (tabela as ARV e o AHG do Ponto Vernal). Corrigir a definicao."
+ },
+ "reta-de-altura": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 16, item 16.2, p. 16-24",
+  "quote": "O método Marcq Saint-Hilaire substituiu o método de Latitude (método de Sumner)",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 16, item 16.2, p. 16-24",
+    "quote": "um ponto marcado sobre o azimute do astro, traçado a partir da posição estimada (ou assumida), a uma distância igual à diferença de alturas entre a altura calculada e a altura observada do astro"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 27, p. 27-3",
+    "quote": "uma linha de posição (LDP) constituída por uma circunferência de igual altura"
+   }
+  ],
+  "verificado": true
+ },
+ "triangulo-de-posicao": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 20, item 20.3, p. 20-3",
+  "quote": "– Polo elevado (polo celeste situado acima do horizonte e que dá o nome à Latitude); – Zênite do observador",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 20, item 20.2, p. 20-2",
+    "quote": "O triângulo de posição é um triângulo esférico"
+   }
+  ],
+  "verificado": true
+ },
+ "posicao-geografica-do-astro": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 27, p. 27-3",
+  "quote": "a Latitude coincide com a Declinação do astro e a Longitude com o ângulo no polo em Greenwich do astro, no instante da observação",
+  "verificado": true
+ },
+ "hora-legal": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 19, p. 19-7",
+  "quote": "todos os locais dentro de um determinado Fuso Horário guardam o mesmo tempo, denominado HORA LEGAL (HLeg)",
+  "verificado": true
+ },
+ "fuso-horario": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 19, p. 19-7",
+  "quote": "A superfície da Terra foi dividida em 24 setores, chamados FUSOS HORÁRIOS, e cada um com 15º de Longitude de largura.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 19, p. 19-9",
+    "quote": "Portanto, o Fuso Horário de Brasília é +3 ou “P” (PAPA)."
+   }
+  ],
+  "verificado": true
+ },
+ "hora-media-de-greenwich": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 19, p. 19-6",
+  "quote": "Desta forma, Hora Média de Greenwich (HMG) é o Ângulo Horário em Greenwich do Sol Médio mais 180º, ou 12 horas",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 19, item 19.11.2, p. 19-23",
+    "quote": "para aproximá-lo do TU1 / HMG"
+   }
+  ],
+  "verificado": true
+ },
+ "crepusculo-nautico": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 24, item 24.3, p. 24-4",
+  "quote": "nos instantes correspondentes ao início e ao fim do crepúsculo náutico, o centro do Sol está 12º abaixo do horizonte",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 24, item 24.3, p. 24-4",
+    "quote": "tabulados para o crepúsculo náutico, o horizonte normalmente está invisível"
+   }
+  ],
+  "verificado": false,
+  "motivo": "O trecho confirma o limite de 12 graus, mas o Vol. II (cap. 24) diz que nos instantes tabulados do crepusculo nautico 'o horizonte normalmente esta invisivel', o que conflita com 'o horizonte ainda se ve' da definicao. Rever a frase sobre o horizonte."
+ },
+ "equacao-do-tempo": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 19, item 19.8, p. 19-16",
+  "quote": "A EQUAÇÃO DO TEMPO (ET) pode ser definida como sendo a diferença entre a Hora Verdadeira e a Hora Média, num mesmo instante, para um determinado lugar.",
+  "outras": [
+   {
+    "txt": "Wikipédia, Equation of time (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Equation_of_time",
+    "loc": "Seção \"Introduction\"",
+    "quote": "Apparent time, and the sundial, can be ahead (fast) by as much as 16 min 33 s (around 3 November)"
+   }
+  ],
+  "verificado": true
+ },
+ "cronometro": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 21, item 21.3.1, p. 21-19",
+  "quote": "Um cronômetro pode ser definido, da maneira mais simples, como um relógio de alta precisão.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 21, p. 21-28",
+    "quote": "para 4 segundos de erro, teremos 1' de erro em Longitude na linha de posição"
+   }
+  ],
+  "verificado": true
+ },
+ "cruzeiro-do-sul": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 30, p. 30-13",
+  "quote": "A linha Gacrux–Acrux dirige-se para o Polo Sul",
+  "outras": [
+   {
+    "txt": "Wikipédia, South Celestial Pole (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/South_Celestial_Pole",
+    "loc": "Seção \"Method one: The Southern Cross\"",
+    "quote": "Either go four-and-a-half times the distance of the long axis in the direction the narrow end of the cross points"
+   }
+  ],
+  "verificado": true
+ },
+ "pressao-atmosferica": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.1, p. 45-9",
+  "quote": "Pressão atmosférica é a força exercida pelo peso da atmosfera sobre uma área unitária.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 3, p. A3-7",
+    "quote": "1 atmosfera = 101.325 Pa = 1,01325 bar = 1013,250 mb = 1013,250 hPa"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 41, p. 41-84",
+    "quote": "Com a chegada da frente, a pressão cai, o vento ronda para W/SW e a nebulosidade aumenta."
+   }
+  ],
+  "verificado": true
+ }
+}

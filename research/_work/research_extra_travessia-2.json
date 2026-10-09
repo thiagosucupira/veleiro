@@ -1,0 +1,236 @@
+{
+ "topic": "extra-travessia-2",
+ "claims": [
+  {
+   "id": "extra-travessia-2-01",
+   "topic": "formalidades",
+   "claim": "Na primeira escala nacional de uma embarcação estrangeira de esporte e recreio, ninguém embarca ou desembarca antes da visita ou manifestação das autoridades anuentes (Autoridade de Saúde dos Portos, Polícia Federal, Receita Federal etc.).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 1.16.1 a)",
+   "quote": "Por ocasião da primeira escala nacional, nenhum tripulante/pessoa ou objeto embarcará ou desembarcará antes da visita ou manifestação das Autoridades anuentes",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-02",
+   "topic": "formalidades",
+   "claim": "O comandante de embarcação estrangeira de esporte e recreio deve estar preparado para receber a visita de um inspetor naval em até 48 horas após apresentar a Declaração de Entrada, e a Declaração traz o roteiro pretendido (portos a visitar, tempo de permanência e último porto).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 1.16.1 d) e e)",
+   "quote": "O Comandante da embarcação deverá estar preparado para receber a visita de um inspetor naval, dentro do prazo de até 48 horas, após a apresentação da Declaração de Entrada",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-03",
+   "topic": "formalidades",
+   "claim": "Para sair das águas jurisdicionais brasileiras, a embarcação estrangeira de esporte e recreio comunica a saída à Capitania, Delegacia ou Agência com pelo menos 24 horas de antecedência e o visto de saída depende do passe de saída da Polícia Federal e da liberação da Receita Federal.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 1.16.3 a) e b)",
+   "quote": "O recebimento do visto de saída da CP/DL/AG, na Declaração de Entrada/Saída de EEER, está condicionado à apresentação do passe de saída, expedido pela Polícia Federal, e a liberação da Receita Federal",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-04",
+   "topic": "formalidades",
+   "claim": "O tempo de permanência de embarcação estrangeira de esporte e recreio nas águas jurisdicionais brasileiras é definido pela Receita Federal.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 1.16.2 a)",
+   "quote": "O tempo de permanência da EEER em AJB será definido pela Receita Federal",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-05",
+   "topic": "formalidades",
+   "claim": "Para exportar uma embarcação existente (saída definitiva), a NORMAM-211 manda cancelar a inscrição/registro, regularizar a exportação perante a Receita Federal e apresentar a Declaração de Entrada/Saída (anexo 1-A).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 3.8.2",
+   "quote": "cancelamento da inscrição e/ou registro, mediante requerimento do interessado, conforme previsto no artigo 2.10 (cancelamento de inscrição e/ou registro); b) regularizar a exportação perante os órgãos da Receita Federal; e c) apresentar a DECLARAÇÃO DE ENTRADA/SAÍDA DE EMBARCAÇÃO DE ESPORTE E/OU RECREIO, prevista no anexo 1-A",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-06",
+   "topic": "documentos",
+   "claim": "Estão obrigados ao seguro DPEM todos os proprietários ou armadores de embarcações nacionais ou estrangeiras sujeitas à inscrição e/ou registro nas Capitanias, Delegacias e Agências; a Marinha só exige o comprovante de pagamento para os serviços de regularização.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 2.6 e 2.6.1",
+   "quote": "Estão obrigados a contratar o Seguro Obrigatório de Danos Pessoais causados por embarcações ou por sua carga (DPEM) todos os proprietários ou armadores de embarcações nacionais ou estrangeiras sujeitas à inscrição e/ou registro nas CP/DL/AG.",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-07",
+   "topic": "documentos",
+   "claim": "O TIE pode ser digital (gov.br, com QR Code); com TIE digital, é responsabilidade do proprietário ou condutor portar o celular de modo que a Inspeção Naval consiga acessar os dados, ou levar a impressão legível do QR Code.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 2.5 (TIE digital)",
+   "quote": "No caso de TIE digital, com o recurso QR Code, é de responsabilidade do proprietário ou condutor da embarcação portar seu telefone celular de forma que, no caso de uma Inspeção Naval, seja possível o acesso aos dados do referido documento.",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-08",
+   "topic": "equipamentos",
+   "claim": "Na navegação oceânica, as embarcações de esporte e recreio devem ter quatro foguetes manuais estrela vermelha com paraquedas, quatro fachos manuais luz vermelha e quatro sinais fumígenos flutuantes laranja.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 4.17",
+   "quote": "Navegação oceânica - quatro foguetes manuais de estrela vermelha com paraquedas, quatro fachos manuais luz vermelha e quatro sinais fumígenos flutuantes laranja",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-09",
+   "topic": "saude",
+   "claim": "O Anexo 4-C da NORMAM-211 lista a caixa de medicamentos (paracetamol 500 mg, álcool 70%, loção de calamina, clorpromazina 25 mg, hidróxido de alumínio, hidróxido de magnésio, iodeto de potássio, antisséptico, água boricada, água oxigenada, xilocaína gel), correlatos (curativos, tesoura, termômetro, torniquete, talas, ataduras) e um manual de primeiros socorros; a NORMAM recomenda a caixa a embarcações de mar aberto com menos de 15 pessoas.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC Anexo 4-C",
+   "quote": "DOTAÇÃO DE MEDICAMENTOS E MATERIAIS DE PRIMEIROS SOCORROS 1. CAIXA DE MEDICAMENTOS",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Lista mínima de referência, não é um kit de travessia oceânica: ver IMGS e médico."
+  },
+  {
+   "id": "extra-travessia-2-10",
+   "topic": "mau tempo",
+   "claim": "A NORMAM-211 (Anexo 4-B) alerta que, com mar de popa ou de alheta, podem ocorrer amplitudes de jogo excessivas ou perda de estabilidade nas cristas das ondas, com risco de emborcamento; situação particularmente perigosa quando o comprimento da onda é de 1,0 a 1,5 vez o comprimento da embarcação, e a velocidade ou a rota devem ser alteradas.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC Anexo 4-B item 1.8",
+   "quote": "Uma situação particularmente perigosa ocorre quando o comprimento da onda é da ordem de 1,0 a 1,5 vezes o comprimento da embarcação.",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-11",
+   "topic": "mau tempo",
+   "claim": "A NORMAM-211 (Anexo 4-B) recomenda, em condições climáticas adversas, manter fechadas todas as aberturas por onde a água possa entrar no casco e evitar o piloto automático, por não permitir mudar rumo ou velocidade com presteza.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC Anexo 4-B itens 1.6 e 1.7",
+   "quote": "Evitar a utilização de piloto automático sob condições climáticas adversas",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-12",
+   "topic": "mau tempo",
+   "claim": "A NORMAM-211 (Anexo 4-B) recomenda que, antes de iniciar a viagem, todas as peças, equipamentos e objetos a bordo sejam armazenados e peados adequadamente, para que o estado do mar não cause avarias nem fira a tripulação.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC Anexo 4-B item 1.4",
+   "quote": "sejam armazenados e peiados adequadamente, para minimizar a possibilidade de que o seu deslocamento, em face do estado do mar, possa a vir a acarretar em avarias ou a ferir sua tripulação",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-13",
+   "topic": "emergencias",
+   "claim": "O comandante deve comunicar à Autoridade Marítima os acidentes ocorridos com sua embarcação (naufrágio, encalhe, colisão, abalroamento, água aberta, explosão, incêndio ou varação).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC Anexo 4-B item 1.2",
+   "quote": "acidentes ocorridos com sua embarcação (naufrágio, encalhe, colisão, abalroamento, água aberta, explosão, incêndio ou varação)",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-14",
+   "topic": "lixo",
+   "claim": "Na água é proibido lançar, descarregar ou depositar material poluente de qualquer espécie, seja lixo, lata ou derivados de petróleo (recomendação ao navegante, NORMAM-211).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC Anexo 4-B (item 7, Poluição)",
+   "quote": "Na água, é proibido lançar, descarregar ou depositar material poluente de qualquer espécie, seja lixo, lata, ou derivados de petróleo.",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "extra-travessia-2-15",
+   "topic": "lixo",
+   "claim": "MARPOL Anexo V (revisado, em vigor desde 1º/1/2013): plásticos, lixo doméstico, óleo de cozinha, cinzas e demais resíduos operacionais têm descarga proibida no mar, dentro ou fora de áreas especiais.",
+   "source_url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Annex%20V%20discharge%20requirements%2007-2013.pdf",
+   "locator": "tabela do resumo da IMO, linha \"All other garbage\"",
+   "quote": "cooking oil, incinerator ashes,",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Linha \"All other garbage including plastics, domestic wastes, cooking oil, incinerator ashes, operational wastes and fishing gear\" = \"Discharge prohibited\" (colunas do PDF fora de ordem no texto extraído). Resumo simplificado da IMO (julho/2013); a IMO avisa que podem valer exigências adicionais. A proibição vale para navios em geral, o que inclui iates."
+  },
+  {
+   "id": "extra-travessia-2-16",
+   "topic": "lixo",
+   "claim": "MARPOL Anexo V, fora de áreas especiais: resto de comida triturado (passa por tela de 25 mm) só a 3 mn ou mais da terra mais próxima e em navegação; resto de comida não triturado só a 12 mn ou mais. Dentro de áreas especiais, só triturado e a 12 mn ou mais.",
+   "source_url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Annex%20V%20discharge%20requirements%2007-2013.pdf",
+   "locator": "tabela do resumo da IMO, linhas \"Food waste\"",
+   "quote": "≥12 nm from the nearest land and en route",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A tela de 25 mm vem de MEPC.219(63)/diretrizes; o resumo da IMO traz as distâncias."
+  },
+  {
+   "id": "extra-travessia-2-17",
+   "topic": "lixo",
+   "claim": "As áreas especiais do MARPOL Anexo V são: Mar Mediterrâneo, Mar Báltico, Mar Negro, Mar Vermelho, Golfos, Mar do Norte, Região do Grande Caribe e área Antártica.",
+   "source_url": "https://www.imo.org/en/OurWork/Environment/Pages/Garbage-Default.aspx",
+   "locator": "página IMO \"Garbage\", Special areas",
+   "quote": "The special areas established under Annex V are:",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Texto da página conferido por WebFetch em 2026-10-08 (lista: Mediterranean Sea, Baltic Sea, Black Sea, Red Sea, Gulfs, North Sea, Wider Caribbean Region, Antarctic area). Conferir mapa oficial antes de navegar."
+  },
+  {
+   "id": "extra-travessia-2-18",
+   "topic": "lixo",
+   "claim": "MARPOL Anexo V: navios de 12 m ou mais e plataformas devem exibir cartazes de descarte; todo navio de 100 GT ou mais, ou certificado para 15 pessoas ou mais, deve ter plano de gerenciamento de lixo.",
+   "source_url": "https://www.imo.org/en/OurWork/Environment/Pages/Garbage-Default.aspx",
+   "locator": "página IMO \"Garbage\", placards e plano",
+   "quote": "every ship of 12 metres in length or over and every fixed or floating platform to display placards",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Um veleiro de 32 pés (cerca de 9,8 m) fica abaixo de 12 m: a proibição de jogar plástico vale mesmo sem cartaz."
+  },
+  {
+   "id": "extra-travessia-2-19",
+   "topic": "formalidades",
+   "claim": "A Lei de Migração (Lei 13.445/2017) atribui à Polícia Federal a polícia marítima e o controle migratório nos pontos de entrada e saída do país; o procedimento específico de saída de iate de bandeira brasileira não foi confirmado em fonte oficial.",
+   "source_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+   "locator": "Lei 13.445/2017, art. 38",
+   "quote": "",
+   "official": true,
+   "confidence": "baixa",
+   "notes": "Fetch do planalto falhou (ECONNRESET) em 2026-10-08; o texto do art. 38 não foi conferido nesta sessão. Procedimento prático de saída de iate nacional (zarpe/PF/Receita) NÃO confirmado: consultar a Capitania, a unidade da PF e a Receita do porto de saída."
+  },
+  {
+   "id": "extra-travessia-2-20",
+   "topic": "saude",
+   "claim": "O CIRM (Centro Internazionale Radio Medico, Roma) presta assistência médica a distância a navios de qualquer nacionalidade, sem custo para o navio, 24 horas por dia, e coordena a transferência de pacientes para hospitais em terra em caso de emergência.",
+   "source_url": "https://journals.viamedica.pl/international_maritime_health/article/view/47451",
+   "locator": "Eighty years of CIRM (International Maritime Health)",
+   "quote": "",
+   "official": false,
+   "confidence": "media",
+   "notes": "Conferido apenas por resumo de busca em 2026-10-08 (artigo de revista e página de seguradora P&I); o site oficial do CIRM não abriu (certificado expirado). Confirmar canais de contato atuais no site do CIRM antes de usar."
+  },
+  {
+   "id": "extra-travessia-2-21",
+   "topic": "incendio",
+   "claim": "Na NORMAM-211, incêndio classe B é fogo em líquidos, gases e graxas combustíveis ou inflamáveis; classe C é fogo em equipamentos e instalações elétricas energizados (se desenergizados, o incêndio passa a ser classe A).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC art. 4.27.2 b) e c)",
+   "quote": "Classe B - fogo em líquidos, gases e graxas combustíveis ou inflamáveis",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  }
+ ]
+}

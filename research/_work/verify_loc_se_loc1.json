@@ -1,0 +1,58 @@
+{
+ "verdicts": [
+  {
+   "id": "se-sp-argonauta",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site abre (200 com UA de navegador; 406 so com UA simples), titulo Argonauta Escola Nautica; ETN em Sao Caetano do Sul."
+  },
+  {
+   "id": "se-sp-cusco-baldoso",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e /cursos 200, titulo coerente."
+  },
+  {
+   "id": "se-sp-iate-clube-santos",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Entidade existe; HTTP redireciona 200 para icsantosnew1.hospedagemdesites.ws, titulo coerente; HTTPS com cert invalido, noticias antigas, mas ativa. Tipos sem escola, coerente."
+  },
+  {
+   "id": "se-sp-bombordo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, titulo Grupo Bombordo Assessoria & Escola Nautica."
+  },
+  {
+   "id": "se-sp-namarca",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, titulo coerente (arrais/motonauta). Endereco divergente nas fontes ja anotado."
+  },
+  {
+   "id": "se-sp-ubatuba-iate-clube",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, titulo Ubatuba Iate Clube."
+  },
+  {
+   "id": "se-es-ices-cabo-velho",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e pagina escola-de-vela 200, ICES."
+  },
+  {
+   "id": "se-es-horizonte-azul",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 403 para curl simples, 200 com headers de navegador; conteudo da escola (titulo generico Home - My Blog)."
+  },
+  {
+   "id": "se-mg-capitania-nautica-bh",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, titulo Capitania Nautica BH, arrais amador."
+  }
+ ]
+}

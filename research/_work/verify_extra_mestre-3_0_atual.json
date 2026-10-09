@@ -1,0 +1,176 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-mestre-3-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.19.2 a) no PDF vivo: costeira 1, oceânica 2, (*) recomendado fonte independente. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo.",
+   "evidence_quote": "i) navegação costeira: 1 (um) aparelho; e ii) navegação oceânica: 2 (dois) aparelhos (*)"
+  },
+  {
+   "id": "extra-mestre-3-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.19.3 a) e b) conferem (radar 9 GHz e ecobatímetro para grande porte/iates após 11/02/2000; menores recomendado); radar vale para costeira/oceânica. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.18.3 confere literalmente. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Tabela do art. 4.34 (costeira), item 11: EPIRB dispensado para médio porte e obrigatório (*) para grande porte/iates; confirmado no texto de 03/03/2026. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo.",
+   "evidence_quote": "EPIRB 406 MHz 4.24 Dispensado OBRIGATÓRIO (*)"
+  },
+  {
+   "id": "extra-mestre-3-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.11 define classes I a V conforme descrito (V inclui médio porte em navegação interior e miúdas). Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.14 confere (falha da checagem automática foi só de acentuação/pontuação; texto está lá): dotação >= pessoas a bordo, coletes pequenos, oceânica Classe I, costeira Classe II. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.15 confere: <12 m uma boia, >=12 m duas, iluminação automática exceto interior, retinida 2x altura ou 20 m. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.16 confere: 300 m/30.000 cd/40 s; facho 15.000 cd/60 s; fumígeno 3 ou 15 min. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.17 confere (2 de cada na costeira, 4 de cada na oceânica). Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.13 confere (falha automática foi só de formatação); oceânica 100% classe II permitida, costeira dispensada com bote inflável recomendável. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.13 (balsas) confere: homologação SOLAS/NORMAM-321/ISO 9650-1, revisão anual SOLAS, demais pelo fabricante, estação credenciada, data no casulo. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.23.4 a) confere: canais 16, 68, 69; DSC canal 70 (156,525 MHz) em vez do 16. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "notes": "LAR 15ª ed. (corrigida até Folheto 14/2026, publicada 2026-08) confirma Embratel, rios Amazonas/Pará, COSMM em Guaratiba-RJ; Marinha COM5DN também confirma RENEC/Embratel.",
+   "evidence_quote": "operadas remotamente a partir do Centro de Operações do Serviço Móvel Marítimo (COSMM), da Empresa Brasileira de Telecomunicações (Embratel), localizado em Guaratiba, Rio de Janeiro"
+  },
+  {
+   "id": "extra-mestre-3-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "notes": "Item 8.2.1 do LAR vigente confere: tráfego de segurança gratuito, canal 16 e 4.125 kHz, boletins/avisos do CHM em VHF e HF."
+  },
+  {
+   "id": "extra-mestre-3-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "notes": "Item 8.2.2 do LAR vigente confere: PPR, PPL/PPO/PPJ (~600 M), PPM/PPC (~200 M), 34 locais restritas (40 M); Cap. 5 diz que todas são telecomandadas."
+  },
+  {
+   "id": "extra-mestre-3-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "notes": "Cap. 5 do LAR vigente confere: voz em português, sem horário pré-estabelecido, chamada no canal 16/4125 kHz e tráfego em canal designado; escuta no 16 e se possível 4.125 kHz."
+  },
+  {
+   "id": "extra-mestre-3-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "notes": "LAR vigente confere tráfego comercial pago e 0800-7012141 (24 h; 0800-7012144 comercial)."
+  },
+  {
+   "id": "extra-mestre-3-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "notes": "Item 8.3 do LAR vigente confere canais 68 (156,425 MHz, iatismo), 69 e 71 (pequeno porte) e horário nascer ao pôr do sol."
+  },
+  {
+   "id": "extra-mestre-3-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ SALVAMAR reaberto hoje contém a frase (página de 2022); consistente com LAR 2026 sobre RENEC/Embratel retransmitindo emergências."
+  },
+  {
+   "id": "extra-mestre-3-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-meteoromarinha/previsao-24-horas",
+   "notes": "Página Meteoromarinha atualizada em 07/10/2026 lista as oito áreas ALFA a HOTEL com os limites exatos da afirmação."
+  },
+  {
+   "id": "extra-mestre-3-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Página CHM reaberta hoje (atualizada 10/02/2025) contém a frase sobre ERMRJ e estações da RENEC/Embratel a pedido."
+  },
+  {
+   "id": "extra-mestre-3-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+   "notes": "Manual DHN (1ª rev. 2026) reaberto: lista site CHM, apps PAM e Boletim ao Mar, Facebook, VHF/HF, RENEC a pedido, SafetyNET II e SafetyCast."
+  },
+  {
+   "id": "extra-mestre-3-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "notes": "LAR vigente confere 11 ERDGPS (11 estações listadas no art. 9.1.13), exatidão melhor que 2 m a 95% e degradação de 11,5 ppm."
+  },
+  {
+   "id": "extra-mestre-3-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Verbete do Glossário confere literalmente. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Verbete do Glossário confere literalmente. Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 3.27.2 confere (mar aberto: Cap. 7 da NORMAM-201; interior: Cap. 6 da NORMAM-202). Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 3.26 confere (>=24 m dispensadas de borda livre/certificado; licenças a partir de 11/02/2000 atendem requisitos Não SOLAS). Índice DPC reaberto em 2026-10-08 mostra a Portaria 200 (27/02/2026) como vigente, sem portaria posterior; PDF vivo idêntico ao acervo."
+  },
+  {
+   "id": "extra-mestre-3-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Anexo 5-A item 2.1 e) no ZIP de anexos (mais novo) tem o mesmo texto 'Noções sobre de estabilidade e flutuabilidade de uma embarcação'.",
+   "evidence_quote": "e) Noções sobre de estabilidade e flutuabilidade de uma embarcação."
+  }
+ ]
+}

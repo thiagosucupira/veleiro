@@ -1,0 +1,54 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-fechamento-am-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/servico-movel-maritimo/em-1979-a-organizacao-maritima-internacional-imo-reconhecendo-a-necessidade-de-implementar-o-sistema-de-comunicacao-maritima-decidiu-dar-inicio-a-implantacao-de-um-novo-sistema-de-socorro-e-seguranca-conhecido-como-sistema-global-de-socorro-e-seguranca",
+   "notes": "Página traz A1 (VHF, cerca de 20 milhas, DSC contínuo) e A2 (MF, cerca de 100-300 milhas) literalmente; a ressalva sobre o material do Radiotelefonista não é da fonte citada, mas é só contexto.",
+   "evidence_quote": "área dentro da cobertura de um sistema de radiotelefonia de no mínimo uma estação costeira que opere em VHF, cerca de 20 milhas da costa, na qual esteja disponível o alerta DSC contínuo."
+  },
+  {
+   "id": "extra-fechamento-am-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment/children-and-lifejackets",
+   "notes": "Trecho literal na página NSW; a NORMAM-211 art. 4.14 diz só 'coletes de tamanho pequeno para as crianças', como afirmado.",
+   "evidence_quote": "Inflatable lifejackets are not recommended for children aged under 12 years."
+  },
+  {
+   "id": "extra-fechamento-am-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "notes": "O art. 12, I aparece no texto da fonte (a falha da checagem foi só de acentos): 'não possuir a documentação relativa à habilitação ou ao controle de saúde: multa do grupo D'.",
+   "evidence_quote": "art 12 ... I - não possuir a documentação relativa à habilitação ou ao controle de saúde: Penalidade: multa do grupo D"
+  },
+  {
+   "id": "extra-fechamento-am-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.19.3 a) e b) conferem literalmente (radar 9 GHz costeira/oceânica, ecobatímetro, menores recomendado).",
+   "evidence_quote": "a) Radar - as embarcações de grande porte, ou iates, construídas após 11/02/2000, classificadas para a navegação costeira ou oceânica, deverão ser dotadas de radar capaz de operar na faixa de frequência de 9 GHz. Para as embarcações menores o seu emprego é recomendado"
+  },
+  {
+   "id": "extra-fechamento-am-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 3.27.1 confere (escopo: esporte/recreio < 24 m; PMC no Anexo 7-F da NORMAM-201 ou 6-G da NORMAM-202, para AB <= 20).",
+   "evidence_quote": "As embarcações deverão ter suas lotações determinadas pelos estaleiros construtores. Quando por qualquer motivo este dado não for disponibilizado pelo estaleiro construtor ou quando se tratar de embarcação de fabricação artesanal, a determinação da lotação deverá ser estabelecida utilizando as normas para lotação de passageiros e do peso máximo de carga (PMC)"
+  },
+  {
+   "id": "extra-fechamento-am-06",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador?page=1",
+   "notes": "A página paginada (?page=1) lista provas e gabaritos de 2016, 2015, 2014 e 2013, e a relação de aprovados do REFENO de 2014, então nem 'desde 2017' nem 'aprovados a partir de 2018' procedem; o trecho citado cobre só a primeira página.",
+   "correction": "A página publica provas/gabaritos de Capitão-Amador desde 2013 (2013: 'CPA - Prova'; 2014-2016: CPA-1/CPA-2 Prova e Gabarito); relações de aprovados aparecem já em 2014 (Exame extra de CPA - REFENO - Relação dos Aprovados) e de novo a partir de 2018 nos exames regulares.",
+   "evidence_quote": "2014 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito Exame extra de CPA - REFENO - Prova Exame extra de CPA - REFENO - Relação dos Aprovados"
+  },
+  {
+   "id": "extra-fechamento-am-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "Trecho literal na página CPBA (segunda a sexta, computadores dedicados, 40 questões) e a página não menciona Mestre; Anexo 5-A item 2 prevê 40 questões para Mestre-Amador (4 com carta náutica); 'Etapa 6' não conferida.",
+   "evidence_quote": "As provas ocorrem na Capitania de segunda a sexta-feira, e são realizadas em computadores dedicados a essa finalidade, constando de 40 questões."
+  }
+ ]
+}

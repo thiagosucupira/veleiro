@@ -1,0 +1,130 @@
+{
+  "verdicts": [
+    {
+      "id": "extra-travessia-2-01",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 1.16.1 a) confere: nenhum tripulante ou objeto embarca/desembarca antes da visita das autoridades anuentes na primeira escala."
+    },
+    {
+      "id": "extra-travessia-2-02",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 1.16.1 d) e e) confere: planos de navegação incluem portos, permanência e último porto; inspetor em até 48 h após a declaração."
+    },
+    {
+      "id": "extra-travessia-2-03",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 1.16.3 a) e b) confere: comunicação com 24 h de antecedência; visto de saída condicionado a passe da PF e liberação da Receita."
+    },
+    {
+      "id": "extra-travessia-2-04",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 1.16.2 a) confere: a Receita Federal define o tempo de permanência."
+    },
+    {
+      "id": "extra-travessia-2-05",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 3.8.2 a), b) e c) confere o procedimento de exportação de embarcação existente, incluindo a Declaração do anexo 1-A."
+    },
+    {
+      "id": "extra-travessia-2-06",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 2.6.1 confere a obrigação do DPEM; art. 2.6 confirma que a Marinha só exige o comprovante de pagamento do seguro para os serviços de regularização."
+    },
+    {
+      "id": "extra-travessia-2-07",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 2.5 confere a responsabilidade pelo acesso ao QR Code do TIE digital durante inspeção naval."
+    },
+    {
+      "id": "extra-travessia-2-08",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.17 confere a dotação de pirotécnicos para navegação oceânica (quatro de cada tipo)."
+    },
+    {
+      "id": "extra-travessia-2-09",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Anexo 4-C confere os itens da caixa de medicamentos e correlatos; item 4.22 recomenda a caixa a embarcações de mar aberto com menos de 15 pessoas."
+    },
+    {
+      "id": "extra-travessia-2-10",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Anexo 4-B itens 1.8 confere o risco de emborcamento e a faixa de 1,0 a 1,5 vez o comprimento da onda, com alteração de velocidade ou rota."
+    },
+    {
+      "id": "extra-travessia-2-11",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Anexo 4-B itens 1.6 e 1.7 conferem fechar aberturas em clima adverso e evitar piloto automático."
+    },
+    {
+      "id": "extra-travessia-2-12",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Anexo 4-B item 1.4 confere o armazenamento e peiação antes da viagem."
+    },
+    {
+      "id": "extra-travessia-2-13",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Anexo 4-B item 1.2 confere a comunicação à Autoridade Marítima dos acidentes listados."
+    },
+    {
+      "id": "extra-travessia-2-14",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Texto do Anexo 5-F item 7 confere a proibição de descarte de poluentes; porém o anexo é lista de verificação, não 'recomendação ao navegante' (esse é o Anexo 4-B), então o rótulo do parêntese está impreciso."
+    },
+    {
+      "id": "extra-travessia-2-15",
+      "verdict": "confirmado",
+      "evidence_url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Annex%20V%20discharge%20requirements%2007-2013.pdf",
+      "notes": "Linha 'All other garbage including plastics, domestic wastes, cooking oil...' do resumo IMO tem 'Discharge prohibited' nas três colunas."
+    },
+    {
+      "id": "extra-travessia-2-16",
+      "verdict": "confirmado",
+      "evidence_url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Annex%20V%20discharge%20requirements%2007-2013.pdf",
+      "notes": "Distâncias e condições (≥3 nm triturado en route fora de áreas especiais; ≥12 nm não triturado; ≥12 nm triturado dentro de áreas especiais) conferem com o resumo IMO; a tela de 25 mm NÃO consta da fonte citada e deve ser sustentada por outra fonte antes de publicar."
+    },
+    {
+      "id": "extra-travessia-2-17",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.imo.org/en/OurWork/Environment/Pages/Garbage-Default.aspx",
+      "notes": "Página IMO lista exatamente as oito áreas especiais do Anexo V citadas."
+    },
+    {
+      "id": "extra-travessia-2-18",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.imo.org/en/OurWork/Environment/Pages/Garbage-Default.aspx",
+      "notes": "Página IMO confere: placas para navios de 12 m ou mais; plano de gerenciamento de lixo para 100 GRT ou mais e certificados para 15 pessoas ou mais."
+    },
+    {
+      "id": "extra-travessia-2-19",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+      "notes": "Art. 38 da Lei 13.445/2017 (texto obtido nesta sessão): funções de polícia marítima e de fronteira realizadas pela Polícia Federal nos pontos de entrada e saída; o trecho de iate ficou corretamente como não confirmado."
+    },
+    {
+      "id": "extra-travessia-2-20",
+      "verdict": "nao_verificavel",
+      "evidence_url": "https://journals.viamedica.pl/international_maritime_health/article/view/47451",
+      "notes": "Artigo de 2016 confirma serviço médico de 24 h e coordenação de transferência a hospital em terra; 'sem custo' e 'qualquer nacionalidade' não estão nesse texto (só em resumos de busca de fontes secundárias); site oficial do CIRM inacessível."
+    },
+    {
+      "id": "extra-travessia-2-21",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.27.2 b) e c) conferem as classes B e C e a reclassificação para classe A quando desenergizado."
+    }
+  ]
+}

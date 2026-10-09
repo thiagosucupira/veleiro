@@ -1,0 +1,184 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Título da Convenção literal no PDF da CCA-IMO."
+  },
+  {
+   "id": "tecnico-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regras 39-41 e Código III (A.1070(28)) presentes no PDF."
+  },
+  {
+   "id": "tecnico-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "Ementa e data (17/12/2021) conferem no texto do decreto (acentos perdidos na extração)."
+  },
+  {
+   "id": "tecnico-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "Considerandos citam Decreto 80.068 (2/8/1977) e 81.638 (9/5/1978) exatamente."
+  },
+  {
+   "id": "tecnico-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "A.1085(28) de 2013, em vigor desde 1/1/2016, é a última resolução listada nos considerandos."
+  },
+  {
+   "id": "tecnico-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "Anexo da A.1085(28) diz que após a Parte E é adicionada nova Parte F (regras 39-41)."
+  },
+  {
+   "id": "tecnico-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/node/17385",
+   "notes": "Item COLREG presente na lista da CCA-IMO."
+  },
+  {
+   "id": "tecnico-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.5 da NORMAM-211 literal."
+  },
+  {
+   "id": "tecnico-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.3.3 literal."
+  },
+  {
+   "id": "tecnico-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.18.5 literal."
+  },
+  {
+   "id": "tecnico-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.18.6 literal."
+  },
+  {
+   "id": "tecnico-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.18.7 literal."
+  },
+  {
+   "id": "tecnico-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Anexo 5-A alínea f literal."
+  },
+  {
+   "id": "tecnico-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 3(c) literal; propulsão mecânica pela 3(b) é inferência correta."
+  },
+  {
+   "id": "tecnico-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 5 literal."
+  },
+  {
+   "id": "tecnico-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 6 literal."
+  },
+  {
+   "id": "tecnico-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 7(a) literal."
+  },
+  {
+   "id": "tecnico-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 7(d)(i) literal."
+  },
+  {
+   "id": "tecnico-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 8(b) literal."
+  },
+  {
+   "id": "tecnico-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 9(a) literal."
+  },
+  {
+   "id": "tecnico-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 9(b) literal."
+  },
+  {
+   "id": "tecnico-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 10(c) literal."
+  },
+  {
+   "id": "tecnico-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 10(j) literal."
+  },
+  {
+   "id": "tecnico-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(a)(i) literal."
+  },
+  {
+   "id": "tecnico-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(a)(ii) literal."
+  },
+  {
+   "id": "tecnico-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(a)(iii) literal."
+  },
+  {
+   "id": "tecnico-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(b) literal."
+  },
+  {
+   "id": "tecnico-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 13(a) literal; aplica-se a toda embarcação, incluindo veleiros."
+  },
+  {
+   "id": "tecnico-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 13(b) literal, inclusive a luz de alcançado."
+  },
+  {
+   "id": "tecnico-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 14(a) literal."
+  }
+ ]
+}

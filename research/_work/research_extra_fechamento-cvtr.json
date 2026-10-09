@@ -1,0 +1,202 @@
+{
+ "claims": [
+  {
+   "id": "extra-fechamento-cvtr-01",
+   "topic": "cursos-br",
+   "claim": "No gabarito final do exame ES-CPA-I/2026 (Capitão-Amador), publicado pela DPC em junho de 2026, a questão 20 consta como CANCELADA.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-06/gabaritofinal.pdf",
+   "locator": "Gabarito final ES-CPA-I/2026, página única, linha da questão 20",
+   "quote": "20 CANCELADA",
+   "official": true,
+   "confidence": "alta",
+   "notes": "PDF baixado e lido em 2026-10-08 (1 página). Criado no fechamento das pendências da revisão do Capitão; ainda sem veredito de dois verificadores."
+  },
+  {
+   "id": "extra-fechamento-cvtr-02",
+   "topic": "meteorologia",
+   "claim": "No boletim METEOROMARINHA (METAREA V) de 8 de outubro de 2026, a área BRAVO (de Laguna até Arraial do Cabo) vem marcada como oceânica e a área CHARLIE, no mesmo trecho, como costeira; o boletim traz ainda as áreas Sul Oceânica e Norte Oceânica.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-smm-meteoromarinha/previsao-24-horas",
+   "locator": "CHM, METEOROMARINHA, Previsão 24 horas, Parte Três (consultada em 2026-10-08, previsão válida de 090000 a 100000)",
+   "quote": "ÁREA BRAVO (DE LAGUNA ATÉ ARRAIAL DO CABO – OCEÂNICA) ... ÁREA CHARLIE (DE LAGUNA ATÉ ARRAIAL DO CABO - COSTEIRA)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Concilia travessia-95 (página de serviços do CHM: costeiras ALFA a HOTEL e oceânicas NOVEMBER e SIERRA) com extra-mestre-3-20 (BRAVO oceânica). A página de serviços não pôde ser reaberta em 2026-10-08 (HTTP 403); o boletim do dia não usa os nomes NOVEMBER e SIERRA."
+  },
+  {
+   "id": "extra-fechamento-cvtr-03",
+   "topic": "travessia-comunicacoes",
+   "claim": "Pelo manual (Primer) da SailMail, por rádio ela só passa arquivos GRIB de até 30 kB em Pactor-III e 40 kB em Pactor-4 (10 kB em Pactor-II); alguns outros tipos de anexo (.fcst, .iac, .lis) passam se forem pequenos, e os demais não passam.",
+   "source_url": "https://sailmail.com/wp-content/uploads/2016/02/smprimer.htm",
+   "locator": "SailMail Primer, perguntas frequentes sobre GRIB e anexos",
+   "quote": "The SailMail system can pass grib files, but only if they are less than 30kBytes in length if sent via Pactor-III or less than 40kBytes via Pactor-4 (10kBytes via Pactor-II).",
+   "official": false,
+   "confidence": "media",
+   "notes": "Manual do próprio serviço, sem data na página (arquivo de 2016). Em outro trecho do mesmo manual o limite em Pactor-II aparece como 15 kB; o texto do curso manda confirmar com o provedor. Limites de serviço mudam."
+  },
+  {
+   "id": "extra-fechamento-cvtr-04",
+   "topic": "travessia-comunicacoes",
+   "claim": "Pelo Winlink Book of Knowledge, citado numa apresentação de usuários, o tamanho máximo de uma mensagem Winlink, anexos incluídos, é 120 kB (comprimida).",
+   "source_url": "https://www.seapac.org/workshop-presentations_files/2023/7.5SEA-PAC2023%20Advance%20Winlink%20Features%20Winlink%20Express%20-%20KH6FV.pdf",
+   "locator": "Apresentação SEA-PAC 2023 (KH6FV), slide Winlink Book of Knowledge, Limits",
+   "quote": "Message size maximum, including Attachments: 120 kb (compressed)",
+   "official": false,
+   "confidence": "baixa",
+   "notes": "Fonte secundária (apresentação de usuário, 2023); o site oficial do Winlink não foi consultado. Confirmar em winlink.org."
+  },
+  {
+   "id": "extra-fechamento-cvtr-05",
+   "topic": "osr",
+   "claim": "Pela OSR 5.01.1, cada tripulante deve ter colete inflável a gás ISO 12402-3 (nível 150) fabricado depois de 2011, com inflação manual ou automática e tirante entre pernas (todas as categorias), luz indicadora de posição e capuz anti-borrifo (Cat. 0 a 3) e ponto de engate do arnês (Cat. 0 a 2); o dispositivo pessoal de localização (PLB) no colete é só da Cat. 0.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, item 5.01.1 a) a h), página 37 do documento (tabela com a coluna Categories)",
+   "quote": "A gas inflatable lifejacket which shall comply with ISO 12402-3 (Level 150) and have been manufactured after 2011. It shall be fitted with the following [...]: a) a manual or automatic gas inflation system, b) a ride up prevention system (crotch strap or thigh straps), c) an emergency position indicating light, d) a sprayhood, e) a deck safety harness (attachment), f) a personal location device",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Colunas de categoria lidas na página renderizada: a) e b) todas ('**'); c) e d) Mo/Mu 0,1,2,3; e) Mo/Mu 0,1,2; f) Mo/Mu 0. Isto contradiz a nota de divergência do fato travessia-38 (que dizia sprayhood só 0 a 2 e engate só Cat. 0): a redação original de travessia-38 (capuz e, em Cat. 0 a 2, ponto de engate) estava certa para as categorias 1 e 2."
+  },
+  {
+   "id": "extra-fechamento-cvtr-06",
+   "topic": "osr",
+   "claim": "Pela OSR 3.08.2, a escotilha (inclusive a de paiol) deve ser fixada permanentemente, poder ser fechada de imediato e permanecer firmemente fechada num emborcamento de 180°, e (Cat. 0 a 4) ficar acima da água com o barco adernado a 90°; o barco pode ter no máximo duas escotilhas por bordo que não atendam ao requisito dos 90°, desde que a abertura de cada uma seja menor que 0,071 m².",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, item 3.08.2 a) e b)",
+   "quote": "A boat may have a maximum of two hatches on each side of centreline that do not conform to the requirement in b), provided that the opening of each is less than 0.071 m² (110 in²).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-travessia-1-07 (claim sem a exceção do item b). Texto lido no extrato Mo Cat. 1 em cache e no documento completo."
+  },
+  {
+   "id": "extra-fechamento-cvtr-07",
+   "topic": "osr",
+   "claim": "Pela OSR 3.01.2 e 3.01.3, o barco deve ter enxárcias e ao menos um estai que permaneçam ligados ao mastro e ao barco durante a regata (a regra não se aplica a barcos com mastro autoportante); o estai deve ser dimensionado e ligado de modo a suportar toda a carga de vela, independentemente da capacidade da testa da vela de proa.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, itens 3.01.2 e 3.01.3",
+   "quote": "Equipped with shrouds and at least one forestay that shall remain connected to the mast and the boat while racing (not applicable to boats with free-standing masts).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-travessia-1-03 (claim sem a exceção do mastro autoportante)."
+  },
+  {
+   "id": "extra-fechamento-cvtr-08",
+   "topic": "osr",
+   "claim": "Pela OSR 2.04.1, todo equipamento exigido deve funcionar, ser verificado, limpo e revisado regularmente; se tiver prazo de validade, não pode tê-lo excedido durante a regata; quando não estiver em uso, deve ser estivado de modo a minimizar a deterioração; e deve ser de fácil acesso.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, item 2.04.1 a) a f)",
+   "quote": "c) if it has an expiry date, it will not have exceeded its expiry date whilst racing",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-travessia-1-02 (claim dizia 'não estar vencido' para todo equipamento)."
+  },
+  {
+   "id": "extra-fechamento-cvtr-09",
+   "topic": "travessia-medicina",
+   "claim": "O CIRM (Centro Internazionale Radio Medico, Roma) mantém serviço médico contínuo de 24 horas, prestado por médicos na sede, e coordena a transferência para hospital em terra dos pacientes assistidos a bordo em caso de emergência. Quem pode usar o serviço e a que custo não foi confirmado.",
+   "source_url": "https://journals.viamedica.pl/international_maritime_health/article/view/47451",
+   "locator": "International Maritime Health, 'Eighty years of CIRM', resumo (Results and Conclusions)",
+   "quote": "The 24-h continuous medical service is provided by doctors at the CIRM headquarters. [...] In case of emergencies CIRM co-ordinates the transfer of patients assisted on board ships to a hospital ashore.",
+   "official": false,
+   "confidence": "media",
+   "notes": "Substitui extra-travessia-2-20, de que sai 'sem custo' e 'qualquer nacionalidade', que não constam do artigo. Artigo de 2016; site oficial do CIRM não verificado."
+  },
+  {
+   "id": "extra-fechamento-cvtr-10",
+   "topic": "cursos-br",
+   "claim": "Pelo Decreto nº 2.784/1913 com a redação da Lei nº 12.876/2013, o segundo fuso (hora de Greenwich menos 3 horas) compreende o Distrito Federal e os Estados inteiros do RS, SC, PR, SP, RJ, MG, ES, GO, TO, BA, SE, AL, PE, PB, RN, CE, PI, MA, PA e AP; o terceiro (menos 4 horas), MT, MS, RO, RR e a parte do Amazonas a leste da linha Tabatinga–Porto Acre; o quarto (menos 5 horas), o Acre e a parte do Amazonas a oeste dessa linha.",
+   "source_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12876.htm",
+   "locator": "Lei nº 12.876, de 30/10/2013, art. 1º (nova redação do art. 2º, alíneas b, c e e, do Decreto nº 2.784/1913)",
+   "quote": "b) o segundo fuso, caracterizado pela hora de Greenwich menos três horas, compreende o Distrito Federal e os Estados do Rio Grande do Sul, de Santa Catarina, do Paraná, de São Paulo, do Rio de Janeiro, de Minas Gerais, do Espírito Santo, de Goiás, do Tocantins, da Bahia, de Sergipe, de Alagoas, de Pernambuco, da Paraíba, do Rio Grande do Norte, do Ceará, do Piauí, do Maranhão, do Pará e do Amapá",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-capitao-1-01 (claim dizia 'vale para o litoral', erro de escopo). Texto relido em 2026-10-08."
+  },
+  {
+   "id": "extra-fechamento-cvtr-11",
+   "topic": "cursos-br",
+   "claim": "No texto do Decreto nº 2.784/1913, o primeiro fuso (hora de Greenwich menos 2 horas) compreende o arquipélago de Fernando de Noronha e a ilha da Trindade. O Manual de Navegação da Marinha (vol. II, item 19.11.3) inclui no primeiro fuso também o arquipélago de São Pedro e São Paulo.",
+   "source_url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/dpl2784-1913.htm",
+   "locator": "Decreto nº 2.784, de 18/06/1913, art. 2º, alínea a",
+   "quote": "a) o primeiro fuso, caracterizado pela hora de Greenwich 'menos duas horas', comprehende o archipelago Fernando de Noronha e a ilha da Trindade",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-capitao-1-02. A inclusão de São Pedro e São Paulo vem do Manual de Navegação da MB, vol. II (DHN, 1ª rev. 2021), item 19.11.3: 'o primeiro fuso, em que a hora legal é igual à de Greenwich diminuída de duas horas, compreende o arquipélago de Fernando de Noronha, a ilha da Trindade e o arquipélago de São Pedro e São Paulo' (https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf). Texto histórico de 1913 lido; a redação consolidada não foi relida."
+  },
+  {
+   "id": "extra-fechamento-cvtr-12",
+   "topic": "normam-211",
+   "claim": "Pela NORMAM-211, art. 3.27.1, as embarcações de esporte e recreio com menos de 24 m têm a lotação determinada pelo estaleiro construtor; quando o dado não for disponibilizado ou a embarcação for de fabricação artesanal, a lotação deve ser estabelecida pelas normas de lotação e PMC do anexo 7-F da NORMAM-201/DPC ou do anexo 6-G da NORMAM-202/DPC. Pelo art. 3.27.2, as de 24 m ou mais destinadas a mar aberto devem ter a estabilidade intacta avaliada pelo Capítulo 7 da NORMAM-201/DPC, no que for aplicável.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, arts. 3.27.1 e 3.27.2",
+   "quote": "Quando por qualquer motivo este dado não for disponibilizado pelo estaleiro construtor ou quando se tratar de embarcação de fabricação artesanal, a determinação da lotação deverá ser estabelecida utilizando as normas para lotação de passageiros e do peso máximo de carga (PMC)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-capitao-2-03 (claim omitia a exceção do item 3.27.1). Lido em research/acervo/normam-211.txt."
+  },
+  {
+   "id": "extra-fechamento-cvtr-13",
+   "topic": "normam-211",
+   "claim": "Pela NORMAM-211, art. 4.19.3, as embarcações de grande porte ou iates construídas após 11/02/2000 devem ter radar de 9 GHz (as classificadas para navegação costeira ou oceânica) e ecobatímetro; para as embarcações menores o emprego é recomendado.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 4.19.3 a) e b)",
+   "quote": "Ecobatímetro - as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-mestre-3-02 (claim dizia 'só são obrigatórios' e omitia a restrição do radar à navegação costeira ou oceânica)."
+  },
+  {
+   "id": "extra-fechamento-cvtr-14",
+   "topic": "normam-211",
+   "claim": "Pelo Anexo 4-B da NORMAM-211 (arquivo do anexo, item 4.5), é recomendável que as embarcações que se dirijam a portos estrangeiros ou se afastem sistematicamente a mais de 100 milhas náuticas da costa tenham EPIRB 406 MHz; o PDF consolidado da norma traz o mesmo item com a redação 'É obrigatório'. A obrigatoriedade na navegação oceânica vem da dotação do Capítulo 4 (art. 4.24).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 4.5 (arquivo do anexo) e texto consolidado (PDF)",
+   "quote": "É recomendável que as embarcações que se dirijam a portos estrangeiros, ou que se afastem, sistematicamente, a mais de 100 milhas náuticas da costa, sejam dotadas com o equipamento denominado “Rádio Baliza Indicadora de Posição em Emergência” (EPIRB-406MHz).",
+   "official": true,
+   "confidence": "media",
+   "notes": "Substitui extra-capitao-3-16. As duas versões foram lidas em research/acervo (normam-211.txt, 'É obrigatório', e normam211_anexos/N211 - Anexo 4-B.txt, 'É recomendável'); só a Capitania pode dizer qual vale na inspeção."
+  },
+  {
+   "id": "extra-fechamento-cvtr-15",
+   "topic": "cursos-br",
+   "claim": "A página da DPC sobre o exame de Capitão-Amador publica provas e gabaritos de CPA desde 2017 (em 2017 só há 'Prova e Gabarito'); as relações de aprovados aparecem a partir de 2018.",
+   "source_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "locator": "Lista por ano; inventário em research/provas_antigas.md (página aberta em 2026-10-07)",
+   "quote": "2017 | CPA-1 - Prova e Gabarito ... 2018 | CPA-2 - Relação dos Aprovados",
+   "official": true,
+   "confidence": "media",
+   "notes": "Substitui normas-90 (claim dizia 'listas de aprovados desde 2017'). A página tem proteção Cloudflare e não pôde ser reaberta em 2026-10-08; o inventário foi feito com Chrome real em 2026-10-07."
+  },
+  {
+   "id": "extra-fechamento-cvtr-16",
+   "topic": "gmdss",
+   "claim": "No relatório de 2024 sobre a NAVAREA V, o Brasil informa que concluía os trâmites internos para aderir ao serviço EGC da Iridium e que, se tudo ficasse pronto até o fim de 2024, as transmissões operacionais de avisos começariam em 1º de janeiro de 2025.",
+   "source_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "locator": "IHO WWNWS16 (2024), NAVAREA V Self Assessment, item 2.1 (p. 3) e resumo",
+   "quote": "Brazil is currently completing internal administrative procedures to join the EGC service provided by Iridium. If all administrative processes are completed by the end of 2024, MSI transmissions with operational status are scheduled to begin on January 1, 2025.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Mesmo documento: 'There are no NAVTEX services provided within NAVAREA V.' (item 2.2). Não foi encontrado relatório de 2025 confirmando o início da transmissão pela Iridium."
+  },
+  {
+   "id": "extra-fechamento-cvtr-17",
+   "topic": "gmdss",
+   "claim": "Pelo Regulamento de Radiocomunicações (Art. 32, Nos. 32.17 e 32.29A), o navio que receba uma chamada de socorro por radiotelefonia no canal 16 do VHF (156,8 MHz) e não a veja confirmada por uma estação costeira ou por outro navio em cinco minutos deve confirmar o recebimento ao navio em perigo e usar qualquer meio para retransmitir a chamada a uma estação costeira.",
+   "source_url": "https://www.itu.int/pub/R-REG-RR",
+   "locator": "UIT, Regulamento de Radiocomunicações, Art. 32, Nos. 32.16 a 32.19 e 32.29A (texto WRC-07)",
+   "quote": "Ship stations in receipt of a distress call sent by radiotelephony on the frequency 156.8 MHz (VHF channel 16) shall, if the call is not acknowledged by a coast station or another vessel within five minutes, acknowledge receipt to the vessel in distress and use any means available to relay the distress call to an appropriate coast station or coast earth station",
+   "official": true,
+   "confidence": "media",
+   "notes": "Texto lido numa cópia do Art. 32 (edição WRC-07) em http://gg-kamratforening.se/roc/Manuals/ARTICLE%2032%20o%2033.pdf; a numeração e a redação da edição vigente (2024) devem ser conferidas na publicação da UIT. O prazo de 5 minutos NÃO consta do material de apoio da Anatel de 2026-03."
+  },
+  {
+   "id": "extra-fechamento-cvtr-18",
+   "topic": "normam-211",
+   "claim": "Pelo item 5 do Anexo 4-B da NORMAM-211 (Prudência na navegação), os condutores devem usar as embarcações de forma racional e prudente, evitando manobras arriscadas, conhecer a região em que vão operar, conhecer e cumprir as regras de segurança de operação e aprender a boa prática marinheira.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 5",
+   "quote": "Os condutores de embarcações devem utilizá-las de forma racional e prudente, procurando evitar manobras arriscadas e potencialmente perigosas à vida humana e à propriedade alheia.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Lido em research/acervo/normam211_anexos/N211 - Anexo 4-B.txt. Registrado para a questão vela-2-024 (curso Vela, vela-2.js e banco), cuja referência não tinha fato próprio."
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+/* meteo-sinotica — carta sinótica esquemática. Só tokens. Convenção da carta: A azul, B vermelho; frente fria azul,
+   quente vermelha, oclusa roxa (magenta), estacionária alternando azul e vermelho. */
+.ms-raiz {
+  container-type: inline-size;
+  --ms-alta: var(--nav-blue);
+  --ms-baixa: var(--nav-red);
+  --ms-fria: var(--nav-blue);
+  --ms-quente: var(--nav-red);
+  --ms-oclusa: var(--magenta);
+  --ms-mar: var(--sea-1);
+  --ms-isob: color-mix(in srgb, var(--ink) 62%, var(--sea-1));
+  --ms-vento: var(--ink);
+  --ms-halo: var(--sea-1);
+}
+
+.ms-modo button, .ms-hem button { min-height: 40px; }
+.ms-ctl { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-4); align-items: center; }
+.ms-ctl .ms-campo { display: flex; align-items: center; gap: var(--s-2); flex: 1 1 240px; min-width: 0; }
+.ms-ctl .ms-sel { flex: 1 1 0; width: 1px; min-width: 0; max-width: 100%; }
+.ms-ctl { max-width: 100%; min-width: 0; }
+.ms-rot { font-weight: 650; font-size: 0.93rem; }
+.ms-sel { width: auto; max-width: 100%; min-height: 40px; }
+.ms-sw { min-height: 40px; font-size: 0.95rem; }
+.ms-nota-hem { font-size: 0.88rem; color: var(--ink-2); }
+.ms-hem-nota { color: var(--ink-2); }
+
+.ms-corpo { padding: var(--s-4); }
+@container (max-width: 520px) { .ms-corpo { padding: var(--s-3); } }
+.ms-carregando { margin: 0; padding: var(--s-5); color: var(--ink-2); text-align: center; }
+
+/* ---- disposição: mapa grande, painel ao lado quando há espaço ---- */
+.ms-cols { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-4); align-items: start; }
+@container (min-width: 880px) { .ms-cols { grid-template-columns: minmax(0, 1.55fr) minmax(280px, 1fr); } }
+.ms-col-mapa, .ms-col-info { min-width: 0; display: flex; flex-direction: column; gap: var(--s-3); }
+.ms-mapa-cx { min-width: 0; border: 1px solid var(--line); border-radius: var(--r-panel); overflow: hidden; background: var(--ms-mar); line-height: 0; }
+.ms-svg { display: block; width: 100%; height: auto; touch-action: manipulation; cursor: crosshair; user-select: none; -webkit-user-select: none; }
+.ms-svg:focus-visible { outline: none; box-shadow: inset 0 0 0 3px var(--magenta); }
+
+.ms-resumo { margin: 0; font-size: 0.95rem; line-height: 1.5; color: var(--ink); }
+
+/* ---- fundo da carta ---- */
+.ms-mar { fill: var(--ms-mar); }
+.ms-grat { fill: none; stroke: var(--line); stroke-width: 0.6; stroke-dasharray: 2 4; opacity: 0.8; }
+.ms-grat-rot text, .ms-grat-t { font-size: 11.5px; fill: var(--ink-3); }
+.ms-terra { fill: var(--land); stroke: var(--land-ink); stroke-width: 0.8; stroke-opacity: 0.5; }
+.ms-agua { font-size: 12px; font-style: italic; fill: var(--ink-3); letter-spacing: 0.04em; }
+.ms-cidade-p { fill: var(--ink); stroke: var(--land); stroke-width: 1; }
+.ms-cidade { font-size: 11.5px; fill: var(--land-ink); paint-order: stroke; stroke: var(--land); stroke-width: 2.5px; stroke-linejoin: round; }
+.ms-zcit { opacity: 0.9; }
+.ms-zcit-traco { fill: color-mix(in srgb, var(--ms-baixa) 38%, transparent); }
+.ms-zcit-leg { fill: color-mix(in srgb, var(--ms-baixa) 22%, transparent); stroke: var(--ms-baixa); stroke-width: 0.8; }
+.ms-rotulo-zcit { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; fill: var(--ms-baixa); paint-order: stroke; stroke: var(--ms-mar); stroke-width: 3px; stroke-linejoin: round; }
+
+/* ---- isóbaras ---- */
+.ms-isobara { fill: none; stroke: var(--ms-isob); stroke-width: 1; opacity: 0.8; stroke-linecap: round; }
+.ms-isobara-8 { stroke-width: 1.7; opacity: 1; }
+.ms-isob-t { font-size: 11px; font-weight: 700; fill: var(--ink); paint-order: stroke; stroke: var(--ms-halo); stroke-width: 3.5px; stroke-linejoin: round; }
+
+/* ---- centros de pressão ---- */
+.ms-letra { font-size: 30px; font-weight: 800; }
+.ms-centro-A .ms-letra, .ms-letra-A { fill: var(--ms-alta); }
+.ms-centro-B .ms-letra, .ms-letra-B { fill: var(--ms-baixa); }
+.ms-centro .ms-letra { paint-order: stroke; stroke: var(--ms-halo); stroke-width: 4px; stroke-linejoin: round; }
+.ms-leg-svg .ms-letra { font-size: 22px; }
+.ms-valor { font-size: 12px; font-weight: 700; fill: var(--ink); paint-order: stroke; stroke: var(--ms-halo); stroke-width: 3.5px; stroke-linejoin: round; }
+.ms-giro { fill: none; stroke: var(--ink-2); stroke-width: 1.4; stroke-dasharray: 1 0; opacity: 0.8; }
+.ms-centro-A .ms-giro { stroke: var(--ms-alta); }
+.ms-centro-B .ms-giro { stroke: var(--ms-baixa); }
+.ms-ponta-giro { fill: var(--ink-2); }
+
+/* ---- frentes ---- */
+.ms-f-linha { fill: none; stroke: var(--ink); stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+.ms-simb { fill: var(--ink); stroke: none; }
+.ms-f-fria .ms-f-linha, .ms-f-fria .ms-simb { stroke: var(--ms-fria); }
+.ms-f-fria .ms-simb { fill: var(--ms-fria); }
+.ms-f-quente .ms-f-linha { stroke: var(--ms-quente); }
+.ms-f-quente .ms-simb { fill: var(--ms-quente); stroke: none; }
+.ms-f-oclusa .ms-f-linha { stroke: var(--ms-oclusa); }
+.ms-f-oclusa .ms-simb { fill: var(--ms-oclusa); stroke: none; }
+.ms-f-estacionaria .ms-f-linha { stroke: var(--ms-fria); }
+.ms-f-estacionaria .ms-f-cor-quente { stroke: var(--ms-quente); }
+.ms-f-estacionaria .ms-f-cor-fria { stroke: var(--ms-fria); }
+.ms-f-cor-fria { stroke: var(--ms-fria); }
+.ms-f-cor-quente { stroke: var(--ms-quente); }
+.ms-f-cor-fria-f { fill: var(--ms-fria); stroke: none; }
+.ms-f-cor-quente-f { fill: var(--ms-quente); stroke: none; }
+.ms-f-fria .ms-simb, .ms-f-quente .ms-simb, .ms-f-oclusa .ms-simb { stroke: none; }
+.ms-f-fria .ms-f-linha { stroke: var(--ms-fria); }
+.ms-f-tracejada { stroke: var(--ink-2); stroke-width: 1.8; stroke-dasharray: 7 5; }
+.ms-f-zz { stroke: var(--ink-2); stroke-width: 1.8; }
+.ms-f-cavado .ms-f-linha, .ms-f-crista .ms-f-linha { stroke: var(--ink-2); }
+
+/* ---- campo de vento e sonda ---- */
+.ms-campo path { fill: none; stroke: var(--ms-vento); stroke-width: 1.3; opacity: 0.55; stroke-linecap: round; }
+.ms-ponta-campo, .ms-ponta { fill: var(--ms-vento); }
+.ms-sonda-p { fill: var(--magenta); stroke: var(--surface); stroke-width: 2; }
+.ms-sonda-vento { fill: none; stroke: var(--magenta); stroke-width: 3; stroke-linecap: round; }
+.ms-svg marker .ms-ponta { fill: var(--magenta); }
+.ms-sonda-isob { fill: none; stroke: var(--ink); stroke-width: 1.4; stroke-dasharray: 5 4; opacity: 0.7; }
+.ms-sonda-arco { fill: none; stroke: var(--ink-2); stroke-width: 1.2; }
+.ms-sonda-ang { font-size: 12px; font-weight: 700; fill: var(--ink); paint-order: stroke; stroke: var(--ms-halo); stroke-width: 3px; stroke-linejoin: round; }
+.ms-sonda-rot { font-size: 12px; font-weight: 700; fill: var(--magenta); paint-order: stroke; stroke: var(--surface); stroke-width: 4px; stroke-linejoin: round; }
+
+/* ---- tempo (hora da carta) ---- */
+.ms-tempo:empty { display: none; }
+.ms-tempo-linha { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2) var(--s-3); }
+.ms-hora { font-weight: 700; font-variant-numeric: tabular-nums; min-width: 4.5ch; }
+.ms-faixa-cx { flex: 1 1 160px; min-width: 120px; display: flex; align-items: center; min-height: 40px; }
+.ms-faixa { width: 100%; accent-color: var(--magenta); min-height: 40px; }
+.ms-tempo-linha .btn { min-height: 40px; min-width: 40px; }
+.ms-play { min-height: 40px; }
+
+/* ---- painel do ponto ---- */
+.ms-painel { border: 1px solid var(--line); border-radius: var(--r-panel); background: var(--shoal); padding: var(--s-3) var(--s-4); display: flex; flex-direction: column; gap: var(--s-2); }
+.ms-painel > p { margin: 0; }
+.ms-p-local { font-size: 0.85rem; color: var(--ink-2); }
+.ms-p-vento { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--s-1) var(--s-3); }
+.ms-p-dir { font-size: 1.3rem; font-weight: 760; color: var(--magenta); }
+.ms-p-graus { font-size: 0.92rem; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.ms-p-dl { margin: 0; display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: var(--s-1) var(--s-3); font-size: 0.92rem; }
+.ms-p-dl dt { color: var(--ink-2); font-weight: 600; }
+.ms-p-dl dd { margin: 0; overflow-wrap: anywhere; }
+@container (max-width: 520px) { .ms-p-dl { grid-template-columns: minmax(0, 1fr); } .ms-p-dl dd { margin-bottom: var(--s-1); } }
+.ms-p-bb { font-size: 0.88rem; color: var(--ink-2); border-left: 3px solid var(--magenta); padding-left: var(--s-3); }
+
+.ms-tend { border-top: 1px solid var(--line); padding-top: var(--s-2); display: flex; flex-direction: column; gap: var(--s-2); }
+.ms-tend p { margin: 0; font-size: 0.92rem; }
+.ms-tend-fila { display: grid; grid-template-columns: repeat(auto-fit, minmax(54px, 1fr)); gap: var(--s-1); }
+.ms-tend-c { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: var(--s-1); border: 1px solid var(--line); border-radius: var(--r-input); background: var(--surface); font-size: 0.8rem; }
+.ms-tend-agora { border-color: var(--magenta); box-shadow: inset 0 0 0 1px var(--magenta); }
+.ms-tend-h { color: var(--ink-2); font-weight: 600; }
+.ms-tend-d { font-weight: 700; }
+.ms-tend-p { color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.ms-tend-seta { color: var(--magenta); }
+.ms-tend-seta * { stroke: var(--magenta); fill: var(--magenta); }
+.ms-tend-r { color: var(--ink); }
+
+.ms-porque { border: 1px solid var(--line); border-radius: var(--r-panel); background: var(--surface); padding: 0 var(--s-4); }
+.ms-porque summary { cursor: pointer; font-weight: 650; padding: var(--s-3) 0; min-height: 40px; display: flex; align-items: center; }
+.ms-porque-corpo { padding-bottom: var(--s-3); font-size: 0.92rem; line-height: 1.5; }
+.ms-porque-corpo p { margin: 0 0 var(--s-2); }
+
+/* ---- cidades, legenda, fontes ---- */
+.ms-cidades:empty { display: none; }
+.ms-cid-t { margin: 0 0 var(--s-2); }
+.ms-chip { min-height: 40px; }
+
+.ms-legenda { margin-top: var(--s-4); border-top: 1px solid var(--line); padding-top: var(--s-3); }
+.ms-leg-t { margin: 0 0 var(--s-2); font-weight: 650; font-size: 0.93rem; }
+.ms-leg-lista { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: var(--s-2) var(--s-4); }
+.ms-leg-lista li { display: flex; align-items: center; gap: var(--s-3); font-size: 0.9rem; line-height: 1.35; }
+.ms-leg-svg { flex: none; width: 64px; height: 24px; }
+.ms-leg-seta { fill: none; stroke: var(--ink); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.ms-en { color: var(--ink-3); }
+
+.ms-fontes { margin-top: var(--s-4); padding: var(--s-3) var(--s-4); background: var(--shoal); border-radius: var(--r-panel); font-size: 0.9rem; }
+.ms-fontes-t { margin: 0 0 var(--s-2); font-weight: 650; }
+.ms-fontes ul { margin: 0; padding-left: var(--s-5); display: flex; flex-direction: column; gap: var(--s-1); }
+.ms-fontes a { color: var(--magenta); overflow-wrap: anywhere; }
+
+/* ---- desafio ---- */
+.ms-desafio { margin-top: var(--s-4); display: flex; flex-direction: column; gap: var(--s-3); }
+.ms-desafio[hidden] { display: none; }
+.ms-des-cab { display: flex; justify-content: space-between; gap: var(--s-3); font-size: 0.9rem; color: var(--ink-2); }
+.ms-des-cab strong { color: var(--ink); }
+.ms-enun { margin: 0; }
+.ms-dica-toque { margin: 0; font-size: 0.9rem; color: var(--ink-2); }
+.ms-des-rodape { margin-top: var(--s-2); }
+.ms-desafio .alternativa { min-height: 44px; }
+.ms-exp-desafio .ms-col-info, .ms-exp-desafio .ms-resumo { display: none; }
+.ms-exp-desafio .ms-cols { grid-template-columns: minmax(0, 1fr); }
+.ms-des-alvo { fill: color-mix(in srgb, var(--magenta) 18%, transparent); stroke: var(--magenta); stroke-width: 2; }
+.ms-des-ok { fill: color-mix(in srgb, var(--ok) 25%, transparent); stroke: var(--ok); }
+.ms-des-erro { fill: color-mix(in srgb, var(--erro) 25%, transparent); stroke: var(--erro); }
+.ms-des-rot { font-size: 12px; font-weight: 800; fill: var(--ink); }
+
+/* tema escuro: isóbaras mais claras, halos escuros */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .ms-raiz { --ms-isob: color-mix(in srgb, var(--ink) 55%, var(--sea-1)); --ms-vento: var(--ink-2); }
+}
+:root[data-theme="dark"] .ms-raiz { --ms-isob: color-mix(in srgb, var(--ink) 55%, var(--sea-1)); --ms-vento: var(--ink-2); }
+
+@media (prefers-reduced-motion: reduce) {
+  .ms-raiz * { transition: none !important; animation: none !important; }
+}
+
+/* app.css (toque) força button.chip a 36 px; aqui os alvos de toque têm 40 px */
+button.chip.ms-chip { min-height: 40px; }

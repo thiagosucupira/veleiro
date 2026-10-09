@@ -1,0 +1,142 @@
+{
+ "verdicts": [
+  {
+   "id": "s-rs-clube-dos-jangadeiros",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-rs-veleiros-do-sul",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-rs-iate-clube-guaiba",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-rs-rio-grande-yacht-club",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-rs-porto-habilitacao-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200; curso Mestre não consta, mas lista só Arrais e Motonauta, coerente."
+  },
+  {
+   "id": "s-rs-fevers",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Raiz retorna redirect JS para /fevers; /fevers/home/ 200 'FEVERS :: Federação de Vela do Rio Grande do Sul'."
+  },
+  {
+   "id": "s-rs-pro-wind-pelotas",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-icsc-sede-oceanica-jurere",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "HTTP 406 com UA simples (antibot); com cabeçalhos de navegador 200, título 'Sede Oceânica - Veleiros da Ilha'. Coordenadas conferem com as publicadas."
+  },
+  {
+   "id": "s-sc-icsc-sede-central",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "406 antibot com UA simples; 200 com cabeçalhos completos. Coordenadas conferem."
+  },
+  {
+   "id": "s-sc-hangar-do-lic",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-escola-nautica-sampaio",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-pronautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200; entidade em lista CPSC segundo pesquisador; sem vela, tipo preparatorio-cha coerente."
+  },
+  {
+   "id": "s-sc-escola-de-vela-oceano",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-travessias-oceanicas-pangeia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-marevento-itajai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-issa-brazil-itajai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-ani-itajai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-marina-itajai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-porto-belo-vela-clube",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-sc-velamagia-porto-belo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "406 antibot com UA simples; 200 com cabeçalhos completos, título Velamagia Charters; página de cursos confere."
+  },
+  {
+   "id": "s-pr-feip",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  },
+  {
+   "id": "s-pr-espaco-vela-e-voo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Página FEIP 200 'ESPAÇO VELA E VOO'; sem site próprio, aceitável."
+  },
+  {
+   "id": "s-pr-veleiro-limonada",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, título coerente com a entidade; cursos/cidade/coordenadas plausíveis."
+  }
+ ]
+}

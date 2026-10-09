@@ -1,0 +1,142 @@
+{
+ "verdicts": [
+  {
+   "id": "om-rn-agabranca",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-pb-cppb",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-pe-cppe",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis. Site da CPPE confirma Rua de São Jorge, 25 (SIM/CPPE diz Rua São José, 25: divergência já anotada)."
+  },
+  {
+   "id": "om-al-cpal",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-al-agpenedo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-se-cpse",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-ba-cpba",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-ba-delilheus",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-ba-delpseguro",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-ba-cfj",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-ba-agbjlapa",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-es-cpes",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rj-cprj",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rj-delareis",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rj-delitacuruca",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rj-agparaty",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rj-cpm",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis. Endereço confirmado no PDF da fonte."
+  },
+  {
+   "id": "om-rj-delcfrio",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis. Endereço confirmado no PDF da fonte."
+  },
+  {
+   "id": "om-rj-agsjbarra",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis. Endereço confirmado no PDF da fonte."
+  },
+  {
+   "id": "om-mg-cfmg",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-mg-delpirapora",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis. Endereço confirmado no PDF da fonte."
+  },
+  {
+   "id": "om-mg-delfurnas",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-sp-cpsp",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (HTTP 200 via navegador real; direto 403 Cloudflare), título coerente com a OM; endereço da evidência conferido na página/PDF da fonte; cidade/UF e coordenadas plausíveis."
+  }
+ ]
+}

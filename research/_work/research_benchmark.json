@@ -1,0 +1,1215 @@
+{
+ "file_written": "/home/sobranceiro/veleiro_certificacoes/research/benchmark.md",
+ "claims": [
+  {
+   "id": "benchmark-01",
+   "topic": "rya-estrutura",
+   "claim": "O esquema de cruzeiro a vela da RYA tem cursos práticos (Start Yachting, Competent Crew, Day Skipper, Coastal Skipper) e cursos em terra (Essential Navigation and Seamanship, Day Skipper Theory, Coastal Skipper/Yachtmaster Offshore Theory, Marine Radio SRC, Yachtmaster Ocean Theory), que levam aos certificados Yachtmaster Coastal, Offshore e Ocean.",
+   "source_url": "https://www.rya.org.uk/training/sail-cruising-courses/",
+   "locator": "Sail cruising courses: seções 'Practical courses', 'Courses ashore' e 'RYA Yachtmaster® exams'",
+   "quote": "Our practical and theory courses will take you from complete beginner to capable skipper and beyond",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-02",
+   "topic": "rya-estrutura",
+   "claim": "A RYA descreve o Yachtmaster Offshore como apto a passagens de até 150 milhas da costa e o Yachtmaster Ocean como apto a navegar no mundo todo.",
+   "source_url": "https://www.rya.org.uk/training/sail-cruising-courses/",
+   "locator": "seção 'RYA Yachtmaster® exams'",
+   "quote": "RYA Yachtmaster Offshore You are competent to undertake passages up to 150 miles offshore RYA Yachtmaster Ocean You have the knowledge and experience to sail worldwide",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-03",
+   "topic": "rya-day-skipper-theory",
+   "claim": "O RYA Day Skipper Theory tem 40 horas mais o tempo de exame e pode ser feito em sala, online ou a distância.",
+   "source_url": "https://www.rya.org.uk/course-finder/day-skipper-theory-course/",
+   "locator": "Course overview: 'Course length' e 'Course format'",
+   "quote": "40 hours plus exam time. [...] This course can be taken in the classroom, online or by distance learning.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-04",
+   "topic": "rya-day-skipper-theory",
+   "claim": "O RYA Day Skipper Theory é aberto a qualquer pessoa; experiência prática é desejável, mas não exigida, e não há idade mínima.",
+   "source_url": "https://www.rya.org.uk/course-finder/day-skipper-theory-course/",
+   "locator": "Course description; Course overview: 'Minimum age'",
+   "quote": "The RYA Day Skipper Theory course is open to anyone and while some practical experience is desirable, it is not required.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-05",
+   "topic": "rya-day-skipper-theory",
+   "claim": "O conteúdo do RYA Day Skipper Theory inclui marinharia, navegação costeira e pilotagem, trabalho na carta, cartas eletrônicas, determinação da posição, rumo a governar, meteorologia, marés e regras de prevenção de abalroamento.",
+   "source_url": "https://www.rya.org.uk/course-finder/day-skipper-theory-course/",
+   "locator": "seção 'Course content'",
+   "quote": "Course content Seamanship Coastal navigation and pilotage Chartwork Electronic charts Position fixing Plotting a course to steer Weather forecasting and meteorology Tides Collision regulations",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-06",
+   "topic": "rya-coastal-offshore-theory",
+   "claim": "O RYA Coastal Skipper/Yachtmaster Offshore Theory tem 40 horas mais exame, exige conhecimento no nível do Day Skipper Shorebased e pode ser feito em sala, online ou a distância.",
+   "source_url": "https://www.rya.org.uk/course-finder/coastal-skipperyachtmaster-offshore-theory-course/",
+   "locator": "Course overview",
+   "quote": "40 hours plus exam time Course format This is a shorebased course that can be taken in the classroom, online or by distance learning. Required experience Knowledge to the level of Day Skipper Shorebased.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-07",
+   "topic": "rya-coastal-offshore-theory",
+   "claim": "O conteúdo do Coastal Skipper/Yachtmaster Offshore Theory inclui determinação da posição, traçado de rumos, marés, uso de almanaques e publicações do Almirantado, equipamentos eletrônicos de posição, previsões, traçado de sistemas meteorológicos e previsão com barômetro.",
+   "source_url": "https://www.rya.org.uk/course-finder/coastal-skipperyachtmaster-offshore-theory-course/",
+   "locator": "seção 'Course content'",
+   "quote": "Position fixing Course shaping and plotting Tidal knowledge Use of almanacs and admiralty publications Electronic position finding equipment Taking and interpreting forecasts Plotting weather systems Weather predictions using a barometer",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-08",
+   "topic": "rya-ocean-theory",
+   "claim": "O RYA Yachtmaster Ocean Theory (40 horas mais exame) ensina navegação astronômica: esfera celeste, uso e cuidado do sextante, altura meridiana, retas do Sol, estrelas e outros astros, e planejamento de travessias oceânicas.",
+   "source_url": "https://www.rya.org.uk/course-finder/yachtmaster-ocean-theory-course/",
+   "locator": "Course overview e 'Course content'",
+   "quote": "The earth and the celestial sphere Practical guide to use and care of sextant at sea Meridian altitudes Sun, star and other sights Ocean passage planning",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-09",
+   "topic": "rya-ocean-theory",
+   "claim": "O Yachtmaster Ocean Theory também cobre meteorologia mundial, incluindo tempestades tropicais, e exige navegação no nível do Coastal Skipper/Yachtmaster Offshore Shorebased.",
+   "source_url": "https://www.rya.org.uk/course-finder/yachtmaster-ocean-theory-course/",
+   "locator": "Course description; Course overview: 'Required experience'",
+   "quote": "This course will also cover the concepts of worldwide meteorology, including tropical revolving storms, and passage planning for ocean voyaging.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-10",
+   "topic": "rya-ens",
+   "claim": "O RYA Essential Navigation and Seamanship dura 16 horas em sala ou cerca de 8 a 10 horas online; vem com kit (carta, plotador, compasso de pontas, manual e exercícios) e, online, tem exercícios interativos.",
+   "source_url": "https://www.rya.org.uk/course-finder/essential-navigation-and-seamanship-course/",
+   "locator": "Course description; Course overview: 'Course length'",
+   "quote": "you'll be provided with a helpful course pack, including a chart, plotter, dividers, course handbook and exercises. [...] For those joining online, you’ll experience a variety of interactive exercises",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-11",
+   "topic": "rya-src",
+   "claim": "O curso RYA Marine Radio SRC tem 10 horas mais exame; pode ser feito online ou em sala, mas o exame é presencial; idade mínima de 16 anos.",
+   "source_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "locator": "Course overview",
+   "quote": "10 hours plus exam time. Course format This course is based either online or in the classroom with the exam taking place in the classroom. Required experience None Minimum age 16",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-12",
+   "topic": "rya-src",
+   "claim": "O curso SRC online da RYA exige microfone e alto-falantes/fones, o que indica prática de fala no rádio dentro do curso.",
+   "source_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "locator": "seção 'SRC online course' (requisitos técnicos)",
+   "quote": "For this course you will need: Internet connection (broadband or 3G). Charges may apply for 3G JavaScript enabled in your web browser Microphone and speakers/headphones",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-13",
+   "topic": "rya-src",
+   "claim": "O exame SRC tem prova teórica escrita e avaliação prática no uso do VHF; a taxa de exame é de £76, paga à RYA, separada do preço do curso, que cada centro define.",
+   "source_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "locator": "seções 'SRC Exam' e 'The exam fee'",
+   "quote": "SRC exams include a written theory question paper and a practical assessment on the use of marine VHF radios. [...] The SRC exam fee is £76 [...] Note that training course fees are set by individual training centres.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-14",
+   "topic": "rya-interactive",
+   "claim": "A RYA Interactive (plataforma de cursos online da RYA) mudou para uma nova plataforma em abril de 2026: o site antigo fechou em 7/4/2026, com reabertura prevista até 14/4/2026, e o progresso dos alunos não foi transferido.",
+   "source_url": "https://www.rya.org.uk/training/rya-elearning/rya-interactive/",
+   "locator": "página 'RYA Interactive', aviso e FAQ",
+   "quote": "The current RYA Interactive site will close on Tuesday 7 April 2026, with the aim to reopen as soon as possible, but no later than Tuesday 14 April 2026.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A página não diz se a nova plataforma já abriu. Em 2026-10-07, www.ryainteractive.org abria só uma tela de login (SPA), sem conteúdo público."
+  },
+  {
+   "id": "benchmark-15",
+   "topic": "rya-interactive",
+   "claim": "O acesso a um curso da RYA Interactive dura no máximo 12 meses a partir da matrícula; depois, a conta é apagada e a conclusão fica registrada no banco de dados da RYA.",
+   "source_url": "https://www.rya.org.uk/network/training-centres-and-instructors/online-course-data-protection/",
+   "locator": "seção 'Length of access'",
+   "quote": "Access to RYA Interactive courses is provided for a maximum period of 12 months from the date of enrolment",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-16",
+   "topic": "rya-elearning",
+   "claim": "Segundo a RYA, para obter o certificado SRC após o curso online é preciso passar numa avaliação presencial.",
+   "source_url": "https://www.rya.org.uk/training/rya-elearning/",
+   "locator": "página 'RYA eLearning', seção 'Get qualified'",
+   "quote": "In order to obtain a Short Range Certificate of Competence at the end of the course, applicants must successfully complete a face to face assessment.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-17",
+   "topic": "rya-material",
+   "claim": "O e-book oficial RYA Day Skipper Shorebased Notes custa £14,99, é da edição de 2024 (atualizada em 2025), cobre navegação feita com aparelhos eletrônicos, segue o padrão de acessibilidade WCAG 2.0 AA e é lido no app 'RYA Books'.",
+   "source_url": "https://www.rya.org.uk/products/rya-day-skipper-shorebased-notes-ebook-1/",
+   "locator": "página do produto: preço, descrição e 'Product details'",
+   "quote": "As well as including the capabilities and techniques employed in device-led navigation, it comprehensively covers the syllabus",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Preço, edição (2024), atualização (2025) e 'WCAG 2.0 AA' estão no bloco 'Product details' da mesma página."
+  },
+  {
+   "id": "benchmark-18",
+   "topic": "rya-logbook",
+   "claim": "A RYA vende o 'Yachtmaster Scheme Syllabus and Logbook' (G158), que reúne o programa do esquema e o diário de bordo de experiência, por £8,49.",
+   "source_url": "https://www.rya.org.uk/products/rya-day-skipper-shorebased-notes-ebook-1/",
+   "locator": "lista de produtos relacionados na página",
+   "quote": "RYA Yachtmaster Scheme Syllabus and Logbook £8.49",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O código G158 aparece nas páginas dos exames Yachtmaster Offshore e Ocean."
+  },
+  {
+   "id": "benchmark-19",
+   "topic": "rya-pratica",
+   "claim": "O RYA Competent Crew é um curso prático de 5 dias, sem experiência prévia, com idade recomendada a partir de 12 anos.",
+   "source_url": "https://www.rya.org.uk/course-finder/competent-crew-practical-course/",
+   "locator": "Course overview",
+   "quote": "5 days, Often run over 3 weekends or 3 days plus a weekend. [...] Required experience None Minimum age Recommended age 12",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-20",
+   "topic": "rya-pratica",
+   "claim": "O RYA Day Skipper prático (vela) dura 5 dias e exige antes 5 dias, 100 milhas e 4 horas noturnas a bordo de um veleiro, mais teoria no nível Day Skipper Shorebased; idade mínima 16.",
+   "source_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "locator": "Course overview",
+   "quote": "Basic sailing ability. 5 days, 100 miles and 4 night hours onboard a sailing yacht. Navigation and theory knowledge to Day Skipper Shorebased level. Minimum age 16",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-21",
+   "topic": "rya-yachtmaster-offshore",
+   "claim": "Para o exame Yachtmaster Offshore, a RYA exige, nos últimos 10 anos: 50 dias de mar, 5 dias como comandante, 2.500 milhas e 5 passagens de mais de 60 milhas, sendo 2 noturnas e 2 como comandante.",
+   "source_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-offshore-exam/",
+   "locator": "seção 'RYA Yachtmaster Offshore exam pre-requisites' > 'Minimum seatime'",
+   "quote": "50 days at sea on yachts up to 500gt( [...] 5 days as skipper on vessels less than 24m LOA [...] 2500 miles on yachts up to 500gt( [...] 5 passages over 60 miles long, which must include 2 overnight passages and 2 as skipper",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-22",
+   "topic": "rya-yachtmaster-offshore",
+   "claim": "O exame prático Yachtmaster Offshore dura de 8 a 12 horas para um candidato e exige certificado de radioperador compatível com o GMDSS (como o SRC) e certificado de primeiros socorros.",
+   "source_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-offshore-exam/",
+   "locator": "seções 'Minimum exam duration' e 'Required certificates'",
+   "quote": "8-12 hours for 1 candidate, 10-18 hours for 2 candidates. [...] A GMDSS compliant Marine Radio Operator's Certificate such as the RYA Short Range Certificate, or higher. An RYA First Aid Certificate",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-23",
+   "topic": "rya-yachtmaster-ocean",
+   "claim": "Para o Yachtmaster Ocean, a RYA exige uma passagem qualificatória de pelo menos 600 milhas (200 delas a mais de 50 milhas de terra) e 96 horas, em posição de responsabilidade, e prova de navegação astronômica feita no mar (meridiana do Sol e checagem da agulha por astro).",
+   "source_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-ocean-exam/",
+   "locator": "seção 'RYA Yachtmaster Ocean exam pre-requisites'",
+   "quote": "600M including at least 200M more than 50 miles from land or charted objects capable of being used for navigation; - Duration of at least 96 hours;",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-24",
+   "topic": "rya-yachtmaster-ocean",
+   "claim": "O exame Yachtmaster Ocean é oral e escrito (cálculo de retas e meteorologia mundial) e dura cerca de 1,5 a 2 horas; o candidato entrega antes um relato da passagem qualificatória e os registros de navegação sem eletrônicos.",
+   "source_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-ocean-exam/",
+   "locator": "descrição do exame e 'Exam duration'",
+   "quote": "The written exam will include questions on sights and sight reduction and worldwide meteorology.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-25",
+   "topic": "rya-digital-first",
+   "claim": "Imprensa do setor (Marine Industry News, 16/6/2026) relata que a RYA ensina a navegação eletrônica como método principal ('digital first'), mantendo a carta de papel como habilidade de reserva; o texto foi corrigido em 19/6/2026 para dizer que isso não é uma mudança nova.",
+   "source_url": "https://marineindustrynews.co.uk/rya-moves-to-digital-first-navigation-training-as-paper-charts-withdrawn/",
+   "locator": "corpo do artigo e nota de correção no fim",
+   "quote": "electronic navigation tools are being taught as the primary method of navigation, while traditional chartwork remains part of the syllabus as a backup skill.",
+   "official": false,
+   "confidence": "media",
+   "notes": "Fonte não oficial. Não achei documento da RYA com data de vigência do 'digital first'."
+  },
+  {
+   "id": "benchmark-26",
+   "topic": "rya-online-centro",
+   "claim": "A Navathome, centro de treinamento que vende o RYA Day Skipper online, cobra £275 e anuncia simuladores embutidos de chartplotter, rádio VHF e radar, curvas de maré interativas e acesso inicial de 6 meses.",
+   "source_url": "https://www.navathome.com/rya-day-skipper.aspx",
+   "locator": "bloco de oferta 'RYA DAY SKIPPER ONLINE TRAINING'",
+   "quote": "£275 [...] Embedded Chartplotter Simulator Embedded VHF Radio Simulator Interactive Online Tidal Curves [...] Initial 6 Months of Course Access [...] Interactive Online Mini Radar Simulator",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-27",
+   "topic": "rya-online-centro",
+   "claim": "No Day Skipper online da Navathome, o estudo leva cerca de 40 horas, com quizzes por módulo e avaliação final em duas partes de cerca de 1,5 hora cada.",
+   "source_url": "https://www.navathome.com/rya-day-skipper.aspx",
+   "locator": "seção 'Invigilated Assessment Information'",
+   "quote": "Completing the course typically takes around 40 hours of dedicated study. To assess your understanding, there are quizzes and exercises to help you gain a better understanding of each module. A final assessment is completed at the end of the course, consisting of two parts",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-28",
+   "topic": "rya-online-centro",
+   "claim": "O Yachtmaster Ocean online da Navathome custa £275, não exige sextante (usa lições animadas interativas) e termina com avaliação de 2 horas.",
+   "source_url": "https://www.navathome.com/rya-yachtmaster-ocean.aspx",
+   "locator": "bloco de oferta e 'Is this course right for you?'",
+   "quote": "No sextant is required for the course as fully interactive animated lessons are included. The final assessment takes 2 hours which is taken in one sitting.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-29",
+   "topic": "asa-estrutura",
+   "claim": "O ASA 101 (Keelboat Sailing 1) é para iniciantes sem pré-requisito e prepara para comandar um veleiro de quilha de 20 a 27 pés de dia, com vento de até 15 nós.",
+   "source_url": "https://americansailing.com/learn-to-sail/certifications/asa-101-keelboat-sailing-1/",
+   "locator": "seção 'WHAT YOU'LL LEARN'",
+   "quote": "you’ll be equipped to skipper a sloop-rigged keelboat ranging from 20 to 27 feet in length, confidently navigating in daylight and in light to moderate conditions, with winds up to 15 knots.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-30",
+   "topic": "asa-avaliacao",
+   "claim": "Na ASA, a certificação depende de demonstrar as habilidades na água e passar na prova escrita; o ASA 101 costuma durar dois dias inteiros, com cerca de 4 alunos por instrutor.",
+   "source_url": "https://americansailing.com/learn-to-sail/certifications/asa-101-keelboat-sailing-1/",
+   "locator": "seção 'frequently asked questions'",
+   "quote": "Certification is earned by successfully demonstrating the required sailing skills on the water and passing the written exam.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-31",
+   "topic": "asa-material",
+   "claim": "Para o ASA 101, a ASA indica livro-texto (Sailing Made Easy), curso preparatório online, pacote de quizzes online e o app Sailing Challenge.",
+   "source_url": "https://americansailing.com/learn-to-sail/certifications/asa-101-keelboat-sailing-1/",
+   "locator": "seção 'STUDY MATERIALS'",
+   "quote": "ONLINE QUIZ GET THE QUIZ BUNDLE Get quizzes that help prepare you for the written test portion of your certification. APP SAILING CHALLENGE Practice points of sail and learn basic knots in our interactive app.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-32",
+   "topic": "asa-online",
+   "claim": "O 'Online Intro to Sailing' da ASA custa US$ 59 e tem 4 a 6 horas, 5 seções, 26 lições, 12 vídeos, 5 quizzes, prova final, certificado e acesso ilimitado; não dá selo no logbook.",
+   "source_url": "https://learn.americansailing.com/p/intro-to-sailing",
+   "locator": "cabeçalho do curso e FAQ",
+   "quote": "4-6 Hours English Unlimited Access 5 x Sections 26 x Lessons 12 x Videos 5 x Quizzes 1 x Final Exam Certificate $59",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-33",
+   "topic": "asa-online",
+   "claim": "O pacote de quizzes ASA 101/103/104 custa US$ 35 e tem mais de 100 questões; cada quiz avulso custa US$ 5.",
+   "source_url": "https://learn.americansailing.com/p/101-103-104-complete-bundle",
+   "locator": "página do pacote",
+   "quote": "Buy all the ASA practice quizzes and challenge your sailing knowledge with over 100 questions designed to push you and expand your knowledge.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-34",
+   "topic": "asa-online",
+   "claim": "O ASA 105 Coastal Navigation online (feito com a Starpath) custa US$ 419, leva 40 a 60 horas, dá 1 ano de acesso e vale certificação ASA.",
+   "source_url": "https://americansailing.com/starpath/asa-105-coastal-navigation/",
+   "locator": "cabeçalho do curso e 'ASA & STARPATH ONLINE COURSES'",
+   "quote": "40-60 Hours No Prerequisites 419 ASA 105, Coastal Navigation Earn your official ASA 105 certification by completing this online course from Starpath. Course Materials Included Instructors & Discussion Groups ASA Certification 1 Year Access",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-35",
+   "topic": "asa-interativo",
+   "claim": "O ASA 105 online ensina navegação tradicional e eletrônica ao mesmo tempo: o aluno resolve na carta de papel e depois no programa livre OpenCPN, com a carta de treino 18456tr.",
+   "source_url": "https://americansailing.com/starpath/asa-105-coastal-navigation/",
+   "locator": "seção 'Course Accessibility' / materiais",
+   "quote": "The Inland and Coastal Navigation online course with Starpath utilizes a free, open-source navigation program called OpenCPN.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-36",
+   "topic": "asa-online",
+   "claim": "O ASA 107 Celestial Navigation online custa US$ 419, exige o ASA 105, leva 40 a 60 horas, dá certificação e selo no logbook ao passar na prova final e não exige sextante.",
+   "source_url": "https://americansailing.com/starpath/asa-107-celestial-navigation/",
+   "locator": "cabeçalho, 'ASA 107 CERTIFICATION' e materiais",
+   "quote": "Students who complete the online course and pass the final exam will be awarded an official ASA 107 certification and seal for their logbook.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "'A sextant is not required to work this course.' está no mesmo texto."
+  },
+  {
+   "id": "benchmark-37",
+   "topic": "asa-suporte",
+   "claim": "Os cursos ASA/Starpath têm fórum de alunos acompanhado por instrutores em três fusos horários.",
+   "source_url": "https://americansailing.com/starpath/asa-107-celestial-navigation/",
+   "locator": "seção de suporte",
+   "quote": "Starpath has instructors in three different time zones monitoring these groups",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-38",
+   "topic": "asa-estrutura",
+   "claim": "O ASA 108 Offshore Passagemaking exige 101, 103, 104, 105, 106 e 107/117 e cobre derrota ortodrômica e loxodrômica, rotas no Atlântico e no Pacífico, quartos de serviço, exercícios de emergência e navegação astronômica.",
+   "source_url": "https://americansailing.com/learn-to-sail/certifications/asa-108-offshore-passagemaking/",
+   "locator": "seções 'WHAT YOU'LL LEARN' e 'Prerequisites'",
+   "quote": "You’ll master passage planning using tools like Great Circle plotting and rhumb lines, and learn to select the right routes for Atlantic and Pacific crossings.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-39",
+   "topic": "asa-app",
+   "claim": "O app ASA Sailing Challenge é um jogo com módulos de pontos de vela, vento aparente, regulagem das velas, cambar e jibe, preferência de passagem (COLREG) e atracação; tem um percurso noturno guiado por boias iluminadas.",
+   "source_url": "https://americansailing.com/apps/sailing-challenge-app/",
+   "locator": "seções 'Learn To Be A Better Sailor!' e '5 Exciting & Challenging Sailing Levels'",
+   "quote": "Night Sailing Course Are you ready to sail at night? Follow the lighted navigation buoys into the harbor",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-40",
+   "topic": "asa-logbook",
+   "claim": "Na ASA, o Logbook oficial registra cursos concluídos e horas de mar, é obrigatório no currículo e serve como currículo náutico para fretamento.",
+   "source_url": "https://americansailing.com/learn-to-sail/logbook/",
+   "locator": "página 'American Sailing Logbook'",
+   "quote": "The official certification Logbook is the essential means to track this progress. It also contains all the standards for the various course levels and is the obligatory record of proof for certification.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-41",
+   "topic": "asa-app",
+   "claim": "A ASA tem o app gratuito Go Sailing, que liga comandantes que precisam de tripulação a velejadores que querem embarcar.",
+   "source_url": "https://americansailing.com/apps/",
+   "locator": "bloco 'ASA's Go Sailing App'",
+   "quote": "a new free mobile app called GO SAILING. [...] solve the problem of skippers needing crew, and sailors wanting to sail.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-42",
+   "topic": "asa-jogos",
+   "claim": "Os jogos educativos da ASA (palavras cruzadas, quebra-cabeça, 'Nautle', quiz, caça-palavras) exigem a assinatura A+.",
+   "source_url": "https://americansailing.com/games/",
+   "locator": "página 'Quizzes & Games'",
+   "quote": "All you need is an A+ subscription to access this and other exclusive content.",
+   "official": true,
+   "confidence": "media",
+   "notes": "O texto aparece num bloco de acesso restrito da página; não conferi se todos os jogos estão bloqueados."
+  },
+  {
+   "id": "benchmark-43",
+   "topic": "nauticed-estrutura",
+   "claim": "A NauticEd oferece mais de 30 cursos online e para celular, de vela e motor, do básico ao avançado, e diz ser aprovada pela Guarda Costeira dos EUA (EDU-1 e EDU-3).",
+   "source_url": "https://www.nauticed.org/",
+   "locator": "página inicial, seções 'SAILING & POWERBOAT COURSES' e cabeçalho",
+   "quote": "Over 30 multimedia online and mobile device sailing and powerboat courses for beginners through advanced training.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A aprovação USCG é afirmação da própria NauticEd ('APPROVED BY THE US COAST GUARD UNDER EDU-1 AND EDU-3'); não conferi na USCG."
+  },
+  {
+   "id": "benchmark-44",
+   "topic": "nauticed-gratis",
+   "claim": "A NauticEd dá de graça os cursos Basic Sail Trim e Navigation Rules, além de diário de bordo eletrônico e gerador de currículo náutico.",
+   "source_url": "https://www.nauticed.org/free-online-boating-courses",
+   "locator": "seções 'FREE SAILING COURSES' e 'FREE LOGBOOK AND RESUME TOOL'",
+   "quote": "at anytime, with the click of a button, our software automatically generates a formatted yacht charter boating resume for you.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-45",
+   "topic": "nauticed-interativo",
+   "claim": "O curso gratuito Basic Sail Trim da NauticEd usa animações interativas em HTML5 em que o aluno mexe nos controles de regulagem e vê o efeito do vento.",
+   "source_url": "https://www.nauticed.org/sailing-courses",
+   "locator": "item 'BASIC SAIL TRIM COURSE'",
+   "quote": "The basic concepts of sail trim are explained using multimedia interactive HTML5 animation technology, meaning you'll have various trim controls at your mouse tip while watching wind effects.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-46",
+   "topic": "nauticed-preco",
+   "claim": "O pacote Captain Offshore da NauticEd tem 10 cursos (cerca de 82 horas) e custa US$ 379 (preço cheio US$ 440).",
+   "source_url": "https://www.nauticed.org/bundle/view/captain",
+   "locator": "cabeçalho do pacote",
+   "quote": "Estimated Time (all courses combined): 82 hours Price: $440.00 $379.00",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-47",
+   "topic": "nauticed-avaliacao",
+   "claim": "Na NauticEd, quem conclui os 10 cursos do pacote Captain e registra 50 dias de navegação no diário eletrônico gratuito recebe o nível 'Captain Level III' no currículo.",
+   "source_url": "https://www.nauticed.org/bundle/view/captain",
+   "locator": "descrição do pacote",
+   "quote": "Once you complete all ten sailing classes and log 50 days of sailing experience in our FREE online sailing logbook, you'll be awarded the NauticEd Captain Level III Rank on your sailing resume.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-48",
+   "topic": "nauticed-avaliacao",
+   "claim": "Nos cursos da NauticEd não há prazo para terminar, as lições podem ser revistas à vontade e as provas podem ser refeitas quantas vezes forem precisas.",
+   "source_url": "https://www.nauticed.org/bundle/view/captain",
+   "locator": "quadro 'REMEMBER'",
+   "quote": "There is no time limit to complete the sailing lessons You can review the sailing lessons as many times as you like You can make as many attempts as needed to pass the tests",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-49",
+   "topic": "nauticed-preco",
+   "claim": "O pacote Skipper Large Sailboats (2 cursos, cerca de 29 horas) custa US$ 148; com o curso e 10 dias registrados no diário, o aluno recebe o nível Skipper Large Keelboat.",
+   "source_url": "https://www.nauticed.org/bundle/view/skipper",
+   "locator": "cabeçalho e descrição do pacote",
+   "quote": "Upon successful completion of the course, and logging a minimum 10 days of sailing experience in your FREE sailing eLogbook, you will receive the Skipper Large Keelboat Rank certification.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Preço na mesma página: 'Price: $164.00 $148.00'."
+  },
+  {
+   "id": "benchmark-50",
+   "topic": "nauticed-slc",
+   "claim": "O pacote Bareboat Charter Master (6 cursos, cerca de 53 horas) custa US$ 247 e, com 50 dias registrados, a prova SLC gratuita e uma avaliação prática de 6 horas, leva à licença internacional SLC da NauticEd; a prova SLC é refeita a cada 3 anos.",
+   "source_url": "https://www.nauticed.org/bundle/view/bareboatcharter",
+   "locator": "cabeçalho, 'SLC EXAMINATION COURSE' e nota sobre licença",
+   "quote": "this examination is required to be passed to gain the SLC International Sailing License and every 3 years thereafter to remain current.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Preço: 'Price: $284.00 $247.00'. Avaliação: 'Most everything is online except for a 6-hour assessment of your skills and competence on the water.'"
+  },
+  {
+   "id": "benchmark-51",
+   "topic": "nauticed-preco",
+   "claim": "O curso Coastal Navigation da NauticEd custa US$ 39, leva cerca de 10 horas, inclui carta de treino para imprimir e dá acesso vitalício pelo site ou pelo app NauticEd.",
+   "source_url": "https://www.nauticed.org/sailing-courses/view/coastal-navigation",
+   "locator": "cabeçalho e 'Convenient Formats'",
+   "quote": "Includes a printable practice chart. A full-size chart and plotting tools are available for purchase separately [...] Lifetime access, including free updates online or in the NauticEd App",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-52",
+   "topic": "nauticed-interativo",
+   "claim": "O Coastal Navigation da NauticEd treina plotagem em papel, estima, marcação de três pontos, ponto por marcações sucessivas, conversão verdadeiro/magnético/agulha e corrente (set & drift).",
+   "source_url": "https://www.nauticed.org/sailing-courses/view/coastal-navigation",
+   "locator": "descrição inicial do curso",
+   "quote": "fix your position (DR, 3-bearing, running fix), convert between true/magnetic/compass, and calculate tides and currents (set & drift)",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-53",
+   "topic": "nauticed-vr",
+   "claim": "O curso de vela em realidade virtual da NauticEd roda no óculos Meta Quest com o app MarineVerse (US$ 19,99; módulo de atracação pago à parte) e soma a experiência em VR ao currículo do aluno.",
+   "source_url": "https://www.nauticed.org/sailing-courses/view/virtual-reality-sailing",
+   "locator": "seções de preço e benefícios",
+   "quote": "MarineVerse App $19.99 (sailing and racing included)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Mesma página: 'your VR sailing training and experience are added to your NauticEd online course curriculum and sailing resume'."
+  },
+  {
+   "id": "benchmark-54",
+   "topic": "nauticed-rya",
+   "claim": "A NauticEd vende o RYA Day Skipper Theory online por US$ 294 mais cerca de US$ 95 de material; a prova final é com consulta, corrigida por instrutor da RYA em 1 a 2 dias, e pode ser refeita.",
+   "source_url": "https://www.nauticed.org/sailing-courses/view/rya-day-skipper",
+   "locator": "cabeçalho e descrição da prova",
+   "quote": "The exam is an open-book exam and is graded by a real human usually in 1-2 days. It covers general knowledge questions as well as chart plotting and tides. If you don't pass the first time, you can take the exam again.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Preço na mesma página: 'Price: $294 + support materials (approx. $95 in the US and CAN)'."
+  },
+  {
+   "id": "benchmark-55",
+   "topic": "nauticed-interativo",
+   "claim": "O Advanced Sail Trim da NauticEd usa animações 3D para mostrar o vento agindo nas velas.",
+   "source_url": "https://www.nauticed.org/sailing-courses",
+   "locator": "item 'ADVANCED SAIL TRIM COURSE'",
+   "quote": "Includes 3D animations to provide visual interpretations of how the wind is influencing your sails.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-56",
+   "topic": "br-oficial-prova",
+   "claim": "A prova de Arrais-Amador é eletrônica ou escrita, com 40 questões e no máximo 2 horas.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "Anexo 5-A, Seção I, item 3, alínea b, p. 5-A-7",
+   "quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões, com a duração máxima de duas horas.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-57",
+   "topic": "br-oficial-prova",
+   "claim": "A prova de Mestre-Amador é eletrônica ou escrita, com 40 questões de múltipla escolha (4 com carta náutica) e no máximo 3 horas.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "Anexo 5-A, Seção I, item 2, alínea c, p. 5-A-4",
+   "quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões de múltipla escolha, sendo quatro com utilização de carta náutica, com a duração máxima de três horas.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-58",
+   "topic": "br-oficial-prova",
+   "claim": "A prova de Capitão-Amador é escrita, com 40 questões e no máximo 4 horas.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "Anexo 5-A, Seção I, item 1, alínea b, p. 5-A-1",
+   "quote": "O exame constará de uma prova escrita contendo 40 questões, com a duração máxima de quatro horas.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-59",
+   "topic": "br-oficial-sigilo",
+   "claim": "As provas de Mestre-Amador e de Arrais-Amador devem ser destruídas logo após a correção, para manter o sigilo do Banco de Questões; por isso não há provas oficiais de ARA/MSA publicadas.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "Anexo 5-A, Seção I, item 2, alínea g (p. 5-A-5) e item 3, alínea f (p. 5-A-7)",
+   "quote": "As provas deverão ser destruídas, imediatamente após a correção e a apresentação dos resultados aos candidatos, visando garantir a integridade e o sigilo do Banco de Questões.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A conclusão 'não há provas oficiais publicadas' vem do levantamento em research/provas_antigas.md (seção 1)."
+  },
+  {
+   "id": "benchmark-60",
+   "topic": "br-oficial-treinamento",
+   "claim": "O treinamento obrigatório de Arrais-Amador tem 2 h de teoria, dada necessariamente no ambiente da embarcação, e 4 h de prática com a embarcação em movimento; logo, um curso só online não substitui o treinamento.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "Anexo 5-A, Seção II, item 1, alínea a, p. 5-A-9 e 5-A-10",
+   "quote": "Parte Teórica - 2h A parte teórica deverá ser ministrada necessariamente no ambiente de emprego da embarcação, estando atracada, fundeada, no berço, ou em movimento",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A conclusão 'curso só online não substitui' é leitura nossa do texto; a parte prática: 'Parte Prática - 4h A parte prática deverá ser ministrada pelo instrutor com a embarcação em movimento'."
+  },
+  {
+   "id": "benchmark-61",
+   "topic": "br-oficial-cpa",
+   "claim": "A DPC publica na página 'Exame para Categoria de Capitão Amador' as provas, gabaritos e listas de aprovados do CPA.",
+   "source_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "locator": "lista de documentos da página (bloco 2026)",
+   "quote": "CPA - I - Prova CPA - I - Gabarito Final CPA - I - Relação dos Aprovados CPA - II - Gabarito Preliminar CPA - II - Prova",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Inventário completo (2017–2026) em research/provas_antigas.md."
+  },
+  {
+   "id": "benchmark-62",
+   "topic": "br-oficial-licenca",
+   "claim": "O conteúdo do site da DPC está sob licença Creative Commons Atribuição-SemDerivações 3.0; o app pode linkar e citar as provas de CPA, mas não deve adaptá-las.",
+   "source_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "locator": "rodapé da página",
+   "quote": "Todo o conteúdo deste site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A parte 'não deve adaptá-las' é interpretação da licença BY-ND; confirmar com quem cuida da licença do projeto."
+  },
+  {
+   "id": "benchmark-63",
+   "topic": "br-oficial-app",
+   "claim": "O app oficial 'Marinha do Brasil' no Google Play traz notícias, Rádio Marinha, concursos, cultura e história; a descrição não cita simulados nem estudo para a CHA.",
+   "source_url": "https://play.google.com/store/apps/details?id=br.gov.marinhaoficial.app&hl=pt_BR&gl=BR",
+   "locator": "seção 'Sobre este app'",
+   "quote": "No Aplicativo oficial da Marinha do Brasil você encontra notícias e informações sobre as atividades da Força. Nessa versão, os seguintes conteúdos estão disponíveis: Agência Marinha de Notícias, Rádio Marinha, Concursos, Marinha Cultural, História da Marinha e Fuzileiros Navais.",
+   "official": false,
+   "confidence": "media",
+   "notes": "Página da loja (Google Play), não da Marinha. Não achei app oficial de simulado da Marinha."
+  },
+  {
+   "id": "benchmark-64",
+   "topic": "br-online",
+   "claim": "O curso teórico online de Arrais e Motonauta da eNauti custa R$ 69,99 e traz 9 horas de videoaulas (ou 5 horas na versão resumida), cerca de 450 questões, 5 simulados, e-book e 1 ano de acesso.",
+   "source_url": "https://enauti.com/arrais/",
+   "locator": "bloco de compra no topo da página",
+   "quote": "o curso normal (9 horas de vídeo aulas) e o curso resumido, só com os pontos mais relevantes para a prova (5 horas de vídeo aulas) | Aprox. 450 questões | 5 simulados | eBook com resumos e pontos importantes | 7 dias de garantia | Acesso por 1 ano",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-65",
+   "topic": "br-online",
+   "claim": "O curso de Arrais da eNauti tem 14 módulos: introdução, nomenclatura, manobras, regras de manobra, luzes/marcas/sinais sonoros, sinalização náutica, incêndio, primeiros socorros, sobrevivência e salvatagem, normas, meteorologia, navegação, comunicações e marés.",
+   "source_url": "https://enauti.com/arrais/",
+   "locator": "seção 'CONTEÚDO DO CURSO'",
+   "quote": "Luzes, Marcas e Sinais Sonoros (7 aulas, total de 01:26, 28+ questões)",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-66",
+   "topic": "br-online",
+   "claim": "A eNauti só cobre a teoria: avisa que Arrais e Motonauta exigem atestado de treinamento de escola credenciada pela Marinha e indica escolas para a prática.",
+   "source_url": "https://enauti.com/nossos-cursos/",
+   "locator": "seção 'ARRAIS AMADOR E MOTONAUTA'",
+   "quote": "Ambas as habilitações requerem um atestado de experiência embarcado fornecido por uma escola credenciada pela Marinha. Como somos especialistas somente na parte teórica",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-67",
+   "topic": "br-simulado",
+   "claim": "A eNauti vende por R$ 10 um simulado de Arrais/Motonauta que gera provas diferentes a cada vez, balanceadas por assunto, e diz ter banco de mais de 1.100 questões.",
+   "source_url": "https://enauti.com/nossos-cursos/",
+   "locator": "bloco 'SIMULADO PARA ARRAIS E MOTONAUTA'",
+   "quote": "Nosso banco de questões conta com mais de 1.100 questões obtidas ao longo de vários anos, incluindo questões atuais, e tudo está organizado por assunto.",
+   "official": false,
+   "confidence": "media",
+   "notes": "A origem das questões é afirmação do vendedor; a norma manda destruir as provas de ARA (ver benchmark sobre sigilo)."
+  },
+  {
+   "id": "benchmark-68",
+   "topic": "br-online",
+   "claim": "O curso online de Mestre-Amador da eNauti custa R$ 348 e anuncia 16 horas, mais de 430 exercícios, carta náutica para imprimir e e-book com mais de 50 exercícios de navegação resolvidos.",
+   "source_url": "https://enauti.com/nossos-cursos/",
+   "locator": "bloco 'CURSO COMPLETO ONLINE DE MESTRE AMADOR'",
+   "quote": "disponibilizamos uma carta náutica exclusiva igual a que será utilizada na sua prova. No eBook que acompanha o curso, além de resumos e pontos importantes, você encontrará mais de 50 exercícios de navegação resolvidos.",
+   "official": false,
+   "confidence": "media",
+   "notes": "'Igual à da prova' é afirmação do vendedor, não verificada."
+  },
+  {
+   "id": "benchmark-69",
+   "topic": "br-online",
+   "claim": "Na Hotmart, o curso de Mestre-Amador da eNauti tem 15 módulos (introdução, fundamentos da navegação, carta e publicações, estimada e costeira, instrumentos, GPS, estabilidade, marés, radar, meteorologia, comunicações, EPIRB/AIS, sobrevivência, sinalização, RIPEAM) e 3 simulados, com nota 4,8 em 108 avaliações.",
+   "source_url": "https://hotmart.com/pt-br/marketplace/produtos/curso-de-mestre-amador-online-completo/C49922602K",
+   "locator": "abas 'Conteúdo' e 'Avaliações'",
+   "quote": "Noções de Funcionamento do EPIRB e AIS 13 Noções de Sobrevivência no Mar 14 Sinalização Náutica 15 Regras de Governo, Luzes, Marcas e Sinais 16 SIMULADO 1 17 SIMULADO 2 18 SIMULADO 3",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-70",
+   "topic": "br-online",
+   "claim": "O pacote online de Capitão-Amador da eNauti custa R$ 982 e soma mais de 47 horas de videoaulas, mais de 900 exercícios e 3 e-books; os módulos avulsos são Navegação Eletrônica (R$ 347), Navegação Astronômica (R$ 419) e demais matérias (R$ 438).",
+   "source_url": "https://enauti.com/nossos-cursos/",
+   "locator": "seção 'CAPITÃO AMADOR'",
+   "quote": "No total, são mais de 47 horas de vídeo aulas, e mais de 900 exercícios. Além disso, você leva ainda 3 eBooks com os pontos mais relevantes de cada uma das vídeo aulas.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-71",
+   "topic": "br-online",
+   "claim": "O módulo de Navegação Astronômica da eNauti para o CPA tem mais de 11 horas de teoria em vídeo e mais de 80 questões de provas anteriores resolvidas em vídeo.",
+   "source_url": "https://enauti.com/nossos-cursos/",
+   "locator": "bloco do curso de Navegação Astronômica",
+   "quote": "Um curso completamente atualizado, com mais de 11 horas de vídeo aulas de teoria e mais de 80 questões de provas anteriores resolvidas em vídeo, além de eBooks para auxliar no seu estudo.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-72",
+   "topic": "br-gratis",
+   "claim": "A Cursa oferece um curso gratuito de Arrais-Amador e Motonauta de 13 h 43 min, com aulas em vídeo intercaladas por exercícios.",
+   "source_url": "https://cursa.app/pt/curso-gratuito/arrais-amador-e-motonauta-dgea",
+   "locator": "cabeçalho e lista de aulas",
+   "quote": "Duração do curso online: 13 horas e 43 minutos",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-73",
+   "topic": "br-gratis",
+   "claim": "O Clube do Arrais Amador publica um curso grátis de Arrais em 10 capítulos e simulados por tema (balizamento, RIPEAM, primeiros socorros), e avisa que é só um subsídio.",
+   "source_url": "https://clubedoarrais.com/curso-gratis-de-arrais-amador-online/",
+   "locator": "corpo da página e lista 'Simulados para Arrais Amador'",
+   "quote": "Lembramos que o Curso grátis de Arrais é apenas um subsídio para o candidato que quer habilitar-se na categoria de Arrais.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-74",
+   "topic": "br-gratis",
+   "claim": "A Escola Náutica Sampaio oferece um simulado online gratuito de Arrais com 15 questões de múltipla escolha.",
+   "source_url": "https://ead.escolanauticasampaio.com.br/habilitacao/simulado-online-arrais-amador/",
+   "locator": "'Visão Geral'",
+   "quote": "Aproveite o nosso Simulado Online Arrais Amador, preparamos um conteúdo e um simulado com 15 questões de múltipla escolha.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-75",
+   "topic": "br-presencial",
+   "claim": "A Navegart (Rio/Niterói) vende o Arrais-Amador EAD por R$ 890: teoria na plataforma EAD, mais 2 h presenciais e 4 h de prática em lancha, com no máximo 5 alunos por aula.",
+   "source_url": "https://navegart.eco.br/arrais-amador-ead",
+   "locator": "página 'Arrais Amador EAD'",
+   "quote": "Após o aluno concluir a parte teórica em EAD, teremos 2 horas adicionais em aula presencial além da aula prática em lancha.",
+   "official": false,
+   "confidence": "alta",
+   "notes": "Mesma página: 'R$ 890,00' e 'Máximo 5 alunos na lancha a cada aula.'"
+  },
+  {
+   "id": "benchmark-76",
+   "topic": "br-presencial",
+   "claim": "O Mestre-Amador intensivo da Navegart tem 20 horas presenciais por R$ 1.390, com apostila, simulados e empréstimo de régua paralela, carta náutica e compassos.",
+   "source_url": "https://navegart.eco.br/mestre-amador-msa-intensivo",
+   "locator": "cabeçalho do curso e material",
+   "quote": "Carga Horária: 20 horas PRESENCIAIS Dias: 3ª,4ª,5ª e 3ª,4ª e 5ª 18:00 às 21:00H Preço: R$ 1.390,00 à vista ou em até 10x.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-77",
+   "topic": "br-presencial",
+   "claim": "Para Capitão-Amador, a Navegart divide o curso em Navegação Astronômica (17 h, R$ 1.050) e Navegação Eletrônica (24 h, R$ 1.170); em 2026-10-07 não havia turma marcada.",
+   "source_url": "https://navegart.eco.br/capitao-amador-modulo-1-navegacao-astronomica",
+   "locator": "cabeçalho e 'Próximas Turmas'",
+   "quote": "Carga Horária: 17 horas Dias: sexta,sábado e domingo Preço: R$ 1.050,00 (R$ 350,00 x 3)",
+   "official": false,
+   "confidence": "alta",
+   "notes": "Módulo 2: https://navegart.eco.br/capitao-amador-modulo-2-navegacao-eletronica-2 ('Carga Horária: 24 horas', 'Preço: R$ 1.170,00'). Ambas: 'Não há turma programada.'"
+  },
+  {
+   "id": "benchmark-78",
+   "topic": "br-presencial",
+   "claim": "A CL Vela (Marina da Glória, Rio) cobra R$ 1.350 só pela aula prática de Arrais (6 h embarcadas, até 5 alunos); teoria e material são vendidos à parte.",
+   "source_url": "https://clvela.com.br/cursos/arrais-amador/",
+   "locator": "página do produto 'Arrais Amador Prático'",
+   "quote": "R$ 1.350,00 Aula prática embarcada obrigatória, exigida pela Marinha do Brasil para inscrição na prova de Arrais Amador.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-79",
+   "topic": "br-presencial",
+   "claim": "O Mestre-Amador da CL Vela custa R$ 1.150, tem 21 horas ao vivo por videoconferência (terças e quartas à noite) e exige Arrais; a última turma de 2026 começa em 10/11.",
+   "source_url": "https://clvela.com.br/cursos/mestre-amador/",
+   "locator": "página do produto 'Mestre Amador'",
+   "quote": "Carga horária: 21 horas Pré-requisito: habilitação de Arrais Amador Ao vivo por vídeo conferência.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-80",
+   "topic": "br-presencial",
+   "claim": "A Náutica Sete Mares (Urca, Rio) faz a prática de Arrais a bordo de um veleiro-escola, com 6 horas embarcadas, por R$ 897 à vista; inclui atestado, videoaulas e simulados.",
+   "source_url": "https://nauticasetemares.com.br/cursos/curso-arrais-amador/",
+   "locator": "seções 'Informações', 'Incluído no Curso' e preço",
+   "quote": "897,00 à vista ou parcelado",
+   "official": false,
+   "confidence": "alta",
+   "notes": "'aula prática intensiva a bordo de um veleiro escola' e '6 horas embarcadas' na mesma página. A página também diz que a GRU custa R$ 57,72 (dado da escola, não da Marinha)."
+  },
+  {
+   "id": "benchmark-81",
+   "topic": "br-presencial",
+   "claim": "A Escola Náutica do Espírito Santo anuncia o Arrais por R$ 746 (de R$ 829,90), com 2 h de teoria na marina e 4 h de prática no canal de Vitória.",
+   "source_url": "https://www.escolanauticaes.com.br/cursos/arrais-amador/",
+   "locator": "preço e 'CARGA HORÁRIA'",
+   "quote": "Aulas teóricas: 2 horas na marina antes de embarcar. • Aulas práticas: 4 horas de navegação e manobras no canal de Vitória ES.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-82",
+   "topic": "br-presencial",
+   "claim": "A Marina Sylvestre (Guarapiranga, São Paulo) combina 3,5 horas de teoria online em 6 módulos com 4 horas de prática embarcada no Arrais.",
+   "source_url": "https://www.marinasylvestre.com.br/arrais-amador/",
+   "locator": "resumo do curso",
+   "quote": "O curso combina 4 horas de prática embarcada com instrutores habilitados e 3,5 horas de teoria online em 6 módulos.",
+   "official": false,
+   "confidence": "alta",
+   "notes": "Preço não visível na página consultada."
+  },
+  {
+   "id": "benchmark-83",
+   "topic": "br-presencial",
+   "claim": "O Tahiti Náutica Club oferece curso teórico de Capitão-Amador de cerca de 3 meses, duas noites por semana, por R$ 3.000, incluindo material e inscrição no exame.",
+   "source_url": "https://www.tahiticlub.com.br/site/cursos/capit%C3%A3o-amador.html",
+   "locator": "texto da página 'Capitão Amador'",
+   "quote": "No valor acima está incluso aula teórica + material didático + inscrição do exame na Capitania dos Portos.",
+   "official": false,
+   "confidence": "media",
+   "notes": "A página não tem data; valor 'R$ 3000,00'."
+  },
+  {
+   "id": "benchmark-84",
+   "topic": "br-hibrido",
+   "claim": "A Navegantes do Sul vende um programa híbrido de Capitão-Amador (aulas online, vídeos, 'sala de aula na nuvem', aulas presenciais e práticas a bordo opcionais) por R$ 202,50.",
+   "source_url": "https://www.navegantesdosul.com.br/produto/capitao-amador/",
+   "locator": "página do produto",
+   "quote": "O programa é híbrido com aulas “on line”, material digital, vídeos, apresentações, manuais e têm opcionais como aulas presenciais e práticas a abordo.",
+   "official": false,
+   "confidence": "media",
+   "notes": "Não ficou claro se R$ 202,50 é o programa inteiro ou uma parcela."
+  },
+  {
+   "id": "benchmark-85",
+   "topic": "br-app",
+   "claim": "O app 'Simulados Motonauta e Arrais' (Aplicativos Legais) é grátis com compras no app (assinaturas de R$ 14,90 e R$ 24,90; 'Simulados Premium' R$ 9,90), tem nota 4,8 com cerca de 1 mil avaliações na App Store e permite montar simulados com número de questões e tempo escolhidos, com histórico por assunto.",
+   "source_url": "https://apps.apple.com/br/app/simulados-motonauta-e-arrais/id1553348111",
+   "locator": "descrição, 'Classificações e Avaliações' e 'Compras dentro do app'",
+   "quote": "você pode montar seu próprio simulado com a quantidade de questões e o tempo que desejar. O app ainda conta com um histórico das provas que você realizou",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-86",
+   "topic": "br-app",
+   "claim": "Na Google Play, o mesmo app declara que não tem relação com a Marinha nem com o governo.",
+   "source_url": "https://play.google.com/store/apps/details?id=com.aplicativoslegais.simuladosmotonauta&hl=pt_BR&gl=BR",
+   "locator": "'Sobre este app'",
+   "quote": "Este app não tem relação a Marinha e nenhum órgão do governo brasileiro, ele é apenas baseado nas provas para te auxiliar a estudar. App não é oficial da Marinha brasileira.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-87",
+   "topic": "br-app",
+   "claim": "O app 'Simulados Arrais e Motonauta' tem modo prova cronometrado e correção com explicações; na App Store cobra R$ 6,90/semana, R$ 19,90/mês ou R$ 99,90/ano e tem nota 4,8 (406 avaliações).",
+   "source_url": "https://apps.apple.com/br/app/simulados-arrais-e-motonauta/id1592568193",
+   "locator": "descrição e 'Compras dentro do app'",
+   "quote": "• Simulados no padrão da prova real • Questões atualizadas • Modo prova com tempo cronometrado • Correção com explicações para aprendizado rápido",
+   "official": false,
+   "confidence": "alta",
+   "notes": "Na Google Play (br.app.simulado.arrais, King Apps Ltda): nota 4,1, 155 avaliações, '10 mil+' downloads, com anúncios."
+  },
+  {
+   "id": "benchmark-88",
+   "topic": "br-app",
+   "claim": "O app 'Arrais-amador e Mestre-amador' (QuinhoDevs) custa R$ 6,99 na Google Play, cobre Motonauta, Arrais e Mestre com mais de 800 questões e foi atualizado em 18/8/2026.",
+   "source_url": "https://play.google.com/store/apps/details?id=br.com.quinhodevops.simuladoscha&hl=pt_BR&gl=BR",
+   "locator": "'Sobre este app' e 'Atualizado em'",
+   "quote": "Possui mais de 800 questões, baseadas nas provas da Marinha, além de materiais e links de apoio aos estudos, incluindo textos de leis e normas de navegação e materiais para impressão.",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-89",
+   "topic": "br-app",
+   "claim": "O app 'Mare Alta - Arrais e Cursos' traz curso de Arrais em 11 módulos com videoaulas, banco de questões por módulo com resolução em vídeo e simulados; a última atualização é de 8/2/2024.",
+   "source_url": "https://play.google.com/store/apps/details?id=com.marealta2.app&hl=pt_BR&gl=BR",
+   "locator": "'Sobre este app' e 'Atualizado em'",
+   "quote": "São 11 módulos, com vídeo aulas dinâmicas e bem ilustradas. Cada módulo conte um banco de questões, de assuntos abordados em provas antigas. Todas estas questões apresentam resolução em vídeos",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-90",
+   "topic": "nauticed-interativo",
+   "claim": "A NauticEd tem um curso introdutório de navegação astronômica online em que o aluno faz uma meridiana ('noon shot') e determina a posição.",
+   "source_url": "https://www.nauticed.org/sailing-courses",
+   "locator": "item 'INTRODUCTORY CELESTIAL NAVIGATION COURSE'",
+   "quote": "You'll be able to do an actual noon shot and determine your position, learn spherical geometry, and more!",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-91",
+   "topic": "br-online",
+   "claim": "O módulo de Navegação Eletrônica da eNauti para o CPA (R$ 347) resolve em vídeo questões de provas anteriores sobre radar e rosa de manobra e traz mais de 270 questões.",
+   "source_url": "https://enauti.com/nossos-cursos/",
+   "locator": "bloco do curso de Navegação Eletrônica",
+   "quote": "dissecamos questão por questão de provas anteriores à respeito de navegação radar e rosa de manobras. Tudo explicado passo a passo em vídeo!",
+   "official": false,
+   "confidence": "alta"
+  },
+  {
+   "id": "benchmark-92",
+   "topic": "br-oficial-prova",
+   "claim": "Nas provas de Arrais-, Mestre- e Capitão-Amador, a nota máxima é 10,0 e aprova quem tira pelo menos 5,0.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "Anexo 5-A, Seção I: item 1, alínea c (p. 5-A-1); item 2, alínea d (p. 5-A-4); item 3, alínea c (p. 5-A-7)",
+   "quote": "A prova possui valor máximo de 10,0 pontos e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O trecho citado é o do CPA (item 1 c). Nos itens 2 d e 3 c o texto termina com 'pontos na prova'."
+  }
+ ],
+ "locais": [
+  {
+   "id": "se-rj-navegart",
+   "nome": "Navegart Escola Náutica",
+   "tipos": [
+    "preparatorio-cha",
+    "escola-vela"
+   ],
+   "cidade": "Rio de Janeiro / Niterói",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://navegart.eco.br/",
+   "fonte_url": "https://navegart.eco.br/cursosamadores",
+   "evidencia": "Arrais Amador Básico: 6 hs Prática + Teoria, R$ 890,00; VELA OCEÂNICA - Básico: 8 horas em dois dias, R$ 1.200,00",
+   "cursos": [
+    "Arrais-Amador",
+    "Mestre-Amador",
+    "Capitão-Amador",
+    "Vela oceânica (básico)"
+   ],
+   "contato": "contato@navegart.eco.br",
+   "pratica": "Prática de Arrais em lancha (máx. 5 alunos); práticas no Clube Naval Charitas e Urca; curso básico de vela oceânica",
+   "preco": "Arrais Básico R$ 890; Arrais EAD R$ 890; MSA intensivo R$ 1.390; CPA astronômica R$ 1.050 e eletrônica R$ 1.170 (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "Geocodificar pelos locais de aula (Clube Naval Charitas, Niterói; Urca, Rio)."
+  },
+  {
+   "id": "se-rj-cl-vela",
+   "nome": "CL Vela",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://clvela.com.br/",
+   "fonte_url": "https://clvela.com.br/cursos/arrais-amador/",
+   "evidencia": "Arrais Amador Prático R$ 1.350,00; Aula prática embarcada obrigatória; Marina da Glória, Rio de Janeiro",
+   "cursos": [
+    "Arrais-Amador (prática)",
+    "Mestre-Amador (online ao vivo)"
+   ],
+   "contato": "",
+   "pratica": "Aula prática embarcada de Arrais, 6 h, até 5 alunos",
+   "preco": "Arrais prática R$ 1.350; MSA R$ 1.150 (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "Endereço citado na página: Marina da Glória. Geocodificar."
+  },
+  {
+   "id": "se-rj-nautica-sete-mares",
+   "nome": "Náutica Sete Mares",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://nauticasetemares.com.br/",
+   "fonte_url": "https://nauticasetemares.com.br/cursos/curso-arrais-amador/",
+   "evidencia": "aula prática intensiva a bordo de um veleiro escola; 6 horas embarcadas; 897,00 à vista ou parcelado; Av. Portugal, 936 – Urca",
+   "cursos": [
+    "Arrais-Amador"
+   ],
+   "contato": "contato@nauticasetemares.com.br; (21) 97669-9630",
+   "pratica": "Prática de Arrais em veleiro-escola na Baía de Guanabara",
+   "preco": "R$ 897 à vista (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "Endereço público: Av. Portugal, 936 – Urca, Rio de Janeiro – RJ, 22291-050. Geocodificar."
+  },
+  {
+   "id": "se-es-escola-nautica-es",
+   "nome": "Escola Náutica do Espírito Santo",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Vitória",
+   "uf": "ES",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://www.escolanauticaes.com.br/",
+   "fonte_url": "https://www.escolanauticaes.com.br/cursos/arrais-amador/",
+   "evidencia": "Aulas teóricas: 2 horas na marina antes de embarcar. Aulas práticas: 4 horas de navegação e manobras no canal de Vitória ES. R$ 746,00",
+   "cursos": [
+    "Arrais-Amador"
+   ],
+   "contato": "",
+   "pratica": "Prática de Arrais no canal de Vitória",
+   "preco": "R$ 746 (de R$ 829,90) (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "O título da página cita Vitória e Guarapari."
+  },
+  {
+   "id": "se-sp-marina-sylvestre",
+   "nome": "Marina Sylvestre",
+   "tipos": [
+    "preparatorio-cha",
+    "marina"
+   ],
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://www.marinasylvestre.com.br/",
+   "fonte_url": "https://www.marinasylvestre.com.br/arrais-amador/",
+   "evidencia": "O curso combina 4 horas de prática embarcada com instrutores habilitados e 3,5 horas de teoria online em 6 módulos.",
+   "cursos": [
+    "Arrais-Amador"
+   ],
+   "contato": "(11) 5660-6999; marina@marinasylvestre.com.br",
+   "pratica": "Prática de Arrais na Represa de Guarapiranga",
+   "preco": "",
+   "verificado_em": "2026-10-07",
+   "notas": "Endereço público: Av. Atlântica, 3.444 — Guarapiranga, São Paulo - SP. Águas interiores. Geocodificar."
+  },
+  {
+   "id": "online-enauti",
+   "nome": "eNauti Cursos Náuticos",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Online",
+   "uf": "",
+   "regiao": "Online",
+   "pais": "Brasil",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://enauti.com/",
+   "fonte_url": "https://enauti.com/nossos-cursos/",
+   "evidencia": "CURSO TEÓRICO DE ARRAIS AMADOR E MOTONAUTA R$ 69,99; CURSO COMPLETO ONLINE DE MESTRE AMADOR R$ 348,00; Capitão R$ 982,00",
+   "cursos": [
+    "Arrais-Amador (teoria)",
+    "Mestre-Amador",
+    "Capitão-Amador"
+   ],
+   "contato": "",
+   "pratica": "Só teoria; indica escolas para a prática obrigatória",
+   "preco": "ARA R$ 69,99; MSA R$ 348; CPA R$ 982 (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "Curso online, sem endereço físico."
+  },
+  {
+   "id": "online-navathome",
+   "nome": "Navathome (centro RYA online)",
+   "tipos": [
+    "escola-rya"
+   ],
+   "cidade": "Online",
+   "uf": "",
+   "regiao": "Online",
+   "pais": "Reino Unido",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://www.navathome.com/",
+   "fonte_url": "https://www.navathome.com/rya-day-skipper.aspx",
+   "evidencia": "RYA DAY SKIPPER ONLINE TRAINING £275; Embedded Chartplotter Simulator; Embedded VHF Radio Simulator; MCA & RYA recognised",
+   "cursos": [
+    "RYA Day Skipper Theory",
+    "RYA Coastal Skipper/Yachtmaster Offshore Theory",
+    "RYA Yachtmaster Ocean Theory",
+    "RYA Essential Navigation & Seamanship"
+   ],
+   "contato": "",
+   "pratica": "Só teoria online",
+   "preco": "Day Skipper £275; Yachtmaster Ocean £275 (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "Trilha internacional."
+  },
+  {
+   "id": "online-nauticed",
+   "nome": "NauticEd",
+   "tipos": [
+    "escola-vela",
+    "escola-rya"
+   ],
+   "cidade": "Online",
+   "uf": "",
+   "regiao": "Online",
+   "pais": "Estados Unidos",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://www.nauticed.org/",
+   "fonte_url": "https://www.nauticed.org/sailing-courses",
+   "evidencia": "Over 30 multimedia online and mobile device sailing and powerboat courses; RYA DAY SKIPPER COURSE",
+   "cursos": [
+    "Cursos de vela online",
+    "RYA Day Skipper Theory",
+    "SLC (licença própria)"
+   ],
+   "contato": "",
+   "pratica": "Rede de instrutores para avaliação na água; diário eletrônico gratuito",
+   "preco": "Grátis (2 cursos); US$ 39 a US$ 379 (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "Níveis e SLC são da própria NauticEd. 'escola-rya' só pelo curso Day Skipper Theory, que a NauticEd diz ser aprovado pela RYA."
+  },
+  {
+   "id": "online-american-sailing",
+   "nome": "American Sailing (ASA) – cursos online e app Go Sailing",
+   "tipos": [
+    "escola-asa",
+    "crew-finder"
+   ],
+   "cidade": "Online",
+   "uf": "",
+   "regiao": "Online",
+   "pais": "Estados Unidos",
+   "lat": null,
+   "lon": null,
+   "coord_precisao": "sem-mapa",
+   "site": "https://americansailing.com/",
+   "fonte_url": "https://americansailing.com/learn-to-sail/online-class/",
+   "evidencia": "ASA ACCREDITED ONLINE Classes Earn ASA certifications online. ASA 105: Coastal Navigation; ASA 107: Celestial Navigation",
+   "cursos": [
+    "ASA 105 online",
+    "ASA 107 online",
+    "ASA 117",
+    "ASA 119",
+    "ASA 101 prep online"
+   ],
+   "contato": "",
+   "pratica": "Cursos práticos em escolas ASA; app Go Sailing para achar tripulação",
+   "preco": "ASA 105 e 107 online US$ 419 cada; Intro online US$ 59 (consultado em 2026-10-07)",
+   "verificado_em": "2026-10-07",
+   "notas": "Trilha internacional. App Go Sailing (achar tripulação): https://americansailing.com/apps/ ('a new free mobile app called GO SAILING')."
+  }
+ ],
+ "open_questions": [
+  "RYA Interactive: a RYA anunciou nova plataforma para abril de 2026, mas a página não diz se ela já abriu nem como se chama. Em 2026-10-07, www.ryainteractive.org só mostrava uma tela de login. Confirmar ([página](https://www.rya.org.uk/training/rya-elearning/rya-interactive/)).",
+  "RYA \"digital first\": só achei imprensa do setor (Marine Industry News, com correção em 19/6/2026). Falta documento da RYA com o programa novo e a data de vigência.",
+  "Preço oficial dos cursos online da RYA: a RYA diz que cada centro define o preço. Usamos a Navathome (£275) e a NauticEd (US$ 294 + material) como exemplos, não como preço da RYA.",
+  "Starboard Brasil (starboardbr.com.br) e Mc Martins (mcmartins.com.br) apareceram em buscas com cursos de Mestre-Amador, mas os domínios não resolveram (DNS) em 2026-10-07. Os preços citados nas buscas ficaram de fora.",
+  "A página da Hotmart do curso de Navegação Astronômica para CPA não carregou. Usamos a página da própria eNauti.",
+  "Não achei app oficial de simulado da Marinha. O app \"Marinha do Brasil\" traz só notícias e informações. Confirmar com a DPC se existe simulado oficial ou prova eletrônica de demonstração.",
+  "Valor da GRU do exame de Arrais (R$ 57,72): é dado da página da Náutica Sete Mares, não da Marinha. Conferir em normas.md ou na Capitania.",
+  "Navegantes do Sul: não está claro se R$ 202,50 é o programa inteiro de Capitão-Amador ou uma parcela. Tahiti Náutica Club: página sem data e sem cidade explícita (cita a Capitania dos Portos de Santos).",
+  "eNauti: a página do curso de Arrais diz \"mais de 26.000 alunos (até Nov/2026)\", data posterior à consulta. Provável erro da página.",
+  "A origem das questões dos apps e cursos (\"baseadas em provas reais\", \"obtidas ao longo de vários anos\") é afirmação dos vendedores. A norma manda destruir as provas de ARA e MSA após a correção.",
+  "NauticEd: a aprovação pela Guarda Costeira dos EUA (EDU-1/EDU-3) foi conferida só no site da própria NauticEd.",
+  "ASA: os preços dos cursos práticos (ASA 101 etc.) são definidos por cada escola. Não há preço central.",
+  "Licença das provas de CPA (CC BY-ND 3.0 no rodapé da DPC): confirmar se o app pode reproduzir questões inteiras com atribuição, ou se só deve linkar. A licença proíbe obras derivadas.",
+  "Cartas náuticas: verificar a licença das cartas da DHN antes de usar trechos na carta interativa. Alternativa: carta de treino própria, fictícia ou de dados abertos.",
+  "Não achei app brasileiro de simulado para Capitão-Amador (busca na Google Play em 2026-10-07). A App Store não foi varrida para CPA.",
+  "Não verifiquei por dentro (com login) nenhum curso pago. Recursos como \"simulador\" ou \"interativo\" são o que as páginas de venda anunciam."
+ ]
+}

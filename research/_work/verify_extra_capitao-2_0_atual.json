@@ -1,0 +1,32 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-capitao-2-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "ESTABILIDADE INTACTA - é a propriedade que tem a embarcação de retornar à sua posição inicial de equilíbrio, depois de cessada a força perturbadora que dela a afastou",
+   "notes": "Glossário idêntico no consolidado; índice oficial (acessado 2026-10-08) ainda lista a Portaria nº 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior."
+  },
+  {
+   "id": "extra-capitao-2-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "3.21.1. apresentação, pelo interessado, de declaração de um engenheiro naval, que ateste que a embarcação possui estabilidade e resistência estrutural satisfatórias para efetuar a viagem pretendida; e 3.21.2. realização de vistoria pela CP/DL/AG onde deverão ser verificados a habilitação dos tripulantes e os setores de equipamentos e rádio",
+   "notes": "Checagem automática falhou só por normalização de texto; o item 3.21 está literal no consolidado vigente (Portaria 200/2026, sem alteração posterior no índice)."
+  },
+  {
+   "id": "extra-capitao-2-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "3.27.2. Embarcações de esporte e/ou recreio com comprimento igual ou superior a 24 metros: as embarcações destinadas à navegação em mar aberto deverão ter a estabilidade intacta avaliada de acordo com os requisitos estabelecidos no capítulo 7 da NORMAM-201/DPC, no que for aplicável.",
+   "notes": "3.27.1 confirma lotação definida pelo estaleiro para <24 m (com regra supletiva se o dado faltar); texto vigente, sem portaria posterior à 200/2026."
+  },
+  {
+   "id": "extra-capitao-2-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/portaria-dhn-dgn-22-2023.html",
+   "evidence_quote": "Art. 1º Alterar as Normas da Autoridade Marítima para Serviço de Tráfego de Embarcações (VTS) - NORMAM-26/DHN (5ª Revisão). Esta alteração é denominada NORMAM-602/DHN. ... Art. 3º Esta Portaria entrará em vigor em 2 de outubro de 2023.",
+   "notes": "Portaria 22/2023 reabrida; a Portaria 24/2023 só altera o Anexo B e a lista oficial de normas da Marinha ainda indica NORMAM-602/DHN pela Portaria 22, sem revisão posterior localizada."
+  }
+ ]
+}

@@ -1,0 +1,2633 @@
+{
+ "file_written": "/home/sobranceiro/veleiro_certificacoes/research/taxas_agendamento.md",
+ "claims": [
+  {
+   "topic": "taxas",
+   "claim": "A indenização (GRU) da Carteira de Habilitação de Amador é de R$ 60,32 e vale, com o mesmo valor, para inscrição em exame, renovação, 2ª via, correspondência ou equivalência, em todas as categorias.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "locator": "Anexo A da Portaria nº 251/2025-DPC, item I.3 \"Outros serviços prestados pelas CP/DL/AG\", p. 3 de 5",
+   "quote": "Carteira de Habilitação de Amador (CHA) - Inscrição para exame de habilitação de amador, renovação, emissão de 2ª via, correspondência ou equivalência R$ 60,32 (Todas as Categorias)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-01"
+  },
+  {
+   "topic": "taxas",
+   "claim": "A Tabela de Indenizações vigente foi aprovada pela Portaria nº 251/DPC, de 19/12/2025, que entrou em vigor em 1º de janeiro de 2026.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "locator": "Portaria nº 251/DPC, de 19/12/2025, art. 3º",
+   "quote": "Art. 3o Esta Portaria entrará em vigor em 1o janeiro de 2026.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-02"
+  },
+  {
+   "topic": "taxas",
+   "claim": "A Portaria nº 251/DPC/2025 revogou a Portaria DPC/DGN/MB nº 174, de 10 de março de 2025 (tabela anterior).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "locator": "Portaria nº 251/DPC, art. 2º",
+   "quote": "Art. 2o Fica revogada a Portaria DPC/DGN/MB n o 174, de 10 de março de 2025",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-03"
+  },
+  {
+   "topic": "taxas",
+   "claim": "Os valores da Tabela de Indenizações de 2026 foram atualizados pelo IPCA apurado entre novembro de 2024 e novembro de 2025 (logo, tendem a mudar a cada ano).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "locator": "Portaria nº 251/DPC, art. 1º",
+   "quote": "conforme o Índice de Preços ao Consumidor Amplo (IPCA) apurado no intervalo de novembro de 2024 e novembro de 2025",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A inferência de reajuste anual é do pesquisador; a portaria só documenta o reajuste desta edição.",
+   "id": "taxas-04"
+  },
+  {
+   "topic": "taxas",
+   "claim": "O mesmo valor de R$ 60,32 se aplica à CHA na categoria Motonauta (inscrição, renovação, 2ª via) e à CHA-MTA Especial (habilitação provisória para moto aquática alugada).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "locator": "Anexo A da Portaria nº 251/2025-DPC, item I.3, p. 3 de 5",
+   "quote": "Carteira de Habilitação de Amador Especial na Categoria de Motonauta R$ 60,32 (Habilitação Provisória) para condução de MA alugadas",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-05"
+  },
+  {
+   "topic": "taxas",
+   "claim": "No sistema oficial de emissão de GRU da DPC (consultado em 2026-10-07, OM Capitania dos Portos da Paraíba), o item de serviço da CHA aparece com o valor de R$ 60,32.",
+   "source_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/solicitar_servico.asp",
+   "locator": "Sistema SCAM \"Emissão de GRU\" > Categoria AMADOR > Tipo de Serviço SERVICOS ADMINISTRATIVOS > Item de serviço",
+   "quote": "CARTEIRA DE HABILITAÇÃO DE AMADOR (CHA) - INSC. PARA EXAME, RENOVAÇÃO, 2ª VIA, CORRESP. OU EQUIVALÊNCIA (TODAS AS CATEGORIAS).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O texto do item termina com \"( R$ 60.32 )\". Formulário consultado até a etapa de escolha do item, sem preencher dados pessoais nem gerar guia.",
+   "id": "taxas-06"
+  },
+  {
+   "topic": "taxas",
+   "claim": "A página oficial \"Tabelas de Indenizações\" da DPC lista a Portaria nº 251 e a Tabela de Indenizações vigentes (página atualizada em 06/01/2026).",
+   "source_url": "https://www.marinha.mil.br/dpc/tabelas-de-indenizacoes",
+   "locator": "Página \"Tabelas de Indenizações\", cabeçalho e lista de arquivos",
+   "quote": "Atualizado em 06/01/2026 - 14:22 Compartilhe: Portaria nº 251 (253.93 KB) Tabela de Indenizações (179.99 KB)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-07"
+  },
+  {
+   "topic": "taxas",
+   "claim": "Pela NORMAM-211, os serviços da Autoridade Marítima são indenizados conforme a Tabela de Indenizações publicada em Portaria da DPC e devem ser pagos no ato da solicitação do serviço.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 1.17, p. 1-24",
+   "quote": "indenizados pelos interessados, de acordo com os valores constantes na “Tabela de indenizações” disponível no site da DPC e deverão ser pagos no ato da solicitação do serviço.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-08"
+  },
+  {
+   "topic": "taxas",
+   "claim": "Cada serviço solicitado à CP/DL/AG exige o comprovante de pagamento da respectiva GRU.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 1.17, p. 1-25",
+   "quote": "cada serviço solicitado deverá ter a comprovação correspondente ao pagamento por meio da respectiva Guia de Recolhimento da União (GRU).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-09"
+  },
+  {
+   "topic": "taxas",
+   "claim": "A GRU paga por candidato reprovado ou faltoso não pode ser reaproveitada: para nova prova é preciso fazer nova inscrição (regra repetida para CPA, MSA e ARA).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, itens 1.h (CPA), 2.h (MSA) e 3.g (ARA)",
+   "quote": "A GRU paga pelo candidato reprovado ou que faltou à prova não poderá ser reutilizada para um novo exame.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-10"
+  },
+  {
+   "topic": "taxas",
+   "claim": "Quem obtém ARA, MSA ou CPA junto com Motonauta faz só o exame da categoria principal e paga a GRU de apenas um serviço, apresentando também o atestado de treinamento para Motonauta.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.2, alíneas c) e d), p. 5-6",
+   "quote": "incluindo o comprovante de pagamento da Guia de Recolhimento da União (GRU) referente a apenas um dos serviços (emissão da Carteira de Habilitação do Amador de ARA)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-11"
+  },
+  {
+   "topic": "taxas",
+   "claim": "Na categoria Veleiro (VLA), estão dispensadas da GRU as pessoas carentes participantes de projetos governamentais de formação de mentalidade marítima.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.2, c) VIII, p. 5-8",
+   "quote": "Estão dispensadas do pagamento da GRU as pessoas carentes participantes de projetos governamentais destinados à formação de Mentalidade Marítima.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-12"
+  },
+  {
+   "topic": "taxas",
+   "claim": "O item \"Emissão de 2ª via de certificados e licenças\" (R$ 41,67) da Tabela é outro serviço; a CHA tem item próprio de R$ 60,32.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "locator": "Anexo A da Portaria nº 251/2025-DPC, item I.3, p. 3 de 5",
+   "quote": "Emissão de 2ª via de certificados e licenças R$ 41,67",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Evita confundir o valor de 2ª via de certificados/licenças com o da CHA.",
+   "id": "taxas-13"
+  },
+  {
+   "topic": "taxas",
+   "claim": "O credenciamento de estabelecimentos de treinamento náutico ou pessoas físicas para emitir atestados de Arrais-Amador, Veleiro e Motonauta custa R$ 230,32 (taxa paga pela escola, não pelo aluno).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "locator": "Anexo A da Portaria nº 251/2025-DPC, item I.3, p. 3 de 5",
+   "quote": "R$ 230,32",
+   "official": true,
+   "confidence": "media",
+   "notes": "O valor aparece na linha \"Credenciamento de Estabelecimentos de Treinamento Náutico e/ou pessoas físicas ... Atestado de Treinamento para Arrais-Amador e Categoria Veleiro e Atestado de Treinamento para Motonauta\". Dizer que quem paga é a escola é inferência pelo nome do serviço.",
+   "id": "taxas-14"
+  },
+  {
+   "topic": "taxas",
+   "claim": "Exames fora da sede da CP/DL/AG podem ser feitos a pedido; pela NORMAM-211, as despesas da equipe (transporte, hospedagem, alimentação) ficam com o interessado ou a entidade solicitante.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.2 b), pp. 5-5 e 5-6",
+   "quote": "serão custeadas pelo interessado ou entidade solicitante do serviço, com base no Art. 38 da LESTA.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-15"
+  },
+  {
+   "topic": "taxas",
+   "claim": "A Tabela de Indenizações de 2026 diz que o deslocamento e a estada de vistoriadores e peritos são pagos pelo solicitante, \"exceto para equipes de aplicação de provas para obtenção de CHA\". Isso diverge da NORMAM-211, art. 5.4.2 b).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "locator": "Anexo A da Portaria nº 251/2025-DPC, Considerações iniciais, item 2, p. 1 de 5",
+   "quote": "exceto para equipes de aplicação de provas para obtenção de Carteira de Habilitação de Amadores (CHA).",
+   "official": true,
+   "confidence": "media",
+   "notes": "Divergência entre fontes oficiais: confirmar com a CP/DL/AG antes de pedir exame fora da sede.",
+   "id": "taxas-16"
+  },
+  {
+   "topic": "gru",
+   "claim": "A NORMAM-211 orienta emitir a GRU da CHA no site da DPC, pelo ícone \"Serviços da Diretoria\" (serviços administrativos).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1 d), p. 5-4",
+   "quote": "Para emissão da GRU, o interessado deverá acessar a página da DPC (https://www.marinha.mil.br/dpc/) e selecionar o ícone “Serviços da Diretoria” (serviços administrativos);",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-17"
+  },
+  {
+   "topic": "gru",
+   "claim": "A página \"Serviços da Diretoria\" da DPC leva ao sistema de GRU, em \"Serviços Administrativos, Educacionais e Vistorias\" (dpc1.marinha.mil.br/scam/emitgruscam/...).",
+   "source_url": "https://www.marinha.mil.br/dpc/servicos-da-diretoria",
+   "locator": "Página \"Serviços da Diretoria\", seção \"GRU - Guia de Recolhimento da União\"",
+   "quote": "GRU - GUIA DE RECOLHIMENTO DA UNIÃO Estorno Comprovante de Pagamento Multas decorrentes de autos de infração Serviços Administrativos, Educacionais e Vistorias",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-18"
+  },
+  {
+   "topic": "gru",
+   "claim": "A página da DPC \"Saiba como obter a CHA\" manda selecionar, no formulário da GRU, o tipo \"Serviços Administrativos\" e o serviço de inscrição para exame e emissão da CHA.",
+   "source_url": "https://www.marinha.mil.br/dpc/node/3510",
+   "locator": "DPC, \"Para quem quer se tornar um Navegador Amador\" (node/3510)",
+   "quote": "Tipo de Serviço = \"Serviços Administrativos\" Serviços Administrativos = \"Inscrição para exame de habilitação de Amador e emissão da Carteira de Habilitação de Amador - CHA\"",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-19"
+  },
+  {
+   "topic": "gru",
+   "claim": "No formulário de GRU em uso em 2026, o caminho é: Organização Militar (a CP/DL/AG onde você será atendido) > Categoria \"AMADOR\" > Tipo de Serviço \"SERVICOS ADMINISTRATIVOS\" > Item de serviço da CHA.",
+   "source_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/solicitar_servico.asp",
+   "locator": "Sistema SCAM, tela solicitar_servico.asp",
+   "quote": "Categoria ... AMADOR AQUAVIÁRIO CADASTRAMENTO",
+   "official": true,
+   "confidence": "media",
+   "notes": "Opções observadas no formulário em 2026-10-07; o texto citado é o início da lista de categorias.",
+   "id": "taxas-20"
+  },
+  {
+   "topic": "gru",
+   "claim": "O sistema de GRU avisa que a guia só pode ser paga após um dia útil da emissão e é compensada em até dois dias úteis após o pagamento.",
+   "source_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/mensagem.asp?v_destino=servicos",
+   "locator": "Sistema SCAM, tela de avisos \"Emissão de GRU\"",
+   "quote": "A Guia de Recolhimento só poderá ser paga após UM DIA ÚTIL a partir da data de emissão. A Guia de Recolhimento é compensada EM ATÉ DOIS DIAS ÚTEIS após seu pagamento.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-21"
+  },
+  {
+   "topic": "gru",
+   "claim": "Segundo a Capitania dos Portos da Bahia, Pix e cartão de crédito podem ser usados logo após gerar a GRU e compensam quase na hora; o boleto só pode ser pago 24 h depois da geração e compensa em 48 h.",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA, \"Inscrição em Exame e Emissão de CHA de Arrais Amador\", Etapa 1",
+   "quote": "Pagamentos por pix e cartão de crédito podem ser efetuados imediatamente após a geração da GRU e são compensados também quase que imediatamente. Pagamentos por boleto só podem ser efetuados após 24 horas da geração da guia",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Prazos informados por uma Capitania. Divergem em parte do aviso genérico do sistema de GRU.",
+   "id": "taxas-22"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "O resumo oficial do procedimento de Arrais-Amador é: treinamento em ETN credenciado → pagamento da GRU → agendamento eletrônico na CP/DL/AG → entrega de documentos e agendamento do exame → exame escrito/eletrônico (com captura da foto, se aprovado) → CHA digital no aplicativo gov.br.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.3 (fluxograma), p. 5-6",
+   "quote": "5.4.3. Resumo do Procedimento para habilitação de ARA",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O fluxograma em pdftotext sai fragmentado; a citação é o título do item. Os blocos do fluxograma dizem \"Agendamento eletrônico para atendimento na CP/DL/AG\", \"Realização de treinamento náutico em ETN credenciado\", \"Pagamento de GRU...\" e \"Caso aprovado, emissão da CHA Digital e sua disponibilização no aplicativo Gov.Br\".",
+   "id": "taxas-23"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "O agendamento eletrônico de atendimento (SISAP) é feito pela internet. A CPBA indica o endereço https://atendimento-dpc.marinha.mil.br/sisap/agendamento/#/, e o menu do site da DPC aponta para https://sistemas.dpc.mar.mil.br/sisap/agendamento.",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA node/386, Etapa 2; menu \"Agendamento eletrônico\" das páginas da DPC",
+   "quote": "agende, pela internet, o seu atendimento presencial acessando https://atendimento-dpc.marinha.mil.br/sisap/agendamento/#/",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O link do menu aponta para https://sistemas.dpc.mar.mil.br/sisap/agendamento. As páginas da CPBA e da CPES usam também https://atendimento-dpc.marinha.mil.br/sisap/agendamento/#/. Sistema atrás de login, não inspecionado por dentro.",
+   "id": "taxas-24"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Na CPBA, depois que a GRU compensa, o atendimento presencial é agendado no SISAP com login do CPF e senha gov.br. O serviço a escolher é \"CHA ... Inscrição para o exame e emissão para Arrais-Amador, Mestre-Amador e Capitão-Amador\".",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA node/386, Etapa 2",
+   "quote": "Faça o login usando o seu CPF e senha do portal gov.br. O serviço a ser agendado é:",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-25"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Na CPBA, no atendimento agendado o candidato entrega os documentos, marca data e horário da prova, recebe um protocolo e tem a foto capturada.",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA node/386, Etapa 3",
+   "quote": "O interessado dará entrada no pedido, marcará a data e horário de realização da prova e receberá um protocolo de atendimento.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-26"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Na CPBA, se o processo ficar \"em exigência\", a pendência deve ser resolvida em até 60 dias; depois disso o pedido é indeferido.",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA node/386, Etapa 4",
+   "quote": "A pendência deve ser resolvida em até 60 dias.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-27"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Na CPBA, as provas de ARA e MSA ocorrem de segunda a sexta-feira, em computadores, com 40 questões. O resultado sai ao final da prova.",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA node/386, \"O que é?\" e Etapa 6",
+   "quote": "As provas ocorrem na Capitania de segunda a sexta-feira, e são realizadas em computadores dedicados a essa finalidade, constando de 40 questões.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-28"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Na CPBA, reprovado ou faltoso precisa pagar nova GRU e protocolar novo pedido. A segunda prova só pode ser feita cinco dias úteis após a anterior (regra informada pela CPBA).",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA node/386, Etapa 8",
+   "quote": "Uma segunda prova só pode ser realizada após cinco dias úteis da data da prova anterior.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Regra local publicada pela CPBA; não localizada na NORMAM-211.",
+   "id": "taxas-29"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "A Carta de Serviços da DPC diz que a CHA é solicitada presencialmente no Grupo de Atendimento ao Público (GAP) da CP/DL/AG da jurisdição.",
+   "source_url": "https://www.marinha.mil.br/dpc/carta-de-servicos/carteira-de-habilita%C3%A7%C3%A3o-de-amador-cha",
+   "locator": "DPC, Carta de Serviços ao Usuário, \"Carteira de Habilitação de Amador\", Formas de atendimento",
+   "quote": "Presencial, no Grupo de Atendimento ao Público das Capitanias (CP), Delegacias (DL) e Agências (AG) da jurisdição:",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-30"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "O prazo de atendimento da CHA informado pela DPC é de 15 dias úteis a partir do recebimento da documentação, sem pendências.",
+   "source_url": "https://www.marinha.mil.br/dpc/carta-de-servicos/carteira-de-habilita%C3%A7%C3%A3o-de-amador-cha",
+   "locator": "DPC, Carta de Serviços ao Usuário, \"Carteira de Habilitação de Amador\", Prazo",
+   "quote": "Prazo: 15 dias úteis a contar do recebimento da documentação, desde que não exista qualquer pendência na análise documental.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-31"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Para saber em qual Capitania, Delegacia ou Agência será atendido, a DPC indica a página \"Localize a Capitania Mais Próxima\", que lista as OMs por UF com seus municípios de jurisdição.",
+   "source_url": "https://www.marinha.mil.br/dpc/node/3510",
+   "locator": "DPC node/3510",
+   "quote": "Para saber em qual Capitania, Delegacia ou Agência você será atendido, clique aqui",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O link aponta para https://www.marinha.mil.br/dpc/localize-capitania/ ; a lista completa sai com ?field_uf_localize_value=All (7 páginas).",
+   "id": "taxas-32"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Os exames de ARA, MSA e CPA são, preferencialmente, aplicados na sede da CP/DL/AG. A critério da OM, podem ser feitos em outros locais (clubes, marinas, escolas), com agendamento prévio.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.2 b), p. 5-5",
+   "quote": "Os exames deverão ser realizados preferencialmente nas sedes das CP/DL/AG.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-33"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "Os exames de Mestre-Amador e de Arrais-Amador são programados por cada CP/DL/AG, que também divulga a lista de aprovados.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, itens 2.b e 3.a",
+   "quote": "Os exames para a categoria de Arrais-Amador serão programados pelas CP/DL/AG.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-34"
+  },
+  {
+   "topic": "agendamento",
+   "claim": "A CPMA (São Luís) divulga em página própria os dias e horários das provas de Mestre-Amador, Arrais-Amador e Motonauta na sede.",
+   "source_url": "https://www.marinha.mil.br/cpma/node/123",
+   "locator": "CPMA node/123",
+   "quote": "Divulga-se os dias e horários de aplicação das provas de Mestre Amador, Arrais Amador e Motonauta na Sede desta Capitania.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-35"
+  },
+  {
+   "topic": "documentos",
+   "claim": "Para se inscrever nos exames de ARA, MSA e CPA é preciso apresentar: cópia autenticada do documento de identidade com foto e do CPF (a autenticação pode ser feita no local), comprovante de residência, comprovante da GRU, atestado médico emitido há menos de um ano e, para ARA, o atestado de treinamento náutico.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1 a)–f), pp. 5-3 e 5-4",
+   "quote": "o candidato deverá apresentar a seguinte documentação na CP/DL/AG ou no local estabelecido por essas Organizações Militares:",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-36"
+  },
+  {
+   "topic": "documentos",
+   "claim": "O atestado médico é dispensado para quem apresenta CNH dentro da validade.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1 e), p. 5-4",
+   "quote": "O atestado médico é dispensável para os candidatos que apresentarem sua Carteira Nacional de Habilitação (CNH) dentro da validade.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-37"
+  },
+  {
+   "topic": "documentos",
+   "claim": "Para ARA, o atestado de treinamento náutico (anexo 5-E) precisa de firma reconhecida em cartório ou assinatura digital gov.br do representante da ETN, do instrutor e do aluno.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1 f), p. 5-4",
+   "quote": "Atestado de Treinamento Náutico para Arrais-Amador com reconhecimento de firma em cartório, ou assinatura digital pelo GOV.BR do representante legal da ETN, do instrutor e do aluno",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-38"
+  },
+  {
+   "topic": "documentos",
+   "claim": "O atestado de treinamento de Arrais-Amador vale em todo o país por 2 anos a partir da emissão e exige no mínimo seis horas de treinamento.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-E",
+   "locator": "NORMAM-211, Anexo 5-E, Obs. 1 e campo de horas",
+   "quote": "O Atestado de Treinamento de Arrais Amador possui abrangência nacional e validade de 02 anos a partir da data de sua emissão",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O mesmo anexo traz \"(mínimo de seis horas)\". O Anexo 5-A, Seção II, divide em 2 h teóricas e 4 h práticas.",
+   "id": "taxas-39"
+  },
+  {
+   "topic": "documentos",
+   "claim": "Para se inscrever no exame de Mestre-Amador é preciso ter CHA de Arrais-Amador válida; para Capitão-Amador, CHA de Mestre-Amador válida, ambas no ato da inscrição.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1, Notas, p. 5-4",
+   "quote": "dentro da validade, ambos no ato da efetiva inscrição junto à CP/DL/AG.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-40"
+  },
+  {
+   "topic": "documentos",
+   "claim": "O exame de ARA, MSA e CPA é prova escrita ou eletrônica em português. O candidato precisa ter pelo menos 18 anos e saber ler e escrever.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.2 a), p. 5-4",
+   "quote": "prova escrita (ou eletrônica) no idioma português (Brasil), devendo o candidato possuir idade mínima de 18 (dezoito) anos e saber ler e escrever.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-41"
+  },
+  {
+   "topic": "documentos",
+   "claim": "Habilitação de amador estrangeira não é convertida em CHA por equivalência. Quem quiser a CHA deve começar pela categoria ARA.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.8, p. 5-12",
+   "quote": "Não é permitida a concessão de CHA, por equivalência, a nenhuma habilitação estrangeira",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-42"
+  },
+  {
+   "topic": "provas",
+   "claim": "Exame de Capitão-Amador: prova escrita de 40 questões, com duração máxima de 4 horas.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, item 1.b",
+   "quote": "O exame constará de uma prova escrita contendo 40 questões, com a duração máxima de quatro horas.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-43"
+  },
+  {
+   "topic": "provas",
+   "claim": "Exame de Mestre-Amador: prova eletrônica ou escrita de 40 questões de múltipla escolha (quatro com uso de carta náutica), com duração máxima de 3 horas.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, item 2.c",
+   "quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões de múltipla escolha, sendo quatro com utilização de carta náutica, com a duração máxima de três horas.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-44"
+  },
+  {
+   "topic": "provas",
+   "claim": "Exame de Arrais-Amador: prova eletrônica ou escrita de 40 questões, com duração máxima de 2 horas.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, item 3.b",
+   "quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões, com a duração máxima de duas horas.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-45"
+  },
+  {
+   "topic": "provas",
+   "claim": "Nas três categorias, a nota máxima é 10,0 e é aprovado quem obtém pelo menos 5,0 pontos.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, itens 1.c, 2.d e 3.c",
+   "quote": "A prova possui valor máximo de 10,0 pontos, e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos na prova.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-46"
+  },
+  {
+   "topic": "provas",
+   "claim": "No CPA, a DPC divulga no site a programação, a prova e o gabarito e a lista de aprovados. O candidato pode pedir revisão em até 7 dias úteis após a divulgação, por requerimento à OM onde se inscreveu.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, itens 1.e e 1.f",
+   "quote": "O candidato poderá pedir revisão da sua prova em um prazo máximo de 07 dias úteis, contados a partir da data de divulgação oficial da prova e do gabarito",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-47"
+  },
+  {
+   "topic": "provas",
+   "claim": "A página \"Exame para Categoria de Capitão Amador\" da DPC publica provas, gabaritos e listas de aprovados dos exames CPA de 2017 a 2026, inclusive o gabarito preliminar do CPA II/2026.",
+   "source_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "locator": "DPC, página do exame CPA, seção 2026",
+   "quote": "2026 Exame CPA - I - Prova CPA - I - Gabarito Final CPA - I - Relação dos Aprovados CPA - II - Gabarito Preliminar CPA - II - Prova",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-48"
+  },
+  {
+   "topic": "provas",
+   "claim": "O gabarito preliminar do CPA II/2026 foi elaborado pelo Centro de Instrução Almirante Graça Aranha (CIAGA).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-10/2-ES-CPA-II-2026-GABARITO-PRELIMINAR-06OUT2026.pdf",
+   "locator": "Gabarito preliminar ES-CPA-II/2026, cabeçalho",
+   "quote": "CENTRO DE INSTRUÇÃO ALMIRANTE GRAÇA ARANHA EXAME PARA SELEÇÃO DE CAPITÃO AMADOR-II-2026 (ES-CPA-II/2026) GABARITO PRELIMINAR",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-49"
+  },
+  {
+   "topic": "calendario",
+   "claim": "Pela NORMAM-211, as inscrições para o CPA são feitas, em princípio, em fevereiro e agosto, e as provas em abril e outubro do mesmo ano. As datas podem mudar, e recomenda-se acompanhar o calendário no site da DPC.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "locator": "NORMAM-211, Anexo 5-A, Seção I, item 1.a",
+   "quote": "Em princípio, as inscrições serão feitas em todas essas Organizações Militares nos meses de fevereiro e agosto para exames a serem realizados, respectivamente, nos meses de abril e outubro do mesmo ano",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-50"
+  },
+  {
+   "topic": "calendario",
+   "claim": "CPA I/2026: inscrições de 2 de fevereiro a 13 de março de 2026; prova em 29 de abril de 2026, das 14h às 18h (horário de Brasília).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/nota%20capitao%20amador-3.pdf",
+   "locator": "Nota DPC/SSTA de 21/01/2026, \"Exame de Capitão-Amador (CPA I/2026)\"",
+   "quote": "Entre os dias 02 de fevereiro e 13 de março de 2026 estarão abertas as inscrições para o 1º Exame de Capitão-Amador (CPA I/2026), a ocorrer no dia 29 de abril de 2026 com início às 14h e término às 18h (horário de Brasília).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-51"
+  },
+  {
+   "topic": "calendario",
+   "claim": "CPA II/2026: inscrições de 3 a 18 de agosto de 2026; prova em 1º de outubro de 2026, das 14h às 18h, com portões abertos às 12h e fechados às 13h30.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/PDF.pdf",
+   "locator": "Nota DPC/SSTA de 17/07/2026, \"Exame de Capitão-Amador (CPA II/2026)\"",
+   "quote": "Entre os dias 03 e 18 de agosto de 2026 estarão abertas as inscrições para o 2o Exame de Capitão-Amador (CPA II/2026), a ocorrer no dia 1º de outubro de 2026 com início às 14h e término às 18h (horário de Brasília).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-52"
+  },
+  {
+   "topic": "calendario",
+   "claim": "Cronograma do CPA II/2026: gabarito preliminar até 06/10/2026; recursos de 6 a 16/10/2026 na CP/DL/AG onde foi feita a prova; gabarito final até 05/11/2026; lista final de aprovados até 16/11/2026.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/PDF.pdf",
+   "locator": "Nota DPC/SSTA de 17/07/2026, Cronograma, itens 3 a 6",
+   "quote": "A divulgação da lista final dos aprovados será publicada no site da DPC até o dia 16 de novembro de 2026.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-53"
+  },
+  {
+   "topic": "calendario",
+   "claim": "A inscrição no CPA é presencial no GAP de qualquer CP/DL/AG e não exige agendamento.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/PDF.pdf",
+   "locator": "Nota DPC/SSTA de 17/07/2026",
+   "quote": "Ressalta-se que NÃO É NECESSÁRIO O AGENDAMENTO.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-54"
+  },
+  {
+   "topic": "calendario",
+   "claim": "Capitanias replicaram o mesmo cronograma do CPA II/2026, por exemplo a CPRS: inscrições 03AGO a 18AGO2026 e prova em 01OUT2026.",
+   "source_url": "https://www.marinha.mil.br/cprs/sites/www.marinha.mil.br.cprs/files/2026-07/Calendario%20exame%20Capitao-Amador%20-%20Turma%20-%20CPA-II-2026.pdf",
+   "locator": "CPRS, \"Exame de Habilitação para Capitão Amador II/2026\"",
+   "quote": "UNO - Inscrições - 03AGO a 18AGO2026;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-55"
+  },
+  {
+   "topic": "calendario",
+   "claim": "Na CPM (Macaé), a inscrição no CPA II/2026 foi presencial no GAP, sem agendamento, de segunda a quinta das 08h20 às 13h30 e às sextas das 08h20 às 10h30.",
+   "source_url": "https://www.marinha.mil.br/cpm/sites/www.marinha.mil.br.cpm/files/2026-10/CPA%20II-2026%20EDITAL%282%29.pdf",
+   "locator": "CPM, Edital \"Exame de Habilitação para Capitão Amador II/2026\"",
+   "quote": "Serão realizadas presencialmente na Capitania dos Portos de Macaé, no Grupo de Atendimento ao Público (GAP), sem necessidade de agendamento",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-56"
+  },
+  {
+   "topic": "calendario",
+   "claim": "A CPPB (João Pessoa) publicou o cronograma do CPA II/2026 e cita o pagamento de GRU de R$ 60,32 como documento de inscrição.",
+   "source_url": "https://www.marinha.mil.br/cppb/exame_capitao_amador",
+   "locator": "CPPB, \"Exame de Habilitação para Capitão Amador II/2026\", lista de documentos",
+   "quote": "Comprovante de pagamento da GRU no valor de R$ 60,32.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-57"
+  },
+  {
+   "topic": "calendario",
+   "claim": "A CPPB aplicou a prova do CPA II/2026 na própria sede (Av. Barão do Triunfo, 372, Varadouro, João Pessoa), sem exigir agendamento para a inscrição.",
+   "source_url": "https://www.marinha.mil.br/cppb/exame_capitao_amador",
+   "locator": "CPPB, \"Exame de Habilitação para Capitão Amador II/2026\", Observações e Local",
+   "quote": "Não é necessário agendamento.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-58"
+  },
+  {
+   "topic": "renovacao",
+   "claim": "A CHA vale em todo o território nacional por 10 anos a partir da emissão; para quem tem 65 anos ou mais, vale 5 anos.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.1 b) e c), p. 5-7",
+   "quote": "A CHA possui validade em todo território nacional por um período de dez anos a partir da data da sua emissão.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-59"
+  },
+  {
+   "topic": "renovacao",
+   "claim": "Para renovar a CHA, apresenta-se em qualquer CP/DL/AG: requerimento (anexo 5-H), cópia da CHA, atestado médico (ou CNH válida), comprovante de residência e GRU de renovação.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.4, p. 5-9 e 5-10",
+   "quote": "Comprovante de pagamento da Guia de Recolhimento da União (GRU) referente à renovação de Carteira de Habilitação de Amador.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-60"
+  },
+  {
+   "topic": "renovacao",
+   "claim": "O protocolo de renovação emitido pela CP/DL/AG autoriza conduzir embarcação por até 30 dias.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.4, Notas, p. 5-10",
+   "quote": "Está autorizada a condução de uma embarcação com protocolo para renovação de CHA, emitida pela CP/DL/AG, por até 30 dias após sua expedição.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-61"
+  },
+  {
+   "topic": "renovacao",
+   "claim": "Após cinco anos do vencimento, a CHA não é mais renovável: é preciso novo processo de inscrição e exame. Para evitar isso, basta pagar a GRU de renovação até a data-limite e depois agendar o serviço.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.4, Notas, p. 5-10",
+   "quote": "deverá manifestar-se, pelo menos, até a referida data limite, por meio do pagamento da GRU, iniciando o processo de renovação da CHA.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-62"
+  },
+  {
+   "topic": "renovacao",
+   "claim": "Com a CHA digital, cédulas extraviadas, roubadas, furtadas ou danificadas não têm \"2ª via\": o amador pede renovação em qualquer CP/DL/AG, com declaração (anexo 5-D) ou boletim de ocorrência.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.5, p. 5-11",
+   "quote": "só poderão requerer a sua renovação, a ser solicitada junto a qualquer CP/DL/AG.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-63"
+  },
+  {
+   "topic": "renovacao",
+   "claim": "A CHA digital fica disponível no aplicativo gov.br depois que o cidadão é avisado por SMS e/ou e-mail. Ela pode ser impressa se o QR Code ficar legível.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.1 a), pp. 5-6 e 5-7",
+   "quote": "Alternativamente, a CHA digital pode ser apresentada de forma impressa caso a impressão esteja legível, permitindo que o QR Code possa ser lido.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-64"
+  },
+  {
+   "topic": "capitanias",
+   "claim": "A página oficial \"Localize a Capitania Mais Próxima\" da DPC lista 69 Organizações Militares: Capitanias dos Portos, Capitanias Fluviais, Delegacias e Agências, com os municípios de jurisdição de cada uma.",
+   "source_url": "https://www.marinha.mil.br/dpc/localize-capitania?field_uf_localize_value=All",
+   "locator": "DPC, localize-capitania?field_uf_localize_value=All, páginas 0 a 6",
+   "quote": "CPPB - Capitania dos Portos da Paraíba",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Contagem feita pelo pesquisador: 10 tabelas por página nas páginas 0 a 5 e 9 na página 6, total 69. A citação é uma das entradas.",
+   "id": "taxas-65"
+  },
+  {
+   "topic": "capitanias",
+   "claim": "O seletor \"Organização Militar\" do sistema de GRU traz as mesmas 69 CP/CF/DL/AG, além de DPC, CIAGA, CIABA e Comando do 8º Distrito Naval.",
+   "source_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/solicitar_servico.asp",
+   "locator": "Sistema SCAM, campo \"Organização Militar\" (cd_orgao)",
+   "quote": "CAPITANIA DOS PORTOS DA PARAIBA",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Contagem do pesquisador: 73 opções, das quais 4 não são CP/CF/DL/AG.",
+   "id": "taxas-66"
+  },
+  {
+   "topic": "capitanias",
+   "claim": "O site da CFAOC cita um \"Destacamento de São Gabriel da Cachoeira\" entre suas organizações subordinadas. Ele não aparece na lista de CP/DL/AG da DPC.",
+   "source_url": "https://www.marinha.mil.br/cfaoc/",
+   "locator": "Site CFAOC, rodapé \"Organizações Subordinadas\"",
+   "quote": "Destacamento de São Gabriel da Cachoeira",
+   "official": true,
+   "confidence": "media",
+   "notes": "Não se sabe se atende amadores; a confirmar.",
+   "id": "taxas-67"
+  },
+  {
+   "topic": "capitanias",
+   "claim": "A Agência Fluvial de Tefé fica na Rua Duque de Caxias, 287, Centro, Tefé-AM, segundo a Carta de Serviços de 2025. A página do SIM traz outro endereço, aparentemente errado.",
+   "source_url": "https://www.marinha.mil.br/cfaoc/sites/www.marinha.mil.br.cfaoc/files/MeuUpload/Carta%20ao%20usuario%20AGTEFE%20-%20Carta%20aos%20usuarios%20atual%202025%20AgTefe%20%2802%2008%29.pdf",
+   "locator": "Carta de Serviços AgTefé 2025",
+   "quote": "Rua: Duque de Caxias, 287, Centro.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "",
+   "id": "taxas-68"
+  }
+ ],
+ "locais": [
+  {
+   "id": "om-pa-cpaor",
+   "nome": "Capitania dos Portos da Amazônia Oriental (CPAOR)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Belém",
+   "uf": "PA",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -1.447904,
+   "lon": -48.497185,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cpaor/",
+   "fonte_url": "https://www.marinha.mil.br/cpaor/",
+   "evidencia": "Página oficial publica: \"R. Gaspar Viana, 575 - Campina - Belém - PA - CEP: 66053-090\"",
+   "verificado_em": "2026-10-07",
+   "contato": "GAP (91) 3218-3954; WhatsApp (91) 98134-9000; cpaor.gap@marinha.mil.br (Carta de Serviços 2026)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Bairro/CEP divergem entre rodapé e Carta de Serviços 2026"
+  },
+  {
+   "id": "om-pa-cfs",
+   "nome": "Capitania Fluvial de Santarém (CFS)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Santarém",
+   "uf": "PA",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -2.421022,
+   "lon": -54.738252,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfs/",
+   "fonte_url": "https://www.marinha.mil.br/cfs/Contato",
+   "evidencia": "Página oficial publica: \"Av. Tapajós, 1937 - Bairro Aldeia, Santarém-PA - CEP: 68040-004\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(93) 99203-1762 (Sala de Estado); cfs.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-ap-cpap",
+   "nome": "Capitania dos Portos do Amapá (CPAP)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Santana",
+   "uf": "AP",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -0.054205,
+   "lon": -51.167452,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpap/",
+   "fonte_url": "https://www.marinha.mil.br/cpap/sites/www.marinha.mil.br.cpap/files/CARTA%20SERVI%C3%87OS%20CPAP%20REV%202025_0.pdf",
+   "evidencia": "Página oficial publica: \"Rua Cláudio Lúcio Monteiro, no 2000, bairro Daniel – Santana-AP, CEP: 68926-060\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(96) 99112-1538 (Carta de Serviços CPAP 2025)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Jurisdição inclui municípios do AP e do PA (DPC localize-capitania)"
+  },
+  {
+   "id": "om-ap-agoiapoque",
+   "nome": "Agência da Capitania dos Portos no Oiapoque (AgOiapoque)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Oiapoque",
+   "uf": "AP",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": 3.848908,
+   "lon": -51.832856,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpap/",
+   "fonte_url": "https://www.marinha.mil.br/cpap/sites/www.marinha.mil.br.cpap/files/CARTA%20SERVI%C3%87OS%20CPAP%20REV%202025_0.pdf",
+   "evidencia": "Página oficial publica: \"Rua Joaquim Caetano da Silva, n o 950, bairro Nova Esperança – Oiapoque-AP, CEP: 68980-000. A Agência foi criada pela Portaria nº 56/2019, do Comandan\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(96) 98408-1326 (Carta de Serviços CPAP 2025)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Sem site próprio; informações no site da CPAP"
+  },
+  {
+   "id": "om-am-cfaoc",
+   "nome": "Capitania Fluvial da Amazônia Ocidental (CFAOC)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Manaus",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -3.131633,
+   "lon": -59.982504,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfaoc/",
+   "fonte_url": "https://www.marinha.mil.br/cfaoc/node/25",
+   "evidencia": "Página oficial publica: \"Av. Marquês de Santa Cruz, nº264, Centro, Manaus-AM CEP: 69005-050\"",
+   "verificado_em": "2026-10-07",
+   "contato": "GAP (92) 2123-4912; WhatsApp GAP (92) 98818-3233; cfaoc.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: Nominatim cidade (endereço não localizado no OSM). Rodapé cita também 'Destacamento de São Gabriel da Cachoeira' (não consta na lista DPC de CP/DL/AG)"
+  },
+  {
+   "id": "om-am-agitacoatiara",
+   "nome": "Agência Fluvial de Itacoatiara (AgItacoatiara)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Itacoatiara",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -3.14779,
+   "lon": -58.446104,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfaoc/node/32",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com9dn",
+   "evidencia": "Página oficial publica: \"Av. Torquato Tapajós nº 262 - Centro - Itacoatiara\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(92) 3521-2626 (SIM); Carta de Serviços CFAOC informa (92) 3521-1131 / WhatsApp (92) 99505-7281",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Telefones divergem entre SIM e Carta de Serviços"
+  },
+  {
+   "id": "om-am-agparintins",
+   "nome": "Agência Fluvial de Parintins (AgParintins)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Parintins",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -2.624668,
+   "lon": -56.734375,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfaoc/node/32",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com9dn",
+   "evidencia": "Página oficial publica: \"Rua Benjamin da Silva, nº 1820 - Centro - Parintins\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(92) 3533-2967 (SIM/Com9ºDN)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-am-agtefe",
+   "nome": "Agência Fluvial de Tefé (AgTefe)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Tefé",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -3.345698,
+   "lon": -64.708628,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfaoc/node/32",
+   "fonte_url": "https://www.marinha.mil.br/cfaoc/sites/www.marinha.mil.br.cfaoc/files/MeuUpload/Carta%20ao%20usuario%20AGTEFE%20-%20Carta%20aos%20usuarios%20atual%202025%20AgTefe%20%2802%2008%29.pdf",
+   "evidencia": "Página oficial publica: \"Rua: Duque de Caxias, 287, Centro. CEP: 69.550-013 - Tefé /AM\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(97) 3343-2572 / WhatsApp (97) 99183-2853",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. A página SIM/Com9ºDN traz endereço aparentemente copiado da CPPR (Rua Benjamin Constant, 707 - Centro Histórico) — usar o da Carta de Serviços"
+  },
+  {
+   "id": "om-am-ageirunepe",
+   "nome": "Agência Fluvial de Eirunepé (AgEirunepe)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Eirunepé",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -6.656765,
+   "lon": -69.866161,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfaoc/node/32",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com9dn",
+   "evidencia": "Página oficial publica: \"Av. Felipe Cunha, nº 1934 - Centro - Eirunepé\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(97) 3481-1916",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Jurisdição inclui municípios do AC e AM"
+  },
+  {
+   "id": "om-am-cft",
+   "nome": "Capitania Fluvial de Tabatinga (CFT)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Tabatinga",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -4.235829,
+   "lon": -69.92917,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cft/",
+   "fonte_url": "https://www.marinha.mil.br/cft/",
+   "evidencia": "Página oficial publica: \"Rua Duarte Coelho, 143, Portobrás, Tabatinga, AM, CEP: 69640-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "Telefone/WhatsApp (97) 99146-3365; (92) 2123-4547 (rodapé)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-am-agbacre",
+   "nome": "Agência Fluvial de Boca do Acre (AgBAcre)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Boca do Acre",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -8.755349,
+   "lon": -67.393087,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "fonte_url": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "evidencia": "Página oficial publica: \"Av. Quinze de Novembro, n° 2.221, Centro, CEP: 69.850-000 - Boca do Acre-AM\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(97) 3453-5300; agbacre.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Subordinada à CFPV; jurisdição AC/AM"
+  },
+  {
+   "id": "om-am-aghumaita",
+   "nome": "Agência Fluvial de Humaitá (AgHumaita)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Humaitá",
+   "uf": "AM",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -7.491168,
+   "lon": -63.02483,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "fonte_url": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "evidencia": "Página oficial publica: \"Rua Portobrás, nº 55, São Domingos Sávio, CEP: 69.800-000 - Humaitá-AM\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(92) 2123-4744; aghumaita.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-ac-agcsul",
+   "nome": "Agência Fluvial de Cruzeiro do Sul (AgCSul)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Cruzeiro do Sul",
+   "uf": "AC",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -7.636248,
+   "lon": -72.669165,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "fonte_url": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "evidencia": "Página oficial publica: \"Rua José Soriano da Silva, nº 130, Formoso, Cruzeiro do Sul - AC, CEP 69980-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(68) 99226-5025 / (92) 99220-4704 (WhatsApp); agcsul.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. SIM/Com9ºDN ainda lista 'Rua Paraíba s/nº - Remanso'; página da CFPV (atualizada 26/02/2026) foi preferida"
+  },
+  {
+   "id": "om-ro-aggmirim",
+   "nome": "Agência Fluvial de Guajará-Mirim (AgGMirim)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Guajará-Mirim",
+   "uf": "RO",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -10.780424,
+   "lon": -65.332782,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "fonte_url": "https://www.marinha.mil.br/cfpv/conteudo/om-subordinadas",
+   "evidencia": "Página oficial publica: \"Avenida 15 de Novembro, n° 418, Centro, CEP: 76850-000 - Guajará-Mirim-RO\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(92) 2123-4746",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-ro-cfpv",
+   "nome": "Capitania Fluvial de Porto Velho (CFPV)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Porto Velho",
+   "uf": "RO",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -8.764971,
+   "lon": -63.906847,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfpv/",
+   "fonte_url": "https://www.marinha.mil.br/cfpv/conteudo/contato-informacoes",
+   "evidencia": "Página oficial publica: \"Rua Henrique Dias, 395 - Centro - Porto Velho - RO, 76801-056\"",
+   "verificado_em": "2026-10-07",
+   "contato": "GAP (69) 99986-7649; cfpv.gap@marinha.mil.br; atendimento ter–qui 08:45–11:15, com agendamento",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-rr-agcaracarai",
+   "nome": "Agência Fluvial de Caracaraí (AgCaracarai)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Caracaraí",
+   "uf": "RR",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": 1.82737,
+   "lon": -61.124936,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/agcaracarai/",
+   "fonte_url": "https://www.marinha.mil.br/agcaracarai/",
+   "evidencia": "Página oficial publica: \"Avenida Dr. Zany s/n, Caracaraí-RR\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(92) 2123-4548 (rodapé do site); SIM/Com9ºDN informa (95) 3521-1681",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-ma-cpma",
+   "nome": "Capitania dos Portos do Maranhão (CPMA)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "São Luís",
+   "uf": "MA",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -2.527855,
+   "lon": -44.306668,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpma/",
+   "fonte_url": "https://www.marinha.mil.br/cpma/node/135",
+   "evidencia": "Página oficial publica: \"Av. D. Pedro II, 2 - Centro Cid. / Est.: São Luiz - MA CEP: 65010-450\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(98) 2107-0104 / 2107-0121; GAP (98) 99144-6831; cpma.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-ma-agimperatriz",
+   "nome": "Agência Fluvial de Imperatriz (AgImperatriz)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Imperatriz",
+   "uf": "MA",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -5.526928,
+   "lon": -47.478115,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cpma/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com4dn",
+   "evidencia": "Página oficial publica: \"Rua Coroliano Milhomem, nº 41 - Centro - Imperatriz - MA\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(99) 3525-3391 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Sem site próprio localizado"
+  },
+  {
+   "id": "om-pi-cppi",
+   "nome": "Capitania dos Portos do Piauí (CPPI)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Parnaíba",
+   "uf": "PI",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -2.914751,
+   "lon": -41.766195,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cppi/",
+   "fonte_url": "https://www.marinha.mil.br/cppi/",
+   "evidencia": "Página oficial publica: \"Av. das Nações Unidas, 530 – Bairro do Carmo – Parnaíba – Piauí – Brasil | CEP 64.200-040\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(86) 3321-2770 / 3321-2872; GAP WhatsApp (86) 98165-8984; cppi.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-ce-cpce",
+   "nome": "Capitania dos Portos do Ceará (CPCE)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -3.719445,
+   "lon": -38.475965,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cpce/",
+   "fonte_url": "https://www.marinha.mil.br/cpce/sites/www.marinha.mil.br.cpce/files/carta_ao_usuario-CPCE-2023.pdf",
+   "evidencia": "Página oficial publica: \"Avenida Vicente de Castro nº 4917 Mucuripe – Fortaleza/CE – Brasil CEP: 60180-410\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(85) 3133-5100; GAP (85) 3133-5139 / WhatsApp (85) 99829-4535; cpce.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Carta de Serviços de 2023; posto de atendimento no Vapt Vupt (Rua Demétrio Menezes, 3.751, Antônio Bezerra)"
+  },
+  {
+   "id": "om-ce-agcamocim",
+   "nome": "Agência da Capitania dos Portos em Camocim (AgCamocim)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Camocim",
+   "uf": "CE",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -2.899758,
+   "lon": -40.839319,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpce/",
+   "fonte_url": "https://www.marinha.mil.br/cpce/sites/www.marinha.mil.br.cpce/files/carta_ao_usuario-CPCE-2023.pdf",
+   "evidencia": "Página oficial publica: \"Rua Dr. João Thomé nº 113 Centro – Camocim/CE – CEP: 62.400-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(88) 3621-1003",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Carta de Serviços CPCE 2023; sem site próprio"
+  },
+  {
+   "id": "om-ce-agaracati",
+   "nome": "Agência da Capitania dos Portos em Aracati (AgAracati)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Aracati",
+   "uf": "CE",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -4.558259,
+   "lon": -37.767894,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cpce/",
+   "fonte_url": "https://www.marinha.mil.br/cpce/sites/www.marinha.mil.br.cpce/files/carta_ao_usuario-CPCE-2023.pdf",
+   "evidencia": "Página oficial publica: \"Avenida Coronel Alexanzito, nº 955 Centro – Aracati/CE – CEP: 62800-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(88) 3241-1495",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Carta de Serviços CPCE 2023; sem site próprio"
+  },
+  {
+   "id": "om-rn-cprn",
+   "nome": "Capitania dos Portos do Rio Grande do Norte (CPRN)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Natal",
+   "uf": "RN",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -5.775921,
+   "lon": -35.205925,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cprn/",
+   "fonte_url": "https://www.marinha.mil.br/cprn/node/48",
+   "evidencia": "Página oficial publica: \"Rua Chile, nº 232, Ribeira, Natal - RN, CEP: 59012-250\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(84) 3113-5416 / 3113-5419; cprn.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-rn-agabranca",
+   "nome": "Agência da Capitania dos Portos em Areia Branca (AgABranca)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Areia Branca",
+   "uf": "RN",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -4.956251,
+   "lon": -37.136697,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cprn/historico_agencia_agbran",
+   "fonte_url": "https://www.marinha.mil.br/cprn/node/48",
+   "evidencia": "Página oficial publica: \"Rua João Félix, nº 12, Areia Branca - RN, CEP: 59655-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(84) 3332-2211; WhatsApp (84) 98701-3020; agabranca.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Agendamento pelo site da CPRN"
+  },
+  {
+   "id": "om-pb-cppb",
+   "nome": "Capitania dos Portos da Paraíba (CPPB)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "João Pessoa",
+   "uf": "PB",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -7.121598,
+   "lon": -34.882028,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cppb/",
+   "fonte_url": "https://www.marinha.mil.br/cppb/fale_conosco",
+   "evidencia": "Página oficial publica: \"Rua Barão do Triunfo, nº 372 - Varadouro - João Pessoa/PB CEP: 58010-400\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(83) 3241-2881; cppb.secom@marinha.mil.br; atendimento presencial mediante agendamento",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Página do exame CPA II/2026 da CPPB cita GRU de R$ 60,32"
+  },
+  {
+   "id": "om-pe-cppe",
+   "nome": "Capitania dos Portos de Pernambuco (CPPE)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Recife",
+   "uf": "PE",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -8.059825,
+   "lon": -34.87127,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cppe/",
+   "fonte_url": "https://www.marinha.mil.br/cppe/",
+   "evidencia": "Página oficial publica: \"Rua de São Jorge, 25 - Recife Antigo - Recife/PE - CEP 50030-240\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(81) 3424-5200",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. SIM/CPPE informa 'Rua São José, nº 25 - Bairro do Recife' e (81) 3424-7111"
+  },
+  {
+   "id": "om-al-cpal",
+   "nome": "Capitania dos Portos de Alagoas (CPAL)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Maceió",
+   "uf": "AL",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -9.670158,
+   "lon": -35.727491,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cpal/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/cppe",
+   "evidencia": "Página oficial publica: \"Rua do Uruguai, nº 44 - Jaraguá - Maceió - AL\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(82) 3215-5800 (Sala de Estado, página de contato da CPAL); cpal.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-al-agpenedo",
+   "nome": "Agência Fluvial de Penedo (AgPenedo)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Penedo",
+   "uf": "AL",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -10.296553,
+   "lon": -36.579863,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpal/agpenedo",
+   "fonte_url": "https://www.marinha.mil.br/cpal/agpenedo",
+   "evidencia": "Página oficial publica: \"Av. Duque de Caxias 152 - Centro - Penedo, AL - CEP: 57200-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(82) 3512-4790; agpenedo.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-se-cpse",
+   "nome": "Capitania dos Portos de Sergipe (CPSE)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Aracaju",
+   "uf": "SE",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -10.913017,
+   "lon": -37.047881,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpse/",
+   "fonte_url": "https://www.marinha.mil.br/cpse/",
+   "evidencia": "Página oficial publica: \"Av. Ivo do Prado, 752 - São José, Aracaju - SE, 49015-070\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(79) 3711-1646 (Sala de Estado); GAP (79) 3711-1614 / (79) 99814-3568",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-ba-cpba",
+   "nome": "Capitania dos Portos da Bahia (CPBA)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Salvador",
+   "uf": "BA",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -12.9749626,
+   "lon": -38.5153604,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cpba/",
+   "fonte_url": "https://www.marinha.mil.br/cpba/node/386",
+   "evidencia": "Página oficial (node/386) indica \"Veja aqui a localização\" com link de mapa; serviço \"CHA - ... INSCRIÇÃO PARA O EXAME E EMISSÃO PARA ARRAIS-AMADOR, MESTRE-AMADOR E CAPITÃO-AMADOR\"",
+   "verificado_em": "2026-10-07",
+   "contato": "WhatsApp (71) 99968-7930 (página CPBA node/386)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: link de mapa na página oficial CPBA node/386. Coordenadas do link oficial 'Veja aqui a localização' (Google Maps) da página CPBA node/386"
+  },
+  {
+   "id": "om-ba-delilheus",
+   "nome": "Delegacia da Capitania dos Portos em Ilhéus (DelIlheus)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Ilhéus",
+   "uf": "BA",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -14.792599,
+   "lon": -39.045384,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cpba/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com2dn",
+   "evidencia": "Página oficial publica: \"Rua Major Homem Del Rey, nº 217 - Ilhéus\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(73) 3634-2912 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Sem site próprio; Carta de Serviços no site da CPBA"
+  },
+  {
+   "id": "om-ba-delpseguro",
+   "nome": "Delegacia da Capitania dos Portos em Porto Seguro (DelPSeguro)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Porto Seguro",
+   "uf": "BA",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -16.451827,
+   "lon": -39.066136,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpba/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com2dn",
+   "evidencia": "Página oficial publica: \"Rua São Pedro, s/nº - Centro - Porto Seguro - BA\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(73) 3288-1805 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: Nominatim q=\"Rua São Pedro, Centro, Porto Seguro\" (rua). Sem site próprio; Carta de Serviços 2026 no site da CPBA"
+  },
+  {
+   "id": "om-ba-cfj",
+   "nome": "Capitania Fluvial de Juazeiro (CFJ)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Juazeiro",
+   "uf": "BA",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -9.4100275,
+   "lon": -40.5110278,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cfj/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com2dn",
+   "evidencia": "Página oficial publica: \"Av. José Petitinga, nº 606 - Santo Antônio - Juazeiro\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(74) 3611-0350 (SIM); WhatsApp no site wa.me/5574999765063",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: link de mapa no menu 'Fale Conosco' do site oficial da CFJ. Link de mapa no site da CFJ aponta -9.4100275,-40.5110278"
+  },
+  {
+   "id": "om-ba-agbjlapa",
+   "nome": "Agência Fluvial de Bom Jesus da Lapa (AgBJLapa)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Bom Jesus da Lapa",
+   "uf": "BA",
+   "regiao": "Nordeste",
+   "pais": "Brasil",
+   "lat": -13.282786,
+   "lon": -43.180195,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfj/historico-agbjlp",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com2dn",
+   "evidencia": "Página oficial publica: \"Av. Almirante Berutti, s/nº - Centro - Bom Jesus da Lapa\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(77) 3481-4126 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-es-cpes",
+   "nome": "Capitania dos Portos do Espírito Santo (CPES)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Vitória",
+   "uf": "ES",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -20.317359,
+   "lon": -40.297724,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cpes/",
+   "fonte_url": "https://www.marinha.mil.br/cpes/node/125",
+   "evidencia": "Página oficial publica: \"Rua Belmiro Rodrigues da Silva, nº 145, Enseada do Suá, Vitória-ES, CEP 29.050-435\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(27) 2124-6500; GAP (27) 2124-6555; atendimento mediante agendamento eletrônico",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-rj-cprj",
+   "nome": "Capitania dos Portos do Rio de Janeiro (CPRJ)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -22.911014,
+   "lon": -43.209373,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cprj/",
+   "fonte_url": "https://www.marinha.mil.br/cprj/telefonesuteis",
+   "evidencia": "Página oficial publica: \"Rua Alfred Agache, s/nº - Centro - Rio de Janeiro-RJ - CEP: 20 021-000 (Localização)\"",
+   "verificado_em": "2026-10-07",
+   "contato": "GAP (21) 2197-2554; cprj.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-rj-delareis",
+   "nome": "Delegacia da Capitania dos Portos em Angra dos Reis (DelAReis)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Angra dos Reis",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -23.155541,
+   "lon": -44.234481,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/delareis/",
+   "fonte_url": "https://www.marinha.mil.br/cprj/omsubo",
+   "evidencia": "Página oficial publica: \"Av. Almirante Júlio Cesar de Noronha, 13 - Angra dos Reis - RJ - CEP.: 23900-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(24) 3365-1854 / (24) 99991-0934 (CPRJ, Endereço e Tel. Úteis)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-rj-delitacuruca",
+   "nome": "Delegacia da Capitania dos Portos em Itacuruçá (DelItacuruca)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Mangaratiba (Itacuruçá)",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -22.941596,
+   "lon": -44.118192,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/delitacuruca/",
+   "fonte_url": "https://www.marinha.mil.br/cprj/omsubo",
+   "evidencia": "Página oficial publica: \"Praça Marcílio Dias, 1 - Itacuruçá - RJ - CEP.: 23 880-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "WhatsApp (21) 2680-8003; delitacuruca.gap@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-rj-agparaty",
+   "nome": "Agência da Capitania dos Portos em Paraty (AgParaty)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Paraty",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -23.219646,
+   "lon": -44.71542,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cprj/omsubo",
+   "fonte_url": "https://www.marinha.mil.br/cprj/omsubo",
+   "evidencia": "Página oficial publica: \"Rua Doutor Pereira, 36 - Paraty - RJ - CEP.: 23 970-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(24) 98129-0083 / (24) 98123-6056 (CPRJ, Endereço e Tel. Úteis)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: Nominatim cidade. Sem site próprio"
+  },
+  {
+   "id": "om-rj-cpm",
+   "nome": "Capitania dos Portos de Macaé (CPM)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Macaé",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -22.28283,
+   "lon": -41.964909,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cpm/",
+   "fonte_url": "https://www.marinha.mil.br/cpm/sites/www.marinha.mil.br.cpm/files/2026-01/Endere%C3%A7o%20e%20Tels.pdf",
+   "evidencia": "Página oficial publica: \"Rua Denach Lima, S/nº – Imbetiba – Macaé/RJ CEP: 27915-530\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(22) 2772-1889; cpm.atendimento@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-rj-delcfrio",
+   "nome": "Delegacia da Capitania dos Portos em Cabo Frio (DelCFrio)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Cabo Frio",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -22.874193,
+   "lon": -42.018075,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/delcfrio/",
+   "fonte_url": "https://www.marinha.mil.br/delcfrio/sites/www.marinha.mil.br.delcfrio/files/pasta/Carta%20de%20Servicos%20ao%20Cidadao%202025_0.pdf",
+   "evidencia": "Página oficial publica: \"Rua Jorge Veiga, nr 230 – Bairro Gambôa – Cabo Frio -RJ, CEP: 28922-030. \"",
+   "verificado_em": "2026-10-07",
+   "contato": "(22) 2645-5056 / 2645-5074",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-rj-agsjbarra",
+   "nome": "Agência da Capitania dos Portos em São João da Barra (AgSJBarra)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "São João da Barra",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -21.634093,
+   "lon": -41.048246,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cpm/",
+   "fonte_url": "https://www.marinha.mil.br/cpm/sites/www.marinha.mil.br.cpm/files/OM%20SUBORDINADAS.pdf",
+   "evidencia": "Página oficial publica: \"RUA JOAQUIM THOMAZ DE AQUINO FILHO - 260 - - CENTRO - SÃO JOÃO DA BARRA - RJ - BRASIL - 28200-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(22) 2741-4807 (CPM, Endereço e Tels.)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Sem site próprio; Carta de Serviços no site da CPM"
+  },
+  {
+   "id": "om-mg-cfmg",
+   "nome": "Capitania Fluvial de Minas Gerais (CFMG)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -19.971535,
+   "lon": -43.944974,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfmg/",
+   "fonte_url": "https://www.marinha.mil.br/cfmg/node/4315",
+   "evidencia": "Página oficial publica: \"Avenida Celso Porfirio Machado, 1100, Belvedere - Belo Horizonte - MG, CEP 30320-400\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(31) 97328-0222 (Secretaria); cfmg.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-mg-delpirapora",
+   "nome": "Delegacia Fluvial de Pirapora (DelPirapora)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Pirapora",
+   "uf": "MG",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -17.349377,
+   "lon": -44.95079,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/delpirapora/",
+   "fonte_url": "https://drupal-homolog.marinha.mil.br/delpirapora/sites/www.marinha.mil.br.delpirapora/files/2025-07/Carta.pdf",
+   "evidencia": "Página oficial publica: \"Praça Almirante Tamandaré, nº 1 – Centro – Pirapora-MG, CEP: 39.270-050\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(38) 3741-3394; GAP WhatsApp (38) 98842-7299; dlpira.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade. Carta de Serviços hospedada em drupal-homolog.marinha.mil.br (link do site oficial)"
+  },
+  {
+   "id": "om-mg-delfurnas",
+   "nome": "Delegacia Fluvial de Furnas (DelFurnas)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "São José da Barra",
+   "uf": "MG",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -20.678992,
+   "lon": -46.33475,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/delfurnas/",
+   "fonte_url": "https://www.marinha.mil.br/delfurnas/node/6",
+   "evidencia": "Página oficial publica: \"Rua Lavras 288, Furnas - São José da Barra - MG CEP: 37945-000\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(31) 98312-1339; GAP WhatsApp (31) 98311-9381; delfurnas.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-sp-cpsp",
+   "nome": "Capitania dos Portos de São Paulo (CPSP)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Santos",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -23.960945,
+   "lon": -46.316632,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cpsp/",
+   "fonte_url": "https://www.marinha.mil.br/cpsp/menu_contatos",
+   "evidencia": "Página oficial publica: \"Cais da Marinha Porto de Santos Macuco Santos/SP: segunda-feira (13h15 às 16h00) e de terça a sexta-feira (08h15 às 11h00). Sala de Estado\"",
+   "verificado_em": "2026-10-07",
+   "contato": "Sala de Estado (13) 3221-3455; WhatsApp (13) 99695-5846 (dúvidas sobre agendamento); Seção de Pessoal Amador ramal 1024",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-sp-delssebastiao",
+   "nome": "Delegacia da Capitania dos Portos em São Sebastião (DelSSebastiao)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "São Sebastião",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -23.800817,
+   "lon": -45.398382,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/delsebastiao/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com8dn",
+   "evidencia": "Página oficial publica: \"Av. Dr. Altino Arantes, nº 544 - Centro - São Sebastião\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(12) 3892-1555 / 3892-1680 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Site oficial usa o caminho /delsebastiao/"
+  },
+  {
+   "id": "om-sp-cftp",
+   "nome": "Capitania Fluvial do Tietê-Paraná (CFTP)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Barra Bonita",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -22.495699,
+   "lon": -48.551036,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cftp/",
+   "fonte_url": "https://www.marinha.mil.br/cftp/",
+   "evidencia": "Página oficial publica: \"Avenida Pedro Ometto, 804, Centro - Barra Bonita-SP, 17.340-250\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(14) 3604-1000; cftp.gap@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-sp-delpepitacio",
+   "nome": "Delegacia Fluvial de Presidente Epitácio (DelPEpitacio)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Presidente Epitácio",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "pais": "Brasil",
+   "lat": -21.765251,
+   "lon": -52.104271,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/delpepitacio/",
+   "fonte_url": "https://www.marinha.mil.br/delpepitacio/",
+   "evidencia": "Página oficial publica: \"Rua Porto Alegre nº 14-71 Vila Santa Rosa CEP:19472-076\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(18) 3281-3093",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. SIM/Com8ºDN: 'Rua Porto Alegre, nº 1471 - Centro', tel. (18) 3281-3175"
+  },
+  {
+   "id": "om-pr-cppr",
+   "nome": "Capitania dos Portos do Paraná (CPPR)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Paranaguá",
+   "uf": "PR",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -25.515079,
+   "lon": -48.500219,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cppr/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com8dn",
+   "evidencia": "Página oficial publica: \"Rua Benjamin Constant, nº 707 - Centro Histórico - Paranaguá - PR\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(41) 3721-1500 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-pr-cfrp",
+   "nome": "Capitania Fluvial do Rio Paraná (CFRP)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Foz do Iguaçu",
+   "uf": "PR",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -25.545671,
+   "lon": -54.587058,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfrp/",
+   "fonte_url": "https://www.marinha.mil.br/cfrp/",
+   "evidencia": "Página oficial publica: \"Rua Barão do Rio Branco, 170 - Centro - Foz do Iguaçu- PR - CEP: 85851-310 - Fone/Fax DSTA (45) 3523-1574\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(45) 3523-1574 (DSTA); cfrp.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-pr-delguaira",
+   "nome": "Delegacia Fluvial de Guaíra (DelGuaira)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Guaíra",
+   "uf": "PR",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -24.085192,
+   "lon": -54.256752,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/delguaira/",
+   "fonte_url": "https://www.marinha.mil.br/delguaira/",
+   "evidencia": "Página oficial publica: \"Praça Presidente Dutra, 88 Vila Velha - Guaíra/PR\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(44) 3642-1166 / 3642-1606 / 3642-3089; delguaira.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-sc-cpsc",
+   "nome": "Capitania dos Portos de Santa Catarina (CPSC)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -27.596155,
+   "lon": -48.568333,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cpsc/",
+   "fonte_url": "https://www.marinha.mil.br/cpsc/como-chegar",
+   "evidencia": "Página oficial publica: \"Rua 14 de Julho, 440 - Bairro Estreito\"",
+   "verificado_em": "2026-10-07",
+   "contato": "Disque-denúncia (48) 3248-4800 / (48) 98833-0311; cpsc.faleconosco@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-sc-delitajai",
+   "nome": "Delegacia da Capitania dos Portos em Itajaí (DelItajai)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Itajaí",
+   "uf": "SC",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -26.906308,
+   "lon": -48.65366,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/delitajai/",
+   "fonte_url": "https://www.marinha.mil.br/delitajai/node/340",
+   "evidencia": "Página oficial publica: \"Av. Pref. Paulo Bauer, 1055 - Centro, Itajaí - SC, 88301-020 mais\"",
+   "verificado_em": "2026-10-07",
+   "contato": "",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-sc-delsfsul",
+   "nome": "Delegacia da Capitania dos Portos em São Francisco do Sul (DelSFSul)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "São Francisco do Sul",
+   "uf": "SC",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -26.2447063,
+   "lon": -48.6398594,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/delsfsul/",
+   "fonte_url": "https://www.marinha.mil.br/delsfsul/",
+   "evidencia": "Página oficial publica: \"Rua Dr. Lauro Müller, 138 - Centro - São Francisco do Sul - SC\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(47) 3444-2205; dlsfsul.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: link de mapa ('ONDE APRESENTAR A DOCUMENTAÇÃO') no site oficial da DelSFSul. Link de mapa oficial no site"
+  },
+  {
+   "id": "om-sc-dellaguna",
+   "nome": "Delegacia da Capitania dos Portos em Laguna (DelLaguna)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Laguna",
+   "uf": "SC",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -28.4853108,
+   "lon": -48.7828479,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/dellaguna/",
+   "fonte_url": "https://www.marinha.mil.br/dellaguna/faleconosco",
+   "evidencia": "Página oficial publica: \"Avenida Engenheiro Colombo Machado Salles, nº 72\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(48) 3644-0196; GAP WhatsApp (48) 99107-4389",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: link de mapa na página inicial do site oficial da DelLaguna. Link de mapa oficial no site"
+  },
+  {
+   "id": "om-rs-cprs",
+   "nome": "Capitania dos Portos do Rio Grande do Sul (CPRS)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Rio Grande",
+   "uf": "RS",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -32.031151,
+   "lon": -52.082331,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cprs/",
+   "fonte_url": "https://www.marinha.mil.br/cprs/faleconosco",
+   "evidencia": "Página oficial publica: \"Rua Almirante Cerqueira e Souza, nº 198 CEP: 96.201-260 - Rio Grande – RS\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(53) 3233-6119; STA (53) 3233-6183 / 6185; cprs.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-rs-agtramandai",
+   "nome": "Agência da Capitania dos Portos em Tramandaí (AgTramandai)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Tramandaí",
+   "uf": "RS",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -29.983504,
+   "lon": -50.131348,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cprs/agtramandai",
+   "fonte_url": "https://www.marinha.mil.br/cprs/sites/www.marinha.mil.br.cprs/files/2025-02/Carta_Servicos_Usuario_AgTramandai_2025_0.pdf",
+   "evidencia": "Página oficial publica: \"Av. Beira Rio, 199 CEP: 95590-000 – Barra - Tramandaí – RS\"",
+   "verificado_em": "2026-10-07",
+   "contato": "WhatsApp Business (51) 99933-0411 (Carta 2025); SIM: (51) 3684-2037",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-rs-cfpa",
+   "nome": "Capitania Fluvial de Porto Alegre (CFPA)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -30.032329,
+   "lon": -51.237259,
+   "coord_precisao": "exata",
+   "site": "https://www.marinha.mil.br/cfpa/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com5dn",
+   "evidencia": "Página oficial publica: \"Rua dos Andradas, nº 386 - Centro - Porto Alegre - RS\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(51) 3226-1711 / 3225-4782 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-rs-deluruguaiana",
+   "nome": "Delegacia Fluvial de Uruguaiana (DelUruguaiana)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Uruguaiana",
+   "uf": "RS",
+   "regiao": "Sul",
+   "pais": "Brasil",
+   "lat": -29.746631,
+   "lon": -57.084924,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cprs/dlurug",
+   "fonte_url": "https://www.marinha.mil.br/cprs/dlurug",
+   "evidencia": "Página oficial publica: \"Rua Domingos de Almeida nº 1194, Centro, CEP: 97501-600 - Uruguaiana - RS\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(55) 3412-1088 / 3412-2337; WhatsApp (55) 98422-0270; deluruguaiana.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado. Patromoria avançada em Porto Xavier-RS (Rua Uruguai, 237)"
+  },
+  {
+   "id": "om-mt-cfmt",
+   "nome": "Capitania Fluvial de Mato Grosso (CFMT)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -15.576636,
+   "lon": -56.059133,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfmt/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com6dn",
+   "evidencia": "Página oficial publica: \"Avenida Oátomo Canavarros, nº 850 - Bela Vista - Cuiabá - MT\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(65) 3623-6724 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-mt-agcaceres",
+   "nome": "Agência Fluvial de Cáceres (AgCaceres)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Cáceres",
+   "uf": "MT",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -16.064407,
+   "lon": -57.687897,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfmt/node/34",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com6dn",
+   "evidencia": "Página oficial publica: \"Rua Professor José Rizzo, nº 1 - Centro - Caceres - MT\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(65) 3223-1416 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-mt-agsfaraguaia",
+   "nome": "Agência Fluvial de São Félix do Araguaia (AgSFAraguaia)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "São Félix do Araguaia",
+   "uf": "MT",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -11.616394,
+   "lon": -50.662931,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfmt/node/33",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com6dn",
+   "evidencia": "Página oficial publica: \"Rua do Comércio, s/n° - Centro - São Felix do Araguaia - MT\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(66) 3522-1278 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-mt-agsinop",
+   "nome": "Agência Fluvial de Sinop (AgSinop)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Sinop",
+   "uf": "MT",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -11.840579,
+   "lon": -55.499353,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfmt/node/78",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com6dn",
+   "evidencia": "Página oficial publica: \"Rua das Orquídeas, nº 3978 - Parque das Araras - Sinop - MT\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(65) 99912-3831 (SIM; DDD 65 não é o de Sinop — confirmar)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-ms-cfpn",
+   "nome": "Capitania Fluvial do Pantanal (CFPN)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Corumbá",
+   "uf": "MS",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -19.004147,
+   "lon": -57.66966,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfpn/",
+   "fonte_url": "https://www.marinha.mil.br/cfpn/contato",
+   "evidencia": "Página oficial publica: \"RUA DELAMARE, 806\"",
+   "verificado_em": "2026-10-07",
+   "contato": "Disque-denúncia (67) 3231-6444; cfpn.secom@marinha.mil.br; atendimento ter–qui 08h30–11h30 (página de 2021)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-ms-agpmurtinho",
+   "nome": "Agência Fluvial de Porto Murtinho (AgPMurtinho)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Porto Murtinho",
+   "uf": "MS",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -21.705978,
+   "lon": -57.895254,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfpn/",
+   "fonte_url": "https://www.marinha.mil.br/sim/pt-br/com6dn",
+   "evidencia": "Página oficial publica: \"Rua Cel. Pedro Celestino, nº 1011 - Centro - Porto Murtinho - RS\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(67) 3287-1660 (SIM)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: endereco-estruturado."
+  },
+  {
+   "id": "om-go-cfgo",
+   "nome": "Capitania Fluvial de Goiás (CFGO)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -16.677574,
+   "lon": -49.258372,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.marinha.mil.br/cfgo/",
+   "fonte_url": "https://www.marinha.mil.br/cfgo/node/15",
+   "evidencia": "Página oficial publica: \"Endereço: Rua 2, 49 - Setor Central CEP 74013-020 - Goiânia/GO\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(62) 3954-7906; atendimento ter–qui 09:00–11:30 e 13:45–16:30 (página de 2021)",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: Nominatim q=\"Rua 2, Setor Central, Goiânia\" (rua, sem número)."
+  },
+  {
+   "id": "om-df-cfb",
+   "nome": "Capitania Fluvial de Brasília (CFB)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "pais": "Brasil",
+   "lat": -15.793987,
+   "lon": -47.8828,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfb/",
+   "fonte_url": "https://www.marinha.mil.br/cfb/sites/www.marinha.mil.br.cfb/files/2025-10/CARTA%2BDE%2BSERVICO%2BAO%2BUSUARIO%2BATUAL%2B14.04.2025.pdf",
+   "evidencia": "Página oficial publica: \"Esplanada dos Ministérios, s/n, Bloco N, Anexo A, Térreo, CEP: 70055-900 Brasília-DF\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(61) 3429-1450; WhatsApp (61) 99521-0569; cfb.secom@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  },
+  {
+   "id": "om-to-cfat",
+   "nome": "Capitania Fluvial do Araguaia-Tocantins (CFAT)",
+   "tipos": [
+    "orgao-maritimo"
+   ],
+   "cidade": "Palmas",
+   "uf": "TO",
+   "regiao": "Norte",
+   "pais": "Brasil",
+   "lat": -10.183785,
+   "lon": -48.333642,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.marinha.mil.br/cfat/",
+   "fonte_url": "https://www.marinha.mil.br/cfat/node/59",
+   "evidencia": "Página oficial publica: \"913 Sul s/nº - Praia do Prata - Plano Diretor Sul- Palmas-TO, CEP:77017-171 -\"",
+   "verificado_em": "2026-10-07",
+   "contato": "(63) 3216-1715; GAP (63) 99955-0677; cfat.gap@marinha.mil.br",
+   "cursos": [
+    "prova Arrais-Amador",
+    "prova Mestre-Amador",
+    "prova Capitão-Amador"
+   ],
+   "pratica": "Não oferece prática; inscreve, aplica as provas teóricas e emite/renova a CHA.",
+   "preco": "GRU R$ 60,32 por serviço de CHA (Portaria 251/DPC/2025, vigente em 2026)",
+   "notas": "Provas ARA/MSA programadas pelas CP/DL/AG e inscrição CPA em todas elas (NORMAM-211 art. 5.4/Anexo 5-A); confirmar agenda na OM. Coord.: cidade."
+  }
+ ],
+ "open_questions": [
+  "Custo de exame fora da sede da CP/DL/AG: a NORMAM-211 art. 5.4.2 b) põe as despesas da equipe por conta do solicitante, mas a Tabela de Indenizações 2026 (Considerações iniciais, item 2) exclui as 'equipes de aplicação de provas para obtenção de CHA'. Qual regra vale?",
+  "Valor da GRU em 2027: a Portaria 251/DPC/2025 (R$ 60,32) vale desde 01/01/2026, com reajuste pelo IPCA. É preciso acompanhar uma nova portaria por volta de dez/2026 em https://www.marinha.mil.br/dpc/tabelas-de-indenizacoes.",
+  "SISAP (agendamento eletrônico): exige login gov.br, então os nomes exatos dos serviços não foram conferidos por dentro. Há dois endereços em uso (atendimento-dpc.marinha.mil.br/sisap e sistemas.dpc.mar.mil.br/sisap). Qual é o canônico?",
+  "Não foi encontrada página de serviço da CHA no portal gov.br/servicos (dois URLs testados deram 404). Existe ficha oficial no catálogo gov.br?",
+  "Toda Agência e Delegacia aplica ARA, MSA e CPA na própria sede, ou algumas concentram a prova na Capitania superior? A norma atribui a programação às CP/DL/AG, mas isso não foi verificado OM por OM.",
+  "Regras locais da CPBA (2ª prova só após 5 dias úteis; pendência resolvida em até 60 dias) valem para as outras OMs? Não foram achadas na NORMAM-211.",
+  "Prazo de pagamento da GRU: o sistema diz 'só poderá ser paga após UM DIA ÚTIL', e a CPBA diz que Pix e cartão compensam na hora. O prazo depende da forma de pagamento?",
+  "Endereço de rua da CPBA (Salvador) não está no site oficial. As coordenadas vêm do link de mapa oficial, e o OSM indica Av. Lafayete Coutinho, Comércio.",
+  "Inconsistências na página do Serviço de Identificação da Marinha (SIM): endereço da AgTefé igual ao da CPPR, telefone da CPAP igual ao da AgImperatriz, UF 'RS' para Porto Murtinho, DDD 65 para Sinop. Corrigir na fonte ou ligar para confirmar.",
+  "O 'Destacamento de São Gabriel da Cachoeira' (citado no site da CFAOC) atende amadores? Ele não está na lista DPC de 69 CP/DL/AG.",
+  "Calendário do CPA 2027 (inscrições e provas) ainda não publicado em 2026-10-07. Pela norma, a expectativa é inscrições em fev/ago e provas em abr/out.",
+  "Os prazos do comprovante de residência divergem: NORMAM 120 dias, CPRN 90 dias, CPPB 60 dias (CPA II/2026). Qual a OM exige na prática?",
+  "24 OMs têm só coordenada de cidade e 32 só de rua (Nominatim). Seria bom refinar com links de mapa oficiais de cada OM, se houver."
+ ]
+}

@@ -1,0 +1,1164 @@
+{
+ "proa": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "Dead ahead Pela proa (Mrel = 000º).",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/proa",
+    "loc": "verbete \"proa\", acepção 2",
+    "quote": "A parte dianteira do navio no terço do seu comprimento."
+   },
+   {
+    "txt": "Wikipédia PT, Proa (fonte secundária)",
+    "url": "https://pt.wikipedia.org/wiki/Proa",
+    "loc": "abertura do artigo \"Proa\"",
+    "quote": "A proa é a parte dianteira do casco de um navio ou barco"
+   }
+  ],
+  "verificado": true
+ },
+ "popa": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "Dead astern Pela popa (Mrel = 180º).",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/popa",
+    "loc": "verbete \"popa\", acepção 1",
+    "quote": "Parte posterior do navio, que se opõe à proa."
+   },
+   {
+    "txt": "Wikipédia PT, Popa (fonte secundária)",
+    "url": "https://pt.wikipedia.org/wiki/Popa",
+    "loc": "abertura do artigo \"Popa\"",
+    "quote": "A popa ou ré é a secção traseira de uma embarcação"
+   }
+  ],
+  "verificado": true
+ },
+ "bombordo": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-34",
+  "quote": "Port Bombordo (BB).",
+  "extras": [
+   {
+    "txt": "RIPEAM-72 consolidado (DPC)",
+    "url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+    "loc": "Regra 21(b)",
+    "quote": "uma verde a boreste e uma encarnada a bombordo"
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/bombordo",
+    "loc": "verbete \"bombordo\"",
+    "quote": "Lado esquerdo do navio, olhando da popa para a proa (abreviatura: BB )."
+   }
+  ],
+  "verificado": true
+ },
+ "boreste": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-34",
+  "quote": "Starboard Boreste (BE).",
+  "extras": [
+   {
+    "txt": "RIPEAM-72 consolidado (DPC)",
+    "url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+    "loc": "Regra 21(b)",
+    "quote": "uma verde a boreste e uma encarnada a bombordo"
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/boreste",
+    "loc": "verbete \"boreste\" (Brasil)",
+    "quote": "Lado direito do navio, para quem olha da popa para a proa (abreviatura: BE ). [Equivalente no português de Portugal: estibordo.]"
+   }
+  ],
+  "verificado": true
+ },
+ "traves": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "On the starboard beam No través de boreste (Mrel = 090º).",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"abeam\"",
+    "quote": "a relative bearing at right angles to the ship's keel"
+   }
+  ],
+  "verificado": true
+ },
+ "bochecha": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "On the starboard bow Na bochecha de boreste.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, 'ângulo do alvo' (Mrel = 045º), p. A5-27",
+    "quote": "outro navio está pela bochecha de boreste (Mrel"
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/bochecha",
+    "loc": "verbete \"bochecha\", acepção 3",
+    "quote": "Parte mais saliente do bojo do navio na direcção da amura de proa."
+   }
+  ],
+  "verificado": true
+ },
+ "alheta": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "On the starboard quarter Na alheta de boreste.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, cap. 42, manobra em tormenta tropical (alheta = 135º relativos), p. 42-50",
+    "quote": "alheta de BE (135º"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"quarter\"",
+    "quote": "Designation for the aft part of the ship between 120° and 180° to starboard"
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"quarter\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ]
+ },
+ "meia-nau": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-26",
+  "quote": "Amidships A meio navio; a meia nau; a meio (o leme).",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/meia-nau",
+    "loc": "verbete \"meia-nau\", acepção 1",
+    "quote": "Linha de popa à proa equidistante das amuradas."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"amidships\"",
+    "quote": "A position half way along the length of a ship or boat."
+   }
+  ],
+  "verificado": true
+ },
+ "linha-de-centro": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-26",
+  "quote": "Centerline Linha de centro (longitudinal) do navio.",
+  "extras": [
+   {
+    "txt": "RIPEAM-72 consolidado (DPC)",
+    "url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+    "loc": "Regra 21(a)",
+    "quote": "situada sobre o eixo longitudinal da embarcação"
+   }
+  ],
+  "verificado": true
+ },
+ "avante": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "Forward; fore Avante, para vante.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/avante",
+    "loc": "verbete \"avante\", acepção 1",
+    "quote": "Adiante, para a frente."
+   }
+  ],
+  "verificado": true
+ },
+ "a-re": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-26",
+  "quote": "Aft, abaft, astern A ré.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"aft\"",
+    "quote": "Toward the stern or rear of a vessel."
+   }
+  ],
+  "verificado": true
+ },
+ "casco": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-33",
+  "quote": "Hull Casco.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/casco",
+    "loc": "verbete \"casco\", acepção 9",
+    "quote": "Navio sem mastros nem aparelho."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"hull\"",
+    "quote": "The shell and framework of the basic flotation-oriented part of a ship."
+   }
+  ],
+  "verificado": true
+ },
+ "costado": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/costado",
+  "loc": "verbete \"costado\", acepção 2",
+  "quote": "Parte lateral exterior do casco da embarcação.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, nomenclatura do navio (gunwale), p. A5-33",
+    "quote": "Borda (interseção do convés principal com o"
+   }
+  ],
+  "verificado": true
+ },
+ "obras-vivas": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/obras%20vivas",
+  "loc": "verbete \"obra\", locução \"obras vivas\"",
+  "quote": "Parte de uma embarcação que se encontra submersa, entre o lume de água e a quilha.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/carena",
+    "loc": "verbete \"carena\", acepção 1",
+    "quote": "Costado do navio desde a quilha até à cinta de água."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"bottom\"",
+    "quote": "The underside of a vessel; the portion of a vessel that is always underwater."
+   }
+  ],
+  "verificado": true
+ },
+ "obras-mortas": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/obras%20vivas",
+  "loc": "verbete \"obra\", locução \"obras mortas\"",
+  "quote": "Parte de uma embarcação que não se encontra submersa, acima da linha de água.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"topsides\"",
+    "quote": "The part of the hull between the waterline and the deck."
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"topsides\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ]
+ },
+ "linha-dagua": {
+  "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+  "loc": "verbete \"waterline\"",
+  "quote": "The line where the hull of a ship meets the water's surface.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/obras%20vivas",
+    "loc": "verbete \"obra\", locução \"obras mortas\"",
+    "quote": "Parte de uma embarcação que não se encontra submersa, acima da linha de água."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Fonte principal (Wikipedia 'Glossary (A–Z)', verbete waterline) não contém o trecho: a URL citada é a página-índice A–Z; a definição está na página M–Z. A fonte secundária (Priberam, 'obras mortas') não define a linha d'água."
+ },
+ "borda-livre": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-32",
+  "quote": "Freeboard Borda Livre.",
+  "extras": [
+   {
+    "txt": "NORMAM-211/DPC",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "Definições, p. VI",
+    "quote": "CONVÉS DE BORDA LIVRE - é o convés completo mais elevado que a embarcação possui"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"freeboard\"",
+    "quote": "the vertical distance from the current waterline to the lowest point on the highest continuous watertight deck"
+   }
+  ],
+  "verificado": true
+ },
+ "calado": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-27",
+  "quote": "Draft; draught Calado.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/calado",
+    "loc": "verbete \"calado\", acepção 10",
+    "quote": "Distância vertical da quilha do navio à linha de flutuação."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"draft\"",
+    "quote": "The depth of a ship's keel below the waterline."
+   }
+  ],
+  "verificado": true,
+  "obs": "O exemplo numérico (veleiro de 32 pés, calado 1,4 a 2 m) não tem fonte citada."
+ },
+ "pontal": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/pontal",
+  "loc": "verbete \"pontal\", acepção 1",
+  "quote": "Altura do navio desde a quilha até à primeira coberta.",
+  "extras": [
+   {
+    "txt": "NORMAM-211/DPC",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "Anexo, instruções do formulário (campo 22)",
+    "quote": "Preencher com o valor do pontal da embarcação, em metros."
+   }
+  ],
+  "verificado": true
+ },
+ "boca": {
+  "txt": "NORMAM-211/DPC",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "Cap. 2, documentos para inscrição, alínea l, p. 2-10",
+  "quote": "comprimento, boca (largura) etc",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/boca",
+    "loc": "verbete \"boca\", acepção 16",
+    "quote": "Parte mais larga do navio."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"beam\"",
+    "quote": "The width of a vessel at its widest point"
+   }
+  ],
+  "verificado": true
+ },
+ "pe": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 3, item de comprimento (equivalência de unidades), p. A3-3",
+  "quote": "1 pé = 12 pol = 0,3048 m",
+  "extras": [
+   {
+    "txt": "Wikipédia, Foot (unit) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Foot_(unit)",
+    "loc": "abertura do artigo \"Foot (unit)\"",
+    "quote": "the foot is exactly 0.3048 meters, by definition"
+   }
+  ],
+  "verificado": true
+ },
+ "quilha": {
+  "txt": "NORMAM-211/DPC",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "Cap. 2, quadro de tipos de embarcação, nº 22 (Veleiro), p. 2-28",
+  "quote": "Possui quilha e leme apropriados que impedem a deriva",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"keel\"",
+    "quote": "The principal central longitudinal structural member of a hull"
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/quilha",
+    "loc": "verbete \"quilha\", acepção 1",
+    "quote": "A peça do fundo do navio."
+   }
+  ],
+  "verificado": true
+ },
+ "bolina": {
+  "txt": "NORMAM-211/DPC",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "Cap. 2, quadro de tipos de embarcação, nº 14 (Jangada), p. 2-27",
+  "quote": "leme de esparrela e bolina móvel no centro",
+  "extras": [
+   {
+    "txt": "Wikipédia, Centreboard (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Centreboard",
+    "loc": "abertura do artigo \"Centreboard\"",
+    "quote": "A centreboard or centerboard (US)[1] is a retractable hull appendage which pivots out of a slot in the hull of a sailboat"
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/bolina",
+    "loc": "verbete \"bolina\", acepção 2",
+    "quote": "Navegação à vela com vento lateral."
+   }
+  ],
+  "verificado": true
+ },
+ "lastro": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-31",
+  "quote": "Ballast Lastro.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/lastro",
+    "loc": "verbete \"lastro\", acepção 1",
+    "quote": "Areia, barras de metal ou outro peso que se mete no fundo do porão do navio"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"ballast\"",
+    "quote": "Heavy material that is placed in a position low in the hull to provide stability."
+   }
+  ],
+  "verificado": true
+ },
+ "leme": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-34",
+  "quote": "Rudder Leme.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/leme",
+    "loc": "verbete \"leme\", acepção 1",
+    "quote": "Peça móvel que imprime a direcção ao navio."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"rudder\"",
+    "quote": "A steering device that is placed aft and pivoted about a (usually vertical) axis to generate a yawing moment from the hydrodynamic forces"
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"rudder\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ]
+ },
+ "madre-do-leme": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-35",
+  "quote": "Stock of the rudder Madre do leme.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"rudderstock\"",
+    "quote": "The structural part of a rudder that transmits the torque created by the tiller or steering gear to the rudder blade."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Única fonte com o termo (Marinha, 'Stock of the rudder = Madre do leme') é só equivalência de termo, sem a descrição (eixo que liga a lâmina ao sistema de governo através do casco). A fonte descritiva (Wikipedia, rudderstock) está na URL A–Z, que não contém o trecho."
+ },
+ "cana-do-leme": {
+  "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+  "loc": "verbete \"tiller\"",
+  "quote": "A lever used for steering, attached to the top of the rudder stock.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Tiller (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Tiller",
+    "loc": "seção \"Watercraft\", artigo \"Tiller\"",
+    "quote": "the tiller is always moved in the direction opposite of which the bow of the boat is to move"
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/tim%C3%A3o",
+    "loc": "verbete \"timão\", acepção 3",
+    "quote": "Barra do leme."
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"tiller\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ],
+  "obs": "Após remover a fonte Wikipedia (A–Z), a descrição 'alavanca presa no alto da madre do leme' fica sem fonte mantida; o trecho sustentado é o da direção de guinada (Tiller)."
+ },
+ "roda-de-leme": {
+  "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+  "loc": "verbete \"wheel\"",
+  "quote": "The usual steering device on larger vessels: a wheel with a horizontal axis, connected by cables to the rudder.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Tiller (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Tiller",
+    "loc": "artigo \"Tiller\", legenda da figura de ordens de leme",
+    "quote": "With a steering wheel, the helmsman turns the wheel in the direction where he wants to turn."
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/leme",
+    "loc": "verbete \"leme\", acepção 2",
+    "quote": "O mesmo que roda do leme ."
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"wheel\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ],
+  "obs": "Sinonímia 'também chamada de timão' contradiz a fonte Priberam citada: timão = 'Barra do leme' (acepção 3). Definição não corrigida nesta verificação."
+ },
+ "conves": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-32",
+  "quote": "Deck Convés.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/conv%C3%A9s",
+    "loc": "verbete \"convés\", acepção 1",
+    "quote": "Toda a área do pavimento superior do navio."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"deck\"",
+    "quote": "The top of a ship or vessel"
+   }
+  ],
+  "verificado": true
+ },
+ "cockpit": {
+  "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+  "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "loc": "OSR 3.09.1(a)",
+  "quote": "a) cockpits shall self-drain quickly by gravity at all angles of heel",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"cockpit\"",
+    "quote": "A seating area (not to be confused with the deck) towards the stern of a small-decked vessel that houses the rudder controls."
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/cockpit",
+    "loc": "verbete \"cockpit\", acepção 2",
+    "quote": "Compartimento destinado ao piloto de uma viatura ou embarcação"
+   }
+  ],
+  "verificado": true
+ },
+ "casaria": {
+  "sem_fonte": "Priberam define 'casaria' só como série de casas (sem acepção náutica); nem o Manual de Navegação (Vol. I-III), a NORMAM-211 e o RIPEAM usam o termo; buscas web não acharam glossário náutico reconhecido (Marinha/RYA/US Sailing/dicionários) que equipare 'casaria' à parte elevada da cabine (coachroof); o inglês 'coachroof' só aparece como termo avulso em dicionário canadense e no OSR da World Sailing (sem definição).",
+  "verificado": false,
+  "motivo": "Sem fonte. Não entra em 81-fontes-lote1.js."
+ },
+ "gaiuta": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/gaiuta",
+  "loc": "verbete \"gaiúta\", acepção 1",
+  "quote": "Armação envidraçada que cobre uma escotilha.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"companionway\"",
+    "quote": "A raised and windowed hatchway in a ship's deck, with a ladder leading below and the hooded entrance-hatch to the main cabins."
+   },
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+    "loc": "OSR 3.08.4",
+    "quote": "3.08.4 Companionway hatches:"
+   }
+  ],
+  "verificado": true
+ },
+ "escotilha": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-33",
+  "quote": "Hatch; hatch opening Escotilha.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/escotilha",
+    "loc": "verbete \"escotilha\", acepção 1",
+    "quote": "Alçapão que serve de entrada para os porões e cobertas do navio."
+   },
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+    "loc": "OSR 3.08.2(a)",
+    "quote": "capable of being firmly shut immediately and remaining firmly shut in a 180° capsize"
+   }
+  ],
+  "verificado": true
+ },
+ "vigia": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/vigia",
+  "loc": "verbete \"vigia\", acepção 7",
+  "quote": "Abertura por onde entra a luz nos camarotes dos navios.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"porthole\"",
+    "quote": "An opening in a ship's side, especially a round one for admitting light and air"
+   },
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+    "loc": "OSR, lista de verificação 3.08.3",
+    "quote": "Portlights that open inward labelled"
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"porthole\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ]
+ },
+ "balaustre": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-34",
+  "quote": "Stanchion Balaústre; escora; pé de carneiro.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"stanchion\"",
+    "quote": "A vertical post near the edge of a deck that supports life-lines"
+   },
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+    "loc": "OSR 3.14",
+    "quote": "3.14 Pulpits, Stanchions, Lifelines"
+   }
+  ],
+  "verificado": false,
+  "motivo": "Só equivalência de termo (Marinha, 'Stanchion = Balaústre') e cabeçalho da OSR ('3.14 Pulpits, Stanchions, Lifelines'); a descrição (coluna vertical na borda que sustenta os guarda-mancebos) não é sustentada. A fonte descritiva (Wikipedia, stanchion) está na URL A–Z, que não contém o trecho."
+ },
+ "guarda-mancebo": {
+  "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+  "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "loc": "OSR 3.14.1",
+  "quote": "The perimeter of the deck surrounded by system of lifelines and pulpits as",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/guarda-mancebos",
+    "loc": "verbete \"guarda-mancebos\"",
+    "quote": "Cada um dos cabos que servem de corrimão de corda ao longo do gurupés ou ao longo da borda da embarcação."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"jackline\"",
+    "quote": "a deck lifeline of rope or (preferably) flat tape, running fore and aft, to which the crew can clip their harnesses for safety"
+   }
+  ],
+  "verificado": true
+ },
+ "pulpito": {
+  "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+  "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "loc": "OSR 3.14.1(g)",
+  "quote": "a bow pulpit may be open provided the opening between the pulpit and",
+  "extras": [
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+    "loc": "OSR 3.14.1(h)",
+    "quote": "lifelines may terminate at or pass through adequately braced stanchions"
+   }
+  ],
+  "verificado": true
+ },
+ "cunho": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, manobras de espias, p. A5-13",
+  "quote": "Cleat Cunho.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/cunho",
+    "loc": "verbete \"cunho\", acepção 6",
+    "quote": "Peça onde se dão voltas a cabos, geralmente para escotas ou adriças."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"cleat\"",
+    "quote": "A stationary device used to secure a rope aboard a vessel."
+   }
+  ],
+  "verificado": true
+ },
+ "buzina": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, manobras de espias, p. A5-13",
+  "quote": "Fairlead Buzina.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"fairlead\"",
+    "quote": "A device used to keep a line or chain running in the correct direction or to give it a fair lead to prevent it rubbing or fouling."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"chock\"",
+    "quote": "A hole or ring attached to the hull to guide a line via that point"
+   }
+  ],
+  "verificado": true
+ },
+ "malagueta": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/malagueta",
+  "loc": "verbete \"malagueta\", acepção 4",
+  "quote": "Cavilha para dar volta aos cabos de laborar.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/malagueta",
+    "loc": "verbete \"malagueta\", acepção 5",
+    "quote": "Cada uma das saliências da roda do leme."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"belaying pin\"",
+    "quote": "A short movable bar of iron or hard wood to which running rigging may be secured"
+   }
+  ],
+  "verificado": true
+ },
+ "cabeco": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, manobras de espias, p. A5-13",
+  "quote": "Bollard Cabeço (do cais ou píer).",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, manobras de espias, p. A5-13",
+    "quote": "Bitts Abita; cabeços (de bordo)."
+   },
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/cabe%C3%A7o",
+    "loc": "verbete \"cabeço\", acepção 4",
+    "quote": "Coluna metálica, geralmente com o topo arredondado, onde enrolam cabos e espias."
+   }
+  ],
+  "verificado": true
+ },
+ "molinete": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, fundeio, p. A5-22",
+  "quote": "Windlass (anchor windlass) Máquina de suspender.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/molinete",
+    "loc": "verbete \"molinete\", acepção 4",
+    "quote": "Espécie de cabrestante para suspender a âncora."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"windlass\"",
+    "quote": "A winch mechanism, usually with a horizontal axis, designed to move very heavy loads."
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"windlass\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ]
+ },
+ "paiol-da-amarra": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, fundeio, p. A5-21",
+  "quote": "Chain locker Paiol da amarra.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, fundeio (bitter end), p. A5-20",
+    "quote": "é fixado na antepara ou teto do paiol da amarra por uma manilha ou gato de escape"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"chain locker\"",
+    "quote": "A space in the forward part of a ship, typically beneath the bow in front of the foremost collision bulkhead, that contains the anchor chain"
+   }
+  ],
+  "verificado": true
+ },
+ "sentina": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/sentina",
+  "loc": "verbete \"sentina\", acepção 1",
+  "quote": "Parte inferior do navio onde as águas se juntam e corrompem.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"bilge\", acepção 2",
+    "quote": "The compartment at the bottom of the hull of a ship or boat where water collects and must be pumped out of the vessel"
+   }
+  ],
+  "verificado": true
+ },
+ "bomba-de-esgoto": {
+  "txt": "Wikipédia, Bilge pump (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Bilge_pump",
+  "loc": "abertura do artigo \"Bilge pump\"",
+  "quote": "A bilge pump is a water pump used to remove bilge water.",
+  "extras": [
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+    "loc": "OSR 3.23.1(b)",
+    "quote": "b) two permanently installed manual bilge pumps, one operable from above,"
+   }
+  ],
+  "verificado": true
+ },
+ "espelho-de-popa": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-35",
+  "quote": "Transom Espelho de popa.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"transom\", acepção 2",
+    "quote": "The aft \"wall\" of the stern"
+   }
+  ],
+  "verificado": false,
+  "motivo": "Só equivalência de termo (Marinha, 'Transom = Espelho de popa'); a descrição só aparece em Wikipedia (transom) na URL A–Z, que não contém o trecho."
+ },
+ "roda-de-proa": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-34",
+  "quote": "Stem post; stem bar Roda de proa.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"stem\", acepção 1",
+    "quote": "An extension of the keel at the forward end of a ship."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Só equivalência de termo (Marinha, 'Stem post; stem bar = Roda de proa'); a descrição só aparece em Wikipedia (stem) na URL A–Z, que não contém o trecho."
+ },
+ "borda": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio (gunwale), p. A5-33",
+  "quote": "Borda (interseção do convés principal com o",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-31",
+    "quote": "Bulwark Borda falsa."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"gunwale\"",
+    "quote": "Generally, the upper edge of the hull"
+   }
+  ],
+  "verificado": true
+ },
+ "anteparo": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-31",
+  "quote": "Bulkhead Antepara.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/antepara",
+    "loc": "verbete \"antepara\"",
+    "quote": "Estrutura que serve de tabique para dividir em compartimentos o interior de um navio."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"bulkhead\"",
+    "quote": "An upright wall within the hull of a ship, particularly a watertight, load-bearing wall."
+   }
+  ],
+  "verificado": true
+ },
+ "valvula-de-fundo": {
+  "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+  "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "loc": "OSR 3.10",
+  "quote": "Permanently installed sea cocks or valves on all through-hull openings below",
+  "extras": [
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+    "loc": "OSR 4.03",
+    "quote": "A tapered soft wood plug stowed adjacent to every through-hull opening."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"seacock\"",
+    "quote": "A valve in the hull of a vessel used to allow seawater into or out of the vessel."
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"seacock\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ]
+ },
+ "banda": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-33",
+  "quote": "List Banda (inclinação lateral do navio).",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/banda",
+    "loc": "verbete \"banda\", acepção 10",
+    "quote": "Inclinação tomada por um navio quando a carga está mal distribuída ou por efeito do vento."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"heel\", acepção 1",
+    "quote": "The lean caused by the wind's force on the sails of a sailing vessel."
+   }
+  ],
+  "verificado": true
+ },
+ "trim": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "Down by the head Embicado (trim de proa).",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+    "quote": "Derrabado; apopado (trim de popa)."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"trim\", acepção 1",
+    "quote": "The relationship of a ship's hull to the waterline."
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"trim\", acepção 1",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ],
+  "obs": "A Marinha usa 'Embicado (trim de proa)'; o verbete diz 'abicado'. Definição não corrigida nesta verificação."
+ },
+ "balanco": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "Roll Balançar, jogar.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"roll\", acepção 1",
+    "quote": "The side-to-side motion of a vessel as it rotates about the fore-aft (longitudinal) axis."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Só equivalência de termo (Marinha, 'Roll = Balançar, jogar'); a descrição (vaivém em torno do eixo proa-popa) só aparece em Wikipedia (roll) na URL A–Z, que não contém o trecho."
+ },
+ "arfagem": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, direções e marcações relativas, p. A5-27",
+  "quote": "Pitch Arfar, caturrar.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/arfagem",
+    "loc": "verbete \"arfagem\", acepção 3",
+    "quote": "Movimento de oscilação de um navio de popa à proa."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"pitch\"",
+    "quote": "A vessel's motion, rotating about the beam/transverse axis, causing the fore and aft ends to rise and fall repetitively."
+   }
+  ],
+  "verificado": true,
+  "fontes_removidas": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93Z)",
+    "loc": "verbete \"pitch\"",
+    "motivo": "trecho não encontrado na URL citada (página A–Z do glossário Wikipedia, que é índice; o trecho está em M–Z)"
+   }
+  ]
+ },
+ "deslocamento": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, deslocamento e tonelagem, p. A5-28",
+  "quote": "Deslocamento (peso total do navio e de tudo o",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/deslocamento",
+    "loc": "verbete \"deslocamento\", acepção 2",
+    "quote": "Peso da massa de água deslocada por uma embarcação que flutua, igual ao peso da própria embarcação"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"displacement\"",
+    "quote": "The weight of water displaced by the immersed volume of a ship's hull, exactly equivalent to the weight of the whole ship."
+   }
+  ],
+  "verificado": true
+ },
+ "velocidade-de-casco": {
+  "txt": "Wikipédia, Hull speed (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Hull_speed",
+  "loc": "abertura do artigo \"Hull speed\"",
+  "quote": "Hull speed, or displacement speed, is the speed at which the wavelength of a vessel's bow wave is equal to the waterline length of the vessel.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Hull speed (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Hull_speed",
+    "loc": "seção \"Hull speed formula\", artigo \"Hull speed\"",
+    "quote": "If the length of waterline is given in metres and desired hull speed in knots, the coefficient is 2.43"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"hull speed\"",
+    "quote": "The maximum efficient speed of a displacement-hulled vessel."
+   }
+  ],
+  "verificado": true,
+  "obs": "Conta 2,43 × √(LWL) confere com a fonte; o exemplo (LWL 8,5 m, cerca de 7 nós) não tem fonte citada, mas 2,43 × √8,5 ≈ 7,1 nós."
+ },
+ "planar": {
+  "txt": "Wikipédia, Planing (boat) (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Planing_(boat)",
+  "loc": "abertura do artigo \"Planing (boat)\"",
+  "quote": "is the mode of operation for a waterborne craft in which its weight is predominantly supported by hydrodynamic lift, rather than hydrostatic lift (buoyancy)",
+  "verificado": true
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "5. Os atestados de treinamento náutico deverão ser emitidos em até 30 dias corridos a partir da data de realização do último treinamento náutico.",
+   "notes": "Texto idêntico no Anexo 5-E do ZIP oficial de anexos e no PDF consolidado (p. 5-E-3). Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "o candidato deverá conduzir a embarcação, e o instrutor deverá supervisioná-lo dentro da própria embarcação onde se encontra o aluno",
+   "notes": "Art. 6.7.8 do PDF vigente; também 'deverá estar em condições de assumir o comando da embarcação prontamente'. O Anexo 5-A (ZIP e PDF) repete: 'o candidato deve conduzir a embarcação devidamente supervisionado pelo instrutor'. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "o instrutor deverá possuir, no mínimo, dois anos de habilitação nas categorias de ARA, MSA ou CPA, ou profissional com correspondência",
+   "notes": "Art. 6.7.1, p. 6-8 do PDF vigente. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A área de atuação dos ETN-A/PF credenciados para o treinamento náutico para Arrais-Amador limita-se aos municípios pertencentes à jurisdição da CP/DL/AG que realizou o seu credenciamento.",
+   "notes": "Art. 6.7.5 do PDF vigente. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-65",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "faixa/placa amarela em local visível do costado, com no mínimo 20 (vinte) centímetros de altura, com a inscrição “TREINAMENTO NÁUTICO” na cor preta e letras em caixa alta",
+   "notes": "Art. 6.7.4 do PDF vigente. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-66",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "1.5. funcionamento e utilização do transceptor de VHF fixos e portáteis; 1.6. frequência de chamada de socorro/urgência e segurança. Mensagens de socorro;",
+   "notes": "Itens idênticos no Anexo 5-A do ZIP e no PDF consolidado (p. 5-A-9). Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "1.11. Os pontos de ignição e de fulgor dos combustíveis (gasolina, etanol e diesel); e 1.12. Procedimento para abastecimento de combustíveis das embarcações.",
+   "notes": "Confirmado no PDF consolidado vigente (p. 5-A-9; item 2.8 'verificação do nível do tanque de combustível ... correto abastecimento' na p. 5-A-10). O Anexo 5-A do ZIP oficial NÃO tem 1.11, 1.12 nem 2.8 (termina em 1.10 e 2.7), o que indica que o ZIP é de redação anterior a esses acréscimos; a afirmação está corretamente restrita à versão em PDF. Sugere-se manter a ressalva no app. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deverá possuir idade mínima de oito anos. Ressalta-se que caberá aos pais, tutores ou responsáveis legais pelos menores habilitados na categoria de Veleiro, toda e qualquer responsabilidade administrativa ou civil",
+   "notes": "Art. 5.5.2 b, p. 5-7. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-69",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "VI) Autorização formal dos pais ou do tutor para menores de dezoito anos, com firma reconhecida em cartório;",
+   "notes": "Art. 5.5.2 c VI. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-70",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "VII) Declaração da marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado, conforme constante no anexo 5-G ... de acordo com o programa constante do anexo 5-B",
+   "notes": "Art. 5.5.2 c VII; o próprio Anexo 5-G (ZIP) é a declaração de conclusão do curso de Veleiro. Observação: o art. 6.9.3 do mesmo PDF remete por erro ao 'anexo 5-H' (que é o requerimento); o correto, coerente com 5.5.2 e com o anexo, é 5-G. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-71",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "I) Requerimento ao CP/DL/AG solicitando a emissão da carteira, conforme modelo constante do anexo 5-H; ... Estão dispensadas do pagamento da GRU as pessoas carentes participantes de projetos governamentais destinados à formação de Mentalidade Marítima.",
+   "notes": "Art. 5.5.2 c I a VIII conferido: I requerimento 5-H, II identidade, III CPF, IV comprovante de residência, V atestado médico (dispensável com CNH válida), VI autorização p/ menores, VII declaração 5-G, VIII GRU. Detalhe: cópias de identidade e CPF devem ser autenticadas (podendo ser no local). Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-72",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) O exame para a habilitação nas categorias de ARA, MSA e CPA é constituído de prova escrita (ou eletrônica)",
+   "notes": "Art. 5.4.2 a restringe o exame a ARA/MSA/CPA; art. 5.5.2 c (CHA-VLA) só lista documentos I-VIII, sem prova. Anexo 5-A trata só dos exames ARA/MSA/CPA. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-73",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) Marinharia (termos náuticos, mastreação, aparelho e velame, cabos e nós). ... g) Boias e balizas: - identificar o sistema de Balizamento Marítimo da IALA região “B” ... h) Marés e profundidade da água ... i) Noções sobre meteorologia ... j) Comunicação: - ... transceptor de VHF",
+   "notes": "Anexo 5-B item 2 (a-j) conferido no PDF e no ZIP (texto igual). Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-74",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "3. AULAS PRÁTICAS Realizar aulas práticas (navegação, RIPEAM, Manobrabilidade).",
+   "notes": "Nem o Anexo 5-B do PDF nem o do ZIP fixam carga horária (busca por 'hora'/'carga' sem resultado no 5-B; art. 6.9 também não fixa). Diferente do ARA (2h teoria + 4h prática no Anexo 5-A). Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-75",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "1. Esta declaração possui abrangência nacional e validade de 02 anos a partir da data de sua emissão;",
+   "notes": "Anexo 5-G do ZIP e PDF (p. 5-G-1). Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-76",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "6.9.1. Para o treinamento prático visando à formação na categoria de veleiro, o instrutor deverá possuir, no mínimo, dois anos de habilitação na categoria de VLA;",
+   "notes": "Art. 6.9.1 do PDF vigente. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-77",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Em princípio, as inscrições serão feitas em todas essas Organizações Militares nos meses de fevereiro e agosto para exames a serem realizados, respectivamente, nos meses de abril e outubro do mesmo ano, que podem ser alterados de acordo com a necessidade da Autoridade Marítima.",
+   "notes": "Igual no ZIP e no PDF. Observação de atualidade: em 2026 a página da DPC mostra prova CPA-I em pasta 2026-05 e prova CPA-II/gabarito em 2026-10 (prova CPA-II datada de 30/09/2026 no enunciado), coerente com 'em princípio' e alterável. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-78",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "b) O exame constará de uma prova escrita contendo 40 questões, com a duração máxima de quatro horas.",
+   "notes": "ZIP e PDF iguais; a prova CPA-II/2026 publicada tem 40 questões. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-79",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "c) A prova possui valor máximo de 10,0 pontos e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos.",
+   "notes": "ZIP e PDF iguais; prova CPA-II/2026: 'Valor Total: 10,0 pontos'. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-80",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "I) protocolo da inscrição; II) documento oficial de identificação; III) material de desenho: lápis preto ou lapiseira, régua paralela e/ou um par de esquadros, compasso e borracha para desenho; e 4) caneta esferográfica azul ou preta.",
+   "notes": "Anexo 5-A, Seção I, 1 d, ZIP e PDF. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-81",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "evidence_quote": "CPA - I - Prova / CPA - I - Gabarito Final / CPA - I - Relação dos Aprovados / CPA - II - Gabarito Preliminar / CPA - II - Prova",
+   "notes": "Norma (Anexo 5-A 1 e, ZIP e PDF): 'A DPC divulgará em seu site a programação geral do exame, a prova/gabarito e a relação contendo os nomes dos aprovados.' A página da DPC consultada hoje de fato publica provas, gabaritos e aprovados. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-82",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O candidato poderá pedir revisão da sua prova em um prazo máximo de 07 dias úteis ... requerimento, (modelo 5-I) à Organização Militar onde foi realizada a sua inscrição, anexando o “pedido de revisão de prova” conforme o modelo contido no apêndice I deste anexo.",
+   "notes": "Anexo 5-A 1 f (PDF; também no ZIP). O ZIP inclui o arquivo 'N211 - Ap I - Anexo 5-A'. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-83",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "g) As CP/DL/AG encaminharão eletronicamente ao CIAGA o pedido de revisão impetrado pelo interessado, a quem caberá exarar a decisão final restituindo à OM de origem.",
+   "notes": "Anexo 5-A 1 g, PDF e ZIP. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-84",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "a) Navegação Astronômica. b) Navegação Eletrônica. c) Estabilidade. d) Meteorologia e Oceanografia. e) Comunicações. f) Sobrevivência no Mar. g) Carta náutica e publicações de auxílio à navegação.",
+   "notes": "Anexo 5-A item 1.1, ZIP e PDF. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-85",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "b) Cálculo da hora legal da passagem meridiana superior do sol pelo processo aproximado. c) Posição pela passagem meridiana do sol.",
+   "notes": "Anexo 5-A 1.2 (ZIP e PDF) inclui também medida de tempo (HML, HMG, hora legal, fusos) e uso do Almanaque Náutico Brasileiro. A prova CPA-II/2026 de fato cobra posição na Passagem Meridiana do Sol. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-86",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "uso e funcionamento do EPIRB e do SART.",
+   "notes": "Anexo 5-A 1.6 a (ZIP e PDF): comunicações na navegação oceânica: equipamentos, procedimentos, frequências de socorro, chamada e trânsito; estações de terra; EPIRB e SART. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-87",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Entretanto, havendo conflitos com outras fontes, considerar como válidas, para efeito de prova, as informações constantes na bibliografia recomendada.",
+   "notes": "Presente nas três bibliografias (CPA, MSA, ARA) do Anexo 5-A do ZIP e do PDF. Página-índice DPC (consultada 2026-10-07) ainda lista NORMAM 211 com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026; sem portaria posterior."
+  },
+  {
+   "id": "normas-88",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-10/CPA-II-2026-MATRIZ.pdf",
+   "evidence_quote": "EXAME DE HABILITAÇÃO PARA CAPITÃO-AMADOR (EXAME-CPA-II/2026) (Valor: 0,25 cada questão – Valor Total: 10,0 pontos)",
+   "notes": "PDF reaberto hoje (17 p., cabeçalho Marinha do Brasil / CIAGA); 40 blocos de alternativas (A)-(E); 40 x 0,25 = 10,0. Link vem da página oficial DPC 'CPA - II - Prova'."
+  },
+  {
+   "id": "normas-89",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-10/2-ES-CPA-II-2026-GABARITO-PRELIMINAR-06OUT2026.pdf",
+   "evidence_quote": "GABARITO PRELIMINAR ... 01 A ... 40 E Rio de Janeiro, 06 de outubro de 2026.",
+   "notes": "PDF reaberto hoje (1 página): questões 01-40 com respostas entre A e E, datado de 06/10/2026. É preliminar (ainda sem gabarito final na página da DPC em 2026-10-07)."
+  },
+  {
+   "id": "normas-90",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "evidence_quote": "2017 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito",
+   "notes": "A página oficial (consultada hoje) lista exames de 2017 a 2026, mas em 2017 só há 'Prova e Gabarito'; a primeira 'Relação dos Aprovados' aparece em 2018 (CPA-2). Logo, 'listas de aprovados desde 2017' não procede.",
+   "correction": "A DPC publica provas e gabaritos de CPA desde 2017 (em 2017 só 'Prova e Gabarito'); as relações de aprovados aparecem a partir de 2018. Úteis como simulado."
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "questoes": [
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 1,
+   "enunciado": "Um receptor GNSS precisa resolver três incógnitas: latitude, longitude e o erro do relógio do próprio receptor. A altitude da antena já é conhecida (nível do mar). Quantos satélites, no mínimo, ele precisa captar?",
+   "alternativas": [
+    "Um satélite.",
+    "Dois satélites.",
+    "Três satélites.",
+    "Quatro satélites.",
+    "Cinco satélites."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Cada satélite fornece uma equação (pseudodistância). Com a altitude conhecida, restam três incógnitas (latitude, longitude e erro de relógio) e bastam três equações.</p><ul><li><b>Um satélite.</b> — Um satélite dá uma única equação (uma pseudodistância); sobram duas incógnitas sem solução.</li><li><b>Dois satélites.</b> — Duas equações não resolvem três incógnitas; restam posições ambíguas.</li><li><b>Quatro satélites.</b> — Quatro são necessários quando a altitude também é incógnita (posição em três dimensões), mas no mar ela é conhecida.</li><li><b>Cinco satélites.</b> — Cinco é o mínimo para o RAIM <i>detectar</i> uma falha, e não para resolver a posição.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 37, item 37.3.3 (pseudodistâncias e erro de relógio)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro governa a proa 090°, a 5 nós na água, em uma corrente de 1,5 nó com set para o sul. O GNSS mostra COG 107° e SOG 5,2 nós. Por que o COG difere da proa?",
+   "alternativas": [
+    "Porque o GNSS ainda não aplicou a declinação magnética ao rumo mostrado.",
+    "Porque o receptor calcula o COG a partir da agulha, que tem desvio de 17°.",
+    "Porque o COG é o rumo sobre o fundo, resultante da proa somada à corrente.",
+    "Porque o HDOP está alto e o receptor erra o rumo em cerca de 17°.",
+    "Porque o datum do receptor difere do da carta e desloca o rumo mostrado."
+   ],
+   "correta": 2,
+   "explicacao": "<p>O COG (<i>course over ground</i>) é o rumo do movimento sobre o fundo. Somando 5 nós para leste e 1,5 nó para o sul, resultam cerca de 5,2 nós em 107°, exatamente o que o GNSS mostra.</p><ul><li><b>Porque o GNSS ainda não aplicou a declinação magnética ao rumo mostrado.</b> — O COG é calculado em relação ao norte verdadeiro; o GNSS não usa campo magnético, e a declinação não explicaria 17°.</li><li><b>Porque o receptor calcula o COG a partir da agulha, que tem desvio de 17°.</b> — O GNSS não usa a agulha: o COG vem do deslocamento da posição (efeito Doppler) sobre o fundo.</li><li><b>Porque o HDOP está alto e o receptor erra o rumo em cerca de 17°.</b> — O HDOP degrada a posição, mas não cria uma diferença sistemática igual à que a corrente produz neste caso.</li><li><b>Porque o datum do receptor difere do da carta e desloca o rumo mostrado.</b> — O datum afeta onde a posição cai na carta, não o rumo sobre o fundo medido pelo receptor.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 37 (COG e SOG)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 2,
+   "enunciado": "O erro de cada medida de distância a satélite (UERE) é de cerca de 3 m, e o receptor mostra HDOP = 4. Pela regra simples <i>erro horizontal ≈ HDOP × erro da distância</i>, qual é a ordem de grandeza do erro horizontal da posição?",
+   "alternativas": [
+    "0,75 m.",
+    "3 m.",
+    "7 m.",
+    "12 m.",
+    "36 m."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Erro horizontal ≈ HDOP × UERE = 4 × 3 = 12 m. Quanto pior a geometria dos satélites, maior o fator que multiplica o erro das distâncias.</p><ul><li><b>0,75 m.</b> — Dividir 3 por 4 inverte a lógica: o DOP multiplica o erro, não o reduz.</li><li><b>3 m.</b> — Ignora o DOP; só valeria com geometria ideal (DOP próximo de 1).</li><li><b>7 m.</b> — Somou 3 + 4; o DOP é um fator multiplicativo, não uma parcela a somar.</li><li><b>36 m.</b> — Elevar o erro ao quadrado (3² × 4) não faz parte da regra; o DOP multiplica o erro uma só vez.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 37, item 37.10 (DOP)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 3,
+   "enunciado": "Um receptor GNSS com RAIM está captando apenas 5 satélites e avisa que a integridade da posição está comprometida. Com esses 5 satélites, o RAIM consegue:",
+   "alternativas": [
+    "Detectar e excluir sozinho o satélite defeituoso, mantendo a precisão da posição.",
+    "Corrigir o erro usando as correções transmitidas por uma estação de referência em terra.",
+    "Nada, pois o RAIM só funciona quando o receptor capta exatamente quatro satélites.",
+    "Detectar que as medidas são incoerentes, mas não identificar qual satélite excluir.",
+    "Garantir a integridade da posição, o que dispensa a conferência por radar e sonda."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Com 5 satélites sobra uma medida além das quatro incógnitas, o que basta para perceber a inconsistência (detecção). Para identificar e excluir o satélite defeituoso são necessários 6.</p><ul><li><b>Detectar e excluir sozinho o satélite defeituoso, mantendo a precisão da posição.</b> — Isso exige pelo menos 6 satélites; com 5, o receptor só sabe que algo está errado.</li><li><b>Corrigir o erro usando as correções transmitidas por uma estação de referência em terra.</b> — Isso é o DGNSS. O RAIM é autônomo e usa apenas os satélites que o próprio receptor capta.</li><li><b>Nada, pois o RAIM só funciona quando o receptor capta exatamente quatro satélites.</b> — Com 4 satélites não há redundância e o RAIM não funciona; é preciso ter satélites <i>além</i> do mínimo.</li><li><b>Garantir a integridade da posição, o que dispensa a conferência por radar e sonda.</b> — O alerta indica justamente o contrário; mesmo sem alerta, o navegante confere a posição por meios independentes.</li></ul>",
+   "referencia": "Stanford GPS Lab, Receiver Autonomous Integrity Monitoring (RAIM): 5 satélites para detectar a falha, 6 para identificá-la e excluí-la",
+   "fonte_url": "https://scpnt.stanford.edu/research/early-pntgps-research/receiver-autonomous-integrity-monitoring-raim"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 2,
+   "enunciado": "Por que a exatidão do DGNSS diminui à medida que o navio se afasta da estação de referência?",
+   "alternativas": [
+    "Porque os erros de órbita, relógio e atmosfera deixam de ser iguais no navio e na estação.",
+    "Porque o relógio do receptor do navio atrasa mais quanto mais longe ele está da estação.",
+    "Porque a estação de referência passa a ver menos satélites quanto maior a distância ao navio.",
+    "Porque o datum da carta muda conforme o navio se afasta da estação de referência.",
+    "Porque o multicaminho local do navio aumenta à medida que a distância cresce."
+   ],
+   "correta": 0,
+   "explicacao": "<p>A correção só cancela erros que são comuns ao navio e à estação. Com a distância, o caminho do sinal na ionosfera e na troposfera difere, e a correção fica menos adequada.</p><ul><li><b>Porque o relógio do receptor do navio atrasa mais quanto mais longe ele está da estação.</b> — O relógio do receptor não depende da distância à estação; o erro de relógio do receptor já é resolvido pelo próprio receptor.</li><li><b>Porque a estação de referência passa a ver menos satélites quanto maior a distância ao navio.</b> — O número de satélites que a estação vê não é o fator limitante; o problema é que os erros deixam de ser os mesmos no navio e na estação.</li><li><b>Porque o datum da carta muda conforme o navio se afasta da estação de referência.</b> — O datum é fixo (WGS-84) e independe da distância ao radiofarol.</li><li><b>Porque o multicaminho local do navio aumenta à medida que a distância cresce.</b> — O multicaminho depende do entorno do navio, e não da distância à estação; o DGNSS não o corrige em nenhuma distância.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 37, item 37.9.1 (DGNSS)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 2,
+   "enunciado": "No plotter, um alvo AIS aparece com o estado de navegação \"fundeado\", mas sua posição avança 0,5 milha a cada 5 minutos (6 nós) e o COG está estável. O que é mais prudente concluir?",
+   "alternativas": [
+    "Tratar o alvo como fundeado, porque o AIS é sempre a fonte mais confiável de dados.",
+    "Ignorar o alvo, porque dados contraditórios provam que o AIS dele está com defeito.",
+    "Esperar que o alvo corrija o estado de navegação antes de decidir qualquer manobra.",
+    "Concluir que se trata de uma boia AIS à deriva, que pode ser desprezada na vigilância.",
+    "Tratar o alvo como em movimento: o estado é digitado, e a posição e o COG vêm do GNSS."
+   ],
+   "correta": 4,
+   "explicacao": "<p>O estado de navegação é informação declarada e pode ficar desatualizada; o movimento medido é mais confiável. Confirme no radar e a olho e aplique o RIPEAM como a qualquer embarcação em movimento.</p><ul><li><b>Tratar o alvo como fundeado, porque o AIS é sempre a fonte mais confiável de dados.</b> — O AIS é informação declarada pelo alvo e pode estar errada ou desatualizada; ele não substitui a vigilância (Regra 5).</li><li><b>Ignorar o alvo, porque dados contraditórios provam que o AIS dele está com defeito.</b> — Dados contraditórios pedem mais atenção, e não que se ignore o alvo, que pode representar risco de abalroamento.</li><li><b>Esperar que o alvo corrija o estado de navegação antes de decidir qualquer manobra.</b> — A decisão se baseia no movimento observado; esperar a correção de um dado digitado por outra pessoa atrasa a ação.</li><li><b>Concluir que se trata de uma boia AIS à deriva, que pode ser desprezada na vigilância.</b> — Uma boia à deriva não segura 6 nós com COG estável, e mesmo uma boia à deriva é um perigo à navegação.</li></ul>",
+   "referencia": "RIPEAM, Regra 5; ITU-R M.1371 (AIS: o estado de navegação é informado manualmente pelo operador, enquanto posição e COG vêm do GNSS)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 1,
+   "enunciado": "O ecobatímetro, ajustado para 1.500 m/s, mede 0,08 s entre a emissão do pulso e a volta do eco do fundo. Qual é a profundidade indicada?",
+   "alternativas": [
+    "30 m.",
+    "60 m.",
+    "120 m.",
+    "240 m.",
+    "600 m."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Profundidade = velocidade × tempo ÷ 2 = 1.500 × 0,08 ÷ 2 = 60 m. O pulso vai até o fundo e volta, por isso se divide o tempo total por 2.</p><ul><li><b>30 m.</b> — Dividiu o tempo por 4 em vez de por 2; o pulso só vai e volta uma vez.</li><li><b>120 m.</b> — 1.500 × 0,08 = 120 m é o caminho de ida e volta; esqueceu de dividir por 2.</li><li><b>240 m.</b> — Multiplicou por 2 em vez de dividir; o resultado seria o dobro do caminho total.</li><li><b>600 m.</b> — Erro de casa decimal (tomou 0,8 s em vez de 0,08 s).</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 38, item 38.3.2 (ecobatímetro)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 2,
+   "enunciado": "Navegando para o norte (000°) ao largo de uma costa a bombordo, você corre a isóbata de 50 m. A sonda, que marcava 50 m, passa a indicar 38 m. Qual é a atitude correta?",
+   "alternativas": [
+    "Guinar para boreste, para o lado do mar, até a sonda voltar a 50 m.",
+    "Guinar para bombordo, para o lado da terra, até a sonda voltar a 50 m.",
+    "Manter o rumo, porque o GNSS mostra que a posição continua dentro da isóbata.",
+    "Aumentar a velocidade para sair logo da área rasa.",
+    "Reduzir o ganho da sonda, pois o eco de 38 m deve ser peixe ou ruído."
+   ],
+   "correta": 0,
+   "explicacao": "<p>A costa está a bombordo, então o fundo diminui em direção à terra. Profundidade menor significa aproximação da costa; guina-se para o lado do mar, no caso boreste.</p><ul><li><b>Guinar para bombordo, para o lado da terra, até a sonda voltar a 50 m.</b> — Isso levaria o barco para águas ainda mais rasas, pois a terra está a bombordo.</li><li><b>Manter o rumo, porque o GNSS mostra que a posição continua dentro da isóbata.</b> — Uma queda de 12 m na sonda é um dado concreto de que o fundo subiu; confiar só na posição é o erro clássico.</li><li><b>Aumentar a velocidade para sair logo da área rasa.</b> — Mais velocidade não corrige a aproximação, e em águas que rasam é preciso mais tempo de reação.</li><li><b>Reduzir o ganho da sonda, pois o eco de 38 m deve ser peixe ou ruído.</b> — Mexer no ganho sem verificar o fundo esconde o aviso; a leitura deve ser tratada como real até prova em contrário.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 38, item 38.3.3 (técnicas de navegação batimétrica: correr uma isóbata)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 3,
+   "enunciado": "O feixe de uma sonda é um cone. Um pináculo rochoso está 50 m ao lado da vertical do transdutor e 120 m abaixo dele, dentro do cone, e é o primeiro eco recebido. Que profundidade a sonda indica para o pináculo?",
+   "alternativas": [
+    "50 m.",
+    "70 m.",
+    "120 m.",
+    "130 m.",
+    "170 m."
+   ],
+   "correta": 3,
+   "explicacao": "<p>O som segue a hipotenusa: √(120² + 50²) = 130 m (triângulo 5-12-13). A sonda indica a distância inclinada, maior que a profundidade vertical.</p><ul><li><b>50 m.</b> — É apenas o afastamento lateral do pináculo; a sonda mede distância ao longo do feixe, não a lateral.</li><li><b>70 m.</b> — Subtraiu 120 − 50; as distâncias lateral e vertical não se subtraem, formam um triângulo retângulo.</li><li><b>120 m.</b> — É a profundidade vertical real do pináculo, mas a sonda mede o caminho inclinado do som, que é maior.</li><li><b>170 m.</b> — Somou 120 + 50; o caminho do som é a hipotenusa do triângulo, e não a soma dos catetos.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 38, item 38.3.2 (cone de emissão)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 1,
+   "enunciado": "Um plotter de recreio exibe cartas eletrônicas, mas não cumpre todos os requisitos de desempenho da IMO para o ECDIS. Como ele é classificado?",
+   "alternativas": [
+    "ENC (carta náutica eletrônica).",
+    "ECDIS (sistema de exibição de cartas e informações).",
+    "INS (sistema integrado de navegação).",
+    "VTS (serviço de tráfego de embarcações).",
+    "ECS (sistema de cartas eletrônicas)."
+   ],
+   "correta": 4,
+   "explicacao": "<p>O ECS é o sistema de cartas que não atende a todos os requisitos do ECDIS, como o plotter de recreio. A NORMAM-211 aceita um ECS para cumprir a exigência de ter cartas a bordo.</p><ul><li><b>ENC (carta náutica eletrônica).</b> — A ENC é o conjunto de dados vetoriais oficiais de uma carta, e não o equipamento que os exibe.</li><li><b>ECDIS (sistema de exibição de cartas e informações).</b> — Só é ECDIS o sistema que cumpre todas as normas de desempenho da IMO e usa ENC oficiais atualizadas; este plotter não cumpre.</li><li><b>INS (sistema integrado de navegação).</b> — O sistema integrado de navegação combina vários sensores e funções; não é o nome de um sistema de cartas que não cumpre o ECDIS.</li><li><b>VTS (serviço de tráfego de embarcações).</b> — O VTS é um serviço de tráfego prestado por uma autoridade em terra, e não um equipamento de bordo.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.20; IMO, Electronic Charts (ECDIS e ECS)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro calando 2,4 m quer uma folga de 1,0 m sob a quilha e ajusta o contorno de segurança do plotter em 3,4 m. Os dados da carta eletrônica só têm os contornos de 2, 5, 10 e 20 m. Que contorno o sistema usará como contorno de segurança?",
+   "alternativas": [
+    "2 m.",
+    "3,4 m.",
+    "5 m.",
+    "10 m.",
+    "20 m."
+   ],
+   "correta": 2,
+   "explicacao": "<p>O contorno de segurança precisa existir nos dados; se o valor pedido não existe, usa-se o próximo contorno mais fundo disponível, aqui 5 m, o que é a favor da segurança.</p><ul><li><b>2 m.</b> — É menor que os 3,4 m pedidos; usá-lo deixaria o barco entrar em águas que não oferecem a folga desejada.</li><li><b>3,4 m.</b> — O sistema só trabalha com contornos que existem nos dados e não interpola uma isóbata nova.</li><li><b>10 m.</b> — Existe um contorno mais próximo (5 m) que já atende; o sistema usa o <i>próximo</i> mais fundo, não o mais fundo.</li><li><b>20 m.</b> — Seria exageradamente conservador e não é a regra de seleção do sistema.</li></ul>",
+   "referencia": "IHO S-52 (contorno de segurança); IMO, Electronic Charts (ECDIS e ECS)",
+   "fonte_url": "https://www.imo.org/en/ourwork/safety/pages/electroniccharts.aspx"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 2,
+   "enunciado": "Para uma embarcação de médio porte em navegação oceânica, o art. 4.19.2 a) II) da NORMAM-211 trata dos aparelhos GNSS a bordo. Qual configuração cumpre a exigência e segue a recomendação da norma?",
+   "alternativas": [
+    "Um aparelho GNSS e o radar, que confirma a posição por distâncias a pontos de terra.",
+    "Um único aparelho GNSS com duas antenas, para o caso de falha de uma delas na travessia.",
+    "Um aparelho GNSS e um sextante com Almanaque, que dispensam um segundo aparelho GNSS.",
+    "Dois aparelhos GNSS, sendo um deles com bateria própria, independente da energia do barco.",
+    "Nenhum aparelho GNSS, desde que haja ecobatímetro e cartas de papel atualizadas."
+   ],
+   "correta": 3,
+   "explicacao": "<p>A norma exige 2 aparelhos GNSS na navegação oceânica e recomenda que ao menos um tenha fonte de energia independente (pilha ou bateria própria).</p><ul><li><b>Um aparelho GNSS e o radar, que confirma a posição por distâncias a pontos de terra.</b> — O radar não é um GNSS; a norma exige dois aparelhos GNSS na navegação oceânica.</li><li><b>Um único aparelho GNSS com duas antenas, para o caso de falha de uma delas na travessia.</b> — Continua sendo um só aparelho (um receptor); a norma pede dois aparelhos.</li><li><b>Um aparelho GNSS e um sextante com Almanaque, que dispensam um segundo aparelho GNSS.</b> — O sextante é um bom plano B, mas não substitui o segundo aparelho GNSS exigido.</li><li><b>Nenhum aparelho GNSS, desde que haja ecobatímetro e cartas de papel atualizadas.</b> — Sonda e cartas não dispensam o GNSS exigido na navegação oceânica.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.19.2 a) II)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 2,
+   "enunciado": "Ao atracar junto a um cais de concreto com guindastes metálicos, a posição do GNSS salta alguns metros de um lado para o outro, mesmo com 9 satélites e HDOP 1,1. A 200 m do cais a posição se estabiliza. A causa mais provável é:",
+   "alternativas": [
+    "Falsificação (<i>spoofing</i>), que só costuma atuar nas proximidades de cais metálicos.",
+    "Atraso da ionosfera, que muda de valor a cada 200 m de afastamento do cais.",
+    "Multicaminho: o sinal chega direto e também refletido nas estruturas do cais.",
+    "Geometria ruim dos satélites, que eleva o HDOP quando o barco está encostado.",
+    "Datum da carta diferente do WGS-84, que desloca a posição de modo aleatório."
+   ],
+   "correta": 2,
+   "explicacao": "<p>O sinal refletido nas estruturas próximas chega atrasado e se mistura ao direto, causando saltos de posição que desaparecem ao se afastar do obstáculo.</p><ul><li><b>Falsificação (<i>spoofing</i>), que só costuma atuar nas proximidades de cais metálicos.</b> — A falsificação não depende da proximidade de um cais, e o problema não sumiria só por afastar o barco 200 m.</li><li><b>Atraso da ionosfera, que muda de valor a cada 200 m de afastamento do cais.</b> — O atraso ionosférico é praticamente igual em áreas pequenas; não mudaria entre o cais e 200 m dele.</li><li><b>Geometria ruim dos satélites, que eleva o HDOP quando o barco está encostado.</b> — O HDOP de 1,1 indica geometria excelente; esta não é a causa.</li><li><b>Datum da carta diferente do WGS-84, que desloca a posição de modo aleatório.</b> — Diferença de datum desloca a posição sempre do mesmo modo e não causa saltos.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 37, item 37.3.4 (fontes de erro: sinais refletidos, multicaminho)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Navegação eletrônica",
+   "dificuldade": 3,
+   "enunciado": "Em plena travessia, o plotter mostra de repente uma posição a 40 milhas da real, com SOG de 38 nós e a data errada, mas continua indicando \"fix\" com 10 satélites e sinal forte. Radar e sonda contradizem o plotter. Qual é a hipótese mais coerente e a melhor conduta?",
+   "alternativas": [
+    "Falha da antena ou do cabo; basta aguardar que o aparelho se corrija sozinho em poucos minutos.",
+    "HDOP alto por falta de satélites; esperar que a geometria melhore antes de qualquer ação.",
+    "Datum diferente da carta; ativar a função de mudança de datum e confiar no plotter.",
+    "Multicaminho no mastro; afastar a antena do mastro para estabilizar a posição do plotter.",
+    "Interferência ou falsificação do GNSS; usar a estimada e conferir com radar, sonda e marcações."
+   ],
+   "correta": 4,
+   "explicacao": "<p>Salto de posição, SOG absurda e data errada com sinal aparentemente bom são sintomas de falsificação. Piloto, AIS e DSC dependem do mesmo GNSS; a estimada e os instrumentos independentes são a base.</p><ul><li><b>Falha da antena ou do cabo; basta aguardar que o aparelho se corrija sozinho em poucos minutos.</b> — Falha de antena ou cabo faz o número de satélites cair a zero ou o aparelho avisar \"sem fix\", e não indicar 10 satélites com sinal forte.</li><li><b>HDOP alto por falta de satélites; esperar que a geometria melhore antes de qualquer ação.</b> — Há 10 satélites e sinal forte; geometria ruim não explica salto de 40 milhas nem data errada.</li><li><b>Datum diferente da carta; ativar a função de mudança de datum e confiar no plotter.</b> — Diferenças de datum são de metros a poucas centenas de metros, e não de 40 milhas.</li><li><b>Multicaminho no mastro; afastar a antena do mastro para estabilizar a posição do plotter.</b> — O multicaminho causa erros de poucos metros, e não um salto de dezenas de milhas.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 37 (fontes de erro) e item 38.2.2 (GNSS comprometido por bloqueio, falsificação ou multipercurso); estimada e instrumentos independentes como base",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 1,
+   "enunciado": "Um radar emite pulsos de 0,2 µs. Considere que o pulso percorre 300 m a cada microssegundo. Dois alvos na mesma marcação, um atrás do outro, só aparecem separados se estiverem afastados, no mínimo, de aproximadamente:",
+   "alternativas": [
+    "15 m.",
+    "30 m.",
+    "60 m.",
+    "120 m.",
+    "300 m."
+   ],
+   "correta": 1,
+   "explicacao": "<p>O comprimento do pulso é 300 × 0,2 = 60 m; a discriminação em distância é a metade dele, 30 m.</p><ul><li><b>15 m.</b> — Dividiu duas vezes pela metade; a discriminação é metade do comprimento do pulso, e não um quarto.</li><li><b>60 m.</b> — É o comprimento do pulso inteiro; esqueceu de tomar a metade (o eco faz ida e volta).</li><li><b>120 m.</b> — Multiplicou por 2 em vez de dividir; o resultado seria o dobro do comprimento do pulso.</li><li><b>300 m.</b> — Corresponde a um pulso de 1 µs (discriminação de 150 m) ou ao simples valor de 300 m/µs, sem usar a duração dada.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.1.2 (largura do pulso)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Um radar tem largura de feixe horizontal de 1,5°. Dois rochedos estão à mesma distância, 4 milhas, lado a lado. Considerando que 1° de feixe corresponde a cerca de 32 m a cada milha, qual é a separação lateral mínima para que apareçam como dois ecos?",
+   "alternativas": [
+    "96 m.",
+    "190 m.",
+    "380 m.",
+    "770 m.",
+    "1.900 m."
+   ],
+   "correta": 1,
+   "explicacao": "<p>1,5° × 32 m por grau por milha × 4 milhas ≈ 190 m. A separação mínima lateral cresce com a distância e com a largura do feixe.</p><ul><li><b>96 m.</b> — Metade do valor correto; a discriminação em marcação usa a largura total do feixe, não metade.</li><li><b>380 m.</b> — Dobrou o valor correto (por exemplo, tomando 3° ou 8 milhas).</li><li><b>770 m.</b> — Multiplicou pelas 4 milhas duas vezes (190 × 4 ≈ 770 m); a distância entra uma só vez na conta.</li><li><b>1.900 m.</b> — Erro de uma casa decimal; 1.900 m seria a separação a 40 milhas.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.1.2 (largura do feixe)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Dois pesqueiros navegam na mesma marcação em relação ao seu radar, um atrás do outro, com 60 m entre eles. O pulso percorre 300 m por microssegundo. Entre as larguras de pulso abaixo, qual é a única que ainda os mostra como dois ecos?",
+   "alternativas": [
+    "0,25 µs.",
+    "0,50 µs.",
+    "0,75 µs.",
+    "1,00 µs.",
+    "1,50 µs."
+   ],
+   "correta": 0,
+   "explicacao": "<p>Com 0,25 µs o comprimento do pulso é 75 m e a discriminação é 37,5 m, menor que os 60 m: os dois ecos aparecem separados.</p><ul><li><b>0,50 µs.</b> — Discriminação de 75 m, maior que os 60 m entre os barcos: os ecos se fundem.</li><li><b>0,75 µs.</b> — Discriminação de 112 m: os dois pesqueiros viram um eco só.</li><li><b>1,00 µs.</b> — Discriminação de 150 m: muito maior que os 60 m de separação.</li><li><b>1,50 µs.</b> — Discriminação de 225 m: os ecos se fundem completamente.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.1.2 (largura do pulso)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Em nevoeiro denso, sem ver nem ouvir nada, você detecta só pelo radar um alvo a 3 milhas, 30° por boreste da proa (à frente do través), com marcação constante e distância diminuindo. Seu veleiro não está ultrapassando esse alvo. Que tipo de alteração de rumo o RIPEAM manda evitar nessa situação?",
+   "alternativas": [
+    "Alteração de rumo para boreste, ainda que ampla e feita com bastante antecedência.",
+    "Qualquer alteração de rumo, de modo que só a velocidade possa ser modificada.",
+    "Redução da velocidade ao mínimo de governo enquanto durar a aproximação do alvo.",
+    "Alteração de rumo para bombordo, em relação a alvo por ante-a-vante do través.",
+    "Alteração ampla de rumo, pois a Regra 8(b) pede pequenas alterações sucessivas."
+   ],
+   "correta": 3,
+   "explicacao": "<p>A Regra 19(d)(i) manda evitar a guinada para bombordo em relação a embarcação por ante-a-vante do través, exceto no caso de embarcação que esteja sendo ultrapassada (o que não é o caso). Guinando para boreste, de modo amplo e claro (Regra 8(b)), o barco tende a passar pela popa do alvo.</p><ul><li><b>Alteração de rumo para boreste, ainda que ampla e feita com bastante antecedência.</b> — A Regra 19(d)(i) restringe a guinada para bombordo; guinar para boreste, de forma ampla, é permitido.</li><li><b>Qualquer alteração de rumo, de modo que só a velocidade possa ser modificada.</b> — A regra não proíbe toda alteração de rumo, só a guinada para bombordo em relação a alvo por ante-a-vante do través.</li><li><b>Redução da velocidade ao mínimo de governo enquanto durar a aproximação do alvo.</b> — Reduzir a velocidade não é alteração de rumo, e a regra de evitar guinar para bombordo é a que se pergunta.</li><li><b>Alteração ampla de rumo, pois a Regra 8(b) pede pequenas alterações sucessivas.</b> — A Regra 8(b) manda o contrário: alterações amplas e claras, evitando pequenas alterações sucessivas.</li></ul>",
+   "referencia": "RIPEAM, Regra 19(d)(i) e Regra 8(b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "A antena do radar de um veleiro está a 9 m de altura e o alvo é um navio de 25 m de altura de superestrutura. Pela fórmula do horizonte radar, 2,21 (√H + √h), a que distância, em teoria, o navio passa a ser detectado?",
+   "alternativas": [
+    "6,6 milhas.",
+    "11,1 milhas.",
+    "12,9 milhas.",
+    "17,7 milhas.",
+    "75,1 milhas."
+   ],
+   "correta": 3,
+   "explicacao": "<p>2,21 × (√9 + √25) = 2,21 × (3 + 5) = 17,7 milhas. Somam-se os horizontes da antena e do alvo.</p><ul><li><b>6,6 milhas.</b> — É apenas o horizonte radar da antena (2,21 × 3), sem somar o efeito da altura do alvo.</li><li><b>11,1 milhas.</b> — É 2,21 × 5, o horizonte radar só do alvo; falta somar a parcela da antena.</li><li><b>12,9 milhas.</b> — Tirou a raiz da soma das alturas, e não a soma das raízes.</li><li><b>75,1 milhas.</b> — Somou as alturas sem tirar a raiz (2,21 × 34).</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.1.3 (horizonte radar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 3,
+   "enunciado": "Na tela do radar de um veleiro aparece um eco fraco à mesma distância de um navio que passa pelo seu través, mas em uma marcação que coincide com a da retranca. Ao guinar, o eco falso continua na mesma marcação em relação à proa do barco. Esse eco é:",
+   "alternativas": [
+    "Eco múltiplo: reflexões entre os dois barcos geram ecos em distâncias dobro e triplo, na mesma marcação.",
+    "Eco lateral: lóbulos do feixe desenham arcos de eco ao redor de um alvo forte e próximo.",
+    "Eco de segunda volta: eco de alvo muito distante que aparece em distância errada, na marcação do alvo.",
+    "Setor de sombra: o mastro bloqueia o feixe e cria um falso eco na direção bloqueada.",
+    "Eco indireto: o pulso volta pela estrutura do próprio barco antes de chegar à antena."
+   ],
+   "correta": 4,
+   "explicacao": "<p>O eco indireto surge à mesma distância do alvo verdadeiro, mas na marcação da estrutura que reflete (mastro, retranca), e a acompanha ao guinar.</p><ul><li><b>Eco múltiplo: reflexões entre os dois barcos geram ecos em distâncias dobro e triplo, na mesma marcação.</b> — O eco múltiplo aparece na mesma marcação do alvo, mas em distâncias múltiplas, e não à mesma distância.</li><li><b>Eco lateral: lóbulos do feixe desenham arcos de eco ao redor de um alvo forte e próximo.</b> — O eco lateral forma arcos ao redor do alvo, e não um eco isolado numa marcação fixa em relação à proa.</li><li><b>Eco de segunda volta: eco de alvo muito distante que aparece em distância errada, na marcação do alvo.</b> — Aparece na marcação do alvo e em distância falsa; aqui a distância é igual e a marcação é da estrutura do barco.</li><li><b>Setor de sombra: o mastro bloqueia o feixe e cria um falso eco na direção bloqueada.</b> — O setor de sombra produz ausência de eco, e não um eco extra.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.2.1 (ecos falsos)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 1,
+   "enunciado": "O que é um RACON?",
+   "alternativas": [
+    "Um refletor passivo de três placas em ângulo reto, que devolve o pulso na direção de onde veio.",
+    "Um respondedor ativo que devolve ao radar um sinal codificado em Morse, que aparece na tela.",
+    "Um transmissor que emite sozinho, sem ser excitado, e aparece como linha radial da tela.",
+    "Um respondedor de salvamento que aparece como uma linha de pontos na tela dos navios que o procuram.",
+    "Um amplificador de eco que reforça o retorno do alvo, sem enviar sinal codificado."
+   ],
+   "correta": 1,
+   "explicacao": "<p>O RACON é um auxílio ativo: excitado pelo pulso do radar, transmite uma resposta codificada que identifica o sinal na tela.</p><ul><li><b>Um refletor passivo de três placas em ângulo reto, que devolve o pulso na direção de onde veio.</b> — Essa é a descrição do refletor radar, que é passivo e não emite sinal próprio.</li><li><b>Um transmissor que emite sozinho, sem ser excitado, e aparece como linha radial da tela.</b> — Essa é a descrição do RAMARK, que dá só a marcação.</li><li><b>Um respondedor de salvamento que aparece como uma linha de pontos na tela dos navios que o procuram.</b> — Essa é a descrição do SART, respondedor das balsas e embarcações de sobrevivência.</li><li><b>Um amplificador de eco que reforça o retorno do alvo, sem enviar sinal codificado.</b> — Essa é a descrição do RTE (<i>radar target enhancer</i>); o RACON envia sinal codificado.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.2.5 (auxílios radar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Pela NORMAM-601/DHN, art. 3.14 c), o sinal de um novo perigo recém-descoberto pode ter um RACON. Que letra em código Morse esse RACON transmite?",
+   "alternativas": [
+    "N (— ·), inicial de \"novo\".",
+    "P (· — — ·), inicial de \"perigo\".",
+    "B (— · · ·), inicial de \"baixio\".",
+    "O (— — —), inicial de \"obstrução\".",
+    "D (— · ·), de \"danger\" (perigo)."
+   ],
+   "correta": 4,
+   "explicacao": "<p>A NORMAM-601/DHN admite RACON para o sinal de novo perigo, e o Miguens indica que ele responde com a letra \"D\" (— · ·).</p><ul><li><b>N (— ·), inicial de \"novo\".</b> — A inicial de \"novo\" não é o código previsto; a norma usa outra letra.</li><li><b>P (· — — ·), inicial de \"perigo\".</b> — A inicial de \"perigo\" em português não é o código previsto.</li><li><b>B (— · · ·), inicial de \"baixio\".</b> — A inicial de \"baixio\" não é o código previsto.</li><li><b>O (— — —), inicial de \"obstrução\".</b> — A inicial de \"obstrução\" não é o código previsto.</li></ul>",
+   "referencia": "NORMAM-601/DHN, art. 3.14 c); Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.2.5 b) (RACON de novo perigo: letra \"D\")",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 1,
+   "enunciado": "Na tela, o sinal de um RACON aparece como um traço que começa no anel de 3,0 milhas e se estende, em direção à borda da tela, até 3,6 milhas. A que distância está o RACON?",
+   "alternativas": [
+    "0,6 milha.",
+    "3,0 milhas.",
+    "3,3 milhas.",
+    "3,6 milhas.",
+    "6,6 milhas."
+   ],
+   "correta": 1,
+   "explicacao": "<p>O sinal começa na posição do RACON e se estende para fora; mede-se até a borda mais próxima do primeiro ponto ou traço, ou seja, 3,0 milhas.</p><ul><li><b>0,6 milha.</b> — É apenas o comprimento do sinal na tela, e não a distância do centro até o auxílio.</li><li><b>3,3 milhas.</b> — É o meio do sinal, que serve para ler a marcação; a distância se mede na borda mais próxima.</li><li><b>3,6 milhas.</b> — É o fim do sinal codificado, e não a posição do RACON.</li><li><b>6,6 milhas.</b> — Somou 3,0 + 3,6; não há razão para somar as duas extremidades do sinal.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.2.5 b) (leitura do RACON)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Na navegação paralela indexada, o veleiro navega a rumo no fundo 090°, com uma ilha por bombordo cuja menor distância à derrota, na carta, é de 1,2 milha. Com o radar em norte para cima, como se traça a reta índice?",
+   "alternativas": [
+    "Paralela à linha leste-oeste da derrota, a 1,2 milha do centro, ao norte da tela.",
+    "Paralela à linha leste-oeste da derrota, a 1,2 milha do centro, ao sul da tela.",
+    "Perpendicular à linha da derrota, a 1,2 milha do centro, à frente do barco.",
+    "Paralela à marcação inicial da ilha, passando exatamente pelo centro da tela.",
+    "Um círculo de 1,2 milha de raio, centrado na ilha e tangente à derrota."
+   ],
+   "correta": 0,
+   "explicacao": "<p>A reta é paralela ao rumo no fundo e fica à distância de índice (1,2 M) do lado em que está a ilha. Com rumo 090°, bombordo é o norte, então a reta fica ao norte do centro.</p><ul><li><b>Paralela à linha leste-oeste da derrota, a 1,2 milha do centro, ao sul da tela.</b> — Coloca a reta do lado oposto ao da ilha; a ilha está por bombordo (norte).</li><li><b>Perpendicular à linha da derrota, a 1,2 milha do centro, à frente do barco.</b> — A reta índice é paralela à derrota, e não perpendicular a ela.</li><li><b>Paralela à marcação inicial da ilha, passando exatamente pelo centro da tela.</b> — A marcação da ilha muda ao longo do trajeto, e a reta precisa ficar afastada do centro pela distância de índice.</li><li><b>Um círculo de 1,2 milha de raio, centrado na ilha e tangente à derrota.</b> — Um círculo em torno do objeto não é reta índice; ela deve ser paralela à derrota.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.3.6 (navegação paralela indexada)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 3,
+   "enunciado": "Navegando a rumo no fundo 090°, com uma ilha por boreste, você traçou na tela (norte para cima) a reta índice paralela à derrota, a 1,0 milha do centro, do lado sul. O eco da ilha agora corre sobre uma linha paralela a 0,7 milha do centro, entre a reta índice e o centro (figura). O que isso indica e qual é a correção?",
+   "alternativas": [
+    "O barco está 0,3 milha mais longe da ilha que o planejado; convém guinar para boreste.",
+    "O barco está 0,3 milha mais longe da ilha que o planejado; convém guinar para bombordo.",
+    "O barco está 0,3 milha mais perto da ilha que o planejado; convém guinar para boreste.",
+    "O barco está sobre a derrota; a diferença vem apenas de descentragem da tela do radar.",
+    "O barco está 0,3 milha mais perto da ilha; convém guinar para bombordo e voltar à derrota."
+   ],
+   "correta": 4,
+   "explicacao": "<p>Eco entre a reta índice e o centro significa menor distância ao objeto: 1,0 − 0,7 = 0,3 M mais perto. Como a ilha está por boreste, afasta-se guinando para bombordo.</p><ul><li><b>O barco está 0,3 milha mais longe da ilha que o planejado; convém guinar para boreste.</b> — Leu a posição do eco ao contrário: eco entre a reta e o centro significa estar mais perto, e não mais longe.</li><li><b>O barco está 0,3 milha mais longe da ilha que o planejado; convém guinar para bombordo.</b> — Também leu ao contrário: o eco mais perto do centro que a reta índice indica menor distância à ilha.</li><li><b>O barco está 0,3 milha mais perto da ilha que o planejado; convém guinar para boreste.</b> — Guinar para boreste, para o lado da ilha, aumentaria o erro e aproximaria ainda mais o barco.</li><li><b>O barco está sobre a derrota; a diferença vem apenas de descentragem da tela do radar.</b> — Se estivesse sobre a derrota, o eco correria sobre a reta índice; a descentragem deve ser conferida antes, mas não é conclusão necessária.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.3.6 (navegação paralela indexada)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 240\" role=\"img\" aria-label=\"Tela do radar em norte para cima. O centro R está no alto. Uma reta tracejada paralela ao rumo 090 passa 1,0 milha ao sul. O eco da ilha corre sobre outra reta, a 0,7 milha ao sul.\"><rect width=\"320\" height=\"240\" rx=\"8\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\"/><g fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"><circle cx=\"160\" cy=\"40\" r=\"70\"/><circle cx=\"160\" cy=\"40\" r=\"140\"/></g><text x=\"166\" y=\"120\" font-size=\"11\" fill=\"var(--ink)\">1</text><text x=\"166\" y=\"190\" font-size=\"11\" fill=\"var(--ink)\">2</text><line x1=\"20\" y1=\"110\" x2=\"300\" y2=\"110\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"26\" y=\"104\" font-size=\"11\" fill=\"var(--ink)\">reta índice (1,0 M)</text><line x1=\"20\" y1=\"89\" x2=\"300\" y2=\"89\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"26\" y=\"82\" font-size=\"11\" fill=\"var(--ink)\">trajeto do eco da ilha (0,7 M)</text><path d=\"M215 80 q8 -10 24 -4 q10 6 6 18 q-14 8 -30 2 z\" fill=\"var(--land)\" stroke=\"var(--ink)\"/><circle cx=\"160\" cy=\"40\" r=\"4\" fill=\"var(--ink)\"/><text x=\"168\" y=\"36\" font-size=\"12\" font-weight=\"700\" fill=\"var(--ink)\">R</text><g stroke=\"var(--ink)\" stroke-width=\"2\" fill=\"var(--ink)\"><line x1=\"160\" y1=\"40\" x2=\"200\" y2=\"40\"/><polygon points=\"206,40 197,35 197,45\"/></g><text x=\"210\" y=\"34\" font-size=\"11\" fill=\"var(--ink)\">derrota 090°</text></svg>"
+   }
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 3,
+   "enunciado": "Ao passar no alinhamento entre dois pontos conhecidos (um de cada lado do barco), as distâncias radar foram 2,1 M e 2,5 M. Na carta, a distância entre os dois pontos é de 4,8 M. Qual é o erro de distância a aplicar a cada medida do radar?",
+   "alternativas": [
+    "Somar 0,05 M a cada distância.",
+    "Somar 0,2 M a cada distância.",
+    "Somar 0,1 M a cada distância.",
+    "Subtrair 0,1 M de cada distância.",
+    "Subtrair 0,2 M de cada distância."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Soma radar 4,6 M contra 4,8 M da carta: o radar mediu 0,2 M a menos no total, ou 0,1 M por distância (entraram duas distâncias). Logo, soma-se 0,1 M a cada leitura.</p><ul><li><b>Somar 0,05 M a cada distância.</b> — A diferença total é 0,2 M; dividida entre duas distâncias, dá 0,1 M, e não 0,05 M.</li><li><b>Somar 0,2 M a cada distância.</b> — 0,2 M é o erro total das duas distâncias; cada uma carrega metade, 0,1 M.</li><li><b>Subtrair 0,1 M de cada distância.</b> — Inverteu o sinal: o radar mediu a menos que a carta, então a correção é somar.</li><li><b>Subtrair 0,2 M de cada distância.</b> — Erra o sinal e o valor: o radar mediu a menos, e o erro por distância é 0,1 M.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.3.6 a) iv) (erro de distância do radar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Um alvo é plotado a cada 12 minutos, sempre na marcação 120°, às 0930 (8,0 M), às 0942 (6,0 M) e às 0954 (4,0 M). Se ambos mantiverem rumo e velocidade, a hora prevista do abalroamento é:",
+   "alternativas": [
+    "1006.",
+    "1012.",
+    "1018.",
+    "1030.",
+    "1042."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Marcação constante e distância caindo: risco de abalroamento. VMR = 2,0 M ÷ 12 min = 10 nós. Restam 4,0 M, que a 10 nós levam 24 min: 0954 + 24 min = 1018.</p><ul><li><b>1006.</b> — É 12 minutos depois da última plotagem, mas a distância restante (4,0 M) exige mais tempo à VMR de 10 nós.</li><li><b>1012.</b> — São 18 minutos depois da última plotagem; a conta não bate com a VMR de 10 nós.</li><li><b>1030.</b> — Corresponde a 36 minutos depois da última plotagem, que seria o tempo para 6,0 M, e não 4,0 M.</li><li><b>1042.</b> — Seria o tempo se a velocidade relativa fosse 5 nós; a VMR obtida é 10 nós.</li></ul>",
+   "referencia": "RIPEAM, Regra 7(d)(i); Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, itens 14.4.2 e 14.4.4 (PMA, VMR e hora do PMA)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Na rosa de manobra (norte para cima, anéis de 1 milha, R no centro), o alvo foi plotado em M1 (0930, 014°, 6,2 M), M2 (0936, 017°, 5,0 M) e M3 (0942, 023°, 3,9 M). Mantidos rumo e velocidade de ambos, o ponto de maior aproximação (PMA ou CPA) e a hora dele serão, aproximadamente:",
+   "alternativas": [
+    "1,5 M, na marcação 090°, às 1000.",
+    "1,5 M, na marcação 270°, às 1000.",
+    "1,5 M, na marcação 090°, às 1018.",
+    "3,6 M, na marcação 000°, às 1000.",
+    "PMA zero (colisão) às 1000."
+   ],
+   "correta": 0,
+   "explicacao": "<p>A reta M1-M3 tem DMR ≈ 180° (o alvo corre para o sul na tela) e passa a 1,5 M a leste de R, então o PMA tem marcação 090°. A VMR é 2,4 M ÷ 12 min ≈ 12 nós; de M3 até o pé da perpendicular faltam cerca de 3,6 M, ou 18 min: 0942 + 18 min = 1000.</p><ul><li><b>1,5 M, na marcação 270°, às 1000.</b> — A distância está certa, mas o lado não: o alvo está a leste (marcações 014° a 023°), e portanto passa a leste, marcação 090°.</li><li><b>1,5 M, na marcação 090°, às 1018.</b> — Contou os 18 minutos a partir de 1000 em vez de 0942; o tempo até o PMA conta a partir da última plotagem.</li><li><b>3,6 M, na marcação 000°, às 1000.</b> — 3,6 M é a distância de M3 ao ponto do PMA no sentido norte-sul, e não a distância mínima de passagem, que é a perpendicular a partir de R.</li><li><b>PMA zero (colisão) às 1000.</b> — Não há colisão: a marcação aumenta (014°, 017°, 023°), indicando que o alvo passa a leste de você, a 1,5 M.</li></ul>",
+   "referencia": "RIPEAM, Regra 7(d)(i); Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, itens 14.4.2 e 14.4.3 (rosa de manobra, DMR, VMR e PMA)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 320\" role=\"img\" aria-label=\"Rosa de manobra com anéis de 1 milha. R no centro e três posições do alvo: M1 às 0930 em 014 graus a 6,2 milhas, M2 às 0936 em 017 graus a 5,0 milhas, M3 às 0942 em 023 graus a 3,9 milhas.\"><rect width=\"320\" height=\"320\" rx=\"8\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\"/><line x1=\"160\" y1=\"300\" x2=\"160\" y2=\"20\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"90\" y1=\"281\" x2=\"230\" y2=\"39\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"39\" y1=\"230\" x2=\"281\" y2=\"90\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"20\" y1=\"160\" x2=\"300\" y2=\"160\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"39\" y1=\"90\" x2=\"281\" y2=\"230\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"90\" y1=\"39\" x2=\"230\" y2=\"281\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><circle cx=\"160\" cy=\"160\" r=\"23\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"148\" font-size=\"11\" fill=\"var(--ink)\">1</text><circle cx=\"160\" cy=\"160\" r=\"47\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"124\" font-size=\"11\" fill=\"var(--ink)\">2</text><circle cx=\"160\" cy=\"160\" r=\"70\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"101\" font-size=\"11\" fill=\"var(--ink)\">3</text><circle cx=\"160\" cy=\"160\" r=\"93\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"78\" font-size=\"11\" fill=\"var(--ink)\">4</text><circle cx=\"160\" cy=\"160\" r=\"117\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"54\" font-size=\"11\" fill=\"var(--ink)\">5</text><circle cx=\"160\" cy=\"160\" r=\"140\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"31\" font-size=\"11\" fill=\"var(--ink)\">6</text><text x=\"160\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">000</text><text x=\"300\" y=\"164\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">090</text><text x=\"160\" y=\"312\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">180</text><text x=\"20\" y=\"164\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">270</text><polyline points=\"195.0,19.6 194.1,48.4 195.6,76.2\" fill=\"none\" stroke=\"var(--ink)\" stroke-dasharray=\"4 3\"/><circle cx=\"195.0\" cy=\"19.6\" r=\"4.5\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"203.0\" y=\"23.6\" font-size=\"11\" font-weight=\"700\" fill=\"var(--ink)\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\">M1 0930</text><circle cx=\"194.1\" cy=\"48.4\" r=\"4.5\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"202.1\" y=\"52.4\" font-size=\"11\" font-weight=\"700\" fill=\"var(--ink)\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\">M2 0936</text><circle cx=\"195.6\" cy=\"76.2\" r=\"4.5\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"203.6\" y=\"80.2\" font-size=\"11\" font-weight=\"700\" fill=\"var(--ink)\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\">M3 0942</text><circle cx=\"160\" cy=\"160\" r=\"4\" fill=\"var(--ink)\"/><text x=\"167\" y=\"176\" font-size=\"12\" font-weight=\"700\" fill=\"var(--ink)\">R</text></svg>"
+   }
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 3,
+   "enunciado": "Seu veleiro governa 000° a 8 nós. Plotando um alvo na rosa de manobra, você obteve DMR 270° e VMR 6 nós. No triângulo de velocidades (tr + rm = tm), quais são o rumo e a velocidade verdadeiros do alvo, supondo que ele mantenha rumo e velocidade?",
+   "alternativas": [
+    "037°, 10 nós.",
+    "217°, 10 nós.",
+    "270°, 6 nós.",
+    "323°, 14 nós.",
+    "323°, 10 nós."
+   ],
+   "correta": 4,
+   "explicacao": "<p>tr = 8 nós para o norte e rm = 6 nós para o oeste; tm = tr + rm tem componentes 8 N e 6 W, módulo √(8² + 6²) = 10 nós, rumo 360° − arctg(6/8) ≈ 323°.</p><ul><li><b>037°, 10 nós.</b> — Subtraiu o vetor relativo (tr − rm) em vez de somá-lo, o que espelha o rumo do alvo.</li><li><b>217°, 10 nós.</b> — É o recíproco do rumo correto (323° + 180°); o vetor tm aponta para noroeste, e não para sudoeste.</li><li><b>270°, 6 nós.</b> — Tomou o movimento relativo (DMR e VMR) como se fosse o movimento verdadeiro do alvo.</li><li><b>323°, 14 nós.</b> — O rumo está certo, mas somou as velocidades (8 + 6); as velocidades de vetores perpendiculares se compõem pelo teorema de Pitágoras.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.4.2 (triângulo de velocidades)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 230\" role=\"img\" aria-label=\"Triângulo de velocidades incompleto. O vetor tr sai de t e vai para cima, 8 nós, rumo 000. O vetor rm sai da ponta de tr e vai para a esquerda, 6 nós, direção 270. O vetor tm, do ponto t até a ponta de rm, está tracejado e deve ser determinado.\"><rect width=\"320\" height=\"230\" rx=\"8\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\"/><g stroke=\"var(--ink)\" stroke-width=\"2.5\" fill=\"var(--ink)\"><line x1=\"190\" y1=\"205\" x2=\"190\" y2=\"67\"/><polygon points=\"190,58 184,70 196,70\"/><line x1=\"190\" y1=\"58\" x2=\"82\" y2=\"58\"/><polygon points=\"73,58 85,52 85,64\"/></g><line x1=\"190\" y1=\"205\" x2=\"73\" y2=\"58\" stroke=\"var(--ink)\" stroke-width=\"2\" stroke-dasharray=\"7 5\"/><text x=\"198\" y=\"140\" font-size=\"12\" fill=\"var(--ink)\">tr: 000°, 8 nós</text><text x=\"40\" y=\"44\" font-size=\"12\" fill=\"var(--ink)\">rm: DMR 270°, VMR 6 nós</text><text x=\"88\" y=\"150\" font-size=\"13\" font-weight=\"700\" fill=\"var(--ink)\">tm = ?</text><circle cx=\"190\" cy=\"205\" r=\"4\" fill=\"var(--ink)\"/><text x=\"198\" y=\"214\" font-size=\"12\" font-weight=\"700\" fill=\"var(--ink)\">t</text><text x=\"196\" y=\"52\" font-size=\"12\" font-weight=\"700\" fill=\"var(--ink)\">r</text></svg>"
+   }
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 3,
+   "enunciado": "Seu veleiro navega a 000°, 10 nós, em nevoeiro. Na rosa de manobra (anéis de 2 M) o alvo foi plotado em M1 (1400, 037°, 10,0 M), M2 (1406, 037°, 8,8 M) e M3 (1412, 037°, 7,5 M). Às 1412 você guina 90° para boreste (rumo 090°), mantendo 10 nós. Se o alvo mantiver rumo e velocidade, o novo PMA será de:",
+   "alternativas": [
+    "0 M: a colisão se mantém.",
+    "4,5 M.",
+    "6,0 M.",
+    "7,5 M.",
+    "10,0 M."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Antes da guinada, DMR 217° e VMR 12,5 nós; logo o alvo anda a 270°, 7,5 nós. Com tr = 10 nós para leste, rm = 17,5 nós para oeste e o alvo, que estava 6,0 M ao norte de R, passa a 6,0 M.</p><ul><li><b>0 M: a colisão se mantém.</b> — A colisão só se manteria sem a guinada; alterar o rumo muda a DMR e, com ela, o PMA.</li><li><b>4,5 M.</b> — É apenas o afastamento a leste do alvo no momento da guinada, e não a distância mínima de passagem.</li><li><b>7,5 M.</b> — É a distância do alvo no instante da guinada, e não o PMA depois dela.</li><li><b>10,0 M.</b> — É a distância da primeira plotagem, sem relação com o PMA após a guinada.</li></ul>",
+   "referencia": "RIPEAM, Regras 8(b) e 19(d)(i); Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, itens 14.4.4 e 14.4.5 (manobra do próprio navio no movimento relativo)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 320\" role=\"img\" aria-label=\"Rosa de manobra com anéis de 2 milhas. R no centro e três posições do alvo, todas na marcação 037 graus: M1 às 1400 a 10,0 milhas, M2 às 1406 a 8,8 milhas e M3 às 1412 a 7,5 milhas.\"><rect width=\"320\" height=\"320\" rx=\"8\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\"/><line x1=\"160\" y1=\"300\" x2=\"160\" y2=\"20\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"90\" y1=\"281\" x2=\"230\" y2=\"39\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"39\" y1=\"230\" x2=\"281\" y2=\"90\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"20\" y1=\"160\" x2=\"300\" y2=\"160\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"39\" y1=\"90\" x2=\"281\" y2=\"230\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><line x1=\"90\" y1=\"39\" x2=\"230\" y2=\"281\" stroke=\"var(--ink)\" stroke-opacity=\".22\"/><circle cx=\"160\" cy=\"160\" r=\"28\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"143\" font-size=\"11\" fill=\"var(--ink)\">2</text><circle cx=\"160\" cy=\"160\" r=\"56\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"115\" font-size=\"11\" fill=\"var(--ink)\">4</text><circle cx=\"160\" cy=\"160\" r=\"84\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"87\" font-size=\"11\" fill=\"var(--ink)\">6</text><circle cx=\"160\" cy=\"160\" r=\"112\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"59\" font-size=\"11\" fill=\"var(--ink)\">8</text><circle cx=\"160\" cy=\"160\" r=\"140\" fill=\"none\" stroke=\"var(--ink)\" stroke-opacity=\".4\"/><text x=\"164\" y=\"31\" font-size=\"11\" fill=\"var(--ink)\">10</text><text x=\"160\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">000</text><text x=\"300\" y=\"164\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">090</text><text x=\"160\" y=\"312\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">180</text><text x=\"20\" y=\"164\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">270</text><polyline points=\"244.3,48.2 234.1,61.6 223.2,76.1\" fill=\"none\" stroke=\"var(--ink)\" stroke-dasharray=\"4 3\"/><circle cx=\"244.3\" cy=\"48.2\" r=\"4.5\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"252.3\" y=\"52.2\" font-size=\"11\" font-weight=\"700\" fill=\"var(--ink)\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\">M1 1400</text><circle cx=\"234.1\" cy=\"61.6\" r=\"4.5\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"242.1\" y=\"65.6\" font-size=\"11\" font-weight=\"700\" fill=\"var(--ink)\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\">M2 1406</text><circle cx=\"223.2\" cy=\"76.1\" r=\"4.5\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"231.2\" y=\"80.1\" font-size=\"11\" font-weight=\"700\" fill=\"var(--ink)\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\">M3 1412</text><circle cx=\"160\" cy=\"160\" r=\"4\" fill=\"var(--ink)\"/><text x=\"167\" y=\"176\" font-size=\"12\" font-weight=\"700\" fill=\"var(--ink)\">R</text></svg>"
+   }
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 1,
+   "enunciado": "Qual das sequências de três plotagens, a intervalos iguais, indica pela Regra 7(d)(I) do RIPEAM que existe risco de abalroamento?",
+   "alternativas": [
+    "Marcações 070°, 078° e 090°, com distâncias de 6,0, 4,5 e 3,0 M.",
+    "Marcações 070°, 070° e 070°, com distâncias de 3,0, 4,5 e 6,0 M.",
+    "Marcações 070°, 062° e 048°, com distâncias de 6,0, 4,5 e 3,0 M.",
+    "Marcações 070°, 070° e 070°, com distâncias de 4,0 M nas três plotagens.",
+    "Marcações 070°, 070° e 070°, com distâncias de 6,0, 4,5 e 3,0 M."
+   ],
+   "correta": 4,
+   "explicacao": "<p>Marcação constante com distância diminuindo: a regra manda presumir risco de abalroamento.</p><ul><li><b>Marcações 070°, 078° e 090°, com distâncias de 6,0, 4,5 e 3,0 M.</b> — A marcação muda de modo apreciável (70°, 78°, 90°); o alvo tende a passar pela popa, e a regra só manda presumir risco quando a marcação não se altera.</li><li><b>Marcações 070°, 070° e 070°, com distâncias de 3,0, 4,5 e 6,0 M.</b> — A marcação é constante, mas o alvo se afasta (a distância aumenta); não há aproximação.</li><li><b>Marcações 070°, 062° e 048°, com distâncias de 6,0, 4,5 e 3,0 M.</b> — A marcação diminui apreciavelmente (70°, 62°, 48°); o alvo tende a passar pela proa, e a regra só manda presumir risco quando a marcação não se altera.</li><li><b>Marcações 070°, 070° e 070°, com distâncias de 4,0 M nas três plotagens.</b> — A marcação é constante, mas a distância não varia: o alvo não se aproxima.</li></ul>",
+   "referencia": "RIPEAM, Regra 7(d)(I)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 2,
+   "enunciado": "Os limites do alarme CPA/TCPA do ARPA estão em CPA = 1,0 M e TCPA = 15 min. O alarme dispara quando o CPA previsto é menor que o limite e o TCPA, ainda por vir, é menor que o limite. Qual alvo dispara o alarme?",
+   "alternativas": [
+    "CPA 0,4 M e TCPA 30 min.",
+    "CPA 2,0 M e TCPA 5 min.",
+    "CPA 1,2 M e TCPA 12 min.",
+    "CPA 0,8 M e TCPA 10 min.",
+    "CPA 0,5 M e TCPA −4 min."
+   ],
+   "correta": 3,
+   "explicacao": "<p>CPA 0,8 M é menor que 1,0 M e o TCPA de 10 min é menor que 15 min e positivo: as duas condições estão atendidas.</p><ul><li><b>CPA 0,4 M e TCPA 30 min.</b> — O CPA é menor que o limite, mas faltam 30 minutos, mais que os 15 min configurados.</li><li><b>CPA 2,0 M e TCPA 5 min.</b> — O TCPA é curto, mas o CPA de 2,0 M é maior que o limite de 1,0 M.</li><li><b>CPA 1,2 M e TCPA 12 min.</b> — O TCPA é menor que o limite, mas o CPA de 1,2 M é maior que 1,0 M.</li><li><b>CPA 0,5 M e TCPA −4 min.</b> — TCPA negativo significa que o alvo já passou pelo ponto de maior aproximação e se afasta; não há alarme.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.4.6 (ARPA)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 1,
+   "enunciado": "No modo de vetores relativos, o vetor de um alvo aponta exatamente para o centro da tela (seu barco) e o alvo se aproxima. O que isso significa, se ambos mantiverem rumo e velocidade?",
+   "alternativas": [
+    "O alvo está em rota de colisão com o seu barco.",
+    "O alvo tem o mesmo rumo e a mesma velocidade que o seu barco.",
+    "O alvo vai passar pela sua popa a 1 milha.",
+    "O alvo se afasta de você com rumo recíproco ao seu.",
+    "O vetor mostra o rumo verdadeiro do alvo."
+   ],
+   "correta": 0,
+   "explicacao": "<p>O vetor relativo mostra o movimento do alvo em relação a você; apontando para o centro, o alvo vai direto até você, isto é, marcação constante e distância diminuindo.</p><ul><li><b>O alvo tem o mesmo rumo e a mesma velocidade que o seu barco.</b> — Com o mesmo rumo e a mesma velocidade, o movimento relativo seria nulo e o alvo ficaria parado na tela, sem vetor.</li><li><b>O alvo vai passar pela sua popa a 1 milha.</b> — Se fosse passar a 1 milha, o vetor relativo apontaria para um ponto afastado do centro, e não para o centro.</li><li><b>O alvo se afasta de você com rumo recíproco ao seu.</b> — O vetor apontando para o centro mostra aproximação, e não afastamento.</li><li><b>O vetor mostra o rumo verdadeiro do alvo.</b> — Esse é o vetor verdadeiro; o vetor relativo mostra o movimento em relação ao seu barco.</li></ul>",
+   "referencia": "RIPEAM, Regra 7(d)(i); Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, itens 14.4.1 (movimento relativo) e 14.4.6 (ARPA)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Radar",
+   "dificuldade": 3,
+   "enunciado": "O ARPA do seu veleiro opera com vetores verdadeiros estabilizados pela água (velocidade do log). Em um local com corrente de 2 nós e set para o sul (180°), uma boia fundeada aparece com um vetor. Qual?",
+   "alternativas": [
+    "2 nós para o norte (000°), em sentido contrário ao set.",
+    "2 nós para o sul (180°), no mesmo sentido do set da corrente.",
+    "Vetor nulo, porque a boia está fundeada e parada em relação ao fundo.",
+    "2 nós para leste (090°), perpendicular ao set da corrente.",
+    "Um vetor com a velocidade e o rumo do vento verdadeiro."
+   ],
+   "correta": 0,
+   "explicacao": "<p>Estabilizado pela água, o vetor de um objeto fixo no fundo é o oposto da corrente: a boia parece se mover 2 nós em relação à água, no sentido contrário ao do set (para o norte).</p><ul><li><b>2 nós para o sul (180°), no mesmo sentido do set da corrente.</b> — Inverteu o sinal: o vetor aponta contra o set, e não a favor dele.</li><li><b>Vetor nulo, porque a boia está fundeada e parada em relação ao fundo.</b> — Isso só ocorre com estabilização pelo fundo (<i>ground stabilized</i>); pela água, o objeto fixo mostra o vetor da corrente invertido.</li><li><b>2 nós para leste (090°), perpendicular ao set da corrente.</b> — O vetor é paralelo à corrente (em sentido oposto), e não perpendicular a ela.</li><li><b>Um vetor com a velocidade e o rumo do vento verdadeiro.</b> — O vento não entra nessa conta; o que desloca o objeto em relação à água é a corrente.</li></ul>",
+   "referencia": "IMO, Res. A.823(19) (padrões de desempenho de ARPA: vetores estabilizados pela água ou pelo fundo); Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 14, item 14.4.6 (ARPA)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Carta e publicações",
+   "dificuldade": 2,
+   "enunciado": "Numa carta na escala 1:1.000.000, a distância medida entre dois pontos é de 4 cm. Qual é a distância real, em milhas náuticas? (1 milha = 1.852 m.)",
+   "alternativas": [
+    "4,0 M.",
+    "21,6 M.",
+    "40,0 M.",
+    "74,1 M.",
+    "216 M."
+   ],
+   "correta": 1,
+   "explicacao": "<p>4 cm × 1.000.000 = 4.000.000 cm = 40 km; 40.000 m ÷ 1.852 ≈ 21,6 M.</p><ul><li><b>4,0 M.</b> — Supôs que 1 cm valesse 1 milha; na escala 1:1.000.000, 1 cm vale 10 km, ou cerca de 5,4 milhas.</li><li><b>40,0 M.</b> — Confundiu quilômetros com milhas: 40 é o resultado em km, não em milhas.</li><li><b>74,1 M.</b> — Multiplicou 40 por 1,852 em vez de dividir; 1 milha tem 1.852 m, então 40 km são menos de 40 milhas.</li><li><b>216 M.</b> — Erro de uma casa decimal.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), cap. 2, item 2.6.2 (escala da carta)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Carta e publicações",
+   "dificuldade": 2,
+   "enunciado": "Numa carta de Mercator, um veleiro navega a leste ao longo do paralelo de 60°S entre dois pontos que diferem 4° em longitude. Que distância percorre?",
+   "alternativas": [
+    "60 milhas.",
+    "120 milhas.",
+    "208 milhas.",
+    "240 milhas.",
+    "480 milhas."
+   ],
+   "correta": 1,
+   "explicacao": "<p>O apartamento é Δλ × cos φ = 240 minutos × cos 60° = 240 × 0,5 = 120 milhas.</p><ul><li><b>60 milhas.</b> — Corresponde a apenas 1° de longitude no equador (60 milhas), e não a 4° a 60° de latitude.</li><li><b>208 milhas.</b> — Usou o seno de 60° (0,866) em vez do cosseno; o cosseno de 60° vale 0,5.</li><li><b>240 milhas.</b> — É a diferença de longitude em minutos (4° = 240’), que só vale como milhas no equador.</li><li><b>480 milhas.</b> — Dobrou a diferença de longitude em minutos, sem justificativa.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II (DHN, 1ª rev. 2021), cap. 33 (derrota loxodrômica: distância ao longo de um paralelo e apartamento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Carta e publicações",
+   "dificuldade": 3,
+   "enunciado": "Um farol tem altitude de 81 m e alcance luminoso de 15 milhas na Lista de Faróis. Um navegante, com o olho a 4 m de altura, procura a luz à noite. Usando D = 1,927 (√H + √h) para o alcance geográfico, a que distância, no máximo, ele avistará a luz?",
+   "alternativas": [
+    "10,6 milhas.",
+    "15,0 milhas.",
+    "17,3 milhas.",
+    "21,2 milhas.",
+    "36,2 milhas."
+   ],
+   "correta": 1,
+   "explicacao": "<p>O alcance geográfico é 1,927 × (9 + 2) = 21,2 M, maior que o luminoso. O alcance que vale é o menor dos dois, 15 M (luminoso).</p><ul><li><b>10,6 milhas.</b> — É metade do alcance geográfico (21,2 M ÷ 2); não há razão para tomar a metade.</li><li><b>17,3 milhas.</b> — É 1,927 × √81, que esquece a altura do olho do observador.</li><li><b>21,2 milhas.</b> — É apenas o alcance geográfico (horizonte); além de 15 M a luz é fraca demais para ser vista, mesmo com o horizonte permitindo.</li><li><b>36,2 milhas.</b> — Somou os dois alcances; o limite é o menor deles, e não a soma.</li></ul>",
+   "referencia": "Lista de Faróis (DH2), 40ª ed., Introdução, item 3.5 (alcances geográfico e luminoso)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Carta e publicações",
+   "dificuldade": 1,
+   "enunciado": "Qual publicação da DHN reúne os auxílios radioelétricos à navegação da costa do Brasil e os serviços-rádio, inclusive por satélite, úteis a quem navega no Atlântico Sul?",
+   "alternativas": [
+    "Lista de Faróis.",
+    "Lista de Sinais Cegos.",
+    "Tábuas das Marés.",
+    "Lista de Auxílios-Rádio.",
+    "Roteiro da Costa Leste."
+   ],
+   "correta": 3,
+   "explicacao": "<p>A Lista de Auxílios-Rádio reúne os auxílios radioelétricos à navegação da costa do Brasil e os serviços-rádio, inclusive por satélite, úteis no Atlântico Sul.</p><ul><li><b>Lista de Faróis.</b> — Traz faróis, faroletes e boias luminosas, com característica, altitude e alcance, e não os auxílios radioelétricos.</li><li><b>Lista de Sinais Cegos.</b> — Traz boias e balizas sem luz, e não os serviços-rádio.</li><li><b>Tábuas das Marés.</b> — Traz as previsões de maré dos portos e pontos da costa, e não os auxílios radioelétricos.</li><li><b>Roteiro da Costa Leste.</b> — Descreve a costa, os portos e as aterragens, mas não reúne os auxílios radioelétricos.</li></ul>",
+   "referencia": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., CHM",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-auxilios-radio"
+  },
+  {
+   "tema": "Carta e publicações",
+   "dificuldade": 1,
+   "enunciado": "Em qual parte dos Avisos aos Navegantes se encontram os trechos de carta impressos (\"bacalhaus\"), feitos para recortar e colar sobre a carta de papel?",
+   "alternativas": [
+    "Seção III.",
+    "Seção IV.",
+    "Seção VIII.",
+    "Folha de Correções avulsa.",
+    "Carta 12000 (INT 1)."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Os trechos de carta para colar (\"bacalhaus\") vêm na Seção VIII dos Avisos aos Navegantes.</p><ul><li><b>Seção III.</b> — A Seção III traz o texto das correções às cartas (Avisos Temporários, Preliminares e Permanentes), e não os trechos para colar.</li><li><b>Seção IV.</b> — A Seção IV traz as correções às publicações, como a Lista de Faróis, e não os trechos de carta.</li><li><b>Folha de Correções avulsa.</b> — As Folhas de Correções acompanham as publicações, quando necessário, e não trazem trechos de carta.</li><li><b>Carta 12000 (INT 1).</b> — A Carta 12000 traz símbolos, abreviaturas e termos das cartas, e não correções.</li></ul>",
+   "referencia": "CHM, Avisos aos Navegantes (Seções III, IV e VIII)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-aos-navegantes-tela"
+  },
+  {
+   "tema": "Carta e publicações",
+   "dificuldade": 1,
+   "enunciado": "Segundo o CHM, o uso das cartas raster gratuitas em um plotter ou programa de visualização:",
+   "alternativas": [
+    "Não dispensa o uso concomitante das cartas de papel, atualizadas até o último Aviso aos Navegantes.",
+    "Dispensa a carta de papel, desde que a raster esteja corrigida até o último Aviso permanente.",
+    "Dispensa a carta de papel, desde que o veleiro leve dois aparelhos GNSS a bordo.",
+    "Só pode ser usado se o programa for um ECDIS certificado, e não um plotter de recreio.",
+    "Exige configurar o datum do GPS em SAD-69, para que a posição case com a carta."
+   ],
+   "correta": 0,
+   "explicacao": "<p>O CHM afirma que o uso das cartas raster não dispensa o uso concomitante das cartas em papel atualizadas até o último Aviso aos Navegantes; recomenda-se o datum WGS-84 no GPS e no programa.</p><ul><li><b>Dispensa a carta de papel, desde que a raster esteja corrigida até o último Aviso permanente.</b> — Mesmo atualizada, a carta raster não dispensa as cartas de papel atualizadas, segundo o CHM.</li><li><b>Dispensa a carta de papel, desde que o veleiro leve dois aparelhos GNSS a bordo.</b> — A quantidade de GNSS nada tem a ver com a dispensa das cartas de papel.</li><li><b>Só pode ser usado se o programa for um ECDIS certificado, e não um plotter de recreio.</b> — A orientação do CHM sobre as cartas raster não condiciona o uso a um ECDIS certificado; a ressalva sobre o papel vale para qualquer programa de visualização.</li><li><b>Exige configurar o datum do GPS em SAD-69, para que a posição case com a carta.</b> — O CHM recomenda o datum WGS-84 no GPS e no programa de visualização.</li></ul>",
+   "referencia": "CHM, página Cartas Náuticas (cartas raster); Carta 12000 (INT 1)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-cartas-nauticas"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 1,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 2,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 3,
+   "acao": "corrigida",
+   "motivo": "Referência passou a citar só Stanford GPS Lab (RAIM não consta no Miguens vol. III); conteúdo técnico (5 sat. detecta, 6 exclui) conferido."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Explicações dos distratores 2 e 4 reescritas (afirmações imprecisas sobre satélites vistos pela estação e multicaminho)."
+  },
+  {
+   "idx": 5,
+   "acao": "corrigida",
+   "motivo": "Referência corrigida: o Miguens vol. I cap. 14 não trata do estado de navegação AIS; cita-se RIPEAM R.5 e ITU-R M.1371."
+  },
+  {
+   "idx": 6,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 7,
+   "acao": "corrigida",
+   "motivo": "Referência corrigida para item 38.3.3 do Miguens vol. III (correr uma isóbata; shoaling com costa a BB leva a guinar para BE, conforme o exemplo do manual)."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 9,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 10,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Enunciado explicita embarcação de médio porte (art. 4.19.2 a) II) vale para esse porte; texto conferido no acervo local)."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator de spoofing reescrita sem afirmação infundada; referência refinada para 37.3.4."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "Referência de cap. 39 não sustenta falsificação; trocada por cap. 37 e item 38.2.2 (onde o Miguens cita falsificação)."
+  },
+  {
+   "idx": 14,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator 770 m estava errada/confusa (770 = 192 x 4); cálculo 1,5 x 32 x 4 = 192 m conferido."
+  },
+  {
+   "idx": 16,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Enunciado dizia \"não está sendo alcançado por ele\", mas a exceção da Regra 19(d)(i) é para embarcação sendo ultrapassada; corrigido. Citação (I) -> (i)."
+  },
+  {
+   "idx": 18,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 19,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 20,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Removida afirmação não verificada (boia de destroços de emergência) e referência IALA R1001 Tabela 11 não confirmada; trocadas por Miguens 14.2.5 b), onde RACON \"D\" para novo perigo está escrito."
+  },
+  {
+   "idx": 22,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 24,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 25,
+   "acao": "corrigida",
+   "motivo": "Enunciado esclarece que o barco está entre os dois pontos (um de cada lado), condição para somar as distâncias; cálculo (4,8-4,6)/2=+0,1 M conferido com Miguens 14.3.6 a) iv)."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Referência refinada (14.4.2/14.4.4); cálculo 10 kn, 24 min, 1018 refeito."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Enunciado passa a dizer \"aproximadamente\" (CPA calculado 1,56 M, não 1,50); referência refinada. SVG conferido (posições M1-M3 batem com marcações/distâncias)."
+  },
+  {
+   "idx": 28,
+   "acao": "corrigida",
+   "motivo": "SVG: vetor rm (6 nós) estava desenhado com 90 px contra 147 px do tr (8 nós); reescalado para 110 px (mesma escala)."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Referência refinada; cálculo refeito (alvo 270°/7,5 nós, novo PMA 6,0 M)."
+  },
+  {
+   "idx": 30,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 31,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 32,
+   "acao": "corrigida",
+   "motivo": "Referência refinada (14.4.1 e 14.4.6)."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Estabilização pela água não consta no Miguens 14.4.6; referência ajustada para IMO A.823(19) + Miguens 14.4.6."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Referência corrigida: escala da carta está no cap. 2, item 2.6.2 (cap. 3 trata de agulhas)."
+  },
+  {
+   "idx": 35,
+   "acao": "corrigida",
+   "motivo": "Referência corrigida: \"apartamento\" está no vol. II, cap. 33, não no vol. I."
+  },
+  {
+   "idx": 36,
+   "acao": "corrigida",
+   "motivo": "Removido \"em atmosfera padrão\" (alcance luminoso da Lista é calculado com T=0,85); explicação do distrator 21,2 M reescrita; referência precisada (Introdução, item 3.5)."
+  },
+  {
+   "idx": 37,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 38,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos / fonte aberta); sem erro técnico."
+  },
+  {
+   "idx": 39,
+   "acao": "corrigida",
+   "motivo": "Removida a afirmação \"papel segue como documento oficial\" (não consta do fato tecnico-146 confirmado); alternativa correta reescrita com o texto do CHM; distrator 3 reformulado."
+  }
+ ]
+}

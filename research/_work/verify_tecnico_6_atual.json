@@ -1,0 +1,186 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-181",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Aritmética conferida (085+5=090; 090-20W=070) e exemplo presente na edição vigente do Vol. I (listada na página DHN, atualizada 24/03/2026)."
+  },
+  {
+   "id": "tecnico-182",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "22°10'+6×6'=22°46'W ≈ 22,8° ≈ 23°W confere; exemplo está na edição vigente do Vol. I."
+  },
+  {
+   "id": "tecnico-183",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Anexo 5-A (alínea b, Mestre-Amador) idêntico no PDF consolidado e no ZIP de anexos; índice DPC não mostra portaria posterior à nº 200/27-02-2026."
+  },
+  {
+   "id": "tecnico-184",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Página DHN (atualizada 24/03/2026) lista 'Navegação: A Ciência e a Arte', Miguens, com links Volume I, II e III."
+  },
+  {
+   "id": "tecnico-185",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Link 'Volume I' da página DHN abre o PDF 2ª revisão atualizada 2023, 'Navegação Costeira, Estimada e em Águas Restritas'."
+  },
+  {
+   "id": "tecnico-186",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Sumário do Vol. I vigente (link na página DHN) traz Cap. 10 'Marés e Correntes de Maré. Correntes Oceânicas'."
+  },
+  {
+   "id": "tecnico-187",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Sumário do Vol. I vigente traz Cap. 3 'Agulhas Náuticas. Conversão de Rumos e Marcações'."
+  },
+  {
+   "id": "tecnico-188",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Sumário do Vol. I vigente traz Cap. 13 'Auxílios à Navegação' (balizamento/identificação dos sinais); menção ao IALA não conferida isoladamente."
+  },
+  {
+   "id": "tecnico-189",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Sumário do Vol. I vigente traz Cap. 15 'Regulamento Internacional para Evitar Abalroamento no Mar' (RIPEAM)."
+  },
+  {
+   "id": "tecnico-190",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Link 'Volume II' da página DHN abre o PDF 'Navegação Astronômica e Derrotas', edição revisada e atualizada 2021; página DHN atual."
+  },
+  {
+   "id": "tecnico-191",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Link 'Volume III' da página DHN abre o PDF 'Navegação Eletrônica e em Condições Especiais', 1ª revisão atualizada 2026."
+  },
+  {
+   "id": "tecnico-192",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Anexo 5-A item 1.2 (Almanaque, hora legal da passagem meridiana, posição pela passagem meridiana) idêntico no consolidado e no ZIP; sem portaria posterior à 200/2026 no índice."
+  },
+  {
+   "id": "tecnico-193",
+   "verdict": "nao_verificavel",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Dado histórico (DN5 desde 1944; formato 1957) só consta no Vol. II da DHN; não achei fonte independente para corroborar."
+  },
+  {
+   "id": "tecnico-194",
+   "verdict": "nao_verificavel",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "'Hoje' vem do Vol. II (rev. 2021); busca web não achou nenhuma referência independente à DN4-2 nem confirmação de uso atual."
+  },
+  {
+   "id": "tecnico-195",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/SRTMar",
+   "notes": "Pub 229 em seis volumes e Pub 249 em três volumes conferem nas páginas da NGA; uso anterior pela MB consta do Vol. II da DHN (sem contradição)."
+  },
+  {
+   "id": "tecnico-196",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/SRTMar",
+   "notes": "Página NGA reaberta hoje: 'published in six Volumes, each of which contains two eight-degree zones of latitude' (seletor lista Vols. 1-6, 0°-90°)."
+  },
+  {
+   "id": "tecnico-197",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/SRTMar",
+   "notes": "Página NGA reaberta hoje confirma uso principal pelo método intercept com latitude, declinação e LHA; dropdown lista os 6 volumes."
+  },
+  {
+   "id": "tecnico-198",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/SRTAir",
+   "notes": "Página NGA reaberta hoje oferece apenas Volume 3 (39°-89°) e Volume 2 (0°-40°) com links de download."
+  },
+  {
+   "id": "tecnico-199",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/SRTAir",
+   "notes": "Página NGA atual: Vol. I (AP 3270) com o HM NAO/UKHO, UKHO mantém copyright; só links dos Vols. 2 e 3."
+  },
+  {
+   "id": "tecnico-200",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/SRTAir",
+   "notes": "Texto do Foreword do Vol. 2 coincide com a descrição na página NGA (Vols. 2/3 permanentes; Vol. 1 para ~5 anos); PDF ainda listado."
+  },
+  {
+   "id": "tecnico-201",
+   "verdict": "confirmado",
+   "evidence_url": "https://en.wikipedia.org/wiki/Marcq_Saint-Hilaire",
+   "notes": "1875, Marcq Saint-Hilaire, método das alturas/circunferências de alturas iguais, é fato histórico consagrado; confere com Vol. II vigente."
+  },
+  {
+   "id": "tecnico-202",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/APN",
+   "notes": "Fórmula sen h = sen L sen d + cos L cos d cos LHA é a identidade esférica padrão (confere com Bowditch 2024); Vol. II vigente a traz como ae."
+  },
+  {
+   "id": "tecnico-203",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Convenção de sinal da declinação (contrária à latitude = negativa) é a padrão da fórmula e consta na nota 1 do Vol. II vigente."
+  },
+  {
+   "id": "tecnico-204",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Conversões Z→Az (NE: Z; NW: 360-Z; SE: 180-Z; SW: 180+Z) conferem com a geometria padrão e com o Vol. II vigente."
+  },
+  {
+   "id": "tecnico-205",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Regra do intercept (Δa=a-ae; em direção ao astro se a>ae, oposta se a<ae; reta perpendicular ao azimute) é a padrão (Bowditch/Marcq Saint-Hilaire)."
+  },
+  {
+   "id": "tecnico-206",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Denominação 'ponto Marcq Saint-Hilaire / método do vertical estimado' consta no Vol. II vigente; terminologia usual da escola brasileira; sem contradição."
+  },
+  {
+   "id": "tecnico-207",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/APN",
+   "notes": "Bowditch 2024 (NGA) está disponível na página atual; fórmula sen h = sen L sen d + cos L cos d cos LHA é a identidade padrão."
+  },
+  {
+   "id": "tecnico-208",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/APN",
+   "notes": "Página NGA reaberta hoje: edição 2024 em dois volumes, PDFs completos (Vol. I 175 MB, Vol. II 33 MB) para download."
+  },
+  {
+   "id": "tecnico-209",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "O texto confere no PDF consolidado, mas o Anexo 4-B do ZIP de anexos (mais novo) diz 'recomendável'; as duas fontes da DPC se contradizem.",
+   "correction": "Não afirmar categoricamente que o EPIRB-406 é obrigatório pelo Anexo 4-B: o PDF consolidado diz 'obrigatório', o ZIP oficial de anexos diz 'recomendável'. A exigência firme está no corpo da norma (art. 4.24: EPIRB na dotação de embarcações de grande porte/iate e de médio porte em navegação oceânica); sinalizar a divergência.",
+   "evidence_quote": "4.5. EPIRB — É recomendável que as embarcações que se dirijam a portos estrangeiros, ou que se afastem, sistematicamente, a mais de 100 milhas náuticas da costa, sejam dotadas com o equipamento denominado ... (EPIRB-406MHz)."
+  },
+  {
+   "id": "tecnico-210",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Anexo 4-B do ZIP diz 'recomendável' no item 4.5; contradiz o PDF consolidado ('obrigatório') e o índice DPC mostra a Portaria 200/2026 como a mais recente, sem resolver a divergência."
+  }
+ ]
+}

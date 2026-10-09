@@ -1,0 +1,712 @@
+{
+ "questoes": [
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de médio porte fará navegação oceânica. Pelas tabelas de rádio da NORMAM-211, a dotação dele é VHF com DSC, HF com DSC e EPIRB 406 MHz. O que a norma aceita no lugar do HF com DSC?",
+   "alternativas": [
+    "Um segundo VHF fixo com DSC, ligado ao GPS e com antena de emergência no mastro",
+    "Um VHF portátil com bateria para quatro horas, mantido sempre carregado a bordo",
+    "Telefone ou comunicador satelital que envie socorro, como Iridium ou Inmarsat",
+    "Um receptor NAVTEX em 518 kHz, que recebe avisos de segurança marítima em texto"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> um segundo VHF continua sendo rádio de visada e não oferece o alcance oceânico que o HF ou o satélite dão.</li><li><strong>B) Errada.</strong> o portátil serve para abandono ou falha do rádio principal; não cobre a distância de uma travessia.</li><li><strong>C) Correta.</strong> A NORMAM-211 admite telefone satelital (Iridium, Inmarsat) ou comunicador satelital (SPOT X, Iridium GO) que envie socorro no lugar do HF com DSC.</li><li><strong>D) Errada.</strong> o NAVTEX só recebe avisos; ele não transmite alerta nem faz chamada de socorro.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.24.2 a), nota (*)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 1,
+   "enunciado": "No GMDSS, a \"área marítima A1\" é definida por qual tipo de cobertura?",
+   "alternativas": [
+    "Alcance de VHF de pelo menos uma estação costeira com DSC, perto da costa",
+    "Alcance de MF de pelo menos uma estação costeira com DSC, além da cobertura de VHF",
+    "Cobertura de satélite geoestacionário Inmarsat, aproximadamente entre 70° N e 70° S",
+    "Regiões polares, onde não há cobertura dos satélites geoestacionários do Inmarsat"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> A1 é a área dentro do alcance de VHF com DSC de uma estação costeira, perto da costa.</li><li><strong>B) Errada.</strong> essa é a definição da área A2.</li><li><strong>C) Errada.</strong> essa é a definição da área A3, que começa onde acabam as áreas A1 e A2.</li><li><strong>D) Errada.</strong> essa é a definição da área A4.</li></ul>",
+   "referencia": "SOLAS 1974, Cap. IV, Regra 2; Anatel, Material de apoio do exame de Radiotelefonista (áreas marítimas do GMDSS)",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 2,
+   "enunciado": "A figura mostra a posição de um veleiro em travessia. Ele está fora do alcance do VHF e do MF das estações costeiras, mas sob cobertura de satélite geoestacionário. Em que área marítima do GMDSS ele está, e como pode enviar o alerta de socorro?",
+   "alternativas": [
+    "Área A2; por MF com DSC, ouvido por uma estação costeira a poucas milhas da costa",
+    "Área A3; por HF com DSC ou por equipamento satelital, além da EPIRB 406 MHz",
+    "Área A1; por VHF no canal 70, ouvido por uma estação costeira próxima",
+    "Área A4; apenas pela EPIRB 406 MHz, porque nenhum outro meio funciona ali"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> A2 é o anel do MF, e o veleiro está além dele.</li><li><strong>B) Correta.</strong> fora de A1 e A2 e dentro da cobertura do Inmarsat, a área é A3; ali o alerta sai por HF com DSC ou por satélite.</li><li><strong>C) Errada.</strong> A1 é o anel mais interno, de alcance do VHF, e o barco está longe dele.</li><li><strong>D) Errada.</strong> A4 é a região polar, sem cobertura do Inmarsat, e não é o caso de um barco sob cobertura de satélite.</li></ul>",
+   "referencia": "SOLAS 1974, Cap. IV, Regra 2 (áreas marítimas A1 a A4); NORMAM-211/DPC, art. 4.24.2 a)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 480 210\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Costa à esquerda, anel de alcance do VHF, anel de alcance do MF e, mais longe, um veleiro fora dos dois anéis\" font-family=\"sans-serif\"><rect width=\"480\" height=\"210\" fill=\"var(--sea-1)\"/><circle cx=\"40\" cy=\"105\" r=\"190\" fill=\"var(--sea-2)\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><circle cx=\"40\" cy=\"105\" r=\"95\" fill=\"var(--sea-3)\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><path d=\"M0 0H40Q56 40 36 80Q52 105 38 140Q56 175 40 210H0Z\" fill=\"var(--land)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"5\" y=\"108\" font-size=\"14\" fill=\"var(--ink)\">costa</text><text x=\"92\" y=\"100\" font-size=\"16\" font-weight=\"700\" text-anchor=\"middle\" fill=\"var(--ink)\">VHF</text><text x=\"92\" y=\"120\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\">com DSC</text><text x=\"182\" y=\"100\" font-size=\"16\" font-weight=\"700\" text-anchor=\"middle\" fill=\"var(--ink)\">MF</text><text x=\"182\" y=\"120\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\">com DSC</text><text x=\"355\" y=\"40\" font-size=\"16\" font-weight=\"700\" text-anchor=\"middle\" fill=\"var(--ink)\">satélite</text><text x=\"355\" y=\"60\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\">geoestacionário</text><polygon points=\"355,112 343,138 367,138\" fill=\"var(--ink)\"/><line x1=\"355\" y1=\"112\" x2=\"355\" y2=\"146\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"355\" y=\"168\" font-size=\"16\" font-weight=\"700\" text-anchor=\"middle\" fill=\"var(--ink)\">veleiro</text></svg>"
+   }
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 3,
+   "enunciado": "Um comandante no meio do Atlântico Sul quer falar por HF com uma estação costeira a cerca de 1.500 milhas, às 23 h, hora local. Qual escolha é mais coerente com a propagação do HF?",
+   "alternativas": [
+    "Uma frequência alta, como 22 MHz, pois à noite a ionosfera reflete melhor as ondas mais altas",
+    "A mesma frequência usada de dia, pois a propagação do HF não muda ao longo das 24 horas",
+    "O VHF no canal 16, pois à noite o alcance de visada do VHF cresce até milhares de milhas",
+    "Uma frequência baixa, como 4 ou 6 MHz, pois à noite as ondas baixas é que voltam melhor"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> é o contrário: as faixas altas funcionam de dia, e à noite tendem a atravessar a ionosfera.</li><li><strong>B) Errada.</strong> a propagação do HF muda com a ionização da atmosfera, por isso se troca de faixa entre dia e noite.</li><li><strong>C) Errada.</strong> o VHF é de visada e não alcança 1.500 milhas, de dia ou de noite.</li><li><strong>D) Correta.</strong> à noite a ionosfera perde ionização e as frequências altas atravessam a camada em vez de voltar; as baixas (4, 6, 8 MHz) refletem melhor.</li></ul>",
+   "referencia": "UIT-R, Recomendação P.533 (propagação em HF); Anatel, Material de apoio do exame de Radiotelefonista",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 1,
+   "enunciado": "Pela NORMAM-211, qual frequência de HF o transceptor usa para chamada e escuta no Atlântico Sul?",
+   "alternativas": [
+    "518 kHz",
+    "156,8 MHz",
+    "4.125 kHz",
+    "406 MHz"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> é a frequência do NAVTEX, que só recebe avisos de segurança.</li><li><strong>B) Errada.</strong> é o canal 16 do VHF, de visada, e não é uma frequência de HF.</li><li><strong>C) Correta.</strong> a norma indica a frequência internacional de socorro ou 4.125 kHz para chamada e escuta no Atlântico Sul.</li><li><strong>D) Errada.</strong> é a frequência da EPIRB via satélite, não de chamada de voz em HF.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.4 b)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 2,
+   "enunciado": "A 600 milhas da costa, o comandante quer receber avisos de segurança marítima e boletins de previsão pelo GMDSS. Qual equipamento dá essa cobertura de alto-mar?",
+   "alternativas": [
+    "Terminal Inmarsat-C com SafetyNET, que recebe avisos por satélite fora do alcance do NAVTEX",
+    "Receptor NAVTEX em 518 kHz, cujo alcance de várias centenas de milhas cobre todo o Atlântico Sul",
+    "VHF com DSC no canal 70, que recebe os avisos de segurança de qualquer estação do mundo",
+    "EPIRB 406 MHz, que além do alerta de socorro recebe os boletins meteorológicos da Marinha"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> o SafetyNET difunde avisos de segurança marítima por satélite (Inmarsat-C, chamada ampliada de grupo) e alcança o alto-mar, onde o NAVTEX não chega.</li><li><strong>B) Errada.</strong> o NAVTEX tem alcance de algumas centenas de milhas a partir de cada estação costeira; no meio do oceano não há sinal.</li><li><strong>C) Errada.</strong> o canal 70 só leva chamadas DSC curtas, e o VHF é de visada, sem alcance a 600 milhas.</li><li><strong>D) Errada.</strong> a EPIRB só transmite o alerta; ela não recebe avisos nem boletins.</li></ul>",
+   "referencia": "SOLAS 1974, Cap. IV, Regra 7; IMO, Manual Internacional do SafetyNET",
+   "fonte_url": "https://www.imo.org/en/OurWork/Safety/Pages/GMDSS.aspx"
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 3,
+   "enunciado": "O GMDSS exige que um navio sujeito à SOLAS consiga transmitir o alerta de socorro navio-terra por pelo menos dois meios separados e independentes. Qual dupla atende a essa ideia?",
+   "alternativas": [
+    "VHF fixo com DSC e VHF portátil com DSC, ambos operando no canal 70 do VHF",
+    "VHF com DSC e EPIRB 406 MHz, de serviços de radiocomunicação diferentes",
+    "HF com DSC e um segundo HF com DSC em outra frequência, ligados à mesma antena",
+    "VHF fixo no canal 16 e VHF portátil no canal 16, com baterias independentes"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> os dois usam o mesmo serviço e a mesma frequência, por isso não são independentes.</li><li><strong>B) Correta.</strong> a SOLAS pede dois meios separados e independentes, cada um em um serviço de radiocomunicação diferente: VHF DSC (terrestre) e EPIRB (satélite) cumprem isso.</li><li><strong>C) Errada.</strong> continuam sendo o mesmo serviço, e a antena comum é um ponto único de falha.</li><li><strong>D) Errada.</strong> baterias separadas não bastam: os dois seguem no mesmo serviço e alcance de visada.</li></ul>",
+   "referencia": "SOLAS 1974, Cap. IV, Regra 4 (requisitos funcionais: alerta de socorro navio-terra por dois meios separados e independentes, cada um em um serviço de radiocomunicação diferente)",
+   "fonte_url": "https://www.imo.org/en/OurWork/Safety/Pages/GMDSS.aspx"
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 3,
+   "enunciado": "No GMDSS, o alerta de socorro DSC usa frequências próprias. Qual é a frequência de socorro DSC em MF?",
+   "alternativas": [
+    "2.187,5 kHz",
+    "2.182 kHz",
+    "156,525 MHz",
+    "518 kHz"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> a frequência de socorro DSC em MF é 2.187,5 kHz; a de socorro por voz em MF é 2.182 kHz.</li><li><strong>B) Errada.</strong> é a frequência de socorro por voz em MF (radiotelefonia), não a do DSC.</li><li><strong>C) Errada.</strong> é o canal 70 do VHF, frequência de socorro DSC em VHF, e não está em MF.</li><li><strong>D) Errada.</strong> é a frequência do NAVTEX, que só serve para receber avisos.</li></ul>",
+   "referencia": "UIT, Regulamento de Radiocomunicações, Art. 31 e Apêndice 15",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  },
+  {
+   "tema": "GMDSS, HF e satélite",
+   "dificuldade": 1,
+   "enunciado": "Qual é a função do NAVTEX a bordo de um veleiro oceânico?",
+   "alternativas": [
+    "Transmitir o alerta de socorro por voz a um centro de salvamento, usando a faixa de MF",
+    "Substituir o VHF nas chamadas de rotina entre navios que estejam dentro da área de visada",
+    "Detectar balizas de 406 MHz próximas e mostrar a direção delas em uma tela de bordo",
+    "Receber avisos de segurança marítima em texto, em 518 kHz, e mostrá-los ou imprimi-los"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o NAVTEX só recebe; o alerta de socorro sai por DSC, EPIRB ou satélite.</li><li><strong>B) Errada.</strong> o NAVTEX não faz chamadas e não permite conversa entre navios.</li><li><strong>C) Errada.</strong> detectar balizas é função de equipamentos de busca, e o NAVTEX não opera em 406 MHz.</li><li><strong>D) Correta.</strong> o NAVTEX é um receptor de avisos náuticos e meteorológicos em texto, em 518 kHz.</li></ul>",
+   "referencia": "SOLAS 1974, Cap. IV, Regra 7; Anatel, Material de apoio do exame de Radiotelefonista (NAVTEX)",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 1,
+   "enunciado": "Em que frequência a EPIRB exigida pela NORMAM-211 transmite o sinal de socorro via satélite?",
+   "alternativas": [
+    "121,5 MHz",
+    "406 MHz",
+    "156,8 MHz",
+    "9 GHz"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o Cospas-Sarsat deixou de processar esse sinal em fevereiro de 2009; hoje o 121,5 MHz serve só para a aproximação final da equipe de resgate.</li><li><strong>B) Correta.</strong> a NORMAM-211 exige 406 MHz via satélite; o Cospas-Sarsat não processa mais 121,5 MHz desde fevereiro de 2009.</li><li><strong>C) Errada.</strong> é o canal 16 do VHF, usado em voz, e não é frequência de baliza por satélite.</li><li><strong>D) Errada.</strong> é a banda do radar e do SART, não a da EPIRB.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 1,
+   "enunciado": "O veleiro afunda em poucos segundos e ninguém consegue chegar à EPIRB. Qual característica da EPIRB exigida pela NORMAM-211 garante o alerta mesmo assim?",
+   "alternativas": [
+    "Ativação manual, feita pelo comandante na chave do suporte",
+    "Registro no INFOSAR, que faz o BRMCC acionar a baliza à distância",
+    "Liberação, flutuação e ativação automáticas no naufrágio",
+    "Transmissão extra em 121,5 MHz, que o satélite detecta quando o barco afunda"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> a ativação manual também é exigida, mas depende de alguém chegar à baliza, o que não ocorre neste cenário.</li><li><strong>B) Errada.</strong> o INFOSAR é só um cadastro; ele não aciona a baliza.</li><li><strong>C) Correta.</strong> a norma exige EPIRB de tipo aprovado com liberação, flutuação e ativação automáticas, além da ativação manual.</li><li><strong>D) Errada.</strong> o COSPAS-SARSAT não processa 121,5 MHz desde 2009, e isso nada tem a ver com o afundamento.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 a) e b)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 2,
+   "enunciado": "Você vendeu o veleiro e a EPIRB 406 MHz ficou a bordo. O que a NORMAM-211 espera quanto ao cadastro dela?",
+   "alternativas": [
+    "Que nada mude, porque o cadastro vale para o equipamento e não depende de quem é o dono dele",
+    "Que a Anatel receba o novo dono e repasse a mudança ao Cospas-Sarsat e à Capitania dos Portos",
+    "Que o cadastro seja cancelado e só refeito na próxima inspeção naval do veleiro",
+    "Que os dados sejam atualizados no INFOSAR, com dono, endereço e telefones"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o cadastro identifica quem avisar; sem atualização, o resgate procura o antigo dono.</li><li><strong>B) Errada.</strong> o cadastro da EPIRB é feito no INFOSAR, do DECEA, e não pela Anatel.</li><li><strong>C) Errada.</strong> o cadastro não é cancelado e refeito na inspeção; a norma exige o registro atualizado, e a inspeção só confere isso.</li><li><strong>D) Correta.</strong> a norma exige cadastro de toda EPIRB no INFOSAR e a atualização quando muda o proprietário, o endereço ou os telefones.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 e) e f)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 1,
+   "enunciado": "Um alerta de baliza 406 MHz que não está registrada no INFOSAR chega ao BRMCC. O que acontece?",
+   "alternativas": [
+    "É recebido e tratado como emergência, mesmo sem o registro",
+    "É descartado até que o proprietário regularize o cadastro no INFOSAR",
+    "É tratado como alarme falso e só investigado por telefone",
+    "É enviado só à Anatel, que multa o dono antes de acionar qualquer busca"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> o alerta de baliza não registrada também é recebido pelo BRMCC e tratado como emergência; o registro apenas ajuda a identificar e a contatar o dono.</li><li><strong>B) Errada.</strong> nenhum alerta de socorro é descartado por falta de cadastro.</li><li><strong>C) Errada.</strong> sem cadastro não há telefone para ligar, e o alerta segue como emergência.</li><li><strong>D) Errada.</strong> a Anatel não é o destino do alerta, e a multa não vem antes do socorro.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 e); DECEA, Central de Ajuda (sinal de baliza 406 MHz não registrada no INFOSAR)",
+   "fonte_url": "https://ajuda.decea.mil.br/base-de-conhecimento/no-caso-do-recebimento-do-sinal-de-emergencia-de-uma-baliza-406mhz-que-nao-esteja-registada-no-infosar-as-autoridades-de-resgate-irao-fazer-a-operacao-de-busca/"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 2,
+   "enunciado": "Um comandante compra um PLB 406 MHz para uso pessoal. Segundo o BRMCC, com que dado o PLB é codificado e quem normalmente faz isso?",
+   "alternativas": [
+    "Com o MMSI do barco, o mesmo número programado no rádio DSC da embarcação",
+    "Com o número de série, normalmente pelo fabricante ou pelo revendedor",
+    "Com o indicativo de chamada, gravado pela Anatel ao emitir a licença",
+    "Com o CPF do dono, digitado pelo próprio usuário no menu do aparelho"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o MMSI é opção da EPIRB do barco; o PLB é pessoal e usa o número de série.</li><li><strong>B) Correta.</strong> o PLB usa o número de série, e a codificação costuma ser feita pelo fabricante ou revendedor (a EPIRB de embarcação não SOLAS pode usar o MMSI ou o número de série).</li><li><strong>C) Errada.</strong> a Anatel não codifica balizas, e o indicativo de chamada não é o código da baliza.</li><li><strong>D) Errada.</strong> o CPF não é código de baliza; o usuário informa o código hexadecimal no cadastro do INFOSAR.</li></ul>",
+   "referencia": "BRMCC (FAB), Codificação de balizas",
+   "fonte_url": "https://www2.fab.mil.br/brmcc/index.php/codificacao"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 2,
+   "enunciado": "Uma EPIRB 406 MHz ativada transmite um sinal curto a cada 50 segundos, aproximadamente. Quantas transmissões ela faz em 1 hora de funcionamento?",
+   "alternativas": [
+    "Cerca de 50",
+    "Cerca de 120",
+    "Cerca de 72",
+    "Cerca de 60"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> é o intervalo em segundos, e não a contagem; 50 transmissões seriam um intervalo de 72 s.</li><li><strong>B) Errada.</strong> 120 seria o resultado se o intervalo fosse de 30 s, e não de 50 s.</li><li><strong>C) Correta.</strong> 1 hora tem 3.600 s; 3.600 ÷ 50 = 72 transmissões.</li><li><strong>D) Errada.</strong> 60 seria o resultado de um sinal por minuto, e a EPIRB repete a cada 50 s.</li></ul>",
+   "referencia": "Cospas-Sarsat, Especificação C/S T.001 (repetição de cerca de 50 s)",
+   "fonte_url": "https://www.cospas-sarsat.int/"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 2,
+   "enunciado": "A figura mostra a tela do radar de 9 GHz de um barco de busca, que está no centro. Aparece uma linha de 12 pontos alinhados. O que ela indica?",
+   "alternativas": [
+    "A costa e ilhas distantes, que o radar de 9 GHz mostra como pontos alinhados",
+    "Um SART ativado; ele fica na ponta da linha mais próxima do centro",
+    "Interferência de outro radar, que aparece sempre como 12 pontos em linha",
+    "O sinal de uma EPIRB 406 MHz, que o radar detecta como uma linha de pontos"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> costa e ilhas aparecem como ecos contínuos de forma irregular, não como 12 pontos regulares.</li><li><strong>B) Correta.</strong> o SART responde ao radar de 9 GHz e faz surgir uma linha de 12 pontos; ele fica na ponta mais perto do barco de busca, e a linha se estende para além dele.</li><li><strong>C) Errada.</strong> a interferência de radar costuma formar espirais ou raios, e não uma linha de 12 pontos regulares.</li><li><strong>D) Errada.</strong> o radar de 9 GHz não detecta a EPIRB; a EPIRB fala com satélites em 406 MHz.</li></ul>",
+   "referencia": "SOLAS 1974, Cap. IV; IMO, Resolução A.802(19) (SART de 9 GHz); Anatel, Material de apoio do exame de Radiotelefonista",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 300 250\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Tela de radar de 9 GHz com uma linha de 12 pontos saindo do centro para o canto superior direito\" font-family=\"sans-serif\"><circle cx=\"150\" cy=\"125\" r=\"108\" fill=\"var(--sea-1)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"125\" r=\"72\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"1\" stroke-dasharray=\"3 5\"/><circle cx=\"150\" cy=\"125\" r=\"36\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"1\" stroke-dasharray=\"3 5\"/><circle cx=\"166.9\" cy=\"110.9\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"172.2\" cy=\"106.4\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"177.6\" cy=\"101.9\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"182.9\" cy=\"97.4\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"188.3\" cy=\"92.9\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"193.7\" cy=\"88.4\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"199.0\" cy=\"83.9\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"204.4\" cy=\"79.4\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"209.8\" cy=\"74.9\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"215.1\" cy=\"70.4\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"220.5\" cy=\"65.9\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"225.8\" cy=\"61.4\" r=\"2.8\" fill=\"var(--ink)\"/><circle cx=\"150\" cy=\"125\" r=\"4.5\" fill=\"var(--ink)\"/><text x=\"150\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\">seu barco</text><text x=\"150\" y=\"243\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\">tela do radar de 9 GHz</text></svg>"
+   }
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 3,
+   "enunciado": "No plotter aparece um alvo AIS parado, em mar aberto, sem nome e com MMSI 970 123456. O que ele é mais provavelmente?",
+   "alternativas": [
+    "Um AIS-MOB de colete salva-vidas, que usa MMSI iniciado por 970 e indica pessoa na água",
+    "Uma EPIRB com transmissor AIS de localização, cujo MMSI de AIS começa por 970",
+    "Uma estação costeira de AIS, cujo MMSI começa por 970 seguido do código do país",
+    "Um AIS-SART ativado, de embarcação de sobrevivência, que exige resposta como socorro"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o AIS de homem ao mar usa o prefixo 972.</li><li><strong>B) Errada.</strong> a EPIRB com transmissor AIS usa o prefixo 974.</li><li><strong>C) Errada.</strong> a estação costeira usa 00 mais o código do país (no Brasil, 00 710), e não 970.</li><li><strong>D) Correta.</strong> o prefixo 970 identifica o AIS-SART, baliza de sobrevivência; o alvo sem nome e parado em mar aberto pede resposta como socorro.</li></ul>",
+   "referencia": "UIT-R M.585 (MMSI 970 para AIS-SART, 972 para AIS-MOB e 974 para EPIRB-AIS)",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.585/en"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 3,
+   "enunciado": "Muitos velejadores oceânicos levam um AIS-MOB no colete salva-vidas. Por que ele não substitui um PLB 406 MHz?",
+   "alternativas": [
+    "O sinal AIS é de VHF e só chega a barcos próximos; o PLB alerta por satélite",
+    "O AIS-MOB não informa posição, só liga um alarme sonoro no painel do barco",
+    "O PLB usa AIS e por isso alcança mais longe que o AIS-MOB, que usa só VHF",
+    "O AIS-MOB só funciona fora da água, ao contrário do PLB, que transmite na água"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> o AIS-MOB alerta quem está ao alcance de visada do VHF, em geral poucas milhas; o PLB leva o alerta por satélite ao BRMCC, de qualquer ponto do oceano.</li><li><strong>B) Errada.</strong> o AIS-MOB transmite a posição do náufrago, que aparece no plotter e nos receptores AIS próximos.</li><li><strong>C) Errada.</strong> o PLB não usa AIS: transmite em 406 MHz para satélites Cospas-Sarsat.</li><li><strong>D) Errada.</strong> o AIS-MOB é um transmissor pessoal que dispara ao inflar o colete ou à mão, e funciona na água; seu alcance curto é o limite dele.</li></ul>",
+   "referencia": "UIT-R M.585 (MMSI 972 para AIS de homem ao mar); NORMAM-211/DPC, art. 4.23.6 (balizas 406 MHz); Cospas-Sarsat",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.585/en"
+  },
+  {
+   "tema": "EPIRB, PLB, SART e AIS-MOB",
+   "dificuldade": 2,
+   "enunciado": "Qual é a sequência correta do alerta de uma EPIRB 406 MHz até o salvamento, no Brasil?",
+   "alternativas": [
+    "EPIRB, satélite, Anatel, que aciona o SALVAMAR e a Capitania dos Portos mais próxima",
+    "EPIRB, estação costeira de VHF, Capitania dos Portos e, por fim, o BRMCC e o SALVAMAR",
+    "EPIRB, satélite Cospas-Sarsat, estação terrena, BRMCC e, por fim, SALVAERO e SALVAMAR",
+    "EPIRB, satélite, INFOSAR, que aciona em seguida o SALVAERO e o SALVAMAR da região"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> a Anatel regula as telecomunicações e não recebe nem repassa alertas de socorro das balizas.</li><li><strong>B) Errada.</strong> a EPIRB transmite para satélite, e não para estação de VHF; o BRMCC é quem recebe o alerta.</li><li><strong>C) Correta.</strong> o satélite capta o sinal, a estação terrena o encaminha ao centro de controle de missão (BRMCC), que aciona o SALVAERO e o SALVAMAR.</li><li><strong>D) Errada.</strong> o INFOSAR é o cadastro das balizas e não aciona busca; quem aciona é o BRMCC.</li></ul>",
+   "referencia": "DECEA, INFOSAR (bloco 'Emergência': o BRMCC recebe o alerta e aciona SALVAERO e SALVAMAR); Cospas-Sarsat, descrição do sistema (satélite, estação terrena, centro de controle de missão)",
+   "fonte_url": "https://infosar.decea.mil.br/"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 1,
+   "enunciado": "Um velejador tem apenas o Certificado de Operador de Rádio Restrito (ORR), emitido pela Anatel. Onde esse certificado permite operar estações?",
+   "alternativas": [
+    "Em quaisquer águas do mundo, pois o certificado da Anatel é reconhecido pela UIT",
+    "Somente no território, nas águas e no espaço aéreo nacionais, e não no exterior",
+    "Apenas em rios e lagos, pois o mar exige o certificado de Radiotelegrafista da Marinha",
+    "Em águas nacionais e nas do Mercosul, por acordo firmado entre os países-membros"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o ORR é limitado ao território e às águas nacionais, e não vale em qualquer água do mundo.</li><li><strong>B) Correta.</strong> pelo Ato Anatel nº 3449/2026, o ORR só pode operar estações no território, nas águas e no espaço aéreo nacionais.</li><li><strong>C) Errada.</strong> o ORR vale também nas águas marítimas nacionais, e o Radiotelegrafista é outra categoria.</li><li><strong>D) Errada.</strong> o ato não prevê extensão ao Mercosul; o limite é o território e as águas nacionais.</li></ul>",
+   "referencia": "Anatel, Ato nº 3449/2026, Anexo (Categorias de Operadores)",
+   "fonte_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/radioamador-e-radio-cidadao/operador-radiotelefonista"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 3,
+   "enunciado": "Uma candidata ao Operador de Rádio Geral (ORG) fez as três matérias da categoria e acertou 7 questões em Idioma, 4 em Operação de rádio II e 6 em Legislação de radiocomunicações II, de 10 cada. Qual é a situação dela?",
+   "alternativas": [
+    "Aprovada, porque somou 17 acertos em 30 questões, mais da metade do total da prova",
+    "Reprovada nas três matérias, que ela deve refazer todas após um bloqueio de 30 dias",
+    "Reprovada só em Operação de rádio II, que refaz após 8 dias; as outras duas valem 12 meses",
+    "Reprovada só em Operação de rádio II, que ela pode refazer no dia seguinte, sem espera"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o mínimo é de 5 acertos em cada matéria, e não na soma; com 4 acertos, Operação II não foi atingida.</li><li><strong>B) Errada.</strong> a aprovação em cada matéria é independente e vale 12 meses; 30 dias é o bloqueio por faltar sem justificativa.</li><li><strong>C) Correta.</strong> cada matéria exige no mínimo 5 acertos de 10; ela passou em Idioma e Legislação II, cujas aprovações valem 12 meses, e deve repetir Operação II com a carência de 8 dias.</li><li><strong>D) Errada.</strong> a nova tentativa exige carência mínima de 8 dias, e não de 1 dia.</li></ul>",
+   "referencia": "Anatel, Ato nº 3449/2026, Anexo (tabela de matérias) e \"Exames de Qualificação\"",
+   "fonte_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/radioamador-e-radio-cidadao/operador-radiotelefonista"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 1,
+   "enunciado": "Na prova online de Operador Radiotelefonista da Anatel, qual item NÃO é permitido?",
+   "alternativas": [
+    "Fones de ouvido",
+    "Câmera móvel",
+    "Microfone",
+    "Microsoft Teams"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> a Anatel exige computador com navegador, câmera móvel, microfone e Microsoft Teams, e não permite fones de ouvido.</li><li><strong>B) Errada.</strong> ela é exigida pela Anatel para a prova.</li><li><strong>C) Errada.</strong> ele é exigido para a prova.</li><li><strong>D) Errada.</strong> a prova é feita por videoconferência no Teams, que precisa estar instalado.</li></ul>",
+   "referencia": "Anatel, Prova Online: Manual de Instruções do Candidato (v. 2026-04.1), item 1",
+   "fonte_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/radioamador-e-radio-cidadao/operador-radiotelefonista"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 1,
+   "enunciado": "Qual documento da Anatel licencia o próprio equipamento de rádio de uma embarcação, segundo a NORMAM-211?",
+   "alternativas": [
+    "O Certificado de Operador Radiotelefonista",
+    "A Carteira de Habilitação de Amador (CHA)",
+    "O Certificado de Registro do INFOSAR",
+    "A Licença de Estação de Navio"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> ele habilita a pessoa que opera o rádio, e não licencia a estação do barco.</li><li><strong>B) Errada.</strong> a CHA habilita o condutor da embarcação, e não o rádio.</li><li><strong>C) Errada.</strong> o INFOSAR cadastra as balizas de 406 MHz, e não licencia a estação de rádio.</li><li><strong>D) Correta.</strong> a NORMAM-211 manda que a embarcação com equipamento de radiocomunicação obtenha a Licença de Estação de Navio na Anatel.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.8",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 2,
+   "enunciado": "Sobre o prazo de validade de uma licença de estação emitida pelo módulo MMAR, da Anatel, qual afirmação é correta?",
+   "alternativas": [
+    "Vale 5 anos, renovável pelo aplicativo Gov.Br após o pagamento de uma taxa",
+    "Tem prazo indeterminado, exceto a licença de \"Embarcação em Teste\"",
+    "Vale 10 anos, como a habilitação do condutor, e é renovada junto com ela",
+    "Vale 1 ano e se renova a cada ano com o pagamento de uma GRU"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o tutorial não prevê validade de 5 anos; as licenças comuns têm prazo indeterminado.</li><li><strong>B) Correta.</strong> segundo o tutorial do MMAR, as licenças geradas pelo módulo têm prazo indeterminado, exceto as de \"Embarcação em Teste\".</li><li><strong>C) Errada.</strong> a licença da estação e a habilitação do condutor são documentos diferentes, e a licença não acompanha o prazo da CHA.</li><li><strong>D) Errada.</strong> o tutorial fixa prazo indeterminado, e não validade de 1 ano com renovação anual.</li></ul>",
+   "referencia": "Anatel, Tutorial do MMAR (campo \"Validade da Licença\")",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 2,
+   "enunciado": "Ao licenciar o veleiro no MMAR, o sistema pede o número de MMSI da estação. O que a regulamentação da Anatel exige quanto a esse número?",
+   "alternativas": [
+    "Que cada rádio, fixo ou portátil, receba um MMSI diferente escolhido pelo fabricante do aparelho",
+    "Que seja igual ao número de inscrição da embarcação na Capitania dos Portos de registro",
+    "Que seja programado em todos os equipamentos da estação com essa função, como o rádio DSC",
+    "Que seja gravado só no HF, pois o VHF se identifica pelo nome do barco no canal 16"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> a estação tem um único MMSI, programado nos equipamentos com essa função, e não um número diferente para cada aparelho.</li><li><strong>B) Errada.</strong> o MMSI tem 9 dígitos, com o código 710 do Brasil, e não é o número de inscrição.</li><li><strong>C) Correta.</strong> o RGST exige MMSI para estações que participam do GMDSS e manda programá-lo em todos os equipamentos da estação com essa função; é o número que o socorro usa para saber de quem é o barco.</li><li><strong>D) Errada.</strong> o DSC do VHF depende do MMSI; sem ele o botão de socorro não envia alerta útil.</li></ul>",
+   "referencia": "Anatel, RGST (Resolução nº 777/2025), art. 270; NORMAM-211/DPC, art. 4.23.6 d)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 3,
+   "enunciado": "Um brasileiro faz o curso RYA SRC no Reino Unido e passa a usar o certificado no rádio de seu veleiro de bandeira brasileira. Isso basta?",
+   "alternativas": [
+    "Não: segundo o RYA, o SRC vale só em barco britânico; no Brasil vale o certificado da Anatel",
+    "Sim, porque o SRC segue o padrão CEPT e vale em barcos de qualquer bandeira do mundo",
+    "Sim, mas apenas para VHF, desde que o certificado seja traduzido e autenticado antes",
+    "Sim, porque o Brasil e o Reino Unido aceitam os certificados de rádio um do outro"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> o RYA informa que a \"Authority to Operate\" britânica restringe o SRC a embarcações do Reino Unido, e o operador precisa de certificado emitido ou reconhecido pelo governo ao qual a estação está sujeita (no caso, o Brasil).</li><li><strong>B) Errada.</strong> o procedimento é harmonizado pela CEPT, mas a validade do SRC fica restrita aos barcos do Reino Unido.</li><li><strong>C) Errada.</strong> tradução e autenticação não mudam a restrição: o SRC é um certificado britânico.</li><li><strong>D) Errada.</strong> o RYA diz que o SRC vale só em barco britânico, e não prevê reconhecimento automático por outro país.</li></ul>",
+   "referencia": "RYA, Licensing onboard electronics (\"Using the SRC abroad\"); Anatel, RGST, art. 271",
+   "fonte_url": "https://www.rya.org.uk/regulations/licensing-onboard-electronics/"
+  },
+  {
+   "tema": "Licenças e certificados",
+   "dificuldade": 2,
+   "enunciado": "Uma velejadora tem o Curso Especial de Radioperador Geral (EROG), emitido por uma Capitania dos Portos. O que o Ato Anatel nº 3449/2026 prevê para ela no exame de radiotelefonista?",
+   "alternativas": [
+    "Fica isenta só de Idioma e faz as provas de Operação de rádio e Legislação",
+    "Faz apenas a prova de Operação de rádio II, por ser a mais técnica das três",
+    "Não tem isenção, porque o curso da Marinha não vale para a Anatel",
+    "Fica isenta de todos os testes, desde que comprove o curso à Anatel"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> a isenção não é parcial: o ato fala em isenção de todos os testes.</li><li><strong>B) Errada.</strong> o ato não separa uma matéria para o portador do EROG; a isenção cobre todas.</li><li><strong>C) Errada.</strong> o ato reconhece expressamente o EROG, curso da Marinha, como motivo de isenção.</li><li><strong>D) Correta.</strong> o ato isenta de todos os testes quem comprova certos cursos da Marinha, entre eles o EROG emitido pela Capitania dos Portos.</li></ul>",
+   "referencia": "Anatel, Ato nº 3449/2026, Anexo, item 4.10 (isenção de todos os testes)",
+   "fonte_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/radioamador-e-radio-cidadao/operador-radiotelefonista"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Em uma regata OSR Categoria 1 com 12 tripulantes, quantos precisam ter o treinamento de sobrevivência da OSR 6.02 nos 5 anos anteriores à largada, incluindo o comandante?",
+   "alternativas": [
+    "No mínimo 2",
+    "No mínimo 4",
+    "No mínimo 3",
+    "Todos os 12"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> 2 é o piso da regra, mas 30% de 12 dá 3,6, e o resultado é maior que o piso.</li><li><strong>B) Correta.</strong> a OSR 6.01.2 pede pelo menos 30% da tripulação, nunca menos de dois, incluindo o responsável: 30% de 12 = 3,6, o que exige 4 pessoas.</li><li><strong>C) Errada.</strong> 3 é 25% da tripulação, abaixo dos 30% exigidos; não existe 0,6 de tripulante.</li><li><strong>D) Errada.</strong> a exigência para todos vale na Categoria 0; nas Categorias 1 e 2 são 30%.</li></ul>",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027 v1, regra 6.01.2 (p. 39)",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "O certificado de Offshore Personal Survival de um comandante venceu há 18 meses. O que a OSR 6.01.5 permite?",
+   "alternativas": [
+    "Nada: depois de vencido é preciso refazer o curso completo de dois dias",
+    "A reciclagem só vale se o vencimento ocorreu há no máximo 6 meses da largada",
+    "Renovar por exame escrito on-line, sem prática, em qualquer prazo depois do vencimento",
+    "Renová-lo com um curso de reciclagem, pois o prazo é de até 2 anos após o vencimento"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> a regra tem tolerância de 2 anos justamente para permitir a reciclagem.</li><li><strong>B) Errada.</strong> o prazo da regra é de 2 anos, e não de 6 meses.</li><li><strong>C) Errada.</strong> a reciclagem tem prática na água e prova escrita, e o prazo máximo é de 2 anos.</li><li><strong>D) Correta.</strong> a reciclagem é aceita se feita até 2 anos depois do vencimento; com 18 meses, ele ainda está dentro do prazo.</li></ul>",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, regra 6.01.5",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante concluiu o curso Offshore Personal Survival em 12/03/2022. A regata de Categoria 0 larga em 20/02/2027. Pela OSR 6.01.1, o treinamento está dentro do prazo?",
+   "alternativas": [
+    "Sim: a largada ocorre pouco menos de 5 anos depois do curso",
+    "Não: o prazo é contado até a chegada, e a regata dura várias semanas",
+    "Não: o certificado vale 3 anos e a reciclagem seria obrigatória",
+    "Sim, mas só se ele fizer antes o curso de reciclagem de 8 horas"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> a OSR 6.01.1 pede o treinamento nos 5 anos anteriores à largada; de 12/03/2022 a 20/02/2027 faltam 20 dias para completar 5 anos.</li><li><strong>B) Errada.</strong> a regra conta até a largada, e não até a chegada.</li><li><strong>C) Errada.</strong> o certificado vale 5 anos.</li><li><strong>D) Errada.</strong> a reciclagem é para certificados vencidos, e o dele ainda vale.</li></ul>",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, regras 6.01.1 e Apêndice G",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Para a OSR 6.05.2, qual treinamento STCW de primeiros socorros é aceito como certificado, além dos cursos listados pela World Sailing?",
+   "alternativas": [
+    "Somente o A-VI/4-2 (Proficiency in Medical Care)",
+    "Qualquer curso civil de primeiros socorros que tenha pelo menos 4 horas de aula",
+    "A-VI/1-3 (Elementary First Aid) ou outro nível STCW superior a ele",
+    "Apenas o CPSO, curso da DPC com 52 horas"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o A-VI/4-2 é exigido na Categoria 0 como um dos dois tripulantes, mas não é o único aceito.</li><li><strong>B) Errada.</strong> a regra não aceita qualquer curso: pede curso listado pela World Sailing ou STCW.</li><li><strong>C) Correta.</strong> a OSR 6.05.2 aceita um curso reconhecido pela federação nacional ou treinamento STCW A-VI/1-3 ou superior.</li><li><strong>D) Errada.</strong> o CPSO segue o nível A-VI/4, superior ao A-VI/1-3, mas o \"apenas\" deixa de fora o A-VI/1-3.</li></ul>",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, regra 6.05.2",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Por que a World Sailing recomenda não aceitar um curso STCW de sobrevivência no mar (como o CBSN) no lugar do Offshore Personal Survival?",
+   "alternativas": [
+    "Porque os cursos STCW não tratam de colete salva-vidas nem de embarcações de sobrevivência",
+    "Porque esses cursos não cobrem itens de vela e equipamentos de recreio",
+    "Porque o certificado STCW vale só 1 ano, contra 5 anos do Offshore Personal Survival",
+    "Porque só cursos dados em inglês são aceitos pelas regras de regata"
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> as tabelas STCW incluem colete e embarcações de sobrevivência; o problema é o conteúdo específico de vela.</li><li><strong>B) Correta.</strong> a World Sailing considera que os cursos STCW de sobrevivência não tratam de itens de vela e de equipamentos de recreio.</li><li><strong>C) Errada.</strong> o CBSN, por exemplo, tem certificado de 5 anos.</li><li><strong>D) Errada.</strong> a OSR não impõe idioma; o motivo é o conteúdo do curso.</li></ul>",
+   "referencia": "World Sailing, Offshore Personal Survival (seção \"STCW Courses\")",
+   "fonte_url": "https://www.sailing.org/inside-world-sailing/activities-services/technical-offshore/technical-services/technical-and-offshore-safety/offshore-safety/offshore-personal-survival/"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 1,
+   "enunciado": "Sobre o kit de medicamentos e os primeiros socorros em um veleiro de mar aberto com 6 pessoas, o que diz a NORMAM-211?",
+   "alternativas": [
+    "Recomenda a caixa do Anexo 4-C e põe a responsabilidade pelos medicamentos no comandante",
+    "Obriga qualquer veleiro de mar aberto a ter um médico a bordo durante toda a viagem",
+    "Deixa o tema para a Anatel, que fiscaliza a caixa de medicamentos na licença de estação",
+    "Responsabiliza o fabricante da caixa pela reposição dos medicamentos que estiverem vencidos"
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><strong>A) Correta.</strong> a norma recomenda a caixa de medicamentos (item I do Anexo 4-C) a embarcações de mar aberto com menos de 15 pessoas e põe a responsabilidade no comandante.</li><li><strong>B) Errada.</strong> a norma não exige médico a bordo para embarcações de recreio.</li><li><strong>C) Errada.</strong> a Anatel cuida de telecomunicações, e não de medicamentos.</li><li><strong>D) Errada.</strong> a responsabilidade pelo material é do comandante, e não do fabricante.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.22 e Anexo 4-C",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 3,
+   "enunciado": "Um tripulante cai na água a 10 °C. No mnemônico 1-10-1 da água fria, que serve para lembrar a ordem das fases e não como cronômetro, o que representa o \"10\"?",
+   "alternativas": [
+    "Cerca de 10 minutos para a respiração voltar ao normal depois do choque do frio",
+    "Cerca de 10 minutos até a perda de consciência por hipotermia na água fria",
+    "Cerca de 10 minutos de movimento útil dos braços e pernas, até faltar força",
+    "Cerca de 10 minutos que o SALVAMAR leva para chegar depois de receber o alerta"
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> o choque do frio dura cerca de 1 minuto, e é esse o primeiro \"1\".</li><li><strong>B) Errada.</strong> a perda de consciência por hipotermia vem em torno de 1 hora, e é esse o último \"1\".</li><li><strong>C) Correta.</strong> o mnemônico associa 1 minuto ao choque do frio, 10 minutos à perda de força útil nos membros e 1 hora à hipotermia. Os tempos reais variam com a água, a roupa e a pessoa.</li><li><strong>D) Errada.</strong> o mnemônico descreve o corpo na água fria, não o tempo de resposta do socorro.</li></ul>",
+   "referencia": "Giesbrecht, G., regra 1-10-1 de água fria (1 min de choque do frio, 10 min de movimento útil, 1 h até a hipotermia); Cold Water Safety, \"The 1-10-1 myth\" (os tempos variam e não são cronômetro); World Sailing, OSR 6.02 (tópico de hipotermia)",
+   "fonte_url": "https://www.coldwatersafety.org/1-10-1-myth"
+  },
+  {
+   "tema": "Primeiros socorros e sobrevivência",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante adulto está inconsciente e sem respirar normalmente. Depois de pedir ajuda, qual é o ritmo recomendado das compressões torácicas na RCP?",
+   "alternativas": [
+    "De 60 a 80 compressões por minuto",
+    "De 140 a 160 compressões por minuto",
+    "Cerca de 30 compressões por minuto",
+    "De 100 a 120 compressões por minuto"
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li><strong>A) Errada.</strong> é lento demais, e o sangue não circula o bastante.</li><li><strong>B) Errada.</strong> é rápido demais, e as compressões perdem profundidade e o retorno do tórax.</li><li><strong>C) Errada.</strong> 30 é o número de compressões de cada ciclo antes de 2 ventilações, e não o ritmo.</li><li><strong>D) Correta.</strong> as diretrizes de ressuscitação indicam compressões firmes e rápidas, de 100 a 120 por minuto.</li></ul>",
+   "referencia": "SBC, Diretriz de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência; AHA, Guidelines for CPR and ECC (2020), Parte 3 (suporte básico de vida em adultos)",
+   "fonte_url": "https://cpr.heart.org/"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 1,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 2,
+   "acao": "corrigida",
+   "motivo": "Alternativa A alongada para que a correta (A3) deixe de ser a mais longa; sem alteração de conteúdo. Gabarito mantido."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Enunciado removia \"além da frequência internacional de socorro\", premissa contraditória (4.125 kHz é ela própria a frequência de socorro em HF, e a norma diz \"ou\"). Gabarito mantido."
+  },
+  {
+   "idx": 5,
+   "acao": "corrigida",
+   "motivo": "Retirado \"sem internet\", detalhe que não muda a pergunta e sugere outro tema. Gabarito mantido."
+  },
+  {
+   "idx": 6,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta encurtada (empatava como a mais longa); conteúdo igual. Gabarito mantido."
+  },
+  {
+   "idx": 7,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 9,
+   "acao": "corrigida",
+   "motivo": "Explicação de B tirada a causa (\"porque\") que a norma não traz; A reformulada para o que o curso diz sobre 121,5 MHz. Gabarito mantido."
+  },
+  {
+   "idx": 10,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta encurtada (empatava com a mais longa); explicação de C sem o \"quando a mudança ocorre\" que a fonte não diz. Gabarito mantido."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Fonte trocada para a página do DECEA que trata do caso; referência explicitada. Gabarito mantido."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "Distrator A trocado por uma opção sem procedimento inventado (o MMSI do barco é o da EPIRB de embarcação, não o do PLB pessoal) e alongado para que a correta (número de série) deixe de ser a mais longa. Gabarito mantido."
+  },
+  {
+   "idx": 14,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta reescrita (o SART, não o náufrago, fica na ponta da linha) e encurtada. Figura conferida: 12 pontos colineares, primeiro ponto mais próximo do centro. Gabarito mantido."
+  },
+  {
+   "idx": 16,
+   "acao": "corrigida",
+   "motivo": "Removida a citação de resolução IMO (MSC.246(83)) que não foi conferida nas fontes; referência limitada ao que a Recomendação UIT-R M.585 traz. Gabarito mantido."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Explicação de D corrigida: o AIS-MOB dispara com o colete ou à mão e funciona na água, como diz o curso. Gabarito mantido."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Correta trocada de \"SALVAMAR ou SALVAERO\" para \"SALVAERO e SALVAMAR\", como diz a fonte do BRMCC e a própria explicação; a alternativa tinha ficado a mais longa. Gabarito mantido."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Explicação de A sem a inferência sobre o ORG (que o curso marca como \"confirme com a Anatel\"). Gabarito mantido."
+  },
+  {
+   "idx": 20,
+   "acao": "corrigida",
+   "motivo": "Enunciado deixa claro que são as três matérias do ORG; correta encurtada (era a mais longa por larga margem). Contas refeitas: 7+4+6=17, Operação II (4) abaixo de 5. Gabarito mantido."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Conferido: \"fones de ouvido\" não são permitidos (radio-10); demais itens são exigidos. Referência ajustada ao nome do documento da Anatel."
+  },
+  {
+   "idx": 22,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 24,
+   "acao": "corrigida",
+   "motivo": "Enunciado não afirma mais que o comandante \"recebe\" o MMSI (a fonte não diz quem gera o número); explicação de A ajustada. Gabarito mantido."
+  },
+  {
+   "idx": 25,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta reescrita para o que a fonte diz (certificado da Anatel), sem o \"depende da Anatel\" vago. Gabarito mantido."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Alternativas reordenadas para equilibrar a posição do gabarito (A->D), com as letras da explicação refeitas; referência com o item do anexo. Gabarito mantido (EROG, isenção total)."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Referência com a página da regra. Cálculo conferido: 30% de 12 = 3,6, arredondado para cima = 4. Gabarito mantido."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 29,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Explicação de D reescrita: o CPSO se encaixa no \"superior\", o erro está no \"apenas\". Gabarito mantido."
+  },
+  {
+   "idx": 31,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 32,
+   "acao": "ok",
+   "motivo": "Conferido contra a NORMAM-211, claims_verified, o curso (radio-1/radio-2) e o conhecimento técnico: uma única resposta defensável, distratores plausíveis, explicação e referência conferidas."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Enunciado mais direto, correta encurtada (era a mais longa) e referência sem o tópico \"choque pelo frio\" que não está conferido. Gabarito mantido."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Referência com nome do documento e parte da diretriz em vez de \"AHA e ILCOR\"; URL da diretriz. Gabarito mantido."
+  }
+ ]
+}

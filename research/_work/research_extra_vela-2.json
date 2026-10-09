@@ -1,0 +1,48 @@
+{
+ "claims": [
+  {
+   "id": "extra-vela-2-01",
+   "topic": "fundeio-procedimento",
+   "claim": "Pelo Anexo 4-B da NORMAM-211 (Recomendações ao navegante), as embarcações devem fundear aproadas ao vento ou à corrente, com o motor em ponto morto (fora de marcha); a âncora deve ser lançada quando a embarcação perder o seguimento, com um comprimento de cabo de aproximadamente cinco a sete vezes a profundidade local.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 6 (Procedimentos para fundear a embarcação), p. 4-B-5",
+   "quote": "As embarcações deverão fundear, aproadas ao vento ou à corrente, com motor de propulsão em posição neutra, isto é, fora de marcha. A âncora deverá ser lançada quando a embarcação perder o segmento, usando uma extensão de cabo com comprimento aproximado de cinco a sete vezes a profundidade local.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 no texto extraído do PDF consolidado (research/acervo/normam-211.txt)."
+  },
+  {
+   "id": "extra-vela-2-02",
+   "topic": "fundeio-cabo-motor",
+   "claim": "Pelo Anexo 4-B da NORMAM-211, o cabo de fundeio não deve ser amarrado próximo ao motor, porque o peso do motor pode somar-se à tração vertical do cabo, provocando emborcamento e afundamento da embarcação.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 6, p. 4-B-5",
+   "quote": "O cabo de fundeio não deve ser amarrado próximo ao motor, pois o peso do motor poderá somar-se à tração vertical do cabo provocando emborcamento e afundamento da embarcação.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 no texto extraído do PDF consolidado (research/acervo/normam-211.txt)."
+  },
+  {
+   "id": "extra-vela-2-03",
+   "topic": "ancora-dotacao",
+   "claim": "Pela NORMAM-211, todas as embarcações, exceto as miúdas, devem estar dotadas de âncora compatível com o tamanho da embarcação e com, no mínimo, vinte metros de cabo ou amarra.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.18.4 (Âncora), p. 4-9",
+   "quote": "Âncora - todas as embarcações, exceto as miúdas, devem estar dotadas de uma âncora compatível com o tamanho da embarcação e com, no mínimo, vinte metros de cabo ou amarra.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 no texto extraído do PDF consolidado (research/acervo/normam-211.txt)."
+  },
+  {
+   "id": "extra-vela-2-04",
+   "topic": "lanterna-portatil",
+   "claim": "Pela NORMAM-211, todas as embarcações devem ter uma lanterna portátil, com bateria recarregável ou pilhas sobressalentes.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.18.2 (Lanterna portátil), p. 4-9",
+   "quote": "Lanterna portátil - todas as embarcações deverão estar dotadas de uma unidade de lanterna portátil, com bateria recarregável ou com pilhas sobressalentes.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 no texto extraído do PDF consolidado (research/acervo/normam-211.txt)."
+  }
+ ]
+}

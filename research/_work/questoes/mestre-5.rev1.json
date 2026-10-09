@@ -1,0 +1,815 @@
+{
+ "questoes": [
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "A figura mostra um trecho de carta sinótica de superfície no Atlântico Sul. O ponto <b>P</b> fica no litoral do Sudeste, a oeste de um anticiclone (<b>A</b>). Sem influências locais, de que direção o vento tende a soprar em P?",
+   "alternativas": [
+    "De sudeste (SE): é a direção que o giro em torno de uma alta teria no Hemisfério Norte.",
+    "De sudoeste (SW): o vento sopra para dentro da alta, em direção ao seu centro.",
+    "De nordeste (NE): o vento gira no sentido anti-horário em torno da alta e se afasta dela.",
+    "De norte (N): o vento segue exatamente as isóbaras, sem se abrir para fora da alta."
+   ],
+   "correta": 2,
+   "explicacao": "No Hemisfério Sul o vento gira no sentido anti-horário em torno de uma alta. No lado oeste da alta o ar corre para o sul (vento de norte) e, pelo atrito, se abre um pouco para fora do centro, isto é, para oeste: o resultado é vento de nordeste em P (regime típico do litoral Sudeste sob o Anticiclone do Atlântico Sul). Vento de SE seria o resultado do giro horário do Hemisfério Norte. O vento sai da alta, não entra nela, então SW (que sopraria rumo à alta) está errado. Vento de N seguiria exatamente as isóbaras, o que só ocorre sem atrito; na superfície o vento cruza as isóbaras para fora da alta.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.4 (circulação em torno de altas e baixas; nos anticiclones o vento forma ângulo para fora com as isóbaras)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 190\" role=\"img\" aria-label=\"Carta sinótica esquemática: anticiclone A no oceano, a leste do ponto P no litoral\"><rect width=\"320\" height=\"190\" fill=\"var(--sea-1)\"/><polygon points=\"0,0 108,0 122,55 112,100 128,150 118,190 0,190\" fill=\"var(--land)\"/><g fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"1.3\"><circle cx=\"240\" cy=\"95\" r=\"28\"/><circle cx=\"240\" cy=\"95\" r=\"54\"/><circle cx=\"240\" cy=\"95\" r=\"80\"/></g><g font-size=\"10\" fill=\"var(--ink)\" text-anchor=\"middle\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\"><text x=\"240\" y=\"70\">1024</text><text x=\"240\" y=\"44\">1020</text><text x=\"240\" y=\"18\">1016</text></g><text x=\"240\" y=\"103\" font-size=\"24\" font-weight=\"700\" text-anchor=\"middle\" fill=\"var(--ink)\">A</text><circle cx=\"113\" cy=\"95\" r=\"5\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"98\" y=\"91\" font-size=\"14\" font-weight=\"700\" text-anchor=\"end\" fill=\"var(--ink)\">P</text><text x=\"40\" y=\"120\" font-size=\"11\" fill=\"var(--ink)\">Terra</text><g stroke=\"var(--ink)\" stroke-width=\"1.5\" fill=\"var(--ink)\"><line x1=\"150\" y1=\"42\" x2=\"150\" y2=\"18\"/><polygon points=\"150,12 145,22 155,22\"/></g><text x=\"150\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--ink)\">N</text></svg>"
+   }
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 1,
+   "enunciado": "A figura mostra isóbaras desenhadas de 4 em 4 hPa. Em qual dos pontos o vento à superfície tende a ser mais forte, e por quê?",
+   "alternativas": [
+    "No ponto Y, porque há mais espaço entre as isóbaras para o vento ganhar velocidade.",
+    "No ponto X, porque as isóbaras estão mais juntas e o gradiente de pressão é maior.",
+    "Nos dois igual, porque a diferença entre duas isóbaras vizinhas é sempre de 4 hPa.",
+    "No ponto Y, porque a pressão ali é mais alta do que em X."
+   ],
+   "correta": 1,
+   "explicacao": "A mesma queda de 4 hPa em menos distância significa gradiente maior e vento mais forte: isóbaras apertadas, vento forte. O espaço largo entre isóbaras não acelera o vento, ao contrário: indica gradiente fraco. A diferença de 4 hPa é igual nos dois, mas o que importa é a distância em que ela acontece. A pressão mais alta em Y não torna o vento mais forte; o que manda é o gradiente.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.4 (gradiente barométrico e força do vento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 170\" role=\"img\" aria-label=\"Isóbaras de 4 em 4 hPa: muito próximas na esquerda (ponto X) e bem espaçadas na direita (ponto Y)\"><rect width=\"320\" height=\"170\" fill=\"var(--sea-1)\"/><g fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"1.3\"><path d=\"M30 0 Q38 85 30 150\"/><path d=\"M55 0 Q63 85 55 150\"/><path d=\"M80 0 Q88 85 80 150\"/><path d=\"M105 0 Q113 85 105 150\"/><path d=\"M165 0 Q173 85 165 150\"/><path d=\"M225 0 Q233 85 225 150\"/><path d=\"M285 0 Q293 85 285 150\"/></g><g font-size=\"10\" fill=\"var(--ink)\" text-anchor=\"middle\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\"><text x=\"30\" y=\"164\">1000</text><text x=\"55\" y=\"164\">1004</text><text x=\"80\" y=\"164\">1008</text><text x=\"105\" y=\"164\">1012</text><text x=\"165\" y=\"164\">1016</text><text x=\"225\" y=\"164\">1020</text><text x=\"285\" y=\"164\">1024</text></g><g fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"><circle cx=\"71\" cy=\"70\" r=\"5\"/><circle cx=\"198\" cy=\"70\" r=\"5\"/></g><g font-size=\"14\" font-weight=\"700\" fill=\"var(--ink)\" text-anchor=\"middle\" stroke=\"var(--sea-1)\" stroke-width=\"3\" paint-order=\"stroke\"><text x=\"71\" y=\"55\">X</text><text x=\"198\" y=\"55\">Y</text></g></svg>"
+   }
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "O gráfico mostra o registro do barógrafo de um veleiro fundeado no litoral de Santa Catarina durante 24 horas. Em que horário, aproximadamente, uma frente fria passou pelo barco?",
+   "alternativas": [
+    "Por volta das 06 h, quando a queda de pressão começou a se acentuar, com o barômetro ainda caindo.",
+    "Por volta das 18 h, quando a pressão já tinha se recuperado em boa parte e o céu clareava.",
+    "Por volta das 12 h, no ponto mais baixo da curva, quando a pressão para de cair e sobe.",
+    "Por volta das 00 h, no início do registro, com a pressão ainda alta e o tempo calmo."
+   ],
+   "correta": 2,
+   "explicacao": "Na passagem da frente fria a pressão chega ao mínimo e começa a subir, e o vento ronda para SW. No gráfico isso acontece por volta das 12 h. Às 06 h a frente ainda está se aproximando, com a pressão em queda. Às 18 h ela já passou há algumas horas e a pressão sobe. Às 00 h o barco ainda está longe da frente, com pressão alta e tempo calmo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 2026), cap. 45, item 45.4 (aproximação e passagem de frentes frias)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 330 205\" role=\"img\" aria-label=\"Registro do barógrafo em 24 horas: a pressão cai até cerca de 12 h e depois sobe depressa\"><g stroke=\"var(--ink)\" stroke-opacity=\"0.2\" stroke-width=\"1\"><line x1=\"40\" y1=\"30\" x2=\"300\" y2=\"30\"/><line x1=\"40\" y1=\"65\" x2=\"300\" y2=\"65\"/><line x1=\"40\" y1=\"100\" x2=\"300\" y2=\"100\"/><line x1=\"40\" y1=\"135\" x2=\"300\" y2=\"135\"/></g><g stroke=\"var(--ink)\" stroke-width=\"1.5\"><line x1=\"40\" y1=\"170\" x2=\"300\" y2=\"170\"/><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"170\"/><line x1=\"105\" y1=\"170\" x2=\"105\" y2=\"175\"/><line x1=\"170\" y1=\"170\" x2=\"170\" y2=\"175\"/><line x1=\"235\" y1=\"170\" x2=\"235\" y2=\"175\"/><line x1=\"300\" y1=\"170\" x2=\"300\" y2=\"175\"/></g><g font-size=\"11\" fill=\"var(--ink)\" text-anchor=\"middle\"><text x=\"40\" y=\"190\">00 h</text><text x=\"105\" y=\"190\">06 h</text><text x=\"170\" y=\"190\">12 h</text><text x=\"235\" y=\"190\">18 h</text><text x=\"300\" y=\"190\">24 h</text></g><g font-size=\"11\" fill=\"var(--ink)\" text-anchor=\"end\"><text x=\"35\" y=\"174\">1000</text><text x=\"35\" y=\"139\">1004</text><text x=\"35\" y=\"104\">1008</text><text x=\"35\" y=\"69\">1012</text><text x=\"35\" y=\"34\">1016</text></g><text x=\"40\" y=\"13\" font-size=\"11\" fill=\"var(--ink)\">hPa</text><path d=\"M40 65 C70 66 90 74 105 83 C130 100 150 140 170 146 C190 140 205 100 235 76 C260 56 280 44 300 39\" fill=\"none\" stroke=\"var(--nav-red)\" stroke-width=\"2.5\"/></svg>"
+   }
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "No Hemisfério Sul, um veleiro ao largo de Cabo Frio (RJ) sente o vento verdadeiro de sudeste (135°). Pela lei de Buys-Ballot, em que direção aproximada está o centro da baixa pressão?",
+   "alternativas": [
+    "Para nordeste, cerca de 025°: de frente para o vento, a baixa fica à esquerda, a uns 110° dele.",
+    "Para sudoeste, cerca de 245°: de frente para o vento, a baixa fica à direita, como no Hemisfério Norte.",
+    "Para sudeste, cerca de 135°: a baixa fica exatamente na direção de onde vem o vento, como se ele saísse dela.",
+    "Para noroeste, cerca de 315°: a baixa fica na direção para onde vai o vento, que sopra rumo a ela."
+   ],
+   "correta": 0,
+   "explicacao": "No Hemisfério Sul, de frente para o vento verdadeiro a baixa fica à esquerda, a cerca de 110° da direção de onde ele sopra: 135° − 110° = 025°. Girar para a direita (135° + 110° = 245°) é aplicar a regra do Hemisfério Norte. O vento não sopra direto da baixa nem para ela, por causa do desvio causado pela rotação da Terra. Por isso a baixa não está nem na direção de onde vem o vento (135°) nem para onde ele vai (315°).",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.4 (lei de Buys-Ballot)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 3,
+   "enunciado": "Na costa de Santa Catarina, uma frente fria passa e o vento ronda de noroeste (315°) para sudoeste (225°). Em que sentido o vento girou?",
+   "alternativas": [
+    "No sentido horário, como ocorre na passagem de uma frente fria no Hemisfério Norte.",
+    "No sentido horário, porque as baixas do Hemisfério Sul giram nesse sentido.",
+    "Em nenhum sentido definido: a mudança foi brusca e o vento apenas trocou de lado.",
+    "No sentido anti-horário: a direção de onde o vento vem diminuiu de 315° para 225°."
+   ],
+   "correta": 3,
+   "explicacao": "De NW (315°) para SW (225°) o vento passa por W (270°), com o valor da direção diminuindo: é um giro anti-horário. No Hemisfério Sul a passagem de uma frente fria faz o vento girar assim, o contrário do Hemisfério Norte, onde ele gira no sentido horário. A circulação horária em torno da baixa descreve o movimento do ar ao redor do centro, e não a mudança de direção que um observador fixo sente quando a frente passa. A mudança é brusca, mas passa por direções intermediárias e tem sentido definido.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.3.3 a (frente fria: no HS o vento ronda no sentido anti-horário, de NE ou N para NW e depois SW) e item 45.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "Num dia de julho, ao largo do litoral de São Paulo, o vento fraco de nordeste traz ar quente e úmido sobre águas mais frias, e o nevoeiro persiste o dia inteiro. Qual é o tipo e por que o Sol não o dissipa?",
+   "alternativas": [
+    "Nevoeiro de advecção: o ar quente e úmido se resfria sobre a água fria e o vento o renova sem parar.",
+    "Nevoeiro de radiação: o solo esfriou na noite clara, e o aquecimento do dia o dissipa logo.",
+    "Nevoeiro de vapor: o ar muito frio passa sobre água mais quente e a água evapora.",
+    "Nevoeiro frontal: a chuva da frente evapora no ar mais frio junto à frente e satura o ar."
+   ],
+   "correta": 0,
+   "explicacao": "O nevoeiro de advecção nasce quando ar quente e úmido passa sobre uma superfície mais fria e se resfria até o ponto de orvalho. Enquanto o vento continuar trazendo ar úmido, ele se renova e pode durar dias, mesmo com Sol. O de radiação se forma em terra, em noites claras e calmas, e some com o aquecimento do dia. O de vapor exige o inverso: ar muito frio sobre água mais quente. O frontal vem de chuva relativamente quente evaporando em ar mais frio junto à frente, e não de ar quente sobre água fria.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.6 (nevoeiros de resfriamento e de evaporação)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "Depois de um dia quente e úmido, você pernoita num fundeadouro abrigado, com noite de céu limpo e sem vento. De madrugada um nevoeiro denso cobre a água e a margem. Qual é o mais provável e o que esperar depois do nascer do Sol?",
+   "alternativas": [
+    "Nevoeiro de advecção: ele deve durar o dia todo, porque o vento renova a umidade sobre a água.",
+    "Nevoeiro de radiação: o solo esfriou durante a noite e ele deve se dissipar com o aquecimento do dia.",
+    "Nevoeiro de vapor: vem de uma massa de ar muito frio e fica mais denso quando o Sol sobe.",
+    "Nevoeiro frontal: ele só some quando a frente passar, seja de dia ou de noite."
+   ],
+   "correta": 1,
+   "explicacao": "Noite clara, sem vento e ar úmido são o cenário clássico do nevoeiro de radiação: a terra perde calor, esfria o ar sobre ela até o ponto de orvalho, e o Sol o dissipa em algumas horas. Não há vento para trazer ar quente sobre água fria, então não é advecção. O de vapor pede ar muito frio sobre água mais quente, o que não ocorre depois de um dia quente. Sem chuva nem frente por perto, não se trata de nevoeiro frontal.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.6 (nevoeiro de radiação: forma-se em terra em noites claras e calmas, dissipa-se com o aquecimento do dia)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 1,
+   "enunciado": "Com vento fraco, qual destas leituras (temperatura do ar / ponto de orvalho) indica maior risco de nevoeiro?",
+   "alternativas": [
+    "Ar a 19 °C e ponto de orvalho a 18 °C: a temperatura está quase no ponto de orvalho.",
+    "Ar a 28 °C e ponto de orvalho a 12 °C: o ar está quente e muito seco.",
+    "Ar a 24 °C e ponto de orvalho a 14 °C: a diferença é de 10 °C.",
+    "Ar a 31 °C e ponto de orvalho a 20 °C: o ar é quente e úmido, mas ainda longe de saturar."
+   ],
+   "correta": 0,
+   "explicacao": "O nevoeiro se forma quando a temperatura do ar chega ao ponto de orvalho: quanto menor a diferença, maior o risco. Com 19 °C e 18 °C basta um resfriamento de 1 °C. Nos outros casos faltam 16, 10 e 11 °C de resfriamento, sinal de ar bem mais distante da saturação, mesmo que o ar esteja úmido.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, itens 45.2.3 (ponto de orvalho) e 45.2.6 (nevoeiros)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 3,
+   "enunciado": "Segundo os critérios do CHM, em qual destas previsões é emitido aviso de mau tempo?",
+   "alternativas": [
+    "Vento de nordeste de força 6 (cerca de 25 nós), ondas de 2,5 m em águas profundas e visibilidade de 3 km.",
+    "Vento de sul de força 5, ondas de 1,5 m e visibilidade de 800 m em nevoeiro.",
+    "Vento de sudeste de força 6 (até 27 nós), ondas de 2 m e ressaca de 2 m atingindo a costa.",
+    "Chuva forte e trovoadas, vento de força 5 e visibilidade de 2 km."
+   ],
+   "correta": 1,
+   "explicacao": "O CHM emite aviso quando prevê vento de força 7 ou mais (28 nós ou mais), ondas de 3 m ou mais em águas profundas, visibilidade de 1 km ou menos, ou ressaca com ondas de 2,5 m ou mais na costa. Basta um critério: a visibilidade de 800 m já aciona o aviso, mesmo com vento moderado. Nos outros casos nenhum limite foi atingido: força 6 tem no máximo 27 nós, ondas de 2,5 m em mar aberto e ressaca de 2 m ficam abaixo dos limites, e 2 ou 3 km de visibilidade estão acima de 1 km. Chuva e trovoada, sozinhas, não são critério.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.5.2 (Aviso de Mau Tempo: força 7 ou mais, ondas de 3 m ou mais em águas profundas, visibilidade de 1 km ou menos, ressaca com ondas de 2,5 m ou mais); CHM, Serviços Radiometeorológicos de Apoio ao Navegante",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro navega com vento de popa exata, a 6 nós. O anemômetro do tope do mastro marca 12 nós de vento aparente. Qual é a força Beaufort do vento verdadeiro?",
+   "alternativas": [
+    "Força 4 (11 a 16 nós): o vento verdadeiro é o próprio vento aparente, de 12 nós.",
+    "Força 5 (17 a 21 nós): o vento verdadeiro é 12 + 6 = 18 nós.",
+    "Força 2 (4 a 6 nós): o vento verdadeiro é 12 − 6 = 6 nós.",
+    "Força 6 (22 a 27 nós): o vento verdadeiro é o dobro do aparente, 24 nós."
+   ],
+   "correta": 1,
+   "explicacao": "Com o vento de popa, o barco se afasta na mesma direção em que o vento sopra e sente menos vento: aparente = verdadeiro − velocidade do barco. Logo, verdadeiro = 12 + 6 = 18 nós, força 5 (17 a 21 nós). Usar o aparente como se fosse verdadeiro subestima o vento (força 4). Subtrair a velocidade do barco é o cálculo de quem confunde com o vento de proa e dá apenas 6 nós. Dobrar o valor não tem base física.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.4 (vento relativo/aparente e vento verdadeiro; Tabela 45.1, escala Beaufort)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro vai de Salvador a Recife, num rumo geral de 035°, com o alísio de sudeste (135°) soprando firme. De onde o vento atinge o barco?",
+   "alternativas": [
+    "Pela proa, o que obriga o barco a bolinar, como numa viagem para o sul.",
+    "Pela alheta de bombordo, quase de popa, empurrando o barco ao destino.",
+    "Pelo través de boreste, ou muito perto dele, com o vento chegando de lado.",
+    "Pela bochecha de boreste, a uns 45° da proa, pedindo bolina folgada."
+   ],
+   "correta": 2,
+   "explicacao": "O vento vem de 135° e o barco aponta para 035°: a diferença é de 100° para a direita, ou seja, vento no través de boreste (um pouco por ré). Para pegá-lo pela proa o rumo teria de ser próximo de 135°; numa descida para o sul o alísio já vem bem mais de proa. O vento está do lado direito, e não do esquerdo (bombordo). A bochecha de boreste, a 45° da proa, ocorreria com rumo em torno de 090°.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.1.3 (alísios de SE no Hemisfério Sul) e item 45.4 (bom tempo: ventos de SE a NE)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 1,
+   "enunciado": "Numa noite de céu limpo no litoral do Nordeste, de madrugada, sopra um vento local da terra para o mar. Como se chama e por que ocorre?",
+   "alternativas": [
+    "Brisa marítima: a terra esfria e puxa o ar do mar para dentro do continente.",
+    "Terral: a terra esfria mais que o mar, e o ar frio e pesado escoa para a água.",
+    "Terral: o mar esfria mais depressa que a terra, e o ar sobe sobre a água.",
+    "Alísio: o vento regular de sudeste, que não depende da hora do dia."
+   ],
+   "correta": 1,
+   "explicacao": "À noite a terra perde calor mais rápido que a água, o ar sobre ela fica mais frio e pesado e escoa para o mar: é o terral. A brisa marítima sopra do mar para a terra, de dia, quando a terra está mais quente. O mar não esfria mais depressa que a terra; é o contrário. O alísio é um vento de grande escala, que não muda com a hora do dia.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.4 (brisa marítima e terral)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "Os meteorologistas chamam de ciclogênese explosiva um fenômeno que atinge a costa Sul do Brasil. O que é?",
+   "alternativas": [
+    "A passagem muito rápida de uma frente fria, com o vento rondando de NW para SW em menos de uma hora.",
+    "A formação de um ciclone tropical sobre águas acima de 26 °C, com ventos de furacão e olho bem definido.",
+    "O encontro da ZCIT com o anticiclone do Atlântico Sul, com trovoadas e pancadas em toda a costa.",
+    "O aprofundamento muito rápido de um ciclone extratropical, com queda de cerca de 1 hPa por hora em 24 h."
+   ],
+   "correta": 3,
+   "explicacao": "A ciclogênese explosiva é o aprofundamento muito rápido de uma baixa extratropical, cuja pressão central cai da ordem de 24 hPa em 24 horas (valor de referência a 60° de latitude). Ela traz vento forte, mar grosso e ressaca. A rondada rápida do vento é só a passagem de uma frente. Ciclones tropicais são raríssimos no Atlântico Sul e nascem de outro processo. A ZCIT fica ao norte e não se encontra com o anticiclone para gerar esse fenômeno.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 42, item 42.5.3 (queda de cerca de 1 hPa/h por mais de 24 h caracteriza o 'ciclone bomba')",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "Num dia de céu azul e vento fraco em Santos (SP), o CHM avisa ressaca, com ondas de 3 m atingindo a costa. Qual é a explicação mais provável?",
+   "alternativas": [
+    "Maré de sizígia, que sempre produz ondas de 3 m no litoral Sudeste, com ou sem vento.",
+    "Brisa marítima forte, que levanta ondas grandes durante a tarde.",
+    "Terral de madrugada, que sopra da terra e empurra o mar para a praia com força.",
+    "Marulho de um ciclone distante no mar, que chega à costa até dias depois."
+   ],
+   "correta": 3,
+   "explicacao": "Ondas geradas por ventos fortes de um ciclone no mar viajam por centenas de milhas com pouca perda de energia, e chegam como marulho longo na costa, mesmo com céu limpo e vento fraco local. A maré de sizígia muda o nível, não cria ondas. A brisa marítima levanta só marolas curtas. O terral sopra da terra para o mar e não produz ressaca na costa.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 42, item 42.1.1 (vagas e marulho: o marulho se propaga por longas distâncias, atenuando-se devagar); cap. 45, item 45.5.2 (ressaca no aviso de mau tempo)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "Qual condição tende a deixar o nível do mar na costa Sul e Sudeste acima do previsto na tábua de marés?",
+   "alternativas": [
+    "Pressão alta e vento forte de NW soprando da terra para o mar.",
+    "Pressão alta e calmaria, com céu limpo e mar liso.",
+    "Nenhuma: só a Lua e o Sol alteram o nível, e o tempo não interfere na maré.",
+    "Pressão baixa e vento forte de S/SW empurrando a água contra a costa."
+   ],
+   "correta": 3,
+   "explicacao": "Pressão baixa alivia o peso do ar sobre o mar (regra prática: cerca de 1 cm de elevação para cada hPa abaixo do normal) e o vento de S/SW empurra a água para a costa: o nível sobe acima da tábua, sobretudo ao sul de Cabo Frio. Pressão alta e vento terral (de terra para o mar) fazem o contrário: o nível tende a ficar abaixo do previsto. A calmaria com pressão alta também deixa o nível um pouco abaixo. A tábua considera só Lua e Sol, por isso vento e pressão causam diferenças reais.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª rev. 2023), item 10.1.11 a (fatores meteorológicos, principalmente o vento, elevam ou abaixam o nível do mar em relação às tábuas; frequente ao sul de Cabo Frio)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "No fim da tarde, em Ilhabela (SP), surgem cirros em fios e depois um véu fino com halo em volta do Sol. À noite o barômetro cai cerca de 3 hPa em 6 horas e o vento de nordeste aumenta. O que é mais provável nas próximas 12 a 24 horas?",
+   "alternativas": [
+    "A aproximação de uma frente fria, com céu cobrindo, vento aumentando e depois rondando para SW.",
+    "Tempo firme: o véu fino de cirros indica ar estável e seco, sem mudança à vista.",
+    "Nevoeiro de radiação, que se dissipará ao amanhecer, sem alterar o vento nem a pressão.",
+    "A passagem de uma frente quente, com vento fraco de leste e o céu ficando limpo."
+   ],
+   "correta": 0,
+   "explicacao": "Cirros que engrossam em cirrostratos com halo, pressão caindo e vento de NE aumentando são a sequência clássica da aproximação de uma frente fria na costa Sudeste: o céu se cobre, o vento reforça e a frente passa com rajadas, rondando para SW. Cirros em fios com barômetro caindo não indicam tempo firme. Nevoeiro de radiação exige noite calma e céu limpo, e aqui o vento está aumentando. Uma frente quente não deixaria o céu limpo: traz nebulosidade espessa e chuva fina contínua, e o vento adiante dela é fraco.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.4 (aproximação da frente fria: pressão em queda, vento de N/NW, cirrus e cirrostratus) e item 45.3.3 a",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "O METEOROMARINHA da sua área traz: <b>“VENTO SW/S 6/8”</b>. Qual é a leitura correta?",
+   "alternativas": [
+    "Vento de sudoeste a sul de 6 a 8 nós, ou seja, brisa fraca, sem relação com aviso de mau tempo.",
+    "Vento que ronda de SW para S entre 6 h e 8 h da manhã, com intensidade moderada.",
+    "Vento de sudoeste a sul, força 6 a 8, sem chegar ao critério de aviso de mau tempo.",
+    "Vento de SW a S, força 6 a 8; o limite superior (34 a 40 nós) passa do critério de aviso (28 nós)."
+   ],
+   "correta": 3,
+   "explicacao": "No boletim a direção é de onde o vento sopra e os números são a força na escala Beaufort. Força 6 vai de 22 a 27 nós e força 8, de 34 a 40 nós, bem acima dos 28 nós (força 7) que levam o CHM a emitir aviso de mau tempo. Não são nós, que dariam brisa fraca, nem horários. A leitura que diz não haver critério de aviso ignora que a força 8 passa do limite.",
+   "referencia": "CHM, METEOROMARINHA (Parte III) e Serviços Radiometeorológicos de Apoio ao Navegante; Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, itens 45.5.1 e 45.5.2",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 1,
+   "enunciado": "Você quer olhar uma imagem de satélite às 2 h da madrugada. Qual tipo de imagem não serve, porque depende da luz do Sol?",
+   "alternativas": [
+    "A imagem no infravermelho, que mostra a temperatura do topo das nuvens.",
+    "A imagem no canal visível, que só mostra as nuvens iluminadas pelo Sol.",
+    "A imagem de vapor d’água, que mostra a umidade em altitude.",
+    "A imagem no infravermelho com cores realçadas, que destaca topos muito frios."
+   ],
+   "correta": 1,
+   "explicacao": "O canal visível funciona como uma fotografia e só mostra algo de dia. O infravermelho mede a temperatura emitida pelo topo das nuvens e funciona de dia e de noite, assim como o de vapor d’água. A versão colorida do infravermelho é só uma forma de realçar os topos mais frios, como os de cumulonimbos.",
+   "referencia": "CPTEC/INPE, imagens do satélite GOES (canais visível, infravermelho e vapor d'água)",
+   "fonte_url": "https://satelite.cptec.inpe.br/home/index.jsp"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 3,
+   "enunciado": "Uma frente fria passou pelo Rio de Janeiro ontem. Hoje o vento é de SW a 25 nós e diminui; a previsão é de NE fraco a moderado nos próximos 2 dias e nova frente em 4 dias. Você quer ir do Rio a Santos, num rumo geral WSW (cerca de 250°). Qual é a decisão mais prudente?",
+   "alternativas": [
+    "Sair já, aproveitando que a frente passou, e seguir motorando contra o SW e o mar de proa.",
+    "Sair logo atrás da próxima frente, com o SW forte empurrando o barco para Santos.",
+    "Esperar o SW amainar, sair com o NE, que vem de popa, e chegar a Santos bem antes da nova frente.",
+    "Sair só na véspera da nova frente, quando o barômetro começar a cair e o NE aumentar."
+   ],
+   "correta": 2,
+   "explicacao": "Com rumo de 250° o SW é praticamente vento de proa e levanta mar de proa; esperar a calmaria atrás da frente dá o NE de popa, e a viagem de cerca de 180 milhas, a uns 5 nós de média, leva mais ou menos um dia e meio, o que termina bem antes da frente seguinte, prevista para daqui a 4 dias. Sair já é navegar contra vento e mar. O SW forte atrás da próxima frente seria de novo contravento, e não empurra o barco para Santos. Sair na véspera da frente joga a chegada dentro do mau tempo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.4 (sequência de passagem das frentes frias na costa Sudeste: depois da frente, ventos de SW/S e tempo bom)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 3,
+   "enunciado": "A carta sinótica das 12 HMG mostra uma frente fria 180 milhas a sudoeste da sua posição, avançando para você a 15 nós. Considere o horário de Brasília (UTC −3). Em que horário local a frente chega?",
+   "alternativas": [
+    "Por volta das 21 h: 180 ÷ 15 = 12 h, a partir das 12 HMG, que correspondem a 9 h locais.",
+    "Por volta de 0 h: 12 horas depois de 12 HMG, sem converter para a hora local.",
+    "Por volta das 3 h: 12 horas depois de 12 HMG, convertendo para a hora local no sentido errado.",
+    "Por volta das 12 h: a hora da carta, tomada como se fosse a hora local."
+   ],
+   "correta": 0,
+   "explicacao": "A frente leva 180 ÷ 15 = 12 horas. A carta é das 12 HMG (UTC), que são 9 h em Brasília (UTC −3, sem horário de verão). Somando 12 horas, a frente chega às 21 h locais, ou 00 HMG. Dizer 0 h é esquecer de converter a hora Z para a local. Somar 3 em vez de subtrair dá 3 h. Usar 12 h trata a hora da carta como se fosse local e ignora o tempo de deslocamento.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.5.4 (carta sinótica emitida às 00 e 12 HMG); CHM, cartas sinóticas",
+   "fonte_url": "https://www.marinha.mil.br/chm/cartassinoticas"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 1,
+   "enunciado": "Qual instrumento meteorológico de bordo registra a pressão atmosférica numa curva contínua, mostrando a tendência ao longo de várias horas?",
+   "alternativas": [
+    "O anemógrafo, que registra a direção e a velocidade do vento.",
+    "O barógrafo, que traça a curva da pressão ao longo das horas.",
+    "O higrógrafo, que registra a umidade relativa do ar.",
+    "O psicrômetro, que mede a umidade e o ponto de orvalho."
+   ],
+   "correta": 1,
+   "explicacao": "O barógrafo (ou registro eletrônico) desenha a curva da pressão, e deixa clara a tendência barométrica, essencial para a previsão do tempo. O anemógrafo registra o vento; o higrógrafo e o psicrômetro tratam da umidade, não da pressão.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, item 45.2.1 (barômetro aneroide, barógrafo e barograma)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia costeira",
+   "dificuldade": 2,
+   "enunciado": "Um ciclone extratropical maduro tem, na carta sinótica, uma frente oclusa. Como ela se forma?",
+   "alternativas": [
+    "A frente quente alcança a frente fria e passa por baixo dela, levantando o ar frio.",
+    "A frente fria, que avança mais depressa, alcança a frente quente e levanta o ar quente do chão.",
+    "As duas frentes ficam paradas, sem que massa de ar alguma avance sobre a outra.",
+    "Duas massas de ar frio se encontram e se misturam, sem nenhuma massa de ar quente envolvida."
+   ],
+   "correta": 1,
+   "explicacao": "A frente fria anda mais depressa que a quente e acaba por alcançá-la; o ar quente é erguido da superfície e se forma a frente oclusa, o que marca a maturidade do ciclone. O ar quente é mais leve e não passa por baixo do frio. Duas frentes paradas formam uma frente estacionária. A oclusão sempre envolve o ar quente do setor intermediário.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 45, itens 45.3.2 e 45.3.3 c (frente oclusa: a frente fria alcança a frente quente e eleva o ar quente)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 1,
+   "enunciado": "Segundo a NORMAM-211, qual é a potência mínima do transceptor VHF fixo exigido a bordo?",
+   "alternativas": [
+    "5 W.",
+    "10 W.",
+    "25 W.",
+    "50 W."
+   ],
+   "correta": 2,
+   "explicacao": "A norma exige transceptor fixo com potência mínima de 25 W. Os 5 W são a potência típica de um VHF portátil, e 10 W não correspondem a nenhum mínimo da norma. Com 50 W o equipamento cumpriria a exigência, mas esse não é o mínimo pedido.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.2",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 3,
+   "enunciado": "A NORMAM-211 exige que o VHF portátil tenha bateria para no mínimo quatro horas de operação, com coeficiente de utilização de 1:9 (um minuto transmitindo para nove escutando). Nesse ciclo, quanto tempo o rádio fica transmitindo ao longo das quatro horas?",
+   "alternativas": [
+    "Cerca de 27 minutos.",
+    "24 minutos.",
+    "216 minutos.",
+    "4 minutos."
+   ],
+   "correta": 1,
+   "explicacao": "Cada ciclo dura 1 + 9 = 10 minutos, com 1 minuto de transmissão. Em 4 h = 240 min há 24 ciclos, ou seja, 24 minutos transmitindo (um décimo do tempo). Dividir 240 por 9 (cerca de 27 min) ignora que o minuto transmitido também faz parte do ciclo. 216 minutos é o tempo de escuta (nove décimos). 4 minutos seria apenas 1 minuto por hora.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.3",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro com VHF fixo tem antena de emergência, como a NORMAM-211 exige quando a antena fica no tope do mastro. Com o mastro quebrado, a antena de emergência está a 4 m da água e um navio tem antena a 9 m. Use D ≈ 2,2 × (√h<sub>1</sub> + √h<sub>2</sub>), em milhas, com h em metros. Qual é o alcance estimado?",
+   "alternativas": [
+    "Cerca de 29 milhas.",
+    "Cerca de 8 milhas.",
+    "Cerca de 4 milhas.",
+    "Cerca de 11 milhas."
+   ],
+   "correta": 3,
+   "explicacao": "D ≈ 2,2 × (√4 + √9) = 2,2 × (2 + 3) = 11 milhas. Somar as alturas sem tirar a raiz (2,2 × 13) dá 29 milhas, e usar a raiz da soma (2,2 × √13) dá 8 milhas; ambos errados. Contar só a antena do veleiro (2,2 × 2) daria 4 milhas e ignora a antena do navio. O resultado mostra por que a antena do mastro é importante: no tope, a 12 m, o alcance até o mesmo navio seria de cerca de 14 milhas.",
+   "referencia": "NORMAM-211/DPC, art. 4.24.2 (antena de emergência); propagação do VHF por linha de visada",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 1,
+   "enunciado": "Qual é a frequência do canal 16 do VHF marítimo, em que o rádio deve ficar em escuta permanente com a embarcação navegando?",
+   "alternativas": [
+    "156,525 MHz.",
+    "121,5 MHz.",
+    "406 MHz.",
+    "156,8 MHz."
+   ],
+   "correta": 3,
+   "explicacao": "O canal 16 é 156,8 MHz. Os 156,525 MHz são do canal 70, de uso exclusivo do DSC, em que o rádio DSC pode ficar em escuta no lugar do 16. A faixa de 121,5 MHz é a de socorro da aviação (e das EPIRB antigas) e 406 MHz é a faixa das EPIRB atuais, nenhuma delas é de VHF marítimo.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.4 a)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 2,
+   "enunciado": "Seu veleiro perdeu o motor numa calmaria, a 6 milhas da costa, com mar liso e boa previsão. Ele deriva devagar para fora do canal de navegação, sem feridos, e você quer pedir reboque. Que prioridade usar no canal 16?",
+   "alternativas": [
+    "PAN-PAN (urgência): há um problema sério, mas sem perigo imediato para a vida ou para o barco.",
+    "MAYDAY (socorro): toda avaria de motor deve ser tratada como perigo grave e iminente.",
+    "SÉCURITÉ (segurança): serve para pedir qualquer tipo de ajuda, inclusive reboque.",
+    "Alerta DSC de socorro, pelo botão vermelho, que é o procedimento para qualquer avaria."
+   ],
+   "correta": 0,
+   "explicacao": "Um barco sem propulsão, sem risco imediato, pede ajuda com PAN-PAN: urgência. MAYDAY e o botão vermelho do DSC ficam reservados ao perigo grave e iminente para o barco ou para as pessoas, como incêndio, alagamento ou naufrágio; usá-los sem necessidade é abuso. SÉCURITÉ serve para avisos de segurança à navegação ou de tempo, e não para pedir auxílio.",
+   "referencia": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., cap. 7 (comunicações de socorro, urgência e segurança)",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 2,
+   "enunciado": "Durante um socorro no canal 16, a estação que coordena o salvamento transmite <b>“SEELONCE MAYDAY”</b>. O que isso pede aos demais barcos que escutam?",
+   "alternativas": [
+    "Que não transmitam no canal durante o socorro, exceto para o tráfego do próprio socorro.",
+    "Que o socorro terminou e o canal está liberado para o tráfego normal de rotina.",
+    "Que todos repitam o MAYDAY, como retransmissão, para ampliar o alcance do pedido.",
+    "Que mudem para o canal 70 para continuar a conversa sem atrapalhar o socorro."
+   ],
+   "correta": 0,
+   "explicacao": "SEELONCE MAYDAY impõe silêncio no canal, para que o tráfego do socorro seja ouvido. Quem encerra a restrição e libera o canal é o SEELONCE FEENEE. A retransmissão de um socorro sem resposta se chama MAYDAY RELAY, e é outro procedimento. O canal 70 é exclusivo para dados de DSC e não se conversa nele.",
+   "referencia": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., cap. 7 (procedimentos de socorro); Regulamento de Radiocomunicações da UIT",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro brasileiro tem a EPIRB codificada com o MMSI. Segundo a NORMAM-211, como é o código de identificação dessa EPIRB?",
+   "alternativas": [
+    "O código 55 (telefônico do Brasil), seguido de nove dígitos da estação.",
+    "O dígito 710 seguido das quatro primeiras letras do nome da embarcação.",
+    "Um código hexadecimal de 15 caracteres, sem relação com o MMSI.",
+    "O dígito 710 (Brasil), seguido de seis dígitos da estação, num total de nove."
+   ],
+   "correta": 3,
+   "explicacao": "A norma define o código como 710 (identificação do Brasil) mais seis dígitos da estação, e esse código é o MMSI, com nove dígitos. O 55 é o prefixo telefônico internacional, não a identificação marítima. O MMSI é numérico e não usa letras do nome do barco. O código hexadecimal de 15 caracteres existe na baliza, mas quando ela é codificada com o MMSI ele contém essa identidade e não é independente dela.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 d)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 2,
+   "enunciado": "Uma EPIRB de 406 MHz, ainda não cadastrada no INFOSAR, é acionada no mar. O que acontece com o alerta?",
+   "alternativas": [
+    "O alerta é descartado até que o dono registre a baliza no INFOSAR, para evitar alarmes falsos.",
+    "O alerta só é processado se a baliza também transmitir em 121,5 MHz, a frequência antiga.",
+    "O alerta é enviado à Anatel, que antes verifica a licença da estação de rádio do barco.",
+    "O BRMCC o recebe e o trata como emergência, mesmo sem cadastro, que segue obrigatório."
+   ],
+   "correta": 3,
+   "explicacao": "O sinal de uma baliza 406 MHz chega ao Centro Brasileiro de Controle de Missão (BRMCC) mesmo sem registro e é tratado como emergência, mas a NORMAM-211 exige que toda EPIRB seja cadastrada no INFOSAR (DECEA) e mantenha os dados atualizados. O alerta não é descartado por falta de cadastro. A frequência de 121,5 MHz não é processada pelo sistema desde 2009. A Anatel cuida de licenças de estações de rádio, e não do alerta da EPIRB.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 e); INFOSAR/DECEA",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 1,
+   "enunciado": "Em qual faixa de frequência a EPIRB deve transmitir o sinal de socorro via satélite, segundo a NORMAM-211?",
+   "alternativas": [
+    "121,5 MHz, a antiga frequência de socorro da aviação.",
+    "156,8 MHz, o canal 16 do VHF marítimo.",
+    "406 MHz, a faixa processada pelo COSPAS-SARSAT.",
+    "243 MHz, de uso militar e das balizas antigas."
+   ],
+   "correta": 2,
+   "explicacao": "A norma exige que a EPIRB transmita em 406 MHz, via satélite em órbita polar. O sistema COSPAS-SARSAT deixou de processar 121,5 MHz em fevereiro de 2009, e 243 MHz era das balizas antigas. O canal 16 (156,8 MHz) é VHF de voz e não passa por satélite.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 2,
+   "enunciado": "O SALVAMAR pode ser alertado por telefone (185), pelo GMDSS, por alertas de navios SOLAS e pela RENEC. O que é a RENEC?",
+   "alternativas": [
+    "Uma rede de radiofaróis da Marinha que transmite correções do sinal para os receptores de GPS dos barcos.",
+    "O serviço da Anatel que licencia as estações de rádio das embarcações de recreio.",
+    "O sistema de satélites que recebe os sinais das EPIRB de 406 MHz e os repassa aos centros de busca.",
+    "A Rede Nacional de Estações Costeiras, da Embratel, que opera em VHF e HF e pode alertar o SALVAMAR."
+   ],
+   "correta": 3,
+   "explicacao": "RENEC é a Rede Nacional de Estações Costeiras (Embratel), que opera em VHF e HF e é um dos meios de alertar o SALVAMAR. Radiofaróis diferenciais de correção do GPS são outra coisa. A licença das estações de rádio das embarcações é assunto da Anatel, e não tem relação com a RENEC. Quem recebe os sinais das EPIRB é o sistema COSPAS-SARSAT, com os satélites e o BRMCC.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.1 m); SALVAMAR Brasil, FAQ (formas de alertar o SALVAMAR)",
+   "fonte_url": "https://www.marinha.mil.br/salvamarbrasil/node/49"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 3,
+   "enunciado": "Seu veleiro tem antena de VHF a 9 m de altura e está a 30 milhas de uma estação costeira, com antena a 64 m. Use D ≈ 2,2 × (√h<sub>1</sub> + √h<sub>2</sub>), em milhas. É de se esperar contato direto por VHF?",
+   "alternativas": [
+    "Não: o alcance estimado é de cerca de 24 milhas, e o barco está além dele.",
+    "Sim: o alcance estimado é de cerca de 160 milhas, pois 2,2 × (9 + 64).",
+    "Sim: o alcance estimado é de cerca de 53 milhas, pois 2,2 × 3 × 8.",
+    "Não: o alcance estimado é de cerca de 19 milhas, pois 2,2 × √(9 + 64)."
+   ],
+   "correta": 0,
+   "explicacao": "D ≈ 2,2 × (√9 + √64) = 2,2 × (3 + 8) = 24,2 milhas. A 30 milhas, o barco está além da linha de visada, e o melhor é tentar outro meio (por exemplo, retransmissão por outro barco ou estação, ou HF/satélite). Somar as alturas sem tirar a raiz (160 milhas) ou multiplicar as raízes (53 milhas) são erros de conta, e a raiz da soma (19 milhas) também está errada, embora leve à mesma conclusão de que o contato é difícil.",
+   "referencia": "Propagação do VHF por linha de visada, D ≈ 2,2 × (√h1 + √h2), fórmula usada no curso (mestre-3, módulo de comunicações)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações e RENEC",
+   "dificuldade": 1,
+   "enunciado": "Num trecho da costa com sinal de celular, você precisa acionar a Marinha para um pedido de socorro vindo do mar. Que número de telefone chama o SALVAMAR, 24 horas por dia?",
+   "alternativas": [
+    "185.",
+    "190.",
+    "192.",
+    "193."
+   ],
+   "correta": 0,
+   "explicacao": "O telefone 185 aciona o SALVAMAR, o Serviço de Busca e Salvamento da Marinha, que atende 24 horas pedidos de socorro vindos do mar. O 190 é da Polícia Militar, o 192 do SAMU e o 193 do Corpo de Bombeiros.",
+   "referencia": "SALVAMAR Brasil (Marinha do Brasil); Lei nº 7.273/1984",
+   "fonte_url": "https://www.marinha.mil.br/salvamarbrasil/node/49"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 1,
+   "enunciado": "Seu veleiro de 14 m está fundeado em nevoeiro denso, fora de canal. Qual é o sinal sonoro de uma embarcação fundeada em visibilidade restrita, segundo a Regra 35(g)?",
+   "alternativas": [
+    "Um apito longo, a intervalos não superiores a 2 minutos, como a embarcação com seguimento.",
+    "Toque rápido de sino por cerca de 5 segundos, a intervalos não superiores a 1 minuto.",
+    "Um apito longo seguido de dois curtos, a intervalos não superiores a 2 minutos.",
+    "Cinco apitos curtos e rápidos, repetidos a cada minuto, como sinal de dúvida."
+   ],
+   "correta": 1,
+   "explicacao": "A embarcação fundeada toca o sino rapidamente por cerca de 5 segundos, a cada minuto no máximo (Regra 35(g)). Um apito longo é o sinal da embarcação de propulsão mecânica com seguimento. Um longo e dois curtos é o da embarcação a vela com seguimento, entre outras. Cinco apitos curtos e rápidos são o sinal de dúvida da Regra 34(d), e não de embarcação fundeada.",
+   "referencia": "RIPEAM-72, Regra 35(g)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "Navegando a vela, com seguimento, em nevoeiro e sem contato de radar, você ouve um sinal de cerração que parece vir por ante-a-vante do seu través. Segundo a Regra 19(e), o que fazer?",
+   "alternativas": [
+    "Manter rumo e velocidade, porque o sinal vem de longe e a Regra 19 só vale com contato visual.",
+    "Guinar para bombordo para se afastar do som, mantendo a velocidade que já estava usando.",
+    "Reduzir a velocidade ao mínimo em que ainda mantenha o governo e navegar com extrema precaução.",
+    "Aumentar a velocidade para sair da zona de nevoeiro o quanto antes, reduzindo o tempo de risco."
+   ],
+   "correta": 2,
+   "explicacao": "Ao ouvir um sinal de cerração aparentemente por ante-a-vante do través, a embarcação deve reduzir a velocidade ao mínimo em que ainda mantenha o governo e, se necessário, parar, navegando com extrema precaução até passar o perigo de abalroamento (Regra 19(e)). A Regra 19 vale justamente quando não há contato visual, em visibilidade restrita. Guinar às cegas para bombordo, só para fugir do som, não resolve: sem saber onde está o outro barco, a manobra pode agravar a situação (a Regra 19(d)(i) mostra o mesmo cuidado ao evitar guinada para bombordo em relação a embarcação por ante-a-vante do través, quando o contato é só por radar), e manter a velocidade ignora o que a 19(e) exige. Aumentar a velocidade vai contra a Regra 6 (velocidade segura) e a Regra 19(b).",
+   "referencia": "RIPEAM-72, Regra 19(e)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 1,
+   "enunciado": "À noite, com chuva forte, você nota que a marcação de um navio que se aproxima não varia de modo apreciável, enquanto a distância diminui. Segundo a Regra 7, o que se deve concluir?",
+   "alternativas": [
+    "Que não há risco, porque o navio se mantém na mesma direção em relação ao barco.",
+    "Que o risco só existe se a distância cair para menos de 1 milha entre os dois barcos.",
+    "Presume-se que existe risco de abalroamento, mesmo que o navio ainda esteja longe.",
+    "Que nada se pode concluir sem antes confirmar o contato e a marcação pelo radar."
+   ],
+   "correta": 2,
+   "explicacao": "Marcação constante com distância diminuindo é o sinal clássico de rumos de colisão: a Regra 7(d)(i) manda presumir o risco de abalroamento, e a 7(a) manda presumi-lo em caso de dúvida. Marcação constante significa o contrário de ausência de risco. Não existe distância mínima a partir da qual o risco passa a existir. O radar ajuda, mas não é preciso esperar por ele para presumir o risco.",
+   "referencia": "RIPEAM-72, Regra 7(a) e 7(d)(i)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 3,
+   "enunciado": "Dois veleiros, sem motor, navegam em rumos que se cruzam e há risco de abalroamento. O vento é de sudoeste (225°). O veleiro A segue com rumo 000°, e o veleiro B, com rumo 090°. Quem deve se manter fora do caminho?",
+   "alternativas": [
+    "O veleiro A, porque recebe o vento por bombordo e B o recebe por boreste.",
+    "O veleiro B, porque vê A por boreste, como na regra das embarcações de propulsão mecânica.",
+    "O veleiro B, porque está mais a barlavento do que A.",
+    "Nenhum dos dois: ambos mantêm rumo e velocidade, porque o vento é o mesmo."
+   ],
+   "correta": 0,
+   "explicacao": "O vento vem de 225°. Com proa em 000°, ele chega ao barco A pela alheta de bombordo (lado esquerdo); com proa em 090°, chega ao barco B pela alheta de boreste (lado direito). Entre veleiros com vento de bordos diferentes, o que recebe o vento por bombordo deve manter-se fora do caminho do outro (Regra 12(a)(i)). A regra do cruzamento por boreste vale para embarcações de propulsão mecânica (Regra 15), e não para veleiros entre si. A comparação a barlavento só se aplica quando os dois recebem o vento pelo mesmo bordo. Havendo risco, alguém precisa manobrar, e o vento ser o mesmo não muda isso.",
+   "referencia": "RIPEAM-72, Regra 12(a)(i)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 3,
+   "enunciado": "Navegando a vela com bom vento, seu veleiro vem por trás de uma lancha a motor lenta e há risco de abalroamento. Visto da lancha, o seu veleiro está a cerca de 160° da proa dela, bem por ante-a-ré do través. Quem deve se manter fora do caminho?",
+   "alternativas": [
+    "A lancha, porque a Regra 18 manda a embarcação de propulsão mecânica dar caminho à de vela.",
+    "A que estiver com o vento por bombordo, conforme a Regra 12, que trata do vento.",
+    "O veleiro, porque é a embarcação que alcança: a Regra 13 vale também para o veleiro alcançador.",
+    "Nenhuma: ambas mantêm rumo e velocidade enquanto o veleiro estiver atrás da lancha."
+   ],
+   "correta": 2,
+   "explicacao": "Uma embarcação que se aproxima de outra vindo de mais de 22,5° por ante-a-ré do través está alcançando (Regra 13(b)), e a alcançadora deve se manter fora do caminho, quaisquer que sejam as demais regras (Regra 13(a)). Assim, a Regra 13 prevalece sobre a Regra 18, e o veleiro alcançador deve ceder à lancha. A Regra 12 trata de dois veleiros, e a lancha não é um. Dizer que ninguém manobra ignora que há risco de abalroamento.",
+   "referencia": "RIPEAM-72, Regra 13(a) e (b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 1,
+   "enunciado": "Você é a embarcação que deve manobrar para evitar um abalroamento. Segundo a Regra 8(b), como deve ser a alteração de rumo ou velocidade?",
+   "alternativas": [
+    "Em pequenas alterações sucessivas de 5°, para não se afastar muito do rumo original.",
+    "A menor possível, para que o outro barco não seja surpreendido pela manobra de longe.",
+    "Ampla o bastante para ser logo percebida pelo outro, evitando pequenas alterações sucessivas.",
+    "Só no último momento, quando o outro barco já estiver muito próximo e for inevitável."
+   ],
+   "correta": 2,
+   "explicacao": "A Regra 8(b) manda que a alteração de rumo e/ou velocidade seja ampla o bastante para ser prontamente percebida por outra embarcação que observe, visualmente ou por radar, evitando pequenas alterações sucessivas. Mudar aos poucos deixa o outro sem entender a manobra. Manobrar tarde contraria a Regra 8(a), que pede manobra em tempo útil, e a Regra 16, que pede manobra antecipada e substancial.",
+   "referencia": "RIPEAM-72, Regra 8(b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "corrigida",
+   "motivo": "Distrator D dizia 'noroeste ... segue direto para o norte' (incoerente: vento de NW sopra para SE); reescrito como vento de N (isóbaras sem atrito) e explicação ajustada. Resposta NE confere (Hemisfério Sul, lado oeste da alta, atrito para fora). Referência: item correto é 45.2.4, não 45.1. Figura confere com o texto."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Resposta e figura corretas (X com isóbaras mais próximas). Apenas o número do item da referência corrigido (45.2.4; Miguens: isóbaras próximas = gradiente maior = vento mais forte)."
+  },
+  {
+   "idx": 2,
+   "acao": "ok",
+   "motivo": "Curva do barógrafo no SVG tem mínimo ~1003 hPa às 12 h e subida rápida depois; Miguens 45.4: na passagem da frente fria a pressão passa por um mínimo e depois sobe. Referência confere."
+  },
+  {
+   "idx": 3,
+   "acao": "corrigida",
+   "motivo": "Cálculo refeito: Miguens enuncia que, voltado para o vento, a baixa fica à esquerda no HS, a ~110° da direção de onde sopra o vento: 135°-110° = 025°. Correta. Só o item da referência foi corrigido (45.2.4)."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Resposta correta (Miguens 45.3.3/45.4: NW para SW, anti-horário no HS). Referência apontava item 45.4 apenas; ampliada para o item que traz o giro do vento."
+  },
+  {
+   "idx": 5,
+   "acao": "corrigida",
+   "motivo": "Distrator D descrevia mecanismo errado ('chuva fria cai no ar quente'), contrariando a própria explicação e Miguens (chuva quente evaporando em ar mais frio); reescrito. Item da referência: 45.2.6, não 45.3."
+  },
+  {
+   "idx": 6,
+   "acao": "corrigida",
+   "motivo": "Conteúdo correto; apenas a referência foi corrigida para o item 45.2.6."
+  },
+  {
+   "idx": 7,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido: depressões de 1, 16, 10 e 11 °C; correta a primeira. Referência corrigida (45.2.3/45.2.6)."
+  },
+  {
+   "idx": 8,
+   "acao": "corrigida",
+   "motivo": "Critérios conferem com claims_verified travessia-96 (confirmado) e Miguens 45.5.2. Cada alternativa reavaliada: só a de visibilidade 800 m aciona aviso. Referência complementada."
+  },
+  {
+   "idx": 9,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido (popa exata: verdadeiro = 12 + 6 = 18 nós, força 5, faixa 17 a 21 nós). Referência corrigida (45.2.4, não 45.5)."
+  },
+  {
+   "idx": 10,
+   "acao": "corrigida",
+   "motivo": "Geometria conferida: vento de 135° com proa 035° = 100° por boreste (través, um pouco por ré); rumo Salvador-Recife (~036°) confere. Referência corrigida: não existe 'regime de vento da costa do Nordeste' no item 45.5."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Conteúdo correto; apenas a referência foi corrigida (brisas estão no item 45.2.4)."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Definição confere com Miguens (cerca de 1 hPa/h por mais de 24 h; 24 hPa/24 h é a referência clássica a 60° de latitude). Referência estava no capítulo errado (45.3); o trecho está no cap. 42, item 42.5.3."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "Conteúdo correto; referência corrigida para o item que trata de marulho (42.1.1)."
+  },
+  {
+   "idx": 14,
+   "acao": "corrigida",
+   "motivo": "Conteúdo correto, mas a referência apontava o vol. III, que não trata do assunto; o suporte está no vol. I, item 10.1.11 a (inclui 'ao sul de Cabo Frio'). Referência e URL trocadas."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Cenário confere com Miguens 45.4. Retirada a afirmação sem fonte 'frentes quentes não são o padrão dessa costa'; referência ampliada."
+  },
+  {
+   "idx": 16,
+   "acao": "corrigida",
+   "motivo": "Leitura 'VENTO SW/S 6/8' = força Beaufort 6 a 8 confere com o curso (mestre-3) e Miguens; limites 22-27 e 34-40 nós conferem; critério 28 nós confirmado (travessia-96). Referência complementada com Miguens."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Conteúdo correto. Retirada a citação de Miguens cap. 45 sobre imagens de satélite, que o capítulo não detalha."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Distância Rio-Santos (~183 milhas) e rumo (~249°) conferem; NE de popa e SW de proa conferem. Explicação dizia 'bem dentro da janela de 2 dias' sem dar a velocidade e confundindo a janela de NE (2 dias) com a nova frente (4 dias); reescrita."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido: 180/15 = 12 h; 12 HMG = 09 h em Brasília; chegada às 21 h locais. Referência corrigida para 45.5.4."
+  },
+  {
+   "idx": 20,
+   "acao": "corrigida",
+   "motivo": "Retirada a afirmação 'melhor aviso de mau tempo a bordo' (sem fonte); referência corrigida para 45.2.1 (Miguens: o barograma indica com clareza a tendência barométrica)."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Conteúdo confere com Miguens 45.3.3 c e 45.3.2 (oclusão = apogeu do ciclone). Referência corrigida."
+  },
+  {
+   "idx": 22,
+   "acao": "ok",
+   "motivo": "NORMAM-211, art. 4.23.2: transceptor fixo VHF com potência mínima de 25 W (normas-149, confirmado)."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Art. 4.23.3 confere (4 h, 1:9). Cálculo refeito: 240 min / 10 = 24 ciclos = 24 min; 240/9 = 26,7; 216 = 9/10."
+  },
+  {
+   "idx": 24,
+   "acao": "ok",
+   "motivo": "Antena de emergência: art. 4.24.2 (parágrafo final), radio-23 confirmado. Cálculos refeitos: 2,2x5 = 11; 2,2x13 = 28,6; 2,2x raiz(13) = 7,9; 2,2x2 = 4,4; tope a 12 m: 14,2. Fórmula igual à do curso."
+  },
+  {
+   "idx": 25,
+   "acao": "ok",
+   "motivo": "Art. 4.23.4 a): canal 16 = 156,8 MHz; canal 70 = 156,525 MHz para DSC; escuta no 16 ou 70. Confirmado (normas-150)."
+  },
+  {
+   "idx": 26,
+   "acao": "ok",
+   "motivo": "PAN-PAN para avaria sem perigo imediato; coerente com o curso e a LAR."
+  },
+  {
+   "idx": 27,
+   "acao": "ok",
+   "motivo": "SEELONCE MAYDAY impõe silêncio; SEELONCE FEENEE encerra; coerente com o curso (mestre-3)."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Art. 4.23.6 d): 710 + seis dígitos, conhecido como MMSI (normas-175, radio-37 confirmados)."
+  },
+  {
+   "idx": 29,
+   "acao": "ok",
+   "motivo": "BRMCC trata alerta de baliza não registrada como emergência (radio-45 confirmado); cadastro INFOSAR obrigatório (art. 4.23.6 e); 121,5 MHz não processado desde fev/2009 (radio-39)."
+  },
+  {
+   "idx": 30,
+   "acao": "ok",
+   "motivo": "Art. 4.23.6 c) confere literalmente (406 MHz via satélite polar; 121,5 MHz não processada desde 2009)."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "O distrator B e a explicação usavam fatos 'a confirmar' (Rede Costeira de Apoio ao Iatismo, canal 68 do nascer ao pôr do sol; extra-mestre-3-18). Substituído por distrator que não depende de fato não confirmado. Resposta correta apoiada em travessia-106 (confirmado)."
+  },
+  {
+   "idx": 32,
+   "acao": "corrigida",
+   "motivo": "Cálculos refeitos: 2,2x11 = 24,2; 2,2x73 = 160,6; 2,2x3x8 = 52,8; 2,2xraiz(73) = 18,8. Resposta correta. Referência à NORMAM-211 art. 4.23 retirada: o artigo não traz a fórmula de alcance."
+  },
+  {
+   "idx": 33,
+   "acao": "ok",
+   "motivo": "185 confirmado (radio-48); Lei 7.273/1984 (radio-49); 190/192/193 corretos."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Regra 35(g) confere (sino por cerca de 5 s, intervalos de até 1 min; tecnico-79). A 35(j) dispensa embarcações com menos de 12 m desses sinais; o enunciado agora fixa 14 m para a questão não ficar ambígua."
+  },
+  {
+   "idx": 35,
+   "acao": "corrigida",
+   "motivo": "Resposta correta (tecnico-39). A explicação invocava a 19(d)(i) como se proibisse a guinada neste caso, mas ela só trata de contato por radar (o enunciado diz sem radar); reescrita."
+  },
+  {
+   "idx": 36,
+   "acao": "ok",
+   "motivo": "Regras 7(a) e 7(d)(i) conferem (tecnico-17, tecnico-18)."
+  },
+  {
+   "idx": 37,
+   "acao": "corrigida",
+   "motivo": "Resposta correta (A, vento por bombordo, Regra 12(a)(i), tecnico-24). Geometria conferida: vento relativo 225° (BB) para A e 135° (BE) para B. Só a redação da explicação foi clareada."
+  },
+  {
+   "idx": 38,
+   "acao": "ok",
+   "motivo": "Regra 13(a)/(b): 160° está além de 112,5° (22,5° para ré do través); alcançador cede, mesmo sendo veleiro (tecnico-28, tecnico-29)."
+  },
+  {
+   "idx": 39,
+   "acao": "ok",
+   "motivo": "Regra 8(b) confere (tecnico-19); 8(a) e 16 corretamente citadas."
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+
+
+ANEXO 2-A
+ | 
+MARINHA DO BRASIL
+DIRETORIA DE PORTOS E COSTAS
+
+ | 
+BOLETIM DE ATUALIZAÇÃO DE EMBARCAÇÕES (BADE)
+
+DADOS DA EMBARCAÇÃO
+( ) Embarcação sujeita a registro no TM
+( ) Embarcação não sujeita a registro no TM
+ | 
+(1) Processo: a) Inclusão b) Alteração c) Desativação d) Reativação e) Exclusão: | 
+(2) Nome da Embarcação: | 
+(3) No de Inscrição: | 
+(4) Data da Inscrição: ____/___/______ | 
+(5) Nome da CP, DL ou AG de inscrição: | 
+(6) Tipo da Embarcação  | 
+(7) Situação atual: | 
+(8) Classificação quanto à área de navegação
+(__)Navegação interior
+(__) Costeira
+(__) Oceânica | 
+(9)Classificação quanto a atividade / serviço:
+1ª
+2ª
+3ª
+4ª | 
+(10) Quantidade de Passageiros: | 
+(11) Hipoteca:
+(__) SIM
+(__) NÃO | 
+(12) Helideque?
+(__) SIM
+(__) NÃO | 
+(13) No IMO | 
+(14) IRIN (Call Sign): | 
+(15) No do Registro no Tribunal Marítimo: (Obs: 2) | 
+(16) No do Casco: | 
+(17) Ano de Construção: | 
+(18) Data do batimento da quilha:
+(___/____/____) | 
+(19) Data de lançamento:
+(___/____/____) | 
+(20)Comprimento Total (m) | 
+(21)Boca (m): | 
+(22)Pontal (m): | 
+(23) Tipo de Propulsão: | 
+(24) Quantidade de motor(es) propulsor(es): | 
+(25) Potência total de propulsão:
+(_______)kW
+somar as potências dos motores | 
+(26) Números dos Motores Propulsores:
+_________________
+_________________
+_________________
+_________________ | 
+(27)ARQUEAÇÃO
+Bruta:
+Líquida:
+Método de Cálculo:
+( ) antes Tonnage 69
+( ) depois Tonnage 69 | 
+(28) Quantidade de Propulsores Laterais:(__) vante (__)
+meia nau (__)
+ré (__) | 
+(29) Tipos de combustível:
+1º)
+2º) | 
+(30)Capacidades de armazenamento:
+Combustível 1:
+Combustível 2: | 
+(31) No da Licença de Construção (LC) ou da Licença de Const. para Embarcação já Construída (LCEC): | 
+(32) Tração Estática:
+
+( )Ton | 
+(33) Material do casco:
+
+ | 
+(34) Material da superestru-tura: | 
+(35) Sociedade Classificadora/ Entidade Certificadora (Se aplicável): | 
+ | 
+ | 
+(36) Equipamentos de Navegação:
+(__) Satélite (GPS ou equivalente)
+(__) Radar
+(__) Ecobatímento
+(__) AIS | 
+(37) Equipamentos Comunicações:
+(__) HF (__) UHF (__) VHF sem DSC (__) VHF com DSC
+(__) GMDSS - Global Maritime Distress Safety System 
+(__) INMARSAT A - Nº___________
+(__) INMARSAT B - Nº___________
+(__) INMARSAT C - Nº___________ | 
+(38) Apólice do Seguro Obrigatório (DPEM):
+
+Nº __________________
+Validade:___/___/______
+
+DADOS DO PROPRIETÁRIO | 
+(39) Nome
+
+ | 
+(40) CPF ou CNPJ | 
+(41)No Identidade | 
+(42) Órgão Emissor: | 
+(43) UF | 
+(44) Endereço completo:
+ | 
+(45) CEP:
+ | 
+(46) Bairro: | 
+(47) Cidade: | 
+(48) UF: | 
+(49) E-mail:
+ | 
+(50) Nacionalidade | 
+(51) Telefone com DDD: | 
+(52) Telefax com DDD:
+
+DADOS DO CO-PROPRIETÁRIO | 
+(53) Nome:
+ | 
+(54) CPF ou CNPJ | 
+(55) No Identidade | 
+(56) Órgão Emissor: | 
+(57) UF | 
+(58) Endereço completo:
+ | 
+(59) CEP | 
+(60) Bairro:
+ | 
+(61) Cidade | 
+(62) UF | 
+(63) E-mail:
+ | 
+(64) Nacionalidade | 
+(65) Telefone com DDD: | 
+(66) Telefax com DDD:
+
+ASSINATURA DO REQUERENTE  | 
+(67) Assinatura do requerente:
+
+ | 
+(68) DATA:
+(_____/_____/_____) | 
+(69) Carimbo e assinatura do funcionário responsável pela conferência:
+
+
+ | 
+(70) DATA:
+(_____/_____/_____)
+OS CAMPOS NÃO APLICÁVEIS DEVERÃO SER PREENCHIDOS COM “XX”;
+PARA EMBARCAÇÕES NÃO SUJEITAS AO REGISTRO NO TM, O CAMPO NO (15) NÃO NECESSITA SER PREENCHIDO; e
+OS CAMPOS 1, 3, 4, 5, 7, 8, e 9 DEVERÃO SER PREENCHIDOS PELAS CP/ DL/ AG.
+	Após assinado e datado pela CP/DL/AG, permite a utilização da embarcação por um período máximo de 30 dias, prorrogáveis por mais 30 dias.
+
+
+
+
+ | 
+INSTRUÇÕES PARA PREENCHIMENTO DO BADE | 
+Campo 1 | 
+preenchido pelas Capitanias dos Portos ou OM subordinadas. Preencher com o número correspondente ao processo a ser realizado. | 
+Campo 2 | 
+preencher com o nome da embarcação. | 
+Campo 3 | 
+Preenchido pelas Capitanias dos Portos ou OM subordinadas. Preencher com o número de inscrição da embarcação. | 
+Campo 4 | 
+Preencher com a data de inscrição da embarcação. | 
+Campo 5 | 
+preenchido pelas Capitanias dos Portos ou OM subordinadas. Preencher com o nome da OM de jurisdição | 
+Campo 6 | 
+preencher com o tipo da embarcação. | 
+Campo 7 | 
+Preenchido pelas Capitanias dos Portos ou OM subordinadas. preencher com a situação atual da embarcação. | 
+Campo 8 | 
+Preenchido pelas Capitanias dos Portos ou OM subordinadas. Preencher com o tipo de navegação da embarcação. A embarcação poderá ter uma 2a classificação. | 
+Campo 9 | 
+Preenchido pelas Capitanias dos Portos ou OM subordinadas. preencher com o tipo de atividade ou serviço. A embarcação poderá ter até 4 (quatro) tipos de atividade e/ou serviço. | 
+Campo 10 | 
+preencher com a quantidade de passageiros. | 
+Campo 11 | 
+Preencher (sim), se a embarcação encontrar-se hipotecada, e (não) se não. | 
+Campo 12 | 
+Marcar (x) sim, caso a embarcação possua helideque; e (x) não, caso não possua. | 
+Campo 13 | 
+Preencher com o número IMO (INTERNATIONAL MARITIME ORGANIZATION) da embarcação. | 
+Campo 14 | 
+preencher com o IRIN (Indicativo Radio Internacional - “Call Sign”) | 
+Campo 15 | 
+preencher com o número do Registro no Tribunal Marítimo. | 
+Campo 16 | 
+preencher com o No do casco da embarcação | 
+Campo 17 | 
+Preencher com a data de construção da embarcação.  | 
+Campo 18 | 
+Preencher com a data de batimento de quilha da embarcação. | 
+Campo 19 | 
+Preencher com a data de lançamento da embarcação. | 
+Campo 20 | 
+preencher com valor do comprimento total da embarcação, em metros.  | 
+Campo 21 | 
+preencher com o valor da boca da embarcação, em metros.  | 
+Campo 22 | 
+preencher com o valor do pontal da embarcação, em metros. | 
+Campo 23 | 
+Preencher com tipo de propulsão da embarcação | 
+Campo 24 | 
+Preencher com o quantidade de motor (es) propulsor(es) da embarcação. | 
+Campo 25 | 
+Preencher com o valor da potência total do(s) motor (es) propulsor(es), em KW. (somar os valores das potências individuais de cada motor) | 
+Campo 26 | 
+Preencher com o número do 1o motor (quando aplicável). | 
+Campo 27 | 
+Preencher com os valores das arqueações Bruta e Líquida da embarcação e marcar o método de cálculo utilizado para o cálculo da arqueação. | 
+Campo 28 | 
+preencher com a quantidade de propulsores laterais avante (AV), a meia nau (MN) e a ré (RE). | 
+Campo 29 | 
+Preencher com o tipo do primeiro combustível. | 
+Campo 30 | 
+Preencher com o valor da capacidade de armazenamento do primeiro tipo de combustível | 
+Campo 31 | 
+preencher com o número da Licença de Construção ou Licença de Construção para embarcação já construída. | 
+Campo 32 | 
+Preencher com o valor da tração estática da embarcação (somente para rebocadores) em toneladas métricas. | 
+Campo 33 | 
+preencher com o material do casco. | 
+Campo 34 | 
+preencher com o material da superestrutura. | 
+Campo 35 | 
+Preencher com o nome da Sociedade Classificadora da embarcação. | 
+Campo 36 | 
+Marcar com “X” os equipamentos de navegação existentes a bordo. | 
+Campo 37 | 
+Marcar com “X” os equipamentos de comunicação existentes a bordo:
+HF - High Frequency/SSB - Single side band/UHF - Ultra High Frequency/VHF - very High Frequency com ou sem DSC (Digital Selective Calling )/INMARSAT A, B ou C com os respectivos números e GMDSS -Global Maritime Distress Safety System | 
+Campo 38 | 
+Preencher com o número e a data da validade do seguro obrigatório de Danos Pessoais causados por embarcações ou por sua carga (DPEM). | 
+Campo 39 | 
+Preencher com o nome do proprietário/armador da embarcação. | 
+Campo 40 | 
+Preencher com o número do CPF ou CNPJ do proprietário/armador. | 
+Campo 41 | 
+Preencher com o no do documento de identidade do proprietário / armador. | 
+Campo 42 | 
+Preencher com o nome do órgão emissor do documento de identidade | 
+Campo 43 | 
+Preencher com a Unidade da Federação (UF) do órgão emissor do documento. | 
+Campo 44 | 
+Preencher com o endereço completo do proprietário/armador da embarcação | 
+Campo 45 | 
+Preencher com o CEP do endereço do proprietário/armador da embarcação. | 
+Campo 46 | 
+Preencher com o nome do bairro do endereço do proprietário/armador da embarcação. | 
+Campo 47 | 
+Preencher com nome da cidade do endereço do proprietário/armador da embarcação. | 
+Campo 48 | 
+Preencher com a sigla da Unidade da Federação do endereço do proprietário/armador da embarcação. | 
+Campo 49 | 
+Preencher com o endereço do correio eletrônico (e-mail) do proprietário/armador. | 
+Campo 50 | 
+Preencher com a nacionalidade do proprietário/armador. | 
+Campo 51 | 
+Preencher com o número do telefone do proprietário/armador. | 
+Campo 52 | 
+Preencher com número do telefax (fac-símile) do proprietário/armador. | 
+Campo 53 | 
+Preencher com o nome completo do coproprietário/armador da embarcação. | 
+Campo 54 | 
+Preencher com o número do CPF ou CNPJ do coproprietário/armador. | 
+Campo 55 | 
+Preencher com o no do documento de identidade do coproprietário/armador da embarcação. | 
+Campo 56 | 
+Preencher com o nome do órgão emissor do documento de identidade | 
+Campo 57 | 
+Preencher com a Unidade da Federação (UF) do órgão emissor do documento. | 
+Campo 58 | 
+Preencher com o endereço completo do coproprietário/armador da embarcação | 
+Campo 59 | 
+Preencher com o CEP do endereço do coproprietário/armador da embarcação. | 
+Campo 60 | 
+Preencher com o nome do bairro do endereço do coproprietário/armador da embarcação. | 
+Campo 61 | 
+Preencher com nome da cidade do endereço do coproprietário / armador da embarcação. | 
+Campo 62 | 
+Preencher com a sigla da Unidade da Federação do endereço do coproprietário/armador da embarcação. | 
+Campo 63 | 
+Preencher com o endereço do correio eletrônico (e-mail) do coproprietário/armador. | 
+Campo 64 | 
+Preencher com a nacionalidade do coproprietário / armador. | 
+Campo 65 | 
+Preencher com o número do telefone do coproprietário/armador. | 
+Campo 66  | 
+Preencher com número do telefax do coproprietário/armador (caso possua). | 
+Campo 67 | 
+Preencher com a assinatura do requerente. | 
+Campo 68 | 
+Preencher com a data em que o requerente assinou o BADE. | 
+Campo 69 | 
+Preenchido pelas Capitanias dos Portos ou OM subordinadas. Preencher com o carimbo e assinatura do responsável pela conferência dos documentos. | 
+Campo 70 | 
+Preencher com a data em que houve a conferência dos documentos apresentados.

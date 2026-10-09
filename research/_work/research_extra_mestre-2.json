@@ -1,0 +1,323 @@
+{
+ "claims": [
+  {
+   "id": "extra-mestre-2-01",
+   "topic": "publicacoes-a-bordo",
+   "claim": "As embarcações de esporte e recreio, exceto as miúdas, devem ter a bordo cartas náuticas das regiões onde pretendem operar, em local acessível; um Sistema de Cartas Eletrônicas (ECS) pode ser aceito para cumprir essa exigência.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.20 (Publicações), p. 4-10",
+   "quote": "As embarcações de esporte e recreio, exceto as miúdas, deverão dotar cartas náuticas relativas às regiões em que pretendem operar, em local acessível e apropriado. Poderá ser aceito um Sistema de Cartas Eletrônicas (ECS - Electronic Chart System) como atendendo as exigências deste requisito com relação à existência de cartas a bordo.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 no PDF consolidado (research/acervo/normam-211.txt)."
+  },
+  {
+   "id": "extra-mestre-2-02",
+   "topic": "areas-de-seguranca",
+   "claim": "Pela NORMAM-211, são áreas de segurança, entre outras: fundeadouros de navios mercantes, canais de acesso aos portos, proximidades das instalações do porto, a faixa de 500 m em torno de unidades estacionárias de produção de petróleo e áreas especiais divulgadas em Avisos aos Navegantes. Nelas não é permitido o tráfego e o fundeio; o tráfego de esporte e recreio por canais de acesso para chegar a marinas e clubes é regulado nas NPCP/NPCF.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 1, art. 1.9 (Áreas de segurança) e Notas 1 a 4, p. 1-10 e 1-11",
+   "quote": "1.9.3. fundeadouros de navios mercantes; 1.9.4. canais de acesso aos portos; 1.9.5. proximidades das instalações do porto; 1.9.6. a menos de 500 metros de unidades estacionárias de produção de petróleo; 1.9.7. áreas especiais nos prazos determinados em Avisos aos Navegantes [...] 4) Não é permitido o tráfego e fundeio de embarcações nas áreas consideradas de segurança citadas neste artigo. No entanto, quando o tráfego de embarcações de esporte e/ou recreio para acessar os locais de guarda das embarcações (marinas, clubes ou entidades desportivas náuticas) incluírem canais de acesso aos portos e proximidades das instalações dos portos ou outras áreas consideradas de segurança, seu tráfego será regulamentado pelas NPCP/NPCF.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07. A lista completa do art. 1.9 também inclui instalações militares (200 m), usinas e áreas de banhistas."
+  },
+  {
+   "id": "extra-mestre-2-03",
+   "topic": "bibliografia-msa",
+   "claim": "A bibliografia recomendada do exame de Mestre-Amador inclui, entre outras obras, as publicações da DHN: Roteiro, Lista de Faróis, Tábuas das Marés, Avisos aos Navegantes (folheto quinzenal), Catálogo de Cartas e Publicações, Carta 12000 (INT 1), Lista de Auxílios-Rádio, Cartas de Correntes de Maré, Atlas de Cartas Piloto e Listas de Sinais Cegos.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 5-A, Seção I, item 2.2 (Bibliografia recomendada), alíneas e) a n)",
+   "quote": "e) Roteiro da CostaSul, DHN. f) Lista de Faróis, DHN. g) Tábuas das Marés, DHN. h) Avisos aos Navegantes, Área Marítima e Hidrovias em Geral, folheto quinzenal, DHN. i) Catálogo de Cartas e Publicações, DHN. j) Carta 12000 (INT) - símbolos, abreviaturas e termos usados nas cartas náuticas, DHN. k) Lista de Auxílios-Rádio, DHN. l) Cartas de Correntes de Maré, DHN. m) Atlas de Cartas Piloto. n) Listas de Sinais Cegos.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07. Grafia 'Roteiro da CostaSul' como no original."
+  },
+  {
+   "id": "extra-mestre-2-04",
+   "topic": "programa-msa",
+   "claim": "O programa do exame de Mestre-Amador inclui o conhecimento e uso da carta náutica e das publicações de auxílio à navegação, o Sistema de Balizamento Marítimo da IALA região B com sinais sonoros e luminosos, problemas de navegação costeira e estimada com carta e publicações, e o RIPEAM (sinais sonoros e luminosos, regras de governo, luzes e marcas).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 5-A, Seção I, item 2.1, alíneas g), h), l) e p)",
+   "quote": "g) Conhecimento e uso da Carta Náutica e publicações de auxílio à navegação. h) Sistema de Balizamento Marítimo da IALA região “B”, sinais sonoros e luminosos. [...] l) Problemas de navegação costeira e estimada com utilização da carta e publicações náuticas. [...] p) Conhecimento e uso do RIPEAM – sinais sonoros e luminosos; regras de governo; luzes e marcas.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-05",
+   "topic": "iala-b",
+   "claim": "O Decreto nº 92.267, de 3 de janeiro de 1986, aprovou o Sistema de Balizamento Marítimo, Região B, da IALA para uso no balizamento marítimo e de águas interiores do Brasil.",
+   "source_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "locator": "Decreto nº 92.267/1986, art. 1º",
+   "quote": "Art. 1º - Fica aprovado o Sistema de Balizamento Marítimo, Região \"B\", da Associação Internacional de Sinalização Náutica - IALA, que a este acompanha, a ser utilizado no balizamento marítimo e de águas interiores do Brasil.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 (Planalto, via navegador)."
+  },
+  {
+   "id": "extra-mestre-2-06",
+   "topic": "avisos-aos-navegantes",
+   "claim": "Os Avisos aos Navegantes são publicações periódicas em folhetos que atualizam cartas e publicações náuticas brasileiras. Há três folhetos regulares: Área Marítima e Hidrovias em Geral (DH21, quinzenal), Hidrovia Paraguai-Paraná (DH22, mensal) e Hidrovia Tietê-Paraná (DH23, trimestral).",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-aos-navegantes-tela",
+   "locator": "CHM, página 'Aviso aos Navegantes' (atualizada em 17/09/2026), texto de apresentação",
+   "quote": "Os \"Avisos aos Navegantes\" são publicações periódicas, editadas sob a forma de folhetos, com o propósito principal de fornecer aos navegantes e usuários em geral, informações destinadas à atualização de cartas e publicações náuticas brasileiras [...] Regularmente, são publicados três \"Avisos aos Navegantes\": Área Marítima e Hidrovias em Geral (publicação DH21, com periodicidade quinzenal); Hidrovia Paraguai-Paraná (publicação DH22, com periodicidade mensal); e Hidrovia Tietê-Paraná (publicação DH23, com periodicidade trimestral).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-07",
+   "topic": "avisos-aos-navegantes",
+   "claim": "As correções às cartas náuticas são publicadas nos Avisos aos Navegantes como Avisos Temporários (T), Preliminares (P) e Permanentes, na Seção III; trechos de carta para colar ('bacalhaus') vêm na Seção VIII; as correções às publicações vêm na Seção IV e, se preciso, em Folhas de Correções.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-aos-navegantes-tela",
+   "locator": "CHM, página 'Aviso aos Navegantes', parágrafos sobre correções",
+   "quote": "As correções às cartas náuticas são consubstanciadas por meio de Avisos Temporários (T), Avisos Preliminares (P) e Avisos Permanentes, apresentados na Seção III. Quando necessário, a alguns Avisos Permanentes, são associadas reproduções de trechos, notas e quadros (conhecidos como \"bacalhaus\") encartadas nos próprios Avisos aos Navegantes, na seção VIII. As correções às publicações náuticas são apresentadas na Seção IV e, se preciso, por meio de \"Folhas de Correções\" encartadas no final dos Avisos aos Navegantes.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07. Miguens, vol. I, item 12.11.1, diz que as correções de Avisos Temporários e Preliminares são feitas a lápis e as de Permanentes a caneta, com registro no campo 'Pequenas Correções'."
+  },
+  {
+   "id": "extra-mestre-2-08",
+   "topic": "publicacoes-dhn",
+   "claim": "O CHM lista como Publicações Náuticas: Catálogo de Cartas e Publicações, Carta 12000 (INT 1), Roteiros, Lista de Faróis, Lista de Sinais Cegos, Lista de Auxílios-Rádio, Tábuas das Marés, Cartas de Correntes de Maré, Atlas de Cartas Piloto, Almanaque Náutico, Hidrovias e Carta SAR 5114; diz que a consulta a elas é indispensável no planejamento e na execução da derrota e que devem ser mantidas atualizadas.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav/publicacoes",
+   "locator": "CHM, página 'Publicações' (acesso após o Termo Público de Cessão de Direito de Uso)",
+   "quote": "A consulta às Publicações Náuticas é indispensável, tanto na fase de planejamento da derrota (estudo da viagem), como na fase de execução da derrota. Tal como no caso das Cartas, as Publicações Náuticas também devem ser sempre mantidas atualizadas. Catálogo de Cartas e Publicações Carta 12000 (INT 1) Roteiros Lista de Faróis Lista de Sinais Cegos Lista de Auxílios-Rádio Tábuas das Marés Cartas de Correntes de Maré Atlas de Cartas Piloto Almanaque Náutico Hidrovias Carta SAR 5114",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-09",
+   "topic": "publicacoes-dhn",
+   "claim": "O Catálogo de Cartas e Publicações vigente é a 15ª edição (2026-2030); cartas e publicações podem ser compradas no posto de vendas da EMGEPRON em Niterói ou no site cartasnauticasbrasil.com.br.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/catalogo-de-cartas-e-publicacoes",
+   "locator": "CHM, página 'Catálogo de Cartas e Publicações' (atualizada em 26/08/2026)",
+   "quote": "CATÁLOGO DE CARTAS E PUBLICAÇÕES 2026-2030 [...] As cartas e publicações náuticas constantes do Catálogo de Cartas e Publicações poderão ser adquiridas no Posto de Vendas da EMGEPRON, situado na Base de Hidrografia da Marinha em Niterói (BHMN) [...] ou na página de comércio eletrônico \"http://www.cartasnauticasbrasil.com.br\". [...] 15ª edição",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-10",
+   "topic": "publicacoes-dhn",
+   "claim": "A Carta 12000 (INT 1), editada pela DHN e atualizada pelo CHM, reúne os símbolos e abreviaturas usados nas cartas náuticas; a edição vigente é a 5ª, de 2022, atualizada por folhas de correções.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/carta-12000-int-1",
+   "locator": "CHM, página 'Carta 12000 (INT 1)' (atualizada em 24/07/2026)",
+   "quote": "A Carta 12000, editada pela Diretoria de Hidrografia e Navegação (DHN) e atualizada pelo Centro de Hidrografia da Marinha (CHM), contém a coletânea completa de símbolos e abreviaturas que são utilizados nas cartas náuticas nacionais e internacionais. 5ª edição 2022",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-11",
+   "topic": "publicacoes-dhn",
+   "claim": "O Roteiro complementa as cartas náuticas (sem descrevê-las), com subsídios para navegar ao longo da costa, nos canais e nas aterragens e informações sobre regulamentos, recursos e facilidades dos portos. É publicado em três volumes: Costa Norte (da Baía do Oiapoque ao Cabo Calcanhar, com rios Amazonas, Jari, Trombetas e Pará), Costa Leste (do Cabo Calcanhar ao Cabo Frio e ilhas oceânicas) e Costa Sul (do Cabo Frio ao Arroio Chuí e Lagoas dos Patos e Mirim).",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/roteiros",
+   "locator": "CHM, página 'Roteiros' (atualizada em 19/08/2026)",
+   "quote": "O Roteiro tem como propósito complementar as cartas náuticas brasileiras - nunca descrevê-las - dando aos navegantes subsídios que lhes permitam melhor avaliar as informações das cartas, ao navegar ao longo da costa ou dos canais e nas aterragens, assim como conhecer os regulamentos, recursos e facilidades dos portos e terminais. [...] COSTA NORTE DA BAÍA DO OIAPOQUE AO CABO CALCANHAR [...] COSTA LESTE DO CABO CALCANHAR AO CABO FRIO ILHAS OCEÂNICAS [...] COSTA SUL DO CABO FRIO AO ARROIO CHUÍ LAGOAS DOS PATOS E MIRIM",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07. Edições: Costa Norte 13ª (2025-2029), Costa Leste 14ª (2022-2026), Costa Sul 15ª (2026-2030)."
+  },
+  {
+   "id": "extra-mestre-2-12",
+   "topic": "lista-de-farois",
+   "claim": "A Lista de Faróis (40ª edição, 2026-2027) reúne as informações sobre faróis, aerofaróis, barcas-faróis, faroletes, balizas, boias luminosas e luzes particulares ou de obstáculos aéreos de interesse do navegante, na costa, rios, lagoas e ilhas do Brasil e em costas estrangeiras representadas nas cartas brasileiras.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois",
+   "locator": "CHM, página 'Lista de Faróis' (atualizada em 22/09/2026)",
+   "quote": "LISTA DE FARÓIS 2026-2027 [...] contém todas as informações sobre faróis, aerofaróis, barcas-faróis, faroletes, balizas, boias luminosas e luzes particulares ou de obstáculos aéreos que interessam aos navegantes, existentes na costa, nos rios, nas lagoas e nas ilhas do Brasil, assim como nas costas e ilhas dos países estrangeiros que possuam suas terras representadas nas cartas náuticas brasileiras. [...] 40ªEdição",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07. Atualizada até o folheto de Avisos aos Navegantes nº 17/2026."
+  },
+  {
+   "id": "extra-mestre-2-13",
+   "topic": "lista-de-farois",
+   "claim": "Na Lista de Faróis, o alcance luminoso é calculado para a noite, a olho nu, sem luzes de fundo e com transparência atmosférica T = 0,85 (visibilidade meteorológica de 18,4 milhas); o alcance geográfico é calculado para o olho do observador a 5 metros sobre o nível do mar.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., Instruções, item 1, '6ª coluna – Alcances', p. XII",
+   "quote": "Oferece o alcance luminoso, em milhas náuticas, calculado pela fórmula de Allard, considerando-se um período noturno, observador com vista desarmada, ausência de interferência de luzes de fundo, com coeficiente de transparência atmosférica (T) igual a 0,85, correspondente a um valor de visibilidade meteorológica de 18,4 milhas náuticas; e o alcance geográfico, também em milhas náuticas, considerando os olhos (desarmados) do observador elevados 5 metros sobre o nível do mar.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-14",
+   "topic": "lista-de-farois",
+   "claim": "A Lista de Faróis calcula o alcance geográfico pela expressão D = 1,927 (√H + √h), com D em milhas, H a altitude do objeto e h a altura do olho do observador, ambas em metros; no exemplo da publicação, olho a 5 m e farol a 60 m dão 19,2 milhas.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., item 3.5 Alcances, 'Alcance Geográfico', p. XX",
+   "quote": "O alcance geográfico é calculado pela expressão: D = 1,927 (√ H + √ h ), onde: D = alcance geográfico em milhas náuticas; H = altitude do objeto em metros; h = altura do observador em metros [...] Um observador no passadiço de um navio, com seus olhos na altura de 5 metros sobre o nível do mar, tenta avistar um farol cujo foco luminoso possui uma elevação (altitude) de 60 metros. Entrando na tabela com os dois valores, obtém-se 19,2 milhas náuticas",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-15",
+   "topic": "lista-de-farois",
+   "claim": "Na Lista de Faróis, os limites de setores de luz e arcos de visibilidade são dados por marcações verdadeiras, de 000° a 360°, tomadas do mar para o sinal, no sentido horário.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., item 3.2 Limites de setores, p. XIII",
+   "quote": "Os limites de setores de luz, arco de visibilidade, luz de alinhamento e luz de direção são dados por marcações verdadeiras, de 000° a 360°, tomadas ao largo (do mar para o sinal), no sentido do movimento dos ponteiros do relógio.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-16",
+   "topic": "lista-de-farois",
+   "claim": "A Lista de Faróis adverte que a distância a uma luz não pode ser estimada pelo brilho aparente, que os limites de setor na maioria dos faróis podem não ser confiáveis (a mudança de cor é gradual) e que a distinção entre cores não deve ser considerada confiável.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., item 5 Precauções, incisos III, V e VI",
+   "quote": "III) A distância de um observador a uma luz não pode ser estimada por seu brilho aparente. [...] V) Os limites de setor das luzes, na maioria dos faróis, podem não ser confiáveis. Eles, normalmente, não são bem definidos e a mudança da luz para um setor obscuro ou de uma cor para outra ocorre gradativamente, às vezes alguns graus acima. VI) A distinção entre as cores não deve ser confiável.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-17",
+   "topic": "lista-de-farois",
+   "claim": "Na Lista de Faróis (40ª ed.), o farol Cabo Branco (nº 1256, João Pessoa) tem característica Lp. B. 10s (luz 1,2 s, eclipse 8,8 s), altitude de 46 m e alcances de 27 milhas (luminoso) e 17 milhas (geográfico).",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., Costa Leste, nº 1256",
+   "quote": "1256 Cabo Branco 07 08,96 Lp. B. 46 27 [...] 806 34 47,77 10s 17 [...] B. 1,2 – Ecl. 8,8",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 (texto extraído do PDF; colunas: posição, característica, altitude, alcances luminoso/geográfico)."
+  },
+  {
+   "id": "extra-mestre-2-18",
+   "topic": "lista-de-farois",
+   "claim": "Na Lista de Faróis (40ª ed.), o farol Olinda (nº 1272, PE) tem característica Lp (2) B. 35s, altitude de 90 m e alcances de 46 milhas (luminoso) e 22 milhas (geográfico).",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., Costa Leste, nº 1272",
+   "quote": "1272 Olinda 08 00,66 Lp (2) B. 90 46 [...] 902 34 50,84 35s 22 [...] B. 1,0 – Ecl. 7,5 B. 1,0 – Ecl. 25,5",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-19",
+   "topic": "lista-de-farois",
+   "claim": "Na Lista de Faróis (40ª ed.), o farol Santa Marta (nº 3956, SC) tem característica Oc (3) B.E. 30s, altitude de 74 m e setores de visibilidade branco de 056° a 045° (349°) e encarnado de 045° a 056° (11°).",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., Costa Sul, nº 3956",
+   "quote": "3956 Santa Marta 28 36,23 Oc (3) B.E. 74 B. 46 [...] 30s E. 39 [...] Setores de visibilidade B. 056° – 045° (349°) E. 045° – 056° (11°)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-20",
+   "topic": "lista-de-farois",
+   "claim": "Na Lista de Faróis (40ª ed.), o farol Cabo Frio (nº 2400, RJ) tem característica Lp. B. 10s, altitude de 140 m, alcances de 49 milhas (luminoso) e 27 milhas (geográfico) e setor de visibilidade de 231° a 118° (247°).",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "locator": "Lista de Faróis (DH2), 40ª ed., Costa Sul, nº 2400",
+   "quote": "2400 Cabo Frio 23 00,81 Lp. B. 140 49 [...] 1503 42 00,05 10s 27 [...] Setor de visibilidade 231° – 118° (247°)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-21",
+   "topic": "publicacoes-dhn",
+   "claim": "A Lista de Sinais Cegos (9ª edição, 2025-2029) traz informações sobre os sinais cegos da costa e de rios, lagoas e ilhas do Brasil, exceto os das hidrovias Paraguai-Paraná e Tietê-Paraná.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-sinais-cegos",
+   "locator": "CHM, página 'Lista de Sinais Cegos' (atualizada em 24/07/2026)",
+   "quote": "LISTA DE SINAIS CEGOS 2025-2029 A Lista de Sinais Cegos [...] é uma publicação de auxílio à navegação que contém informações referentes a todos os sinais cegos existentes na costa e nos rios, lagoas e ilhas do Brasil, exceto os situados nas hidrovias Paraguai–Paraná e Tietê–Paraná. 9ª edição",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-22",
+   "topic": "publicacoes-dhn",
+   "claim": "A Lista de Auxílios-Rádio (15ª edição) reúne os auxílios radioelétricos à navegação da costa do Brasil e os serviços-rádio, inclusive por satélite, úteis a quem navega no Atlântico Sul.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-auxilios-radio",
+   "locator": "CHM, página 'Lista de Auxílios-Rádio' (atualizada em 19/08/2026)",
+   "quote": "A Lista de Auxílios-Rádio [...] tem por finalidade reunir em uma única publicação as informações de maior relevância sobre os auxílios radioelétricos à navegação marítima existentes na costa do Brasil e sobre serviços-rádio (incluindo transmissões via satélite) úteis ao navegante que estiver no oceano Atlântico Sul. 15ªEdição",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07. A página mostra o título 'Lista de Auxílios-Rádio 2025-2029' e o arquivo 'LAR-15ED-2026-2030'."
+  },
+  {
+   "id": "extra-mestre-2-23",
+   "topic": "publicacoes-dhn",
+   "claim": "As Cartas de Correntes de Maré são publicações feitas para portos específicos, com pequenas cartas onde setas indicam a direção e números a velocidade das correntes de maré, referidas à hora da preamar. Existem para: Rio Amazonas (Barra Norte a Santana), Rio Pará (Salinópolis a Belém), Baía de São Marcos (São Luís e Itaqui), Itapessoca e Luís Correia, Natal, Salvador, Madre de Deus, Vitória, Baía de Guanabara, Santos e Paranaguá.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-2",
+   "locator": "CHM, página 'Cartas de Correntes de Maré' (atualizada em 02/10/2024)",
+   "quote": "Apesar da denominação, as Cartas de Correntes de Maré são, na realidade, publicações, preparadas especificamente para determinados portos. [...] uma coletânea de pequenas cartas do porto, onde aparecem setas indicadoras das direções e números que representam as velocidades das correntes de maré, referidas à hora da preamar (PM). Atualmente, existem Cartas de Correntes de Maré publicadas para os seguintes locais: Rio Amazonas – da Barra Norte ao Porto de Santana; Rio Pará – de Salinópolis a Belém; Proximidades da Baía de São Marcos e Portos de São Luís e Itaqui; Porto de Itapessoca e Porto de Luís Correia; Porto de Natal; Porto de Salvador; Porto de Madre de Deus; Porto de Vitória; Baía de Guanabara; Porto de Santos; e Porto de Paranaguá.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-24",
+   "topic": "publicacoes-dhn",
+   "claim": "O Atlas de Cartas Piloto da DHN tem 12 cartas (uma por mês), na projeção de Mercator, escala 1:10.000.000, cobrindo o Atlântico de Trinidad ao Rio da Prata e do litoral da América do Sul até o meridiano de 020° W; traz sobretudo ventos e correntes, além de declinação magnética, temperatura do ar e da água e, no verso, nevoeiro, visibilidade e ventos fortes nos principais portos e ilhas do Brasil.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3",
+   "locator": "CHM, página 'Atlas de Cartas Piloto' (atualizada em 02/10/2024)",
+   "quote": "A DHN publica um Atlas de Cartas Piloto para o Oceano Atlântico, abrangendo, no sentido N–S, o trecho de Trinidad ao Rio da Prata e, no sentido E–W, o trecho desde o litoral da América do Sul até o meridiano de 020ºW. O Atlas de Cartas Piloto é constituído por 12 cartas, na Projeção de Mercator, escala 1:10.000.000, sendo uma para cada mês do ano. Para a navegação, as principais informações das Cartas Piloto referem–se a ventos e correntes marítimas.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-25",
+   "topic": "publicacoes-dhn",
+   "claim": "A publicação Tábuas das Marés para 2026 (63ª edição) traz previsões de maré de 44 portos e outros pontos da costa do Brasil (ilhas, barras, fundeadouros), geradas pelo CHM por análise harmônica.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/tabuas-das-mares",
+   "locator": "CHM, página 'Tábuas das Marés' (atualizada em 12/02/2026)",
+   "quote": "TÁBUAS DAS MARÉS PARA 2026 - 63ª edição. A publicação Tábuas das Marés contém as previsões das marés para 2026 de 44 portos, 2 ilhas oceânicas, 2 ilhas costeiras, 5 barras, 1 fundeadouro e 1 atracadouro da costa do Brasil e 1 fundeadouro na Estação Antártica Comandante Ferraz.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-26",
+   "topic": "publicacoes-dhn",
+   "claim": "O CHM disponibiliza gratuitamente cartas náuticas raster (formato KAP/BSB) atualizadas até o último Aviso aos Navegantes permanente em vigor; os arquivos GeoTIFF são para fins acadêmicos e não devem ser usados como auxílio à navegação.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav/cartas-raster",
+   "locator": "CHM, página 'Cartas Raster', Informativos 3, 4 e 5",
+   "quote": "3 - As Cartas Raster disponibilizadas gratuitamente pela Diretoria de Hidrografia da Marinha (DHN)/Centro de Hidrografia da Marinha (CHM) neste site, não podem ser reproduzidas/compiladas/derivadas para fins comerciais. [...] 4 - Os arquivos GeoTIFF são disponibilizados para fins acadêmicos. Portanto, não devem, sob hipótese alguma, serem utilizados como auxílio à navegação, uma vez que não são atualizados regularmente. 5 - As Cartas Raster (Kap/Bsb) disponíveis estão atualizadas até o último Aviso aos Navegantes permanente em vigor.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  },
+  {
+   "id": "extra-mestre-2-27",
+   "topic": "avisos-radio",
+   "claim": "No site do CHM, os Avisos-Rádio Náuticos e SAR podem ser consultados por área: Norte, Leste, Sul, Bacia Amazônica, Hidrovias em Geral, NAVAREA V, Hidrovia Tietê-Paraná, Hidrovia Paraguai-Paraná e SAR, em português ou inglês.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radio-nautico-tela/avisos-radio-nauticos-e-sar",
+   "locator": "CHM, página 'Avisos-Rádio Náuticos e SAR', seletor 'Selecione a Costa'",
+   "quote": "Selecione a Costa: Norte Leste Sul Bacia Amazônica Hidrovias em Geral NAVAREA V Hidrovia Tietê-Paraná Hidrovia Paraguai-Paraná SAR Selecione o Idioma: Português Inglês",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07 (página atualizada às 21:00 de 07/10/2026)."
+  },
+  {
+   "id": "extra-mestre-2-28",
+   "topic": "balizamento",
+   "claim": "No balizamento brasileiro, quando os sinais de um canal são numerados, o balizamento encarnado recebe números ímpares e o verde números pares, em ordem crescente a partir da entrada do porto; os alinhamentos são identificados por letras.",
+   "source_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "locator": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª revisão 2023), item 13.3.4 Numeração de Balizamentos, alíneas c) e d)",
+   "quote": "c) o balizamento encarnado recebe números ímpares e o verde números pares; os alinhamentos são identificados por letras, em ordem alfabética; d) a numeração será sucessiva e em ordem crescente; para os canais, a partir da entrada nos portos, e para os alinhamentos, a partir da boia mais próxima à entrada.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07. Conferido na Lista de Faróis, 40ª ed., Porto de Mucuripe: boias nº 1, 3, 5, 7, 9 encarnadas e nº 2, 4, 6, 8, 10 verdes. Atenção: nos EUA (também Região B) é o contrário."
+  },
+  {
+   "id": "extra-mestre-2-29",
+   "topic": "balizamento",
+   "claim": "No Brasil, a direção convencional do balizamento é sempre a de quem vem do mar e, na navegação fluvial, a de quem sobe o rio.",
+   "source_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "locator": "Miguens, Navegação: a Ciência e a Arte, vol. I (DHN, 2ª revisão 2023), item 13.3, b. Sinais Laterais",
+   "quote": "No Brasil, a “direção convencional do balizamento” é sempre vindo do mar e, no caso da navegação fluvial, subindo o rio.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-07."
+  }
+ ]
+}

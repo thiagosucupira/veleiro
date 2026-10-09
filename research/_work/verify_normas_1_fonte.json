@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela.",
+   "notes": "Art. 5.5.2 a, p. 5-7, conferido. O '(até 6 m)' vem do art. 1.7: 'miúdas aquelas que tenham comprimento menor ou igual a seis (6) metros'."
+  },
+  {
+   "id": "normas-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente.",
+   "notes": "Art. 5.5.2 b, p. 5-7, literal. A observação do pesquisador sobre o 'pequeno porte' é uma interpretação e não muda a afirmação."
+  },
+  {
+   "id": "normas-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "HABILITAÇÃO (mínima) 5.3 Veleiro, Arrais ou Motonauta (conforme o tipo de embarcação) ARRAIS-AMADOR ARRAIS-AMADOR",
+   "notes": "Na tabela do art. 4.33, item 10, p. 4-20 (depois do rodapé 4-19), as colunas são Miúdas / Médio Porte / Grande Porte ou Iates. A checagem automática falhou só por causa do layout da tabela."
+  },
+  {
+   "id": "normas-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Quando em navegação costeira: Mestre-Amador ... Quando em navegação interior: Arrais-Amador",
+   "notes": "Na tabela do art. 4.34, item 14, p. 4-21, as colunas são Médio Porte e Grande Porte ou Iates, e as duas trazem esse texto."
+  },
+  {
+   "id": "normas-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Quando em navegação oceânica: Capitão-Amador / Quando em navegação costeira: Mestre-Amador / Quando em navegação interior: Arrais-Amador",
+   "notes": "Na tabela do art. 4.35, item 14, p. 4-23, as duas colunas (médio e grande porte) trazem as três linhas."
+  },
+  {
+   "id": "normas-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Oceânica - aquela considerada sem restrições e realizada além das 20 milhas náuticas da costa.",
+   "notes": "O art. 1.7 (p. 1-4) diz 'além das 20 MN'. O art. 4.7 (p. 4-4) diz 'fora dos limites de visibilidade da costa ... (Capitão-Amador)'. Os dois juntos sustentam a afirmação. Chamar a travessia transatlântica de navegação oceânica é aplicação da definição, e o pesquisador avisa isso."
+  },
+  {
+   "id": "normas-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Somente os condutores de dispositivos flutuantes e de embarcações miúdas sem propulsão mecânica ... estão dispensados da habilitação de amador.",
+   "notes": "Art. 5.5.6, p. 5-11, literal."
+  },
+  {
+   "id": "normas-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "cópia autenticada do documento oficial de identificação, com fotografia e dentro da validade. A autenticação poderá ser feita no próprio local de inscrição",
+   "notes": "Art. 5.4.1 a, p. 5-4, literal."
+  },
+  {
+   "id": "normas-39",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) cópia autenticada do cadastro de pessoa física (CPF)... Será aceito também o documento oficial de identificação que contenha o CPF",
+   "notes": "Art. 5.4.1 b, p. 5-4."
+  },
+  {
+   "id": "normas-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "conta de luz, água, gás ou telefone, preferencialmente com CEP, a vencer ou com data de vencimento ocorrido há, até, 120 dias.",
+   "notes": "Art. 5.4.1 c, p. 5-4. O contrato de locação e a Declaração de Residência ('modelo ... no anexo 2-G') estão na mesma alínea. Detalhe que a afirmação omite: a conta pode estar 'a vencer' ou vencida há até 120 dias."
+  },
+  {
+   "id": "normas-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "comprovante de pagamento da Guia de Recolhimento da União (GRU) referente ao serviço de emissão da Carteira de Habilitação do Amador (anexo 1-C)... selecionar o ícone \"Serviços da Diretoria\"",
+   "notes": "Art. 5.4.1 d, p. 5-4."
+  },
+  {
+   "id": "normas-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "atestado médico, emitido há menos de um ano, que comprove bom estado psicofísico, incluindo limitações",
+   "notes": "Art. 5.4.1 e, p. 5-4. Os exemplos citados na afirmação (lentes, aparelho auditivo, restrição noturna) estão na lista."
+  },
+  {
+   "id": "normas-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O atestado médico é dispensável para os candidatos que apresentarem sua Carteira Nacional de Habilitação (CNH) dentro da validade.",
+   "notes": "Art. 5.4.1 e, p. 5-4. A norma ressalva: 'A mesma observação da alínea anterior deve ser atendida' (o laudo, se houver dúvida sobre a capacidade motora)."
+  },
+  {
+   "id": "normas-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "caso haja dúvida sobre a capacidade ou a habilidade motora ... deverá ser apresentado laudo médico circunstanciado ... O CP/DL/AG ... agendará uma avaliação técnica",
+   "notes": "Art. 5.4.1 e, Observação, p. 5-4."
+  },
+  {
+   "id": "normas-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Atestado de Treinamento Náutico para Arrais-Amador com reconhecimento de firma em cartório, ou assinatura digital pelo GOV.BR do representante legal da ETN, do instrutor e do aluno, conforme anexo 5-E",
+   "notes": "Art. 5.4.1 f, p. 5-4, literal."
+  },
+  {
+   "id": "normas-46",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "treinamento náutico (aulas práticas) em estabelecimentos de treinamento náutico/pessoas físicas devidamente credenciadas nas CP/DL/AG, conforme estabelecido na Seção II do Capítulo 6",
+   "notes": "Art. 5.4.1, Notas, p. 5-5."
+  },
+  {
+   "id": "normas-47",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "a) Para a realização deste exame o candidato deverá ser habilitado na categoria de Arrais-Amador.",
+   "notes": "Anexo 5-A, item 2 a (no PDF completo, p. 5-A-4), conferido. As Notas do art. 5.4.1 acrescentam 'dentro da validade'."
+  },
+  {
+   "id": "normas-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "na categoria de Capitão-Amador, o candidato deverá possuir habilitação na categoria de Mestre-Amador, dentro da validade, ambos no ato da efetiva inscrição",
+   "notes": "Art. 5.4.1, Notas, p. 5-5, literal."
+  },
+  {
+   "id": "normas-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "para a inscrição ao exame na categoria de Capitão-Amador, o candidato deverá possuir habilitação na categoria de Mestre-Amador, dentro da validade",
+   "notes": "Busquei no Cap. 5 (linhas 5103-5722) e no Anexo 5-A os termos 'experiência', 'tempo mínimo', 'dias de mar', 'embarcado' e 'interstício', sem nenhum resultado. A ausência de outro requisito se confirma no texto. O 'confirmar na Capitania' do pesquisador continua valendo."
+  },
+  {
+   "id": "normas-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "constituído de prova escrita (ou eletrônica) no idioma português (Brasil), devendo o candidato possuir idade mínima de 18 (dezoito) anos e saber ler e escrever.",
+   "notes": "Art. 5.4.2 a, p. 5-5, literal."
+  },
+  {
+   "id": "normas-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "exclusivamente para a obtenção da CHA de ARA, ao candidato analfabeto que dependa de embarcação a motor ... e resida em locais remotos, com idade mínima de dezoito anos, será permitida ... prova oral",
+   "notes": "Art. 5.4.2 a, p. 5-5. 'A critério da Capitania' corresponde a 'caberá analisar e decidir fundamentadamente'. A afirmação omite a idade mínima de 18 anos, mas não diz nada errado."
+  },
+  {
+   "id": "normas-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Os exames deverão ser realizados preferencialmente nas sedes das CP/DL/AG. A critério da CP/DL/AG, esses exames poderão ser realizados em outras localidades",
+   "notes": "Art. 5.4.2 b, p. 5-5/5-6. A norma exemplifica com clubes náuticos, marinas, entidades desportivas e escolas. Não dito na afirmação: é preciso agendar antes, e o interessado paga as despesas da equipe (art. 38 da LESTA)."
+  },
+  {
+   "id": "normas-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "realizarão somente exame para MSA ou CPA ... GRU referente a apenas um dos serviços ... além do atestado de treinamento náutico para Motonauta (anexo 3-B), constante da NORMAM-212/DPC.",
+   "notes": "Art. 5.4.2 c, p. 5-6, conferido."
+  },
+  {
+   "id": "normas-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Realização de treinamento náutico em ETN credenciado / Pagamento de GRU / Agendamento eletrônico / Apresentação de documentos ... e agendamento do exame / Realização do exame ... captura da foto da CHA / emissão da CHA Digital ... no aplicativo \"Gov.Br\"",
+   "notes": "Fluxograma do art. 5.4.3, p. 5-6. As seis etapas conferem e estão na ordem da afirmação."
+  },
+  {
+   "id": "normas-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Estes treinamentos deverão ser supervisionados por instrutores dos estabelecimentos de treinamento náutico ou pessoas físicas cadastradas pelas CP/DL/AG.",
+   "notes": "Anexo 5-A, Seção II, item 1, p. 5-A-9. O mesmo trecho diz que o atestado (anexo 5-E) é 'documento obrigatório para a inscrição'."
+  },
+  {
+   "id": "normas-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "I) Parte Teórica - 2h ... ministrada necessariamente no ambiente de emprego da embarcação, estando atracada, fundeada, no berço, ou em movimento",
+   "notes": "Anexo 5-A, Seção II, a) I, p. 5-A-9."
+  },
+  {
+   "id": "normas-57",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "II) Parte Prática - 4h ... 2.4. demonstração da ação do leme e do hélice; 2.5. execução de manobra de atracação, desatracação, fundeio e suspender",
+   "notes": "Anexo 5-A, Seção II, a) II. Os itens 2.1 a 2.3 estão na p. 5-A-9 e os itens 2.4 a 2.8 na p. 5-A-10. Os itens que a afirmação cita conferem."
+  },
+  {
+   "id": "normas-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "cumpriu ______ horas de treinamento teórico e prático em (mínimo de seis horas)",
+   "notes": "Anexo 5-E, p. 5-E-1, literal."
+  },
+  {
+   "id": "normas-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O Atestado de Treinamento de Arrais Amador possui abrangência nacional e validade de 02 anos a partir da data de sua emissão.",
+   "notes": "Anexo 5-E, Obs. 1, p. 5-E-3, conferido."
+  },
+  {
+   "id": "normas-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "poderão ser aceitos mais de um atestado de treinamento para Arrais Amador desde que o tempo de treinamento não seja inferior a uma hora.",
+   "notes": "Anexo 5-E, Obs. 3, p. 5-E-3. A norma fala em 'cômputo total das aulas práticas'. Ler isso como 'cada atestado com pelo menos 1 h' é razoável."
+  }
+ ]
+}

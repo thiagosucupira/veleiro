@@ -1,0 +1,142 @@
+/* veleiro-3d — anatomia 3D do veleiro. Só tokens. */
+.v3-raiz { container-type: inline-size; }
+.v3-raiz .instrumento-controles { gap: var(--s-2); }
+.v3-grade { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); gap: 0; align-items: start; }
+.v3-col-cena { min-width: 0; }
+.v3-lado { min-width: 0; padding: var(--s-3); border-left: 1px solid var(--line); display: flex; flex-direction: column; gap: var(--s-3); }
+
+/* cena */
+.v3-cena { position: relative; width: 100%; aspect-ratio: 5 / 4; overflow: hidden; background: var(--paper); }
+.v3-canvas { position: absolute; inset: 0; }
+.v3-canvas canvas { display: block; width: 100% !important; height: 100% !important; outline: none; }
+.v3-canvas canvas:focus-visible { box-shadow: inset 0 0 0 3px var(--magenta); }
+.v3-rotulos { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
+.v3-carregando { position: absolute; inset: 0; display: grid; place-items: center; margin: 0; color: var(--ink-2); }
+.v3-vistas { position: absolute; left: 8px; top: 8px; display: flex; flex-wrap: wrap; gap: 4px; z-index: 5; max-width: calc(100% - 16px); }
+.v3-vista {
+  font: inherit; font-size: var(--fs--1); font-weight: 650; min-height: 40px; min-width: 44px; padding: 0 10px;
+  border-radius: var(--r-input); border: 1px solid var(--line); cursor: pointer;
+  background: color-mix(in srgb, var(--surface) 88%, transparent); color: var(--ink);
+}
+.v3-vista[aria-pressed="true"] { background: var(--magenta); color: var(--magenta-ink); border-color: var(--magenta); }
+.v3-dica { margin: 0; padding: 6px var(--s-3) 0; font-size: var(--fs--1); color: var(--ink-2); }
+.v3-hud { position: absolute; right: 8px; bottom: 8px; width: 108px; z-index: 4; pointer-events: none; padding: 6px 6px 4px; border-radius: var(--r-panel); background: color-mix(in srgb, var(--surface) 84%, transparent); border: 1px solid var(--line); }
+.v3-hud-svg { display: block; width: 100%; height: auto; }
+.v3-hud-fundo { fill: none; stroke: var(--line); stroke-width: 1.2; }
+.v3-hud-barco { fill: var(--shoal); stroke: var(--ink); stroke-width: 1.6; }
+.v3-hud-vv line { stroke: var(--ink); stroke-width: 3.4; stroke-linecap: round; }
+.v3-hud-vv polygon { fill: var(--ink); }
+.v3-hud-va line { stroke: var(--magenta); stroke-width: 3; stroke-linecap: round; }
+.v3-hud-va polygon { fill: var(--magenta); }
+.v3-hud-leg { margin: 2px 0 0; font-size: 12px; line-height: 1.3; font-weight: 650; color: var(--ink); display: flex; align-items: center; gap: 6px; }
+.v3-hud-k { display: inline-block; width: 16px; border-top: 3px solid var(--ink); }
+.v3-hud-k-va { border-top-color: var(--magenta); }
+
+/* rótulos 3D: ponto na peça, haste e etiqueta acima */
+.v3-ancora { width: 0; height: 0; }
+.v3-ponto { position: absolute; left: -5px; top: -5px; width: 10px; height: 10px; border-radius: 50%; background: var(--surface); border: 2px solid var(--ink); box-sizing: border-box; pointer-events: auto; cursor: pointer; }
+.v3-ponto::before { content: ""; position: absolute; inset: -12px; border-radius: 50%; }
+.v3-haste { position: absolute; left: -0.5px; bottom: 0; width: 1px; height: calc(12px + var(--dy, 0px)); background: var(--ink); opacity: 0.75; }
+.v3-rot {
+  position: absolute; left: 0; bottom: calc(12px + var(--dy, 0px)); transform: translateX(-50%);
+  pointer-events: auto; cursor: pointer; white-space: nowrap;
+  font: 650 12px/1.25 var(--font); color: var(--ink);
+  padding: 5px 9px; min-height: 26px; border-radius: var(--r-chip);
+  background: color-mix(in srgb, var(--surface) 94%, transparent); border: 1px solid var(--line);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.12);
+}
+.v3-rot::before { content: ""; position: absolute; inset: -8px -4px; }
+.v3-rot:hover { border-color: var(--magenta); }
+.v3-rot:focus-visible { box-shadow: var(--focus); }
+.v3-rot .v3-en { font-weight: 500; color: var(--ink-2); }
+.v3-ancora.v3-sel .v3-rot { background: var(--magenta); color: var(--magenta-ink); border-color: var(--magenta); }
+.v3-ancora.v3-sel .v3-rot .v3-en { color: var(--magenta-ink); }
+.v3-ancora.v3-sel .v3-ponto { border-color: var(--magenta); background: var(--magenta); }
+.v3-ancora.v3-sel .v3-haste { background: var(--magenta); opacity: 1; }
+.v3-ancora.v3-esconde .v3-rot, .v3-ancora.v3-esconde .v3-haste { visibility: hidden; }
+.v3-ancora.v3-baixo .v3-rot { bottom: auto; top: 12px; }
+.v3-ancora.v3-baixo .v3-haste { bottom: auto; top: 0; height: 12px; }
+.v3-ancora.v3-dir .v3-rot { bottom: auto; top: 0; left: 16px; transform: translateY(-50%); }
+.v3-ancora.v3-esq .v3-rot { bottom: auto; top: 0; left: auto; right: 16px; transform: translateY(-50%); }
+.v3-ancora.v3-dir .v3-haste, .v3-ancora.v3-esq .v3-haste { bottom: auto; top: -0.5px; height: 1px; width: 16px; left: 0; }
+.v3-ancora.v3-esq .v3-haste { left: -16px; }
+/* desafio: só um anel no alvo, sem o nome */
+.v3-ancora.v3-alvo .v3-rot, .v3-ancora.v3-alvo .v3-haste { display: none; }
+.v3-ancora.v3-alvo .v3-ponto { width: 26px; height: 26px; left: -13px; top: -13px; background: transparent; border: 3px solid var(--magenta); box-shadow: 0 0 0 2px var(--surface); }
+.v3-vento-rot { font: 700 12px/1.2 var(--font); color: var(--ink); white-space: nowrap; pointer-events: none; text-shadow: 0 0 3px var(--paper), 0 0 6px var(--paper); }
+.v3-va-rot { color: var(--magenta); }
+
+/* ajustes */
+.v3-ajustes { padding: var(--s-3); display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-3) var(--s-5); border-top: 1px solid var(--line); }
+.v3-ajustes h4 { grid-column: 1 / -1; margin: 0; font-size: var(--fs-0); }
+.v3-aj { display: grid; gap: var(--s-1); min-width: 0; align-content: start; }
+.v3-aj-rot { font-weight: 650; font-size: 0.95rem; display: flex; flex-wrap: wrap; gap: 0 4px; }
+.v3-val { font-weight: 750; color: var(--magenta); }
+.v3-aj input[type="range"] { height: 40px; margin: 0; }
+.v3-aj .segmented { width: max-content; max-width: 100%; }
+.v3-aj .segmented button { min-height: 40px; }
+.v3-marcas { display: flex; justify-content: space-between; font-size: 12px; color: var(--ink-3); margin-top: -6px; }
+.v3-chaves { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: var(--s-3) var(--s-5); }
+.v3-switch { min-height: 40px; font-weight: 600; font-size: 0.95rem; }
+
+/* painel */
+.v3-cartao { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-3) var(--s-4); min-width: 0; }
+.v3-cartao h4 { font-size: var(--fs-1); margin: 0 0 var(--s-2); }
+.v3-cartao p { margin: 0 0 var(--s-3); line-height: 1.5; }
+.v3-cartao-g { font-size: var(--fs--1); color: var(--ink-2); font-weight: 650; }
+.v3-cartao .v3-en { font-weight: 500; color: var(--ink-2); font-size: 0.85em; }
+.v3-cartao-dica { font-size: 0.92rem; color: var(--ink-2); }
+.v3-cartao-nav { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.v3-cartao-nav .btn { min-height: 40px; }
+.v3-alts { display: flex; flex-direction: column; gap: var(--s-2); margin-bottom: var(--s-3); }
+.v3-alts .alternativa { min-height: 44px; line-height: 1.35; }
+.v3-fb-ok, .v3-fb-erro { color: var(--ink); padding: var(--s-2) var(--s-3); border-radius: 0 var(--r-input) var(--r-input) 0; }
+.v3-fb-ok { border-left: 4px solid var(--ok); background: var(--ok-soft); }
+.v3-fb-erro { border-left: 4px solid var(--erro); background: var(--erro-soft); }
+.v3-lista-box h4 { font-size: var(--fs-0); margin: 0 0 var(--s-2); }
+.v3-lista { gap: 6px; }
+.v3-chip { min-height: 40px; padding: 6px 12px; font-size: 0.9rem; }
+
+.v3-cond { border: 1px solid var(--line); border-radius: var(--r-panel); padding: var(--s-3) var(--s-4); }
+.v3-cond-tit { font-size: var(--fs-1); font-weight: 780; color: var(--magenta); margin: 0 0 var(--s-2); line-height: 1.2; }
+.v3-cond-tit .v3-en { font-size: var(--fs-0); font-weight: 500; color: var(--ink-2); }
+.v3-dl { margin: 0; display: grid; gap: 6px; }
+.v3-dl > div { display: grid; grid-template-columns: 7.5em minmax(0, 1fr); gap: var(--s-2); border-top: 1px solid var(--line); padding-top: 6px; }
+.v3-dl dt { font-size: var(--fs--1); color: var(--ink-2); font-weight: 600; }
+.v3-dl dd { margin: 0; font-weight: 650; font-size: 0.93rem; }
+.v3-aviso { margin: var(--s-3) 0 0; padding: var(--s-2) var(--s-3); border-left: 4px solid var(--aviso); background: var(--aviso-soft); border-radius: 0 var(--r-input) var(--r-input) 0; font-size: 0.92rem; line-height: 1.45; }
+.v3-fonte { line-height: 1.5; }
+
+/* sem WebGL */
+.v3-sem3d { aspect-ratio: auto; }
+.v3-sem3d .v3-canvas { position: static; }
+.v3-fallback { padding: var(--s-4); }
+.v3-fallback-msg { margin: 0 0 var(--s-3); color: var(--ink-2); }
+.v3-perfil { width: 100%; max-width: 420px; display: block; margin: 0 auto; font-family: var(--font); }
+.v3p-agua { stroke: var(--sea-3); stroke-width: 2; }
+.v3p-casco { fill: var(--surface); stroke: var(--ink); stroke-width: 2; }
+.v3p-quilha { fill: var(--ink-2); }
+.v3p-cabine { fill: var(--shoal); stroke: var(--ink-2); }
+.v3p-mastro { stroke: var(--ink); stroke-width: 4; stroke-linecap: round; }
+.v3p-cabo { stroke: var(--ink-2); stroke-width: 1.2; }
+.v3p-vela { fill: var(--nav-white); stroke: var(--ink-2); stroke-width: 1.2; }
+.v3p-rot text { font-size: 13px; font-weight: 650; fill: var(--ink); paint-order: stroke; stroke: var(--paper); stroke-width: 3px; }
+
+/* celular / coluna única: cena, parte, lista, ajustes, condições */
+@container (max-width: 820px) {
+  .v3-grade { display: flex; flex-direction: column; }
+  .v3-col-cena, .v3-lado { display: contents; }
+  .v3-cena { order: 1; aspect-ratio: 4 / 5; }
+  .v3-dica { order: 1; }
+  .v3-hud { width: 96px; }
+  .v3-cartao { order: 2; margin: var(--s-3) var(--s-3) 0; }
+  .v3-lista-box { order: 3; margin: var(--s-3) var(--s-3) 0; }
+  .v3-ajustes { order: 4; margin-top: var(--s-3); grid-template-columns: minmax(0, 1fr); }
+  .v3-cond { order: 5; margin: 0 var(--s-3) var(--s-3); }
+}
+@container (min-width: 821px) and (max-width: 1000px) {
+  .v3-ajustes { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* app.css (toque) força button.chip a 36 px; aqui os alvos de toque têm 40 px */
+button.chip.v3-chip { min-height: 40px; }

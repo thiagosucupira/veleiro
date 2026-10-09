@@ -1,0 +1,208 @@
+{
+ "verdicts": [
+  {
+   "id": "taxas-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "notes": "Anexo A I.3 traz literalmente R$ 60,32 (todas as categorias) para inscricao, renovacao, 2a via, correspondencia ou equivalencia."
+  },
+  {
+   "id": "taxas-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "notes": "Portaria 251/DPC de 19/12/2025, art. 3o: vigencia em 1o de janeiro de 2026."
+  },
+  {
+   "id": "taxas-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "notes": "Art. 2o revoga a Portaria DPC/DGN/MB 174 de 10/03/2025."
+  },
+  {
+   "id": "taxas-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "notes": "Art. 1o cita IPCA nov/2024 a nov/2025; a inferencia de reajuste anual esta sinalizada como do pesquisador."
+  },
+  {
+   "id": "taxas-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "notes": "Anexo A lista CHA-MTA e CHA-MTA especial (provisoria) a R$ 60,32 cada."
+  },
+  {
+   "id": "taxas-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/solicitar_servico.asp",
+   "notes": "Confirmado no sistema SCAM (OM Capitania dos Portos da Paraiba, Amador > Servicos Administrativos): item CHA com ( R$ 60.32 ); o texto do item agrupa tambem CHA-MTA e CHA-MTA-E."
+  },
+  {
+   "id": "taxas-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/tabelas-de-indenizacoes",
+   "notes": "Pagina da DPC mostra atualizado em 06/01/2026 e lista Portaria no 251 e Tabela de Indenizacoes."
+  },
+  {
+   "id": "taxas-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 1.17 diz literalmente que servicos sao indenizados pela Tabela no site da DPC e pagos no ato da solicitacao."
+  },
+  {
+   "id": "taxas-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 1.17 exige comprovacao de pagamento por GRU para cada servico solicitado."
+  },
+  {
+   "id": "taxas-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211",
+   "notes": "Anexo 5-A itens h/g dizem que a GRU de reprovado ou faltoso nao pode ser reutilizada e exige nova inscricao."
+  },
+  {
+   "id": "taxas-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 5.4.2 c)/d): exame so da categoria principal, GRU de apenas um servico e atestado de treinamento MTA."
+  },
+  {
+   "id": "taxas-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 5.5.2 dispensa de GRU para pessoas carentes de projetos de mentalidade maritima, no contexto de CHA de veleiro."
+  },
+  {
+   "id": "taxas-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "notes": "Anexo A I.3 lista 2a via de certificados e licencas a R$ 41,67, item distinto do da CHA a R$ 60,32."
+  },
+  {
+   "id": "taxas-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "notes": "Anexo A traz R$ 230,32 na linha de credenciamento de ETN/pessoas fisicas para atestados ARA/VLA/MTA; 'paga pela escola' e inferencia razoavel."
+  },
+  {
+   "id": "taxas-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 5.4.2 b): despesas de transporte, hospedagem, alimentacao e locomocao da equipe custeadas pelo interessado ou entidade solicitante."
+  },
+  {
+   "id": "taxas-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "notes": "Anexo A, consideracoes iniciais item 2, contem a excecao literal para equipes de aplicacao de provas de CHA, contrastando com NORMAM-211 5.4.2 b)."
+  },
+  {
+   "id": "taxas-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 5.4.1 d) manda acessar a pagina da DPC e selecionar o icone Servicos da Diretoria (servicos administrativos)."
+  },
+  {
+   "id": "taxas-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/servicos-da-diretoria",
+   "notes": "Pagina Servicos da Diretoria lista, sob GRU, Servicos Administrativos, Educacionais e Vistorias."
+  },
+  {
+   "id": "taxas-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/node/3510",
+   "notes": "Pagina node/3510 instrui Tipo de Servico = Servicos Administrativos e o item de inscricao para exame e emissao da CHA."
+  },
+  {
+   "id": "taxas-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/solicitar_servico.asp",
+   "notes": "Reproduzido via AJAX do SCAM: categorias AMADOR, AQUAVIARIO, CADASTRAMENTO...; tipo SERVICOS ADMINISTRATIVOS (060); item CHA presente; OM selecionada primeiro."
+  },
+  {
+   "id": "taxas-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/mensagem.asp?v_destino=servicos",
+   "notes": "Tela de avisos do SCAM traz literalmente os dois prazos (um dia util para pagar; compensacao em ate dois dias uteis)."
+  },
+  {
+   "id": "taxas-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "CPBA node/386 etapa 1: Pix/cartao imediatos; boleto apos 24h e compensa apos 48h; atribuido a Capitania."
+  },
+  {
+   "id": "taxas-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 5.4.3 traz o fluxograma com GRU, agendamento, treinamento em ETN, exame e CHA digital no Gov.Br; ordem exata do fluxograma e fragmentada no texto mas blocos conferem."
+  },
+  {
+   "id": "taxas-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "CPBA node/386 etapa 2 traz o endereco atendimento-dpc/sisap citado; o link do menu da DPC e relatado pelo pesquisador."
+  },
+  {
+   "id": "taxas-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "CPBA etapa 2: login com CPF e senha gov.br e servico CHA inscricao para exame e emissao para ARA, MSA e CPA."
+  },
+  {
+   "id": "taxas-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "CPBA etapa 3 confirma entrada do pedido, marcacao de prova, protocolo e captura de foto."
+  },
+  {
+   "id": "taxas-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "CPBA etapa 4: pendencia em ate 60 dias, depois processo indeferido."
+  },
+  {
+   "id": "taxas-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "CPBA node/386 confirma seg-sex, computadores, 40 questoes e 'resultado dado pelo computador ao final da prova'."
+  },
+  {
+   "id": "taxas-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "CPBA etapa 8: nova GRU e novo pedido; segunda prova so apos cinco dias uteis; regra local sinalizada."
+  },
+  {
+   "id": "taxas-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/carta-de-servicos/carteira-de-habilita%C3%A7%C3%A3o-de-amador-cha",
+   "notes": "Carta de Servicos DPC: atendimento presencial no GAP das CP/DL/AG da jurisdicao."
+  },
+  {
+   "id": "taxas-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/carta-de-servicos/carteira-de-habilita%C3%A7%C3%A3o-de-amador-cha",
+   "notes": "Carta de Servicos: 15 dias uteis do recebimento da documentacao sem pendencia (pode variar por CP/DL/AG)."
+  },
+  {
+   "id": "taxas-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/node/3510",
+   "notes": "Pagina node/3510 contem 'Para saber em qual Capitania, Delegacia ou Agencia voce sera atendido, clique aqui'; descricao do destino e do pesquisador."
+  },
+  {
+   "id": "taxas-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 5.4.2 b): exames preferencialmente na sede; a criterio da OM em outras localidades, com agendamento previo e disponibilidade."
+  },
+  {
+   "id": "taxas-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211",
+   "notes": "Anexo 5-A item 3.a: exames de ARA programados pelas CP/DL/AG; MSA analogo (item 2.b); lista de aprovados nao conferida literalmente mas sem conflito."
+  }
+ ]
+}

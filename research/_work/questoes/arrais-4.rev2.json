@@ -1,0 +1,824 @@
+{
+ "questoes": [
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 1,
+   "enunciado": "Uma mangueira de combustível se rompe e o motor de popa de um bote pega fogo. Ao fechar a válvula de combustível, você apaga a chama principalmente pelo método de:",
+   "alternativas": [
+    "abafamento, cortando o contato do fogo com o oxigênio do ar",
+    "isolamento, retirando o combustível que alimenta o fogo",
+    "resfriamento, baixando a temperatura do material em chamas",
+    "quebra da reação em cadeia, como faz o pó químico"
+   ],
+   "correta": 1,
+   "explicacao": "Fechar a válvula corta o fluxo de combustível: é o <strong>isolamento</strong>, que retira o material que alimenta o fogo. O abafamento tira o oxigênio (com espuma, CO<sub>2</sub> ou uma tampa), mas não corta o combustível. O resfriamento tira calor, papel da água em sólidos. A quebra da reação em cadeia é a ação do pó químico sobre a chama, e não o efeito de fechar uma válvula.",
+   "referencia": "Métodos de extinção do fogo; CBMES-ES, Apostila CFBP 2022 (métodos de extinção)",
+   "fonte_url": "https://cb.es.gov.br/Media/CBMES/PDF's/CEIB/GCE/Preven%C3%A7%C3%A3o%20e%20Combate%20a%20Inc%C3%AAndios%20-%20Apostila%20CFBP%202022.pdf"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 1,
+   "enunciado": "Uma poça de gasolina pega fogo no cais, ao lado do barco. Qual agente extintor <strong>não</strong> deve ser usado nesse fogo de líquido inflamável (classe B)?",
+   "alternativas": [
+    "Espuma mecânica, aplicada sobre a superfície do líquido",
+    "Pó químico BC, aplicado em jato sobre as chamas",
+    "Gás carbônico (CO2), aplicado de perto sobre a poça",
+    "Água em jato, lançada diretamente sobre a poça em chamas"
+   ],
+   "correta": 3,
+   "explicacao": "A gasolina é mais leve que a água e flutua nela: o jato espalha o líquido em chamas e aumenta o incêndio. A espuma abafa e resfria, o pó químico quebra a reação em cadeia e o CO<sub>2</sub> abafa: os três servem para a classe B, por isso estão errados como resposta.",
+   "referencia": "CBMES-ES, Apostila CFBP 2022 (classes de incêndio e agentes extintores)",
+   "fonte_url": "https://cb.es.gov.br/Media/CBMES/PDF's/CEIB/GCE/Preven%C3%A7%C3%A3o%20e%20Combate%20a%20Inc%C3%AAndios%20-%20Apostila%20CFBP%202022.pdf"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 2,
+   "enunciado": "Numa manhã de inverno no Sul, o termômetro marca 10 °C. Pelas fichas de segurança, o ponto de fulgor em vaso fechado é: gasolina abaixo de 0 °C; etanol hidratado 15 °C; diesel acima de 38 °C. Qual combustível, derramado numa poça sobre o convés, já libera nessa temperatura vapor capaz de acender com uma faísca?",
+   "alternativas": [
+    "Somente a gasolina, cujo fulgor está abaixo de 0 °C",
+    "Somente o etanol hidratado, cujo fulgor é de 15 °C",
+    "Somente o óleo diesel, cujo fulgor está acima de 38 °C",
+    "A gasolina e o etanol hidratado, ambos já liberando vapor"
+   ],
+   "correta": 0,
+   "explicacao": "Ponto de fulgor é a menor temperatura em que o líquido solta vapor suficiente para acender com uma chama ou faísca. A 10 °C só a gasolina, com fulgor abaixo de 0 °C, já passou desse ponto. Somente o etanol está errado: a 10 °C ele ainda não chega aos 15 °C do fulgor. Somente o diesel também está errado, pois seu fulgor está muito acima de 10 °C. A alternativa com gasolina e etanol erra no etanol, que ainda não solta vapor suficiente. Atenção: num dia de 30 °C, a gasolina e o etanol passariam do fulgor.",
+   "referencia": "Fichas com Dados de Segurança (FDS), seção 9: Gasolina C (Vibra), Etanol Hidratado Combustível (Vibra, 2026) e Óleo Diesel B S10 (Vibra); NORMAM-211/DPC, Anexo 5-A, Seção II, item 1.11 (pontos de ignição e de fulgor; texto vigente, Rev. 1, Portaria DPC/DGN/MB nº 200/2026; o arquivo editável de anexos da DPC está desatualizado)",
+   "fonte_url": "https://www.vibraenergia.com.br/sites/default/files/2021-08/seguranca-gasolina-C-22.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 380 150\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" style=\"font-family:inherit\"><title>Escala de temperatura de -10 a 60 graus Celsius com os pontos de fulgor da gasolina (abaixo de 0), do etanol hidratado (15) e do diesel (acima de 38) e a marca de 10 graus</title><line x1=\"178.6\" y1=\"22\" x2=\"178.6\" y2=\"112\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-dasharray=\"4 3\"/><line x1=\"110\" y1=\"112\" x2=\"350\" y2=\"112\" stroke=\"currentColor\" stroke-width=\"2\"/><g stroke=\"currentColor\"><line x1=\"110\" y1=\"108\" x2=\"110\" y2=\"116\"/><line x1=\"144.3\" y1=\"108\" x2=\"144.3\" y2=\"116\"/><line x1=\"178.6\" y1=\"108\" x2=\"178.6\" y2=\"116\"/><line x1=\"212.9\" y1=\"108\" x2=\"212.9\" y2=\"116\"/><line x1=\"247.1\" y1=\"108\" x2=\"247.1\" y2=\"116\"/><line x1=\"281.4\" y1=\"108\" x2=\"281.4\" y2=\"116\"/><line x1=\"315.7\" y1=\"108\" x2=\"315.7\" y2=\"116\"/><line x1=\"350\" y1=\"108\" x2=\"350\" y2=\"116\"/></g><g font-size=\"12\" fill=\"currentColor\" text-anchor=\"middle\"><text x=\"110\" y=\"130\">-10</text><text x=\"144.3\" y=\"130\">0</text><text x=\"178.6\" y=\"130\">10</text><text x=\"212.9\" y=\"130\">20</text><text x=\"247.1\" y=\"130\">30</text><text x=\"281.4\" y=\"130\">40</text><text x=\"315.7\" y=\"130\">50</text><text x=\"350\" y=\"130\">60 °C</text></g><path d=\"M178.6 100 l-6 -9 h12z\" fill=\"var(--nav-red)\"/><text x=\"178.6\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"var(--nav-red)\">10 °C</text><g font-size=\"13\" font-weight=\"700\" fill=\"currentColor\"><text x=\"4\" y=\"44\">Gasolina</text><text x=\"4\" y=\"72\">Etanol</text><text x=\"4\" y=\"100\">Diesel</text></g><g font-size=\"12\" fill=\"currentColor\"><circle cx=\"144.3\" cy=\"40\" r=\"5\" fill=\"var(--nav-red)\"/><path d=\"M139 40 h-18\" stroke=\"var(--nav-red)\" stroke-width=\"2.5\"/><path d=\"M118 40 l8 -5 v10z\" fill=\"var(--nav-red)\"/><text x=\"152\" y=\"34\">abaixo de 0 °C</text><circle cx=\"195.7\" cy=\"68\" r=\"5\" fill=\"var(--nav-red)\"/><text x=\"204\" y=\"62\">15 °C</text><circle cx=\"274.6\" cy=\"96\" r=\"5\" fill=\"var(--nav-red)\"/><path d=\"M280 96 h18\" stroke=\"var(--nav-red)\" stroke-width=\"2.5\"/><path d=\"M301 96 l-8 -5 v10z\" fill=\"var(--nav-red)\"/><text x=\"228\" y=\"90\">acima de 38 °C</text></g></svg>"
+   }
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 3,
+   "enunciado": "Um marinheiro afirma: “Diesel não pega fogo, só a gasolina é perigosa”. Qual é a melhor correção?",
+   "alternativas": [
+    "O diesel solta mais vapor inflamável que a gasolina e é mais perigoso de guardar a bordo",
+    "O diesel só queima com faísca elétrica, mesmo quando cai sobre uma superfície muito quente",
+    "O diesel solta pouco vapor, mas pode inflamar-se ao pingar sobre superfície muito quente",
+    "O diesel só queima dentro dos cilindros do motor e nunca causa incêndio fora deles, em nenhum caso"
+   ],
+   "correta": 2,
+   "explicacao": "O diesel é mais seguro de armazenar: seu fulgor (acima de 38 °C numa ficha; 60 °C ou mais em outra) é bem maior que o da gasolina, que solta vapor em qualquer temperatura. Por isso, dizer que ele solta mais vapor inflamável está errado. Mas a autoignição dele fica em torno de 225 °C: pingando sobre um coletor muito quente, pode acender sem faísca. Dizer que só queima com faísca ignora a autoignição. E ele queima fora do motor, sim: vazamentos causam incêndios a bordo.",
+   "referencia": "FDS Óleo Diesel B S10 (Vibra, rev. 12/2024), seção 9: fulgor > 38 °C, autoignição ≥ 225 °C; FDS Gasolina A (Petrobras), seção 9",
+   "fonte_url": "https://vibraenergia.com.br/sites/default/files/pdfs/fispq-comb-oleodiesel-auto-oleodiesel-b-s10-v1224.pdf"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 1,
+   "enunciado": "Ao atracar no posto para abastecer uma lancha a gasolina, qual providência deve vir <strong>antes</strong> de abrir o bocal do tanque?",
+   "alternativas": [
+    "Desligar o motor e o fogão, apagar qualquer chama e proibir fumar a bordo",
+    "Manter o motor em marcha lenta para o barco não se afastar do cais",
+    "Iniciar o abastecimento e desligar o motor depois, para ganhar tempo na fila",
+    "Acender uma lanterna de chama para enxergar o bocal, se estiver escuro"
+   ],
+   "correta": 0,
+   "explicacao": "O vapor de gasolina inflama com qualquer faísca, então tudo que possa produzir chama ou faísca (motor, fogão, cigarro, equipamentos elétricos dispensáveis) é desligado antes de abrir o bocal. Motor em marcha tem faísca e escapamento quente, e a marcha lenta não resolve isso. Desligar depois é tarde: o vapor já se espalhou. Lanterna de chama é fonte de ignição.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, Seção II, itens 1.12 e 2.8 (o treinamento de abastecimento; texto vigente, Rev. 1, Portaria DPC/DGN/MB nº 200/2026; o arquivo editável de anexos da DPC está desatualizado); Pennsylvania Fish and Boat Commission, Safe Fueling",
+   "fonte_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/fishandboat/documents/education/activitiesandeducationportal/safefueling.pdf"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 2,
+   "enunciado": "Uma lancha com motor a gasolina instalado no porão acabou de abastecer. O que fazer <strong>antes</strong> de dar a partida?",
+   "alternativas": [
+    "Dar a partida em seguida, porque o vapor sai pelo escapamento com o motor funcionando",
+    "Ligar o exaustor por cerca de 30 segundos, tempo suficiente para renovar o ar do porão",
+    "Conferir o cheiro só na cabine, porque o vapor de gasolina sobe e se acumula no teto",
+    "Abrir as escotilhas, ligar o exaustor por 4 minutos e cheirar o porão antes da partida"
+   ],
+   "correta": 3,
+   "explicacao": "O vapor de gasolina é mais pesado que o ar e se acumula no porão. A NORMAM-211 recomenda ventilar o compartimento do motor de centro a gasolina por pelo menos 4 minutos antes da partida, e cheirar o porão: se houver cheiro, não dá partida. Dar a partida logo coloca a faísca do arranque dentro da mistura. Trinta segundos não trocam o ar do porão. E o vapor desce, não sobe: o teto da cabine é o lugar errado para procurar.",
+   "referencia": "NORMAM-211/DPC, Anexo 4-B, item 4.1 (recomenda ventilação por pelo menos 4 minutos antes da partida de motor de centro a gasolina); BoatUS, Dangerous gases aboard",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 3,
+   "enunciado": "Há cheiro de gás de cozinha (GLP) na cabine de um veleiro, com o fogão apagado. O GLP é mais pesado que o ar. Qual é a atitude correta?",
+   "alternativas": [
+    "Fechar o registro do botijão, ventilar as partes baixas e não usar interruptores nem chamas",
+    "Acender um fósforo junto ao fogão, observando a chama, para localizar o vazamento do gás",
+    "Fechar todas as escotilhas e vigias, para que o gás fique preso e não se espalhe pelo barco",
+    "Abrir só as escotilhas altas e esperar um pouco, porque o gás sobe e escapa pelo alto do barco"
+   ],
+   "correta": 0,
+   "explicacao": "Sem fonte de ignição e com o registro fechado, o gás deixa de chegar. A ventilação precisa alcançar o fundo da cabine e a sentina, onde o GLP se acumula por ser mais pesado que o ar. Acender fósforo é criar uma chama que pode causar explosão. Fechar o barco prende o gás em volta de quem está a bordo. E o GLP não sobe: abrir só as escotilhas altas deixa o gás parado embaixo.",
+   "referencia": "BoatUS, Dangerous gases aboard (propano mais pesado que o ar, acumula-se na sentina)",
+   "fonte_url": "https://boatus.com/expert-advice/expert-advice-archive/2020/june/dangerous-gases-aboard"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 2,
+   "enunciado": "O óleo de uma frigideira pega fogo na cozinha de uma lancha. Qual é a melhor atitude?",
+   "alternativas": [
+    "Jogar água na frigideira para esfriar o óleo depressa, antes que ele se espalhe pelo fogão",
+    "Levar a frigideira em chamas até a borda do barco e jogá-la no mar, para apagar o fogo",
+    "Desligar o fogo e abafar a frigideira com uma tampa ou um pano úmido bem torcido",
+    "Abanar as chamas com uma toalha seca, para afastá-las da panela e do fogão, até apagarem"
+   ],
+   "correta": 2,
+   "explicacao": "Tampar ou cobrir tira o oxigênio (abafamento), e desligar o fogo tira a fonte de calor. Jogar água em óleo quente faz o óleo espirrar e espalha o fogo. Levar a frigideira em chamas até a borda queima quem a carrega e derruba óleo aceso pelo caminho. Abanar dá mais oxigênio à chama.",
+   "referencia": "CBMES-ES, Apostila CFBP 2022 (óleos e gorduras, incluídos na classe B pela apostila; abafamento com tampa); Marinha do Brasil, Revista Passadiço (incêndio classe K)",
+   "fonte_url": "https://portaldeperiodicos.marinha.mil.br/index.php/passadico/article/download/2408/2357/8818"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 2,
+   "enunciado": "O cesto de cabos, na proa de uma lancha parada, pega fogo. Para proteger as pessoas enquanto se combate o fogo, como posicionar a embarcação em relação ao vento?",
+   "alternativas": [
+    "Com a proa ao vento, para o vento soprar sobre o fogo e ajudar a esfriá-lo",
+    "Com a popa ao vento, para o vento levar chamas e fumaça para a frente, longe das pessoas",
+    "Com o barco de través para o vento, para o fogo se espalhar só pelo bordo de sotavento",
+    "Mantendo a posição atual, porque o vento não influi no comportamento do fogo a bordo"
+   ],
+   "correta": 1,
+   "explicacao": "Com fogo na proa, o vento que vem da popa carrega chamas e fumaça para a frente, longe de quem combate na popa. Com a proa ao vento, as chamas vêm para dentro do barco, e o vento alimenta o fogo em vez de esfriá-lo. De través, o vento espalha o fogo pelo convés. Manter a posição é erro, porque a posição em relação ao vento influi muito no fogo.",
+   "referencia": "Boat-Ed, If a fire erupts on your boat; Transport for NSW, Fire on board",
+   "fonte_url": "https://www.boat-ed.com/iowa/studyGuide/If-a-Fire-Erupts-on-Your-Boat/10101301_35836/"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 3,
+   "enunciado": "Há fumaça e chamas saindo da escotilha do motor de centro de uma lancha em movimento. Qual sequência de ações é a mais adequada?",
+   "alternativas": [
+    "Abrir a escotilha para ver o foco, jogar o extintor sobre as chamas e só depois cortar o combustível",
+    "Manter o motor em marcha para chegar logo a terra e só então combater o fogo, com o barco parado",
+    "Esperar o fogo se apagar sozinho por falta de oxigênio, vigiando de longe e sem usar o extintor",
+    "Parar o motor, dar o alarme, fechar o combustível, usar o extintor por uma fresta e pedir socorro"
+   ],
+   "correta": 3,
+   "explicacao": "Parar o motor e cortar o combustível tira o que alimenta o fogo; o extintor entra por uma abertura pequena, para não dar oxigênio às chamas, e o socorro é chamado cedo, com todos de colete. Abrir a escotilha de uma vez dá uma golfada de oxigênio ao fogo. Manter o motor em marcha mantém o combustível chegando e o vento do deslocamento aviva o fogo. Esperar não funciona: o fogo pode crescer e chegar ao tanque.",
+   "referencia": "BoatUS, How to handle an engine compartment fire; Boat-Ed, If a fire erupts on your boat",
+   "fonte_url": "https://boatus.com/expert-advice/expert-advice-archive/2022/february/how-to-handle-an-engine-compartment-fire"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 3,
+   "enunciado": "Uma lancha tem 240 L de combustível utilizáveis e consome 20 L/h a 20 nós. Pela regra de um terço do Anexo 4-B da NORMAM-211 (1/3 para a ida, 1/3 para a volta e 1/3 de reserva), qual a maior distância de ida que o plano de navegação pode prever?",
+   "alternativas": [
+    "80 milhas náuticas",
+    "120 milhas náuticas",
+    "160 milhas náuticas",
+    "240 milhas náuticas"
+   ],
+   "correta": 0,
+   "explicacao": "Um terço de 240 L é 80 L. A 20 L/h, 80 L duram 80 ÷ 20 = 4 h, e 4 h a 20 nós dão 4 × 20 = <strong>80 milhas náuticas</strong> de ida. 120 milhas viria de usar metade do combustível na ida (120 L, 6 h). 160 milhas viria de usar dois terços (160 L, 8 h), sem sobrar para a volta e a reserva. 240 milhas supõe gastar o tanque inteiro (12 h) só na ida.",
+   "referencia": "NORMAM-211/DPC, Anexo 4-B, item 4.2 (regra de um terço)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Incêndio e combustíveis",
+   "dificuldade": 2,
+   "enunciado": "A ficha de segurança da gasolina informa que o vapor queima quando a mistura com o ar tem de 1,3% a 7,1% de vapor. No compartimento fechado do porão, um medidor acusa 3% de vapor de gasolina. O que isso significa?",
+   "alternativas": [
+    "A mistura está abaixo do limite inferior, pobre demais para queimar e portanto segura",
+    "A mistura está acima do limite superior, rica demais para queimar e portanto segura",
+    "A mistura está dentro da faixa inflamável: uma faísca é suficiente para acendê-la",
+    "Só haveria perigo se a temperatura chegasse a 257 °C, que é a temperatura de autoignição"
+   ],
+   "correta": 2,
+   "explicacao": "3% está entre 1,3% e 7,1%: a mistura é inflamável, e qualquer faísca (interruptor, estática, motor de arranque) pode acendê-la. Abaixo de 1,3% a mistura seria pobre demais, e acima de 7,1% seria rica demais; 3% não está em nenhum desses casos. A autoignição de 257 °C só importa quando não há faísca: com uma faísca presente, a mistura acende muito abaixo disso.",
+   "referencia": "FDS Gasolina A (Petrobras), seção 9: limites de inflamabilidade 1,3% a 7,1% e autoignição 257 °C",
+   "fonte_url": "https://www.vibraenergia.com.br/sites/default/files/2021-08/seguranca-gasolina-a-comum.pdf"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Qual característica é própria do colete salva-vidas de <strong>espuma</strong>, em comparação com o inflável?",
+   "alternativas": [
+    "É mais leve e fino, por isso confortável para usar o dia inteiro sem incomodar",
+    "Flutua sempre, sem depender de cilindro de CO2, de cartucho ou de qualquer acionamento",
+    "Só passa a flutuar depois de molhado ou de a alça ser puxada, o que leva alguns segundos",
+    "Precisa trocar o cilindro de CO2 e o cartucho automático a cada temporada de uso"
+   ],
+   "correta": 1,
+   "explicacao": "A espuma tem flutuação própria: não há mecanismo que possa falhar, mas ela é mais volumosa e mais quente. Ser leve e fino é vantagem do inflável. Depender de molhar ou de puxar a alça também é característica do inflável, assim como a revisão do cilindro de CO<sub>2</sub> e do cartucho automático.",
+   "referencia": "Transport for NSW, Lifejacket care (colete de espuma e colete inflável)",
+   "fonte_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment/lifejacket-care"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 1,
+   "enunciado": "Sobre a EPIRB exigida pela NORMAM-211, qual forma de transmissão do sinal de socorro está correta?",
+   "alternativas": [
+    "Pelo VHF, no canal 16, com uma mensagem de voz gravada previamente",
+    "Pela frequência de 121,5 MHz, ainda processada pelo sistema Cospas-Sarsat",
+    "Por rádio HF, na frequência de 4.125 kHz, usada para chamada e escuta",
+    "Por satélite, na faixa de 406 MHz, pelo sistema Cospas-Sarsat"
+   ],
+   "correta": 3,
+   "explicacao": "A norma diz que a EPIRB deve transmitir o sinal de socorro por satélite, na faixa de 406 MHz (art. 4.23.6, alínea c). O VHF no canal 16 não é o canal da baliza. A frequência de 121,5 MHz não é mais processada pelo Cospas-Sarsat desde fevereiro de 2009. O HF em 4.125 kHz é frequência de chamada e escuta do rádio HF de bordo (art. 4.23.4, alínea b), e não da baliza.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6, alínea c; art. 4.23.4, alínea b",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Você comprou uma EPIRB 406 MHz nova, de tipo aprovado, para o veleiro. Além de instalá-la, que providência a NORMAM-211 exige?",
+   "alternativas": [
+    "Cadastrá-la no INFOSAR, do DECEA, e manter os dados atualizados",
+    "Registrá-la apenas na marina, que repassa os dados à Marinha do Brasil quando necessário",
+    "Registrá-la na Anatel como estação de rádio do barco, junto com o VHF fixo",
+    "Nenhuma, porque o cadastro vale só para embarcações de grande porte ou iates"
+   ],
+   "correta": 0,
+   "explicacao": "A norma manda cadastrar toda EPIRB no INFOSAR (infosar.decea.mil.br), e os dados, como proprietário e telefones, precisam ser atualizados. A marina não faz esse registro. A Anatel licencia a estação de rádio do navio, mas não é o órgão do cadastro de balizas. Ser de tipo aprovado é outra exigência: não dispensa o cadastro, que vale para toda EPIRB.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6, alíneas e e f",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro classificado para navegação oceânica fará uma travessia com 7 pessoas a bordo. Qual é a dotação mínima de coletes e de balsas salva-vidas segundo a NORMAM-211?",
+   "alternativas": [
+    "7 coletes classe II e uma balsa inflável para apenas 4 pessoas",
+    "7 coletes classe I, sem balsa, bastando um bote inflável de apoio para a travessia",
+    "7 coletes classe I (SOLAS) e balsas infláveis com lugar para as 7 pessoas",
+    "4 coletes classe I e balsas infláveis com lugar para as 7 pessoas"
+   ],
+   "correta": 2,
+   "explicacao": "Na navegação oceânica os coletes são classe I (SOLAS), em número igual ao de pessoas, e as balsas infláveis cobrem 100% das pessoas a bordo. Classe II é a da navegação costeira, e balsa para só 4 de 7 pessoas deixaria gente sem lugar. Dispensar a balsa e recomendar um bote inflável vale para a navegação costeira. Menos coletes que pessoas nunca é permitido.",
+   "referencia": "NORMAM-211/DPC, arts. 4.13 e 4.14",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante cai de uma lancha, sem colete, em água a 8 °C. Ele já controlou a respiração depois do choque inicial. Pelo princípio 1-10-1, o que fazer nos cerca de 10 minutos seguintes?",
+   "alternativas": [
+    "Nadar sem parar até uma margem distante, pois o exercício aquece o corpo e mantém a força",
+    "Agir logo para sair da água ou agarrar algo que flutue, enquanto ainda há força",
+    "Ficar imóvel, esperando uma hora para se mexer, quando a hipotermia começa a aparecer",
+    "Tirar a roupa e os sapatos para nadar com mais facilidade até a margem mais próxima"
+   ],
+   "correta": 1,
+   "explicacao": "O “10” da regra é a janela de cerca de 10 minutos em que os músculos ainda funcionam: é o tempo de se salvar, subindo no barco, segurando algo que flutue ou sinalizando. Depois, o frio tira a força dos membros. Nadar longe gasta calor e força. Esperar uma hora desperdiça o único período de ação útil. Tirar roupa não ajuda: mesmo molhada, ela retém um pouco de calor.",
+   "referencia": "Giesbrecht, princípio 1-10-1 (McGill Office for Science and Society); Transport for NSW, Cold water and hypothermia",
+   "fonte_url": "https://www.mcgill.ca/oss/article/medical-did-you-know/professor-popsicles-physiological-proof"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 1,
+   "enunciado": "Sozinho na água fria, de colete e sem barco por perto, qual postura ajuda a reduzir a perda de calor (posição HELP)?",
+   "alternativas": [
+    "Corpo esticado e braços abertos, para boiar melhor e ver o barco ao longe",
+    "Pedalando com as pernas, para manter o corpo aquecido e reagir ao frio",
+    "Nadando devagar em círculos, para manter a circulação do sangue e o corpo aquecido",
+    "Joelhos encolhidos junto ao peito e braços cruzados sobre o peito, parado"
+   ],
+   "correta": 3,
+   "explicacao": "Na posição HELP o corpo se encolhe e protege as áreas que mais perdem calor (axilas, peito e virilha), e o colete mantém o rosto fora da água. Esticar o corpo expõe essas áreas. Pedalar ou nadar em círculos gasta energia e acelera a perda de calor.",
+   "referencia": "Transport for NSW, Cold water and hypothermia (posição HELP)",
+   "fonte_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/emergencies/cold-and-hypothermia"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante cai da lancha em movimento. Qual é a atitude imediata mais importante de quem vê a queda?",
+   "alternativas": [
+    "Gritar “homem ao mar”, jogar a boia perto dele e não perder a pessoa de vista",
+    "Deixar de olhar para ele para preparar o bote de apoio e lançá-lo à água depressa",
+    "Pular na água de colete para ajudá-lo a nadar de volta até o barco, sem demora",
+    "Acelerar ao máximo para voltar ao local da queda antes que ele se afaste muito"
+   ],
+   "correta": 0,
+   "explicacao": "Jogar flutuação na hora dá apoio a quem caiu, e quem aponta mantém a posição da pessoa, que some rápido no mar. Deixar de olhar para ele faz perder a pessoa de vista. Pular na água cria uma segunda vítima. Acelerar sem direção arrisca atropelar quem caiu e leva o barco para longe do ponto da queda.",
+   "referencia": "Transport for NSW, Person overboard",
+   "fonte_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/emergencies/person-overboard"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Qual pirotécnico foi concebido para ser visto de <strong>mais longe</strong>, chamando a atenção de embarcações e aeronaves ainda distantes?",
+   "alternativas": [
+    "Facho manual de luz vermelha, segurado para fora da borda, para indicar a posição à noite",
+    "Sinal fumígeno flutuante laranja, lançado sobre a água para marcar a posição de dia",
+    "Foguete manual com paraquedas, que sobe bem alto e solta uma forte luz vermelha no ar",
+    "Lanterna estroboscópica presa ao colete, acionada na água para ser vista de perto"
+   ],
+   "correta": 2,
+   "explicacao": "O foguete com paraquedas sobe a cerca de 300 m e solta uma luz vermelha de 30.000 candelas por 40 segundos (art. 4.16, alínea a): é visível a grande distância, por isso é o sinal de longo alcance. O facho manual de 15.000 candelas serve para indicar a posição à noite a quem já se aproxima (art. 4.16, alínea b). O fumígeno laranja é sinal diurno, para marcar a posição na água. A lanterna estroboscópica não é pirotécnico e tem alcance bem menor.",
+   "referencia": "NORMAM-211/DPC, art. 4.16, alíneas a), b) e c); RIPEAM, Anexo IV, item 1(i)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Em qual situação o abandono da embarcação, para a balsa ou o bote, é a decisão mais adequada?",
+   "alternativas": [
+    "Quando o motor para e o vento aumenta, mesmo com o barco ainda flutuando bem e sem avarias",
+    "Quando o barco está afundando de forma irreversível ou há incêndio fora de controle",
+    "Quando aparece um pouco de água na sentina, antes mesmo de tentar esgotá-la com a bomba",
+    "Quando o barco vira, mas continua flutuando emborcado, com o casco à vista na água"
+   ],
+   "correta": 1,
+   "explicacao": "Um barco, mesmo avariado, é mais seguro e mais fácil de achar do que uma balsa ou uma pessoa na água. Abandona-se só quando ele afunda ou há fogo que não se controla. Motor parado com o barco boiando se resolve com âncora e pedido de ajuda. Água na sentina se esgota com a bomba. Um casco virado que flutua serve de apoio: o mais seguro é ficar junto dele, de colete.",
+   "referencia": "Transport for NSW, Capsizing and swamping; Transport for NSW, Fire on board",
+   "fonte_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/emergencies/capsizing-and-swamping"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 3,
+   "enunciado": "Um tripulante cai à noite de um veleiro, a 40 milhas da costa, e ninguém percebe. Qual equipamento, preso ao colete dele, pode transmitir por satélite um alerta de socorro com a posição?",
+   "alternativas": [
+    "A EPIRB do veleiro, guardada no suporte do cockpit e acionada à mão",
+    "Um VHF portátil estanque, ligado no canal 16 e com a bateria cheia",
+    "Uma lanterna estroboscópica presa ao colete, para ser vista de longe pelos outros",
+    "Uma radiobaliza pessoal (PLB) de 406 MHz, presa ao colete"
+   ],
+   "correta": 3,
+   "explicacao": "O PLB é a baliza de uso pessoal do sistema Cospas-Sarsat (as outras duas são a EPIRB, marítima, e a ELT, de aviação): vai com a pessoa e informa a posição por satélite. A EPIRB do veleiro fica no suporte do cockpit, longe de quem caiu, e não acompanha o náufrago. O VHF portátil tem alcance de poucas milhas e não usa satélite. A estroboscópica só ajuda a ser visto de perto.",
+   "referencia": "DECEA/INFOSAR, Central de Ajuda: quais os tipos de balizas (ELT, EPIRB e PLB)",
+   "fonte_url": "https://ajuda.decea.mil.br/base-de-conhecimento/quais-os-tipos-de-balizas-de-emergencias-que-existem-para-aeronaves-e-embarcacoes/"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 3,
+   "enunciado": "Depois do naufrágio, um tripulante de colete, na água fria, propõe tirar as roupas e os sapatos “para nadar melhor”. Qual é a melhor resposta?",
+   "alternativas": [
+    "Melhor ficar vestido: a roupa molhada retém calor, e o colete mantém você boiando",
+    "Concordo: a roupa molhada esfria o corpo mais do que a pele nua exposta à água",
+    "Concordo: o colete só funciona direito quando é vestido direto sobre a pele",
+    "Só o casaco deve ficar, porque as mangas compridas prendem água e esfriam o corpo todo"
+   ],
+   "correta": 0,
+   "explicacao": "Mesmo molhada, a roupa mantém junto à pele uma camada de água que o corpo aquece e retarda a perda de calor; além disso, o colete garante a flutuação. A roupa molhada não esfria mais que a pele nua exposta à água, e o colete funciona normalmente por cima da roupa. Manter só o casaco perde proteção sem ganhar nada.",
+   "referencia": "BoatUS Foundation, Cold Water (“Do not remove clothing”: a água presa na roupa se aquece); Transport for NSW, Cold water and hypothermia (colete sobre a roupa)",
+   "fonte_url": "https://www.boatus.org/study-guide/prep/cold-water/"
+  },
+  {
+   "tema": "Salvatagem e sobrevivência",
+   "dificuldade": 1,
+   "enunciado": "Qual destes é reconhecido como sinal de perigo pelo Anexo IV do RIPEAM?",
+   "alternativas": [
+    "Içar a bandeira “A” (Alfa), azul e branca, no mastro, para avisar de mergulhador na água",
+    "Soar três apitos curtos seguidos, que significam “estou dando máquina a ré”",
+    "Movimentos lentos, para cima e para baixo, com os braços esticados para os lados",
+    "Apagar todas as luzes de navegação do barco, para não ser visto por outras embarcações"
+   ],
+   "correta": 2,
+   "explicacao": "O Anexo IV lista, entre os sinais de perigo, o movimento lento e repetido dos braços estendidos para os lados (item 1, alínea k). A bandeira “A” do Código Internacional avisa que há mergulhador na água. Três apitos curtos indicam máquina a ré. Apagar as luzes deixa o barco invisível e não é sinal de perigo.",
+   "referencia": "RIPEAM, Regra 37 e Anexo IV, item 1(k)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 1,
+   "enunciado": "Em qual situação é preciso iniciar a reanimação cardiopulmonar (RCP) em um adulto a bordo?",
+   "alternativas": [
+    "Ele está pálido e suado, mas conversa normalmente e responde a todas as perguntas",
+    "Ele não responde e não respira normalmente, ou só faz “puxadas” raras de ar",
+    "Ele vomitou, está sonolento, mas respira normalmente e reage quando é chamado",
+    "Ele está acordado e alerta, mas o pulso do punho está difícil de sentir"
+   ],
+   "correta": 1,
+   "explicacao": "A RCP é para quem não responde e não respira normalmente; as “puxadas” de ar raras e ruidosas não são respiração normal. Quem conversa está consciente e respira, então precisa de outro cuidado. Quem respira normalmente, mesmo sonolento, vai para a posição lateral de segurança e é vigiado. Pulso fraco numa pessoa acordada não é indicação de RCP.",
+   "referencia": "St John Ambulance, Primary survey (DR ABC) e CPR",
+   "fonte_url": "https://www.sja.org.uk/first-aid-advice/cpr/"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 2,
+   "enunciado": "Dois tripulantes treinados fazem RCP em um adulto, num barco sem ajuda por perto. De quanto em quanto tempo convém trocar quem faz as compressões?",
+   "alternativas": [
+    "A cada 10 minutos, para não perder o ritmo e não cansar a pessoa que comprime",
+    "A cada 1 a 2 minutos, com a menor pausa possível",
+    "A cada 15 segundos, para que ninguém se canse e o ritmo seja mantido",
+    "Nunca: quem começou deve continuar até a ajuda chegar, mesmo cansado"
+   ],
+   "correta": 1,
+   "explicacao": "Comprimir o peito cansa depressa e a qualidade cai; por isso se revezam a cada 1 a 2 minutos, com pausa mínima. Esperar 10 minutos deixa as compressões fracas. Trocar a cada 15 segundos interrompe demais o fluxo de sangue. Insistir sozinho até o fim é pior que revezar quando há outra pessoa.",
+   "referencia": "St John Ambulance, Drowning (revezamento a cada 1 a 2 minutos)",
+   "fonte_url": "https://www.sja.org.uk/first-aid-advice/drowning/"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 2,
+   "enunciado": "Uma queimadura de água fervente no antebraço formou bolhas. Depois de resfriar a área em água corrente limpa e fresca (sem gelo) por 20 minutos, o correto é:",
+   "alternativas": [
+    "Cobrir com filme plástico de cozinha, sem apertar, e não estourar as bolhas",
+    "Estourar as bolhas com uma agulha esterilizada, para aliviar a pressão da pele",
+    "Passar pasta de dente sobre a queimadura e deixá-la descoberta para secar mais depressa",
+    "Envolver a área com gaze de algodão bem apertada e passar manteiga por cima do curativo"
+   ],
+   "correta": 0,
+   "explicacao": "Depois do resfriamento, a área é coberta com filme plástico solto (ela vai inchar), e as bolhas protegem a pele: estourá-las abre caminho para infecção. A pasta de dente pode infeccionar a ferida, e a manteiga também aumenta o risco de infecção, além de reter calor. A gaze de algodão grudaria na ferida, e apertar prejudica a circulação quando a área incha.",
+   "referencia": "St John Ambulance, Burns and scalds; NHS, Burns and scalds",
+   "fonte_url": "https://www.sja.org.uk/first-aid-advice/burns-and-scalds/"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 3,
+   "enunciado": "Um tripulante é retirado da água fria tremendo, pálido e confuso, com vento no cockpit. Qual conjunto de medidas é o mais adequado?",
+   "alternativas": [
+    "Dar banho de água bem quente e uma dose de bebida alcoólica para esquentá-lo rápido por dentro",
+    "Esfregar com força braços e pernas e encostar uma bolsa de água quente direto na pele dele",
+    "Abrigá-lo do vento, trocar a roupa molhada por seca, cobrir a cabeça, isolá-lo do piso e pedir ajuda",
+    "Fazê-lo andar pelo convés para aquecer com o exercício, mantendo a roupa molhada sob um casaco quente"
+   ],
+   "correta": 2,
+   "explicacao": "A hipotermia se trata com abrigo do vento, roupa seca, cabeça coberta, isolamento do frio do piso e pedido de ajuda, porque é emergência médica. Se a pessoa estiver bem acordada, bebida morna e doce. Banho muito quente e álcool pioram a perda de calor e o quadro. Esfregar os membros e usar fonte de calor direta podem causar lesões e queimaduras. Exercício com roupa molhada continua tirando calor do corpo.",
+   "referencia": "St John Ambulance, Hypothermia; NHS, Hypothermia",
+   "fonte_url": "https://www.sja.org.uk/first-aid-advice/hypothermia/"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 2,
+   "enunciado": "Numa lancha com o gerador ligado e a cabine fechada, dois passageiros sentem dor de cabeça, tontura e enjoo, que melhoram quando saem para o convés. Qual é a suspeita e a conduta?",
+   "alternativas": [
+    "Enjoo comum de mar: deitá-los na cabine fechada, oferecendo água e esperando melhorar",
+    "Insolação: mantê-los na cabine e resfriá-los com panos molhados até a temperatura baixar",
+    "Desidratação: dar líquidos dentro da cabine e esperar que os sintomas passem sozinhos",
+    "Intoxicação por monóxido de carbono: levar ao ar livre, desligar a fonte e buscar ajuda"
+   ],
+   "correta": 3,
+   "explicacao": "Dor de cabeça, tontura e enjoo que melhoram ao sair do ambiente fechado, com gerador ou motor ligado, apontam para o monóxido de carbono, gás sem cheiro. A conduta é levar as pessoas ao ar livre, desligar a fonte, ventilar e chamar ajuda médica. Enjoo comum não explica a melhora ao sair da cabine, e deitar na cabine mantém a exposição ao gás. A insolação pede resfriamento e sombra, mas a melhora ao sair da cabine, com o gerador ligado, aponta para o gás. A desidratação não explica os sintomas que melhoram ao sair do ambiente fechado.",
+   "referencia": "NHS, Carbon monoxide poisoning",
+   "fonte_url": "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 2,
+   "enunciado": "Um passageiro adulto está engasgado: leva as mãos ao pescoço e não consegue tossir nem emitir som. Pela orientação do St John Ambulance, qual é a primeira medida de desobstrução?",
+   "alternativas": [
+    "Dar água para empurrar o objeto para o estômago e assim liberar a passagem de ar",
+    "Colocar os dedos fundo na garganta para tentar puxar o objeto com a mão livre",
+    "Deitá-lo de costas no chão e iniciar logo de imediato as compressões no meio do peito",
+    "Inclinar o tronco dele para a frente e dar até cinco golpes firmes nas costas"
+   ],
+   "correta": 3,
+   "explicacao": "Se a pessoa não consegue tossir, o primeiro passo são até cinco golpes firmes nas costas, com o tronco inclinado para a frente. Se não resolver, seguem-se até cinco compressões abdominais. Dar água a quem está obstruído não resolve e pode agravar. Dedos fundo na garganta podem empurrar o objeto mais para dentro. Compressões no peito, na RCP, são para quem fica inconsciente e não respira. Materiais mais antigos, ainda comuns, começam pelas compressões abdominais (manobra de Heimlich); a American Heart Association atualizou as suas recomendações em outubro de 2025 e passou a começar pelos golpes nas costas, segundo o Corpo de Bombeiros Militar do Paraná.",
+   "referencia": "St John Ambulance, Choking; Corpo de Bombeiros Militar do Paraná, Engasgo: alerta para mudança na manobra (2025)",
+   "fonte_url": "https://www.sja.org.uk/first-aid-advice/choking/"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 1,
+   "enunciado": "Qual aplicativo a NORMAM-211 indica como fonte de orientações de primeiros socorros?",
+   "alternativas": [
+    "O aplicativo da Cruz Vermelha, o “FICR”, no celular",
+    "O aplicativo “Boletim ao Mar”, da Marinha, com previsões de tempo e avisos",
+    "O aplicativo “NAVSEG”, para registrar o plano de viagem da embarcação",
+    "A plataforma INFOSAR, do DECEA, para cadastro de balizas e radiobalizas"
+   ],
+   "correta": 0,
+   "explicacao": "A nota do art. 4.21 diz que as orientações de primeiros socorros estão no aplicativo FICR, da Cruz Vermelha. O Boletim ao Mar traz previsão do tempo. O NAVSEG é o aplicativo de plano de viagem. O INFOSAR é o cadastro de radiobalizas.",
+   "referencia": "NORMAM-211/DPC, art. 4.21, Nota",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante de um veleiro a 20 milhas da costa está com febre alta e dor forte, e não melhora. Qual é o caminho mais adequado para obter orientação médica?",
+   "alternativas": [
+    "Chamar a Polícia Militar pelo telefone 190 e aguardar a orientação",
+    "Telefonar para a marina de origem e esperar o retorno da equipe",
+    "Chamar o SALVAMAR pelo VHF, canal 16, ou pelo telefone 185",
+    "Aguardar o desembarque, anotando com cuidado os sintomas para o médico da cidade"
+   ],
+   "correta": 2,
+   "explicacao": "O SALVAMAR atende 24 horas pedidos vindos do mar, inclusive de pessoas que adoecem a bordo e precisam de orientação médica ou de evacuação, pelo rádio ou pelo 185. A Polícia Militar não é o serviço de socorro no mar. A marina pode demorar e não dá orientação médica. Esperar pode agravar o quadro.",
+   "referencia": "SALVAMAR (Marinha do Brasil), serviço 185 – Emergências Marítimas",
+   "fonte_url": "https://www.marinha.mil.br/cpm/185"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 2,
+   "enunciado": "Depois de um corte profundo que sangrou muito, o tripulante está pálido, com pele fria e suada, pulso rápido e fraco e agitado. Com o sangramento já controlado, o que fazer?",
+   "alternativas": [
+    "Sentá-lo e dar bastante água fria, para repor o líquido que perdeu com o sangramento intenso",
+    "Deitá-lo, elevar as pernas, agasalhá-lo, afrouxar as roupas, acalmá-lo e pedir ajuda",
+    "Deixá-lo de pé e caminhando, para ativar a circulação e sair do choque",
+    "Deitá-lo com a cabeça bem alta sobre almofadas e sem cobri-lo, para não suar"
+   ],
+   "correta": 1,
+   "explicacao": "Os sinais indicam choque, por perda de sangue. Trata-se deitando a pessoa, elevando as pernas (sem fratura nelas), cobrindo-a para manter o calor, afrouxando roupas apertadas e acalmando-a, enquanto se pede ajuda. Dar líquidos pode piorar se ela precisar de cirurgia ou ficar inconsciente. Andar gasta a pouca circulação disponível. Cabeça alta reduz o sangue que chega ao cérebro, e descobrir a pessoa a esfria.",
+   "referencia": "St John Ambulance, Shock",
+   "fonte_url": "https://www.sja.org.uk/first-aid-advice/shock/"
+  },
+  {
+   "tema": "Primeiros socorros",
+   "dificuldade": 3,
+   "enunciado": "Um nadador foi retirado da água, tossiu bastante, voltou a respirar normalmente e diz estar bem. Qual é a conduta mais adequada?",
+   "alternativas": [
+    "Deixá-lo voltar à água depois de 10 minutos de descanso, se ele se sentir bem para nadar",
+    "Deitá-lo de bruços e apertar o abdômen com força para tirar a água dos pulmões",
+    "Considerar o caso resolvido, já que ele respira e conversa normalmente com a equipe",
+    "Agasalhá-lo, mantê-lo em observação e procurar avaliação médica, mesmo que pareça bem"
+   ],
+   "correta": 3,
+   "explicacao": "Quem passou por um afogamento, mesmo sem precisar de RCP, pode piorar depois; por isso precisa ficar em observação, ser aquecido e ser avaliado por um médico. Voltar à água é arriscado. Apertar o abdômen não retira água dos pulmões e provoca vômito. E parecer bem no momento não encerra o caso.",
+   "referencia": "St John Ambulance, Drowning",
+   "fonte_url": "https://www.sja.org.uk/first-aid-advice/drowning/"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Um barco fundeado, com vento instável, tem a proa guinando para um lado e para o outro, em pequenas viradas em torno do eixo vertical. Esse movimento chama-se:",
+   "alternativas": [
+    "cabeceio, guinadas da proa em torno do eixo vertical",
+    "balanço, oscilação transversal de um bordo ao outro",
+    "caturro (arfagem), oscilação de proa e popa no sentido longitudinal",
+    "banda (adernamento), inclinação permanente para um dos bordos"
+   ],
+   "correta": 0,
+   "explicacao": "Cabeceio é a guinada da proa para um lado e para o outro, em torno do eixo vertical; o Manual de Navegação usa o termo para a proa que guina de um bordo a outro (item 42.4 b). O balanço é a oscilação transversal, de um bordo ao outro, e não a guinada da proa. O caturro, ou arfagem, é a oscilação longitudinal, com proa e popa subindo e descendo. A banda é a inclinação permanente para um bordo, por exemplo por peso mal distribuído.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.4 b (cabecear e guinar) e item 42.3 (balanço e caturro); NORMAM-211/DPC, Anexo 5-A, item 3.1 i)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Num veleiro, onde guardar, para favorecer a estabilidade, dois galões de água de 20 L e a âncora de reserva?",
+   "alternativas": [
+    "Sobre a cabine, onde há mais espaço livre para guardar a carga com facilidade",
+    "Presos ao guarda-corpo de um só bordo, para compensar o peso do motor de centro",
+    "No fundo do barco, perto da linha de centro, bem peiados",
+    "Todos no paiol da proa, o mais longe possível do centro de gravidade do barco"
+   ],
+   "correta": 2,
+   "explicacao": "Peso baixo e junto à linha de centro mantém o centro de gravidade baixo e o barco equilibrado, e peiar impede que a carga corra numa guinada. Peso sobre a cabine sobe o centro de gravidade, e peso preso ao guarda-corpo de um só bordo faz o barco adernar. Na proa, o barco fica abicado, o que piora o comportamento nas ondas.",
+   "referencia": "NORMAM-211/DPC, Anexo 4-B, itens 1.4 (armazenar e peiar) e 9 (estabilidade e centro de gravidade); Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.3 (peiação e estabilidade)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Além de ser peso extra, por que a água solta na sentina de um barco pequeno reduz a estabilidade quando ele aderna?",
+   "alternativas": [
+    "Porque ela reduz o volume submerso do casco e, com isso, diminui o empuxo sobre o barco",
+    "Porque corre para o bordo mais baixo e desloca o centro de gravidade (superfície livre)",
+    "Porque ela fica sempre no meio do barco, sem se mover, e o faz afundar mais de proa",
+    "Porque ela sobe pelas paredes do casco e eleva o centro de gravidade até o convés"
+   ],
+   "correta": 1,
+   "explicacao": "Líquido com superfície livre se desloca para o lado que baixou, levando o peso junto e ajudando o barco a adernar mais: é o efeito de superfície livre, por isso se mantêm a sentina seca e os tanques cheios ou vazios (item 42.3). A alternativa sobre o volume submerso está invertida: o empuxo aumenta com o volume submerso, que cresce com o peso a bordo. A água não fica parada no meio: se ficasse, não ajudaria a adernar. Ela fica no fundo do casco e corre para o lado baixo, sem subir pelas paredes até o convés.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.3 (superfície livre: tanques pela metade e sentina)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "A placa do construtor de uma lancha informa capacidade máxima de 450 kg de pessoas e carga. Estão a bordo 4 adultos de 80 kg, uma criança de 30 kg, uma caixa térmica de 45 kg e mochilas que somam 25 kg. Quantos quilos ainda podem ser acrescentados sem passar da capacidade?",
+   "alternativas": [
+    "60 kg",
+    "75 kg",
+    "100 kg",
+    "30 kg"
+   ],
+   "correta": 3,
+   "explicacao": "Peso a bordo: 4 × 80 = 320 kg; mais 30 kg da criança = 350 kg; mais 45 kg da caixa = 395 kg; mais 25 kg das mochilas = 420 kg. Sobram 450 − 420 = <strong>30 kg</strong>. 60 kg resulta de esquecer a criança (450 − 390). 75 kg, de esquecer a caixa térmica (450 − 375). 100 kg, de contar só as pessoas (450 − 350) e deixar a carga de fora. Passar da capacidade reduz a borda livre e a estabilidade.",
+   "referencia": "NORMAM-211/DPC, arts. 3.9.1 (Manual do Proprietário: peso máximo admissível), 3.27.1 (lotação de embarcações com menos de 24 m) e 4.3.6 (proibido exceder a lotação)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 3,
+   "enunciado": "Um estaleiro troca o lastro de um veleiro por outro mais pesado e mais baixo na quilha, o que abaixa o centro de gravidade e aumenta a altura metacêntrica (GM). Segundo o Manual de Navegação, qual é o efeito?",
+   "alternativas": [
+    "Mais estabilidade inicial e período de balanço maior, ou seja, balanço mais lento",
+    "Mais estabilidade inicial e período de balanço menor, ou seja, balanço mais rápido",
+    "Menos estabilidade inicial e período de balanço menor, ou seja, balanço mais rápido",
+    "Menos estabilidade inicial e período de balanço maior, ou seja, balanço mais lento"
+   ],
+   "correta": 1,
+   "explicacao": "Quanto maior a altura metacêntrica, maior a estabilidade inicial e menor o período do balanço: o barco “duro” volta depressa, mas balança rápido e com desconforto. Um barco “mole”, com GM pequeno, balança devagar, mas é menos estável. A alternativa de balanço mais lento inverte o período. As alternativas com menos estabilidade contrariam o próprio enunciado, em que o GM aumenta.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.3 (GM maior: maior estabilidade e menor período de balanço)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 3,
+   "enunciado": "Navegando com o mar pela popa, o timoneiro sente o barco começar a “surfar” numa onda grande e a proa tende a guinar. Qual é a melhor ação?",
+   "alternativas": [
+    "Acelerar para escapar da onda, porque o leme fica mais eficiente com mais velocidade",
+    "Soltar o leme e deixar o barco se acomodar sozinho na onda, sem corrigir o rumo",
+    "Reduzir a velocidade, sem perder o governo, bem abaixo da velocidade das ondas",
+    "Colocar o barco de través às ondas, para parar de surfar e manter o rumo sem esforço"
+   ],
+   "correta": 2,
+   "explicacao": "Ao surfar, o leme perde efeito e o barco pode atravessar ao mar, ficando de lado no cavado, onde a onda seguinte pode emborcá-lo. Por isso se reduz a velocidade, bem abaixo da velocidade das ondas, mas mantendo o governo. Acelerar aumenta o surfe e os efeitos do mar grosso. Soltar o leme deixa o barco atravessar ao mar. Ficar de través expõe o casco ao balanço violento e à emborcação.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.4 b (correr com o tempo: velocidade pelo menos 40% menor que a das ondas); NORMAM-211/DPC, Anexo 4-B, item 1.8 (mar de popa)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "corrigida",
+   "motivo": "Distrator do abafamento reescrito com mais precisão. Explicação passou a justificar cada distrator pelo nome. Referência sem número de capítulo, que não consegui conferir na apostila."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Correta (antes a mais curta do grupo, com 12 caracteres) ampliada para 56 com 'diretamente sobre'; distratores em 47 a 55. Referência sem número de capítulo, não conferido."
+  },
+  {
+   "idx": 2,
+   "acao": "corrigida",
+   "motivo": "Correta e distratores com extensão parecida. Explicação passou a dizer por que cada distrator está errado (antes só explicava o etanol). Valores das FDS mantidos, como dados da ficha citada no enunciado."
+  },
+  {
+   "idx": 3,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais longa do grupo (104 caracteres). Reescrita para ter extensão parecida com os distratores. A explicação se referia a um distrator que não existia; agora cada distrator é citado pelo que afirma."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Gabarito reposicionado para equilibrar as posições. Explicação cita cada distrator. Referência precisa: a norma só lista o tema do treinamento; as medidas vêm da fonte técnica citada."
+  },
+  {
+   "idx": 5,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais longa do grupo (106 caracteres). Encurtada, e distratores ajustados para extensão parecida. Referência cita a recomendação da norma, não 'boa prática'."
+  },
+  {
+   "idx": 6,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais longa do grupo (109 caracteres) e a única com três ações. Encurtada para 91, e distratores alongados para 88 a 94."
+  },
+  {
+   "idx": 7,
+   "acao": "corrigida",
+   "motivo": "Distratores alongados para 86 a 90 caracteres (a correta tem 80). Referência ajustada: a apostila trata óleo como classe K no padrão americano e o inclui na classe B; sem seção numerada, não conferida."
+  },
+  {
+   "idx": 8,
+   "acao": "corrigida",
+   "motivo": "Distratores reescritos para 74 a 86 caracteres; a correta foi mantida com 88, e a explicação justifica cada distrator. Correção de texto: 'esfriá-lo' aplicado ao vento sobre o fogo."
+  },
+  {
+   "idx": 9,
+   "acao": "corrigida",
+   "motivo": "Correta (118 caracteres na versão anterior) encurtada e distratores ajustados para extensão parecida. Explicação cita cada distrator."
+  },
+  {
+   "idx": 10,
+   "acao": "corrigida",
+   "motivo": "Unidade 'milhas náuticas' em todas as alternativas, para uniformizar. Cálculo refeito: 240/3 = 80 L; 80 L ÷ 20 L/h = 4 h; 4 h × 20 nós = 80 milhas náuticas. Distratores conferidos (120, 160, 240)."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Correta e distratores com extensão parecida. 'Compartimento fechado' no lugar de 'paiol', termo pouco conhecido por leigos. Explicação cita cada distrator."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Distratores alongados para 78 a 88 caracteres (antes 60 a 66); correta ampliada com 'de cartucho'. Explicação cita a origem de cada distrator (característica do inflável)."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais curta do grupo (33 caracteres) e foi ampliada com a menção ao Cospas-Sarsat. Distrator de HF reescrito sem 'chamada de socorro', que não bate com o art. 4.23.4, alínea b."
+  },
+  {
+   "idx": 14,
+   "acao": "corrigida",
+   "motivo": "Distrator 'já vem registrado de fábrica' trocado: a codificação de fábrica existe, então a frase podia ser lida como verdadeira. Distrator sobre grande porte deixa claro o erro. Explicação cita cada distrator."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Correta reescrita com 'lugar para as 7 pessoas', para ter extensão parecida com os distratores (62 a 82 caracteres). Explicação cita cada distrator."
+  },
+  {
+   "idx": 16,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada (era a mais longa, 90 caracteres); distratores com extensão parecida. Explicação cita cada distrator."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Distratores alongados para 70 a 82 caracteres (antes 50 a 53, contra a correta com 73). Explicação cita cada distrator."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Correta era a mais longa (92 caracteres) e foi encurtada. Distrator 'Largar a vigia' trocado por 'Deixar de olhar para ele': 'vigia' também significa escotilha, o que confundia leigos."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Números 300 m, 30.000 cd e 40 s conferidos no texto oficial da NORMAM (art. 4.16, alínea a). Distratores alongados (81 a 89 caracteres; correta 85)."
+  },
+  {
+   "idx": 20,
+   "acao": "corrigida",
+   "motivo": "Correta reescrita para extensão semelhante às erradas (82 a 90 caracteres). Explicação cita cada distrator."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada para não ser a mais longa; distratores alongados. Explicação cita cada distrator."
+  },
+  {
+   "idx": 22,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada (era a mais longa, 89 caracteres). Explicação cita cada distrator."
+  },
+  {
+   "idx": 23,
+   "acao": "corrigida",
+   "motivo": "Distratores alongados (75 a 88 caracteres; correta 80). Explicação cita cada distrator, com o item do Anexo IV."
+  },
+  {
+   "idx": 24,
+   "acao": "corrigida",
+   "motivo": "Correta reescrita para ter extensão parecida com as erradas (antes era a mais longa, 63 caracteres). Explicação cita cada distrator."
+  },
+  {
+   "idx": 25,
+   "acao": "corrigida",
+   "motivo": "Distratores ajustados (48 a 77 caracteres). Distrator 'Nunca' mantido como absurdo evidente. Explicação cita cada distrator."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Correta (75 caracteres) era a mais longa; distratores alongados para 78 a 87. Explicação cita cada distrator (agulha, pasta de dente, gaze e manteiga)."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada (era a mais longa, 115 caracteres) para 100; distratores ajustados para 90 a 101. Explicação cita cada distrator."
+  },
+  {
+   "idx": 28,
+   "acao": "corrigida",
+   "motivo": "Gabarito reposicionado. Explicação corrigida: dizia que ficar na cabine fechada manteria a exposição ao gás para todos os distratores, o que só vale para o enjoo. Reescrita por distrator. Correta encurtada e distratores ajustados (85 a 88 caracteres)."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Distratores ajustados para 77 a 85 caracteres (correta 77). Explicação cita cada distrator."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Gabarito reposicionado. Correta (51 caracteres, antes 39) com 'no celular'; distratores alongados para 69 a 74. Explicação cita cada distrator."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "Gabarito reposicionado. Correta é a mais curta do grupo (58 caracteres); distratores alongados (63 a 80). Explicação cita cada distrator."
+  },
+  {
+   "idx": 32,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada (era a mais longa, 91 caracteres) e distrator sobre água alongado. Explicação cita cada distrator."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Gabarito reposicionado. Distratores ajustados para 78 a 88 caracteres (correta 85). Explicação cita cada distrator."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Enunciado trocado: a expressão 'de um bordo ao outro' saiu do enunciado porque também define o balanço e induzia a erro. Distratores alongados (51 a 67 caracteres). Explicação não atribui mais ao Manual uma definição literal; a referência aponta para o item 42.4 b, onde está o termo."
+  },
+  {
+   "idx": 35,
+   "acao": "corrigida",
+   "motivo": "Correta curta (56 caracteres, com 'peiados') mantida; distratores alongados para 77 a 79. Referência ajustada: o peiamento aparece no Anexo 4-B, item 1.4, e no item 42.3 do Miguens; a frase 'distribuição de pesos' da referência antiga não se sustentava."
+  },
+  {
+   "idx": 36,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada (era a mais longa, 91 caracteres). Referência corrigida: o trecho sobre superfície livre está no item 42.3 (p. 42-20), não no 42.4 c, que trata de sobrevivência em mares tempestuosos."
+  },
+  {
+   "idx": 37,
+   "acao": "corrigida",
+   "motivo": "Fonte_url trocada: apontava para o Miguens, que não traz esses artigos. Cálculo refeito: 320 + 30 + 45 + 25 = 420 kg; 450 − 420 = 30 kg. Distratores 60, 75 e 100 conferidos. Referência ao Miguens sobre 'borda livre' removida, pois o texto não traz isso."
+  },
+  {
+   "idx": 38,
+   "acao": "corrigida",
+   "motivo": "Gabarito reposicionado; alternativas com extensão parecida (81 a 83 caracteres). Explicação cita cada distrator. Referência conferida no item 42.3 (p. 42-21)."
+  },
+  {
+   "idx": 39,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada (era a mais longa, 104 caracteres). Referência inclui a fonte normativa (Anexo 4-B, item 1.8) além do Miguens."
+  },
+  {
+   "idx": 2,
+   "acao": "corrigida",
+   "motivo": "Revisão final: o rótulo \"60 °C\" do eixo saía cortado na borda direita da figura; viewBox ampliado."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Revisão final: a ordem golpes nas costas, depois compressões abdominais mudou na AHA em 2025; enunciado indica a fonte e a explicação cita a divergência com materiais antigos."
+  },
+  {
+   "idx": 22,
+   "acao": "corrigida",
+   "motivo": "Revisão final: a página da Transport for NSW não diz expressamente para manter a roupa; a fonte que diz é a BoatUS Foundation (conferida), que passou a ser a referência principal."
+  }
+ ]
+}

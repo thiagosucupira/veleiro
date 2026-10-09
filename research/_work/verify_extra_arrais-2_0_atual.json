@@ -1,0 +1,58 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-arrais-2-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://play.google.com/store/apps/details?id=boletim.ao.mar&hl=pt_BR",
+   "notes": "Página atual do Google Play (reaberta em 2026-10-08) traz Meteoromarinha 24/48h, Avisos de Mau Tempo, Cartas Sinóticas 2x/dia, meteogramas, METAREA V e Avisos-Rádio Náutico/SAR; desenvolvedor Serviços e Informações do Brasil."
+  },
+  {
+   "id": "extra-arrais-2-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://apps.apple.com/br/app/boletim-ao-mar/id1562769509",
+   "notes": "Página da App Store BR responde 200 e a API do iTunes lista 'Boletim ao Mar' por 'Servicos e Informacoes do Brasil' (última versão 2023-09), ainda disponível."
+  },
+  {
+   "id": "extra-arrais-2-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Índice da DPC ainda mostra Portaria 200 de 27/02/2026 como a vigente da NORMAM-211; art. 4.19.1 a) no texto consolidado confere (miúdas dispensadas; >=24 m com certificado/curva a cada 2 anos)."
+  },
+  {
+   "id": "extra-arrais-2-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Sem portaria posterior à 200/2026 no índice; art. 4.19.3 a) e b) do consolidado confere (grande porte/iates pós 11/02/2000; radar 9 GHz se costeira/oceânica; menores recomendado)."
+  },
+  {
+   "id": "extra-arrais-2-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Sem portaria posterior no índice; art. 4.19.2 a) confere (costeira 1, oceânica 2 GNSS, recomendação de fonte independente, obrigatório desde 31/12/2020)."
+  },
+  {
+   "id": "extra-arrais-2-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Sem portaria posterior no índice; art. 4.17 do consolidado confere integralmente (costeira 2, oceânica 4, interior só grande porte 1 facho)."
+  },
+  {
+   "id": "extra-arrais-2-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Anexo 5-A item 3.1 c) no ZIP de anexos (mais novo) tem a mesma lista: agulha magnética, odômetro, tacômetro, anemômetro, GNSS, ecobatímetro; sem portaria posterior no índice."
+  },
+  {
+   "id": "extra-arrais-2-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Anexo 5-A do ZIP de anexos traz 'comportamento das marés, curvas de marés e uso de Tábuas de Marés' no programa de Arrais-Amador; sem portaria posterior no índice."
+  },
+  {
+   "id": "extra-arrais-2-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+   "notes": "PDF oficial da DHN (Vol. III, 1ª Revisão 2026) reaberto: item 45.5.1 confere (0000 e 1200 HMG; Partes I, II, III; NIL ou NÃO HÁ)."
+  }
+ ]
+}

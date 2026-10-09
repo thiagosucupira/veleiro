@@ -1,0 +1,194 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-radio-1-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 (Portaria 200/2026) segue como a mais recente no índice DPC e o texto local do 4.23 coincide; sem alteração posterior. Art. 4.23.1 confere.",
+   "evidence_quote": "4.23.1. Transceptor fixo HF - com potência suficiente para operar a uma distância de, pelo menos, 75 milhas da costa;"
+  },
+  {
+   "id": "extra-radio-1-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 (Portaria 200/2026) segue como a mais recente no índice DPC e o texto local do 4.23 coincide; sem alteração posterior. Art. 4.23.3 confere (bateria sempre a plena carga).",
+   "evidence_quote": "A bateria deverá ser mantida sempre a plena carga."
+  },
+  {
+   "id": "extra-radio-1-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 (Portaria 200/2026) segue como a mais recente no índice DPC e o texto local do 4.23 coincide; sem alteração posterior. Art. 4.23.6 a) I confere.",
+   "evidence_quote": "Toda Radiobaliza de Indicação de Posição de Emergência por Satélite (EPIRB) deve ser instalada a bordo em local de fácil acesso."
+  },
+  {
+   "id": "extra-radio-1-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 (Portaria 200/2026) segue como a mais recente no índice DPC e o texto local do 4.23 coincide; sem alteração posterior. Art. 4.23.6 a) II e III conferem.",
+   "evidence_quote": "As EPIRB devem possuir ainda dispositivo para ativação manual quer no local de instalação ou, remotamente, a partir da estação de manobra."
+  },
+  {
+   "id": "extra-radio-1-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 (Portaria 200/2026) segue como a mais recente no índice DPC e o texto local do 4.23 coincide; sem alteração posterior. 4.24.1 a) III (grande porte/iate) e 4.24.2 a) (médio porte oceânico sem transponder); tabela 4.35 item 21 Dispensado/Obrigatório.",
+   "evidence_quote": "III) receptor - transmissor radar (transponder) operando na faixa de 9 GHz"
+  },
+  {
+   "id": "extra-radio-1-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 (Portaria 200/2026) segue como a mais recente no índice DPC e o texto local do 4.23 coincide; sem alteração posterior. Art. 4.23.5 a) confere.",
+   "evidence_quote": "quando a embarcação estiver navegando, deverá haver disponibilidade permanente de um suprimento de energia elétrica suficiente para operar as instalações rádio e carregar quaisquer baterias"
+  },
+  {
+   "id": "extra-radio-1-07",
+   "verdict": "divergente",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/servico-movel-maritimo/em-1979-a-organizacao-maritima-internacional-imo-reconhecendo-a-necessidade-de-implementar-o-sistema-de-comunicacao-maritima-decidiu-dar-inicio-a-implantacao-de-um-novo-sistema-de-socorro-e-seguranca-conhecido-como-sistema-global-de-socorro-e-seguranca",
+   "notes": "A atribuição ao material 2026-03 confere, mas a página institucional da Anatel (GMDSS) dá A1 ≈20 milhas e A2 ≈100-300 milhas, contradizendo 30-50/100-150; faixa de A1 e A2 inconsistente entre fontes Anatel (IMO típico A1 ~20-30 mn).",
+   "correction": "Evitar apresentar '30-50 milhas' e '100-150 milhas' como definição oficial; usar a definição por cobertura (A1 VHF/DSC, A2 MF/DSC, A3 Inmarsat, A4 polar) e, se citar distâncias, A1 ≈20 milhas e A2 ≈100-300 milhas (Anatel, página GMDSS), ou assinalar que o material de apoio traz 30-50 e 100-150.",
+   "evidence_quote": "Área A1: ... cerca de 20 milhas da costa ... Área A2: ... cerca de 100-300 milhas da costa"
+  },
+  {
+   "id": "extra-radio-1-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "PDF Anatel atual (versão 2026-03, mesmo URL) traz 518 kHz e ~300 milhas náuticas; compatível com a faixa típica NAVTEX.",
+   "evidence_quote": "Cobertura típica de até cerca de 300 milhas náuticas da costa."
+  },
+  {
+   "id": "extra-radio-1-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Texto do item 2.2.4 reaberto em 08/10/2026 confere; material ainda na versão 2026-03.",
+   "evidence_quote": "Cobertura global, exceto regiões polares (aproximadamente acima de 70° N e abaixo de 70° S)."
+  },
+  {
+   "id": "extra-radio-1-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.1.9.2 reaberto confere (1 minuto, exceto socorro/urgência/segurança).",
+   "evidence_quote": "A transmissão de chamada e dos sinais preparatórios de tráfego em 156,8 MHz não deve exceder a um minuto"
+  },
+  {
+   "id": "extra-radio-1-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 1.4.4 reaberto confere.",
+   "evidence_quote": "É proibida a utilização das frequências de chamada e socorro para tráfego de mensagens comuns."
+  },
+  {
+   "id": "extra-radio-1-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 1.4.4 reaberto confere.",
+   "evidence_quote": "devem cessar imediatamente qualquer transmissão que possa perturbar o tráfego de socorro"
+  },
+  {
+   "id": "extra-radio-1-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.1.9.3 reaberto confere.",
+   "evidence_quote": "perigo grave e iminente; requer auxílio imediato (navio afundando, incêndio descontrolado etc.)"
+  },
+  {
+   "id": "extra-radio-1-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.1.9.3 reaberto confere (PAN PAN três vezes).",
+   "evidence_quote": "Sinal de urgência: PAN PAN, repetido três vezes antes da chamada."
+  },
+  {
+   "id": "extra-radio-1-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.1.9.3 reaberto confere (SECURITÉ três vezes).",
+   "evidence_quote": "Sinal de segurança: SECURITÉ, repetido três vezes antes da chamada."
+  },
+  {
+   "id": "extra-radio-1-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.1.9.3 reaberto confere a lista de elementos da mensagem MAYDAY.",
+   "evidence_quote": "A mensagem radiotelefônica de socorro é constituída de:"
+  },
+  {
+   "id": "extra-radio-1-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "SILENCE MAYDAY confere no item 2.1.9.5; porém o parêntese 'SEELONCE MAYDAY' NÃO consta do material Anatel (grafia/pronúncia do RR/ITU, corroborada por 47 CFR 80.1125) - atribuir ao RR, não ao material.",
+   "evidence_quote": "pedirá silêncio utilizando-se da expressão SILENCE MAYDAY"
+  },
+  {
+   "id": "extra-radio-1-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.2.15 reaberto confere.",
+   "evidence_quote": "o navio deve cancelá-lo imediatamente, informando claramente às estações costeiras ou RCC/MRCC que se tratou de falso alarme"
+  },
+  {
+   "id": "extra-radio-1-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 1.4.2 reaberto confere.",
+   "evidence_quote": "e, no caso das estações do SMM, pelo menos uma vez a cada hora."
+  },
+  {
+   "id": "extra-radio-1-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.2.8 reaberto confere.",
+   "evidence_quote": "Dispositivo que responde quando iluminado por um radar de 9 GHz (banda X, utilizada em radares marítimos)."
+  },
+  {
+   "id": "extra-radio-1-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.2.8 reaberto confere.",
+   "evidence_quote": "Aparece diretamente nas telas de AIS e ECDIS dos navios próximos."
+  },
+  {
+   "id": "extra-radio-1-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.2.5 reaberto confere (LEO global/GEO quase instantâneo para EPIRB com GPS).",
+   "evidence_quote": "Satélites geoestacionários (GEO): Cobertura contínua de grandes áreas; detecção quase instantânea (para EPIRBs compatíveis, geralmente com GPS)."
+  },
+  {
+   "id": "extra-radio-1-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 1.4.2 reaberto confere.",
+   "evidence_quote": "Todas as estações são obrigadas a limitar sua potência irradiada ao mínimo necessário"
+  },
+  {
+   "id": "extra-radio-1-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 1.4.2 confere (PPA-PYZ e ZVA-ZZZ, coerente com a alocação ITU ao Brasil).",
+   "evidence_quote": "PPA a PYZ e o ZVA a ZZZ"
+  },
+  {
+   "id": "extra-radio-1-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Tutorial MMAR (junho/2026) reaberto; passo 8 confere.",
+   "evidence_quote": "Informe o número do certificado ou uma parte da descrição do modelo do equipamento."
+  },
+  {
+   "id": "extra-radio-1-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Tutorial MMAR passo 11 confere; etapa UIT/GMDSS só aparece quando o sistema identifica necessidade de MMSI.",
+   "evidence_quote": "Quantidade de Botes Salva-vidas: número de botes salva-vidas disponíveis."
+  },
+  {
+   "id": "extra-radio-1-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Passos 12-14 conferem (PDF até 150 MB; caixas de ciência; submissão à análise da Agência).",
+   "evidence_quote": "O arquivo deve ser em PDF com tamanho máximo de 150 MB"
+  }
+ ]
+}

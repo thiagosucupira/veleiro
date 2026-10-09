@@ -1,0 +1,196 @@
+{
+ "verdicts": [
+  {
+   "id": "radio-65",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/regulations/licensing-onboard-electronics/",
+   "notes": "Frase literal na seção Maritime radio operator's certificates."
+  },
+  {
+   "id": "radio-66",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/regulations/licensing-onboard-electronics/",
+   "notes": "LRC para MF/HF/satélite, SRC para VHF e VHF/DSC e 'SRC and LRC are not STCW certificates' confirmados na página."
+  },
+  {
+   "id": "radio-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.uk/government/publications/min-716-mf-changes-to-the-gmdss-process-in-the-uk/min-716-mf-changes-to-the-gmdss-process-in-the-uk",
+   "notes": "MIN 716 traz 21/04/2025, transferência à MCA e 12/05/2025 com MSF 4354."
+  },
+  {
+   "id": "radio-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/regulations/licensing-onboard-electronics/",
+   "notes": "Página diz call sign e MMSI específicos do país; MMSI emitido com Ship Radio Licence da Ofcom."
+  },
+  {
+   "id": "radio-69",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/offshore-special-regulations/",
+   "notes": "Página confirma edição 2026-2027 vigente desde 1/1/2026 e Versão 2 a partir de 1/1/2027."
+  },
+  {
+   "id": "radio-70",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regras 2.01.1 (Cat 0 trans-oceânica, 'very extended periods') e 2.01.2 (Cat 1) conferem; a checagem falhou só por tipografia."
+  },
+  {
+   "id": "radio-71",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regra 6.01.2 literal, MoMu1,2."
+  },
+  {
+   "id": "radio-72",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regra 6.01.1 literal, MoMu0."
+  },
+  {
+   "id": "radio-73",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regra 6.01.3 literal, MoMu3."
+  },
+  {
+   "id": "radio-74",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regra 6.01.4 literal, aplicável a MoMu0,1,2."
+  },
+  {
+   "id": "radio-75",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "6.02.1 a 6.02.15 são 15 tópicos, incluindo os citados."
+  },
+  {
+   "id": "radio-76",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regra 6.01.5 literal."
+  },
+  {
+   "id": "radio-77",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice G 6.3 literal: pass vale 5 anos."
+  },
+  {
+   "id": "radio-78",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Parte B: Day 1 e Day 2 de 08:00 cada; Parte D: refresher de cerca de 8 h com treino na água e prova escrita."
+  },
+  {
+   "id": "radio-79",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regra 6.04 literal (anualmente, homem ao mar e abandono)."
+  },
+  {
+   "id": "radio-80",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regras 6.05.1 e 6.05.2 MoMu0 literais."
+  },
+  {
+   "id": "radio-81",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "MoMu1: dois com certificado de 5 anos; MoMu2: um familiarizado e outro com certificado, conforme texto."
+  },
+  {
+   "id": "radio-82",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Alíneas a e b literais MoMu0,1,2; falha da checagem foi por pontuação/typo no PDF."
+  },
+  {
+   "id": "radio-83",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Regra 6.05.3 literal, MoMu3,4."
+  },
+  {
+   "id": "radio-84",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/activities-services/technical-offshore/technical-services/technical-and-offshore-safety/offshore-safety/offshore-personal-survival/",
+   "notes": "Página diz padrão é não aceitar STCW (primeiros socorros aceitos), motivo: curso comercial sem itens de vela/equipamento recreativo."
+  },
+  {
+   "id": "radio-85",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/activities-services/technical-offshore/technical-services/technical-and-offshore-safety/offshore-safety/offshore-personal-survival/",
+   "notes": "Lista de provedores consultada não contém Brazil/Brasil."
+  },
+  {
+   "id": "radio-86",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/activities-services/technical-offshore/technical-services/technical-and-offshore-safety/offshore-safety/osr-recognised-first-aid-qualifications/",
+   "notes": "Lista de primeiros socorros não contém Brasil; GBR lista RYA First Aid Course."
+  },
+  {
+   "id": "radio-87",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/offshore-personal-survival-course-ryaworld-sailing/",
+   "notes": "Página RYA: 2 dias, classroom, seção 6.01 Cat 0, 1 e algumas Cat 2."
+  },
+  {
+   "id": "radio-88",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/basic-sea-survival-certificate/",
+   "notes": "1 dia, sala e piscina, sem requisitos, conteúdo confere."
+  },
+  {
+   "id": "radio-89",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/first-aid-course/",
+   "notes": "Conteúdo confere: MCA, 1 dia em sala, RCP/afogamento, hipotermia, enjoo/desidratação, VHF, resgate por helicóptero."
+  },
+  {
+   "id": "radio-90",
+   "verdict": "nao_verificavel",
+   "evidence_url": "https://www.ussailing.org/education/adult/safety-at-sea-courses/",
+   "notes": "Sanção WS, unidades 1-15 e 5 anos confirmados no contexto, mas o dia prático presencial não foi reconfirmado (página inacessível na reverificação)."
+  },
+  {
+   "id": "radio-91",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.southampton.ac.uk/sport/watersports-courses/theory/rya-sea-survival",
+   "notes": "Trecho com 11/10/2026, £155 e £116,25 confere na página; horário 09-17 indica um dia."
+  },
+  {
+   "id": "radio-92",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.22 recomenda item I do Anexo 4-C para mar aberto com menos de 15 pessoas; responsabilidade do comandante confirmada no contexto."
+  },
+  {
+   "id": "radio-93",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Nota do art. 4.21 cita o aplicativo FICR da Cruz Vermelha."
+  },
+  {
+   "id": "radio-94",
+   "verdict": "confirmado",
+   "evidence_url": "https://westgroup.com.br/produto/gmdss-radio-operador/",
+   "notes": "JSON-LD da página traz price 3490.00 BRL."
+  },
+  {
+   "id": "radio-95",
+   "verdict": "confirmado",
+   "evidence_url": "https://jjrsolutions.com.br/cursos/10/stcw-cbsn-curso-basico-de-seguranca-de-navio?mudacid=2",
+   "notes": "Página JJR: 5 dias, 40 h, validade 5 anos, maioridade, fundamental; próximas turmas mostram 12/10/2026 na Bahia (filial Salvador)."
+  },
+  {
+   "id": "radio-96",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.seaman.com.br/cursos.html",
+   "notes": "Seaman: 34 h, Recife e Curitiba, maior de 18 anos conforme página."
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "verdicts": [
+  {
+   "id": "programa-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Rev. 1 no 200, de 27 de 5-12 03/03/2026 [...] fevereiro de 2026",
+   "notes": "Folha de Registro de Modificações (p. III): última linha 'Rev. 1 | Portaria DPC/DGN/MB nº 200, de 27 de fevereiro de 2026 | 5-12 | 03/03/2026'. Confere; a Rev. 1 alterou apenas a página 5-12."
+  },
+  {
+   "id": "programa-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "no 197, de 23 de janeiro de 2026 [...] 26/01/2026 [...] An5-A e An5-E.",
+   "notes": "Linha 5 da Folha de Registro (p. III): Portaria nº 197, de 23/01/2026, data 26/01/2026; páginas afetadas terminam em 'An5-A e An5-E.' (além de VI, VII, X, Sumário, Cap. 2, 5-4 etc.). Confere."
+  },
+  {
+   "id": "programa-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Capitão-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros, sem limite de afastamento da costa, exceto moto aquática.",
+   "notes": "Art. 5.3.3 a), p. 5-1, texto idêntico."
+  },
+  {
+   "id": "programa-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Mestre-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros nos limites da navegação costeira (até 20 MN), exceto moto aquática.",
+   "notes": "Art. 5.3.3 b), p. 5-1, texto idêntico."
+  },
+  {
+   "id": "programa-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Arrais-Amador - apto para conduzir embarcações nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF, exceto moto aquática.",
+   "notes": "Art. 5.3.3 c), p. 5-1, texto idêntico."
+  },
+  {
+   "id": "programa-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Veleiro - apto para conduzir embarcações a vela sem propulsão a motor, nos limites da navegação interior.",
+   "notes": "Art. 5.3.3 e), p. 5-2, texto idêntico."
+  },
+  {
+   "id": "programa-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Para embarcações à vela de médio ou grande porte, a habilitação deverá obedecer os critérios previstos para a área de navegação para a qual estão classificadas, ou seja, ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente.",
+   "notes": "Art. 5.5.2 b) (2º parágrafo), p. 5-7, texto idêntico. A conclusão de que 32 pés exige CPA para travessia é derivada (nota do pesquisador), não literal."
+  },
+  {
+   "id": "programa-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "EMBARCAÇÃO DE MÉDIO PORTE - é considerada embarcação de médio porte aquelas com comprimento inferior a 24 metros, exceto as miúdas.",
+   "notes": "Glossário, p. VII, texto idêntico."
+  },
+  {
+   "id": "programa-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "EMBARCAÇÃO MIÚDA - para aplicação dessa norma são consideradas embarcações miúdas aquelas que tenham comprimento inferior ou igual a seis (6) metros",
+   "notes": "Glossário, p. VII, texto idêntico (remete à Figura 1 para medir o comprimento)."
+  },
+  {
+   "id": "programa-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela. [...] deverá possuir idade mínima de oito anos.",
+   "notes": "Art. 5.5.2 a) e b), p. 5-7. A idade mínima de oito anos refere-se à CHA-VLA para embarcações miúdas; responsabilidade dos pais/tutores pelos menores."
+  },
+  {
+   "id": "programa-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "para a inscrição ao exame da categoria de Mestre-Amador, o candidato deverá possuir habilitação na categoria de Arrais-Amador, dentro da validade. Já para a inscrição ao exame na categoria de Capitão-Amador, o candidato deverá possuir habilitação na categoria de Mestre-Amador",
+   "notes": "Art. 5.4.1, Notas (3º travessão), p. 5-5: 'dentro da validade ... ambos no ato da efetiva inscrição junto à CP/DL/AG'. Confere."
+  },
+  {
+   "id": "programa-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O exame para a habilitação nas categorias de ARA, MSA e CPA é constituído de prova escrita (ou eletrônica) no idioma português (Brasil), devendo o candidato possuir idade mínima de 18 (dezoito) anos e saber ler e escrever.",
+   "notes": "Art. 5.4.2 a), p. 5-5, texto idêntico. Atenção: o mesmo item abre exceção para ARA a candidato analfabeto que dependa de embarcação a motor e more em local remoto; a afirmação dá a regra geral, que está correta."
+  },
+  {
+   "id": "programa-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões, com a duração máxima de duas horas.",
+   "notes": "Anexo 5-A, Seção I, item 3 b), p. 5-A-7, texto idêntico."
+  },
+  {
+   "id": "programa-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões de múltipla escolha, sendo quatro com utilização de carta náutica, com a duração máxima de três horas.",
+   "notes": "Anexo 5-A, item 2 c), p. 5-A-4, texto idêntico (prova eletrônica ou escrita)."
+  },
+  {
+   "id": "programa-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O exame constará de uma prova escrita contendo 40 questões, com a duração máxima de quatro horas.",
+   "notes": "Anexo 5-A, item 1 b), p. 5-A-1, texto idêntico (só 'prova escrita' para o CPA)."
+  },
+  {
+   "id": "programa-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A prova possui valor máximo de 10,0 pontos e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos",
+   "notes": "Anexo 5-A, itens 1 c) (5-A-1), 2 d) (5-A-4) e 3 c) (5-A-7): os três dizem 10,0 pontos máximo e aprovação com pelo menos 5,0."
+  },
+  {
+   "id": "programa-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "as inscrições serão feitas em todas essas Organizações Militares nos meses de fevereiro e agosto para exames a serem realizados, respectivamente, nos meses de abril e outubro do mesmo ano",
+   "notes": "Anexo 5-A, item 1 a), p. 5-A-1. 'Em princípio' e as datas 'podem ser alterados de acordo com a necessidade da Autoridade Marítima'. Confere."
+  },
+  {
+   "id": "programa-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "material de desenho: lápis preto ou lapiseira, régua paralela e/ou um par de esquadros, compasso e borracha para desenho",
+   "notes": "Anexo 5-A, item 1 d) III), p. 5-A-1. Confere ('lápis preto ou lapiseira'). Também se exige caneta azul ou preta, protocolo e documento."
+  },
+  {
+   "id": "programa-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "material de desenho: lápis ou lapiseira, régua, um par de esquadros ou régua paralelas, transferidor, compasso e borracha.",
+   "notes": "Anexo 5-A, item 2 e) IV), p. 5-A-5, texto idêntico."
+  },
+  {
+   "id": "programa-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As provas deverão ser destruídas, imediatamente após a correção e a apresentação dos resultados aos candidatos, visando garantir a integridade e o sigilo do Banco de Questões.",
+   "notes": "Anexo 5-A, item 2 g) (p. 5-A-5) e item 3 f) (p. 5-A-7): texto idêntico nos dois. Para o CPA não existe essa cláusula (lá a DPC divulga a prova e o gabarito)."
+  },
+  {
+   "id": "programa-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A DPC divulgará em seu site a programação geral do exame, a prova/gabarito e a relação contendo os nomes dos aprovados.",
+   "notes": "Anexo 5-A, item 1 e), p. 5-A-1, texto idêntico."
+  },
+  {
+   "id": "programa-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O candidato poderá pedir revisão da sua prova em um prazo máximo de 07 dias úteis, contados a partir da data de divulgação oficial da prova e do gabarito",
+   "notes": "Anexo 5-A, item 1 f), p. 5-A-1. Confere. O pedido vai por requerimento (modelo 5-I) à OM da inscrição, com o 'pedido de revisão de prova' do Apêndice I."
+  },
+  {
+   "id": "programa-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A GRU paga pelo candidato reprovado ou que faltou à prova não poderá ser reutilizada para um novo exame.",
+   "notes": "Anexo 5-A, itens 1 h) (5-A-1), 2 h) (5-A-5) e 3 g) (5-A-7), texto idêntico, com nova inscrição conforme o art. 5.4."
+  },
+  {
+   "id": "programa-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) Navegação Astronômica. b) Navegação Eletrônica. c) Estabilidade. d) Meteorologia e Oceanografia. e) Comunicações. f) Sobrevivência no Mar. g) Carta náutica e publicações de auxílio à navegação.",
+   "notes": "Anexo 5-A, item 1.1 a)–g), p. 5-A-2: são sete assuntos. O último é 'Carta náutica e publicações de auxílio à navegação'."
+  },
+  {
+   "id": "programa-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) Cálculo da hora legal da passagem meridiana superior do sol pelo processo aproximado. c) Posição pela passagem meridiana do sol.",
+   "notes": "Anexo 5-A, item 1.2 a)–c), p. 5-A-2. Confere; também cobre o cálculo da hora legal da passagem meridiana superior do Sol."
+  },
+  {
+   "id": "programa-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "d) Acompanhamento Automático de Embarcações: I) auxílio de Plotagem Automática Radar (ARPA); e II) sistema Automático de Identificação (AIS). [...] f) Conceitos básicos de sistemas integrados de navegação(ECDIS, ECS, VTS, GNSS).",
+   "notes": "Anexo 5-A, item 1.3 a)–f), p. 5-A-2: discriminação em marcação e em distância, RACON/RTE, radar para evitar colisão, paralela indexada, ARPA, AIS, ecobatímetro, ECDIS/ECS/VTS/GNSS. Confere."
+  },
+  {
+   "id": "programa-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "pontos notáveis de estabilidade (centro de gravidade, centro de carena e metacentro); II) altura metacêntrica; e III) condições de equilíbrio de uma embarcação.",
+   "notes": "Anexo 5-A, item 1.4, p. 5-A-2/5-A-3: pontos notáveis, altura metacêntrica, equilíbrio, banda permanente, superfície livre e variação da estabilidade durante uma viagem. Confere."
+  },
+  {
+   "id": "programa-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) Interação Oceano-Atmosfera: I) ondas e marulhos; II) características das correntes costeiras e oceânicas; III) principais correntes oceânicas; e IV) estado do mar (Escala Beaufort).",
+   "notes": "Anexo 5-A, item 1.5 a)–d), p. 5-A-3: b) boletins, cartas sinóticas, imagens de satélites e 'interpretação dos avisos de mau tempo'; c) correntes e Escala Beaufort; d) cartas piloto e Cartas de Correntes de Maré. Confere."
+  },
+  {
+   "id": "programa-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) Comunicações na Navegação Oceânica: I) equipamentos, procedimentos, frequências de socorro, chamada e trânsito; II) estações de terra; e III) uso e funcionamento do EPIRB e do SART.",
+   "notes": "Anexo 5-A, item 1.6 a), p. 5-A-3, texto idêntico."
+  },
+  {
+   "id": "programa-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) Lançamento e abertura de balsas salva-vidas. d) Navegação em balsas salva-vidas.",
+   "notes": "Anexo 5-A, item 1.7 c)–d), p. 5-A-4 (a) e b) ficam em 5-A-3). Confere."
+  },
+  {
+   "id": "programa-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Reconhecimento dos elementos de uma carta náutica, conversão e traçados de rumos e marcações, e realização de plotagens de posições.",
+   "notes": "Anexo 5-A, item 1.8 a)–b), p. 5-A-4. Confere."
+  },
+  {
+   "id": "programa-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) Navegação: A Ciência e a Arte Vol. II - Navegação Astronômica e Derrotas, de ALTINEU PIRES MIGUENS (www.dhn.mar.mil.br). c) Capitão-Amador Navegando Seguro em Cruzeiros de Alto Mar, de JAIME ROBERTO DA COSTA FELIPE.",
+   "notes": "Anexo 5-A, item 1.9 a)–c), p. 5-A-4: Vol. I (Navegação Costeira, Estimada e em Águas Restritas) e Vol. II (Navegação Astronômica e Derrotas), de Altineu Pires Miguens; c) Jaime Roberto da Costa Felipe. Confere."
+  },
+  {
+   "id": "programa-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Entretanto, havendo conflitos com outras fontes, considerar como válidas, para efeito de prova, as informações constantes na bibliografia recomendada.",
+   "notes": "A mesma 'Obs.' aparece nos itens 1.9 (5-A-4), 2.2 (5-A-6) e 3.2 (5-A-8), com texto idêntico."
+  },
+  {
+   "id": "programa-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O programa para o exame versará sobre Navegação Costeira, abordando os seguintes conhecimentos:",
+   "notes": "Anexo 5-A, item 2.1 caput e b), p. 5-A-5. O item b) traz plotagem, conversão de rumos e marcações, 'marcações simultâneas e sucessivas', desvio da agulha, declinação magnética e 'influência da corrente e do vento'. Confere."
+  },
+  {
+   "id": "programa-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "i) Conceitos básicos de funcionamento e utilização do radar na navegação. j) Conceitos básicos de funcionamento e utilização do ecobatímetro. [...] n) Conhecimento básico do funcionamento do EPIRB e AIS.",
+   "notes": "Anexo 5-A, item 2.1 i) e j) (p. 5-A-5) e n) (p. 5-A-6). Confere."
+  },
+  {
+   "id": "programa-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Meteorologia: Conhecimento e interpretação de Cartas Sinóticas, Boletins Meteorológicos, imagens satélite e avisos de mau tempo, características das frentes, nevoeiros, nuvens e ciclones extra-tropicais, conhecimento dos ventos predominantes na costa do Brasil",
+   "notes": "Anexo 5-A, item 2.1 k), p. 5-A-5/5-A-6. Confere; o item também inclui nuvens e os principais instrumentos meteorológicos."
+  },
+  {
+   "id": "programa-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Comunicações na navegação costeira: conceitos e funcionamento do sistema VHF, equipamentos, procedimentos, frequências de socorro, chamadas de emergência, chamadas de rotina e trânsito; Rede Nacional de Estações Costeiras (RENEC).",
+   "notes": "Anexo 5-A, item 2.1 m), p. 5-A-6, texto idêntico."
+  }
+ ]
+}

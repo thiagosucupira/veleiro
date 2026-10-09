@@ -1,0 +1,142 @@
+{
+ "verdicts": [
+  {
+   "id": "om-pa-cpaor",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-pa-cfs",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ap-cpap",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ap-agoiapoque",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-cfaoc",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-agitacoatiara",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-agparintins",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-agtefe",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-ageirunepe",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-cft",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-agbacre",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-am-aghumaita",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ac-agcsul",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ro-aggmirim",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ro-cfpv",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-rr-agcaracarai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ma-cpma",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ma-agimperatriz",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-pi-cppi",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ce-cpce",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ce-agcamocim",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-ce-agaracati",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  },
+  {
+   "id": "om-rn-cprn",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200 via servico anti-Cloudflare; CPMA 403 antibot mas titulo CPMA); orgao existente; cidade/UF e coordenadas plausiveis; prova teorica/CHA conforme NORMAM-211."
+  }
+ ]
+}

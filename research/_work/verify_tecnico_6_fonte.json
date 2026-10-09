@@ -1,0 +1,184 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-181",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Exemplo e resultados batem com o trecho."
+  },
+  {
+   "id": "tecnico-182",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "22°10'+36'=22°46'≈23°W confere."
+  },
+  {
+   "id": "tecnico-183",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Item 2.1 b do Anexo 5-A (Mestre-Amador) lista esses tópicos."
+  },
+  {
+   "id": "tecnico-184",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Página DHN lista o livro com Vol I, II e III."
+  },
+  {
+   "id": "tecnico-185",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Capa do Vol I traz o subtítulo e 2ª revisão 2023."
+  },
+  {
+   "id": "tecnico-186",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Sumário: cap. 10 Marés e Correntes de Maré."
+  },
+  {
+   "id": "tecnico-187",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Sumário: cap. 3 Agulhas Náuticas; Conversão de Rumos e Marcações."
+  },
+  {
+   "id": "tecnico-188",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Sumário: cap. 13 Auxílios à Navegação."
+  },
+  {
+   "id": "tecnico-189",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Sumário: cap. 15 RIPEAM."
+  },
+  {
+   "id": "tecnico-190",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Capa do Vol II confere (2021, edição revisada e atualizada)."
+  },
+  {
+   "id": "tecnico-191",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Capa do Vol III confere (2026, 1ª revisão)."
+  },
+  {
+   "id": "tecnico-192",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Item 1.2 do programa de Capitão-Amador contém os três tópicos."
+  },
+  {
+   "id": "tecnico-193",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Texto do Vol II confere (DN5, desde 1944, formato idêntico desde 1957)."
+  },
+  {
+   "id": "tecnico-194",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Texto confere: hoje só a Tábua Radler, na DN4-2."
+  },
+  {
+   "id": "tecnico-195",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Texto confere: PUB 229 (6 vol.) e PUB 249 (3 vol.) da NIMA/NGA."
+  },
+  {
+   "id": "tecnico-196",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Página NGA confere."
+  },
+  {
+   "id": "tecnico-197",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Página NGA confere."
+  },
+  {
+   "id": "tecnico-198",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Página NGA lista Vol 3 e Vol 2 com essas latitudes."
+  },
+  {
+   "id": "tecnico-199",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Vol I (AP 3270) preparado com HMNAO/UKHO; copyright UKHO sobre o que produz; só Vol II e III para download."
+  },
+  {
+   "id": "tecnico-200",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Prefácio do Vol 2 confere (permanentes; Vol 1 época, ~5 anos)."
+  },
+  {
+   "id": "tecnico-201",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Texto confere (1875, Marcq Saint-Hilaire, França)."
+  },
+  {
+   "id": "tecnico-202",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Fórmula idêntica à do texto."
+  },
+  {
+   "id": "tecnico-203",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Nota 1 confere."
+  },
+  {
+   "id": "tecnico-204",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Relações conferem com o texto."
+  },
+  {
+   "id": "tecnico-205",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Procedimento confere com o item citado."
+  },
+  {
+   "id": "tecnico-206",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Texto confere: Ponto Marcq Saint-Hilaire; Método do Vertical Estimado."
+  },
+  {
+   "id": "tecnico-207",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Fórmula do Bowditch idêntica; página exata não reconferida."
+  },
+  {
+   "id": "tecnico-208",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Página NGA confere: 2024 em dois volumes, PDF completos."
+  },
+  {
+   "id": "tecnico-209",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "Consolidado de 03/03/2026 diz 'É obrigatório' no item 4.5 do Anexo 4-B."
+  },
+  {
+   "id": "tecnico-210",
+   "verdict": "confirmado",
+   "evidence_url": "",
+   "notes": "ZIP de anexos diz 'É recomendável' no item 4.5; divergência real entre versões."
+  }
+ ]
+}

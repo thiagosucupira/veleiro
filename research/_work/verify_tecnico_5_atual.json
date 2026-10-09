@@ -1,0 +1,199 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-151",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav/cartas-raster",
+   "notes": "Página CHM reaberta hoje traz o mesmo parágrafo sobre autorização e acordo comercial com a EMGEPRON.",
+   "evidence_quote": "demanda a solicitação de autorização e, a priori, o estabelecimento de Acordo Comercial entre a ... (EMGEPRON)"
+  },
+  {
+   "id": "tecnico-152",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav/cartas-ienc",
+   "notes": "Página IENC reaberta hoje ainda diz 'disponíveis temporariamente para teste' e 'protótipos em desenvolvimento'.",
+   "evidence_quote": "estão disponíveis temporariamente para teste no site do Centro de Hidrografia da Marinha"
+  },
+  {
+   "id": "tecnico-153",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav/cartas-ienc",
+   "notes": "Página IENC atual mantém que cartas em papel + publicações são o documento náutico oficial.",
+   "evidence_quote": "continuam sendo o documento náutico oficial para a navegação"
+  },
+  {
+   "id": "tecnico-154",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-termo-de-uso/termo-publico-de-cessao-de-direito-de-uso",
+   "notes": "Termo vigente reaberto hoje contém a vedação a modificar/copiar/distribuir/criar trabalho derivado sem autorização expressa da MB.",
+   "evidence_quote": "não poderei modificar, copiar, distribuir, transmitir, exibir, reproduzir, publicar, licenciar, criar trabalho derivado"
+  },
+  {
+   "id": "tecnico-155",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois",
+   "notes": "Rodapé atual do CHM traz a licença CC Atribuição-SemDerivações 3.0 Não Adaptada (em tensão com o Termo e a página Raster, mas a afirmação sobre o rodapé está correta).",
+   "evidence_quote": "Todo o conteúdo deste site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada"
+  },
+  {
+   "id": "tecnico-156",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+   "notes": "Planalto atual: art. 8º, IV da Lei 9.610/1998 exclui tratados, leis, decretos, regulamentos e demais atos oficiais.",
+   "evidence_quote": "IV - os textos de tratados ou convenções, leis, decretos, regulamentos, decisões judiciais e demais atos oficiais;"
+  },
+  {
+   "id": "tecnico-157",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Índice DPC: NORMAM-211 segue na Portaria 200 de 27/02/2026 (sem portaria posterior); Anexo 5-A do ZIP de anexos traz a mesma lista j) a p).",
+   "evidence_quote": "j) Carta 12000 (INT) ... p) Almanaque Náutico, DHN."
+  },
+  {
+   "id": "tecnico-158",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Página DHN (atualizada 24/03/2026) ainda linka o Vol. I 2ª revisão 2023, que contém o trecho sobre as Tábuas das Marés."
+  },
+  {
+   "id": "tecnico-159",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Vol. I 2ª rev. 2023 continua sendo a edição vigente linkada pela DHN; texto sobre Tabelas I e II sinusoidais consta nela."
+  },
+  {
+   "id": "tecnico-160",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I traz a margem de segurança de 10% da amplitude."
+  },
+  {
+   "id": "tecnico-161",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I traz a restrição a Vitória (ES) para o Norte."
+  },
+  {
+   "id": "tecnico-162",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I define sondagem e altura da maré referidas ao NR e soma as duas no exemplo (8,5+5,0)."
+  },
+  {
+   "id": "tecnico-163",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I traz 12h25 entre preamares e 6h13 entre PM e BM no método expedito."
+  },
+  {
+   "id": "tecnico-164",
+   "verdict": "confirmado",
+   "evidence_url": "https://en.wikipedia.org/wiki/Rule_of_twelfths",
+   "notes": "Wikipedia reaberta hoje confirma 1:2:3:3:2:1 = 12/12; fonte não oficial, mas regra consolidada e sem contradição.",
+   "evidence_quote": "The steps are 1:2:3:3:2:1 giving a total change of 12/12."
+  },
+  {
+   "id": "tecnico-165",
+   "verdict": "confirmado",
+   "evidence_url": "https://en.wikipedia.org/wiki/Rule_of_twelfths",
+   "notes": "Wikipedia atual confirma que a regra não vale se a curva não se aproxima de senoide; fonte não oficial.",
+   "evidence_quote": "If the tidal curve does not approximate to a sine wave then the rule cannot be used."
+  },
+  {
+   "id": "tecnico-166",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Sem portaria posterior à Portaria 200/2026; Anexo 4-B do ZIP de anexos traz a regra de 'um terço' (ida/volta/reserva) de combustível.",
+   "evidence_quote": "regra de 'um terço' ... 1/3 para a ida; 1/3 para a volta; e 1/3 para a reserva"
+  },
+  {
+   "id": "tecnico-167",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Sem portaria posterior; Anexo 5-A (ZIP mais novo) mantém marés (comportamento, curvas, tábuas) no programa de Mestre-Amador.",
+   "evidence_quote": "comportamento das marés; ii) conhecimento das curvas de marés; e iii) uso de tábuas de marés"
+  },
+  {
+   "id": "tecnico-168",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Vol. I 2ª rev. 2023 é a edição vigente linkada pela DHN; define Dec mg como a diferença entre meridiano magnético e verdadeiro."
+  },
+  {
+   "id": "tecnico-169",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I afirma que as cartas informam declinação e variação anual."
+  },
+  {
+   "id": "tecnico-170",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ngdc.noaa.gov/geomag/wmm",
+   "notes": "Livro vigente cita a carta NOAA/NCEI e CIRES (2019) e o endereço ngdc.noaa.gov/geomag/wmm; afirmação é sobre o que o Miguens indica (a carta é de 2019, WMM atual é 2025)."
+  },
+  {
+   "id": "tecnico-171",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ncei.noaa.gov/products/world-magnetic-model",
+   "notes": "NCEI reaberto hoje: WMM2025 lançado em 17/12/2024, válido até late 2029 (expira em 31/12/2029).",
+   "evidence_quote": "The current version (WMM2025) was released on December 17, 2024, and will remain valid until late 2029."
+  },
+  {
+   "id": "tecnico-172",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ncei.noaa.gov/products/world-magnetic-model",
+   "notes": "NCEI atual confirma distribuição em nome da NGA.",
+   "evidence_quote": "NCEI distributes the model, associated software, and documentation on behalf of NGA."
+  },
+  {
+   "id": "tecnico-173",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml",
+   "notes": "Página atual lista calculadoras de campo magnético, incluindo Declination (WMM/WMMHR/IGRF).",
+   "evidence_quote": "Declination is calculated using the most recent World Magnetic Model (WMM), ... or the IGRF model."
+  },
+  {
+   "id": "tecnico-174",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ncei.noaa.gov/products/international-geomagnetic-reference-field",
+   "notes": "Página NCEI atual confirma coeficientes da 14ª geração finalizados por força-tarefa IAGA em novembro de 2024.",
+   "evidence_quote": "The coefficients for the 14th generation of IGRF model were finalized by an IAGA task force in November 2024."
+  },
+  {
+   "id": "tecnico-175",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I define desvio como ângulo entre Norte Magnético e Norte da Agulha."
+  },
+  {
+   "id": "tecnico-176",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I diz que o desvio depende dos ferros/corretores e varia com a proa."
+  },
+  {
+   "id": "tecnico-177",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I traz vários alinhamentos para bússolas de antepara em veleiros/iates."
+  },
+  {
+   "id": "tecnico-178",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I traz as abreviaturas R/Rv, Rmg, Rgiro e Rag."
+  },
+  {
+   "id": "tecnico-179",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I diz que só se traçam na carta marcações e rumos verdadeiros."
+  },
+  {
+   "id": "tecnico-180",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/npublicacoes",
+   "notes": "Edição vigente do Vol. I manda aproximar a 0,5° na conversão de rumos e marcações."
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "verdicts": [
+  {
+   "id": "s-pr-iate-clube-paranagua",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site abre com UA de navegador completo (200; 406 com UA simples/mod_security). Home 'Iate Clube de Paranaguá', fundado 1952, Rio Itiberê, vagas secas/molhadas, Rua Benjamin Constant 423, Paranaguá-PR. Coordenadas plausíveis. Tarifas de 2018 já sinalizadas como antigas."
+  },
+  {
+   "id": "s-pr-iate-clube-pontal-do-sul",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, 'Iate Clube Pontal do Sul — desde 1974'; hangar, rampa, píeres, apoio náutico, aviso de 08/09/2026 sobre documentação Marinha confere. Sem escola de vela anunciada, coerente. (Uma busca curl retornou título de FEVERS, mas leituras seguintes mostraram conteúdo do ICPS.)"
+  },
+  {
+   "id": "s-pr-loba-do-mar",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 'Loba do Mar · Escola Náutica em Pontal do Paraná'. Cursos Arrais, Motonauta, Mestre; aulas práticas em embarcação própria em Pontal; preços conferem (900, 1.500, 1.700 Arrais+Moto, 6x167/284/326). Site diz Arrais até 1,5 milha, erro do site já sinalizado nas notas (NORMAM-211 não confirmada aqui). Credenciamento CPPR não verificado na página."
+  }
+ ]
+}

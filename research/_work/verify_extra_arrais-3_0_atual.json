@@ -1,0 +1,215 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-arrais-3-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Classe I - fabricado conforme requisitos previstos na Convenção Internacional para a Salvaguarda da Vida Humana no Mar (SOLAS)",
+   "notes": "Art. 4.11 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Classe II - fabricado com base nos requisitos acima, abrandados para uso nas embarcações empregadas na Navegação Costeira",
+   "notes": "Art. 4.11 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Classe V - fabricado para emprego exclusivo em atividades esportivas tipo moto aquática, banana-boat, esqui aquático, windsurf, parasail, rafting, kitesurf",
+   "notes": "Art. 4.11 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A dotação de coletes deverá ser, pelo menos, igual ao número total de pessoas a bordo",
+   "notes": "Art. 4.14 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "embarcações empregadas na navegação oceânica - deverão dispor de coletes salva-vidas Classe I (SOLAS); ... navegação costeira - ... Classe II",
+   "notes": "Texto confere no PDF vivo da DPC (checagem automática falhou só por hífen/travessão); sem portaria posterior no índice."
+  },
+  {
+   "id": "extra-arrais-3-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "as embarcações de médio porte deverão dispor de coletes salva-vidas classes III ou V e as de grande porte ou iates de coletes salva-vidas classe III",
+   "notes": "Art. 4.14 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deverão ser estivados de modo a serem prontamente acessíveis e sua localização deverá ser claramente indicada",
+   "notes": "Art. 4.14 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcações miúdas - estão dispensadas de dotar boias salva-vidas",
+   "notes": "Art. 4.15 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "menos de doze metros ... uma (1) boia ...; igual ou superior a doze metros deverão dotar duas (2) boias",
+   "notes": "Art. 4.15 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "as boias não devem ficar presas permanentemente à embarcação, devem ficar suspensas em suportes fixos",
+   "notes": "Art. 4.15 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "com exceção das embarcações empregadas na navegação interior, que estão dispensadas de dotar esse dispositivo",
+   "notes": "Art. 4.15 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "retinida flutuante de comprimento igual ao dobro da altura ... ou 20 m, o que for maior",
+   "notes": "Art. 4.15 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "ao atingir 300m de altura, ejeta um paraquedas com uma luz vermelha com intensidade de 30.000 candelas por quarenta segundos",
+   "notes": "Art. 4.16 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "emite luz vermelha com intensidade de 15.000 candelas por sessenta segundos",
+   "notes": "Art. 4.16 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "emite fumaça por três ou quinze minutos para indicar, durante o dia, a posição de uma embarcação de sobrevivência, ou a de uma pessoa que tenha caído na água",
+   "notes": "Art. 4.16 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação costeira - dois foguetes manuais de estrela vermelha com paraquedas, dois fachos manuais luz vermelha e dois sinais fumígenos flutuantes laranja",
+   "notes": "Art. 4.17 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "navegação oceânica - quatro foguetes ..., quatro fachos ... e quatro sinais fumígenos flutuantes laranja",
+   "notes": "Art. 4.17 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "navegação interior - apenas as embarcações de grande porte, um facho manual luz vermelha",
+   "notes": "Art. 4.17 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "navegação costeira - as embarcações estão dispensadas do uso de balsas salva-vidas, sendo recomendável a utilização de um bote inflável; e navegação interior - ... dispensadas de dotar embarcações de sobrevivência",
+   "notes": "Texto confere no PDF vivo da DPC (checagem automática falhou só por hífen/travessão); sem portaria posterior no índice."
+  },
+  {
+   "id": "extra-arrais-3-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As balsas salva-vidas SOLAS devem ser revisadas anualmente ... NORMAM-321/DPC ou a ISO 9650-1 ... período determinado pelo fabricante",
+   "notes": "Art. 4.13 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "os itens relacionados nas tabelas dos artigos 4.33, 4.34 e 4.35 são de dotação e porte obrigatórios, em consonância com a classificação da embarcação constante do seu TIE",
+   "notes": "Art. 4.1 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-22",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "4.18.2: todas as embarcações deverão estar dotadas de uma unidade de lanterna portátil ... | Tabela 4.33 (interior), item 11 Lanterna portátil: miúdas = DISPENSADO",
+   "correction": "Lanterna portátil (01 unidade) é obrigatória nas embarcações de médio e grande porte/iates e, nas navegações costeira/oceânica, conforme tabelas 4.34/4.35; na navegação interior, embarcações miúdas são DISPENSADAS (tabela 4.33). Evitar 'todas' sem ressalva (o art. 4.18.2 diz 'todas', mas a tabela 4.33 dispensa miúdas interiores).",
+   "notes": "Texto do 4.18.2 confere literalmente, porém a tabela 4.33 do mesmo PDF dispensa lanterna nas miúdas em navegação interior; afirmação 'todas' é excessiva."
+  },
+  {
+   "id": "extra-arrais-3-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "todas as embarcações quando empregadas em navegação costeira ou oceânica, deverão estar dotadas de um refletor radar",
+   "notes": "Art. 4.18.3 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "todas as embarcações, exceto as miúdas, devem estar dotadas de uma âncora ... no mínimo, vinte metros de cabo ou amarra",
+   "notes": "Art. 4.18.4 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "todas as embarcações, exceto as miúdas, devem estar dotadas de um apito",
+   "notes": "Art. 4.18.5 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "todas as embarcações classificadas para a navegação costeira ou oceânica, deverão possuir um sino ou buzina manual",
+   "notes": "Art. 4.18.7 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "devem ser homologados pela Autoridade Marítima ... em bom estado de conservação e dentro dos prazos de validade ou de revisão",
+   "notes": "Art. 4.8 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A dotação exigida nesta norma é a mínima, considerando uma navegação sob boas condições meteorológicas",
+   "notes": "Art. 4.8 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "não necessitam ser marcados e podem ser emprestados de outras embarcações",
+   "notes": "Art. 4.12 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  },
+  {
+   "id": "extra-arrais-3-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "estão dispensadas de dotar o material prescrito neste capítulo, exceto os coletes salva-vidas",
+   "notes": "Art. 4.10 confere no PDF vigente (Portaria 200/2026); página-índice da DPC não lista portaria posterior."
+  }
+ ]
+}

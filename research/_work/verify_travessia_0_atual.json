@@ -1,0 +1,236 @@
+{
+ "verdicts": [
+  {
+   "id": "travessia-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/rules-regulations/offshore-special-regulations/",
+   "notes": "Página oficial reaberta em 2026-10-07 ainda traz exatamente essa redação; nenhuma edição posterior listada.",
+   "evidence_quote": "the 2026-2027 edition became effective on 1 January 2026"
+  },
+  {
+   "id": "travessia-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/rules-regulations/offshore-special-regulations/",
+   "notes": "Página atual confirma OOC-2026-001 (26/05/2026) e Versão 2 efetiva em 1/1/2027; v2 baixada traz 'Version 2 – 5 June 2026 – Effective 1 January 2027'.",
+   "evidence_quote": "Version 2 of the 2026-2027 Offshore Special Regulations will be effective from 1 January 2027"
+  },
+  {
+   "id": "travessia-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/rules-regulations/offshore-special-regulations/",
+   "notes": "Página oficial e PDF v1 indicam publicação em 5/12/2025 ('Version 1 – 5 December 2025').",
+   "evidence_quote": "Version 1 – 5 December 2025"
+  },
+  {
+   "id": "travessia-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/wp-content/uploads/2026/06/WS_Offshore_Special-Regulations_2026-2027_v2_wcover_Effective1Jan2027-1.pdf",
+   "notes": "Texto do PDF v2 baixado em 2026-10-07 traz 4.19.3 com GNSS interno e AIS se registrada após 2026 (tag MoMu0,1,2); diff v1×v2 mostra só isto e a remoção do Apêndice M.",
+   "evidence_quote": "A 406 MHz EPIRB shall include an internal GNSS. If registered after 2026 it shall have the ability to transmit AIS."
+  },
+  {
+   "id": "travessia-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 2.01.2 (MoMu1) no PDF v1 vigente; o 'não achado' automático é só hifenização 'self-/sufficient'; v2 não altera.",
+   "evidence_quote": "completely self- sufficient for extended periods of time"
+  },
+  {
+   "id": "travessia-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 2.01.1 (MoMu0) no PDF v1 vigente confere; v2 sem alteração.",
+   "evidence_quote": "Trans-oceanic races, including races which pass through areas in which air or sea temperatures are likely to be less than 5°C"
+  },
+  {
+   "id": "travessia-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 2.01.3 (MoMu2) confere no PDF v1 vigente; v2 sem alteração.",
+   "evidence_quote": "Races of extended duration along or not far removed from shorelines"
+  },
+  {
+   "id": "travessia-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 1.02.1 no PDF completo v1 confere (inclui designar substituto); v2 sem alteração.",
+   "evidence_quote": "sole and inescapable responsibility of the person in charge"
+  },
+  {
+   "id": "travessia-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.04.1 a) tag Mo0,1 confere no PDF completo v1; alternativas 3.04.2/3.04.3.",
+   "evidence_quote": "Compliant with ISO 12217-2 design category A"
+  },
+  {
+   "id": "travessia-10",
+   "verdict": "divergente",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "A nota b, na imagem da página, está sobrescrita nas alternativas 'OSR 3.04.2 b or OSR 3.04.3 b', não na rota ISO 12217-2 categoria A: o inclining test vale só para quem usa as alternativas, não para toda conformidade de estabilidade Cat. 0/1.",
+   "evidence_quote": "From 2027, this compliance shall be confirmed by having the actual displacement measured and by an inclining test.",
+   "correction": "A partir de 2027, para Cat. 0 e 1, quem demonstra estabilidade pelas alternativas das OSR 3.04.2 (Tabela 2) ou 3.04.3 (Tabela 3), e não pela ISO 12217-2 cat. A, deve confirmar a conformidade com medição do deslocamento real e inclining test."
+  },
+  {
+   "id": "travessia-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Tabela 2 (Mo0,1,2,3) no PDF v1: coluna 0,1,2 = STIX 32, AVS 130-0,002m (>=100°), m·AGZ 172 000; v2 sem alteração.",
+   "evidence_quote": "172 000"
+  },
+  {
+   "id": "travessia-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Tabela 3 (Mo0,1,2,3) no PDF v1: ORC SI 120/115/110/103 para Cat. 0/1/2/3; Cat. 1 = 115.",
+   "evidence_quote": "minimum Stability Index in ORC Rating System 120 115 110 103"
+  },
+  {
+   "id": "travessia-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.29.1 (Mo1,2,3) confere no PDF completo v1.",
+   "evidence_quote": "A hand-held marine VHF transceiver, with minimum 5 W output power, for each grab bag"
+  },
+  {
+   "id": "travessia-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.29.5 tag MoMu0,1,2,3 confere no PDF completo v1.",
+   "evidence_quote": "A marine radio transceiver with an emergency antenna when the regular antenna depends upon the mast."
+  },
+  {
+   "id": "travessia-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.29.6: a) 25 W, b) DSC se instalado após 2015, d) antena >=38 cm, f) MMSI+GNSS (Cat. 1,2,3), g) alto-falante externo (Mo/Mu 1,2) conferem para Cat. 1.",
+   "evidence_quote": "have an external speaker in the cockpit"
+  },
+  {
+   "id": "travessia-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.29.7 (MoMu0,1,2,3) confere no PDF completo v1.",
+   "evidence_quote": "An AIS Transponder which either: a) shares the masthead VHF antenna via a low loss AIS antenna splitter"
+  },
+  {
+   "id": "travessia-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.29.9 (MoMu1) confere no PDF completo v1.",
+   "evidence_quote": "A hand-held satellite telephone for each grab bag, watertight or with waterproof cover and internal battery."
+  },
+  {
+   "id": "travessia-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.29.13 marcada apenas MoMu0 no PDF completo v1 (Cat. 1 não exige); v2 sem alteração.",
+   "evidence_quote": "MoMu0 3.29.13 An MF/HF marine SSB transceiver (GMDSS/DSC) with at least 125 W"
+  },
+  {
+   "id": "travessia-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.04.2 c) (MoMu0,1,2,3) confere no PDF completo v1.",
+   "evidence_quote": "have a breaking strength of 2040 kg (4500#) and be uncoated and non-sleeved stainless steel 1 x 19 wire"
+  },
+  {
+   "id": "travessia-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.04.3 b) e c) confere no PDF completo v1.",
+   "evidence_quote": "enable two-thirds of the crew to be simultaneously clipped on without depending on jackstays"
+  },
+  {
+   "id": "travessia-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.08 marcada '**' (todos os tipos/categorias) no PDF completo v1.",
+   "evidence_quote": "The contents and storage of the First Aid Kit shall reflect the likely conditions and duration of the passage, and the number of crewmembers."
+  },
+  {
+   "id": "travessia-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.19.2 tag MoMu1,2 confere no PDF completo v1 (e v2).",
+   "evidence_quote": "A water and manually activated 406 MHz EPIRB."
+  },
+  {
+   "id": "travessia-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Texto de 4.19.3 na v1 (vigente em 2026-10) confere; na v2 a redação muda a partir de 2027 (item 04).",
+   "evidence_quote": "A 406 MHz EPIRB registered after 2026 shall include an internal GNSS and the ability to transmit AIS."
+  },
+  {
+   "id": "travessia-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.19.4 (MoMu0,1,2) confere em v1 e v2 (texto idêntico).",
+   "evidence_quote": "can be registered online with the Cospas-Sarsat IBRD if the country does not provide a registration facility"
+  },
+  {
+   "id": "travessia-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.20.1 a) tag MoMu1,2 confere no PDF completo v1: LSA Code cap. IV ou ISO 9650-1:2005 Tipo 1 Grupo A.",
+   "evidence_quote": "ISO 9650-1:2005, Type 1, Group A"
+  },
+  {
+   "id": "travessia-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.20.2 a) (Cat. 0,1,2: SOLAS A pack) e b) (MoMu1: ISO 9650 Pack 1) conferem no PDF completo v1.",
+   "evidence_quote": "an ISO 9650 liferaft shall contain as a minimum Pack 1 (greater than 24 hours pack)"
+  },
+  {
+   "id": "travessia-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.20.3 d) (MoMu0,1,2) confere no PDF completo v1.",
+   "evidence_quote": "Each raft shall be capable of being moved to the lifelines or launched within 15 seconds."
+  },
+  {
+   "id": "travessia-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.20.4 a)/b) conferem no PDF completo v1 (valise alugada anual).",
+   "evidence_quote": "iso 9650 valise packed liferafts every 3 years except that hired liferafts shall be serviced annually"
+  },
+  {
+   "id": "travessia-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.22.1 a) tag MoMu0,1,2 confere no PDF completo v1.",
+   "evidence_quote": "an AIS personal crew overboard beacon for each crewmember"
+  },
+  {
+   "id": "travessia-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.22.3 b) e c) (MoMu0,1,2) conferem no PDF completo v1.",
+   "evidence_quote": "a second lifebuoy equipped with: a whistle, a drogue, a self-igniting light, and a pole and flag"
+  },
+  {
+   "id": "travessia-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.23 a) 2 fumígenos laranja e b) 4 fachos vermelhos; validade/4 anos confere; pacote da balsa traz fachos próprios.",
+   "evidence_quote": "not older than the stamped expiry date (if any) or if no expiry date stamped, not older than 4 years"
+  },
+  {
+   "id": "travessia-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.26.2 (MoMu1,2), 4.26.5 (0-3) e 4.26.6 (0-2) conferem no PDF completo v1.",
+   "evidence_quote": "either a storm trysail or mainsail reefing to reduce the luff by at least 50%"
+  },
+  {
+   "id": "travessia-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 4.30 (Mo0,1,2) confere no PDF completo v1.",
+   "evidence_quote": "a minimum rated capacity of 200 l/min (3200 US gph)"
+  }
+ ]
+}

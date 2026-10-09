@@ -1,0 +1,140 @@
+/* Conversão de rumos e marcações (widget agulha-calc). Só tokens do design system. */
+.widget-agulha-calc .instrumento-corpo { padding: var(--s-4); background: var(--paper); }
+.ag-topo { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: center; justify-content: space-between; width: 100%; }
+.ag-topo .segmented button { min-height: 40px; }
+.ag-placar { font-size: var(--fs--1); font-weight: 700; color: var(--ink-2); }
+
+.ag-grade { display: grid; grid-template-columns: minmax(0, 380px) minmax(0, 1fr); gap: var(--s-5); align-items: start; }
+@media (max-width: 820px) { .ag-grade { grid-template-columns: minmax(0, 1fr); } }
+.ag-col-rosa { position: sticky; top: calc(var(--topbar-h) + var(--s-3)); }
+@media (max-width: 820px) { .ag-col-rosa { position: static; max-width: 420px; margin: 0 auto; width: 100%; } }
+.ag-col-painel { min-width: 0; display: flex; flex-direction: column; gap: var(--s-4); }
+.ag-painel-exp, .ag-painel-ex { display: flex; flex-direction: column; gap: var(--s-4); }
+.ag-painel-exp[hidden], .ag-painel-ex[hidden] { display: none; }
+
+/* ---------- rosa ---------- */
+.ag-svg { width: 100%; height: auto; display: block; cursor: grab; font-family: var(--font); font-variant-numeric: tabular-nums; }
+.ag-svg.ag-svg-fixo { cursor: default; touch-action: auto; }
+.ag-anel-c { fill: none; stroke-width: 1.1; }
+.ag-anel-t { fill: none; stroke-width: 0.9; }
+.ag-anel-n { font-size: 13px; font-weight: 650; }
+.ag-anel-v .ag-anel-c, .ag-anel-v .ag-anel-t { stroke: var(--ink); }
+.ag-anel-v .ag-anel-n, .ag-anel-v .ag-anel-norte { fill: var(--ink); }
+.ag-anel-mg .ag-anel-c, .ag-anel-mg .ag-anel-t { stroke: var(--ink-2); }
+.ag-anel-mg .ag-anel-c { stroke-dasharray: 5 3; }
+.ag-anel-mg .ag-anel-n, .ag-anel-mg .ag-anel-norte { fill: var(--ink-2); }
+.ag-anel-ag .ag-anel-c, .ag-anel-ag .ag-anel-t { stroke: var(--ink-3); }
+.ag-anel-ag .ag-anel-c { stroke-dasharray: 1.5 2.5; }
+.ag-anel-ag .ag-anel-n, .ag-anel-ag .ag-anel-norte { fill: var(--ink-3); }
+.ag-anel-ag .ag-anel-n { font-size: 13px; }
+.ag-norte-v { stroke: var(--ink); stroke-width: 1; opacity: 0.55; }
+.ag-norte-mg { stroke: var(--ink-2); stroke-width: 1; stroke-dasharray: 5 3; opacity: 0.7; }
+.ag-norte-ag { stroke: var(--ink-3); stroke-width: 1; stroke-dasharray: 1.5 2.5; }
+.ag-arco-dec { fill: none; stroke: var(--ink-2); stroke-width: 3; stroke-dasharray: 5 3; }
+.ag-arco-dag { fill: none; stroke: var(--ink-3); stroke-width: 3; stroke-dasharray: 1.5 2.5; stroke-linecap: round; }
+.ag-casco { fill: var(--shoal-2); stroke: var(--ink); stroke-width: 1.2; }
+.ag-linha-proa { stroke: var(--magenta); stroke-width: 2.6; stroke-linecap: round; }
+.ag-linha-marc { stroke: var(--ink); stroke-width: 1.6; stroke-dasharray: 6 4; }
+.ag-alca { fill: var(--magenta); stroke: var(--paper); stroke-width: 3; cursor: grab; }
+.ag-alca-marc { fill: var(--ink); }
+.ag-alca:focus { outline: none; }
+.ag-alca:focus-visible { stroke: var(--magenta); stroke-width: 4; }
+.ag-svg-fixo .ag-alca { display: none; }
+.ag-farol-torre { fill: var(--paper); stroke: var(--ink); stroke-width: 1.2; }
+.ag-farol-luz { fill: var(--magenta); opacity: 0.85; }
+.ag-tag text { font-size: 13px; font-weight: 750; paint-order: stroke; stroke: var(--paper); stroke-width: 4px; stroke-linejoin: round; }
+.ag-tag-pt { stroke: var(--paper); stroke-width: 1.5; }
+.ag-tag-v text, .ag-tag-v .ag-tag-pt { fill: var(--magenta); }
+.ag-tag-mg text, .ag-tag-mg .ag-tag-pt { fill: var(--ink); }
+.ag-tag-ag text, .ag-tag-ag .ag-tag-pt { fill: var(--ink-2); }
+.ag-tag-m.ag-tag-v text, .ag-tag-m.ag-tag-v .ag-tag-pt { fill: var(--ink); }
+.ag-aviso-svg { font-size: 13px; fill: var(--ink-2); }
+.ag-leg-rosa { font-size: var(--fs--1); color: var(--ink-2); margin: var(--s-2) 0 0; }
+
+/* ---------- formulários ---------- */
+.ag-linha { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-3); align-items: flex-end; }
+.ag-grupo { display: flex; flex-direction: column; gap: 4px; }
+.ag-grupo .segmented button { min-height: 40px; min-width: 52px; }
+.ag-campo { display: flex; flex-direction: column; gap: 2px; }
+.ag-campo[hidden] { display: none; }
+.ag-campo-rot { font-size: var(--fs--1); font-weight: 650; color: var(--ink-2); }
+.ag-campo-in { display: inline-flex; align-items: center; gap: 4px; }
+.ag-campo input { width: 6em; min-height: 40px; padding: 4px 8px; font-size: var(--fs-0); }
+.ag-campo-curto input { width: 4.2em; }
+.ag-campo-ano input { width: 5em; }
+.ag-campo select { min-height: 40px; padding: 4px 8px; width: auto; }
+.ag-campo-largo select { width: 100%; }
+.ag-suf { color: var(--ink-2); font-weight: 650; }
+.ag-fs { border: 1px solid var(--line); border-radius: var(--r-input); padding: var(--s-2) var(--s-3) var(--s-3); margin: 0; display: flex; flex-direction: column; gap: var(--s-2); min-width: 0; }
+.ag-fs legend { font-weight: 700; padding: 0 4px; font-size: 0.95rem; }
+.ag-dec-out { margin: 0; font-size: 0.95rem; }
+
+/* ---------- cadeia Rag ⇄ Rmg ⇄ Rv ---------- */
+.ag-saida { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-4); }
+.ag-cadeia { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1fr); gap: var(--s-2); align-items: center; }
+.ag-valor { background: var(--paper); border: 1px solid var(--line); border-radius: var(--r-input); padding: var(--s-2); display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 0; }
+.ag-valor-conh { border-color: var(--magenta); box-shadow: inset 0 0 0 1px var(--magenta); }
+.ag-valor-sig { font-weight: 750; font-size: var(--fs--1); color: var(--ink-2); }
+.ag-valor-num { font-size: var(--fs-2); font-weight: 780; line-height: 1.15; }
+.ag-valor-nome { font-size: 0.75rem; color: var(--ink-3); }
+.ag-elo { display: flex; flex-direction: column; align-items: center; font-size: 0.75rem; color: var(--ink-2); line-height: 1.25; text-align: center; }
+.ag-elo b { color: var(--ink); font-size: 0.85rem; white-space: nowrap; }
+@media (max-width: 420px) { .ag-valor-num { font-size: var(--fs-1); } .ag-cadeia { gap: 4px; } .ag-valor { padding: 6px 2px; } }
+/* painel estreito (celular ou coluna de tablet): a cadeia vira uma lista de cima para baixo, agulha → verdadeiro */
+.ag-saida { container-type: inline-size; }
+@container (max-width: 460px) {
+  .ag-cadeia { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .ag-valor { display: grid; grid-template-columns: 3.2em minmax(0, 1fr) auto; align-items: baseline; column-gap: var(--s-2); text-align: left; padding: 6px 12px; }
+  .ag-valor-sig { grid-column: 1; grid-row: 1; font-size: var(--fs-0); color: var(--ink); }
+  .ag-valor-nome { grid-column: 2; grid-row: 1; font-size: var(--fs--1); }
+  .ag-valor-num { grid-column: 3; grid-row: 1; font-size: var(--fs-1); }
+  .ag-elo { flex-direction: row; align-items: baseline; justify-content: flex-start; gap: 6px; margin-left: 1.6em; padding: 4px 0 4px 12px; border-left: 2px solid var(--line); }
+}
+.ag-passos { margin: var(--s-3) 0 var(--s-2); padding-left: 1.3em; }
+.ag-passos li { margin-bottom: 4px; }
+.ag-ref { font-size: var(--fs--1); color: var(--ink-2); margin: 0; }
+.ag-dica { font-size: var(--fs--1); color: var(--ink-2); margin: 0; }
+
+.ag-mnemo { border-left: 4px solid var(--magenta); background: var(--magenta-soft); border-radius: 0 var(--r-panel) var(--r-panel) 0; padding: var(--s-3) var(--s-4); }
+.ag-mnemo p { margin: 0 0 var(--s-2); }
+.ag-mnemo p:last-child { margin-bottom: 0; }
+.ag-mnemo-t { font-weight: 750; }
+
+/* ---------- tabela e curva de desvios ---------- */
+.ag-tabela-bloco { margin-top: var(--s-5); border-top: 1px solid var(--line); padding-top: var(--s-4); }
+.ag-tab-cab { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: center; justify-content: space-between; }
+.ag-tab-cab h4 { margin: 0; font-size: var(--fs-1); }
+.ag-tab-nota { font-size: var(--fs--1); color: var(--ink-2); margin: var(--s-2) 0 var(--s-3); max-width: 72ch; }
+.ag-tab-grade { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); border: 1px solid var(--line); border-radius: var(--r-input); overflow: hidden; }
+@media (max-width: 640px) { .ag-tab-grade { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.ag-tab-cel { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 6px 4px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: var(--surface); }
+.ag-tab-proa { font-size: var(--fs--1); font-weight: 700; color: var(--ink-2); }
+.ag-tab-v { font-weight: 700; }
+.ag-tab-cel input { width: 100%; max-width: 5.5em; min-height: 40px; text-align: center; padding: 2px 4px; font-weight: 700; }
+.ag-curva { width: 100%; max-width: 560px; height: auto; display: block; margin-top: var(--s-3); font-family: var(--font); font-variant-numeric: tabular-nums; }
+.ag-curva-grade { stroke: var(--line); stroke-width: 0.6; fill: none; }
+.ag-curva-zero { stroke: var(--ink-3); stroke-width: 1; }
+.ag-curva-txt { font-size: 14px; fill: var(--ink-2); }
+.ag-curva-linha { fill: none; stroke: var(--ink); stroke-width: 1.6; }
+.ag-curva-pt { fill: var(--ink); }
+.ag-curva-cursor { stroke: var(--magenta); stroke-width: 1.2; stroke-dasharray: 3 2; }
+.ag-curva-marca { fill: var(--magenta); stroke: var(--paper); stroke-width: 1.5; }
+.ag-curva-rot { font-size: 14px; font-weight: 750; fill: var(--magenta); }
+
+/* ---------- exercícios ---------- */
+.ag-enunciado { font-size: 1.02rem; }
+.ag-ex-campos { gap: var(--s-3); }
+.ag-ew { display: flex; flex-wrap: wrap; gap: 4px var(--s-2); align-items: flex-end; border-radius: var(--r-input); }
+.ag-gm-rot { flex: 1 1 100%; }
+[data-res="certa"] input, [data-res="certa"] select, .ag-campo[data-res="certa"] input { border-color: var(--ok); box-shadow: inset 0 0 0 1px var(--ok); }
+[data-res="errada"] input, [data-res="errada"] select, .ag-campo[data-res="errada"] input { border-color: var(--erro); box-shadow: inset 0 0 0 1px var(--erro); }
+.ag-feedback:empty { display: none; }
+.ag-feedback { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-3) var(--s-4); }
+.ag-res { font-weight: 750; margin: 0 0 var(--s-2); }
+.ag-res[data-ok="1"] { color: var(--ok); }
+.ag-res[data-ok="0"] { color: var(--erro); }
+.ag-res-lista { margin: 0 0 var(--s-2); padding-left: 1.2em; }
+.ag-res-lista li[data-ok="1"]::marker { color: var(--ok); }
+.ag-res-lista li[data-ok="0"] { color: var(--erro); }
+.ag-res-sub { font-weight: 700; margin: var(--s-3) 0 0; }
+@media (max-width: 520px) { .widget-agulha-calc .instrumento-corpo { padding: var(--s-2); } }

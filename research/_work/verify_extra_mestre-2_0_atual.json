@@ -1,0 +1,178 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-mestre-2-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Índice DPC mostra NORMAM-211 ainda na Portaria 200 de 27/02/2026 (sem portaria posterior); art. 4.20 literal no consolidado."
+  },
+  {
+   "id": "extra-mestre-2-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Art. 1.9.3-1.9.7 e Nota 4 conferem no consolidado (o auto-check falhou só pelas reticências); sem portaria posterior; a lista omite 1.9.1/1.9.2/1.9.8, mas diz 'entre outras'."
+  },
+  {
+   "id": "extra-mestre-2-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Anexo 5-A do ZIP (mais novo) mantém bibliografia e o índice DPC não mostra portaria posterior à 200/2026."
+  },
+  {
+   "id": "extra-mestre-2-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Anexo 5-A item 2.1 (g,h,l,p) confere no ZIP de anexos; sem portaria posterior à 200/2026."
+  },
+  {
+   "id": "extra-mestre-2-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "notes": "Art. 1º literal no Planalto e decreto sem revogação expressa (art. 4º só revoga disposições contrárias)."
+  },
+  {
+   "id": "extra-mestre-2-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-aos-navegantes-tela",
+   "notes": "Página CHM reaberta hoje traz DH21 quinzenal, DH22 mensal e DH23 trimestral."
+  },
+  {
+   "id": "extra-mestre-2-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-aos-navegantes-tela",
+   "notes": "Texto sobre T, P, permanentes (Seção III), bacalhaus (VIII) e Seção IV/Folhas de Correções confere na página atual."
+  },
+  {
+   "id": "extra-mestre-2-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav/publicacoes",
+   "notes": "Lista de publicações náuticas e o texto sobre indispensabilidade/atualização conferem na página atual do CHM."
+  },
+  {
+   "id": "extra-mestre-2-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/catalogo-de-cartas-e-publicacoes",
+   "notes": "Página atual: Catálogo 2026-2030, 15ª edição, EMGEPRON Niterói e cartasnauticasbrasil.com.br."
+  },
+  {
+   "id": "extra-mestre-2-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/carta-12000-int-1",
+   "notes": "Página atual confirma Carta 12000, 5ª edição 2022, atualizada até Avisos nº 13/2026."
+  },
+  {
+   "id": "extra-mestre-2-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/roteiros",
+   "notes": "Página atual confirma três volumes (Norte, Leste, Sul) com as abrangências descritas."
+  },
+  {
+   "id": "extra-mestre-2-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois",
+   "notes": "Página atual: Lista de Faróis 2026-2027, 40ª edição, atualizada até Avisos nº 17/2026."
+  },
+  {
+   "id": "extra-mestre-2-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF da 40ª ed. reaberto: T=0,85, visibilidade 18,4 M e olho a 5 m conferem."
+  },
+  {
+   "id": "extra-mestre-2-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF reaberto confere a fórmula D=1,927(√H+√h) e o exemplo 19,2 M (cálculo: 1,927*(7,746+2,236)=19,2)."
+  },
+  {
+   "id": "extra-mestre-2-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF reaberto confere item 3.2: marcações verdadeiras, do mar para o sinal, sentido horário."
+  },
+  {
+   "id": "extra-mestre-2-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF reaberto confere precauções III, V e VI."
+  },
+  {
+   "id": "extra-mestre-2-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF reaberto: nº 1256 Cabo Branco, Lp. B. 10s, B.1,2-Ecl.8,8, altitude 46, alcances 27/17."
+  },
+  {
+   "id": "extra-mestre-2-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF reaberto: nº 1272 Olinda, Lp(2) B. 35s, altitude 90, alcances 46/22 (auto-check falhou só por quebra de colunas)."
+  },
+  {
+   "id": "extra-mestre-2-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF reaberto: nº 3956 Santa Marta, Oc(3) B.E. 30s, altitude 74, setores B 056-045 (349) e E 045-056 (11); auto-check falhou só por layout."
+  },
+  {
+   "id": "extra-mestre-2-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "PDF reaberto: nº 2400 Cabo Frio, Lp. B. 10s, altitude 140, alcances 49/27, setor 231-118 (247); auto-check falhou só por layout."
+  },
+  {
+   "id": "extra-mestre-2-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-sinais-cegos",
+   "notes": "Página atual: Lista de Sinais Cegos 2025-2029, 9ª edição, exceto hidrovias Paraguai-Paraná e Tietê-Paraná."
+  },
+  {
+   "id": "extra-mestre-2-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-auxilios-radio",
+   "notes": "Página atual: Lista de Auxílios-Rádio, 15ª edição, com a finalidade descrita."
+  },
+  {
+   "id": "extra-mestre-2-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-2",
+   "notes": "Página atual lista exatamente os 11 locais citados e a referência à preamar."
+  },
+  {
+   "id": "extra-mestre-2-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3",
+   "notes": "Página atual confirma 12 cartas, Mercator 1:10.000.000, Trinidad-Prata até 020°W e dados do verso."
+  },
+  {
+   "id": "extra-mestre-2-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/tabuas-das-mares",
+   "notes": "Página atual: Tábuas para 2026, 63ª ed., 44 portos e análise harmônica; edição 2027 ainda não listada (vai expirar ao fim do ano)."
+  },
+  {
+   "id": "extra-mestre-2-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav/cartas-raster",
+   "notes": "Informativos 3, 4 e 5 conferem na página atual (arquivos de ago/2026 listados)."
+  },
+  {
+   "id": "extra-mestre-2-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radio-nautico-tela/avisos-radio-nauticos-e-sar",
+   "notes": "Seletor de costa e idioma confere na página atual."
+  },
+  {
+   "id": "extra-mestre-2-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "notes": "Item 13.3.4 c)/d) confere no Manual Vol. I 2ª rev. 2023 (versão mais recente localizada); regra estável."
+  },
+  {
+   "id": "extra-mestre-2-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "notes": "Item 13.3 confere no Manual Vol. I 2ª rev. 2023 (versão mais recente localizada); regra estável."
+  }
+ ]
+}

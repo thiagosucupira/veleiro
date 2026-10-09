@@ -1,0 +1,26 @@
+{
+  "verdicts": [
+    {
+      "id": "extra-capitao-1-01",
+      "verdict": "divergente",
+      "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12876.htm",
+      "correction": "O 2º fuso (Greenwich menos 3 horas) compreende o Distrito Federal e os estados do Rio Grande do Sul, de Santa Catarina, do Paraná, de São Paulo, do Rio de Janeiro, de Minas Gerais, do Espírito Santo, de Goiás, do Tocantins, da Bahia, de Sergipe, de Alagoas, de Pernambuco, da Paraíba, do Rio Grande do Norte, do Ceará, do Piauí, do Maranhão, do Pará e do Amapá, ou seja, estados inteiros e não apenas o litoral. O 3º fuso (menos 4 horas) compreende MT, MS, RO, RR e a parte do AM a leste da linha de Tabatinga; o 4º fuso (menos 5 horas) compreende o Acre e a parte do AM a oeste da mesma linha.",
+      "evidence_quote": "b) o segundo fuso, caracterizado pela hora de Greenwich 'menos três horas', compreende o Distrito Federal e os Estados do Rio Grande do Sul, de Santa Catarina, do Paraná, de São Paulo, do Rio de Janeiro, de Minas Gerais, do Espírito Santo, de Goiás, do Tocantins, da Bahia, de Sergipe, de Alagoas, de Pernambuco, da Paraíba, do Rio Grande do Norte, do Ceará, do Piauí, do Maranhão, do Pará e do Amapá",
+      "notes": "Números de fuso e a lista de estados (3º e 4º fusos) batem com a lei, mas 'vale para o litoral' é erro de escopo: a lei fala em Estados inteiros, e a própria frase do claim cita DF, GO, TO e MG, que não são litoral."
+    },
+    {
+      "id": "extra-capitao-1-02",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+      "evidence_quote": "i - o primeiro fuso, em que a hora legal é igual à de greenwich diminuída de duas horas, compreende o arquipélago de fernando de noronha, a ilha da trindade e o arquipélago de são pedro e são paulo",
+      "notes": "O manual da DHN, item 19.11.3, transcreve literalmente o primeiro fuso (menos 2 horas) com os três componentes citados."
+    },
+    {
+      "id": "extra-capitao-1-03",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9772.htm",
+      "evidence_quote": "Art. 1º  Fica encerrada a hora de verão no território nacional.",
+      "notes": "O art. 1º do Decreto 9.772/2019 encerra a hora de verão; o 'desde então não adota' é consequência direta, sem reinstituição encontrada na fonte consultada."
+    }
+  ]
+}

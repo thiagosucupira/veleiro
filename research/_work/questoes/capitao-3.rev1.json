@@ -1,0 +1,846 @@
+{
+ "questoes": [
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro tem KB = 0,80 m, BM = 1,55 m e KG = 1,35 m (alturas medidas a partir da quilha, ponto K). Qual é a altura metacêntrica GM?",
+   "alternativas": [
+    "0,20 m.",
+    "0,55 m.",
+    "1,00 m.",
+    "1,55 m.",
+    "3,70 m."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Calculou BM − KG (1,55 − 1,35), esquecendo o KB.</li><li>B) Calculou KG − KB (1,35 − 0,80), que não tem significado de estabilidade.</li><li><b>C) Correta.</b> KM = KB + BM = 0,80 + 1,55 = 2,35 m; GM = KM − KG = 2,35 − 1,35 = 1,00 m.</li><li>D) Calculou KM − KB, que dá o próprio BM, e não o GM.</li><li>E) Somou o KG ao KM em vez de subtrair (2,35 + 1,35).</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (GM = KM − KG; KM = KB + BM)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Para ganhar espaço, o comandante passa um bote inflável com motor de popa (cerca de 80 kg) do paiol, no fundo do casco, para o teto da cabine. O peso total do barco não muda. O que acontece com a estabilidade?",
+   "alternativas": [
+    "O centro de gravidade G sobe e o GM diminui, deixando o barco menos estável.",
+    "O centro de gravidade G desce e o GM aumenta, porque o peso fica mais perto das velas.",
+    "Nada muda, porque o deslocamento continua o mesmo e só ele define a estabilidade.",
+    "O centro de carena B sobe junto com o bote e compensa a mudança do G.",
+    "O GM aumenta, porque um peso alto cria um braço de alavanca maior para endireitar o barco."
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><b>A) Correta.</b> Mudar um peso para cima eleva o KG; com o KM praticamente igual, GM = KM − KG diminui e o momento de endireitamento fica menor.</li><li>B) O peso foi para cima, e não para baixo; G sobe. A proximidade das velas é irrelevante para a posição de G.</li><li>C) O deslocamento é o mesmo, mas a altura do peso muda o KG e, com ele, o GM.</li><li>D) B depende só da forma do volume imerso; o bote em cima da cabine não altera B.</li><li>E) Um peso alto não ajuda a endireitar o barco: quando ele inclina, o peso alto acompanha o movimento e reduz o GZ.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (efeito de pesos altos)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro tem GM = 0 (o metacentro M coincide com o centro de gravidade G). Como se classifica o equilíbrio do barco na posição direita?",
+   "alternativas": [
+    "Estável: o barco sempre volta à posição direita, embora lentamente.",
+    "Instável: G está acima de M e a inclinação tende a aumentar.",
+    "Estável, mas com GZ máximo logo nos primeiros graus de inclinação.",
+    "Indiferente: não surge momento de retorno, e o barco fica onde for deixado.",
+    "Inexistente: com GM nulo o barco emborca no mesmo instante."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) Para voltar à posição direita é preciso GM positivo (M acima de G).</li><li>B) Equilíbrio instável é de GM negativo (G acima de M); aqui G e M coincidem.</li><li>C) Com GM nulo o GZ inicial é praticamente nulo, e não máximo.</li><li><b>D) Correta.</b> Com GM = 0 o braço de endireitamento é nulo para pequenas inclinações (a forma do casco só altera isso em ângulos maiores); não há momento que devolva nem que aumente a inclinação, e o equilíbrio é indiferente.</li><li>E) O barco não emborca no mesmo instante; apenas não tem tendência de retorno, e qualquer perturbação o leva mais longe.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 a) III) (condições de equilíbrio); USNA, EN400, cap. 4",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Qual das situações abaixo é um caso típico de efeito de superfície livre?",
+   "alternativas": [
+    "Tanque de combustível totalmente cheio, com a tampa fechada.",
+    "Lastro de chumbo fixado na quilha, bem no fundo do casco.",
+    "Galões de água fechados e peiados no fundo do paiol de proa.",
+    "Tanque de água completamente vazio, limpo e seco.",
+    "Água solta na sentina, correndo de bordo a bordo quando o barco inclina."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) Tanque cheio não tem superfície livre; o líquido se comporta como peso fixo.</li><li>B) O lastro é sólido e fixo: não se desloca com a inclinação.</li><li>C) Recipientes fechados e peiados não deixam o líquido correr de bordo a bordo.</li><li>D) Tanque vazio não contém líquido que possa se deslocar.</li><li><b>E) Correta.</b> O efeito de superfície livre aparece quando um líquido tem uma superfície livre para se deslocar: o líquido corre para o bordo baixo, o G efetivo sobe e o GM efetivo diminui.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (item 1.4 b) II: efeito de superfície livre)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Para reduzir o efeito de superfície livre durante uma travessia, a prática recomendada é manter os tanques de água e combustível:",
+   "alternativas": [
+    "Completamente cheios ou completamente vazios, consumindo um tanque de cada vez até esvaziá-lo.",
+    "Todos pela metade, para que o peso fique bem distribuído pelo barco.",
+    "Com o mesmo nível nos dois bordos, consumindo um pouco de cada tanque por dia.",
+    "Com os tanques centrais pela metade e os laterais vazios, para ficarem como contrapeso.",
+    "Parcialmente cheios, transferindo líquido de um tanque para outro com frequência para corrigir a banda."
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><b>A) Correta.</b> Tanque cheio ou vazio não tem superfície livre. Esvaziar um tanque por vez deixa só um tanque parcial a cada momento, o que limita a perda de GM.</li><li>B) Tanques pela metade são justamente o pior caso: todos têm superfície livre ao mesmo tempo.</li><li>C) Consumir um pouco de cada deixa vários tanques parciais, somando as superfícies livres.</li><li>D) Tanque meio cheio, central ou não, tem superfície livre, e a largura grande aumenta o efeito.</li><li>E) A transferência no mar deixa dois tanques semicheios no meio do processo e aumenta o problema.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 b) II); Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 42",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro, amarrado em águas calmas, sem vento e sem ondas, permanece inclinado 4° para boreste. O GM medido é positivo e normal. Qual é a causa mais provável dessa banda permanente?",
+   "alternativas": [
+    "GM negativo, que leva o barco ao ângulo de loll.",
+    "Efeito de superfície livre de um tanque cheio e fechado.",
+    "Valor exagerado de BM, causado pela boca larga do casco.",
+    "Pressão do vento sobre o mastro e o enrolador de gênova.",
+    "Pesos ou tanques consumidos de modo desigual entre os bordos."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) O enunciado diz que o GM é positivo; o loll só ocorre com GM negativo.</li><li>B) Tanque totalmente cheio não tem superfície livre.</li><li>C) Um BM grande aumenta o GM; não inclina o barco para um bordo.</li><li>D) O enunciado diz que não há vento.</li><li><b>E) Correta.</b> Pesos ou consumo desiguais tiram o G da linha de centro. Com GM positivo, o barco só fica inclinado se G estiver fora do plano de simetria: o barco inclina até G e B ficarem na mesma vertical. É o caso típico de pesos mal distribuídos ou de tanques consumidos de um bordo só.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 b) I) (causas da banda permanente); USNA, EN400, cap. 4",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Em mau tempo, uma onda quebra no cockpit e entra bastante água no interior do veleiro, espalhando-se pelo piso da cabine. Quais são os dois efeitos principais sobre a estabilidade?",
+   "alternativas": [
+    "A água é peso baixo, que sempre abaixa o G e aumenta o GM, e a superfície livre é desprezível em piso largo.",
+    "A água é peso que reduz a borda-livre e a reserva de flutuação e, solta no piso, cria superfície livre que diminui o GM efetivo.",
+    "A água aumenta a borda-livre, porque o barco fica mais pesado, e a superfície livre amortece o balanço do barco.",
+    "A água só altera o calado, sem influência no GM nem no GZ, desde que o barco continue a boiar.",
+    "A água desloca o centro de carena B para cima e por isso o barco fica mais firme no mar."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) Ignora que a superfície livre é maior quanto mais larga é a poça, e que o peso reduz a borda-livre.</li><li><b>B) Correta.</b> A água embarcada soma peso, afunda o barco, diminui a borda-livre e antecipa o alagamento; solta no piso, tem superfície livre larga, que reduz o GM efetivo.</li><li>C) Mais peso significa menos borda-livre, e não mais; e a superfície livre piora a estabilidade.</li><li>D) O peso adicional e a superfície livre alteram o GM e o GZ; o calado é só uma das consequências.</li><li>E) O afundamento sobe o B só um pouco e isso não compensa a perda de GM pela superfície livre e pelo peso adicionado; o barco fica mais mole, e não mais firme.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 b) III) (embarque de água do mar e água aberta); Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 42",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de 5.000 kg tem GM = 0,8 m. Um peso de 200 kg é deslocado 2,0 m na transversal, de um bordo ao outro. Pela fórmula tan θ = (w × d) ÷ (Δ × GM), qual é a banda resultante, aproximadamente?",
+   "alternativas": [
+    "tan θ = 0,05, ou cerca de 2,9°.",
+    "tan θ = 0,08, ou cerca de 4,6°.",
+    "tan θ = 0,10, ou cerca de 5,7°.",
+    "tan θ = 0,20, ou cerca de 11,3°.",
+    "tan θ = 0,40, ou cerca de 21,8°."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Resulta de usar um braço de apenas 1,0 m, metade do deslocamento do peso.</li><li>B) Resulta de esquecer o GM (400 ÷ 5.000).</li><li><b>C) Correta.</b> w × d = 200 × 2,0 = 400 kg·m; Δ × GM = 5.000 × 0,8 = 4.000 kg·m; tan θ = 400 ÷ 4.000 = 0,10, e θ ≈ 5,7°.</li><li>D) Resulta de usar um deslocamento de 2.500 kg, a metade do correto.</li><li>E) Resulta de um deslocamento de 1.250 kg, muito abaixo dos 5.000 kg do barco.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4, item 4.6 (banda por peso deslocado)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de 5.000 kg, com GM = 0,8 m, está com banda permanente de tan θ = 0,06 (cerca de 3,4°), causada por pesos mal estivados. Para desfazê-la, o comandante quer transferir 120 kg de um bordo para o outro. Qual deslocamento transversal desse peso é necessário?",
+   "alternativas": [
+    "1,0 m.",
+    "2,0 m.",
+    "2,5 m.",
+    "3,0 m.",
+    "4,0 m."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) Corresponde a só metade do momento necessário (120 kg·m).</li><li><b>B) Correta.</b> O momento necessário é Δ × GM × tan θ = 5.000 × 0,8 × 0,06 = 240 kg·m. Com 120 kg, d = 240 ÷ 120 = 2,0 m.</li><li>C) Resulta de esquecer o GM (5.000 × 0,06 = 300 kg·m; 300 ÷ 120).</li><li>D) Corresponde a 360 kg·m, que daria tan θ = 0,09.</li><li>E) Corresponde ao dobro do momento necessário (480 kg·m).</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4, item 4.6 (correção da banda permanente)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Num veleiro de 10.000 kg com GM = 0,70 m, o banco de baterias de 400 kg está no alto do paiol, a 3,0 m da quilha. O comandante o transfere para o fundo, a 0,5 m da quilha. Supondo o KM constante, o novo GM será de aproximadamente:",
+   "alternativas": [
+    "0,60 m.",
+    "0,72 m.",
+    "0,80 m.",
+    "0,82 m.",
+    "1,70 m."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Subtraiu 0,10 m do GM; descer um peso baixa o G e aumenta o GM.</li><li>B) Usou só a altura final (400 × 0,5 ÷ 10.000 = 0,02 m).</li><li><b>C) Correta.</b> Descer o peso de 3,0 m para 0,5 m baixa o G em w × d ÷ Δ = 400 × 2,5 ÷ 10.000 = 0,10 m. Como GM = KM − KG, o GM sobe de 0,70 para 0,80 m.</li><li>D) Usou só a altura inicial (400 × 3,0 ÷ 10.000 = 0,12 m) e não o deslocamento vertical de 2,5 m.</li><li>E) Dividiu por 1.000 em vez de 10.000, achando que o G desceria 1,0 m.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (efeito de pesos altos e baixos)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de 9.000 kg tem KG = 1,40 m e KM = 2,30 m. Antes de uma travessia, o comandante embarca 1.000 kg de equipamentos cujo centro de peso fica a 4,4 m da quilha. Supondo o KM constante, qual será o novo KG e o novo GM?",
+   "alternativas": [
+    "KG = 1,40 m e GM = 0,90 m.",
+    "KG = 1,70 m e GM = 0,60 m.",
+    "KG = 1,84 m e GM = 0,46 m.",
+    "KG = 1,89 m e GM = 0,41 m.",
+    "KG = 2,90 m e GM = −0,60 m."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) Ignorou o novo peso: o KG sobe quando se embarca um peso acima do G.</li><li><b>B) Correta.</b> KG novo = (9.000 × 1,40 + 1.000 × 4,4) ÷ 10.000 = (12.600 + 4.400) ÷ 10.000 = 1,70 m. GM novo = 2,30 − 1,70 = 0,60 m (o GM caiu de 0,90 para 0,60 m).</li><li>C) Somou ao KG todo o momento do peso novo (4.400 ÷ 10.000 = 0,44 m), sem diluir o KG original.</li><li>D) Dividiu os momentos por 9.000 kg, esquecendo que o deslocamento passou a 10.000 kg.</li><li>E) Fez a média simples entre 1,40 e 4,40, sem ponderar pelas massas.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (alteração do projeto: KG novo = soma dos momentos ÷ deslocamento)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Dois veleiros de mesmo tamanho e forma diferem só no GM: o A tem GM = 1,6 m e o B tem GM = 0,4 m. Sabendo que o período de balanço T é proporcional a 1/√GM, o período de B em relação ao de A é aproximadamente:",
+   "alternativas": [
+    "Um quarto, porque o período varia com o quadrado do GM.",
+    "A metade, porque um GM menor torna o balanço mais rápido.",
+    "Igual nos dois, pois o período depende só do comprimento do casco.",
+    "O dobro: B balança mais devagar (mole) e A mais depressa (duro).",
+    "Quatro vezes maior, porque o GM de B é quatro vezes menor."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) T não varia com o quadrado do GM, e sim com o inverso da sua raiz.</li><li>B) Inverteu a relação: GM menor dá período maior, e não menor.</li><li>C) O período depende do GM e do raio de giração, e não só do comprimento.</li><li><b>D) Correta.</b> A relação entre os GM é 1,6 ÷ 0,4 = 4. Como T ∝ 1/√GM, T de B ÷ T de A = √4 = 2: o período de B é o dobro.</li><li>E) Esqueceu a raiz quadrada: T não é proporcional a 1/GM.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 a) II) (altura metacêntrica); Rawson e Tupper, Basic Ship Theory (período de balanço); USNA, EN400, cap. 4 (barco mole e barco duro)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Em uma prova de inclinação em águas calmas, um veleiro de 8.000 kg recebe um peso de 100 kg deslocado 4,0 m de um bordo ao outro, e a banda medida é de tan θ = 0,05. Qual é o GM do barco, por GM = (w × d) ÷ (Δ × tan θ)?",
+   "alternativas": [
+    "0,25 m.",
+    "0,5 m.",
+    "1,0 m.",
+    "2,0 m.",
+    "4,0 m."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Resulta de usar um deslocamento transversal de apenas 1,0 m (100 ÷ 400).</li><li>B) Resulta de usar um deslocamento transversal de apenas 2,0 m (200 ÷ 400).</li><li><b>C) Correta.</b> w × d = 100 × 4,0 = 400 kg·m. Δ × tan θ = 8.000 × 0,05 = 400. GM = 400 ÷ 400 = 1,0 m.</li><li>D) Resulta de usar um peso de 200 kg em vez de 100 kg (800 ÷ 400).</li><li>E) Resulta de usar um peso de 400 kg em vez de 100 kg (1.600 ÷ 400).</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); Rawson e Tupper, Basic Ship Theory (prova de inclinação); USNA, EN400, cap. 4, item 4.6 (deslocamento transversal de peso)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro tem GM = 0,80 m. Para pequenas inclinações vale GZ ≈ GM × sen φ. Com banda de 10° (sen 10° ≈ 0,174), o braço de endireitamento GZ é aproximadamente:",
+   "alternativas": [
+    "0,014 m.",
+    "0,14 m.",
+    "0,79 m.",
+    "4,6 m.",
+    "8,0 m."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) Errou a casa decimal: o produto 0,80 × 0,174 dá 0,14, e não 0,014.</li><li><b>B) Correta.</b> GZ ≈ 0,80 × 0,174 ≈ 0,14 m.</li><li>C) Usou o cosseno (0,985) em vez do seno.</li><li>D) Dividiu o GM pelo seno (0,80 ÷ 0,174).</li><li>E) Multiplicou o GM pelo ângulo em graus (0,80 × 10), sem usar o seno.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (GZ e altura metacêntrica)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 2,
+   "enunciado": "Na curva de estabilidade estática de um veleiro, o ângulo de estabilidade nula (limite de estabilidade) é aquele em que:",
+   "alternativas": [
+    "O GZ atinge o seu valor máximo, no ponto mais alto da curva.",
+    "O convés entra na água e o barco começa a encher de água.",
+    "Uma abertura sem fechamento estanque passa a alagar o barco.",
+    "O GZ volta a ser zero; além dele o GZ é negativo e o barco tende a emborcar.",
+    "O GM se anula e o equilíbrio do barco se torna indiferente."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) O GZ máximo é o pico da curva, bem antes do ângulo de estabilidade nula.</li><li>B) A entrada do convés na água marca o início da perda de forma, mas não o GZ zero.</li><li>C) O ângulo de alagamento é aquele em que as aberturas alagam; é outro ponto da curva.</li><li><b>D) Correta.</b> A curva de GZ cresce, passa por um máximo e depois cai até zero. O ângulo em que ele cruza o zero é o limite de estabilidade; depois dele o binário ajuda a emborcar.</li><li>E) O GM é a inclinação da curva na origem e não está ligado ao ângulo de estabilidade nula.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (curva de GZ); Miguens, vol. III, cap. 42",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro de quilha, com tanques de combustível e de água semicheios e vários galões de combustível no convés, balança lentamente de um bordo ao outro, parando a cerca de 15° de cada lado, mesmo sem vento. O que isso indica e qual é a primeira providência?",
+   "alternativas": [
+    "GM negativo (loll); baixar o G, eliminando a superfície livre e os pesos altos, antes de corrigir o lado.",
+    "GM positivo, com banda permanente; transferir pesos de bordo rapidamente para o bordo alto.",
+    "GM negativo; encher primeiro o tanque do bordo alto, para corrigir a banda de uma vez.",
+    "GM excessivo (barco duro); retirar lastro do fundo, para amaciar o balanço do barco.",
+    "Efeito de rajadas de vento; rizar a vela e manter os tanques como estão, sem mexer."
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><b>A) Correta.</b> O barco que balança entre dois lados com o mesmo ângulo está em loll: G acima de M. A causa é G alto e superfície livre. Só se corrige o lado depois de baixar G e começando pelo bordo baixo.</li><li>B) Na banda permanente o barco fica em um só bordo; transferir peso de repente para o bordo alto pode virá-lo de uma vez para o outro lado.</li><li>C) Encher o tanque do bordo alto antes do baixo pode lançar o barco ao outro bordo com ângulo maior.</li><li>D) Retirar lastro eleva o G e piora o GM; um barco duro tem GM alto, o que não é o caso.</li><li>E) O enunciado diz que não há vento; o problema é de estabilidade, não de pano.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 a) III) e b) I); USNA, EN400 Principles of Ship Performance, cap. 4, item 4.9.4.1 (loll: lastrar baixo para baixar o G)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 3,
+   "enunciado": "Para um casco de costado reto, o ângulo de loll é dado por tan²θ = −2 × GM ÷ BM. Um veleiro tem GM = −0,10 m e BM = 1,50 m. O ângulo de loll é de aproximadamente:",
+   "alternativas": [
+    "4°.",
+    "8°.",
+    "15°.",
+    "20°.",
+    "80°."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) Usou 0,10 ÷ 1,50 = 0,067 como tan θ, sem o fator 2 e sem a raiz (θ ≈ 3,8°).</li><li>B) Usou tan θ = 0,133 sem extrair a raiz quadrada (tan 7,6° ≈ 0,133).</li><li>C) Esqueceu o fator 2: tan²θ = 0,0667, tan θ = 0,258 e θ ≈ 14,5°.</li><li><b>D) Correta.</b> tan²θ = 2 × 0,10 ÷ 1,50 = 0,133; tan θ = 0,365; θ ≈ 20°.</li><li>E) Inverteu GM e BM (2 × 1,50 ÷ 0,10 = 30), o que levaria o barco a quase 80°.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 a) III); Rawson e Tupper, Basic Ship Theory (ângulo de loll, casco de costado reto); USNA, EN400, cap. 4, item 4.9.4.1",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 3,
+   "enunciado": "Um tanque retangular largo de água doce tem 3,0 m de comprimento e 2,0 m de largura, está parcialmente cheio e pertence a um veleiro de 8.000 kg com GM = 0,90 m. Use i = l × b³ ÷ 12 e FSC = ρ × i ÷ Δ (ρ = 1.000 kg/m³). Qual é o GM efetivo, com a correção de superfície livre?",
+   "alternativas": [
+    "0,15 m.",
+    "0,40 m.",
+    "0,65 m.",
+    "0,84 m.",
+    "1,15 m."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Usou i = l × b³ ÷ 4 (6,0 m⁴), com FSC = 0,75 m.</li><li>B) Usou i = l × b³ ÷ 6 (4,0 m⁴), com FSC = 0,50 m.</li><li><b>C) Correta.</b> i = 3,0 × 2,0³ ÷ 12 = 2,0 m⁴. FSC = 1.000 × 2,0 ÷ 8.000 = 0,25 m. GM efetivo = 0,90 − 0,25 = 0,65 m.</li><li>D) Usou i = l × b ÷ 12 (0,5 m⁴), esquecendo que a largura entra ao cubo.</li><li>E) Somou o FSC ao GM, quando a superfície livre diminui o GM efetivo.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (superfície livre: GM efetivo = GM − FSC)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 3,
+   "enunciado": "Um tanque retangular largo recebe um anteparo longitudinal exatamente no meio, dividindo-o em dois tanques iguais. Com o mesmo líquido e o mesmo nível, o efeito de superfície livre (FSC) total do conjunto, em relação ao tanque sem anteparo, passa a ser:",
+   "alternativas": [
+    "Um oitavo do original.",
+    "Um quarto do original.",
+    "A metade do original.",
+    "O mesmo do original.",
+    "O dobro do original."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) Um oitavo é o valor de um único compartimento; há dois.</li><li><b>B) Correta.</b> O momento de inércia da superfície é i = l × b³ ÷ 12. Cada metade tem largura b÷2, logo i = l × (b÷2)³ ÷ 12 = (1/8) do original; as duas somadas dão 2 × 1/8 = 1/4.</li><li>C) Daria a metade se i variasse com o quadrado da largura (2 × 1/4); mas ele varia com o cubo, e o resultado é 1/4.</li><li>D) O anteparo longitudinal é justamente usado para reduzir a superfície livre.</li><li>E) Dividir o tanque não aumenta a superfície livre.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (superfície livre: precauções e correções)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Estabilidade",
+   "dificuldade": 3,
+   "enunciado": "Dois cascos de formas semelhantes e de mesmo volume deslocado diferem na boca: o segundo tem 10% mais boca que o primeiro. Sabendo que BM = I ÷ V e que I cresce com a boca ao cubo, o BM do segundo casco é maior que o do primeiro em aproximadamente:",
+   "alternativas": [
+    "10%.",
+    "21%.",
+    "33%.",
+    "46%.",
+    "50%."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Seria o caso se BM variasse linearmente com a boca.</li><li>B) 1,1² = 1,21: usou o quadrado da boca, e não o cubo.</li><li><b>C) Correta.</b> I cresce com a boca ao cubo: 1,1³ = 1,331, ou seja, cerca de 33% mais. O volume V é o mesmo, então BM cresce na mesma proporção.</li><li>D) 1,1⁴ = 1,46: usou a quarta potência.</li><li>E) 50% não vem de nenhuma relação física do problema: com I proporcional ao cubo da boca, o aumento é de 1,1³ = 1,331.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.4 (Estabilidade); USNA, EN400 Principles of Ship Performance, cap. 4 (BM = I ÷ V)",
+   "fonte_url": "https://usna.edu/NAOE/_files/documents/Courses/EN400/02.04%20Chapter%204.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 1,
+   "enunciado": "Segundo a orientação tradicional de sobrevivência em balsa (a que costuma ser cobrada nas provas), qual é a conduta quanto à água nas primeiras 24 horas para sobreviventes sem ferimentos?",
+   "alternativas": [
+    "Não distribuir água: as reservas do corpo bastam nesse período e o enjoo faria perder o que fosse bebido.",
+    "Distribuir um litro por pessoa, para repor a água perdida no abandono.",
+    "Distribuir meio litro por pessoa logo na primeira hora, antes que o enjoo comece.",
+    "Dar água do mar diluída em água doce, para fazer a ração durar mais.",
+    "Dar água só para quem vomitar, já que os demais não perderam líquido."
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><b>A) Correta.</b> A orientação tradicional é guardar a água nas primeiras 24 h (exceto para feridos e doentes) e depois racionar cerca de meio litro por pessoa por dia, em pequenos goles. A água dura mais se ninguém vomita ou transpira.</li><li>B) Um litro no primeiro dia gasta a reserva sem necessidade.</li><li>C) Beber logo no início desperdiça água, pois quem enjoa vomita o que bebeu.</li><li>D) Água do mar nunca deve ser bebida, nem diluída: o sal desidrata.</li><li>E) Quem vomita perde ainda mais água; dar-lhe água logo só agrava o desperdício.</li></ul>",
+   "referencia": "Orientação tradicional de sobrevivência no mar (ver Rezende, Sobrevivência no Mar, bibliografia do Anexo 5-A, item 1.9 f, da NORMAM-211); IMO, Res. A.657(16), Parte B, item 15 (decidir as rações de água e comida). Fontes modernas pedem avaliar cada caso.",
+   "fonte_url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.657(16).pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 1,
+   "enunciado": "Qual é a principal função da âncora flutuante (âncora de mar) de uma balsa salva-vidas?",
+   "alternativas": [
+    "Prender a balsa ao fundo, para que ela não se afaste da posição do naufrágio.",
+    "Fazer a balsa navegar contra o vento até a terra mais próxima.",
+    "Manter a balsa ligada ao barco que está afundando.",
+    "Encher de ar os bolsões de lastro da balsa.",
+    "Reduzir a deriva e manter a balsa mais estável ao mar, diminuindo o risco de emborcar."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) Em águas profundas ela não toca o fundo; só freia a deriva.</li><li>B) A balsa não navega contra o vento; a âncora de mar só reduz a velocidade da deriva.</li><li>C) Quem liga a balsa ao barco é a boça, que deve ser cortada se o barco estiver afundando.</li><li>D) Os bolsões de lastro enchem-se de água, e não de ar, e o fazem sozinhos.</li><li><b>E) Correta.</b> A âncora flutuante é um cone de lona lançado na água na ponta de um cabo: freia a deriva e ajuda a manter a balsa de proa para o mar, o que reduz o balanço e o risco de emborcar.</li></ul>",
+   "referencia": "IMO, Res. A.657(16), Parte A, item 3 (lançar a âncora flutuante ao se afastar do navio)",
+   "fonte_url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.657(16).pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 1,
+   "enunciado": "Para que serve o fundo duplo inflável de uma balsa salva-vidas?",
+   "alternativas": [
+    "Aumentar a flutuação das câmaras que formam o aro.",
+    "Guardar a ração e a água da palamenta.",
+    "Substituir os bolsões de lastro como elemento de estabilidade.",
+    "Isolar os ocupantes do frio da água do mar.",
+    "Fornecer ar de reserva para respiração dentro da balsa."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) A flutuação é dada pelas câmaras do aro, e não pelo fundo.</li><li>B) A ração e a água ficam na palamenta, em bolsas ou recipientes próprios.</li><li>C) A estabilidade contra o emborcamento vem dos bolsões de lastro.</li><li><b>D) Correta.</b> O fundo duplo cria uma camada de ar entre a água fria e o piso. Deve ser inflado e mantido seco para reduzir a perda de calor por condução.</li><li>E) O ar do fundo duplo não é próprio para respirar; a ventilação é feita pelas entradas do toldo.</li></ul>",
+   "referencia": "IMO, Res. A.657(16), Parte B, item 5 (secar e inflar o piso da balsa); IMO, Código LSA, cap. IV (piso da balsa com isolamento contra o frio)",
+   "fonte_url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.657(16).pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 1,
+   "enunciado": "Hipotermia é a condição em que:",
+   "alternativas": [
+    "A temperatura central do corpo cai abaixo de 35 °C e o organismo passa a funcionar mal.",
+    "A temperatura da pele cai abaixo de 35 °C, mesmo com o corpo aquecido por dentro.",
+    "A temperatura central do corpo cai abaixo de 37 °C, que é a temperatura normal.",
+    "A temperatura central sobe acima de 39 °C por exposição ao sol.",
+    "A temperatura da água cai abaixo de 20 °C."
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><b>A) Correta.</b> Hipotermia é a queda da temperatura central do corpo abaixo de cerca de 35 °C; aparecem tremores, perda de coordenação, confusão e, nos casos graves, perda de consciência.</li><li>B) A pele esfria muito antes do núcleo do corpo; o critério é a temperatura central.</li><li>C) A temperatura normal do corpo é de cerca de 36 a 37 °C; a hipotermia só começa abaixo de 35 °C.</li><li>D) Temperatura acima de cerca de 39 °C é hipertermia (insolação).</li><li>E) A temperatura da água é fator de risco, mas não define a hipotermia.</li></ul>",
+   "referencia": "FICR/GFARC, Diretrizes Internacionais de Primeiros Socorros 2025 (hipotermia); National Center for Cold Water Safety, Hypothermia (temperatura central abaixo de 35 °C)",
+   "fonte_url": "https://www.coldwatersafety.org/hypothermia"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante sozinho na água fria, com colete salva-vidas, aguarda o resgate. Qual posição ajuda a retardar a perda de calor?",
+   "alternativas": [
+    "Nadar sem parar, para produzir calor pelo exercício.",
+    "Boiar de costas com braços e pernas abertos, para ficar visível.",
+    "Tirar a roupa pesada, para nadar com mais facilidade.",
+    "A posição HELP: joelhos junto ao peito e braços cruzados, quase sem se mexer.",
+    "Ficar na vertical, batendo as pernas, com a cabeça bem fora da água."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) Nadar em água fria acelera a perda de calor, porque a água em movimento retira mais calor do corpo.</li><li>B) Braços e pernas abertos expõem justamente as áreas de maior perda.</li><li>C) A roupa retém algum calor mesmo molhada; tirá-la só aumenta a perda.</li><li><b>D) Correta.</b> Na posição HELP (Heat Escape Lessening Posture) protegem-se as áreas de maior perda de calor, como o tórax, a virilha e as laterais do corpo, e gasta-se pouca energia.</li><li>E) Bater as pernas gasta energia e aumenta a perda de calor.</li></ul>",
+   "referencia": "Royal Life Saving Society Australia, Risks of cold water: how to stay safe (posição HELP: joelhos ao peito, braços junto ao corpo, mínimo de movimento, com colete)",
+   "fonte_url": "https://www.royallifesaving.com.au/stay-safe-active/risk-factors/risks-of-cold-water/how-to-stay-safe"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 1,
+   "enunciado": "Pela NORMAM-211, na navegação oceânica, a embarcação de esporte e recreio deve ter balsas salva-vidas infláveis para:",
+   "alternativas": [
+    "50% das pessoas a bordo, desde que a outra metade caiba no bote.",
+    "100% das pessoas a bordo, mas obrigatoriamente de classe I (SOLAS).",
+    "100% das pessoas a bordo, podendo ser de classe II.",
+    "Apenas as pessoas que não tenham coletes de classe I.",
+    "Número igual ao de coletes, mais 10% de reserva."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Metade da lotação não atende à norma: a capacidade deve cobrir todos.</li><li>B) A norma admite a classe II; a classe I não é exigida.</li><li><b>C) Correta.</b> Na navegação oceânica a norma exige balsa(s) inflável(is) com capacidade para toda a lotação, e aceita balsas de classe II.</li><li>D) Os coletes não substituem a balsa, e todos a bordo precisam ter lugar nela.</li><li>E) A exigência é de capacidade para 100% das pessoas, e não de uma reserva percentual.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.13",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Qual conjunto descreve corretamente a EPIRB exigida pela NORMAM-211?",
+   "alternativas": [
+    "Transmite em 121,5 MHz via satélite, tem código iniciado por 710 e é cadastrada no INFOSAR.",
+    "Transmite em 406 MHz via satélite, tem código iniciado por 701 e é cadastrada no INFOSAR.",
+    "Transmite em 406 MHz via satélite, tem código iniciado por 710, mas dispensa qualquer cadastro oficial.",
+    "Transmite em VHF, no canal 16, sem satélite, e é cadastrada no INFOSAR.",
+    "Transmite em 406 MHz via satélite, tem código único iniciado por 710 (Brasil) e é cadastrada no INFOSAR."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) O sistema Cospas-Sarsat não processa mais 121,5 MHz desde fevereiro de 2009.</li><li>B) O prefixo 710 é o do Brasil; o 701 é de outro país.</li><li>C) O cadastro no INFOSAR é obrigatório; ele permite à busca e salvamento identificar o barco e os contatos.</li><li>D) A EPIRB é uma radiobaliza de satélite, e não um rádio VHF.</li><li><b>E) Correta.</b> A norma exige a EPIRB de 406 MHz via satélite, com código de identificação (MMSI) iniciado por 710 e cadastrada no INFOSAR, serviço do DECEA.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6, alíneas c), d) e e)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Como um SART ativado aparece na tela do radar de um navio de resgate, e em que banda ele opera?",
+   "alternativas": [
+    "Opera na banda de 9 GHz (banda X) e aparece como uma linha de doze pontos a partir da posição do SART.",
+    "Opera em 3 GHz (banda S) e aparece como uma linha de doze pontos a partir da sua posição.",
+    "Opera em 9 GHz e aparece como um único eco fixo, igual ao de um alvo comum.",
+    "Opera em VHF, no canal 16, e aparece como texto na tela do radar.",
+    "Opera em 406 MHz e aparece como um círculo em volta da antena do radar."
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><b>A) Correta.</b> O SART responde aos pulsos de radares de 9 GHz e gera uma série de 12 respostas, vistas como uma linha de doze pontos que parte de sua posição, o que o distingue dos alvos normais.</li><li>B) O SART responde ao radar de banda X (9 GHz), e não ao de 3 GHz.</li><li>C) Ele não é um eco comum: gera uma linha de doze pontos.</li><li>D) VHF é do rádio; o SART é um respondedor de radar.</li><li>E) 406 MHz é a frequência da EPIRB; o SART só atua na faixa do radar.</li></ul>",
+   "referencia": "SOLAS, cap. IV, Regra 7.1.3 (respondedor radar de 9 GHz); NORMAM-211/DPC, art. 4.24.1 a) III)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Num resgate por helicóptero, o cabo do guincho desce até a balsa. Qual é o procedimento correto antes de tocá-lo?",
+   "alternativas": [
+    "Prender o cabo à balsa, para que ela não se afaste do helicóptero.",
+    "Segurá-lo assim que chegar ao nível da balsa e passá-lo ao colega mais próximo.",
+    "Disparar um facho de luz vermelha na direção do piloto.",
+    "Esperar que o cabo toque a água, para descarregar a eletricidade estática, e só então segurá-lo.",
+    "Lançar uma segunda âncora flutuante, para estabilizar a balsa."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) O cabo não deve ser prendido à balsa; o movimento de ambos poderia causar acidente.</li><li>B) Segurar o cabo antes de ele tocar a água expõe a pessoa à descarga estática.</li><li>C) O facho ofuscaria o piloto; a sinalização já foi feita antes.</li><li><b>D) Correta.</b> O cabo acumula carga estática no voo; encostar na água a descarrega e evita um choque ao sobrevivente. Depois, seguem-se apenas as ordens do resgatista.</li><li>E) A âncora flutuante não é usada nessa fase e pode se enroscar no cabo.</li></ul>",
+   "referencia": "IMO, Res. A.657(16), Parte B, item 20.3 (preparar o resgate por helicóptero); IAMSAR, Vol. III (içamento por helicóptero)",
+   "fonte_url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.657(16).pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Uma EPIRB foi ativada e a posição do naufrágio foi informada à Marinha. Após dois dias sem resgate, os sobreviventes continuam na balsa. Qual é a conduta mais indicada?",
+   "alternativas": [
+    "Remar rumo à costa mais próxima, para encurtar o tempo de resgate.",
+    "Desligar a EPIRB para poupar a bateria e ligá-la só à noite.",
+    "Recolher a âncora flutuante e seguir a favor da corrente até um porto.",
+    "Disparar todos os pirotécnicos de uma vez, para chamar a atenção.",
+    "Ficar o mais perto possível da posição do alerta, com a EPIRB ligada."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) Quem se afasta sai da área de busca; a balsa não rema longas distâncias.</li><li>B) A EPIRB deve ficar ligada o tempo todo; desligá-la interrompe o alerta.</li><li>C) Recolher a âncora flutuante aumenta a deriva e afasta a balsa da posição conhecida; além disso, a balsa não segue com precisão até um porto.</li><li>D) Os pirotécnicos são limitados e só devem ser usados quando há algo à vista.</li><li><b>E) Correta.</b> Se o alerta foi enviado e a posição é conhecida, as buscas começam ali: no local do naufrágio e na deriva provável; afastar-se atrapalha o resgate.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 43.1 (se o alerta foi transmitido, pode ser melhor permanecer no local do naufrágio); IMO, Res. A.657(16), Parte B, item 12 (usar o equipamento de detecção, inclusive rádio)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Uma balsa com 5 pessoas dispõe de 20 litros de água potável. Pela regra clássica (nenhuma água nas primeiras 24 horas e, depois, 0,5 litro por pessoa por dia), por quantos dias, depois das primeiras 24 horas, a água basta?",
+   "alternativas": [
+    "4 dias.",
+    "8 dias.",
+    "10 dias.",
+    "12 dias.",
+    "16 dias."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) Corresponde a 1 litro por pessoa por dia (20 ÷ 5).</li><li><b>B) Correta.</b> O consumo é 5 × 0,5 = 2,5 litros por dia. Os 20 litros duram 20 ÷ 2,5 = 8 dias.</li><li>C) Corresponde a 2,0 litros por dia (0,4 litro por pessoa).</li><li>D) Corresponde a pouco mais de 1,6 litro por dia, o que daria só 0,33 litro por pessoa.</li><li>E) Corresponde a 1,25 litro por dia, ou 0,25 litro por pessoa.</li></ul>",
+   "referencia": "Orientação tradicional de sobrevivência (Rezende, Sobrevivência no Mar, bibliografia do Anexo 5-A, item 1.9 f); IMO, Res. A.657(16), Parte B, item 15 (decidir as rações)",
+   "fonte_url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.657(16).pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante molhado acaba de entrar na balsa. Ele está consciente, treme muito, tem a pele pálida e os lábios azulados. Qual é a primeira conduta?",
+   "alternativas": [
+    "Friccionar com vigor seus braços e pernas até a pele ficar quente e vermelha.",
+    "Dar-lhe uma dose de bebida alcoólica, para dilatar os vasos e aquecê-lo por dentro.",
+    "Mantê-lo com a roupa molhada, para conservar o calor, deitado no piso sem cobertura.",
+    "Pedir que faça exercício intenso na balsa até parar de tremer por completo.",
+    "Abrigá-lo do vento, tirar a roupa molhada, secá-lo, cobri-lo com manta térmica e dar bebida quente e doce."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) Friccionar a pele pode lesioná-la e levar sangue frio ao núcleo do corpo.</li><li>B) O álcool dilata os vasos da pele, aumenta a perda de calor e piora o julgamento.</li><li>C) A roupa molhada tira calor do corpo, e o piso frio e a falta de cobertura agravam a perda.</li><li>D) Exercício intenso de um hipotérmico é inseguro, e a balsa não oferece espaço para isso.</li><li><b>E) Correta.</b> Na hipotermia leve o objetivo é cortar as perdas de calor: tirar o vento e a roupa molhada, secar, isolar do piso, cobrir o corpo e a cabeça e dar bebida quente e doce se o tripulante puder engolir.</li></ul>",
+   "referencia": "FICR/GFARC, Diretrizes Internacionais de Primeiros Socorros 2025 (hipotermia); National Center for Cold Water Safety, Hypothermia",
+   "fonte_url": "https://www.globalfirstaidcentre.org/"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "De acordo com o Anexo IV do RIPEAM, qual dos sinais abaixo NÃO é reconhecido como sinal de perigo?",
+   "alternativas": [
+    "Tiro de canhão ou outro sinal explosivo, a intervalos de cerca de um minuto.",
+    "Foguete com paraquedas ou tocha manual de luz encarnada.",
+    "Sinal de fumaça de cor laranja.",
+    "Foguetes de estrela verde disparados um de cada vez.",
+    "Movimento lento, para cima e para baixo, dos braços estendidos."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) É sinal de perigo (Anexo IV, 1 a).</li><li>B) É sinal de perigo (Anexo IV, 1 i).</li><li>C) É sinal de perigo (Anexo IV, 1 j).</li><li><b>D) Correta.</b> O Anexo IV traz foguetes ou granadas lançando estrelas encarnadas (1 c), e não verdes. Todos os outros sinais da lista são sinais de perigo do Anexo.</li><li>E) É sinal de perigo (Anexo IV, 1 k).</li></ul>",
+   "referencia": "RIPEAM-72, Anexo IV, item 1",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Na balsa, em pleno oceano, um sobrevivente usa a linha e o anzol da palamenta para pescar. Qual é o cuidado mais importante?",
+   "alternativas": [
+    "Cozinhar muito bem qualquer peixe, o que sempre elimina todas as toxinas.",
+    "Preferir peixes de cores vivas, pois indicam carne saborosa e segura.",
+    "Comer bastante peixe quando faltar água, pois a carne hidrata o corpo.",
+    "Beber o sangue do peixe pescado, para repor a água perdida pelo organismo.",
+    "Evitar peixe-balão e peixes de recife, que podem ser tóxicos; dourado e atum são mais seguros."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) Há toxinas que resistem ao calor, e o cozimento não torna seguro um peixe tóxico.</li><li>B) Cores vivas costumam estar ligadas a espécies de recife, sujeitas a toxinas.</li><li>C) Digerir proteína gasta água do corpo; não substitui a água.</li><li>D) O sangue contém sais e não resolve a falta de água.</li><li><b>E) Correta.</b> Peixes-balão e peixes de recife podem conter toxinas, algumas não destruídas pelo cozimento. Dourados e atuns, de águas abertas, são mais seguros. Com pouca água, comer pouco, pois a digestão exige água.</li></ul>",
+   "referencia": "OMS, International Medical Guide for Ships, 3ª ed. (intoxicação por peixes); Rezende, Sobrevivência no Mar (pesca na balsa)",
+   "fonte_url": "https://iris.who.int/handle/10665/43814"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante cai de repente em água muito fria, usando colete salva-vidas. Qual é a ordem das quatro ameaças à sobrevivência descritas nos estágios da imersão em água fria?",
+   "alternativas": [
+    "Hipotermia, incapacidade, choque do frio e colapso circum-resgate.",
+    "Incapacidade, choque do frio, hipotermia e colapso circum-resgate.",
+    "Choque do frio, hipotermia, incapacidade e colapso circum-resgate.",
+    "Choque do frio, incapacidade, hipotermia e colapso circum-resgate.",
+    "Colapso circum-resgate, choque do frio, incapacidade e hipotermia."
+   ],
+   "correta": 3,
+   "explicacao": "<ul><li>A) A hipotermia (queda da temperatura central) leva em geral cerca de meia hora; o choque do frio é imediato.</li><li>B) O choque do frio vem primeiro: ocorre no instante em que a água fria atinge grande área da pele.</li><li>C) Antes de a temperatura central cair, músculos e nervos já esfriaram: quando a hipotermia aparece, a pessoa já está incapacitada.</li><li><b>D) Correta.</b> Primeiro o choque do frio (perda do controle da respiração, esforço do coração), depois a incapacidade (músculos e nervos esfriam e deixam de funcionar), depois a hipotermia (queda da temperatura central) e, por fim, o colapso circum-resgate (queda brusca da pressão, perto ou durante o resgate). Os tempos variam muito com a água, a roupa e a pessoa; a popular \"regra 1-10-1\" é criticada por dar prazos fixos e não deve ser tomada ao pé da letra.</li><li>E) O colapso circum-resgate ocorre no fim, quando a pessoa é retirada da água, e não no início.</li></ul>",
+   "referencia": "National Center for Cold Water Safety, Stages of Immersion (choque do frio, incapacidade, hipotermia e colapso circum-resgate)",
+   "fonte_url": "https://www.coldwatersafety.org/cold-water"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 3,
+   "enunciado": "Um sobrevivente ficou cerca de 40 minutos em água fria e foi alcançado por um barco de resgate. Está consciente, mas exausto e tremendo. Qual é a melhor técnica para tirá-lo da água?",
+   "alternativas": [
+    "Içá-lo na vertical, para que a água saia dos pulmões.",
+    "Içá-lo na posição horizontal, se possível, e depois mantê-lo deitado e agasalhado.",
+    "Pedir que suba sozinho pela escada, pois o exercício o aquece.",
+    "Içá-lo na vertical e sentá-lo em seguida junto de uma fonte de calor intenso.",
+    "Esfregar suas pernas e braços ainda na água, antes de içá-lo."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) A água dos pulmões não é aliviada pela posição vertical; o risco real é o colapso circulatório.</li><li><b>B) Correta.</b> Após longa imersão, a pressão da água sobre o corpo deixa de existir ao ser içado na vertical e a pressão arterial pode cair, com risco de colapso. Por isso a recomendação é içar na horizontal, manter deitado, agasalhar e monitorar.</li><li>C) Esforço de um hipotérmico exausto pode levar a falha de força e a quedas, além de acelerar a perda de calor.</li><li>D) Calor intenso e rápido é inadequado; o aquecimento deve ser gradual.</li><li>E) Friccionar na água não aquece e atrasa a retirada.</li></ul>",
+   "referencia": "National Center for Cold Water Safety, Circumrescue Collapse (retirar a vítima na horizontal, p. ex. cesto ou maca); IAMSAR, Vol. III",
+   "fonte_url": "https://www.coldwatersafety.org/circumrescue-collapse"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 3,
+   "enunciado": "Uma balsa com 5 pessoas está há 5 dias sem rádio nem EPIRB funcionando, e ninguém sabe onde ela está. Ainda restam provisões para 15 dias. Uma ilha alta fica a 150 milhas a barlavento, e um continente a 400 milhas a sotavento. Vento e corrente empurram a balsa a cerca de 1,5 nó para sotavento. Qual é a melhor decisão?",
+   "alternativas": [
+    "Remar para a ilha a barlavento, por estar bem mais perto.",
+    "Permanecer onde está, esperando um resgate que ninguém sabe que é necessário.",
+    "Seguir para sotavento, mas sem racionar água, pois a viagem é curta.",
+    "Navegar para o norte, para ficar no meio entre a ilha e o continente.",
+    "Seguir para sotavento: levaria cerca de 11 dias (400 ÷ 36 mi/dia), dentro das provisões."
+   ],
+   "correta": 4,
+   "explicacao": "<ul><li>A) Remar contra vento e corrente de 1,5 nó, em balsa sem quilha, não é viável.</li><li>B) Sem alerta, ninguém sabe onde a balsa está, e a espera pode ser fatal.</li><li>C) A viagem de 11 dias exige racionamento rigoroso, pois pode se prolongar.</li><li>D) Ir ao norte consumiria provisões sem aproximar de terra.</li><li><b>E) Correta.</b> A balsa não navega contra o vento e a corrente. A 1,5 nó, a deriva diária é de 36 milhas e 400 milhas levam cerca de 11 dias, abaixo dos 15 dias de provisões, desde que se racione. Remar 150 milhas a barlavento seria inviável.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, itens 43.1 e 43.3 (permanecer ou tentar alcançar terra; impossibilidade de navegar para barlavento); IMO, Res. A.657(16), Parte B, item 15",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 3,
+   "enunciado": "Do mastro de um veleiro, com o olho a 9 m acima da água, um navegante vê o topo de um pico de 400 m \"boiando\" no horizonte. Pela fórmula aproximada d = 2 × (√H + √h), com H e h em metros e d em milhas, a distância ao pico é de aproximadamente:",
+   "alternativas": [
+    "23 milhas.",
+    "40 milhas.",
+    "46 milhas.",
+    "58 milhas.",
+    "92 milhas."
+   ],
+   "correta": 2,
+   "explicacao": "<ul><li>A) Esqueceu o fator 2 da fórmula.</li><li>B) Ignorou a altura do olho (2 × 20), que soma 6 milhas.</li><li><b>C) Correta.</b> √400 = 20 e √9 = 3. d = 2 × (20 + 3) = 46 milhas.</li><li>D) Extraiu a raiz de H, mas não a de h: 2 × (20 + 9) = 58 milhas.</li><li>E) Dobrou o resultado, como se o fator da fórmula fosse 4 em vez de 2.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 43.6 (distância a um pico que \"boia\" no horizonte: d = 2√H + 2√h)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro tem uma EPIRB antiga que só emite em 121,5 MHz. Por que ela não atende à NORMAM-211 e não gera alerta por satélite?",
+   "alternativas": [
+    "Porque o Cospas-Sarsat não processa 121,5 MHz desde fevereiro de 2009; a norma exige 406 MHz.",
+    "Porque 121,5 MHz é frequência de aviação e seu uso no mar é proibido por lei.",
+    "Porque 121,5 MHz é a frequência do canal 16 de VHF, que só alcança poucas milhas.",
+    "Porque o Cospas-Sarsat processa apenas sinais de 243 MHz, e não os de 406 MHz.",
+    "Porque a EPIRB de 121,5 MHz exige cadastro especial na Capitania, e não no INFOSAR."
+   ],
+   "correta": 0,
+   "explicacao": "<ul><li><b>A) Correta.</b> A norma exige EPIRB de 406 MHz via satélite e lembra que o Cospas-Sarsat não processa 121,5 MHz desde 2009; o 121,5 MHz fica apenas como sinal de homing para aeronaves próximas.</li><li>B) Não é proibido: simplesmente não é processado por satélite.</li><li>C) O canal 16 do VHF está na faixa de 156,8 MHz.</li><li>D) O sistema processa 406 MHz; 243 MHz também deixou de ser processado.</li><li>E) Não há esse cadastro; a EPIRB de 406 MHz é cadastrada no INFOSAR.</li></ul>",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6, alínea c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência no mar",
+   "dificuldade": 3,
+   "enunciado": "Uma balsa sofre uma deriva de 1,0 nó para o norte, causada pela corrente, e de 1,0 nó para o leste, causada pelo vento. Sem outros efeitos, qual é o deslocamento total em 24 horas?",
+   "alternativas": [
+    "Cerca de 24 milhas, para o rumo 045°.",
+    "Cerca de 34 milhas, para o rumo 045°.",
+    "Cerca de 34 milhas, para o rumo 135°.",
+    "Cerca de 34 milhas, para o rumo 315°.",
+    "Cerca de 48 milhas, para o rumo 045°."
+   ],
+   "correta": 1,
+   "explicacao": "<ul><li>A) Considerou só uma das derivas (1 nó × 24 h).</li><li><b>B) Correta.</b> As duas derivas são perpendiculares: velocidade resultante = √(1² + 1²) = 1,41 nó, no rumo 045°. Em 24 h: 1,41 × 24 ≈ 34 milhas.</li><li>C) O módulo está certo, mas o rumo 135° seria para sudeste.</li><li>D) O módulo está certo, mas o rumo 315° seria para noroeste.</li><li>E) Somou 24 + 24 milhas, como se as derivas tivessem a mesma direção.</li></ul>",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 43.4 (navegação estimada em balsa: corrente, abatimento e caimento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "GM = 0,80 + 1,55 − 1,35 = 1,00 m; todos os distratores recalculados."
+  },
+  {
+   "idx": 1,
+   "acao": "ok",
+   "motivo": "Conferido."
+  },
+  {
+   "idx": 2,
+   "acao": "corrigida",
+   "motivo": "GM = 0 e equilíbrio indiferente valem para pequenas inclinações (em casco real o GZ reaparece com a forma); explicação precisada."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos quando numérico, alternativas e referência)."
+  },
+  {
+   "idx": 4,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos quando numérico, alternativas e referência)."
+  },
+  {
+   "idx": 5,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos quando numérico, alternativas e referência)."
+  },
+  {
+   "idx": 6,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator E incorreta (afirmava que o aumento de peso não altera B); reescrita."
+  },
+  {
+   "idx": 7,
+   "acao": "ok",
+   "motivo": "Cálculo refeito e correto; referência precisada (item 4.6 do USNA)."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Cálculo refeito e correto; referência precisada (item 4.6 do USNA)."
+  },
+  {
+   "idx": 9,
+   "acao": "ok",
+   "motivo": "ΔKG = 400 × 2,5 ÷ 10.000 = 0,10 m; GM 0,80 m; distratores conferidos."
+  },
+  {
+   "idx": 10,
+   "acao": "ok",
+   "motivo": "KG = 1,70 m, GM = 0,60 m; distratores conferidos."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Referência: o período de balanço T ∝ 1/√GM não está no capítulo 4 do USNA; citada fonte adequada."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Referência: prova de inclinação não está no USNA cap. 4; citada fonte adequada."
+  },
+  {
+   "idx": 13,
+   "acao": "ok",
+   "motivo": "GZ = 0,8 × 0,174 = 0,139 m; distratores conferidos."
+  },
+  {
+   "idx": 14,
+   "acao": "ok",
+   "motivo": "Conferido (cálculos refeitos quando numérico, alternativas e referência)."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Referência com citação duplicada; precisada com o item do USNA sobre loll."
+  },
+  {
+   "idx": 16,
+   "acao": "corrigida",
+   "motivo": "Referência: fórmula do ângulo de loll de casco de costado reto não está no USNA; fontes ajustadas. Cálculo conferido (20,05°)."
+  },
+  {
+   "idx": 17,
+   "acao": "ok",
+   "motivo": "i = 2,0 m⁴, FSC = 0,25 m, GM efetivo 0,65 m; distratores conferidos."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator C era logicamente errada (se i fosse proporcional à largura o total não mudaria)."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator E imprecisa; reescrita."
+  },
+  {
+   "idx": 20,
+   "acao": "corrigida",
+   "motivo": "Enunciado atribuía o conteúdo ao Rezende sem verificação; a A.657 só manda \"decidir as rações\". Reformulado como orientação tradicional e referência honesta."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Referência: Miguens cap. 43 não trata da função da âncora flutuante da balsa; A.657 Parte A item 3 manda lançá-la."
+  },
+  {
+   "idx": 22,
+   "acao": "corrigida",
+   "motivo": "Referência: Miguens cap. 43 não trata do piso da balsa; A.657 Parte B item 5 e Código LSA."
+  },
+  {
+   "idx": 23,
+   "acao": "corrigida",
+   "motivo": "Referência complementada com a fonte que define hipotermia (temperatura central < 35 °C)."
+  },
+  {
+   "idx": 24,
+   "acao": "corrigida",
+   "motivo": "Referência: a fonte citada (NCCWS) não descreve a posição HELP; substituída por fonte que a descreve."
+  },
+  {
+   "idx": 25,
+   "acao": "ok",
+   "motivo": "Conforme NORMAM-211, art. 4.13 (confirmado em radio/travessia-114)."
+  },
+  {
+   "idx": 26,
+   "acao": "ok",
+   "motivo": "Conforme NORMAM-211, art. 4.23.6 c), d), e) (confirmados em radio-37, 38, 39)."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Referência SOLAS precisada (cap. IV, Regra 7.1.3)."
+  },
+  {
+   "idx": 28,
+   "acao": "corrigida",
+   "motivo": "Referência: Miguens cap. 43 não trata de resgate por helicóptero; trocada por A.657 e IAMSAR."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator C incoerente com a alternativa (falava em soltar a âncora; a alternativa diz recolher); referência ajustada ao que o Miguens diz (cap. 43.1)."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido (8 dias). Referência honesta quanto à origem da regra."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "Referência: Miguens cap. 43 não trata de hipotermia; trocada por fontes que tratam."
+  },
+  {
+   "idx": 32,
+   "acao": "corrigida",
+   "motivo": "Texto do Anexo IV conferido na edição consolidada; explicação ajustada ao texto (granadas, item 1 c)."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Referência: Miguens cap. 43 não trata de pesca/toxinas; trocada pela fonte da OMS e pelo curso."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "A \"regra 1-10-1\" é contestada como mito pela própria fonte citada (NCCWS, \"1-10-1 Myth\") e dá prazos fixos não científicos; questão reescrita sobre os quatro estágios da imersão, que a fonte sustenta."
+  },
+  {
+   "idx": 35,
+   "acao": "corrigida",
+   "motivo": "Referência trocada pela página específica do NCCWS sobre colapso circum-resgate (içar na horizontal), que sustenta a resposta."
+  },
+  {
+   "idx": 36,
+   "acao": "corrigida",
+   "motivo": "Enunciado ambíguo: \"provisões para 15 dias\" podia ser total (restariam 10 dias, menos que os 11 da viagem), invertendo a resposta; precisado como \"restam\". Referência ajustada ao Miguens 43.1 e 43.3 (Bligh: rumar a sotavento)."
+  },
+  {
+   "idx": 37,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido (46 milhas). Referência corrigida: a fórmula d = 2√H + 2√h está no item 43.6 do Miguens (cap. 43 não trata de \"alcance geográfico\" do vol. I)."
+  },
+  {
+   "idx": 38,
+   "acao": "ok",
+   "motivo": "Conforme NORMAM-211, art. 4.23.6 c)."
+  },
+  {
+   "idx": 39,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido (34 milhas, 045°). Referência precisada (item 43.4)."
+  }
+ ]
+}

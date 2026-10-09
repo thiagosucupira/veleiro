@@ -1,0 +1,650 @@
+{
+ "questoes": [
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "A pressão atmosférica normal ao nível do mar vale, aproximadamente:",
+   "alternativas": [
+    "1.013 hPa, o mesmo que 76 mmHg.",
+    "760 hPa, o mesmo que 1.013 mmHg.",
+    "1.300 hPa, o mesmo que 29,92 mmHg.",
+    "1.013 hPa, o mesmo que 760 mmHg.",
+    "101,3 hPa, o mesmo que 760 mmHg."
+   ],
+   "correta": 3,
+   "explicacao": "A pressão normal é 1.013,25 hPa, igual a 760 mmHg (ou 29,92 polegadas de mercúrio). Os 101,3 trocam a vírgula de lugar (101,3 é o valor em quilopascais). Os 76 mmHg erram uma casa decimal. Trocar os números de hPa e mmHg inverte as unidades. Os 29,92 são polegadas de mercúrio, não milímetros, e 1.300 hPa seria uma pressão extrema.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.2.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "Um barômetro aneroide antigo, graduado em milibares, marca 1.008 mb. Em hectopascais, a mesma pressão é:",
+   "alternativas": [
+    "10.080 hPa, porque 1 hPa é igual a 0,1 mb.",
+    "1.021 hPa, porque 1 hPa é igual a 0,987 mb.",
+    "756 hPa, porque 1 hPa é igual a 0,75 mb.",
+    "1.008 hPa, porque 1 hPa é igual a 1 mb.",
+    "100,8 hPa, porque 1 hPa é igual a 10 mb."
+   ],
+   "correta": 3,
+   "explicacao": "O hectopascal substituiu o milibar sem mudar o valor numérico: 1 hPa = 1 mb. O valor 756 é a mesma pressão em milímetros de mercúrio (1.008 × 0,75), e não em hPa. As demais alternativas inventam fatores de 10 ou de 0,987 que não existem entre mb e hPa.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.2.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "O instrumento que desenha a pressão atmosférica, num papel preso a um tambor de relógio, e produz o barograma é o:",
+   "alternativas": [
+    "Pluviógrafo.",
+    "Termógrafo.",
+    "Barógrafo.",
+    "Higrógrafo.",
+    "Anemógrafo."
+   ],
+   "correta": 2,
+   "explicacao": "O barógrafo é um barômetro aneroide registrador e seu desenho mostra a tendência da pressão. O higrógrafo registra a umidade, o termógrafo a temperatura, o anemógrafo o vento e o pluviógrafo a chuva. Todos usam papel e tambor, e por isso são confundidos.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.2.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "Numa noite calma, o ar marca 19 °C e o ponto de orvalho é de 18 °C. A umidade relativa do ar é:",
+   "alternativas": [
+    "Próxima de 0%, porque o ar está seco e estável.",
+    "Próxima de 100%, e há risco de nevoeiro se o ar esfriar mais.",
+    "Baixa, porque a temperatura é maior que o ponto de orvalho.",
+    "Impossível de estimar sem a leitura do barômetro.",
+    "Em torno de 50%, pois o ar está meio saturado."
+   ],
+   "correta": 1,
+   "explicacao": "Quando a temperatura do ar chega a 1 °C do ponto de orvalho, o ar está quase saturado: a umidade relativa fica por volta de 94%, perto de 100%. Com vento fraco, qualquer resfriamento extra faz o vapor condensar em nevoeiro. A umidade é baixa quando a diferença entre temperatura e ponto de orvalho é grande, e o barômetro não entra nessa estimativa.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.2.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "No Atlântico Norte, o pico da temporada de furacões ocorre em torno de:",
+   "alternativas": [
+    "10 de junho, no começo da temporada oficial de ciclones.",
+    "10 de dezembro, quando o outono já terminou.",
+    "10 de setembro, no auge de agosto a outubro.",
+    "30 de novembro, no encerramento da temporada oficial.",
+    "1º de janeiro, em pleno inverno do Hemisfério Norte."
+   ],
+   "correta": 2,
+   "explicacao": "A temporada oficial vai de 1º de junho a 30 de novembro, e o pico é por volta de 10 de setembro. Junho e novembro são as pontas da temporada, quando há poucos ciclones, e janeiro e dezembro ficam fora dela. Quem planeja uma travessia ao Caribe deve evitar o pico.",
+   "referencia": "NOAA/NHC, Tropical Cyclone Climatology",
+   "fonte_url": "https://www.nhc.noaa.gov/climo/"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "O Centro de Hidrografia da Marinha (CHM) publica cartas sinóticas referidas às seguintes horas:",
+   "alternativas": [
+    "08 e 20 HMG.",
+    "00 e 12 HMG.",
+    "09 e 21 horas locais de Brasília.",
+    "06 e 18 HMG.",
+    "00 e 12 horas locais de cada porto."
+   ],
+   "correta": 1,
+   "explicacao": "As cartas sinóticas do CHM são das 00 HMG e das 12 HMG (horas do meridiano de Greenwich). As outras alternativas misturam horas sinóticas de outros produtos ou trocam a hora de Greenwich pela hora local. Quem está em Brasília (UTC-3) precisa converter.",
+   "referencia": "CHM, Cartas Sinóticas (fato confirmado)",
+   "fonte_url": "https://www.marinha.mil.br/chm/cartassinoticas"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "Em tempo bom, sob a influência da Alta Subtropical do Atlântico Sul, o vento predominante no litoral Sudeste do Brasil sopra de:",
+   "alternativas": [
+    "Noroeste, quente e seco, vindo do interior.",
+    "Nordeste a leste, na borda oeste da alta.",
+    "Sudoeste a oeste, trazido pelas frentes frias.",
+    "Sul, sempre forte, vindo da Antártica.",
+    "Norte a noroeste, sempre fraco, antes da brisa."
+   ],
+   "correta": 1,
+   "explicacao": "A alta gira no sentido anti-horário no Hemisfério Sul. Na borda oeste dela, que atinge o litoral, o vento vem de nordeste a leste. Ventos de sudoeste a sul chegam com as frentes frias, que interrompem o tempo bom. Vento de noroeste ocorre antes da frente.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, itens 45.1.3 e 45.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Na estação da carta sinótica mostrada na figura (Hemisfério Sul), o vento e a cobertura do céu são:",
+   "alternativas": [
+    "Vento de nordeste, 15 nós, com 4/8 do céu coberto.",
+    "Vento de sudoeste, 20 nós, com 4/8 do céu coberto.",
+    "Vento de sudoeste, 15 nós, com 4/8 do céu coberto.",
+    "Vento de sudoeste, 15 nós, com o céu totalmente encoberto.",
+    "Vento para sudoeste, 15 nós, com 4/8 do céu coberto."
+   ],
+   "correta": 2,
+   "explicacao": "A extremidade da haste com as barbelas aponta para a direção de onde o vento sopra: sudoeste. Uma barbela longa vale 10 nós e uma curta vale 5, o que dá 15 nós. O círculo preenchido pela metade indica 4/8 de céu coberto. O símbolo nunca mostra para onde o vento vai, e um círculo cheio seria 8/8.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.5.4; CHM, simbologia das cartas sinóticas",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/chm_simbologia_0.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 200 150\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><title>Estação de uma carta sinótica</title><g fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\" stroke-linecap=\"round\"><circle cx=\"105\" cy=\"62\" r=\"10\"/><line x1=\"97.9\" y1=\"69.1\" x2=\"68.2\" y2=\"98.8\"/><line x1=\"68.2\" y1=\"98.8\" x2=\"91.5\" y2=\"105.0\"/><line x1=\"76.0\" y1=\"91.0\" x2=\"87.6\" y2=\"94.1\"/></g><path d=\"M105 52 A10 10 0 0 1 105 72 Z\" fill=\"var(--ink)\"/><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M24 44 V16\"/><path d=\"M24 16 l-4 7 M24 16 l4 7\"/></g><text x=\"24\" y=\"58\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">N</text><text x=\"100\" y=\"142\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Estação no Hemisfério Sul</text></svg>"
+   }
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "No Hemisfério Sul, um veleiro vê cirros, depois cirrostratos, e o céu se cobre de altostratos e nimbostratos. A pressão cai devagar por muitas horas e o vento é fraco. Esse quadro anuncia a aproximação de uma:",
+   "alternativas": [
+    "Zona de Convergência Intertropical, com pancadas isoladas de cumulonimbos.",
+    "Linha de instabilidade, com trovoadas e rajadas em poucos minutos.",
+    "Alta subtropical, com o céu limpando e a pressão subindo.",
+    "Frente quente, com chuva contínua e risco de nevoeiro frontal.",
+    "Frente fria, com cumulonimbos, rajadas e rondada brusca do vento."
+   ],
+   "correta": 3,
+   "explicacao": "Na frente quente o ar quente sobe numa rampa suave. As nuvens vão baixando (cirros, cirrostratos, altostratos, nimbostratos) e a pressão cai devagar, até a chuva contínua. Na frente fria o céu se fecha mais depressa, com cumulonimbos e rajadas. A alta traria pressão subindo e tempo bom, a linha de instabilidade é abrupta e a ZCIT está perto do Equador.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.3.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "A pressão era de 1.015 hPa às 09 h e passou a 1.010 hPa às 12 h. Pela convenção dos serviços de meteorologia marítima para a tendência de 3 horas, a pressão:",
+   "alternativas": [
+    "Está estável (menos de 0,1 hPa em 3 h): sem mudança à vista.",
+    "Cai devagar (de 0,1 a 1,5 hPa em 3 h): evolução lenta.",
+    "Cai depressa (de 3,6 a 6,0 hPa em 3 h): há um sistema ativo se aproximando.",
+    "Cai (de 1,6 a 3,5 hPa em 3 h): mudança em curso.",
+    "Cai muito depressa (mais de 6,0 hPa em 3 h): vento forte provável."
+   ],
+   "correta": 2,
+   "explicacao": "A queda foi de 5 hPa em 3 horas, que está na faixa de 3,6 a 6,0 hPa: cai depressa, sistema ativo se aproximando e hora de preparar o barco. Acima de 6 hPa em 3 h seria muito depressa. As faixas menores correspondem a quedas de menos de 3,6 hPa.",
+   "referencia": "Convenção de tendência de 3 h (Met Office, glossário de previsão marítima); Miguens, vol. III, cap. 45, item 45.2.1",
+   "fonte_url": "https://www.metoffice.gov.uk/weather/guides/coast-and-sea/glossary"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "À noite, com vento de 6 nós, um veleiro leva ar quente e úmido (24 °C) sobre uma corrente fria de 19 °C. O ar vai esfriando e se aproxima do ponto de orvalho. O fenômeno mais provável é o:",
+   "alternativas": [
+    "Nevoeiro de advecção, que pode ser denso e durar dias.",
+    "Nevoeiro de radiação, formado pelo resfriamento noturno do mar.",
+    "Nevoeiro de vapor, formado por ar muito frio sobre mar quente.",
+    "Nevoeiro orográfico, formado pelo ar que sobe uma encosta.",
+    "Névoa seca, formada por poeira e fumaça de queimadas."
+   ],
+   "correta": 0,
+   "explicacao": "Ar quente e úmido que passa sobre água mais fria esfria por baixo até saturar: é o nevoeiro de advecção, o mais comum no mar. O de radiação depende do esfriamento do solo, e a água quase não esfria à noite. O orográfico precisa de relevo. O de vapor é o inverso do cenário, com ar frio sobre mar quente. A névoa seca não tem relação com o resfriamento do ar.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.2.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a afirmativa INCORRETA sobre nevoeiros no mar.",
+   "alternativas": [
+    "O nevoeiro de advecção se forma quando ar quente e úmido passa sobre água mais fria.",
+    "O nevoeiro frontal está ligado à chuva das frentes, em especial das frentes quentes.",
+    "Em costas com serras, o ar úmido que sobe a encosta pode formar nevoeiro orográfico.",
+    "O nevoeiro de vapor, ou fumaça do mar, aparece quando ar muito frio passa sobre água mais quente.",
+    "O nevoeiro de radiação é o mais comum em alto-mar, porque a água esfria depressa nas noites claras."
+   ],
+   "correta": 4,
+   "explicacao": "A afirmativa incorreta é a do nevoeiro de radiação: a água do mar quase não esfria à noite, e esse nevoeiro é típico de terra e de rios, só chegando ao mar empurrado pelo terral. As outras quatro descrevem corretamente os tipos de advecção, de vapor, frontal e orográfico.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.2.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro sai do Nordeste do Brasil rumo à Europa e sobe o Atlântico. Na ordem em que os encontra, o que ele espera?",
+   "alternativas": [
+    "Alísios de nordeste, depois a ZCIT com calmarias e pancadas, e depois os alísios de sudeste.",
+    "Alísios de sudeste e logo os de nordeste, sem faixa de transição.",
+    "Alísios de sudeste, depois a ZCIT com calmarias e pancadas, e depois os alísios de nordeste.",
+    "Alísios de sudeste e depois os ventos de oeste, sem passar pela ZCIT.",
+    "Ventos de oeste, depois a ZCIT, e depois os alísios de nordeste."
+   ],
+   "correta": 2,
+   "explicacao": "Ao sul do Equador os alísios sopram de sudeste, e ao norte, de nordeste. Entre os dois fica a ZCIT, faixa de baixa pressão com vento fraco e variável, calmarias, pancadas e trovoadas. A primeira alternativa inverte os hemisférios. Os ventos de oeste dominam em latitudes bem maiores. Os dois alísios sempre são separados pela ZCIT.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.1.3; NGA Pub. 160",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Qual das previsões abaixo obriga o CHM a emitir um Aviso de Mau Tempo?",
+   "alternativas": [
+    "Ressaca com ondas de 2,0 m na costa.",
+    "Visibilidade de 2 km, por causa de névoa.",
+    "Vento de 25 nós, força 6 na escala Beaufort.",
+    "Ondas de 2,5 m em águas profundas.",
+    "Ondas de 3,0 m em águas profundas."
+   ],
+   "correta": 4,
+   "explicacao": "O aviso é emitido para vento força 7 ou mais (28 nós ou mais), ondas de 3 m ou mais em águas profundas, visibilidade de 1 km ou menos, ou ressaca com ondas de 2,5 m ou mais na costa. Os 25 nós são força 6, os 2 km de visibilidade estão acima de 1 km, a ressaca de 2,0 m e as ondas de 2,5 m em águas profundas ficam abaixo dos limites.",
+   "referencia": "CHM, Serviços Radiometeorológicos de Apoio ao Navegante (fato confirmado)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Numa imagem de satélite no canal de vapor d'água, uma ampla região escura e sem nuvens, atrás de uma faixa clara sobre o oceano, indica:",
+   "alternativas": [
+    "Mar frio na superfície, pois o canal mede a temperatura do oceano.",
+    "Nevoeiro denso sobre o mar, pois o canal mostra as nuvens baixas.",
+    "Topos de nuvens muito frios, como numa ZCIT bem ativa e extensa.",
+    "Ar muito úmido e ascendente, com cumulonimbos em desenvolvimento.",
+    "Ar seco e descendente na média e alta troposfera, comum sob altas."
+   ],
+   "correta": 4,
+   "explicacao": "O canal de vapor d'água mostra a umidade da média e alta troposfera. Zonas escuras são ar seco que desce, típico de altas e da retaguarda de frentes. Ar úmido e ascendente aparece claro. O canal não mede a temperatura do mar nem mostra nuvens baixas, e nevoeiro é visto melhor no canal visível.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45; CPTEC/INPE, imagens de satélite",
+   "fonte_url": "https://satelite.cptec.inpe.br/home/index.jsp"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "A pressão central de um ciclone extratropical ao sul do Brasil cai de 1.002 hPa para 976 hPa em 24 horas. Esse aprofundamento de 26 hPa caracteriza:",
+   "alternativas": [
+    "Um ciclone tropical, que só se forma sobre águas muito quentes.",
+    "Frontólise, a dissipação de uma frente que chega ao Nordeste.",
+    "Preenchimento da baixa, quando o centro do ciclone se enfraquece.",
+    "Ciclogênese explosiva (ciclone bomba), com vento e mar muito severos.",
+    "Maré barométrica, a oscilação normal da pressão ao longo do dia."
+   ],
+   "correta": 3,
+   "explicacao": "Chama-se ciclogênese explosiva a queda de pelo menos 24 hPa em 24 horas na pressão central (valor ajustado à latitude), e 26 hPa passa do limite. A frontólise é o fim de uma frente. Ciclone tropical é outro tipo de sistema. A maré barométrica é de poucos hPa por dia e o preenchimento é a subida da pressão central.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.3.2; Sanders & Gyakum (1980)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "A carta sinótica das 00 HMG está sendo usada num veleiro que adota a hora de Brasília (UTC−3). Essa carta vale, na hora local de bordo, para:",
+   "alternativas": [
+    "00:00 do mesmo dia.",
+    "21:00 do dia anterior.",
+    "18:00 do dia anterior.",
+    "03:00 do mesmo dia.",
+    "09:00 do mesmo dia."
+   ],
+   "correta": 1,
+   "explicacao": "Hora local = HMG − 3 horas, pois o fuso de Brasília é UTC−3 (atrasado em relação a Greenwich): 00:00 − 3 h = 21:00 do dia anterior. Somar 3 horas daria 03:00, e ignorar o fuso daria 00:00. O valor 09:00 seria a conversão da carta das 12 HMG, e 18:00 usaria um fuso errado.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.5.4; CHM, Cartas Sinóticas",
+   "fonte_url": "https://www.marinha.mil.br/chm/cartassinoticas"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "O METEOROMARINHA prevê para a sua área: \"VENTO NE 5/7, RONDANDO PARA N 7/8, COM RAJADAS 9\". Para planejar o pior caso do trecho, as rajadas previstas valem, em nós:",
+   "alternativas": [
+    "De 41 a 47 nós (força 9).",
+    "De 34 a 40 nós (força 8).",
+    "De 48 a 55 nós (força 10).",
+    "Apenas 9 nós, pois o boletim já dá o valor em nós.",
+    "De 28 a 33 nós (força 7)."
+   ],
+   "correta": 0,
+   "explicacao": "Os números do boletim são forças da escala Beaufort, e não nós. Rajadas 9 correspondem à força 9, \"vento duro\", de 41 a 47 nós. As forças 7, 8 e 10 valem 28 a 33, 34 a 40 e 48 a 55 nós. Como a faixa do vento sustentado chega a 8, a decisão sobre o pano deve considerar o valor máximo.",
+   "referencia": "CHM, Escala Beaufort (OMM nº 8); formato do boletim METEOROMARINHA",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/chm_escala_beaufort.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 3,
+   "enunciado": "Analise as afirmativas sobre meteorologia no Hemisfério Sul.<br>I. Em torno da Alta Subtropical do Atlântico Sul o vento gira no sentido anti-horário.<br>II. A ZCIT é uma faixa de alta pressão, com ventos constantes e tempo firme.<br>III. Isóbaras muito próximas na carta sinótica indicam gradiente forte e vento forte.<br>IV. A frente fria avança mais devagar que a frente quente e por isso nunca a alcança.<br>Estão corretas:",
+   "alternativas": [
+    "Somente I e III.",
+    "I, II e III.",
+    "Somente II e IV.",
+    "Somente III e IV.",
+    "Somente I e II."
+   ],
+   "correta": 0,
+   "explicacao": "I é verdadeira: toda alta do Hemisfério Sul gira no sentido anti-horário. III é verdadeira: isóbaras juntas dão gradiente forte e vento forte. II é falsa: a ZCIT é uma faixa de baixa pressão, com calmarias e pancadas. IV é falsa: a frente fria é mais veloz e alcança a quente, formando a frente oclusa.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, itens 45.1.3, 45.2.4 e 45.3.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 3,
+   "enunciado": "No Hemisfério Sul, um veleiro recebe vento de leste (090°) e o comandante quer saber onde está a baixa. Pela lei de Buys-Ballot, a baixa fica a cerca de 110° à esquerda de quem olha de frente para o vento. Ela está, aproximadamente, na marcação:",
+   "alternativas": [
+    "270°, a oeste, para onde o vento sopra.",
+    "090°, na direção de onde vem o vento.",
+    "200°, ao sul-sudoeste.",
+    "020°, ao nor-nordeste.",
+    "340°, ao norte-noroeste."
+   ],
+   "correta": 4,
+   "explicacao": "Olhando para 090° (de onde vem o vento) e virando 110° para a esquerda, chega-se a 090° − 110° = −20°, ou seja, 340°. A marcação de 200° vem de aplicar a regra do Hemisfério Norte (para a direita). As demais ignoram o desvio de cerca de 110°: 270° e 090° são marcações em linha com o vento ou ao seu largo, e 020° corresponde a apenas 70° à esquerda do vento, e não a 110°.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, item 45.2.4 (lei de Buys-Ballot)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro navega no rumo 000° a 6 nós, com vento verdadeiro de leste (090°) de 8 nós. O anemômetro de bordo, que mede o vento aparente, indicará aproximadamente:",
+   "alternativas": [
+    "10 nós, vindo de cerca de 037°, ou seja, 37° por boreste da proa.",
+    "10 nós, vindo de cerca de 053°, ou seja, 53° por boreste da proa.",
+    "2 nós, vindo de 090°, pelo través de boreste.",
+    "10 nós, vindo de cerca de 307°, ou seja, 53° por bombordo da proa.",
+    "14 nós, vindo de 090°, pelo través de boreste."
+   ],
+   "correta": 1,
+   "explicacao": "O vento aparente é a soma vetorial do vento verdadeiro com o vento criado pelo movimento do barco. Aqui os dois vetores são perpendiculares (8 e 6 nós), e o triângulo 6-8-10 dá 10 nós. O ângulo com a proa é tan⁻¹(8/6) ≈ 53°, do lado de onde vem o vento verdadeiro (boreste). Somar 8 + 6 ou subtrair ignora que os vetores são perpendiculares, 37° troca os catetos e 307° põe o vento do lado errado.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte (vento verdadeiro e vento aparente; triângulo de velocidades)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 3,
+   "enunciado": "De manhã, uma região do mar ao largo de Cabo Frio aparece branca e uniforme na imagem de satélite visível, mas quase não se distingue do mar na imagem infravermelha da mesma hora. O mais provável é:",
+   "alternativas": [
+    "Estratos baixos ou nevoeiro, de topo quente, que o infravermelho quase não registra.",
+    "Cumulonimbos de topo muito alto, que o infravermelho realça em branco brilhante.",
+    "Uma frente fria ativa, com topos frios e brilhantes no infravermelho.",
+    "Cirros finos de altitude, que o infravermelho registra como muito brilhantes.",
+    "Céu limpo, pois o canal visível só mostra o brilho do próprio mar."
+   ],
+   "correta": 0,
+   "explicacao": "O canal visível mostra a luz refletida, e uma camada de estratos ou nevoeiro é branca e uniforme. O infravermelho mede a temperatura do topo, e um topo baixo, quase tão quente quanto o mar, fica cinza e se confunde com ele. Cumulonimbos, cirros e frentes ativas têm topos frios e aparecem brilhantes no infravermelho. Céu limpo aparece escuro no visível.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45; CPTEC/INPE, imagens de satélite",
+   "fonte_url": "https://satelite.cptec.inpe.br/home/index.jsp"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 3,
+   "enunciado": "A figura mostra parte de uma carta sinótica no Hemisfério Sul. A frente avança para o lado dos triângulos, e o veleiro V navega nesse lado, rumo à frente. O que ele deve esperar nas horas seguintes?",
+   "alternativas": [
+    "Vento fraco de sudoeste e pressão subindo, seguido de garoa contínua e nevoeiro na passagem da frente.",
+    "Rondada lenta de sudoeste para noroeste depois da passagem, com pressão estável e temperatura subindo.",
+    "Vento fraco de nordeste, pressão estável e nuvens altas que descem aos poucos, sem chuva forte.",
+    "Vento de sudeste aumentando e pressão subindo antes da frente, sem mudança de temperatura na passagem.",
+    "Vento de noroeste aumentando e pressão caindo; na passagem, rondada brusca para sudoeste, com pancadas e frio."
+   ],
+   "correta": 4,
+   "explicacao": "Os triângulos indicam frente fria avançando para sudeste, para cima de V. Antes dela o vento aumenta de noroeste, a pressão cai e a temperatura sobe. Na passagem a pressão atinge o mínimo, o vento ronda de repente para sudoeste com rajadas e pancadas, e a temperatura cai. Garoa contínua e rondada lenta são da frente quente, e as demais combinações misturam efeitos que não ocorrem juntos.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45, itens 45.3.3 e 45.4; CHM, simbologia das cartas sinóticas",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/chm_simbologia_0.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 200 150\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><title>Frente fria avançando para sudeste</title><line x1=\"30\" y1=\"122\" x2=\"172\" y2=\"32\" stroke=\"var(--sea-3)\" stroke-width=\"2.5\"/><path d=\"M45.2 112.4 L56.2 105.4 L56.6 118.2 Z\" fill=\"var(--sea-3)\"/><path d=\"M67.2 98.4 L78.1 91.5 L78.5 104.3 Z\" fill=\"var(--sea-3)\"/><path d=\"M89.1 84.5 L100.1 77.6 L100.5 90.3 Z\" fill=\"var(--sea-3)\"/><path d=\"M111.1 70.6 L122.1 63.6 L122.5 76.4 Z\" fill=\"var(--sea-3)\"/><path d=\"M133.0 56.7 L144.0 49.7 L144.4 62.5 Z\" fill=\"var(--sea-3)\"/><path d=\"M155.0 42.8 L166.0 35.8 L166.4 48.6 Z\" fill=\"var(--sea-3)\"/><circle cx=\"140\" cy=\"112\" r=\"5\" fill=\"var(--nav-red)\"/><text x=\"149\" y=\"116\" font-size=\"13\" fill=\"currentColor\">V</text><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20 40 V12\"/><path d=\"M20 12 l-4 7 M20 12 l4 7\"/></g><text x=\"20\" y=\"54\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">N</text><text x=\"100\" y=\"146\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Hemisfério Sul. V: veleiro</text></svg>"
+   }
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 3,
+   "enunciado": "Um furacão no Atlântico Norte desloca-se para noroeste. Em relação à trajetória do centro, o semicírculo perigoso, onde o vento do giro se soma à velocidade de translação do sistema, é o:",
+   "alternativas": [
+    "Dianteiro, pois o sistema empurra o vento à sua frente.",
+    "Nenhum em especial, pois o vento do giro é simétrico em torno do olho.",
+    "Traseiro, pois o vento é mais forte atrás do sistema.",
+    "Esquerdo, onde o vento gira contra o deslocamento do sistema.",
+    "Direito, onde o vento do giro tem o mesmo sentido do deslocamento."
+   ],
+   "correta": 4,
+   "explicacao": "No Hemisfério Norte o ciclone tropical gira no sentido anti-horário. À direita da trajetória o vento do giro tem o mesmo sentido do deslocamento, e as velocidades se somam: é o semicírculo perigoso. À esquerda elas se subtraem (semicírculo navegável). No Hemisfério Sul a regra se inverte, e o perigoso é o esquerdo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45 (ciclones tropicais)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 1,
+   "enunciado": "Após uma tempestade distante, chegam ao veleiro ondas de cristas longas e regulares, direção bem definida e período de 12 s, sem vento local. Essas ondas são:",
+   "alternativas": [
+    "Ressaca, formada pelas águas rasas.",
+    "Vagas, geradas pelo vento que sopra no local.",
+    "Tsunami, causado por abalo no fundo do mar.",
+    "Marulho (ondulação), vindo de vento passado ou distante.",
+    "Ondas de maré, causadas pela atração da Lua."
+   ],
+   "correta": 3,
+   "explicacao": "Marulho é a onda que se afastou da área de geração: cristas longas e regulares, direção definida e período grande. As vagas são confusas, de período curto e geradas pelo vento local. Ressaca é o mar alto que chega à costa. Tsunami vem de abalos sísmicos, e a maré não gera ondas desse tipo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 42, item 42.1.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 1,
+   "enunciado": "Um boletim informa vento de 30 nós. Na escala Beaufort, essa velocidade corresponde à força:",
+   "alternativas": [
+    "8, vento muito forte (34 a 40 nós).",
+    "7, vento forte (28 a 33 nós).",
+    "9, vento duro (41 a 47 nós).",
+    "5, vento fresco (17 a 21 nós).",
+    "6, vento muito fresco (22 a 27 nós)."
+   ],
+   "correta": 1,
+   "explicacao": "Os 30 nós estão na faixa de 28 a 33 nós da força 7, vento forte. As demais alternativas trazem faixas corretas da escala, mas de outras forças. A força 7 é também o limite inferior do aviso de mau tempo do CHM.",
+   "referencia": "CHM, Escala Beaufort (OMM nº 8)",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/chm_escala_beaufort.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 1,
+   "enunciado": "A maré de sizígia, com preamares mais altas e baixa-mares mais baixas que a média, ocorre:",
+   "alternativas": [
+    "Na Lua nova e na Lua cheia, quando Sol, Terra e Lua estão alinhados.",
+    "Apenas nos solstícios, quando o Sol está mais afastado do Equador.",
+    "Sempre que o vento sopra com força contra a costa.",
+    "Nos quartos crescente e minguante, quando Sol e Lua puxam em ângulo reto.",
+    "Somente na Lua cheia, pois na Lua nova a maré é de quadratura."
+   ],
+   "correta": 0,
+   "explicacao": "Na Lua nova e na cheia os efeitos do Sol e da Lua se somam, e a amplitude é máxima (águas vivas). Nos quartos, os efeitos se subtraem e a maré é de quadratura (águas mortas). Os solstícios não definem sizígia, a Lua nova também tem sizígia, e o vento pode alterar a altura da maré, mas não a define.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 1,
+   "enunciado": "A Corrente do Brasil, que acompanha o litoral do Sudeste e do Sul, é uma corrente:",
+   "alternativas": [
+    "Quente, que corre para sudoeste, extensão da Sul-Equatorial.",
+    "Fria, que corre para sudoeste, alimentada por ressurgência.",
+    "Quente, que corre para leste, ao longo do Equador.",
+    "Quente, que corre para noroeste, rumo ao Caribe.",
+    "Fria, que corre para nordeste, vinda da Antártica."
+   ],
+   "correta": 0,
+   "explicacao": "A Corrente do Brasil é o ramo da Sul-Equatorial que desce para sudoeste junto à costa, até perto de 35°S, quente e salina. A fria que sobe pela costa argentina é a das Malvinas. A que segue para noroeste rumo ao Caribe é a das Guianas, e a de leste, no Equador, é a Contracorrente Equatorial.",
+   "referencia": "NGA Pub. 160 (fato confirmado); Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 1,
+   "enunciado": "Segundo a escala Douglas, adotada pelo CHM, ondas de 3 m de altura caracterizam o estado do mar:",
+   "alternativas": [
+    "Grosso (código 5), de 2,5 a 4 m.",
+    "Moderado (código 4), de 1,25 a 2,5 m.",
+    "Fraco (código 3), de 0,5 a 1,25 m.",
+    "Muito grosso (código 6), de 4 a 6 m.",
+    "Alto (código 7), de 6 a 9 m."
+   ],
+   "correta": 0,
+   "explicacao": "Na escala Douglas, o código 5 (mar grosso) vai de 2,5 a 4 m, e 3 m cabe nessa faixa. As outras alternativas trazem faixas verdadeiras, mas de ondas menores (códigos 3 e 4) ou maiores (códigos 6 e 7).",
+   "referencia": "CHM, Escala Douglas (OMM nº 8, vol. III)",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/chm_escala_douglas.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 2,
+   "enunciado": "Um marulho tem período de 12 s. Em águas profundas, seu comprimento de onda é de cerca de:",
+   "alternativas": [
+    "36 m.",
+    "144 m.",
+    "450 m.",
+    "225 m.",
+    "19 m."
+   ],
+   "correta": 3,
+   "explicacao": "L = 1,56 × T² = 1,56 × 144 ≈ 225 m. O valor 144 esquece o fator 1,56 (12² = 144) e o 19 m esquece de elevar T ao quadrado (1,56 × 12). Os 450 m seriam o dobro do correto, e os 36 nós são a celeridade desse marulho, não o comprimento.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.1.1 (L = 1,56 T²)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 2,
+   "enunciado": "O METEOROMARINHA prevê ondas com altura significativa de 4,0 m. Pelas relações de Miguens, as ondas isoladas mais altas desse mar podem chegar a cerca de:",
+   "alternativas": [
+    "5,2 m, que é a média do décimo mais alto.",
+    "7,5 m, ou seja, 1,87 vez a significativa.",
+    "2,6 m, que é a média de todas as ondas.",
+    "12,0 m, o triplo da significativa.",
+    "4,0 m, pois a altura significativa é a máxima."
+   ],
+   "correta": 1,
+   "explicacao": "A altura significativa é a média do terço mais alto das ondas e não é a máxima. As ondas mais altas chegam a cerca de 1,87 × 4,0 ≈ 7,5 m. A média de todas as ondas é 0,64 × 4,0 ≈ 2,6 m, e a do décimo mais alto, 1,29 × 4,0 ≈ 5,2 m. Triplicar a altura exagera.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.1.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro se aproxima de uma barra durante a vazante, com a corrente saindo a 3 nós e vento fresco soprando do mar para dentro. O que acontece com as ondas na barra?",
+   "alternativas": [
+    "Ficam mais curtas e mais íngremes, e podem arrebentar mesmo em águas fundas.",
+    "Mantêm a altura, mas ganham período e viram marulho.",
+    "Ficam menores, porque o vento e a corrente se anulam.",
+    "Não mudam, pois a corrente age sobre a água e não sobre as ondas.",
+    "Ficam mais longas e mais baixas, pois a corrente as alonga."
+   ],
+   "correta": 0,
+   "explicacao": "A corrente contrária ao sentido das ondas encurta o comprimento e aumenta a altura, deixando o mar curto, íngreme e às vezes arrebentando. Corrente a favor é que alonga e baixa as ondas. Corrente e vento opostos se somam no efeito sobre o mar, e não se anulam. A corrente não aumenta o período das ondas.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.1.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 2,
+   "enunciado": "Segundo o critério prático de Miguens, uma onda de 2,4 m de altura, ao chegar a águas rasas, arrebenta quando a profundidade chega a cerca de:",
+   "alternativas": [
+    "2,4 m, a própria altura da onda.",
+    "4,8 m, o dobro da altura da onda.",
+    "3,2 m, ou 4/3 da altura da onda.",
+    "1,8 m, ou 3/4 da altura da onda.",
+    "1,2 m, metade da altura da onda."
+   ],
+   "correta": 2,
+   "explicacao": "A onda arrebenta quando a profundidade chega a cerca de 4/3 da sua altura: 4/3 × 2,4 = 3,2 m. Os 1,8 m invertem a fração, e os 2,4, 4,8 e 1,2 m usam proporções que não fazem parte do critério.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.1.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 2,
+   "enunciado": "Qual corrente fria sobe pela costa da Argentina e encontra a Corrente do Brasil perto de 38°S a 40°S?",
+   "alternativas": [
+    "Corrente de Benguela.",
+    "Corrente das Canárias.",
+    "Corrente do Golfo.",
+    "Corrente das Malvinas.",
+    "Corrente Sul-Equatorial."
+   ],
+   "correta": 3,
+   "explicacao": "A Corrente das Malvinas nasce da Corrente Circumpolar Antártica e sobe fria junto à Argentina, encontrando a Corrente do Brasil na Convergência Subtropical. A de Benguela é fria, mas fica na costa da África. A das Canárias é fria e do Atlântico Norte. A Sul-Equatorial e a do Golfo são quentes.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10, item 10.2.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 2,
+   "enunciado": "Em Cabo Frio (RJ), águas frias de 100 a 200 m de profundidade sobem à superfície, esfriam o mar e atraem peixes. Essa ressurgência é favorecida por vento de:",
+   "alternativas": [
+    "Sudoeste, que empurra a água superficial contra a costa.",
+    "Qualquer um, pois a ressurgência depende apenas da maré.",
+    "Nordeste, que afasta a água superficial da costa.",
+    "Oeste, que também leva a água superficial para a costa.",
+    "Sul, que traz a Corrente das Malvinas até a praia."
+   ],
+   "correta": 2,
+   "explicacao": "O vento de nordeste, paralelo à costa, desloca a água superficial para o mar aberto (no Hemisfério Sul o transporte é para a esquerda do vento). A água fria do fundo sobe para ocupar o lugar. Os ventos de sudoeste e de oeste fazem o contrário, levando água para a costa (subsidência). O vento sul não traz a Corrente das Malvinas até a praia, e a maré não é a causa da ressurgência.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10; Roteiro Costa Leste (DHN)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 2,
+   "enunciado": "Numa carta piloto do Atlântico (DHN), a seta e o número em verde representam:",
+   "alternativas": [
+    "As isotermas da água do mar na superfície, em graus Celsius.",
+    "A corrente superficial: rumo para onde vai e velocidade média em nós.",
+    "Os limites das áreas de previsão do METEOROMARINHA no mar.",
+    "A isogônica: linha de mesma declinação magnética do mês.",
+    "O vento predominante: direção de onde vem e força Beaufort média."
+   ],
+   "correta": 1,
+   "explicacao": "Na carta piloto, o verde é das correntes superficiais: a seta dá o rumo para onde a corrente vai e o número, a velocidade média em nós. Os ventos aparecem em azul (rosas dos ventos), as isotermas em vermelho e as isogônicas em roxo. Os limites das áreas de previsão ficam no verso da carta.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, item 12.8 (Atlas de Cartas Piloto)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 3,
+   "enunciado": "Um marulho tem período de 10 s. Em águas profundas, sua celeridade é C = 3,03 × T (em nós). Quanto tempo a crista de uma onda desse marulho leva para percorrer 90 milhas?",
+   "alternativas": [
+    "Cerca de 1,5 hora.",
+    "Cerca de 30 minutos.",
+    "Cerca de 6 horas.",
+    "Cerca de 3 horas.",
+    "Cerca de 9 horas."
+   ],
+   "correta": 3,
+   "explicacao": "C = 3,03 × 10 ≈ 30 nós. Tempo = distância ÷ velocidade = 90 ÷ 30 = 3 horas. As 9 horas vêm de dividir 90 pelo período (10 s) como se fosse velocidade. As 1,5 hora e os 30 minutos pressupõem velocidades de 60 e 180 nós, e as 6 horas, de 15 nós, que não resultam da fórmula.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.1.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 3,
+   "enunciado": "Você vai passar por uma barra que tem Carta de Correntes de Maré. A preamar prevista no porto de referência é às 15:00 e você chegará à barra às 12:00. Hoje é quadratura, e as velocidades impressas na carta valem para a sizígia. O procedimento correto é:",
+   "alternativas": [
+    "Usar a carta de 3 horas depois da preamar, com direção e velocidade como estão impressas na carta.",
+    "Usar a carta de 3 horas antes da preamar, sem nenhuma correção, pois a carta já traz a velocidade média.",
+    "Usar a carta da hora da preamar, porque a corrente de maré em barras é sempre rotatória.",
+    "Usar a carta de 3 horas antes da preamar, corrigindo a direção e mantendo a velocidade impressa.",
+    "Usar a carta de 3 horas antes da preamar, manter a direção e corrigir a velocidade pelo ábaco (valor menor)."
+   ],
+   "correta": 4,
+   "explicacao": "A carta se escolhe pela diferença até a preamar: às 12:00, 3 horas antes das 15:00. As velocidades impressas valem para a sizígia, então, em outras épocas, a velocidade se corrige por um ábaco. Na quadratura ela é menor. A direção não precisa de correção. Usar a carta depois da preamar erra o intervalo, e a rotatória é a corrente de maré em mar aberto.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10; DHN, Cartas de Correntes de Maré",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 3,
+   "enunciado": "Fundeado numa baía abrigada, o comandante recebe o alerta de um tsunami. Segundo Miguens, a melhor decisão é:",
+   "alternativas": [
+    "Permanecer fundeado, dobrando a amarra e vigiando a âncora, pois a baía é abrigada do mar.",
+    "Ir para o porto mais próximo e amarrar o barco a um cais alto, com cabos duplicados.",
+    "Ir para mar aberto, a mais de 150 m de fundo e 3 milhas da costa, e não voltar após as primeiras ondas.",
+    "Subir um rio ou estuário próximo, onde as margens estreitas protegem o barco do mar.",
+    "Ir para mar aberto, mas voltar à costa depois da primeira onda, pois as seguintes são menores."
+   ],
+   "correta": 2,
+   "explicacao": "O tsunami é quase imperceptível em mar aberto (menos de 1 m) e só se torna destrutivo ao chegar a águas rasas. A regra é ir para mar aberto, com profundidade maior que 150 m e distância maior que 3 milhas, e ficar lá, pois podem vir dez ou mais ondas em até 12 horas. Baías, rios, estuários e cais não são abrigo, e a primeira onda nem sempre é a maior.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 42",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Oceanografia",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro de 10 m navega com mar de popa e ondas de período de 3 s em águas profundas. Considere que o risco de jogo excessivo e de perda de estabilidade na crista é maior quando o comprimento da onda é de 1,0 a 1,5 vez o do barco. Nessa situação:",
+   "alternativas": [
+    "O comprimento da onda é de cerca de 4,7 m, menor que o barco: não há risco especial.",
+    "O comprimento da onda é de cerca de 9 m, 0,9 vez o barco: não está na faixa de risco.",
+    "O comprimento da onda é de cerca de 28 m, quase três vezes o barco: o risco é pequeno.",
+    "O comprimento da onda é de cerca de 14 m, mas o risco só existe com ondas de mais de 3 m de altura.",
+    "A onda tem cerca de 14 m, 1,4 vez o barco: a situação é perigosa e convém mudar a velocidade ou o rumo."
+   ],
+   "correta": 4,
+   "explicacao": "L = 1,56 × T² = 1,56 × 9 ≈ 14 m, que é 1,4 vez o comprimento do barco e fica dentro da faixa de 1,0 a 1,5, portanto perigosa. A conta com 4,7 m esquece de elevar T ao quadrado, a de 9 m esquece o fator 1,56, e a de 28 m dobra o resultado. A última acerta o comprimento, mas inventa uma condição de altura que não existe no critério.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 42.1.1 (L = 1,56 T²)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  }
+ ]
+}

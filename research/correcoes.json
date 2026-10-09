@@ -1,0 +1,125 @@
+{
+ "normas-90": {
+  "nota": "Texto já reconciliado: provas e gabaritos de CPA desde 2017 (2017 só 'Prova e Gabarito'); relações de aprovados a partir de 2018. Roteiro (taxas-48) ajustado no mesmo sentido."
+ },
+ "programa-39": {
+  "nota": "Itens de combustível (3.1 a VII-VIII) constam só do PDF consolidado; o ZIP de anexos mais novo termina em VIII sem eles. Fatos/questões que os citam já dizem 'PDF consolidado, não o arquivo de anexos mais recente'."
+ },
+ "programa-46": {
+  "nota": "Plano teórico 1.11-1.12 (ignição/fulgor, abastecimento) só no PDF consolidado; ZIP mais novo termina em 1.10. Questão arrais-4 (ref. 1.11/1.12) ganhou ressalva na referência."
+ },
+ "programa-47": {
+  "nota": "Item 2.8 (nível do tanque, abastecimento) só no PDF consolidado; ZIP termina em 2.7. Fato em arrais-1 já traz a ressalva; referência da questão de abastecimento ajustada."
+ },
+ "taxas-28": {
+  "nota": "Página da CPBA fala só de Arrais-Amador (seg-sex, computadores, 40 questões, resultado ao final); 40 questões do MSA vêm do Anexo 5-A. Texto em arrais-3 reescrito (mestre-3 já estava correto)."
+ },
+ "taxas-65": {
+  "nota": "Sem correção: contagem de 69 OM não recontada (página não carregou); indício independente coerente com 69. Fato não é citado no texto do app; nada a reescrever."
+ },
+ "radio-57": {
+  "nota": "CBSP exige 'mais de 18 anos' (não 'ter 18 anos'). Texto do app (extra-radio-2-17) e flashcard já dizem 'mais de 18 anos'; nada a reescrever."
+ },
+ "radio-90": {
+  "nota": "Sanção WS, unidades 1-15 e 5 anos confirmados; duração 'um dia' do prático não confirmada. Texto e flashcard agora dizem 'parte prática presencial' e pedem para confirmar a duração."
+ },
+ "travessia-38": {
+  "nota": "Sprayhood só Cat. 0-2; ponto de engate do arnês só Cat. 0 (OSR 5.01.1 d/e). Textos em travessia-1 e vela-2 já seguem a correção; nada a mudar."
+ },
+ "loc_s-18": {
+  "nota": "Lista da CPPR: ETNs para Arrais e Motonauta, exceto Native Jetski Curitiba (só Motonauta). O fato não é usado no texto do app; nenhuma ETN da CPPR com essa afirmação para corrigir."
+ },
+ "extra-arrais-1-01": {
+  "nota": "Programa 3.1 a) tem mais itens que os I-V citados (incêndio, primeiros socorros, sobrevivência; b-f: salvatagem, instrumentos, meteorologia, marés, RIPEAM). Fato em arrais-1 reescrito para não parecer lista completa; combustível só no PDF consolidado."
+ },
+ "extra-arrais-3-22": {
+  "nota": "Art. 4.18.2 diz 'todas', mas tabela 4.33 dispensa lanterna nas miúdas em navegação interior; obrigatória em médio/grande porte e iates e nas navegações costeira/oceânica (tabelas 4.34/4.35). O id não é citado; o mesmo fato (extra-vela-2-04) em vela-2 foi reescrito com a ressalva."
+ },
+ "extra-arrais-3-43": {
+  "nota": "Art. 3.27.1 tem exceção: sem dado do estaleiro ou embarcação artesanal, lotação segue normas de passageiros e PMC (NORMAM-201 anexo 7-F / NORMAM-202 anexo 6-G). Texto em arrais-3 reescrito (mestre-3 já estava correto)."
+ },
+ "extra-capitao-1-01": {
+  "nota": "2º fuso vale para o DF e os estados inteiros (não só o litoral), conforme Lei 12.876/2013. Texto e flashcard de capitao-1 já estavam corretos; nada a mudar."
+ },
+ "extra-capitao-1-02": {
+  "nota": "Decreto 2.784/1913 consolidado cita só Fernando de Noronha e Trindade no 1º fuso; São Pedro e São Paulo vem do Manual de Navegação da DHN (2021). Texto de capitao-1 e flashcard cpa1-10 já atribuem cada coisa à sua fonte; nada mais a reescrever."
+ },
+ "extra-capitao-2-03": {
+  "nota": "Exceção do item 3.27.1 (dado do estaleiro indisponível ou fabricação artesanal: valem os anexos 7-F da NORMAM-201 ou 6-G da NORMAM-202) já incluída no texto de capitao-2; parte de 24 m ou mais em mar aberto estava correta. Nenhuma questão do banco depende do ponto."
+ },
+ "extra-capitao-3-12": {
+  "nota": "Anexo 4-B item 1.6 está sob 'Recomendações ao Comandante': é recomendação, não obrigação. O fato não é citado no texto do app; o conteúdo equivalente (extra-travessia-2-11) já diz 'recomenda'. Nada a reescrever."
+ },
+ "extra-capitao-3-16": {
+  "nota": "Anexo 4-B item 4.5 da versão mais nova dos anexos diz 'É recomendável' (o PDF consolidado diz 'obrigatório'). Texto de capitao-3 já diz 'recomenda' com a ressalva da edição; obrigatória só onde a dotação do Cap. 4 exigir (ex.: oceânica). Sem questão afetada."
+ },
+ "extra-mestre-3-02": {
+  "nota": "Radar 9 GHz vale só para navegação costeira ou oceânica; 'só' era exclusividade não afirmada pela norma. Textos de capitao-2 e mestre-3 já trazem a ressalva; flashcard msa3-17 ganhou '(para navegação costeira ou oceânica)'."
+ },
+ "extra-radio-1-07": {
+  "nota": "Milhas de A1 (30-50) e A2 (100-150) são do material de apoio; a página da Anatel dá ~20 e 100-300. Texto do fato em radio-1 reescrito para definir por cobertura e citar as milhas como ordem de grandeza, com remissão à nota; capitao-3 e flashcard rad1-45 já tinham a ressalva. Questões do banco usam só a definição por cobertura."
+ },
+ "extra-radio-1-17": {
+  "nota": "SILENCE MAYDAY está no item 2.1.9.5 da Anatel; SEELONCE MAYDAY é grafia do Regulamento de Radiocomunicações, não do material. Texto de radio-1 já atribui SEELONCE ao RR e traz a nota 'Edições diferentes' (quem impõe o silêncio); nada a reescrever."
+ },
+ "extra-radio-1-22": {
+  "nota": "A fonte diz 'EPIRBs compatíveis, geralmente com GPS' (não 'com GPS' como condição absoluta). Texto de radio-1 já reproduz a redação correta; flashcard rad1-77 está coerente."
+ },
+ "extra-radio-2-01": {
+  "nota": "Atribuição correta: Centro de Referência Global em Primeiros Socorros do Movimento Internacional da Cruz Vermelha (não 'Federação'); 4 h e 30 h conferem. Texto de radio-2 já segue a correção."
+ },
+ "extra-travessia-1-02": {
+  "nota": "OSR 2.04.1: validade é condicional (se o item tiver prazo, não pode vencer durante a regata); estiva/acesso vale quando não está em uso. Texto de travessia-1 já segue a correção."
+ },
+ "extra-travessia-1-03": {
+  "nota": "OSR 3.01.2 não se aplica a barcos com mastro autoportante. Texto de travessia-1 já traz a exceção."
+ },
+ "extra-travessia-1-07": {
+  "nota": "OSR 3.08.2 b): até duas escotilhas por bordo podem não ficar acima da água a 90°, desde que cada uma tenha abertura menor que 0,071 m². Texto de travessia-1 já traz a exceção."
+ },
+ "extra-travessia-1-25": {
+  "nota": "OSR 3.14.1 b): abertura vertical de até 380 mm, exceto 560 mm em barcos com data de série anterior a 1993. Fato não é citado no texto do app; nada a reescrever (se for incluído, usar a redação corrigida)."
+ },
+ "extra-travessia-2-20": {
+  "nota": "Só 24 h e coordenação de transferência a hospital em terra estão confirmados; 'sem custo' e 'qualquer nacionalidade' não. Texto de travessia-2 já omite esses pontos e manda confirmar com o CIRM; nada a reescrever."
+ },
+ "travessia-10": {
+  "nota": "Texto dos cursos (capitao-2, travessia-1) e o flashcard cpa2-56 reescritos: a exigência de 2027 (deslocamento real + inclining test) vale para quem usa as alternativas das OSR 3.04.2/3.04.3, não para quem cumpre a ISO 12217-2 cat. A."
+ },
+ "travessia-86": {
+  "nota": "Redação alinhada: a página do NGA MSI tem a seção 'Download Publication' que lista as Pubs. 105 e 106 (o download em si não foi testado); trocado 'disponibiliza para download' em travessia-1 e capitao-3."
+ },
+ "travessia-99": {
+  "nota": "Removidos 0730Z/1930Z, AOR-E, Inmarsat-C e PWZ-33 (histórico do DH8-14). Texto, questão trav1-m2-l5-q2, questão rev2 de travessia-1 e flashcards (rad1-56, trv1-23) seguem a NORMAM-701/DHN com a Portaria 31/2026: satélite 2x/dia (SafetyNET II e SafetyCAST), radiotelefone a pedido pela RENEC, radiodados HF."
+ },
+ "tecnico-39": {
+  "nota": "'Mínimo de governo' trocado por 'mínimo que lhe permita manter o rumo' (Regra 19(e)) em capitao-2, capitao-3, mestre-2, arrais-2, flashcards msa2-56 e ar2-34 e nas questões rev2 de capitao-2 e mestre-5 (que também falavam em 'parar': agora 'retirar todo o seguimento')."
+ },
+ "tecnico-193": {
+  "nota": "Fato permanece só com fonte oficial primária (Manual de Navegação MB, Vol. II, rev. 2021); redação passou a atribuir a afirmação (DN 5, desde 1944, formato de 1957) ao manual, também no parágrafo da aula."
+ },
+ "tecnico-194": {
+  "nota": "Redação atribuída ao Manual de Navegação MB Vol. II (rev. 2021, 28.1): 'hoje' virou 'segundo o manual', navios da MB usam unicamente a Radler (DN4-2); uso atual não confirmado por fonte posterior."
+ },
+ "tecnico-209": {
+  "nota": "Superado: a divergência PDF x ZIP de anexos foi resolvida (research/normam211_versoes.md) — vale o PDF consolidado (Rev. 1, Portaria DPC/DGN/MB nº 200/2026); o app usa programa-39/46/47 e extra-capitao-3-16."
+ },
+ "extra-fechamento-am-06": {
+  "nota": "Fatos normas-90 (mestre-3) e extra-fechamento-cvtr-15 (capitao-3) trocados por este fato (provas desde 2013; aprovados em 2014 no exame extra e nos regulares desde 2018); ajustados também referencias, roteiro e a questão sobre onde achar as provas. Os claims normas-90 e cvtr-15 ainda dizem 'desde 2017'."
+ },
+ "extra-fechamento-cvtr-17": {
+  "nota": "Texto do fato em radio-1 alinhado à redação corrigida (edição 2024 do RR, Nos. 32.16, 32.17 e 32.29A; costeira ou estação terrena costeira). Cursos, questão m2l4-q1 e flashcards já diziam o mesmo em substância."
+ },
+ "extra-travessia-2-14": {
+  "nota": "Localizador trocado de Anexo 5-F para Anexo 4-B, item 7 (Poluição) em travessia-2 (fato e fonte) e no insumo research_extra_travessia-2.json."
+ },
+ "normas-168": {
+  "nota": "Redação correta do claim, conforme a citação literal do art. 12, I, do RLESTA (Decreto nº 2.596/1998): \"Pelo art. 12, I, do RLESTA, não possuir a documentação relativa à habilitação ou ao controle de saúde dá multa do grupo D.\" O claim atual diz só \"não possuir a habilitação\", que é mais curto que a norma. O texto do app (arrais-3, m15 l4) já segue a citação literal; a citação literal foi conferida pelos dois verificadores em 2026-10-07 (https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm). Reformulação para verificação registrada em research/_work/research_extra_fechamento-am.json (extra-fechamento-am-03)."
+ },
+ "extra-fechamento-cvtr-14": {
+  "nota": "Superado: a divergência PDF x ZIP de anexos foi resolvida (research/normam211_versoes.md) — vale o PDF consolidado (Rev. 1, Portaria DPC/DGN/MB nº 200/2026); o app usa programa-39/46/47 e extra-capitao-3-16."
+ },
+ "normas-67": {
+  "nota": "Superado: a divergência PDF x ZIP de anexos foi resolvida (research/normam211_versoes.md) — vale o PDF consolidado (Rev. 1, Portaria DPC/DGN/MB nº 200/2026); o app usa programa-39/46/47 e extra-capitao-3-16."
+ }
+}

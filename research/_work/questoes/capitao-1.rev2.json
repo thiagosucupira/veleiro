@@ -1,0 +1,872 @@
+{
+ "questoes": [
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 1,
+   "enunciado": "Dois veleiros estão no mesmo paralelo: um no meridiano de 021° 15′ W e o outro no de 058° 45′ W. A diferença entre as horas médias locais desses dois meridianos é:",
+   "alternativas": [
+    "2h 28m.",
+    "2h 30m.",
+    "2h 58m.",
+    "3h 45m.",
+    "9h 22m."
+   ],
+   "correta": 1,
+   "explicacao": "A diferença de longitude é 058° 45′ − 021° 15′ = 037° 30′. Como 1° vale 4 min e 1′ vale 4 s: 37 × 4 = 148 min (2h 28m) e 30′ × 4 = 120 s (2 min), total <b>2h 30m</b> (ou 37,5° ÷ 15 = 2,5 h). Quem esquece os 30′ de arco para em 2h 28m. Quem toma 30′ como 30 min de tempo chega a 2h 58m. Dividir por 10, em vez de 15, dá 3h 45m. Multiplicar por 15, em vez de dividir, dá 9h 22m.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, itens 19.4.1 e 19.4.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 1,
+   "enunciado": "Assinale a afirmativa <b>INCORRETA</b> sobre a equação do tempo (ET).",
+   "alternativas": [
+    "A ET é a diferença entre a hora verdadeira e a hora média, no mesmo instante e no mesmo lugar.",
+    "Quando a ET é positiva, o Sol verdadeiro está adiantado e cruza o meridiano antes das 12h médias.",
+    "O Almanaque tabela a ET para 00h e 12h de HMG, e o valor vale para qualquer longitude no mesmo instante.",
+    "Ao longo do ano a ET tem seu máximo, de cerca de +16 min, em novembro e seu mínimo, de cerca de −14 min, em fevereiro.",
+    "A ET é nula nos equinócios, porque nessas datas o Sol está sobre o equador e coincide com o Sol médio."
+   ],
+   "correta": 4,
+   "explicacao": "A afirmativa incorreta é a que dá a ET como nula nos equinócios. A ET depende da órbita elíptica da Terra e da inclinação da eclíptica, não da declinação do Sol: nos equinócios ela vale cerca de −7 min (março) e +7 min (setembro), e só se anula por volta de 15 de abril, 13 de junho, 1º de setembro e 25 de dezembro. As demais estão certas: ET = hora verdadeira − hora média; ET positiva significa Sol adiantado, que culmina antes das 12h médias; o valor tabelado para a HMG vale para qualquer longitude no mesmo instante; e os extremos anuais ocorrem em novembro (máximo) e fevereiro (mínimo).",
+   "referencia": "Miguens, vol. II, cap. 19, item 19.8 (definição e tabulação da ET no Almanaque); valores extremos e nulos da curva anual: efemérides do Sol no Almanaque Náutico",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 1,
+   "enunciado": "No dia 7, um navio está na longitude 072° 30′ W e a hora média local é 21h 45m. A HMG e a data correspondentes são:",
+   "alternativas": [
+    "16h 55m do dia 7.",
+    "21h 45m do dia 7.",
+    "02h 35m do dia 7.",
+    "03h 03m do dia 8.",
+    "02h 35m do dia 8."
+   ],
+   "correta": 4,
+   "explicacao": "λ = 72° 30′ = 72 × 4 min + 30′ × 4 s = 288 min + 2 min = 4h 50m. Na longitude Oeste, HMG = HML + λ = 21h 45m + 4h 50m = 26h 35m. Como passa de 24 h, subtrai-se 24 h e avança-se um dia: <b>02h 35m do dia 8</b>. Subtrair a longitude (16h 55m) é aplicar a regra da longitude Leste. Tomar HMG = HML (21h 45m) é esquecer a longitude. Chegar a 02h 35m e não mudar a data (dia 7) é esquecer a virada do dia. Tratar os 30′ de arco como 30 min de tempo (λ = 5h 18m) leva a 03h 03m.",
+   "referencia": "Miguens, vol. II, cap. 19, item 19.4.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 2,
+   "enunciado": "Qual é o fuso horário (teórico) da longitude 052° 40′ W?",
+   "alternativas": [
+    "−4 (D).",
+    "−3 (C).",
+    "+3 (P).",
+    "+4 (Q).",
+    "+5 (R)."
+   ],
+   "correta": 3,
+   "explicacao": "52° 40′ ÷ 15° dá quociente 3 e resto 7° 40′. Como o resto é maior que 7° 30′ (meia largura do fuso), soma-se 1 ao quociente: fuso 4. Na convenção da DHN, Oeste é positivo, logo <b>+4 (Q)</b>. O fuso +3 (P) é o de quem ignora o resto. O +5 (R) é o de quem soma 1 ao fuso depois de já tê-lo corrigido, contando o resto duas vezes. Os fusos −4 (D) e −3 (C) têm o sinal trocado em relação a +4 e +3: fusos negativos são os de longitude Leste, e a posição está a Oeste.",
+   "referencia": "Miguens, vol. II, cap. 19, item 19.3.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro navega na longitude 023° 10′ W e adota a hora legal do fuso teórico da posição. Quando a HMG é 01h 25m do dia 12, a hora legal a bordo e a data são:",
+   "alternativas": [
+    "00h 25m do dia 12.",
+    "23h 25m do dia 11.",
+    "03h 25m do dia 12.",
+    "22h 25m do dia 11.",
+    "23h 25m do dia 12."
+   ],
+   "correta": 1,
+   "explicacao": "23° 10′ ÷ 15° dá quociente 1 e resto 8° 10′, maior que 7° 30′: o fuso é 1 + 1 = +2 (O). Hleg = HMG − fuso = 01h 25m − 2h = −0h 35m; somam-se 24 h e recua-se um dia: <b>23h 25m do dia 11</b>. Usar o fuso +1 (quociente sem o resto) dá 00h 25m do dia 12. Somar o fuso, em vez de subtraí-lo, dá 03h 25m. Usar o fuso +3 dá 22h 25m do dia 11. E acertar a hora mas deixar a data no dia 12 é esquecer que o resultado negativo obriga a recuar um dia.",
+   "referencia": "Miguens, vol. II, cap. 19, itens 19.3.3 e 19.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 2,
+   "enunciado": "No Índico, um iate na longitude 070° 20′ E adota a hora legal do fuso teórico da posição. O relógio de bordo marca 02h 30m do dia 20. A HMG correspondente é:",
+   "alternativas": [
+    "21h 30m do dia 19.",
+    "21h 30m do dia 20.",
+    "22h 30m do dia 19.",
+    "02h 30m do dia 20.",
+    "07h 30m do dia 20."
+   ],
+   "correta": 0,
+   "explicacao": "70° 20′ ÷ 15° dá quociente 4 e resto 10° 20′, maior que 7° 30′: o fuso é 5. Leste é negativo, logo fuso −5 (E). HMG = Hleg + fuso = 02h 30m + (−5h) = −2h 30m; somam-se 24 h e recua-se um dia: <b>21h 30m do dia 19</b>. Acertar a hora e deixar o dia 20 é esquecer o recuo da data. Usar o fuso −4 (só o quociente) dá 22h 30m do dia 19. Ignorar o fuso dá 02h 30m do dia 20. Somar 5 h, tratando o fuso Leste como se fosse Oeste, dá 07h 30m do dia 20.",
+   "referencia": "Miguens, vol. II, cap. 19, itens 19.3.3 e 19.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 2,
+   "enunciado": "Um navio está em 034° 30′ W, num instante em que a hora média local é 08h 12m. A hora legal do fuso teórico da posição, nesse instante, é:",
+   "alternativas": [
+    "03h 54m.",
+    "07h 30m.",
+    "08h 30m.",
+    "10h 30m.",
+    "12h 30m."
+   ],
+   "correta": 2,
+   "explicacao": "λ = 34° 30′ = 2h 18m. HMG = HML + λ (Oeste) = 08h 12m + 2h 18m = 10h 30m. O fuso: 34° 30′ ÷ 15° dá quociente 2 e resto 4° 30′, menor que 7° 30′, logo +2 (O). Hleg = HMG − fuso = 10h 30m − 2h = <b>08h 30m</b>. Subtrair a longitude (HMG = 05h 54m) e depois o fuso dá 03h 54m. Usar o fuso +3 dá 07h 30m. Esquecer de tirar o fuso deixa a HMG, 10h 30m. Somar o fuso à HMG, em vez de subtraí-lo, dá 12h 30m.",
+   "referencia": "Miguens, vol. II, cap. 19, itens 19.4.2 e 19.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 2,
+   "enunciado": "Um navio A está em 037° 15′ W e um navio B está em 012° 45′ E. Quando a hora média local de A é 15h 40m, a hora média local de B é:",
+   "alternativas": [
+    "12h 20m.",
+    "14h 02m.",
+    "17h 18m.",
+    "19h 00m.",
+    "19h 13m."
+   ],
+   "correta": 3,
+   "explicacao": "A diferença de longitude é 37° 15′ + 12° 45′ = 50° 00′ (os meridianos ficam em lados opostos de Greenwich), ou 50° ÷ 15° = 3h 20m. B está a Leste e, a Leste, a hora é mais adiantada: 15h 40m + 3h 20m = <b>19h 00m</b>. Subtrair os 3h 20m (12h 20m) é pôr B a Oeste. Subtrair as longitudes, como se estivessem do mesmo lado (24° 30′ = 1h 38m), dá 14h 02m ou 17h 18m. Ler 3,33 h como 3h 33m leva a 19h 13m.",
+   "referencia": "Miguens, vol. II, cap. 19, itens 19.4.1 e 19.4.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 2,
+   "enunciado": "Analise as afirmativas sobre a linha internacional de mudança de data e assinale a sequência correta de V (verdadeira) ou F (falsa).<br>I. A linha acompanha sempre, sem nenhum desvio, o meridiano de 180°.<br>II. Ao cruzá-la rumo a Oeste, o calendário avança um dia e a hora marcada no relógio de bordo não muda.<br>III. Ao cruzá-la rumo a Leste, o calendário recua um dia e a hora marcada no relógio de bordo não muda.<br>IV. Ao cruzá-la rumo a Oeste, a HMG aumenta de 24 horas.",
+   "alternativas": [
+    "F – V – V – F.",
+    "V – V – F – F.",
+    "F – F – V – V.",
+    "V – F – V – F.",
+    "F – V – F – V."
+   ],
+   "correta": 0,
+   "explicacao": "I é falsa: a linha segue o meridiano de 180° em boa parte do traçado, mas se desvia dele em vários pontos, para que arquipélagos e países fiquem na mesma data. II é verdadeira: indo para Oeste passa-se do fuso +12 (Y) para o −12 (M), que está 24 h adiantado, e o dia do calendário avança. III é verdadeira: indo para Leste, ocorre o inverso e repete-se a data. IV é falsa: a HMG é a mesma em toda a Terra e não muda ao cruzar a linha; o que muda é a data local. As outras sequências erram ao julgar I (traçado) ou ao trocar o sentido do ajuste de data (II e III) ou a HMG (IV).",
+   "referencia": "Miguens, vol. II, cap. 19, item 19.3.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro parte, às 09h 30m do dia 3 de março, de um porto cuja hora legal é a do fuso +4 (Q). Navega 2 262 milhas a 6,5 nós, em velocidade constante, até um porto cuja hora legal é a do fuso +1 (N). A hora legal e a data da chegada são:",
+   "alternativas": [
+    "18h 30m do dia 17.",
+    "21h 30m do dia 17.",
+    "00h 30m do dia 18.",
+    "01h 30m do dia 18.",
+    "02h 30m do dia 18."
+   ],
+   "correta": 2,
+   "explicacao": "Duração: 2 262 ÷ 6,5 = 348 h = 14 dias e 12 h. Partida: HMG = Hleg + fuso = 09h 30m + 4h = 13h 30m do dia 3. Chegada: HMG = 13h 30m + 14 d 12 h = 01h 30m do dia 18. Hleg = HMG − fuso = 01h 30m − 1h = <b>00h 30m do dia 18</b>. Somar 14 d 12 h ao relógio de partida e não converter o fuso dá 21h 30m do dia 17. Parar na HMG (01h 30m do dia 18) é esquecer o fuso de chegada. Somar o fuso +1 dá 02h 30m. Corrigir a diferença de fusos (3 h) no sentido errado dá 18h 30m do dia 17.",
+   "referencia": "Miguens, vol. II, cap. 19, itens 19.5 e 19.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 1,
+   "enunciado": "O fuso horário Z (zero), cujo meridiano central é o de Greenwich, abrange as longitudes:",
+   "alternativas": [
+    "de 000° a 015° E.",
+    "de 000° a 015° W.",
+    "de 015° W a 015° E.",
+    "de 003° 45′ W a 003° 45′ E.",
+    "de 007° 30′ W a 007° 30′ E."
+   ],
+   "correta": 4,
+   "explicacao": "Cada fuso tem 15° de largura e vai 7° 30′ para cada lado do seu meridiano central. O fuso Z vai, portanto, de <b>007° 30′ W a 007° 30′ E</b>. Os intervalos de 000° a 015° (E ou W) tomam o meridiano de Greenwich como borda do fuso, e não como centro. O intervalo de 015° W a 015° E tem 30° e corresponderia a dois fusos. O de 003° 45′ para cada lado teria só 7° 30′ de largura, a metade de um fuso.",
+   "referencia": "Miguens, vol. II, cap. 19, item 19.3.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 1,
+   "enunciado": "Relacione os tipos de hora (coluna I) às definições (coluna II) e assinale a sequência correta, de cima para baixo.<br><b>Coluna I</b><br>1. Hora verdadeira local<br>2. Hora média local<br>3. Hora média de Greenwich<br>4. Hora legal<br><b>Coluna II</b><br>( ) Hora marcada pelo Sol médio no meridiano de Greenwich.<br>( ) Hora marcada pelo Sol verdadeiro no meridiano do observador.<br>( ) Hora média do meridiano central do fuso.<br>( ) Hora marcada pelo Sol médio no meridiano do observador.",
+   "alternativas": [
+    "3 – 1 – 4 – 2.",
+    "3 – 2 – 4 – 1.",
+    "1 – 3 – 4 – 2.",
+    "3 – 1 – 2 – 4.",
+    "4 – 1 – 3 – 2."
+   ],
+   "correta": 0,
+   "explicacao": "A hora média de Greenwich (3) é a do Sol médio em Greenwich. A hora verdadeira local (1) é a do Sol que se vê, no meridiano do observador. A hora legal (4) é a hora média do meridiano central do fuso. A hora média local (2) é a do Sol médio no meridiano do observador: <b>3 – 1 – 4 – 2</b>. As demais sequências trocam pares: 1 por 2 (verdadeiro por médio), 1 por 3 (observador por Greenwich), 2 por 4 (meridiano do observador por meridiano do fuso) ou 3 por 4 (Greenwich por fuso).",
+   "referencia": "Miguens, vol. II, cap. 19, itens 19.3 e 19.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 3,
+   "enunciado": "Um cronômetro, ajustado na HMG, está <b>atrasado</b> 1 min 20 s. O navegante usa a leitura, sem corrigi-la, como a HMG da passagem meridiana do Sol e obtém a longitude pelo AHG tabelado. Em relação à longitude verdadeira, a longitude assim calculada fica errada de:",
+   "alternativas": [
+    "1,3′, para Leste.",
+    "5,3′, para Leste.",
+    "20′, para Leste.",
+    "20′, para Oeste.",
+    "80′, para Leste."
+   ],
+   "correta": 2,
+   "explicacao": "Cada segundo de tempo vale 0,25′ de arco, então 80 s valem 80 × 0,25′ = 20′. Com o relógio atrasado, a leitura é anterior à HMG verdadeira e o AHG tabelado sai 20′ menor. Como na passagem λ (W) = AHG, a longitude calculada tem 20′ a menos a Oeste, ou seja, fica <b>20′ para Leste</b> da verdadeira. 20′ para Oeste seria o erro de um cronômetro adiantado. Ler 1 min 20 s como arco (1′ 20″) dá 1,3′. Dividir 80 por 15, em vez de multiplicar por 0,25, dá 5,3′. Contar 1′ por segundo dá 80′.",
+   "referencia": "Miguens, vol. II, cap. 19, item 19.4.1; cap. 26, item 26.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Tempo e fusos",
+   "dificuldade": 1,
+   "enunciado": "Uma tábua de marés dá as horas no fuso padrão do porto, sem horário de verão. Num porto onde o horário de verão está em vigor, os relógios da cidade estão 1 hora adiantados em relação ao fuso padrão. Se a tábua indica preamar às 14h 20m, a preamar ocorre, no relógio da cidade, às:",
+   "alternativas": [
+    "12h 20m.",
+    "13h 20m.",
+    "14h 20m.",
+    "15h 20m.",
+    "16h 20m."
+   ],
+   "correta": 3,
+   "explicacao": "Com horário de verão, a cidade usa o fuso vizinho a Leste e seus relógios ficam 1 hora adiantados. O instante da preamar não muda, só a hora lida no relógio: 14h 20m + 1 h = <b>15h 20m</b>. Manter 14h 20m é esquecer o horário de verão. Subtrair 1 h (13h 20m) é fazer a conversão no sentido contrário. As respostas de 12h 20m e 16h 20m aplicam ajuste de 2 horas, que não existe no caso.",
+   "referencia": "Miguens, vol. II, cap. 19, item 19.3.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 1,
+   "enunciado": "Para um observador na latitude 33° 20′ S, a altura do polo elevado e o nome desse polo são:",
+   "alternativas": [
+    "33° 20′, o polo Norte.",
+    "56° 40′, o polo Norte.",
+    "56° 40′, o polo Sul.",
+    "0° 00′, polos no horizonte.",
+    "33° 20′, o polo Sul."
+   ],
+   "correta": 4,
+   "explicacao": "A altura do polo elevado é igual à latitude do observador, e o polo elevado tem o mesmo nome da latitude: no hemisfério Sul, o polo Sul, a <b>33° 20′</b> do horizonte. O polo Norte fica abaixo do horizonte para quem está no hemisfério Sul. O valor 56° 40′ é a colatitude (90° − 33° 20′), que é a distância do polo ao zênite, e não a sua altura. E os dois polos só ficam no horizonte no Equador.",
+   "referencia": "Miguens, vol. II, cap. 17 (esfera oblíqua: altura do polo elevado = latitude) e cap. 18, item 18.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 1,
+   "enunciado": "A declinação de um astro é o arco:",
+   "alternativas": [
+    "do equador celeste, contado do ponto vernal até o círculo horário do astro, para Leste, de 0° a 360°, em graus.",
+    "do círculo horário do astro, contado do equador celeste até o astro, de 0° a 90°, para Norte ou para Sul.",
+    "do vertical do astro, contado do horizonte até o astro, de 0° a 90°, para o zênite.",
+    "do equador celeste, contado do meridiano de Greenwich até o círculo horário do astro, para Oeste, de 0° a 360°.",
+    "do círculo horário do astro, contado do zênite até o astro, de 0° a 180°, para Norte ou Sul."
+   ],
+   "correta": 1,
+   "explicacao": "A declinação é a “latitude” do astro: o arco do seu círculo horário entre o equador celeste e o astro, de 0° a 90°, N ou S. O arco do equador contado do ponto vernal para Leste é a ascensão reta. O arco do vertical entre o horizonte e o astro é a altura. O arco do equador contado de Greenwich para Oeste é o ângulo horário em Greenwich (AHG). E a distância do zênite ao astro é a distância zenital, que se mede sobre o vertical do astro (não sobre o círculo horário) e não passa de 90° para um astro visível. Contada no círculo horário, a partir do polo, a distância seria a distância polar.",
+   "referencia": "Miguens, vol. II, cap. 18, itens 18.2 e 18.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 2,
+   "enunciado": "Analise as afirmativas sobre as coordenadas celestes.<br>I. O ângulo horário local (AHL) é contado a partir do meridiano superior do observador, para Oeste, de 0° a 360°.<br>II. A ascensão reta versa (ARV) de uma estrela é contada a partir do ponto vernal, para Leste.<br>III. Na passagem meridiana superior de um astro, o seu AHL é igual a zero.<br>IV. Para um observador em longitude Leste, AHL = AHG + λ.<br>Está correto o que se afirma em:",
+   "alternativas": [
+    "apenas I e III.",
+    "apenas II e IV.",
+    "apenas I, III e IV.",
+    "apenas II, III e IV.",
+    "I, II, III e IV."
+   ],
+   "correta": 2,
+   "explicacao": "I é verdadeira: é a definição de AHL. III é verdadeira: ao cruzar o meridiano superior, o círculo horário do astro coincide com o meridiano e o AHL é nulo. IV é verdadeira: o meridiano do observador está λ a Leste de Greenwich, então AHL = AHG + λ. II é falsa: a ARV é contada para <b>Oeste</b> (ARV = 360° − ascensão reta); é a ascensão reta que se conta para Leste. Logo, o gabarito é <b>apenas I, III e IV</b>; as demais opções incluem a II ou deixam de fora uma afirmativa verdadeira.",
+   "referencia": "Miguens, vol. II, cap. 18, itens 18.2 e 18.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 2,
+   "enunciado": "No instante da observação, o AHG do Sol é 012° 40,5′ e o observador está em 045° 20,0′ W. O AHL do Sol e o lado do meridiano em que ele se encontra são:",
+   "alternativas": [
+    "032° 39,5′, a Leste.",
+    "032° 39,5′, a Oeste.",
+    "058° 00,5′, a Oeste.",
+    "327° 20,5′, a Leste.",
+    "327° 20,5′, a Oeste."
+   ],
+   "correta": 3,
+   "explicacao": "Na longitude Oeste, AHL = AHG − λ = 012° 40,5′ − 045° 20,0′ = −032° 39,5′. Somando 360°: AHL = <b>327° 20,5′</b>. Como o AHL é maior que 180°, o Sol está a Leste do meridiano (ainda vai passar por ele), com ângulo no polo t = 360° − 327° 20,5′ = 032° 39,5′ E. As respostas com 032° 39,5′ dão o ângulo no polo (t) e não o AHL. A de 058° 00,5′ soma a longitude em vez de subtraí-la (regra da longitude Leste). A de 327° 20,5′ a Oeste acerta o AHL, mas erra o lado: AHL maior que 180° é Leste.",
+   "referencia": "Miguens, vol. II, cap. 18, item 18.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 2,
+   "enunciado": "O Almanaque dá o AHG do ponto vernal (AHGγ) = 262° 15,0′ e a ARV de uma estrela = 148° 30,0′. Para um observador em 030° 00,0′ W, o AHL da estrela é:",
+   "alternativas": [
+    "020° 45,0′.",
+    "050° 45,0′.",
+    "080° 45,0′.",
+    "083° 45,0′.",
+    "380° 45,0′."
+   ],
+   "correta": 0,
+   "explicacao": "AHG* = AHGγ + ARV = 262° 15,0′ + 148° 30,0′ = 410° 45,0′, que se reduz a 050° 45,0′ (−360°). Na longitude Oeste, AHL* = AHG* − λ = 050° 45,0′ − 030° 00,0′ = <b>020° 45,0′</b>. Parar no AHG da estrela (050° 45,0′) é esquecer de descontar a longitude. Somar a longitude dá 080° 45,0′. Subtrair a ARV do AHGγ, em vez de somá-la, leva a 083° 45,0′ (262° 15,0′ − 148° 30,0′ − 030° 00,0′). E não reduzir o AHG ao intervalo de 0° a 360° deixa 380° 45,0′, que não é um ângulo horário válido.",
+   "referencia": "Miguens, vol. II, cap. 18, item 18.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 1,
+   "enunciado": "O Almanaque Náutico fornece elementos para a navegação astronômica com quais astros?",
+   "alternativas": [
+    "Sol, Lua, 4 planetas (Mercúrio, Vênus, Marte e Júpiter) e 57 estrelas.",
+    "Sol, Lua, 4 planetas (Vênus, Marte, Júpiter e Saturno) e 100 estrelas.",
+    "Sol, Lua e 57 estrelas, sem nenhum planeta.",
+    "Sol, Lua e todos os planetas do Sistema Solar, além de 57 estrelas.",
+    "Sol, Lua, 4 planetas (Vênus, Marte, Júpiter e Saturno) e 57 estrelas."
+   ],
+   "correta": 4,
+   "explicacao": "O Almanaque Náutico da DHN traz os dados do Sol, da Lua, de <b>4 planetas</b> (Vênus, Marte, Júpiter e Saturno) e de <b>57 estrelas</b>. A opção com Mercúrio troca Saturno por Mercúrio, que não consta. A de 100 estrelas erra a quantidade. A que exclui os planetas ignora os quatro que são tabelados. A que inclui todos os planetas amplia a lista: Mercúrio, Urano e Netuno não são tabelados.",
+   "referencia": "Almanaque Náutico, DHN (página do CHM); Miguens, vol. II, cap. 23, itens 23.2 e 23.5",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/almanaque-nautico"
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 2,
+   "enunciado": "Assinale a afirmativa <b>INCORRETA</b> sobre o uso do Almanaque Náutico para o Sol.",
+   "alternativas": [
+    "Entra-se nas páginas diárias com a data e a hora inteira de HMG imediatamente anterior ao instante da observação.",
+    "O acréscimo ao AHG do Sol, para os minutos e segundos que sobram, corresponde a 15′ de arco por minuto de tempo.",
+    "A correção d da declinação é proporcional aos minutos e tem o mesmo sinal do d indicado na página do dia.",
+    "A precisão tabular do AHG e da declinação é de 0,1′, isto é, um décimo de minuto de arco.",
+    "Como o Almanaque é tabelado em hora legal, basta entrar nele com a hora do relógio, sem converter para HMG."
+   ],
+   "correta": 4,
+   "explicacao": "A afirmativa incorreta é a que diz que o Almanaque é tabelado em hora legal: ele é tabelado em <b>HMG</b>, e a hora do relógio precisa ser convertida antes (HMG = Hleg + fuso). As demais estão certas: entra-se com a hora inteira anterior da HMG; o Sol avança 15° por hora, ou seja, 15′ por minuto (0,25′ por segundo); a correção d vale d × minutos ÷ 60 e leva o sinal de d; e a precisão tabular é de 0,1′.",
+   "referencia": "Miguens, vol. II, cap. 23, itens 23.2 a 23.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 2,
+   "enunciado": "Extrato simulado da coluna do Sol, para um dia de maio:<table class=\"tabela\"><thead><tr><th>HMG</th><th>AHG</th></tr></thead><tbody><tr><td>16h</td><td>059° 14,6′</td></tr><tr><td>17h</td><td>074° 14,8′</td></tr></tbody></table>Para a HMG 16h 36m 20s, o AHG do Sol é:",
+   "alternativas": [
+    "059° 50,9′.",
+    "068° 14,6′.",
+    "068° 19,6′.",
+    "068° 29,6′.",
+    "074° 14,8′."
+   ],
+   "correta": 2,
+   "explicacao": "Entra-se com a hora inteira anterior, 16h (AHG = 059° 14,6′). O acréscimo para 36m 20s é 36 × 15′ = 540′ = 9° 00,0′ mais 20 × 0,25′ = 5,0′, ou seja, 9° 05,0′. AHG = 059° 14,6′ + 9° 05,0′ = <b>068° 19,6′</b>. Ler o tempo como arco (36′ 20″ de acréscimo) dá 059° 50,9′. Esquecer os 20 s dá 068° 14,6′. Arredondar para 37 min dá 068° 29,6′. Usar o valor tabelado de 17h, sem interpolar, dá 074° 14,8′.",
+   "referencia": "Miguens, vol. II, cap. 23, itens 23.3 e 23.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 3,
+   "enunciado": "Em uma data de março, o Almanaque dá, para a HMG 15h, a declinação do Sol S 6° 05,3′, com d = −0,9′ por hora (o valor da declinação diminui, pois o Sol caminha para o Norte). A declinação do Sol às 15h 40m 25s de HMG é:",
+   "alternativas": [
+    "N 6° 04,7′.",
+    "S 6° 04,1′.",
+    "S 6° 04,7′.",
+    "S 6° 05,3′.",
+    "S 6° 05,9′."
+   ],
+   "correta": 2,
+   "explicacao": "Correção d = d × minutos ÷ 60 = −0,9 × 40 ÷ 60 = −0,6′ (os segundos não entram). Como d é negativo, o valor da declinação diminui: subtrai-se 0,6′ de S 6° 05,3′, sem trocar o nome. <b>Dec = S 6° 04,7′</b>. Somar a correção (S 6° 05,9′) é ignorar que d indica a variação do valor. Deixar de corrigir (S 6° 05,3′) é esquecer a correção d. Aplicá-la em dobro dá S 6° 04,1′. E trocar o nome para Norte, só porque o Sol “caminha” para o Norte, erra o nome: a declinação continua Sul.",
+   "referencia": "Miguens, vol. II, cap. 23, item 23.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 3,
+   "enunciado": "Para um observador na latitude 20° S, considere o triângulo de posição de um Sol de declinação N 12°. Os lados PZ (polo elevado–zênite) e PA (polo elevado–astro) valem, respectivamente:",
+   "alternativas": [
+    "PZ = 70° e PA = 78°.",
+    "PZ = 70° e PA = 102°.",
+    "PZ = 110° e PA = 78°.",
+    "PZ = 20° e PA = 102°.",
+    "PZ = 70° e PA = 12°."
+   ],
+   "correta": 1,
+   "explicacao": "O polo elevado é o Sul. PZ é a colatitude: 90° − 20° = 70°. PA é a distância polar do astro até o polo elevado: como a declinação (N) tem nome contrário ao do polo (S), PA = 90° + 12° = <b>102°</b>. PA = 78° seria o valor para uma declinação S de 12° (mesmo nome do polo). PZ = 110° não existe, pois a colatitude é 90° − φ. PZ = 20° confunde colatitude com latitude. PA = 12° confunde a distância polar com a própria declinação.",
+   "referencia": "Miguens, vol. II, cap. 20, itens 20.2 e 20.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 2,
+   "enunciado": "O ângulo horário local do Sol é 301° 00′. O ângulo no polo (t) e a hora verdadeira local são, respectivamente:",
+   "alternativas": [
+    "059° E e 08h 04m.",
+    "059° W e 08h 04m.",
+    "059° E e 15h 56m.",
+    "059° W e 15h 56m.",
+    "301° E e 20h 04m."
+   ],
+   "correta": 0,
+   "explicacao": "Como o AHL é maior que 180°, o Sol está a Leste do meridiano e t = 360° − 301° = <b>059° E</b>. Para o Sol, HVL = AHL + 12 h; 301° ÷ 15° = 20h 04m, logo HVL = 20h 04m + 12 h = 32h 04m = <b>08h 04m</b> (manhã, antes do meio-dia verdadeiro). Dar 059° W confunde o lado. As horas 15h 56m seriam as de um Sol 59° a Oeste (tarde), com AHL = 059°. A resposta 301° E não reduz o AHL a ângulo no polo, e 20h 04m esquece de somar as 12 h de HVL = AHL + 12 h.",
+   "referencia": "Miguens, vol. II, cap. 18, item 18.2; cap. 19, item 19.3.1; cap. 20, item 20.3 c)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Almanaque e esfera celeste",
+   "dificuldade": 3,
+   "enunciado": "Um observador está na latitude 10° S. Um astro de declinação N 40° culmina no meridiano superior. A altura do astro e o azimute, nessa culminação, são:",
+   "alternativas": [
+    "40° e 180°.",
+    "50° e 000°.",
+    "60° e 000°.",
+    "60° e 180°.",
+    "40° e 000°."
+   ],
+   "correta": 4,
+   "explicacao": "Latitude S e declinação N têm nomes contrários: a distância zenital é z = 10° + 40° = 50°, e a altura é a = 90° − 50° = <b>40°</b>. O astro tem declinação mais ao Norte que o observador, então culmina ao Norte do zênite, com azimute 000°. Azimute 180° valeria para o astro ao Sul. A altura de 50° é a distância zenital, e não a altura. A de 60° vem de subtrair as latitudes (40° − 10° = 30°), conta que só vale para nomes iguais.",
+   "referencia": "Miguens, vol. II, cap. 25, itens 25.1 e 25.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 1,
+   "enunciado": "O Almanaque (extrato simulado) dá, para o dia, passagem meridiana (Pass. Mer.) do Sol = 12h 06m. Para a posição estimada 25° 10′ S, 028° 20′ W, a hora legal prevista da culminação é, ao minuto:",
+   "alternativas": [
+    "08h 13m.",
+    "11h 59m.",
+    "12h 06m.",
+    "12h 59m.",
+    "13h 59m."
+   ],
+   "correta": 1,
+   "explicacao": "A Pass. Mer. é hora média local. λ = 28° 20′ = 1h 53m 20s. HMG = HML + λ (Oeste) = 12h 06m + 1h 53m 20s = 13h 59m 20s. Fuso: 28° 20′ ÷ 15° dá 1 e resto 13° 20′, maior que 7° 30′, logo +2 (O). Hleg = HMG − 2 h = 11h 59m 20s ≈ <b>11h 59m</b>. Subtrair a longitude (regra de Leste) dá 08h 13m. Tomar a Pass. Mer. como hora legal dá 12h 06m. Usar o fuso +1 dá 12h 59m. Esquecer de tirar o fuso deixa a HMG, 13h 59m.",
+   "referencia": "Miguens, vol. II, cap. 25, item 25.3 (1º método)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 2,
+   "enunciado": "Num dia de novembro, o Almanaque (extrato simulado) dá Pass. Mer. do Sol = 11h 44m. Um iate navega no Índico, na posição estimada 12° 00′ S, 054° 10′ E, e adota o fuso teórico da posição. A hora legal prevista da culminação é, ao minuto:",
+   "alternativas": [
+    "04h 07m.",
+    "08h 07m.",
+    "11h 07m.",
+    "12h 07m.",
+    "19h 21m."
+   ],
+   "correta": 3,
+   "explicacao": "λ = 54° 10′ = 3h 36m 40s. Na longitude Leste, HMG = HML − λ = 11h 44m − 3h 36m 40s = 08h 07m 20s. Fuso: 54° 10′ ÷ 15° dá 3 e resto 9° 10′, maior que 7° 30′; fuso 4, e Leste é negativo: −4 (D). Hleg = HMG − (−4) = 08h 07m 20s + 4 h = 12h 07m 20s ≈ <b>12h 07m</b>. Tratar o fuso como +4 dá 04h 07m. Parar na HMG dá 08h 07m. Usar o fuso 3 (só o quociente) dá 11h 07m. Somar a longitude, em vez de subtraí-la, dá 19h 21m.",
+   "referencia": "Miguens, vol. II, cap. 25, item 25.3 (1º método)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 3,
+   "enunciado": "No dia 4 de fevereiro, o Almanaque (extrato simulado) dá Pass. Mer. do Sol = 12h 14m. Às 06h 00m (hora legal, fuso +2) a posição é 25° 00′ S, 033° 00′ W; o veleiro navega ao rumo 270° a 8,0 nós. A hora legal prevista da culminação, calculada com a posição estimada <b>para o instante da passagem</b>, é, ao minuto:",
+   "alternativas": [
+    "12h 14m.",
+    "12h 22m.",
+    "12h 26m.",
+    "12h 30m.",
+    "14h 30m."
+   ],
+   "correta": 3,
+   "explicacao": "Com a posição das 06h, a culminação seria às 12h 26m (λ = 2h 12m; HMG = 14h 26m). Isso dá 6h 26m de navegação: 51,5′ para Oeste, ou Δλ = 51,5′ ÷ cos 25° = 56,8′ W. Nova longitude 033° 56,8′ W = 2h 15m 47s; HMG = 12h 14m + 2h 15m 47s = 14h 29m 47s; Hleg = HMG − 2 h ≈ 12h 30m (a segunda aproximação não muda o minuto). Resposta: <b>12h 30m</b>. Sem projetar a posição, chega-se a 12h 26m. Deslocar o navio para o lado errado (Leste) dá 12h 22m. Tomar a Pass. Mer. como hora legal dá 12h 14m. E parar na HMG dá 14h 30m, sem descontar o fuso.",
+   "referencia": "Miguens, vol. II, cap. 25, item 25.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 2,
+   "enunciado": "Observação do limbo <b>inferior</b> do Sol, de abril a setembro: altura instrumental 61° 08,4′; erro instrumental −1,6′; elevação do olho 2,5 m (depressão do horizonte −2,8′); correção c da Tábua A2 (extrato simulado) +15,5′. A altura verdadeira é:",
+   "alternativas": [
+    "60° 48,5′.",
+    "61° 19,5′.",
+    "61° 22,3′.",
+    "61° 22,7′.",
+    "61° 25,1′."
+   ],
+   "correta": 1,
+   "explicacao": "ao = ai + ei = 61° 08,4′ − 1,6′ = 61° 06,8′. a ap = ao + dp = 61° 06,8′ − 2,8′ = 61° 04,0′. a = a ap + c = 61° 04,0′ + 15,5′ = <b>61° 19,5′</b>. Subtrair a correção A2 (que no limbo inferior é positiva) dá 60° 48,5′. Esquecer a depressão do horizonte dá 61° 22,3′. Aplicar o erro instrumental com o sinal trocado dá 61° 22,7′. Somar a depressão, que é sempre negativa, dá 61° 25,1′.",
+   "referencia": "Miguens, vol. II, cap. 22, itens 22.2 e 22.3.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 2,
+   "enunciado": "Observação do limbo <b>superior</b> do Sol, de outubro a março: altura instrumental 47° 52,6′; erro instrumental +2,0′; elevação do olho 6,4 m (depressão do horizonte −4,5′); correção c da Tábua A2 (extrato simulado) −17,0′. A distância zenital do centro do Sol é:",
+   "alternativas": [
+    "42° 17,9′.",
+    "42° 22,4′.",
+    "42° 26,9′.",
+    "42° 30,9′.",
+    "47° 33,1′."
+   ],
+   "correta": 2,
+   "explicacao": "ao = 47° 52,6′ + 2,0′ = 47° 54,6′. a ap = 47° 54,6′ − 4,5′ = 47° 50,1′. a = a ap + c = 47° 50,1′ − 17,0′ = 47° 33,1′. A distância zenital é z = 90° − a = 89° 60,0′ − 47° 33,1′ = <b>42° 26,9′</b>. 47° 33,1′ é a altura verdadeira, não a distância zenital. Esquecer a depressão do horizonte dá a = 47° 37,6′ e z = 42° 22,4′. Somar a depressão dá a = 47° 42,1′ e z = 42° 17,9′. Aplicar o erro instrumental com o sinal trocado dá a = 47° 29,1′ e z = 42° 30,9′.",
+   "referencia": "Miguens, vol. II, cap. 22, itens 22.2 e 22.3.1; cap. 25, item 25.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 2,
+   "enunciado": "Na passagem meridiana, a posição estimada é 28° 30′ S e a declinação do Sol é S 5° 10,5′. A altura verdadeira observada é 66° 41,7′. A latitude meridiana é:",
+   "alternativas": [
+    "18° 07,8′ N.",
+    "18° 07,8′ S.",
+    "28° 28,8′ N.",
+    "28° 28,8′ S.",
+    "61° 31,2′ S."
+   ],
+   "correta": 3,
+   "explicacao": "z = 90° − a = 89° 60,0′ − 66° 41,7′ = 23° 18,3′. A declinação (−5° 10,5′) está mais ao Norte do que a latitude estimada (−28° 30′): o Sol passa ao Norte do zênite e φ = δ − z = −5° 10,5′ − 23° 18,3′ = −28° 28,8′, ou <b>28° 28,8′ S</b>. Perto da estimada, como deve ser. As respostas de 18° 07,8′ vêm de subtrair z de |δ| (ou o contrário), conta que não corresponde a nenhum caso: com nomes iguais e o Sol ao norte do observador, a latitude é |δ| + z. 28° 28,8′ N erra o nome da latitude. 61° 31,2′ S é a colatitude da resposta correta, 90° − 28° 28,8′.",
+   "referencia": "Miguens, vol. II, cap. 25, item 25.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 3,
+   "enunciado": "Na passagem meridiana, a posição estimada é 12° 00′ N e a declinação do Sol é S 17° 22,6′. A altura verdadeira observada é 60° 24,9′. A latitude meridiana é:",
+   "alternativas": [
+    "12° 12,5′ N.",
+    "12° 12,5′ S.",
+    "29° 35,1′ N.",
+    "46° 57,7′ N.",
+    "46° 57,7′ S."
+   ],
+   "correta": 0,
+   "explicacao": "z = 89° 60,0′ − 60° 24,9′ = 29° 35,1′. A latitude estimada é Norte e a declinação é Sul: o Sol passa ao Sul do zênite, e φ = δ + z = −17° 22,6′ + 29° 35,1′ = +12° 12,5′, ou <b>12° 12,5′ N</b>. Dar o nome Sul (12° 12,5′ S) é esquecer o sinal do resultado. 29° 35,1′ N toma a distância zenital como latitude. As respostas de 46° 57,7′ somam as duas quantidades em módulo (17° 22,6′ + 29° 35,1′), esquecendo que os nomes contrários se compensam.",
+   "referencia": "Miguens, vol. II, cap. 25, item 25.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 3,
+   "enunciado": "Na passagem meridiana, a posição estimada é 16° 00′ N e a declinação do Sol é N 21° 40,0′. A altura verdadeira observada é 84° 14,8′. A latitude meridiana e o azimute do Sol são:",
+   "alternativas": [
+    "15° 54,8′ S e 000°.",
+    "15° 54,8′ N e 000°.",
+    "15° 54,8′ N e 180°.",
+    "27° 25,2′ N e 000°.",
+    "27° 25,2′ N e 180°."
+   ],
+   "correta": 1,
+   "explicacao": "z = 89° 60,0′ − 84° 14,8′ = 5° 45,2′. A declinação (N 21° 40,0′) é maior que a latitude estimada (N 16°): o Sol passa ao Norte do zênite, com azimute 000°, e φ = δ − z = 21° 40,0′ − 5° 45,2′ = <b>15° 54,8′ N</b>. Com 15° 54,8′ N e azimute 180°, a latitude está certa, mas o Sol ficaria ao Sul. As respostas de 27° 25,2′ somam z à declinação, conta do Sol ao Sul, que daria latitude muito diferente da estimada. 15° 54,8′ S erra o nome.",
+   "referencia": "Miguens, vol. II, cap. 25, item 25.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 2,
+   "enunciado": "Em um extrato simulado do Almanaque, o AHG do Sol é 031° 45,2′ às 14h e 046° 45,4′ às 15h de HMG. Sendo 14h 36m 20s a HMG da passagem meridiana, a longitude é:",
+   "alternativas": [
+    "022° 40,2′ W.",
+    "040° 45,2′ W.",
+    "040° 50,2′ E.",
+    "040° 50,2′ W.",
+    "046° 45,4′ W."
+   ],
+   "correta": 3,
+   "explicacao": "O acréscimo para 36m 20s é 36 × 15′ = 9° 00,0′ mais 20 × 0,25′ = 5,0′, ou 9° 05,0′. AHG = 031° 45,2′ + 9° 05,0′ = 040° 50,2′. Na passagem, AHL = 0 e λ (W) = AHG; como AHG é menor que 180°, a longitude é <b>040° 50,2′ W</b>. Subtrair o acréscimo dá 022° 40,2′. Esquecer os 20 s dá 040° 45,2′. Trocar o nome para E erra o hemisfério: AHG menor que 180° é Oeste. Usar o AHG tabelado de 15h, sem interpolar, dá 046° 45,4′.",
+   "referencia": "Miguens, vol. II, cap. 26, itens 26.5 e 26.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 2,
+   "enunciado": "Em um extrato simulado do Almanaque, o AHG do Sol às 09h de HMG é 315° 04,6′. Sendo 09h 18m 40s a HMG da passagem meridiana, a longitude é:",
+   "alternativas": [
+    "040° 15,4′ E.",
+    "040° 15,4′ W.",
+    "040° 25,4′ E.",
+    "319° 44,6′ E.",
+    "319° 44,6′ W."
+   ],
+   "correta": 0,
+   "explicacao": "O acréscimo para 18m 40s é 18 × 15′ = 4° 30,0′ mais 40 × 0,25′ = 10,0′, ou 4° 40,0′. AHG = 315° 04,6′ + 4° 40,0′ = 319° 44,6′. Como AHG é maior que 180°, a longitude é Leste: λ = 360° − AHG = <b>040° 15,4′ E</b>. Dar o nome W com o mesmo valor ignora que AHG maior que 180° implica Leste. Esquecer os 40 s do acréscimo dá 040° 25,4′ E. As respostas de 319° 44,6′ não reduzem o AHG à longitude (360° − AHG), e uma longitude não passa de 180°.",
+   "referencia": "Miguens, vol. II, cap. 26, itens 26.5 e 26.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 1,
+   "enunciado": "Assinale a afirmativa <b>INCORRETA</b> sobre a observação da passagem meridiana do Sol.",
+   "alternativas": [
+    "Começa-se a acompanhar o Sol cerca de cinco minutos antes da hora prevista e adota-se a maior altura observada.",
+    "O sextante é balançado em torno do eixo ótico, e a altura certa é a do ponto mais baixo do arco descrito pela imagem.",
+    "O erro instrumental deve ser determinado antes da série de observações e aplicado à altura lida com o seu sinal.",
+    "A hora legal prevista é aproximada, pois usa a longitude estimada, e por isso a observação começa com uma folga de tempo.",
+    "A longitude pelo instante da altura máxima é muito precisa, porque a altura do Sol varia depressa junto ao meridiano."
+   ],
+   "correta": 4,
+   "explicacao": "A afirmativa incorreta é a da precisão da longitude: junto ao meridiano a altura do Sol varia muito <b>pouco</b>, e por isso o instante exato da culminação é incerto em um ou dois minutos. Como 1 min de tempo vale 15′ de arco, a longitude por esse instante é pouco precisa. As demais estão certas: a observação começa antes da hora prevista, o sextante é balançado para achar o vertical, o erro instrumental é aplicado com o seu sinal e a hora prevista é aproximada porque usa a posição estimada.",
+   "referencia": "Miguens, vol. II, cap. 21, item 21.2.9; cap. 25, itens 25.3 e 25.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 3,
+   "enunciado": "Para localizar o Sol com o sextante, um navegante quer prever a altura instrumental (limbo inferior) na culminação, em novembro. Dados: posição estimada 33° 15,0′ S; declinação S 18° 02,4′; elevação do olho 3,1 m (depressão do horizonte −3,1′); erro instrumental +1,3′; correção c da Tábua A2 (extrato simulado) +15,9′. A altura instrumental prevista é:",
+   "alternativas": [
+    "74° 27,1′.",
+    "74° 33,3′.",
+    "74° 35,9′.",
+    "74° 47,4′.",
+    "75° 05,1′."
+   ],
+   "correta": 1,
+   "explicacao": "z = |33° 15,0′ − 18° 02,4′| = 15° 12,6′ (mesmo nome), e a = 90° − z = 74° 47,4′. Desfaz-se a cadeia de correções com os sinais trocados: a ap = a − c = 74° 47,4′ − 15,9′ = 74° 31,5′; ao = a ap − dp = 74° 31,5′ + 3,1′ = 74° 34,6′; ai = ao − ei = 74° 34,6′ − 1,3′ = <b>74° 33,3′</b>. Somar o erro instrumental, em vez de subtraí-lo, dá 74° 35,9′. Subtrair a depressão, em vez de somá-la, dá 74° 27,1′. Somar a correção A2 dá 75° 05,1′. E 74° 47,4′ é a altura verdadeira, sem desfazer nenhuma correção.",
+   "referencia": "Miguens, vol. II, cap. 25, item 25.6; cap. 22, item 22.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 3,
+   "enunciado": "Posição estimada na culminação: 30° 00,0′ S, 025° 30,0′ W, em janeiro. Limbo inferior do Sol: altura instrumental 79° 49,2′; erro instrumental −0,8′; elevação do olho 2,2 m (depressão do horizonte −2,6′); correção c da Tábua A2 (extrato simulado) +16,0′. Para a HMG da passagem, o Almanaque dá declinação S 20° 03,7′ e AHG 025° 38,4′. A posição meridiana é:",
+   "alternativas": [
+    "10° 05,5′ S e 025° 38,4′ W.",
+    "30° 01,9′ N e 025° 38,4′ W.",
+    "30° 01,9′ S e 025° 38,4′ W.",
+    "30° 01,9′ S e 025° 38,4′ E.",
+    "30° 17,9′ S e 025° 38,4′ W."
+   ],
+   "correta": 2,
+   "explicacao": "a = 79° 49,2′ − 0,8′ − 2,6′ + 16,0′ = 80° 01,8′, e z = 9° 58,2′. A declinação (S 20° 03,7′) está mais ao Norte que a latitude estimada (S 30°): o Sol passa ao Norte do zênite, e φ = δ − z = −20° 03,7′ − 9° 58,2′ = −30° 01,9′, ou <b>30° 01,9′ S</b>. Com nomes iguais, a latitude é a soma |δ| + z. Aplicar φ = δ + z (Sol ao Sul do zênite) dá 10° 05,5′ S, longe da estimada. Errar o nome da latitude dá 30° 01,9′ N, e o da longitude dá 025° 38,4′ E. Esquecer a correção da Tábua A2 (a = 79° 45,8′) dá z = 10° 14,2′ e latitude 30° 17,9′ S. Na passagem λ (W) = AHG, e como 025° 38,4′ é menor que 180°, a longitude é Oeste: <b>30° 01,9′ S e 025° 38,4′ W</b>.",
+   "referencia": "Miguens, vol. II, cap. 22, itens 22.2 e 22.3.1; cap. 25, item 25.4; cap. 26, itens 26.5 e 26.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "fixa": true
+  },
+  {
+   "tema": "Passagem meridiana",
+   "dificuldade": 1,
+   "enunciado": "De acordo com o item 1.2 do Anexo 5-A da NORMAM-211/DPC, o programa de Navegação Astronômica do exame de Capitão-Amador inclui, quanto à passagem meridiana do Sol:",
+   "alternativas": [
+    "o cálculo da hora legal da passagem meridiana superior pelo processo aproximado e a posição pela passagem meridiana do Sol.",
+    "o cálculo da hora legal da passagem meridiana inferior do Sol, pelo processo rigoroso, com o triângulo de posição e a correção de altura.",
+    "apenas a latitude meridiana, pois a longitude exige reta de altura e não faz parte do programa.",
+    "a posição por retas de altura do Sol e de estrelas, pelo método de Marcq Saint-Hilaire, em lugar da passagem meridiana.",
+    "o cálculo da hora legal da passagem meridiana da Lua e dos planetas, além da passagem meridiana do Sol."
+   ],
+   "correta": 0,
+   "explicacao": "A alternativa correta reproduz os itens 1.2 b) e c) do Anexo 5-A: o cálculo da hora legal da passagem meridiana superior do Sol pelo processo aproximado e a posição pela passagem meridiana do Sol. As outras não constam do programa: a passagem inferior e o processo rigoroso não aparecem no item 1.2, e o triângulo de posição também não; a posição “só pela latitude” ignora a longitude, que a passagem meridiana também dá; a posição por retas de altura não substitui a meridiana no programa; e a passagem da Lua e dos planetas não é exigida.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 1.2 b) e c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "Refeito: 37°30′ × 4 min = 2h30m. Distratores verificados (2h28m esquece os 30′; 2h58m trata 30′ como 30 min; 3h45m divide por 10; 9h22m multiplica por 15). Gabarito único."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Gabarito E confirmado (ET não é nula nos equinócios). Opção C tinha a ressalva \"com boa aproximação ... no dia\", que a tornava vaga: reescrita para \"00h e 12h de HMG ... no mesmo instante\", que é o que a tabela da ET faz. Explicação ajustada ao mesmo termo."
+  },
+  {
+   "idx": 2,
+   "acao": "ok",
+   "motivo": "Refeito: λ = 4h50m; 21h45m + 4h50m = 26h35m → 02h35m do dia 8. Distratores: sinal trocado (16h55m), sem λ, sem virada de data, 30′ como 30 min (03h03m). Gabarito único."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Refeito: 52°40′ = 3 r 7°40′ > 7°30′ → fuso 4. Convenção (Oeste positivo, letra Q = 4 h a Oeste) confere com o curso (m1 l4). Distratores verificados."
+  },
+  {
+   "idx": 4,
+   "acao": "ok",
+   "motivo": "Refeito: 23°10′ = 1 r 8°10′ → fuso +2; 01h25m − 2h = −0h35m → 23h25m do dia 11. Cada distrator corresponde a um erro nomeado. Gabarito único."
+  },
+  {
+   "idx": 5,
+   "acao": "ok",
+   "motivo": "Refeito: 70°20′ = 4 r 10°20′ → fuso −5 (Leste); 02h30m − 5h = 21h30m do dia 19. Distratores (fuso −4, sem data, sem fuso, sinal trocado) verificados."
+  },
+  {
+   "idx": 6,
+   "acao": "ok",
+   "motivo": "Refeito: λ = 2h18m; HMG = 10h30m; fuso +2 → 08h30m. Distratores (03h54m, 07h30m, 10h30m, 12h30m) correspondem aos erros explicados. Gabarito único."
+  },
+  {
+   "idx": 7,
+   "acao": "ok",
+   "motivo": "Refeito: 37°15′ + 12°45′ = 50° = 3h20m, B a Leste → 19h00m. Distratores (subtração, 24°30′ somado/subtraído, 3,33 h lido como 3h33m) verificados."
+  },
+  {
+   "idx": 8,
+   "acao": "corrigida",
+   "motivo": "Verdades I, III, IV e falsidade II/III/IV conferidas com o curso (l6: relógio igual, data avança a Oeste). Itens II e III reescritos: \"o relógio de bordo não é alterado\" → \"a hora marcada no relógio de bordo não muda\", para não ser lido como \"o relógio não muda em nada\". Gabarito F–V–V–F único."
+  },
+  {
+   "idx": 9,
+   "acao": "ok",
+   "motivo": "Refeito: 2262 ÷ 6,5 = 348 h = 14 d 12 h; HMG de partida 13h30m do dia 3; chegada 01h30m do dia 18; Hleg = 00h30m do dia 18 (fuso +1). Distratores verificados."
+  },
+  {
+   "idx": 10,
+   "acao": "ok",
+   "motivo": "Zona Z: 007°30′ W a 007°30′ E conferido (fuso = 15° centrado em Greenwich). Distratores verificados. Comprimento da correta empata com um distrator (27 caracteres), sem ser a única mais longa."
+  },
+  {
+   "idx": 11,
+   "acao": "ok",
+   "motivo": "Sequência 3–1–4–2 conferida linha a linha com as definições do curso (l1/l2). Distratores trocam pares. Gabarito único."
+  },
+  {
+   "idx": 12,
+   "acao": "ok",
+   "motivo": "Refeito: 80 s × 0,25′ = 20′; relógio atrasado → AHG tabelado 20′ menor → longitude calculada 20′ a Leste. Distratores (1,3′; 5,3′; 20′ Oeste; 80′) verificados."
+  },
+  {
+   "idx": 13,
+   "acao": "ok",
+   "motivo": "Horário de verão: fuso vizinho a Leste, relógio 1 h adiantado; 14h20m + 1h = 15h20m. Coerente com o curso (l6). Distratores verificados."
+  },
+  {
+   "idx": 14,
+   "acao": "ok",
+   "motivo": "Altura do polo elevado = latitude 33°20′, polo Sul. Distratores (polo Norte, colatitude 56°40′, horizonte) verificados. Gabarito único."
+  },
+  {
+   "idx": 15,
+   "acao": "ok",
+   "motivo": "Declinação = arco do círculo horário de 0° a 90°, N ou S. Distratores (AR, altura, AHG, distância zenital) verificados; a explicação já distingue a distância zenital, que se mede no vertical."
+  },
+  {
+   "idx": 16,
+   "acao": "ok",
+   "motivo": "Itens I, III e IV verdadeiros; II falso (ARV conta-se para Oeste = 360° − AR). Gabarito \"apenas I, III e IV\" único."
+  },
+  {
+   "idx": 17,
+   "acao": "ok",
+   "motivo": "Refeito: AHL = 012°40,5′ − 045°20,0′ = −032°39,5′ + 360° = 327°20,5′; AHL > 180° → Leste. Distratores (t, soma, lado trocado) verificados."
+  },
+  {
+   "idx": 18,
+   "acao": "ok",
+   "motivo": "Refeito: AHGγ + ARV = 410°45′ → 050°45′; − λ (30°) = 020°45′. Distratores (sem λ, λ somado, ARV subtraída, sem redução) verificados."
+  },
+  {
+   "idx": 19,
+   "acao": "ok",
+   "motivo": "Conteúdo do Almanaque (Sol, Lua, 4 planetas: Vênus, Marte, Júpiter, Saturno; 57 estrelas) confere com o fato verificado tecnico-138. Distratores (Mercúrio, 100 estrelas, sem planetas, todos os planetas) são erros concretos."
+  },
+  {
+   "idx": 20,
+   "acao": "ok",
+   "motivo": "INCORRETA = \"tabelado em hora legal\" (é HMG). Demais afirmativas verdadeiras e conferidas com o curso (módulo 2: precisão de 0,1′ e sinal da correção d)."
+  },
+  {
+   "idx": 21,
+   "acao": "ok",
+   "motivo": "Refeito: 36 × 15′ = 9°00′ + 20 × 0,25′ = 5,0′ → 9°05,0′; 059°14,6′ + 9°05,0′ = 068°19,6′. Distratores (arco, esquecer 20 s, arredondar a 37 min, sem interpolar) verificados."
+  },
+  {
+   "idx": 22,
+   "acao": "corrigida",
+   "motivo": "Refeito: 0,9 × 40/60 = 0,6′; magnitude diminui → S 6°04,7′. A convenção de d (o sinal segue a variação do valor, não algébrica) é a do curso (módulo 2, lição do Almanaque). Enunciado tornou explícito o sentido de d, porque sem isso S 6°05,9′ (sinal algébrico) ficava também defensável. Explicação reescrita."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "PZ = colatitude 70°; PA = 90° + 12° = 102° (declinação N, polo S). Gabarito único. Observação de escopo: o triângulo de posição é apoio da passagem meridiana (course m2 l4), não item literal de 1.2; mantido."
+  },
+  {
+   "idx": 24,
+   "acao": "ok",
+   "motivo": "Refeito: AHL 301° > 180° → Sol a Leste, t = 059° E; HVL = 301/15 = 20h04m + 12h = 08h04m. Distratores (lado trocado, 15h56m, 301°, 20h04m) verificados."
+  },
+  {
+   "idx": 25,
+   "acao": "ok",
+   "motivo": "Refeito: nomes contrários, z = 10° + 40° = 50°, altura 40°; Sol ao norte do zênite → azimute 000°. Distratores (50°, 60°, 180°) verificados."
+  },
+  {
+   "idx": 26,
+   "acao": "ok",
+   "motivo": "Refeito: λ = 1h53m20s; HMG 13h59m20s; fuso +2 → 11h59m. Distratores verificados."
+  },
+  {
+   "idx": 27,
+   "acao": "ok",
+   "motivo": "Refeito: λ E = 3h36m40s; HMG 08h07m20s; fuso −4 → 12h07m. Distratores (fuso +4, sem fuso, fuso +3, longitude somada) verificados."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Refeito a projeção: 6h26m × 8 kn = 51,5′; Δλ = 51,5′ ÷ cos 25° = 56,8′ W; λ = 33°56,8′ = 2h15m47s; HMG 14h29m47s → 12h30m. Distratores (12h26m sem projeção, 12h22m projeção para Leste, 12h14m, 14h30m) verificados."
+  },
+  {
+   "idx": 29,
+   "acao": "ok",
+   "motivo": "Refeito: ao = 61°06,8′; ap = 61°04,0′; a = 61°19,5′ (c = +15,5′ confere com a Tábua A2 do curso, faixa 60°–63°, abr–set, inferior). Distratores verificados."
+  },
+  {
+   "idx": 30,
+   "acao": "ok",
+   "motivo": "Refeito: ao = 47°54,6′; ap = 47°50,1′; a = 47°33,1′; z = 42°26,9′ (c = −17,0′ confere com a Tábua A2 do curso, faixa 45°–50°, out–mar, superior). Distratores verificados."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "Refeito: z = 23°18,3′; φ = δ − z = 28°28,8′ S. Explicação corrigida: 18°07,8′ não vem de \"nomes contrários\", e sim de subtrair |δ| de z; com nomes iguais a latitude é |δ| + z."
+  },
+  {
+   "idx": 32,
+   "acao": "ok",
+   "motivo": "Refeito: z = 29°35,1′; φ = δ + z = +12°12,5′ N (Sol ao Sul do zênite). Distratores (sinal do nome, z como latitude, soma das magnitudes) verificados."
+  },
+  {
+   "idx": 33,
+   "acao": "ok",
+   "motivo": "Refeito: z = 5°45,2′; φ = δ − z = 15°54,8′ N; Sol ao norte → azimute 000°. Distratores verificados."
+  },
+  {
+   "idx": 34,
+   "acao": "ok",
+   "motivo": "Refeito: 031°45,2′ + 9°05,0′ = 040°50,2′ < 180° → Oeste. Distratores (subtração, 20 s esquecidos, lado Leste, AHG de 15h) verificados."
+  },
+  {
+   "idx": 35,
+   "acao": "ok",
+   "motivo": "Refeito: 315°04,6′ + 4°40,0′ = 319°44,6′ > 180° → λ = 360° − AHG = 040°15,4′ E. Distratores verificados."
+  },
+  {
+   "idx": 36,
+   "acao": "ok",
+   "motivo": "INCORRETA = longitude pelo instante da altura máxima \"muito precisa\" (a altura varia pouco perto do meridiano). Demais afirmativas verdadeiras e conferidas com o curso (m3 l3: balanço do sextante, erro instrumental, hora prevista aproximada)."
+  },
+  {
+   "idx": 37,
+   "acao": "ok",
+   "motivo": "Refeito: z = 15°12,6′; a = 74°47,4′; ap = 74°31,5′; ao = 74°34,6′; ai = 74°33,3′ (c = +15,9′ confere com a Tábua A2 do curso, faixa 72°–75°, out–mar, inferior). Distratores verificados."
+  },
+  {
+   "idx": 38,
+   "acao": "corrigida",
+   "motivo": "Refeito: a = 80°01,8′; z = 9°58,2′; φ = δ − z = 30°01,9′ S; AHG 025°38,4′ → Oeste. Enunciado: \"(com as correções feitas)\" trocado por \"dá\", que é o que o item quer dizer. Explicação: retirada a frase confusa \"φ = δ + z em módulo\" e substituída por \"|δ| + z\" com nomes iguais."
+  },
+  {
+   "idx": 39,
+   "acao": "corrigida",
+   "motivo": "Gabarito confere com o item 1.2 b) e c) do Anexo 5-A. A correta era a mais longa (132 caracteres): retirada a repetição \"do Sol\" da alternativa correta e acrescentada \"e a correção de altura\" à alternativa 1, para que a correta não seja a única mais longa. Explicação passou a citar cada distrator, incluindo o triângulo de posição."
+  }
+ ]
+}

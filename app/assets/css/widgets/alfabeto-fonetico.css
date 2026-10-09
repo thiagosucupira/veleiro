@@ -1,0 +1,104 @@
+/* alfabeto-fonetico — tabela do Apêndice 14 do RR, conversor e treinos. Só tokens. */
+.af-raiz { container-type: inline-size; }
+.af-modos { width: 100%; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.af-modos button { min-height: 44px; line-height: 1.2; }
+@container (max-width: 560px) {
+  .af-modos { grid-template-columns: 1fr 1fr; }
+  .af-modos button { border-bottom: 1px solid var(--line); }
+  .af-modos button:nth-child(2n) { border-right: 0; }
+  .af-modos button:nth-last-child(-n+2) { border-bottom: 0; }
+}
+.af-vista { padding: var(--s-4); }
+@container (max-width: 520px) { .af-vista { padding: var(--s-3) var(--s-2); } }
+.af-linha { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: center; margin-bottom: var(--s-3); }
+.af-linha .segmented button { min-height: 40px; }
+.af-switch { min-height: 40px; font-size: 0.95rem; }
+.af-dica { font-size: var(--fs--1); color: var(--ink-2); margin: 0 0 var(--s-3); max-width: 72ch; }
+.af-h { font-size: var(--fs-1); margin: 0 0 var(--s-2); }
+.af-fonte, .af-voz-info { display: block; }
+
+/* tabela */
+.af-grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: var(--s-2); margin: 0 0 var(--s-4); }
+@container (max-width: 380px) { .af-grade { grid-template-columns: 1fr 1fr; gap: 6px; } }
+.af-carta {
+  display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto auto; column-gap: var(--s-3); row-gap: 2px;
+  align-items: baseline; text-align: left; font: inherit; color: var(--ink);
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-input);
+  padding: 10px 12px; min-height: 76px; cursor: pointer;
+}
+.af-carta:hover { border-color: var(--magenta); }
+.af-carta[data-falando="1"] { border-color: var(--magenta); box-shadow: inset 0 0 0 1px var(--magenta); background: var(--magenta-soft); }
+.af-c { grid-row: 1 / span 3; font-size: var(--fs-3); font-weight: 780; line-height: 1; color: var(--magenta); min-width: 1.1em; align-self: center; }
+.af-c-longo { font-size: var(--fs-1); }
+.af-palavra { font-weight: 760; font-size: 1.05rem; line-height: 1.2; }
+.af-falas { font-size: 0.86rem; color: var(--ink-2); line-height: 1.3; letter-spacing: 0.01em; }
+.af-tonica { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; color: var(--ink); font-weight: 700; }
+.af-ou { color: var(--ink-3); }
+.af-br { font-size: 0.82rem; color: var(--ink-3); line-height: 1.3; grid-column: 2; }
+.af-rot { font-size: 0.78rem; color: var(--ink-3); grid-column: 2; }
+.af-raiz[data-br="0"] .af-br { display: none; }
+@container (max-width: 380px) {
+  .af-carta { grid-template-columns: 1fr; padding: 8px 9px; column-gap: 0; }
+  .af-c { grid-row: auto; font-size: var(--fs-2); }
+  .af-br, .af-rot { grid-column: 1; }
+  .af-palavra { font-size: 1rem; }
+}
+.af-notas .callout { margin: var(--s-3) 0; }
+
+/* soletrar */
+.af-campo { display: flex; flex-direction: column; gap: var(--s-2); margin-bottom: var(--s-3); max-width: 560px; }
+.af-entrada { font-size: 1.05rem; }
+.af-entrada-grande { font-size: var(--fs-1); font-weight: 650; letter-spacing: 0.04em; max-width: 420px; }
+.af-exemplos .chip { min-height: 40px; padding: 4px 12px; font-size: 0.9rem; }
+.af-saida { list-style: none; margin: var(--s-3) 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.af-tok { display: inline-flex; flex-direction: column; align-items: center; gap: 0; min-width: 64px; padding: 6px 10px; border-radius: var(--r-input); background: var(--shoal); border: 1px solid transparent; }
+.af-tok[data-tipo="algarismo"] { background: var(--sea-2); }
+.af-tok[data-falando="1"] { border-color: var(--magenta); background: var(--magenta-soft); }
+.af-tok-c { font-weight: 780; font-size: var(--fs-1); line-height: 1.1; color: var(--magenta); }
+.af-tok-p { font-weight: 650; font-size: 0.92rem; }
+.af-tok-voce { font-size: 0.78rem; color: var(--erro); }
+.af-tok[data-res="certa"] { background: var(--ok-soft); border-color: var(--ok); }
+.af-tok[data-res="errada"] { background: var(--erro-soft); border-color: var(--erro); }
+.af-tok-so { min-width: 0; }
+.af-sep { width: 14px; list-style: none; }
+.af-roteiro { font-weight: 650; margin: 0 0 var(--s-3); max-width: 72ch; overflow-wrap: anywhere; }
+.af-treino { border-top: 1px solid var(--line); margin-top: var(--s-5); padding-top: var(--s-4); }
+.af-alvo { font-size: var(--fs-1); margin: 0 0 var(--s-2); }
+.af-alvo-txt { letter-spacing: 0.06em; color: var(--magenta); }
+.af-treino .af-entrada { max-width: 560px; margin-bottom: var(--s-3); }
+.af-fb { margin-top: var(--s-3); }
+.af-placar { font-weight: 650; margin: var(--s-3) 0 0; }
+.af-recorde { color: var(--ok); }
+
+/* ouvir e jogo */
+.af-campo-in { display: inline-flex; align-items: center; gap: var(--s-2); min-height: 40px; }
+.af-rotulo { font-size: var(--fs--1); font-weight: 650; color: var(--ink-2); }
+.af-sel { width: auto; min-height: 40px; }
+.af-painel { margin: var(--s-3) 0; }
+.af-jogo { border: 1px solid var(--line); border-radius: var(--r-panel); padding: var(--s-4); background: var(--surface); margin: var(--s-3) 0; }
+@container (max-width: 520px) { .af-jogo { padding: var(--s-3); } }
+.af-jogo .af-entrada { margin: var(--s-3) 0; }
+.af-contador { margin: 0; color: var(--ink-2); font-size: var(--fs--1); font-weight: 650; }
+.af-relogio { margin: 0; font-weight: 760; font-variant-numeric: tabular-nums; }
+.af-relogio-grande { font-size: var(--fs-2); }
+.af-relogio[data-alerta="1"] { color: var(--erro); }
+.af-saida-dica .af-tok { background: var(--shoal); }
+
+/* contra o relógio */
+.af-cfg { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: center; margin-bottom: var(--s-3); }
+.af-cfg .segmented button { min-height: 40px; }
+.af-pergunta { margin: var(--s-4) 0 var(--s-3); text-align: center; }
+.af-pergunta-c { font-size: var(--fs-5); font-weight: 800; color: var(--magenta); line-height: 1; }
+.af-pergunta-p { font-size: var(--fs-3); font-weight: 760; }
+.af-opcoes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-2); }
+.af-opcao { min-height: 52px; font-size: 1.05rem; white-space: normal; }
+.af-fb-curto { min-height: 1.6em; margin: var(--s-3) 0 0; font-size: 0.95rem; text-align: center; }
+.af-fb-curto[data-ok="1"] { color: var(--ok); }
+.af-fb-curto[data-ok="0"] { color: var(--erro); }
+.af-jogo .af-entrada-grande { margin-left: auto; margin-right: auto; display: block; text-align: center; }
+
+/* Em telas estreitas, segmentos de rótulo longo dividem a largura em vez de quebrar de linha. */
+@media (max-width: 520px) {
+  .af-cfg .segmented, .af-linha .segmented { display: flex; width: 100%; flex-wrap: nowrap; }
+  .af-cfg .segmented button, .af-linha .segmented button { flex: 1 1 0; min-width: 0; padding-left: 8px; padding-right: 8px; }
+}

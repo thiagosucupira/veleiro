@@ -1,0 +1,554 @@
+{
+ "linha-dagua": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 2 (Geometria do navio)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap2_2005.pdf",
+  "loc": "Cap. 2, art. 2.2, p. 49",
+  "quote": "Linha de flutuação (LF), ou simplesmente flutuação, é a interseção da superfície da água com o contorno exterior do navio.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, Linha de água (fonte secundária)",
+    "url": "https://pt.wikipedia.org/wiki/Linha_de_%C3%A1gua",
+    "loc": "introdução do artigo",
+    "quote": "a linha de água, linha d'água ou linha de flutuação consiste na linha que separa a parte imersa do casco de um navio (obras vivas) da sua parte emersa (obras mortas)."
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «waterline» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «waterline»",
+    "quote": "The line where the hull of a ship meets the water's surface."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 2 art. 2.2 p. 49 traz a definição literal (interseção da superfície da água com o casco). Wikipedia PT e EN confirmam a separação obras vivas/obras mortas. Detalhe \"sobe quando carregado\" não consta literalmente."
+ },
+ "madre-do-leme": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 6 (Estrutura do casco dos navios metálicos)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap6_2005.pdf",
+  "loc": "Cap. 6, art. 6.34 a (1), p. 283",
+  "quote": "madre – Eixo do leme, em geral de aço forjado. Sofre grandes esforços de flexão e de torção. Penetra no casco do navio e por ela é transmitido o movimento ao leme",
+  "outras": [
+   {
+    "txt": "Michaelis On-line, verbete «madre»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/madre/",
+    "loc": "verbete «madre», expressões («madre de leme»)",
+    "quote": "Madre de leme, Náut: a) eixo que atravessa o casco do navio e transmite movimento ao leme"
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «rudderstock» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «rudderstock»",
+    "quote": "The structural part of a rudder that transmits the torque created by the tiller or steering gear to the rudder blade."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 6 art. 6.34 a(1) p. 283 confirma eixo do leme que transmite o movimento ao leme e atravessa o casco; Michaelis confirma."
+ },
+ "balaustre": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 6 (Estrutura do casco dos navios metálicos)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap6_2005.pdf",
+  "loc": "Cap. 6, art. 6.24 b (balaustrada), p. 262",
+  "quote": "Os balaústres que a constituem são, em geral, tubos de aço igualmente espaçados uns dos outros, e terminando inferiormente em uma sapata que é parafusada ou cravada às chapa do convés. Na parte superior e a meia altura, os balaústres têm um engrossamento com furo cilíndrico, através do qual se faz passar um vergalhão ou tubo de aço ou, ainda, uma corrente ou cabo de aço.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «stanchion» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «stanchion»",
+    "quote": "A vertical post near the edge of a deck that supports life-lines"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-34",
+    "quote": "Stanchion Balaústre; escora; pé de carneiro."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 6 art. 6.24 b p. 262 descreve balaústres como tubos de aço fixados ao convés, com passagem para vergalhão/corrente/cabo (guarda-mancebos); Wikipedia EN (stanchion) e Vol. III App. 5 confirmam."
+ },
+ "espelho-de-popa": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 4 (Embarcações miúdas)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap4_2005.pdf",
+  "loc": "Cap. 4, art. 4.3.2 (peças de construção), p. 160",
+  "quote": "Painel de popa (fig. 4-4) – Também conhecido com o nome de espelho, é uma tábua de madeira grossa, cavilhada na parte superior do cadaste, formando a popa da embarcação de popa quadrada.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «transom» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «transom»",
+    "quote": "The aft \"wall\" of the stern; often the part to which an outboard unit or the drive portion of a sterndrive is attached."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-35",
+    "quote": "Transom Espelho de popa."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 4 art. 4.3.2 p. 160 e Vol. III App. 5 p. A5-35 confirmam painel/espelho de popa. Detalhe \"plano ou levemente curvo\" não consta literalmente; Cap. 4 fala em tábua de madeira grossa."
+ },
+ "roda-de-proa": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 4 (Embarcações miúdas)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap4_2005.pdf",
+  "loc": "Cap. 4, art. 4.3.2 (peças de construção), p. 160",
+  "quote": "Roda de proa (fig. 4-11) – Peça da mesma madeira com que foi construída a quilha, fixada no extremo de vante dela; dá forma à proa da embarcação",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «stem» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «stem»",
+    "quote": "An extension of the keel at the forward end of a ship."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-34",
+    "quote": "Stem post; stem bar Roda de proa."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 4 art. 4.3.2 p. 160 confirma peça no extremo de vante da quilha que dá forma à proa (embarcação miúda de madeira). Vol. III App. 5 e Wikipedia EN confirmam."
+ },
+ "balanco": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 12 (Manobra do navio)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap12_2005.pdf",
+  "loc": "Cap. 12, art. 12.84 a, p. 685",
+  "quote": "O jogo do navio, quando considerado no sentido transversal, de um bordo a outro, chama-se balanço transversal ou, simplesmente, balanço; quando no sentido de proa a popa chama-se arfagem ou caturro.",
+  "outras": [
+   {
+    "txt": "Michaelis On-line, verbete «balanço»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/balan%C3%A7o/",
+    "loc": "verbete «balanço», acepção 10 (Mar)",
+    "quote": "Movimento oscilante de uma embarcação, provocado pela ação das vagas; jogo"
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «roll» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «roll»",
+    "quote": "The side-to-side motion of a vessel as it rotates about the fore-aft (longitudinal) axis."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 12 art. 12.84 a p. 685 define balanço como movimento de um bordo a outro; Michaelis acep. 10 e Wikipedia EN (roll) confirmam."
+ },
+ "cruzeta": {
+  "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «spreader» (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+  "loc": "verbete «spreader»",
+  "quote": "A spar on a sailboat used to deflect the shrouds to allow them to better support the mast.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Shroud (sailing) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Shroud_(sailing)",
+    "loc": "segundo parágrafo",
+    "quote": "On most sailing boats, such structures are called spreaders"
+   }
+  ],
+  "verificado": true,
+  "motivo": "Wikipedia EN (spreader) e Shroud (sailing) confirmam haste no mastro que afasta os brandais. Fontes secundárias em inglês."
+ },
+ "carlinga": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 4 (Embarcações miúdas)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap4_2005.pdf",
+  "loc": "Cap. 4, art. 4.3.2 (peças de construção), p. 161",
+  "quote": "Carlinga (fig. 4-11) – É um entalhe quadrangular feito na sobrequilha para agüentar o pé de um mastro; este entalhe pode ser realizado em uma peça de madeira ou de metal, ficando esta peça presa à sobrequilha.",
+  "outras": [
+   {
+    "txt": "Michaelis On-line, verbete «carlinga»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/carlinga/",
+    "loc": "verbete «carlinga», acepções 2 e 3",
+    "quote": "Gola metálica fixada no convés, onde se apoia a base do mastro."
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «mast step» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «mast step»",
+    "quote": "The place in the hull where the lowest point of a mast rests, taking the weight of the mast and the thrust imposed by the tension of the rigging"
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 4 art. 4.3.2 p. 161 confirma entalhe na sobrequilha que suporta o pé do mastro; Michaelis (acep. 2 e 3) confirma gola/base sobre o convés; Wikipedia EN (mast step) confirma."
+ },
+ "aparelho-fixo": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 11 (Aparelho de governo, mastreação e aparelhos de carga)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap11_2005.pdf",
+  "loc": "Cap. 11, art. 11.12, p. 570",
+  "quote": "Para suportar esses esforços encapelam-se nos mastros e mastaréus os cabos fixos, que são dispostos em direções convenientes e constituem o aparelho fixo da mastreação.",
+  "outras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 11 (Aparelho de governo, mastreação e aparelhos de carga)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap11_2005.pdf",
+    "loc": "Cap. 11, art. 11.12, p. 571",
+    "quote": "O aparelho fixo dos navios modernos consta de estais e brandais."
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «standing rigging» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «standing rigging»",
+    "quote": "Rigging that supports masts and spars and is not manipulated during normal operations."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 11 art. 11.12 p. 570-571 confirma cabos fixos da mastreação, estais e brandais; Wikipedia EN (standing rigging) confirma."
+ },
+ "aparelho-de-laborar": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 12 (Manobra do navio)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap12_2005.pdf",
+  "loc": "Cap. 12, art. 12.83 (preparativos para mau tempo), p. 684",
+  "quote": "verifica-se a amarração de todo o aparelho do navio, fixo e de laborar",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «running rigging» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «running rigging»",
+    "quote": "Rigging used to manipulate sails, spars, etc. in order to control the movement of a sailing vessel."
+   },
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 9 (Poleame, aparelhos de laborar e acessórios)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap9_2005.pdf",
+    "loc": "Cap. 9, art. 9.13, p. 483 (sentido de talha)",
+    "quote": "Chama-se aparelho de laborar a um sistema composto de moitões ou cadernais, um fixo e outro móvel, e de um cabo neles aparelhado."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 9 art. 9.13 p. 483 confirma o sistema de moitões e cabo (segunda frase da definição); Wikipedia EN (running rigging) confirma o núcleo (cabos para manobrar velas). Fonte removida: Cap. 12 art. 12.83 p. 684, que só menciona \"aparelho fixo e de laborar\" e não define o termo.",
+  "fonte_removida": "Arte Naval Cap. 12, art. 12.83, p. 684 (removida do JS: o trecho não define o termo)"
+ },
+ "catraca": {
+  "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «winch» (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+  "loc": "verbete «winch»",
+  "quote": "A mechanical device for pulling on a rope (such as a sheet or halyard), usually equipped with a pawl to assist in control. It may be hand-operated or powered.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Winch (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Winch",
+    "loc": "abertura do artigo",
+    "quote": "In its simplest form, it consists of a spool (or drum) attached to a hand crank."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, nomenclatura do navio, p. A5-35",
+    "quote": "Winch Guincho."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Wikipedia EN (winch, abertura e verbete) confirma tambor com manivela e trava (pawl); Vol. III App. 5 confirma \"Winch = guincho\". Sentido horário e aviso de dedos não constam das fontes."
+ },
+ "patesca": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 9 (Poleame, aparelhos de laborar e acessórios)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap9_2005.pdf",
+  "loc": "Cap. 9, art. 9.3 c, p. 478",
+  "quote": "Patesca (fig. 9-9) – Consta de uma caixa semelhante à de um moitão, porém mais comprida e aberta de um lado, a fim de se poder gurnir ou desgurnir um cabo pelo seio.",
+  "outras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 9 (Poleame, aparelhos de laborar e acessórios)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap9_2005.pdf",
+    "loc": "Cap. 9, art. 9.13, p. 484",
+    "quote": "Assim, um cabo gurnindo num moitão ou numa patesca constitui um retorno."
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «snatch block» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «snatch block»",
+    "quote": "A block with one cheek that is hinged, so that the bight of a rope can be inserted in the block (as opposed to threading the end of the rope into an ordinary block)."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 9 art. 9.3 c p. 478 define patesca como moitão aberto de um lado para gurnir pelo seio; Cap. 9 art. 9.13 p. 484 e Wikipedia EN (snatch block) confirmam."
+ },
+ "talha": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 9 (Poleame, aparelhos de laborar e acessórios)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap9_2005.pdf",
+  "loc": "Cap. 9, art. 9.13, p. 484",
+  "quote": "O objetivo de um aparelho de laborar é manobrar um peso com esforço menor do que seria necessário para movê-lo com um simples cabo. Com isso, obtém-se um ganho em força, que se denomina multiplicação de potência.",
+  "outras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 9 (Poleame, aparelhos de laborar e acessórios)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap9_2005.pdf",
+    "loc": "Cap. 9, art. 9.15 b, p. 486",
+    "quote": "Se, na unidade de tempo, suspendermos P de 1 metro, Q subirá 2 metros"
+   },
+   {
+    "txt": "Michaelis On-line, verbete «talha»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/talha/",
+    "loc": "verbete «talha», acepção 7",
+    "quote": "Aparelho empregado para levantar objetos pesados, que consiste em duas roldanas ou dois moitões ou cadernais, um fixo e outro móvel, pelos quais passa uma corda."
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «tackle» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «tackle»",
+    "quote": "A pair of blocks through which is rove a rope to provide an advantageous purchase. Used for lifting heavy loads and to raise and trim sails."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 9 art. 9.13 p. 484 (ganho em força) e art. 9.15 b p. 486 (mais cabo para recolher), Michaelis acep. 7 e Wikipedia EN (tackle) confirmam. Exemplos \"burro\" e \"escota da grande\" não constam das fontes."
+ },
+ "sapatilho": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 9 (Poleame, aparelhos de laborar e acessórios)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap9_2005.pdf",
+  "loc": "Cap. 9, art. 9.29, p. 500",
+  "quote": "São peças de metal, de forma circular ou aproximadamente oval, cuja periferia é uma superfície em forma de meia-cana, adequada para servir de berço e proteção das mãos que se fazem nos cabos.",
+  "outras": [
+   {
+    "txt": "Michaelis On-line, verbete «sapatilho»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/sapatilho/",
+    "loc": "verbete «sapatilho», acepção 2 (Náut)",
+    "quote": "Aro de metal, oval ou circular, usado para proteger e fortalecer uma mão que se costura em punhos ou toldos de velas."
+   },
+   {
+    "txt": "Wikipedia EN, Glossary of nautical terms (M–Z), verbete «thimble» (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete «thimble»",
+    "quote": "A round or heart-shaped grooved ring of iron inserted into an eye-splice."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 9 art. 9.29 p. 500 confirma anel metálico oval/circular com superfície de meia-cana que protege a alça; Michaelis acep. 2 e Wikipedia EN (thimble) confirmam."
+ },
+ "filame": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 8, p. 8-20",
+  "quote": "é recomendado um filame (comprimento da amarra) de 5 a 7 vezes a profundidade do local",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 8, item 8.9 (fundeio de precisão), p. 8-17",
+    "quote": "O filame a ser utilizado é função da profundidade e do tipo de fundo."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 39, item i (fundeio), p. 39-41",
+    "quote": "O filame para um fundeio seguro deverá ser de 5 a 7 vezes a profundidade do local"
+   },
+   {
+    "txt": "NORMAM-211/DPC",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "Anexo 4-B, item 6 (Procedimentos para fundear a embarcação), p. 4-B-5",
+    "quote": "usando uma extensão de cabo com comprimento aproximado de cinco a sete vezes a profundidade local."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Vol. I cap. 8 p. 8-20, Vol. III cap. 39 p. 39-41 e NORMAM-211 anexo 4-B p. 4-B-5 confirmam a regra de 5 a 7 vezes a profundidade; Vol. I item 8.9 confirma dependência do fundo."
+ },
+ "lancante": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Apêndice 5, termos associados às manobras de espias, p. A5-13",
+  "quote": "Bowline Lançante de proa (espia nº 1).",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice 5, ordens de manobra, item 33, p. A5-39",
+    "quote": "(head line) (stern line) (spring) (towing line) 33 – Passar o ... (lançante de proa) (lançante de popa) (espringue) (cabo de reboque)."
+   },
+   {
+    "txt": "Michaelis On-line, verbete «lançante»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/lancante/",
+    "loc": "verbete «lançante», acepção 1 (Náut)",
+    "quote": "Cabo que prende uma embarcação à outra ou ao cais"
+   }
+  ],
+  "verificado": true,
+  "motivo": "Vol. III App. 5 \"termos\" p. A5-13 (Bowline = lançante de proa, espia nº 1) e Michaelis acep. 1 (cabo que prende a embarcação ao cais) confirmam. Vol. III App. 5 item 33 p. A5-39 confirma lançante de proa/popa como head line/stern line, mas o trecho gravado está reordenado e não é literal (no PDF: \"(head line) (lançante de proa) (stern line) (lançante de popa)\"); fonte mantida pelo sentido, a citação literal deve ser corrigida no JSON."
+ },
+ "cote": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "Cap. 8, art. 8.6, p. 381",
+  "quote": "Cote (fig. 8-4) – É uma volta singela em que uma das partes do cabo morde a outra; é raramente usado só, servindo para rematar outras voltas.",
+  "outras": [
+   {
+    "txt": "Michaelis On-line, verbete «cote»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/cote/",
+    "loc": "verbete «cote», acepção 1 (Náut)",
+    "quote": "Volta ou nó simples que se dá no chicote de um cabo de embarcação."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Cap. 8 art. 8.6 p. 381 define cote como volta singela em que uma parte do cabo morde a outra, raramente usada só; Michaelis acep. 1 confirma o chicote."
+ },
+ "pontos-cardeais": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 11, item 11.2.1, p. 11-3",
+  "quote": "Depois das direções cardeais (N, E, S e W), vieram as direções intercardeais (ou laterais), NE, SE, SW e NW e, em seguida, subdivisões menores (colaterais), tais como NNE, ENE, ESE, SSE, SSW, WSW, WNW e NNW.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 1, item 1.8, p. 1-14",
+    "quote": "A Figura 1.10 apresenta as direções CARDEAIS, LATERAIS (ou INTER-CARDEAIS) e COLATERAIS, comumente referidas em navegação."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Vol. I cap. 11 item 11.2.1 p. 11-3 confirma N, E, S, W, intercardeais NE/SE/SW/NW e colaterais; o trecho do PDF está intercalado com legenda de figura, mas o texto está na página. Vol. I cap. 1 item 1.8 confirma a mesma nomenclatura."
+ },
+ "amplitude": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-8",
+  "quote": "AMPLITUDE DA MARÉ: distância vertical entre uma PM e uma BM consecutivas, igual a hPM - hBM.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.1.3, p. 10-4",
+    "quote": "Isto significa que a amplitude de maré é maior em todos os locais que apresentam uma preamar e uma baixa-mar consecutivas."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.1.3, p. 10-4",
+    "quote": "nesses períodos as amplitudes das marés são pequenas"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.1.9 (Tábuas das Marés), p. 10-16",
+    "quote": "A amplitude da maré no primeiro ciclo é de 4,7 metros e no segundo é de 4,6 metros."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Vol. I item 10.1.5 p. 10-8 define amplitude como hPM - hBM; item 10.1.3 p. 10-4 confirma amplitude menor na quadratura; item 10.1.9 e o exemplo de quadratura de 21/3 (2,0 m) confirmam os valores citados. Entrada duplicada removida.",
+  "fonte_duplicada_removida": true
+ },
+ "estofo": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, Cap. 10, item 10.1.5, p. 10-9",
+  "quote": "ESTOFO DA MARÉ: período durante o qual o nível do mar fica praticamente estacionado; pode ser estofo de enchente (td - tc) ou de vazante (tg - te).",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 8 (corrente e águas restritas), p. 8-5",
+    "quote": "poderá deixar para entrar no canal próximo ao estofo da maré, quando a corrente deverá ser mínima"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, Cap. 10, item 10.2.1, p. 10-27",
+    "quote": "Se o porto fica situado no interior de um longo canal, como no caso de Santana (AP), no braço Norte do Rio Amazonas, a corrente de maré será também axial alternativa, com velocidade máxima para dentro na preamar, máxima para fora na baixa-mar e nula quando a maré atinge o nível médio."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Vol. I item 10.1.5 p. 10-9 define estofo (nível praticamente estacionado); Vol. I cap. 8 p. 8-5 confirma entrada no canal próximo ao estofo; item 10.2.1 p. 10-27 confirma o caso de canal longo (Santana, AP) com corrente máxima na preamar."
+ },
+ "almanaque-nautico": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 23, item 23.2, p. 23-2",
+  "quote": "O Almanaque Náutico fornece o Ângulo Horário em Greenwich (AHG) e a Declinação (Dec) do Sol, da Lua e dos 4 planetas utilizados em navegação.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 23, item 23.2, p. 23-2",
+    "quote": "tabulado para cada hora inteira de Tempo Universal (TU) ou HMG, e o valor da Ascensão Reta Versa (ARV) e Declinação (Dec) das 57 estrelas usadas em Navegação Astronômica"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 22, item 22.3.4, p. 22-12",
+    "quote": "As tábuas de correção de alturas para a Lua, apresentadas nas páginas XXXIV e XXXV, no final do Almanaque Náutico"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 19, item 19.11.3, p. 19-24",
+    "quote": "As Horas Legais de todos os países estão indicadas no Almanaque Náutico, publicado anualmente pela DHN"
+   }
+  ],
+  "verificado": true,
+  "motivo": "Vol. II cap. 23 item 23.2 p. 23-2 confirma AHG e Dec do Sol, Lua e planetas tabulados por hora, e ARV/Dec de estrelas; Vol. II cap. 22 item 22.3.4 confirma tábuas de correção; Vol. II cap. 19 item 19.11.3 confirma publicação anual pela DHN."
+ },
+ "crepusculo-nautico": {
+  "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "loc": "Vol. II, Cap. 24, item 24.3, p. 24-5",
+  "quote": "O crepúsculo náutico da manhã, por outro lado, começa quando o centro do Sol está 12º abaixo do horizonte e seu término coincide com o fim do crepúsculo civil da manhã (isto é, com o nascer do Sol",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 24, item 24.3, p. 24-5",
+    "quote": "O crepúsculo náutico da tarde também começa no pôr do Sol (limbo superior tangenciando o horizonte visual do observador) e seu término ocorre quando o centro do Sol está 12º abaixo do horizonte."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. II (DHN, 1ª rev. 2021)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+    "loc": "Vol. II, Cap. 24, item 24.3, p. 24-4",
+    "quote": "o horizonte normalmente está invisível, sendo demasiadamente escuro para a observação de alturas com sextante"
+   }
+  ],
+  "verificado": true,
+  "motivo": "Vol. II cap. 24 item 24.3 p. 24-5 define crepúsculo náutico da manhã (12º abaixo, termina com o nascer do Sol) e da tarde (começa no pôr do Sol, termina aos 12º); p. 24-4 confirma horizonte invisível e escuro demais para sextante, intercalado com legenda de figura."
+ },
+ "abandono": {
+  "txt": "Yachting Magazine, Abandon Ship, Part Two: Leaving the Ship (Mario Vittone, ex-Guarda Costeira dos EUA, 2013)",
+  "url": "https://www.yachtingmagazine.com/abandon-ship-part-two-leaving-ship/",
+  "loc": "seção «When to Leave»",
+  "quote": "Launching the raft and jumping over the side is the only call to make if faced with out-of-control fire or progressive flooding. But that doesn’t mean those are the only times to leave the boat.",
+  "outras": [
+   {
+    "txt": "Yachting Magazine, Abandon Ship, Part Two: Leaving the Ship (Mario Vittone, ex-Guarda Costeira dos EUA, 2013)",
+    "url": "https://www.yachtingmagazine.com/abandon-ship-part-two-leaving-ship/",
+    "loc": "seção «When to Leave»",
+    "quote": "But what about the old adage, “You never step off until you have to step up?” This oversimplified phrase implies that you never leave your vessel until it is definitely on its way down and nothing can be done."
+   },
+   {
+    "txt": "Yachting Magazine, Abandon Ship, Part Two: Leaving the Ship (Mario Vittone, ex-Guarda Costeira dos EUA, 2013)",
+    "url": "https://www.yachtingmagazine.com/abandon-ship-part-two-leaving-ship/",
+    "loc": "parágrafo final",
+    "quote": "Don your life jackets (and immersion suits if you have them), send the final distress signals, grab the EPIRB, and leave, taking all possible emergency gear with you."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 43, p. 43-1",
+    "quote": "Não se pode esperar que haja tempo suficiente para organizar o equipamento após a ordem de “abandonar o navio”."
+   }
+  ],
+  "verificado": true,
+  "motivo": "Yachting Magazine (Vittone, 2013) confirma abandono por fogo ou alagamento progressivo, o ditado e o risco de esperar demais, coletes e EPIRB; Vol. III cap. 43 p. 43-1 confirma que não há tempo para organizar equipamento após a ordem. Fonte secundária de imprensa náutica."
+ },
+ "estacao-costeira": {
+  "txt": "Anatel, Tutorial para Licenciamento de Estações do Serviço Limitado Móvel Marítimo (jun. 2026)",
+  "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+  "loc": "seção «Tipos de estação», p. 9 do PDF",
+  "quote": "Estação Costeira: É uma instalação de radiocomunicação fixa, geralmente localizada em terra, destinada a estabelecer contato com embarcações para transmissão e recepção de mensagens de rotina, segurança e socorro. Geralmente, essas estações funcionam como elo entre o meio marítimo e os serviços em terra, apoiando a navegação, coordenando operações portuárias e desempenhando papel essencial em situações de emergência para buscas e salvamentos marítimos.",
+  "outras": [
+   {
+    "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+    "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+    "loc": "item 1.4.5, p. 8",
+    "quote": "Devem estar aptas a assegurar a recepção e transmissão das mensagens meteorológicas provenientes de navios e destinadas a navios."
+   },
+   {
+    "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+    "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+    "loc": "item 2.1.9.3, p. 18",
+    "quote": "As estações costeiras devem procurar transmitir o sinal de aviso aos navegantes"
+   }
+  ],
+  "verificado": true,
+  "motivo": "Anatel (tutorial jun. 2026) p. 9 define estação costeira em terra com contato de socorro e papel em buscas e salvamentos; Anatel material de apoio itens 1.4.5 p. 8 e 2.1.9.3 p. 18 confirmam mensagens meteorológicas e avisos aos navegantes."
+ },
+ "casaria": {
+  "sem_fonte": "Nenhuma fonte reconhecida usa «casaria» no sentido de parte elevada da cabine do veleiro. Verificado em texto: Manual de Navegação (Vols. I a III), NORMAM-211, Arte Naval (caps. 2 a 12), Wikipédia PT e Wikipédia EN (glossário náutico), Priberam e Michaelis (casaria = série de casas, «casario»), Infopédia e Wikcionário (sem acepção náutica). O conceito inglês existe (deckhouse: «A cabin that protrudes above a ship's deck», Wikipédia EN), mas nenhuma fonte equipara o nome «casaria» a ele. Definição do app mantida; sem fonte por verbete.",
+  "verificado": false,
+  "motivo": "Sem fonte reconhecida: entrada não foi verificada e não tem fonte no lote 7; será retirada pela regra \"nada inventado\" (89)."
+ },
+ "tormentim": {
+  "sem_fonte": "Nenhuma fonte reconhecida define «tormentim» como vela de proa de tempestade. Verificado em texto: Manual de Navegação (Vols. I a III), NORMAM-211, Arte Naval (caps. 2 a 12), Wikipédia PT e EN (glossários e artigos de vela), Michaelis (verbete não encontrado), Priberam (sem verbete); buscas na web só trazem «buja de tempestade»/«storm jib». O conceito (vela de proa pequena e resistente para vento forte) existe, mas a equivalência do nome em PT-BR não foi confirmada. Definição do app mantida; sem fonte por verbete.",
+  "verificado": false,
+  "motivo": "Sem fonte reconhecida: entrada não foi verificada e não tem fonte no lote 7; será retirada pela regra \"nada inventado\" (89)."
+ }
+}

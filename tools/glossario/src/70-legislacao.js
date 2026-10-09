@@ -1,0 +1,113 @@
+
+  /* ===================== Legislação e órgãos =====================
+     Definições com fonte oficial (texto da norma ou da lei, com localizador). */
+  t('autoridade-maritima', 'Autoridade Marítima', 'legislacao', 'Quem regula e fiscaliza a segurança da navegação e do tráfego aquaviário no Brasil. Pela LESTA, é exercida pela Marinha (o texto de 1997 fala em Ministério da Marinha); a Lei Complementar nº 97/1999 designa o Comandante da Marinha como Autoridade Marítima.',
+    { en: 'Maritime Authority', ver: ['lesta', 'dpc', 'capitania-dos-portos', 'normam'], fonte: [lesta('art. 39'), { txt: 'Lei Complementar nº 97/1999', url: URL.lcp97, loc: 'art. 17, parágrafo único' }] });
+  t('lesta', 'LESTA', 'legislacao', 'Lei de Segurança do Tráfego Aquaviário: a Lei nº 9.537, de 11 de dezembro de 1997. Define conceitos como amador, embarcação e comandante e dá à Autoridade Marítima o poder de criar normas e fiscalizar.',
+    { en: 'Brazilian Waterway Traffic Safety Act', sin: ['Lei 9.537', 'Lei nº 9.537/1997'], ver: ['rlesta', 'autoridade-maritima', 'normam'], fonte: [lesta('arts. 2º e 39'), n211('Glossário, p. VIII')] });
+  t('rlesta', 'RLESTA', 'legislacao', 'Regulamento de Segurança do Tráfego Aquaviário em Águas sob Jurisdição Nacional: o Decreto nº 2.596, de 18 de maio de 1998, que regulamenta a LESTA. Traz, entre outras coisas, as infrações e as penalidades, como multa e suspensão da habilitação. Conduzir embarcação sem habilitação é infração.',
+    { en: 'regulation of the Waterway Traffic Safety Act', sin: ['Decreto 2.596', 'Decreto nº 2.596/1998'], ver: ['lesta', 'cha', 'inspecao-naval'], fonte: [{ txt: 'Decreto nº 2.596/1998 (RLESTA)', url: URL.rlesta, loc: 'Anexo, arts. 7º e 11' }, n211('Glossário, p. IX')] });
+  t('normam', 'NORMAM', 'legislacao', 'Normas da Autoridade Marítima, publicadas pela Diretoria de Portos e Costas (DPC) e pela Diretoria de Hidrografia e Navegação (DHN). Cada uma, identificada por um número, trata de um assunto, como os amadores e o esporte e recreio (NORMAM-211) ou as motos aquáticas (NORMAM-212).',
+    { en: 'Brazilian Maritime Authority Standards', ver: ['normam-211', 'normam-212', 'dpc', 'npcp'], link: { txt: 'Normas da Autoridade Marítima (DPC)', url: URL.normas } });
+  t('normam-211', 'NORMAM-211/DPC', 'legislacao', 'Normas da Autoridade Marítima para Atividades de Esporte e Recreio. Trata das habilitações de amador (Arrais, Mestre e Capitão-Amador e Veleiro), das embarcações de esporte e recreio, dos equipamentos obrigatórios e das provas, com o programa e a bibliografia de cada uma.',
+    { en: 'Brazilian rules for recreational boating', sin: ['NORMAM 211', 'NORMAM-211'], ver: ['normam', 'cha', 'arrais-amador', 'mestre-amador', 'capitao-amador'], fonte: n211('folha de rosto'), link: { txt: 'NORMAM-211/DPC (PDF)', url: URL.n211 } });
+  t('normam-212', 'NORMAM-212/DPC', 'legislacao', 'Normas da Autoridade Marítima para Motos Aquáticas e Motonautas.',
+    { en: 'Brazilian rules for personal watercraft', sin: ['NORMAM 212'], ver: ['motonauta', 'normam'], fonte: n211('Glossário, p. IX'), link: { txt: 'NORMAM-212/DPC (PDF)', url: URL.n212 } });
+  t('dpc', 'DPC', 'legislacao', 'Diretoria de Portos e Costas, da Marinha do Brasil. Publica as NORMAM e, para o Capitão-Amador, divulga no seu site a programação do exame, a prova, o gabarito e a lista de aprovados.',
+    { en: 'Directorate of Ports and Coasts', sin: ['Diretoria de Portos e Costas'], ver: ['normam', 'capitania-dos-portos', 'capitao-amador'], fonte: n211('Anexo 5-A, item 1 e), p. 5-A-1') });
+  t('dhn', 'DHN', 'legislacao', 'Diretoria de Hidrografia e Navegação, da Marinha do Brasil, responsável pelas cartas náuticas e pelas publicações de auxílio à navegação do país, produzidas pelo Centro de Hidrografia da Marinha (CHM).',
+    { en: 'Brazilian Hydrographic Office', sin: ['Diretoria de Hidrografia e Navegação'], ver: ['chm', 'carta-nautica', 'tabua-das-mares'], link: { txt: 'DHN (Marinha)', url: URL.dhn } });
+  t('chm', 'CHM', 'legislacao', 'Centro de Hidrografia da Marinha. Produz e distribui as cartas náuticas, a Tábua das Marés, a Lista de Faróis, os Avisos aos Navegantes e, pelo Serviço Meteorológico Marinho, a previsão do tempo para o mar.',
+    { en: 'Brazilian Navy Hydrographic Centre', sin: ['Centro de Hidrografia da Marinha'], busca: ['Serviço Meteorológico Marinho'], ver: ['dhn', 'meteoromarinha', 'avisos-aos-navegantes'], link: { txt: 'CHM (Marinha)', url: URL.chm } });
+  t('capitania-dos-portos', 'Capitania dos Portos', 'legislacao', 'Organização da Marinha que representa a Autoridade Marítima numa área do litoral ou de um rio (as Capitanias Fluviais): fiscaliza a navegação, inscreve embarcações e cuida das habilitações. As provas de Arrais e de Mestre-Amador são programadas pelas Capitanias, Delegacias e Agências. Abreviatura CP.',
+    { en: 'Harbour Master’s Office (Captaincy of Ports)', sin: ['CP', 'Capitania'], busca: ['Capitania Fluvial'], ver: ['delegacia', 'agencia', 'npcp', 'cha'], fonte: n211('Glossário, p. VI; Anexo 5-A, itens 2 b) e 3 a)'), link: { txt: 'Localize a Capitania mais próxima (DPC)', url: URL.capitanias } });
+  t('delegacia', 'Delegacia da Capitania', 'legislacao', 'Delegacia da Capitania dos Portos (DL): unidade subordinada a uma Capitania, que atende uma parte da área dela.',
+    { en: 'branch office of a Captaincy', sin: ['DL', 'Delegacia'], ver: ['capitania-dos-portos', 'agencia'], fonte: n211('Glossário, p. VI') });
+  t('agencia', 'Agência da Capitania', 'legislacao', 'Agência da Capitania dos Portos (AG): unidade subordinada a uma Capitania dos Portos, que atende uma parte da área dela.',
+    { en: 'agency of a Captaincy', sin: ['AG', 'Agência'], ver: ['capitania-dos-portos', 'delegacia'], fonte: n211('Glossário, p. V') });
+  t('npcp', 'NPCP', 'legislacao', 'Normas e Procedimentos das Capitanias dos Portos (NPCP) e das Capitanias Fluviais (NPCF): regras de cada Capitania que completam as NORMAM para a sua região, como os limites das áreas de navegação interior.',
+    { en: 'local Captaincy regulations', busca: ['NPCF'], ver: ['capitania-dos-portos', 'navegacao-interior', 'arrais-amador'], fonte: n211('Glossário, p. IX; art. 5.3.3 c), p. 5-1') });
+  t('cha', 'CHA', 'legislacao', 'Carteira de Habilitação de Amador: documento, físico ou digital, que habilita a pessoa a conduzir embarcações de esporte e/ou recreio na categoria indicada. Levá-la a bordo é obrigatório.',
+    { en: 'Brazilian recreational boating licence', sin: ['Carteira de Habilitação de Amador'], busca: ['habilitação'], ver: ['arrais-amador', 'mestre-amador', 'capitao-amador', 'veleiro-categoria', 'motonauta'], fonte: n211('Glossário, p. V; art. 5.3.3, p. 5-1') });
+  t('amador', 'Amador', 'legislacao', 'Pela LESTA, todo aquele com habilitação certificada pela Autoridade Marítima para operar embarcações de esporte e recreio, em caráter não profissional.',
+    { en: 'recreational (non-professional) skipper', ver: ['cha', 'lesta'], fonte: [lesta('art. 2º, I'), n211('art. 5.3, p. 5-1')] });
+  t('arrais-amador', 'Arrais-Amador', 'legislacao', 'Categoria de amador (ARA) apta a conduzir embarcações nos limites da navegação interior, definidos nas NPCP/NPCF, exceto moto aquática. É a primeira etapa para quem quer comandar um veleiro de médio porte; exige um treinamento prático atestado.',
+    { en: 'Brazilian inland waters skipper', sin: ['ARA', 'Arrais'], ver: ['mestre-amador', 'navegacao-interior', 'atestado-de-treinamento', 'cha'], fonte: n211('art. 5.3.3 c), p. 5-1; art. 5.4.1 f), p. 5-4') });
+  t('mestre-amador', 'Mestre-Amador', 'legislacao', 'Categoria de amador (MSA) apta a conduzir embarcações entre portos nacionais e estrangeiros nos limites da navegação costeira (até 20 milhas náuticas), exceto moto aquática. Para fazer a prova, é preciso ser Arrais-Amador com a habilitação válida.',
+    { en: 'Brazilian coastal skipper', sin: ['MSA', 'Mestre'], ver: ['arrais-amador', 'capitao-amador', 'navegacao-costeira'], fonte: n211('art. 5.3.3 b), p. 5-1; art. 5.4.1, Notas, p. 5-5') });
+  t('capitao-amador', 'Capitão-Amador', 'legislacao', 'Categoria de amador (CPA) apta a conduzir embarcações entre portos nacionais e estrangeiros sem limite de afastamento da costa, exceto moto aquática: é a habilitação da travessia oceânica. Para fazer a prova, é preciso ser Mestre-Amador com a habilitação válida; o programa inclui navegação astronômica.',
+    { en: 'Brazilian ocean skipper', sin: ['CPA', 'Capitão'], ver: ['mestre-amador', 'navegacao-oceanica', 'navegacao-astronomica', 'dpc'], fonte: n211('art. 5.3.3 a), p. 5-1; art. 5.4.1, Notas, p. 5-5; Anexo 5-A, item 1.1, p. 5-A-2') });
+  t('motonauta', 'Motonauta', 'legislacao', 'Categoria de amador (MTA) apta a conduzir moto aquática nos limites da navegação interior. É regulada pela NORMAM-212 e não serve para outras embarcações.',
+    { en: 'personal watercraft (jet ski) operator', sin: ['MTA'], ver: ['normam-212', 'cha'], fonte: n211('art. 5.3.3 d), p. 5-1') });
+  t('veleiro-categoria', 'Veleiro (categoria de amador)', 'legislacao', 'Categoria de amador (VLA) apta a conduzir embarcações a vela sem propulsão a motor nos limites da navegação interior. É facultativa para embarcações miúdas de propulsão só a vela; sai com a declaração de conclusão de um curso de vela (Anexo 5-G).',
+    { en: 'Brazilian inland sailing licence (sail-only boats)', sin: ['VLA', 'CHA-VLA'], ver: ['arrais-amador', 'embarcacao-miuda', 'veleiro'], fonte: n211('art. 5.3.3 e), p. 5-2; art. 5.5.2, p. 5-7; Anexo 5-G') });
+  t('navegacao-interior', 'Navegação interior', 'legislacao', 'Navegação em águas abrigadas ou parcialmente abrigadas, como rios, lagos, baías, angras e canais. Divide-se em Área 1 (abrigada) e Área 2 (onde podem ocorrer ondas e ventos significativos). É o limite do Arrais-Amador e do Veleiro.',
+    { en: 'inland (sheltered) waters navigation', ver: ['navegacao-costeira', 'arrais-amador', 'npcp'], fonte: n211('Glossário, p. VIII; art. 4.7, p. 4-4') });
+  t('navegacao-costeira', 'Navegação costeira', 'legislacao', 'Navegação dentro dos limites de visibilidade da costa, até a distância máxima de 20 milhas náuticas. É o limite do Mestre-Amador.',
+    { en: 'coastal navigation (up to 20 NM)', ver: ['navegacao-interior', 'navegacao-oceanica', 'mestre-amador'], fonte: n211('Glossário, p. VIII; art. 4.7, p. 4-4') });
+  t('navegacao-oceanica', 'Navegação oceânica', 'legislacao', 'Navegação considerada sem restrições, além das 20 milhas náuticas da costa. Exige Capitão-Amador.',
+    { en: 'ocean navigation (unrestricted)', ver: ['navegacao-costeira', 'capitao-amador'], fonte: n211('Glossário, p. VIII; art. 4.7, p. 4-4') });
+  t('embarcacao', 'Embarcação', 'legislacao', 'Pela lei, qualquer construção, inclusive as plataformas flutuantes e, quando rebocadas, as fixas, sujeita a inscrição na Autoridade Marítima e capaz de se locomover na água, por meios próprios ou não, transportando pessoas ou cargas.',
+    { en: 'vessel (legal definition)', ver: ['embarcacao-miuda', 'embarcacao-de-medio-porte', 'inscricao'], fonte: [lesta('art. 2º, V'), n211('Glossário, p. VI')] });
+  t('embarcacao-miuda', 'Embarcação miúda', 'legislacao', 'Para a NORMAM-211, embarcação com comprimento igual ou menor que 6 metros.',
+    { en: 'small craft (up to 6 m)', ver: ['embarcacao-de-medio-porte', 'veleiro-categoria', 'bote-de-apoio'], fonte: n211('Glossário, p. VII') });
+  t('embarcacao-de-medio-porte', 'Embarcação de médio porte', 'legislacao', 'Para a NORMAM-211, embarcação com menos de 24 metros de comprimento, exceto as miúdas. Um veleiro de cruzeiro com mais de 6 m e menos de 24 m de comprimento (por exemplo, um de 32 pés, ≈ 9,75 m) é de médio porte.',
+    { en: 'medium-sized craft (6 to 24 m)', ver: ['embarcacao-miuda', 'iate', 'comprimento'], fonte: n211('Glossário, p. VII') });
+  t('iate', 'Iate', 'legislacao', 'Para a NORMAM-211, embarcação de esporte e/ou recreio com 24 metros ou mais de comprimento, também chamada de embarcação de grande porte.',
+    { en: 'large yacht (24 m or more)', sin: ['embarcação de grande porte'], ver: ['embarcacao-de-medio-porte'], fonte: n211('Glossário, p. VII') });
+  t('comandante', 'Comandante', 'legislacao', 'Também chamado de Mestre, Arrais ou Patrão: o tripulante responsável pela operação e pela manutenção da embarcação, em condições de segurança, extensivas à carga, aos tripulantes e às demais pessoas a bordo.',
+    { en: 'master, skipper', sin: ['patrão'], ver: ['amador', 'tripulante', 'aviso-de-saida'], fonte: [lesta('art. 2º, IV'), n211('Glossário, p. VI')] });
+  t('tripulante', 'Tripulante', 'legislacao', 'Todo amador ou profissional que exerce funções, embarcado, na operação da embarcação.',
+    { en: 'crew member', busca: ['tripulação'], ver: ['comandante', 'lotacao'], fonte: n211('Glossário, p. X') });
+  t('lotacao', 'Lotação', 'legislacao', 'Quantidade máxima de pessoas autorizadas a embarcar, incluindo a tripulação.',
+    { en: 'maximum number of persons', ver: ['tripulante', 'colete-salva-vidas'], fonte: n211('Glossário, p. VIII') });
+  t('inscricao', 'Inscrição da embarcação', 'legislacao', 'Cadastro da embarcação na Capitania, Delegacia ou Agência, com a atribuição do nome e do número de inscrição e a emissão do Título de Inscrição de Embarcação (TIE) digital.',
+    { en: 'vessel registration (with the Captaincy)', ver: ['tie', 'registro-tribunal-maritimo', 'capitania-dos-portos'], fonte: n211('Glossário, p. VII') });
+  t('tie', 'TIE', 'legislacao', 'Título de Inscrição de Embarcação: documento, hoje digital, que comprova a inscrição da embarcação na Autoridade Marítima, com o nome e o número dela.',
+    { en: 'vessel registration certificate', sin: ['Título de Inscrição de Embarcação'], ver: ['inscricao', 'registro-tribunal-maritimo'], fonte: n211('Glossário, p. VII e IX') });
+  t('registro-tribunal-maritimo', 'Registro no Tribunal Marítimo', 'legislacao', 'Cadastro da embarcação no Tribunal Marítimo, com número de registro e a Provisão de Registro da Propriedade Marítima (PRPM). Não é o mesmo que a inscrição na Capitania.',
+    { en: 'registration of ownership (Maritime Court)', sin: ['PRPM'], busca: ['Tribunal Marítimo'], ver: ['inscricao', 'tie'], fonte: [n211('Glossário, p. IX'), lesta('art. 2º, XVIII')] });
+  t('aviso-de-saida', 'Aviso de Saída', 'legislacao', 'Comunicação obrigatória feita pelo comandante, ou pela marina ou clube a que ele é filiado, antes de sair, para que a embarcação possa ser identificada e localizada em caso de socorro. Pode ser trocada pelo registro no aplicativo NAVSEG. A chegada também deve ser comunicada.',
+    { en: 'departure notice (float plan)', ver: ['navseg', 'comandante', 'salvamar'], fonte: n211('art. 4.6, p. 4-3') });
+  t('navseg', 'NAVSEG', 'legislacao', 'Aplicativo da Marinha do Brasil para celular em que o comandante registra o plano de navegação no lugar do formulário de Aviso de Saída. A marina ou clube de onde o barco sai e a Marinha passam a acompanhar a viagem. A Marinha recomenda o uso.',
+    { en: 'Brazilian Navy float plan app', ver: ['aviso-de-saida', 'salvamar'], fonte: n211('art. 4.6.1, p. 4-3') });
+  t('etn', 'ETN', 'legislacao', 'Estabelecimento de Treinamento Náutico: empresa que dá treinamentos práticos para a qualificação de amadores, exclusivamente em embarcações de esporte e/ou recreio.',
+    { en: 'nautical training establishment', sin: ['Estabelecimento de Treinamento Náutico'], ver: ['atestado-de-treinamento', 'arrais-amador'], fonte: n211('Glossário, p. VII') });
+  t('atestado-de-treinamento', 'Atestado de Treinamento Náutico', 'legislacao', 'Atestado de Treinamento Náutico para Arrais-Amador, no modelo do Anexo 5-E, com firma reconhecida em cartório ou assinatura digital pelo gov.br, que deve ser apresentado para a habilitação de Arrais-Amador.',
+    { en: 'practical training certificate (Arrais-Amador)', ver: ['arrais-amador', 'etn'], fonte: n211('art. 5.4.1 f), p. 5-4') });
+  t('gru', 'GRU', 'legislacao', 'Guia de Recolhimento da União: guia de pagamento federal usada para pagar os serviços da Marinha, como a inscrição na prova. A GRU paga por quem faltou ou foi reprovado não pode ser reutilizada num novo exame.',
+    { en: 'federal payment slip', sin: ['Guia de Recolhimento da União'], ver: ['capitania-dos-portos', 'cha'], fonte: n211('Glossário, p. VII; Anexo 5-A, itens 1 h), 2 h) e 3 g)'), link: { txt: 'Tabelas de indenizações (DPC)', url: URL.indenizacoes } });
+  t('dpem', 'DPEM', 'legislacao', 'Seguro Obrigatório de Danos Pessoais Causados por Embarcações ou por suas Cargas, criado pela Lei nº 8.374/1991.',
+    { en: 'compulsory personal injury insurance for vessels', ver: ['inscricao'], fonte: n211('Glossário, p. VI'), aconfirmar: 'Como e onde contratar hoje, e quando ele é exigido: confirme na Capitania.' });
+  t('inspecao-naval', 'Inspeção Naval', 'legislacao', 'Fiscalização feita pela Marinha do cumprimento da LESTA, das normas e dos atos internacionais ratificados pelo Brasil, para a salvaguarda da vida humana, a segurança da navegação e a prevenção da poluição por embarcações.',
+    { en: 'naval inspection (maritime enforcement)', ver: ['vistoria', 'rlesta', 'cha'], fonte: [lesta('art. 2º, VII'), n211('Glossário, p. VIII')] });
+  t('vistoria', 'Vistoria', 'legislacao', 'Verificação técnica e administrativa, eventual ou periódica, de que a embarcação cumpre as normas de segurança, de habitabilidade e de prevenção da poluição.',
+    { en: 'survey', ver: ['inspecao-naval'], fonte: n211('Glossário, p. X') });
+  t('areas-adjacentes-as-praias', 'Áreas adjacentes às praias', 'legislacao', 'Faixa em volta das praias, marítimas, fluviais ou lacustres, até 200 metros a partir da linha de arrebentação das ondas ou, em rios, lagos e lagoas, de onde começa o espelho d’água. A NORMAM-211 traz regras para a navegação nessa faixa, onde há banhistas.',
+    { en: 'areas adjacent to beaches (200 m)', ver: ['velocidade-de-seguranca', 'npcp'], fonte: n211('Glossário, p. V') });
+  t('ajb', 'AJB', 'legislacao', 'Águas Jurisdicionais Brasileiras: sigla usada nas normas para as águas em que o Brasil exerce jurisdição.',
+    { en: 'Brazilian jurisdictional waters', ver: ['lesta', 'rlesta'], fonte: n211('Glossário, p. V') });
+
+  /* ===================== Acrescentados em 2026-10-09 (termos do curso de Capitão-Amador) ===================== */
+  t('imo', 'IMO', 'legislacao', 'Organização Marítima Internacional: agência das Nações Unidas, com sede em Londres, que cria as regras internacionais de segurança da navegação e de prevenção da poluição por navios, como a SOLAS, a MARPOL e o RIPEAM (COLREG).',
+    { en: 'International Maritime Organization (IMO)', sin: ['OMI', 'Organização Marítima Internacional'], ver: ['solas', 'ripeam', 'gmdss'], fonte: { txt: 'IMO, página institucional', url: URL.imo }, link: { txt: 'IMO', url: URL.imo } });
+  t('solas', 'SOLAS', 'legislacao', 'Convenção Internacional para a Salvaguarda da Vida Humana no Mar (1974), da IMO. Trata da construção, da salvatagem, das comunicações de rádio (GMDSS) e da segurança da navegação dos navios mercantes. Na Marinha, “embarcação SOLAS” exclui, entre outras, as de comprimento de regra menor que 24 m.',
+    { en: 'SOLAS (International Convention for the Safety of Life at Sea)', ver: ['imo', 'gmdss', 'balsa-salva-vidas', 'embarcacao'], fonte: [{ txt: 'IMO, Convenção SOLAS', url: URL.solas }, mig1('cap. 12, nota sobre “embarcações SOLAS” (NORMAM-01), PDF p. 377')] });
+  t('ciaga', 'CIAGA', 'legislacao', 'Centro de Instrução Almirante Graça Aranha, da Marinha do Brasil. Para o exame de Capitão-Amador, recebe os pedidos de revisão de prova e dá a decisão final.',
+    { en: 'Almirante Graça Aranha Instruction Centre', ver: ['pedido-de-revisao', 'capitao-amador', 'dpc', 'gabarito'], fonte: n211('Anexo 5-A, Seção I, item 1, alínea g), p. 5-A-1') });
+
+  /* ===================== Prova e estudo ===================== */
+  t('gabarito', 'Gabarito', 'prova', 'Lista oficial das respostas certas de uma prova. Para o Capitão-Amador, a DPC publica no site a prova, o gabarito (primeiro o preliminar e depois o final) e a lista de aprovados.',
+    { en: 'answer key', ver: ['pedido-de-revisao', 'simulado', 'ciaga', 'anb'], fonte: { txt: 'DPC, Exame para a Categoria de Capitão-Amador', url: URL.dpcCpa, loc: 'provas, gabaritos e listas de aprovados' } });
+  t('pedido-de-revisao', 'Pedido de revisão de prova', 'prova', 'Requerimento com que o candidato ao CPA contesta questões ou o resultado: o prazo é de 7 dias úteis depois da divulgação oficial da prova e do gabarito, entregue à organização militar da inscrição. O CIAGA dá a decisão final.',
+    { en: 'exam review request', sin: ['recurso da prova', 'revisão de prova'], ver: ['gabarito', 'ciaga', 'capitao-amador'], fonte: n211('Anexo 5-A, Seção I, item 1, alíneas f) e g), p. 5-A-1') });
+  t('simulado', 'Simulado', 'prova', 'Prova de treino, no mesmo formato da real e com o tempo marcado, para medir o preparo e achar os assuntos fracos. Para o Capitão-Amador, as provas e os gabaritos antigos que a DPC publica servem de simulado.',
+    { en: 'mock exam', ver: ['gabarito', 'afirmativa', 'distrator'], fonte: { txt: 'DPC, Exame para a Categoria de Capitão-Amador', url: URL.dpcCpa, loc: 'provas e gabaritos de 2017 em diante' } });
+  t('afirmativa', 'Afirmativa', 'prova', 'Cada frase numerada (I, II, III…) que o candidato deve julgar como certa ou errada dentro de uma questão. A alternativa correta diz quais afirmativas são verdadeiras.',
+    { en: 'statement (in a multiple-choice item)', ver: ['distrator', 'comando-negativo', 'simulado'] });
+  t('distrator', 'Distrator', 'prova', 'Cada alternativa errada de uma questão de múltipla escolha. É escrita para parecer plausível a quem não domina a matéria, por isso vale eliminar primeiro as que contradizem algo que você sabe.',
+    { en: 'distractor', ver: ['afirmativa', 'comando-negativo', 'gabarito'] });
+  t('comando-negativo', 'Comando negativo', 'prova', 'Enunciado que pede a alternativa errada ou a exceção: “assinale a INCORRETA”, “NÃO é”, “em DESACORDO”. Sublinhe a palavra negativa e procure a única alternativa falsa: a certa é a única errada.',
+    { en: 'negative stem (“EXCEPT” question)', ver: ['afirmativa', 'distrator', 'simulado'] });
+  t('anb', 'ANB', 'prova', 'Almanaque Náutico Brasileiro. Nas provas de Capitão-Amador, os dados do almanaque vêm nos anexos fornecidos com a prova, chamados anexos ANB, para os cálculos de navegação astronômica.',
+    { en: 'Brazilian Nautical Almanac (ANB)', ver: ['almanaque-nautico', 'navegacao-astronomica', 'capitao-amador', 'gabarito'], fonte: { txt: 'DPC, prova CPA-II/2026', url: URL.cpa2026, loc: 'p. 1 (“nos anexos do Almanaque Náutico Brasileiro (ANB)”)' } });

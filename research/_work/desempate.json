@@ -1,0 +1,307 @@
+{
+ "normas-90": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A página da DPC \"Exame para Categoria de Capitão Amador\" (duas páginas de listagem) publica provas de CPA desde 2013 (2013: apenas \"CPA - Prova\"; 2014 a 2018: CPA-1 e CPA-2 \"Prova e Gabarito\"). Relações de aprovados aparecem em 2014 (apenas no \"Exame extra de CPA - REFENO\") e, nos exames regulares, a partir de 2018 (CPA-2); em 2015, 2016 e 2017 não há relação de aprovados.",
+  "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador?page=1",
+  "evidence_quote": "Página 2: \"2016 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito Exame extra de CPA - XIV Simpósio | 2015 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito | 2013 Exame CPA - Prova | 2014 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito Exame extra de CPA - REFENO - Prova Exame extra de CPA - REFENO - Relação dos Aprovados Exame extra de CPA - XIII Simpósio - Prova\" ; Página 1: \"2018 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito CPA-2 - Relação dos Aprovados Exame extra de CPA - XV Simpósio | 2017 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito\"",
+  "notes": "Alinhado ao desempate de extra-fechamento-am-06 (mesma página da DPC, reaberta nas duas listagens)."
+ },
+ "programa-39": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Na NORMAM-211/DPC em vigor (Rev. 1, Portaria DPC/DGN/MB nº 200, de 27/02/2026), o item 3.1 a) do Anexo 5-A (Programa para o exame de Arrais-Amador) tem dez subitens (I a X), incluindo VII (pontos de ignição e de fulgor dos combustíveis: gasolina, etanol e diesel) e VIII (procedimento para abastecimento de embarcação). A lista de 8 subitens do .odt do Anexo 5-A no ZIP de anexos está defasada.",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "VII) pontos de ignição e de fulgor dos combustíveis (gasolina, etanol e diesel); VIII) procedimento para abastecimento de embarcação; IX) primeiros socorros e pronto atendimento; e X) técnicas básicas para a sobrevivência e segurança no mar, em rios, lagos e lagoas.",
+  "locator": "PDF, Anexo 5-A, 3.1 a) VII-X, p. 5-A-7",
+  "evidence_urls_adicionais": [
+   "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/portaria-200-normam-211.html",
+   "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "https://www.marinha.mil.br/dpc/normam-211",
+   "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip"
+  ],
+  "notes": "Prevalece o PDF consolidado (Rev. 1, Portaria DPC/DGN/MB nº 200, de 27/02/2026, vigente desde a assinatura; PDF datado de 03/03/2026, 268 p.). O ZIP de anexos (NORMAM-211-Anexos_0.zip, pagina DPC 'atualizado em 28/08/2026') e um conjunto de arquivos .odt editaveis cuja copia do Anexo 5-A (.odt salvo em 06/03/2026, sem os itens de combustivel) nao foi atualizada com as modificacoes registradas na Folha de Registro de Modificacoes: Anexo 5-A do PDF traz os itens de combustivel nas paginas 5-A-7 (VII-VIII), 5-A-9 (1.11-1.12) e 5-A-10 (2.8), as mesmas tres paginas (deslocadas de uma) que a Folha atribui a Mod. 2 (Portaria 147, de 17/12/2024, vigencia 01/01/2025: 5-A-8, 5-A-10, 5-A-11 e 5-E-2); a pagina 5-E-2 do PDF (atestado) tambem traz os itens de combustivel. Evidencias (todas oficiais, Marinha/DPC): (1) a Portaria 200, unico ato vigente listado na pagina das NORMAM (nenhuma portaria posterior a 27/02/2026 sobre a N-211), aprova a NORMAM-211 e linka o proprio normam-211.pdf; (2) a Folha de Registro do PDF lista as paginas alteradas por cada modificacao: Mod. 2 (Port. 147/2024, vigencia 01/01/2025) afetou, entre outras, 5-A-8, 5-A-10, 5-A-11 e 5-E-2; Mod. 5 (Port. 197/2026) afetou An5-A e An5-E; Rev. 1 (Port. 200/2026) afetou so a pagina 5-12 (portanto nao mexeu no 5-A nem no 4-B); (3) a copia consolidada da Mod. 1 (jul/2024, hospedada pela Capitania Fluvial de Tabatinga) tem o texto antigo, igual ao do ZIP; (4) o ZIP e comprovadamente defasado em outras paginas listadas na Folha (Anexo 3-B, paginas 3-B-2/3-B-3 da Mod. 4: o .odt foi salvo pela ultima vez em 01/07/2024 e nao tem o texto da Mod. 4 que esta no PDF); (5) o proprio ZIP, no Anexo 5-E (salvo em 27/08/2026), ja traz os itens de combustivel. Limite: a Folha so lista paginas, nao descreve a mudanca; a atribuicao a Mod. 2/Mod. 4 e inferencia documental (pagina + comparacao de versoes), e nao ha portaria que descreva a alteracao em palavras.",
+  "verificacao_independente": "Verificado de forma independente em 2026-10-09: (1) a citacao literal consta no normam-211.pdf oficial (268 p., Folha de Registro com Rev. 1/Portaria 200) na pagina indicada; (2) a Portaria 200 (HTML oficial, Art. 3 vigor na assinatura, revoga a 197) tem como ANEXO o link para esse mesmo normam-211.pdf, e a pagina das NORMAM lista a Portaria 200 como ato vigente da N-211, sem portaria posterior; (3) diff palavra a palavra do Anexo 5-A: o .odt do ZIP (salvo 06/03/2026) e identico ao PDF exceto pela ausencia dos itens de combustivel, sem nenhum conteudo que o PDF nao tenha, logo e base defasada e nao texto mais novo; o Anexo 4-B do ZIP foi salvo uma unica vez em 05/12/2023 ('E recomendavel'); o Anexo 5-E do ZIP (o mais novo, 27/08/2026) traz os temas de combustivel; (4) LIMITE mantido: nenhuma portaria descreve em palavras a alteracao do item; a prevalencia do PDF e inferencia documental forte (ato que o aprova + Folha de Registro + comparacao de versoes datadas), nao citacao direta. A pagina das NORMAM tambem oferece o ZIP ('Anexos'/Download) e a Portaria 200 Art. 1 remete a essa pagina, mas apenas o PDF e linkado como texto do ato."
+ },
+ "programa-46": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Na NORMAM-211/DPC em vigor (Rev. 1, 03/03/2026), o plano de treinamento teórico para o Atestado de Treinamento de Arrais-Amador (Anexo 5-A, Seção II, a), I) inclui 1.11 (pontos de ignição e de fulgor dos combustíveis: gasolina, etanol e diesel) e 1.12 (procedimento para abastecimento de combustíveis das embarcações). O .odt do 5-A no ZIP, que termina em 1.10, está defasado; o Anexo 5-E (atestado), inclusive o do ZIP, lista esses mesmos temas.",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "1.11. Os pontos de ignição e de fulgor dos combustíveis (gasolina, etanol e diesel); e 1.12. Procedimento para abastecimento de combustíveis das embarcações.",
+  "locator": "PDF, Anexo 5-A, Seção II, a) I, 1.11-1.12, p. 5-A-9",
+  "evidence_urls_adicionais": [
+   "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/portaria-200-normam-211.html",
+   "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "https://www.marinha.mil.br/dpc/normam-211",
+   "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip"
+  ],
+  "notes": "Prevalece o PDF consolidado (Rev. 1, Portaria DPC/DGN/MB nº 200, de 27/02/2026, vigente desde a assinatura; PDF datado de 03/03/2026, 268 p.). O ZIP de anexos (NORMAM-211-Anexos_0.zip, pagina DPC 'atualizado em 28/08/2026') e um conjunto de arquivos .odt editaveis cuja copia do Anexo 5-A (.odt salvo em 06/03/2026, sem os itens de combustivel) nao foi atualizada com as modificacoes registradas na Folha de Registro de Modificacoes: Anexo 5-A do PDF traz os itens de combustivel nas paginas 5-A-7 (VII-VIII), 5-A-9 (1.11-1.12) e 5-A-10 (2.8), as mesmas tres paginas (deslocadas de uma) que a Folha atribui a Mod. 2 (Portaria 147, de 17/12/2024, vigencia 01/01/2025: 5-A-8, 5-A-10, 5-A-11 e 5-E-2); a pagina 5-E-2 do PDF (atestado) tambem traz os itens de combustivel. Evidencias (todas oficiais, Marinha/DPC): (1) a Portaria 200, unico ato vigente listado na pagina das NORMAM (nenhuma portaria posterior a 27/02/2026 sobre a N-211), aprova a NORMAM-211 e linka o proprio normam-211.pdf; (2) a Folha de Registro do PDF lista as paginas alteradas por cada modificacao: Mod. 2 (Port. 147/2024, vigencia 01/01/2025) afetou, entre outras, 5-A-8, 5-A-10, 5-A-11 e 5-E-2; Mod. 5 (Port. 197/2026) afetou An5-A e An5-E; Rev. 1 (Port. 200/2026) afetou so a pagina 5-12 (portanto nao mexeu no 5-A nem no 4-B); (3) a copia consolidada da Mod. 1 (jul/2024, hospedada pela Capitania Fluvial de Tabatinga) tem o texto antigo, igual ao do ZIP; (4) o ZIP e comprovadamente defasado em outras paginas listadas na Folha (Anexo 3-B, paginas 3-B-2/3-B-3 da Mod. 4: o .odt foi salvo pela ultima vez em 01/07/2024 e nao tem o texto da Mod. 4 que esta no PDF); (5) o proprio ZIP, no Anexo 5-E (salvo em 27/08/2026), ja traz os itens de combustivel. Limite: a Folha so lista paginas, nao descreve a mudanca; a atribuicao a Mod. 2/Mod. 4 e inferencia documental (pagina + comparacao de versoes), e nao ha portaria que descreva a alteracao em palavras.",
+  "verificacao_independente": "Verificado de forma independente em 2026-10-09: (1) a citacao literal consta no normam-211.pdf oficial (268 p., Folha de Registro com Rev. 1/Portaria 200) na pagina indicada; (2) a Portaria 200 (HTML oficial, Art. 3 vigor na assinatura, revoga a 197) tem como ANEXO o link para esse mesmo normam-211.pdf, e a pagina das NORMAM lista a Portaria 200 como ato vigente da N-211, sem portaria posterior; (3) diff palavra a palavra do Anexo 5-A: o .odt do ZIP (salvo 06/03/2026) e identico ao PDF exceto pela ausencia dos itens de combustivel, sem nenhum conteudo que o PDF nao tenha, logo e base defasada e nao texto mais novo; o Anexo 4-B do ZIP foi salvo uma unica vez em 05/12/2023 ('E recomendavel'); o Anexo 5-E do ZIP (o mais novo, 27/08/2026) traz os temas de combustivel; (4) LIMITE mantido: nenhuma portaria descreve em palavras a alteracao do item; a prevalencia do PDF e inferencia documental forte (ato que o aprova + Folha de Registro + comparacao de versoes datadas), nao citacao direta. A pagina das NORMAM tambem oferece o ZIP ('Anexos'/Download) e a Portaria 200 Art. 1 remete a essa pagina, mas apenas o PDF e linkado como texto do ato."
+ },
+ "programa-47": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Na NORMAM-211/DPC em vigor (Rev. 1, 03/03/2026), a parte prática do treinamento para Arrais-Amador (Anexo 5-A, Seção II, a), II) inclui 2.8: verificação do nível do tanque de combustível e demonstração dos procedimentos para o correto abastecimento da embarcação (ventilação, uso dos suspiros e etc). O .odt do 5-A no ZIP, que termina em 2.7, está defasado; o Anexo 5-E (atestado) lista 'Demonstração dos procedimentos para abastecimento (ventilação, uso do suspiro, etc)'.",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "2.8. verificação do nível do tanque de combustível e demonstração dos procedimentos a serem realizados para o correto abastecimento da embarcação (ventilação, uso dos suspiros e etc).",
+  "locator": "PDF, Anexo 5-A, Seção II, a) II, 2.8, p. 5-A-10",
+  "evidence_urls_adicionais": [
+   "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/portaria-200-normam-211.html",
+   "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "https://www.marinha.mil.br/dpc/normam-211",
+   "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip"
+  ],
+  "notes": "Prevalece o PDF consolidado (Rev. 1, Portaria DPC/DGN/MB nº 200, de 27/02/2026, vigente desde a assinatura; PDF datado de 03/03/2026, 268 p.). O ZIP de anexos (NORMAM-211-Anexos_0.zip, pagina DPC 'atualizado em 28/08/2026') e um conjunto de arquivos .odt editaveis cuja copia do Anexo 5-A (.odt salvo em 06/03/2026, sem os itens de combustivel) nao foi atualizada com as modificacoes registradas na Folha de Registro de Modificacoes: Anexo 5-A do PDF traz os itens de combustivel nas paginas 5-A-7 (VII-VIII), 5-A-9 (1.11-1.12) e 5-A-10 (2.8), as mesmas tres paginas (deslocadas de uma) que a Folha atribui a Mod. 2 (Portaria 147, de 17/12/2024, vigencia 01/01/2025: 5-A-8, 5-A-10, 5-A-11 e 5-E-2); a pagina 5-E-2 do PDF (atestado) tambem traz os itens de combustivel. Evidencias (todas oficiais, Marinha/DPC): (1) a Portaria 200, unico ato vigente listado na pagina das NORMAM (nenhuma portaria posterior a 27/02/2026 sobre a N-211), aprova a NORMAM-211 e linka o proprio normam-211.pdf; (2) a Folha de Registro do PDF lista as paginas alteradas por cada modificacao: Mod. 2 (Port. 147/2024, vigencia 01/01/2025) afetou, entre outras, 5-A-8, 5-A-10, 5-A-11 e 5-E-2; Mod. 5 (Port. 197/2026) afetou An5-A e An5-E; Rev. 1 (Port. 200/2026) afetou so a pagina 5-12 (portanto nao mexeu no 5-A nem no 4-B); (3) a copia consolidada da Mod. 1 (jul/2024, hospedada pela Capitania Fluvial de Tabatinga) tem o texto antigo, igual ao do ZIP; (4) o ZIP e comprovadamente defasado em outras paginas listadas na Folha (Anexo 3-B, paginas 3-B-2/3-B-3 da Mod. 4: o .odt foi salvo pela ultima vez em 01/07/2024 e nao tem o texto da Mod. 4 que esta no PDF); (5) o proprio ZIP, no Anexo 5-E (salvo em 27/08/2026), ja traz os itens de combustivel. Limite: a Folha so lista paginas, nao descreve a mudanca; a atribuicao a Mod. 2/Mod. 4 e inferencia documental (pagina + comparacao de versoes), e nao ha portaria que descreva a alteracao em palavras.",
+  "verificacao_independente": "Verificado de forma independente em 2026-10-09: (1) a citacao literal consta no normam-211.pdf oficial (268 p., Folha de Registro com Rev. 1/Portaria 200) na pagina indicada; (2) a Portaria 200 (HTML oficial, Art. 3 vigor na assinatura, revoga a 197) tem como ANEXO o link para esse mesmo normam-211.pdf, e a pagina das NORMAM lista a Portaria 200 como ato vigente da N-211, sem portaria posterior; (3) diff palavra a palavra do Anexo 5-A: o .odt do ZIP (salvo 06/03/2026) e identico ao PDF exceto pela ausencia dos itens de combustivel, sem nenhum conteudo que o PDF nao tenha, logo e base defasada e nao texto mais novo; o Anexo 4-B do ZIP foi salvo uma unica vez em 05/12/2023 ('E recomendavel'); o Anexo 5-E do ZIP (o mais novo, 27/08/2026) traz os temas de combustivel; (4) LIMITE mantido: nenhuma portaria descreve em palavras a alteracao do item; a prevalencia do PDF e inferencia documental forte (ato que o aprova + Folha de Registro + comparacao de versoes datadas), nao citacao direta. A pagina das NORMAM tambem oferece o ZIP ('Anexos'/Download) e a Portaria 200 Art. 1 remete a essa pagina, mas apenas o PDF e linkado como texto do ato."
+ },
+ "taxas-28": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Na CPBA, as provas de Arrais-Amador ocorrem de segunda a sexta-feira, em computadores, com 40 questões, e o resultado sai ao final da prova. (A página da CPBA trata só de Arrais-Amador; para Mestre-Amador, a NORMAM-211, Anexo 5-A, item 2.c, prevê prova eletrônica ou escrita de 40 questões.)",
+  "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+  "evidence_quote": "As provas ocorrem na Capitania de segunda a sexta-feira, e são realizadas em computadores dedicados a essa finalidade, constando de 40 questões.",
+  "notes": "Resultado ao final: \"O Resultado da prova é dado pelo computador, ao final da prova.\" A página não menciona MSA."
+ },
+ "taxas-65": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A página oficial \"Localize a Capitania Mais Próxima\" da DPC lista 69 Organizações Militares (32 Capitanias dos Portos/Fluviais, 14 Delegacias e 23 Agências), com os municípios de jurisdição de cada uma.",
+  "evidence_url": "https://www.marinha.mil.br/dpc/localize-capitania?field_uf_localize_value=All",
+  "evidence_quote": "CPPB - Capitania dos Portos da Paraíba",
+  "notes": "Recontagem feita em 2026-10-08 nas páginas 0 a 6 da listagem (a página 7 é vazia): 69 entradas únicas."
+ },
+ "radio-57": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "O CBSP (Curso Básico de Segurança de Plataforma) tem duração de 5 dias e carga horária total de 40 horas; na matrícula exige mais de 18 anos, ensino fundamental concluído e boas condições de saúde física e mental; inclui primeiros socorros elementares (6 h) e técnicas de sobrevivência pessoal e procedimentos de emergência (9 h).",
+  "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+  "evidence_quote": "ter mais de dezoito (18) anos, no dia da matrícula; - ter concluído o ensino fundamental; e - possuir boas condições de saúde física e mental.",
+  "notes": "DURAÇÃO: 5 DIAS, CARGA HORÁRIA TOTAL: 40 HORAS; 3.2 PRIMEIROS SOCORROS ELEMENTARES 06 HORAS; 3.4 TÉCNICAS DE SOBREVIVÊNCIA PESSOAL E PROCEDIMENTOS DE EMERGÊNCIA 09 HORAS. A \"carga horária real\" da aprovação soma 36 h de disciplinas; o cabeçalho oficial diz 40 h."
+ },
+ "radio-90": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A US Sailing é sancionada pela World Sailing para emitir certificados Safety at Sea; o certificado International Offshore exige a parte teórica (seminário presencial de um dia ou curso online Offshore, unidades 1-15) mais o treinamento prático presencial (hands-on), e os certificados valem 5 anos.",
+  "evidence_url": "https://www.ussailing.org/education/adult/safety-at-sea-courses/",
+  "evidence_quote": "Safety at Sea: Either attend a one-day seminar or take the Online Offshore course (Units 1-15).",
+  "notes": "Outros trechos literais da mesma página: \"The certificates are valid for five years from the date of issue.\" e \"This is the most comprehensive training in preparation for the Hands-On course which is required for the International Offshore certificate\". A página não diz que o treinamento hands-on dura um dia; o \"one-day\" refere-se ao seminário."
+ },
+ "travessia-38": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Cada tripulante: colete inflável a gás ISO 12402-3 (nível 150) fabricado após 2011, com sistema de inflação manual ou automática, sistema antissubida (tirante entre as pernas ou nas coxas), luz indicadora de posição e capuz anti-borrifo (sprayhood) (Cat. 0 a 3) e, em Cat. 0 a 2, ponto de engate do arnês de segurança (OSR 5.01.1).",
+  "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "evidence_quote": "MoMu0,1,2,3 c) an emergency position indicating light, MoMu0,1,2,3 d) a sprayhood, MoMu0,1,2 e) a deck safety harness (attachment),",
+  "notes": "A redação original da claim já estava correta; os verificadores anteriores leram mal a coluna de categorias (sprayhood é Cat. 0-3 e o engate do arnês é Cat. 0-2, conforme a página 23 do PDF, conferida visualmente). Extrato para monocasco Cat. 1."
+ },
+ "loc_s-18": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A Capitania dos Portos do Paraná (CPPR) publica a lista de Estabelecimentos de Treinamento Náutico credenciados; quase todos estão credenciados para emissão de atestado de treinamento de Arrais-Amador e de Motonauta, exceto Native Jetski Curitiba (Portaria nº 10/2026), credenciada apenas para Motonauta (lista \"Atualizado em: 02/04/2025\"; página atualizada em 24/08/2026).",
+  "evidence_url": "https://www.marinha.mil.br/cppr/entidades_nauticas",
+  "evidence_quote": "NATIVE JETSKI CURITIBA (Portaria Nº 10/2026) CNPJ: 51.957.396/0002-81 Rua da Soja, 186, Praia de Pontal do Sul – Pontal do Parana–PR Telefones: (41) 99165-4676 E-mail: nativejetskicuritiba@gmail.com Credenciado para emissão de Atestado de Treinamento para Motonauta",
+  "notes": "Contagem na página: 21 entradas \"Arrais Amador e Motonauta\" e 1 só \"Motonauta\"."
+ },
+ "extra-arrais-1-01": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "O programa da prova de Arrais-Amador (NORMAM-211, Anexo 5-A, item 3.1 a), itens I a V) começa por conhecimentos gerais sobre termos náuticos, nomenclatura, peças e partes das embarcações, direções relativas, marinharia, nós e voltas; manobras (fundeio, suspender, aproximação a margem, atracar, desatracar, pegar a boia, resgate de homem ao mar); preparação da embarcação para a navegação; propulsão a motor e a vela, leme e manobra em espaço limitado com um e/ou dois hélices; e identificação, classificação e nomenclatura de embarcações miúdas. A alínea a) continua com outros itens (incêndio, primeiros socorros, sobrevivência) e as alíneas seguintes cobrem salvatagem, instrumentos, meteorologia, marés e RIPEAM.",
+  "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+  "evidence_quote": "I) termos náuticos, nomenclatura, peças e partes das embarcações, direções relativas, marinharia, nós e voltas; II) manobras de fundeio, suspender, aproximação a margem, atracar, desatracar, pegar a boia; manobras de resgate de homem ao mar; III) preparação da embarcação para a navegação: abastecimento de gêneros, água, combustível; salvatagem; e plano de navegação; IV) sistemas de propulsão a motor e a vela, sistema de leme e seus efeitos, manobra em espaço limitado com emprego de um e/ou dois hélices; V) identificação, classificação e nomenclatura de embarcações miúdas e leme e seus efeitos;",
+  "notes": "Itens I a V idênticos no PDF consolidado e no ZIP de anexos. Os itens finais de 3.1 a) divergem entre PDF (I-X, com combustível) e ZIP (I-VIII): por isso a redação corrigida não os enumera (ver programa-39)."
+ },
+ "extra-arrais-3-22": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Lanterna portátil (1 unidade): o art. 4.18.2 da NORMAM-211 diz que todas as embarcações devem estar dotadas dela, com bateria recarregável ou pilhas sobressalentes, mas o quadro 4.33 (navegação interior) a DISPENSA nas embarcações miúdas; é obrigatória nas de médio porte e nas de grande porte/iates em navegação interior (4.33), costeira (4.34, item 15) e oceânica (4.35, item 15).",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "4.18.2. Lanterna portátil - todas as embarcações deverão estar dotadas de uma unidade de lanterna portátil, com bateria recarregável ou com pilhas sobressalentes.",
+  "notes": "Quadro 4.33, item 11: \"LANTERNA PORTÁTIL 4.18 DISPENSADO OBRIGATÓRIO (01 unidade) OBRIGATÓRIO (01 unidade)\" (colunas miúdas / médio porte / grande porte ou iates)."
+ },
+ "extra-arrais-3-43": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Nas embarcações de esporte e/ou recreio com menos de 24 m, a lotação é determinada pelo estaleiro construtor; se o dado não for disponibilizado pelo estaleiro ou se a embarcação for de fabricação artesanal, a lotação é determinada pelas normas de lotação de passageiros e peso máximo de carga (PMC) do anexo 7-F da NORMAM-201/DPC ou do anexo 6-G da NORMAM-202/DPC, conforme aplicável (NORMAM-211, art. 3.27.1).",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "As embarcações deverão ter suas lotações determinadas pelos estaleiros construtores. Quando por qualquer motivo este dado não for disponibilizado pelo estaleiro construtor ou quando se tratar de embarcação de fabricação artesanal, a determinação da lotação deverá ser estabelecida utilizando as normas para lotação de passageiros e do peso máximo de carga (PMC) de embarcações com arqueação bruta menor ou igual a 20, contidas no anexo 7-F da NORMAM-201/DPC ou no anexo 6-G da NORMAM-202/DPC, conforme aplicável.",
+  "notes": null
+ },
+ "extra-capitao-1-01": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A hora legal do Brasil usa quatro fusos, definidos pelo Decreto nº 2.784/1913 com a redação da Lei nº 12.876/2013 (1º fuso, menos 2 h: ilhas oceânicas): o 2º fuso, Greenwich menos 3 horas, compreende o Distrito Federal e os Estados do RS, SC, PR, SP, RJ, MG, ES, GO, TO, BA, SE, AL, PE, PB, RN, CE, PI, MA, PA e AP (estados inteiros, não só o litoral); o 3º fuso, menos 4 horas, compreende MT, MS, RO, RR e a parte do Amazonas a leste da linha Tabatinga-Porto Acre; o 4º fuso, menos 5 horas, compreende o Acre e a parte do Amazonas a oeste dessa linha.",
+  "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/DPL2784-1913.htm",
+  "evidence_quote": "b) o segundo fuso, caracterizado pela hora de Greenwich 'menos três horas', compreende o Distrito Federal e os Estados do Rio Grande do Sul, de Santa Catarina, do Paraná, de São Paulo, do Rio de Janeiro, de Minas Gerais, do Espírito Santo, de Goiás, do Tocantins, da Bahia, de Sergipe, de Alagoas, de Pernambuco, da Paraíba, do Rio Grande do Norte, do Ceará, do Piauí, do Maranhão, do Pará e do Amapá;",
+  "notes": "Mesmo texto na Lei 12.876/2013, art. 1º (Planalto, l12876.htm). \"quatro fusos distinctos\" está no art. 2º do Decreto 2.784/1913 (mesma página do Planalto). O \"litoral\" da redação anterior (Lei 11.662/2008) não consta mais."
+ },
+ "extra-capitao-1-02": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "O primeiro fuso horário brasileiro, Greenwich menos 2 horas, compreende, segundo o texto do Decreto nº 2.784/1913, o arquipélago de Fernando de Noronha e a ilha da Trindade; o Manual de Navegação da Marinha (DHN, vol. II, 1ª rev. 2021, item 19.11.3) inclui também o arquipélago de São Pedro e São Paulo, mas esse arquipélago não consta do texto do decreto.",
+  "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/DPL2784-1913.htm",
+  "evidence_quote": "a) o primeiro fuso, caracterizado pela hora de Greenwich 'menos duas horas', comprehende o archipelago Fernando de Noronha e a ilha da Trindade;",
+  "notes": "Manual DHN, literal: \"I – o primeiro fuso, em que a hora legal é igual à de Greenwich diminuída de duas horas, compreende o arquipélago de Fernando de Noronha, a ilha da Trindade e o arquipélago de São Pedro e São Paulo;\""
+ },
+ "extra-capitao-2-03": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Pela NORMAM-211, as embarcações de esporte e/ou recreio com comprimento igual ou superior a 24 m destinadas à navegação em mar aberto devem ter a estabilidade intacta avaliada pelos requisitos do Capítulo 7 da NORMAM-201/DPC, no que for aplicável (art. 3.27.2). Abaixo de 24 m, a lotação é determinada pelo estaleiro construtor; se o dado não for disponibilizado ou a embarcação for artesanal, aplicam-se as normas de lotação e PMC do anexo 7-F da NORMAM-201 ou do anexo 6-G da NORMAM-202 (art. 3.27.1).",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "3.27.2. Embarcações de esporte e/ou recreio com comprimento igual ou superior a 24 metros As embarcações destinadas à navegação em mar aberto deverão ter a estabilidade intacta avaliada de acordo com os requisitos estabelecidos no Capítulo 7 da NORMAM-201/DPC, no que for aplicável.",
+  "notes": null
+ },
+ "extra-capitao-3-12": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A NORMAM-211 recomenda ao Comandante que, ao enfrentar condições climáticas adversas, mantenha adequadamente fechadas todas as aberturas através das quais a água possa penetrar no casco da embarcação (Anexo 4-B, item 1.6, \"Recomendações ao Comandante da Embarcação\").",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "1.6. Quando tiver de enfrentar condições climáticas adversas, manter todas as aberturas através das quais a água possa penetrar no casco da embarcação, adequadamente fechadas;",
+  "notes": "Texto idêntico no PDF consolidado e no ZIP de anexos; o item está na lista de recomendações, não de obrigações."
+ },
+ "extra-capitao-3-16": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Na NORMAM-211/DPC em vigor (Rev. 1, 03/03/2026), Anexo 4-B, item 4.5, e obrigatorio que as embarcacoes que se dirijam a portos estrangeiros, ou que se afastem sistematicamente a mais de 100 milhas nauticas da costa, sejam dotadas com EPIRB 406 MHz (o texto 'E recomendavel' do .odt do Anexo 4-B no ZIP e a redacao antiga, anterior a Mod. 4). Ressalva de contexto: o Anexo 4-B se intitula 'Recomendacoes ao Navegante'; a dotacao de EPIRB por porte/navegacao esta no Cap. 4 (4.24.1 a) IV; 4.24.2 a) III).",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "É obrigatório que as embarcações que se dirijam a portos estrangeiros, ou que se afastem, sistematicamente, a mais de 100 milhas náuticas da costa, sejam dotadas com o equipamento denominado “Rádio Baliza Indicadora de Posição em Emergência” (EPIRB-406MHz).",
+  "locator": "PDF, Anexo 4-B, item 4.5, p. 4-B-3",
+  "evidence_urls_adicionais": [
+   "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/portaria-200-normam-211.html",
+   "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "https://www.marinha.mil.br/dpc/normam-211",
+   "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip"
+  ],
+  "notes": "Prevalece o PDF consolidado (Rev. 1, Portaria DPC/DGN/MB nº 200, de 27/02/2026, vigente desde a assinatura; PDF datado de 03/03/2026, 268 p.). O ZIP de anexos (NORMAM-211-Anexos_0.zip, pagina DPC 'atualizado em 28/08/2026') e um conjunto de arquivos .odt editaveis cuja copia do Anexo 4-B (.odt salvo pela ultima vez em 05/12/2023, texto 'recomendavel') nao foi atualizada com as modificacoes registradas na Folha de Registro de Modificacoes: o item 4.5 do Anexo 4-B esta na pagina 4-B-3 do PDF, e a Folha atribui a pagina 4-B-3 a Mod. 4 (Portaria 179, de 20/05/2025); o Anexo 4-B do PDF so difere do .odt do ZIP e da copia da Mod. 1 (2024) neste item (obrigatorio x recomendavel). Evidencias (todas oficiais, Marinha/DPC): (1) a Portaria 200, unico ato vigente listado na pagina das NORMAM (nenhuma portaria posterior a 27/02/2026 sobre a N-211), aprova a NORMAM-211 e linka o proprio normam-211.pdf; (2) a Folha de Registro do PDF lista as paginas alteradas por cada modificacao: Mod. 4 (Port. 179/2025): 4-7 a 4-9; 4-13; 4-21; 4-23; 5-10; 3-B-2 e 3-B-3; 4-B-3 (a unica modificacao da Folha que toca o Anexo 4-B); Mod. 5 e Rev. 1 nao tocam o 4-B; (3) a copia consolidada da Mod. 1 (jul/2024, hospedada pela Capitania Fluvial de Tabatinga) tem o texto antigo, igual ao do ZIP; (4) o ZIP e comprovadamente defasado em outras paginas listadas na Folha (Anexo 3-B, paginas 3-B-2/3-B-3 da Mod. 4: o .odt foi salvo pela ultima vez em 01/07/2024 e nao tem o texto da Mod. 4 que esta no PDF); (5) o proprio ZIP, no Anexo 5-E (salvo em 27/08/2026), ja traz os itens de combustivel. Limite: a Folha so lista paginas, nao descreve a mudanca; a atribuicao a Mod. 2/Mod. 4 e inferencia documental (pagina + comparacao de versoes), e nao ha portaria que descreva a alteracao em palavras. Nota: o titulo do Anexo 4-B ('Recomendacoes ao Navegante') nao altera a redacao em vigor do item 4.5.",
+  "verificacao_independente": "Verificado de forma independente em 2026-10-09: (1) a citacao literal consta no normam-211.pdf oficial (268 p., Folha de Registro com Rev. 1/Portaria 200) na pagina indicada; (2) a Portaria 200 (HTML oficial, Art. 3 vigor na assinatura, revoga a 197) tem como ANEXO o link para esse mesmo normam-211.pdf, e a pagina das NORMAM lista a Portaria 200 como ato vigente da N-211, sem portaria posterior; (3) diff palavra a palavra do Anexo 5-A: o .odt do ZIP (salvo 06/03/2026) e identico ao PDF exceto pela ausencia dos itens de combustivel, sem nenhum conteudo que o PDF nao tenha, logo e base defasada e nao texto mais novo; o Anexo 4-B do ZIP foi salvo uma unica vez em 05/12/2023 ('E recomendavel'); o Anexo 5-E do ZIP (o mais novo, 27/08/2026) traz os temas de combustivel; (4) LIMITE mantido: nenhuma portaria descreve em palavras a alteracao do item; a prevalencia do PDF e inferencia documental forte (ato que o aprova + Folha de Registro + comparacao de versoes datadas), nao citacao direta. A pagina das NORMAM tambem oferece o ZIP ('Anexos'/Download) e a Portaria 200 Art. 1 remete a essa pagina, mas apenas o PDF e linkado como texto do ato."
+ },
+ "extra-mestre-3-02": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Radar (9 GHz, para embarcações classificadas para navegação costeira ou oceânica) e ecobatímetro são obrigatórios em embarcações de grande porte ou iates construídos após 11/02/2000; para as embarcações menores o emprego é recomendado (NORMAM-211, art. 4.19.3 a e b).",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "a) Radar - as embarcações de grande porte, ou iates, construídas após 11/02/2000, classificadas para a navegação Costeira ou Oceânica, deverão ser dotadas de radar capaz de operar na faixa de frequência de 9 GHz. Para as embarcações menores o seu emprego é recomendado; b) Ecobatímetro - as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado;",
+  "notes": null
+ },
+ "extra-radio-1-07": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "O material de apoio da Anatel (versão 2026-03, item 2.2.12) define as áreas marítimas do GMDSS pela cobertura: A1 (VHF costeiro com DSC; o material cita cerca de 30 a 50 milhas da costa, enquanto a página institucional da Anatel sobre o GMDSS cita cerca de 20 milhas), A2 (MF costeiro com DSC; o material cita cerca de 100 a 150 milhas e a página institucional, 100 a 300 milhas), A3 (cobertura do satélite Inmarsat, exceto regiões polares) e A4 (regiões polares, sem cobertura Inmarsat). As distâncias são aproximadas e variam entre as fontes da Anatel; vale a definição por cobertura.",
+  "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/servico-movel-maritimo/em-1979-a-organizacao-maritima-internacional-imo-reconhecendo-a-necessidade-de-implementar-o-sistema-de-comunicacao-maritima-decidiu-dar-inicio-a-implantacao-de-um-novo-sistema-de-socorro-e-seguranca-conhecido-como-sistema-global-de-socorro-e-seguranca",
+  "evidence_quote": "Área A1: área dentro da cobertura de um sistema de radiotelefonia de no mínimo uma estação costeira que opere em VHF, cerca de 20 milhas da costa, na qual esteja disponível o alerta DSC contínuo.",
+  "notes": "Material de apoio, literal: \"Área A1: Cobertura de VHF costeiro com DSC (cerca de 30–50 milhas da costa). Área A2: Cobertura de MF costeiro com DSC (cerca de 100–150 milhas da costa).\"; página institucional, literal: \"Área A2: ... cerca de 100-300 milhas da costa\"."
+ },
+ "extra-radio-1-17": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Segundo o material de apoio da Anatel (versão 2026-03, item 2.1.9.5), em radiotelefonia a estação em perigo, ou a que estiver dirigindo o tráfego de socorro, pedirá silêncio utilizando a expressão SILENCE MAYDAY.",
+  "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+  "evidence_quote": "Em radiotelefonia, a estação em perigo ou a que estiver dirigindo o tráfego de socorro pedirá silêncio utilizando-se da expressão SILENCE MAYDAY.",
+  "notes": "O parêntese \"SEELONCE MAYDAY\" (grafia do Regulamento de Radiocomunicações) não consta do material da Anatel e foi retirado da redação por não ter fonte literal verificada."
+ },
+ "extra-radio-1-22": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Segundo o material de apoio da Anatel (item 2.2.5), nos alertas de socorro por EPIRB os satélites do COSPAS-SARSAT detectam o sinal e o retransmitem a estações terrenas (LUT), que enviam a informação aos Centros de Coordenação de Salvamento (RCC/MRCC); satélites em órbita polar (LEO) dão cobertura global com tempo de detecção que depende da passagem, e os geoestacionários (GEO) detectam quase instantaneamente, para EPIRBs compatíveis (geralmente com GPS).",
+  "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+  "evidence_quote": "Satélites geoestacionários (GEO): o Cobertura contínua de grandes áreas; detecção quase instantânea (para EPIRBs compatíveis, geralmente com GPS).",
+  "notes": null
+ },
+ "extra-radio-2-01": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A Cruz Vermelha Brasileira oferece cursos de primeiros socorros abertos a quem queira aprender, com curso básico de 4 horas e avançado de 30 horas, ministrados por instrutores capacitados pela CVB de acordo com a didática do Centro de Referência Global em Primeiros Socorros do Movimento Internacional da Cruz Vermelha, sediado em Paris.",
+  "evidence_url": "https://cruzvermelha.org.br/en/campanhas/primeiros-socorros/",
+  "evidence_quote": "Há vários cursos. O básico dura 4 horas. O avançado, 30 horas. Todos são ministrados por instrutores capacitados pela CVB, de acordo com a didática do Centro de Referência Global em Primeiros Socorros do Movimento Internacional da Cruz Vermelha, sediado em Paris.",
+  "notes": "Outra seção da mesma página cita a Federação Internacional da Cruz Vermelha (diretrizes do Centro de Referência Global); a seção do curso diz \"Movimento Internacional\"."
+ },
+ "extra-travessia-1-02": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Pela OSR 2.04.1, todo equipamento exigido deve funcionar, ser regularmente verificado, limpo e revisado; se tiver prazo de validade, não pode tê-lo excedido durante a regata; quando não estiver em uso, deve ser estivado em condições que minimizem a deterioração; deve ser de fácil acesso e de tipo, tamanho e capacidade adequados ao uso pretendido e ao tamanho do barco.",
+  "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "evidence_quote": "if it has an expiry date, it will not have exceeded its expiry date whilst racing,",
+  "notes": null
+ },
+ "extra-travessia-1-03": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Pela OSR 3.01.2-3.01.3, o barco deve ter enxárcias e ao menos um estai que permaneçam ligados ao mastro e ao barco durante a regata (não se aplica a barcos com mastro autoportante), e o estai deve ser dimensionado e ligado de modo a suportar todas as cargas de navegação independentemente da capacidade de carga da testa da vela de proa.",
+  "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "evidence_quote": "at least one forestay that shall remain connected to the mast and the boat while racing (not applicable to boats with free-standing masts).",
+  "notes": "OSR 3.01.3, literal: \"The forestay referenced above shall be sized and connected in a way that ensures it is capable of withstanding the full sailing loads independent of any headsail luff load capacity.\" O \"estai\" é singular na fonte."
+ },
+ "extra-travessia-1-07": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Pela OSR 3.08.2, escotilhas (inclusive de paióis) devem ser fixadas permanentemente e poder ser fechadas de imediato, permanecendo firmemente fechadas num emborcamento de 180°; (Cat. 0 a 4) devem ficar acima da água com o barco adernado a 90°, admitindo-se no máximo duas escotilhas por bordo que não atendam a esse item, cada uma com abertura menor que 0,071 m² (110 pol²).",
+  "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "evidence_quote": "Mo0,1,2,3,4 A boat may have a maximum of two hatches on each side of centreline that do not conform to the requirement in b), provided that the opening of each is less than 0.071 m² (110 in²).",
+  "notes": "Texto de 3.08.2 a): \"permanently attached and capable of being firmly shut immediately and remaining firmly shut in a 180° capsize\"; b) \"above the water when the boat is heeled 90°\" (Cat. Mo/Mu 0-4)."
+ },
+ "extra-travessia-1-25": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Pela OSR 3.14.1 b), as retrancas de segurança (lifelines) e os púlpitos devem ter altura mínima de 600 mm (24 pol) na linha superior e 230 mm (9 pol) na intermediária, e a abertura vertical não deve passar de 380 mm (15 pol), exceto em barco com data de série anterior a 1993, em que o máximo é 560 mm (22 pol).",
+  "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "evidence_quote": "no greater than 380 mm (15”) except that on a boat with a series date before 1993 where it shall be no greater than 560 mm (22”),",
+  "notes": null
+ },
+ "extra-travessia-2-20": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "O CIRM (Centro Internazionale Radio Medico, Roma) presta assistência médica a distância a marítimos de navios sem médico a bordo, de qualquer nacionalidade e em qualquer mar, com médicos de plantão 24 horas por dia; o serviço médico é gratuito (desde 1º/01/2025 o CIRM pede contribuição anual de EUR 120 por embarcação apenas para a plataforma segura de comunicação de dados médicos) e inclui apoio ao transbordo do paciente para navio com serviços médicos ou, se a distância permitir, remoção por meio naval ou aéreo para hospitalização rápida.",
+  "evidence_url": "https://www.cirm-tmas.it/",
+  "evidence_quote": "Nasce nel 1935, allo scopo di fornire assistenza medica a marittimi, imbarcati su navi senza medico a bordo, di qualsiasi nazionalità, in navigazione su tutti i mari. I suoi servizi medici sono gratuiti ed includono l’assistenza per un eventuale trasbordo del paziente su nave fornita di servizi medici o, se la distanza lo permette, il prelievo del malato con mezzi navali o aerei per una rapida ospedalizzazione.",
+  "notes": "Fonte oficial do CIRM (www.cirm-tmas.it, página inicial), consultada em 2026-10-08; o domínio cirm.it tem certificado inválido, por isso foi usado o cirm-tmas.it. H24: \"medici, in servizio continuativo di guardia H24\". Contribuição: \"Mentre l’assistenza telemedica C.I.R.M. rimane gratuita, richiediamo un contributo annuale di € 120,00 (centoventi/00) per imbarcazione ... Il servizio sarà attivo dal 1° gennaio 2025.\""
+ },
+ "travessia-10": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A partir de 2027, nas categorias Mo0 e Mo1 da OSR World Sailing (2026-2027), a embarcação que não consiga demonstrar conformidade com a ISO 12217-2 categoria A e use as alternativas da OSR 3.04.2 (Tabela 2: STIX, AVS e m*AGZ) ou da OSR 3.04.3 (Tabela 3: índice de estabilidade ORC) deve ter essa conformidade confirmada por medição do deslocamento real e por prova de inclinação (inclining test). A exigência não se aplica a quem demonstra a estabilidade pela ISO 12217-2 cat. A.",
+  "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+  "evidence_quote": "3.04.1 a) Compliant with ISO 12217-2(a) design category A. Where this compliance cannot be demonstrated, the boat may meet the requirements of OSR 3.04.2(b) or OSR 3.04.3(b). ... (b) From 2027, this compliance shall be confirmed by having the actual displacement measured and by an inclining test. [categorias: Mo0,1]",
+  "notes": "PDF oficial baixado e página 8 renderizada: o sobrescrito \"b\" está em OSR 3.04.2 e OSR 3.04.3 (não em \"ISO 12217-2\", que leva o sobrescrito \"a\"); nota b marcada Mo0,1. Mesmo texto nas versões v1 e v2 (jun/2026) do documento completo."
+ },
+ "travessia-86": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A página \"Atlas of Pilot Charts\" do NGA Maritime Safety Information (MSI) tem a seção \"Download Publication\" listando a Pub. 105 (Atlas of Pilot Charts South Atlantic Ocean, 2nd Ed. 1995) e a Pub. 106 (North Atlantic Ocean, incluindo Golfo do México, 2002 Ed.), além das Pubs. 107, 108 e 109.",
+  "evidence_url": "https://msi.nga.mil/Publications/APC",
+  "evidence_quote": "DOWNLOAD PUBLICATION Select Publication ... Pub. 105 - Atlas of Pilot Charts South Atlantic Ocean, 2nd Ed. 1995 | Pub. 106 - Atlas of Pilot Charts North Atlantic Ocean (including Gulf of Mexico), 2002 Ed. | Pub. 107 - Atlas of Pilot Charts South Pacific Ocean, 2nd Ed. 1998 | Pub. 108 - ... | Pub. 109 - ... Download Publication Pages",
+  "notes": "Página reaberta em 2026-10-08 (HTTP 200) via fetcher; texto renderizado traz a seção de download. O ato de baixar o arquivo em si não foi executado (API do NGA bloqueia acesso automatizado e a interface devolveu \"There was a problem downloading the chapters\" sem navegador interativo); por isso a redação diz \"tem a seção Download Publication que lista\" e não garante o arquivo."
+ },
+ "travessia-99": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "O METEOROMARINHA é o boletim meteorológico do Serviço Meteorológico Marinho (CHM), emitido duas vezes por dia (referentes a 0000Z e 1200Z). Segundo a NORMAM-701/DHN (art. 2.3, redação da Portaria DHN/DGN/MB nº 31, de 22/06/2026), é transmitido por satélite duas vezes ao dia (Inmarsat SafetyNET II e Iridium SafetyCAST, GMDSS); também por radiotelefone, mediante solicitação, às estações da RENEC (VHF e HF, conforme a Lista de Auxílios-Rádio), por radiodados em HF e pela internet (página do CHM). Os horários 0730Z/1930Z, o satélite AOR-E e o INMARSAT-C do antigo DH8-14 não constam da redação atual.",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/NORMAM-701-DHN-MOD2.pdf",
+  "evidence_quote": "2.3. a) Satélite - transmissões dos boletins METEOROMARINHA (que incluem os avisos de mau tempo em vigor) duas vezes ao dia e dos Avisos de Mau Tempo a qualquer horário. Utilizam o Serviço Inmarsat e SafetyNET II e Iridium SafetyCAST, que compõe o sistema GMDSS ... (Redação dada pela Portaria DHN/DGN/MB Nº 31, de 22 de junho de 2026) b) Radiotelefone – transmissões dos boletins METEOROMARINHA e Avisos de Mau Tempo mediante solicitação do usuário as estações da Rede Nacional de Estações Costeiras (RENEC), utilizando os canais de chamada-fonia nas frequências em VHF e HF constantes na Lista de Auxílios-Rádio; c) Radiodados – transmissões dos METEOROMARINHA no formato de texto nas faixas de frequência em HF ... | 2.2 a) METEOROMARINHA – boletim meteorológico elaborado e emitido duas vezes por dia, referentes aos horários de 0000Z e 1200Z",
+  "notes": "NORMAM-701/DHN consolidada (MOD2, já com a redação da Portaria 31/2026) lida em 2026-10-08; Portaria 31/2026 (https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/portaria-dhn-dgn-31-2026.html) confere. A estação PWZ-33 e suas frequências não foram reconfirmadas em fonte vigente e foram removidas da redação; o Apêndice DH8-14 antigo (0730Z/1930Z, AOR-E, Inmarsat-C) fica só como histórico."
+ },
+ "tecnico-39": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Regra 19(e) do RIPEAM: exceto quando houver sido determinado que não existe risco de abalroamento, a embarcação que ouvir o sinal de cerração de outra aparentemente por ante-a-vante de seu través, ou que não possa evitar situação de grande proximidade com outra embarcação por ante-a-vante do través, deve reduzir a velocidade ao mínimo que lhe permita manter seu rumo; se necessário, retirar todo o seguimento; e, em todos os casos, navegar com extrema cautela até passar o perigo de abalroamento.",
+  "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+  "evidence_quote": "(e) Exceto quando houver sido determinado que não existe risco de abalroamento, toda embarcação que ouvir o sinal de cerração de outra aparentemente por ante-a-vante de seu través, ou que não possa evitar uma situação de grande proximidade com outra embarcação por ante-a-vante de seu través, deve reduzir sua velocidade ao mínimo que lhe permita manter seu rumo. Caso necessário, deverá retirar todo seu seguimento e em todos os casos navegar com extrema cautela até que passe o perigo de abalroamento.",
+  "notes": "Texto lido no PDF oficial da CCA-IMO (RIPEAM consolidado com emendas até dez/2013), Regra 19, p. 16. \"Mínimo de governo\" é paráfrase aceitável mas o texto oficial é \"mínimo que lhe permita manter seu rumo\"."
+ },
+ "tecnico-193": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Segundo o Manual de Navegação da Marinha do Brasil, Vol. II (1ª Revisão, 2021, cap. 16), o Almanaque Náutico Brasileiro (publicação DN 5) é editado pela DHN desde 1944 e, a partir de 1957, adotou formato idêntico ao Almanaque Náutico inglês/americano.",
+  "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "evidence_quote": "O Almanaque Náutico Brasileiro (publicação DN 5), editado pela Diretoria de Hidrografia e Navegação desde 1944, a partir de 1957 adotou um formato idêntico ao Almanaque Náutico inglês/americano.",
+  "notes": "Trecho lido no PDF oficial da DHN em 2026-10-08. A afirmação é histórica e só tem fonte primária oficial (o próprio manual); a correção apenas atribui a redação a essa fonte e data (rev. 2021), sem corroboração independente."
+ },
+ "tecnico-194": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Segundo o Manual de Navegação da Marinha do Brasil, Vol. II (1ª Revisão, 2021, cap. 28, item 28.1), os navios da MB empregam, na navegação astronômica, unicamente a \"Tábua Radler para Navegação Astronômica\", contida na publicação DN4-2 \"Tábuas para Navegação Astronômica\", da DHN.",
+  "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+  "evidence_quote": "No entanto, hoje, os navios da MB empregam, na solução do problema da navegação astronômica, unicamente, a “Tábua Radler para Navegação Astronômica”, contida na publicação DN4-2 – Tábuas para Navegação Astronômica, da DHN.",
+  "notes": "Trecho lido no PDF oficial da DHN em 2026-10-08. O \"hoje\" refere-se à data do manual (rev. 2021); não achei fonte posterior que confirme ou revogue (buscas web e páginas da DHN não citam a DN4-2), então a redação foi atribuída ao manual com a data em vez de afirmar uso atual."
+ },
+ "tecnico-209": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Na NORMAM-211, o item 4.5 (EPIRB) do Anexo 4-B (Recomendações ao Navegante) é inconsistente entre as fontes oficiais da DPC: o PDF consolidado (Portaria DPC/DGN/MB nº 200/2026) diz \"É obrigatório\", e o arquivo do Anexo 4-B do ZIP oficial de anexos diz \"É recomendável\" para embarcações que se dirijam a portos estrangeiros ou se afastem sistematicamente a mais de 100 milhas náuticas da costa. A exigência firme de EPIRB 406 MHz está no art. 4.24: embarcações de grande porte ou iate (navegação costeira ou oceânica) e de médio porte (navegação oceânica).",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "PDF consolidado, Anexo 4-B item 4.5: \"É obrigatório que as embarcações que se dirijam a portos estrangeiros, ou que se afastem, sistematicamente, a mais de 100 milhas náuticas da costa, sejam dotadas com o equipamento denominado “Rádio Baliza Indicadora de Posição em Emergência” (EPIRB-406MHz).\" | ZIP de anexos, Anexo 4-B item 4.5: \"É recomendável que as embarcações que se dirijam a portos estrangeiros, ou que se afastem, sistematicamente, a mais de 100 milhas náuticas da costa, sejam dotadas com o equipamento denominado “Rádio Baliza Indicadora de Posição em Emergência” (EPIRB-406MHz).\" | Art. 4.24.1 a) IV: \"Rádio Baliza Indicadora de Posição em Emergência (EPIRB 406 MHz).\" | Art. 4.24.2 a) III: \"Rádio Baliza Indicadora de Posição em Emergência (EPIRB 406 MHz), exigível a partir de 01/07/2006.\"",
+  "notes": "Os dois textos foram lidos no acervo local (research/acervo/normam-211.txt e research/acervo/normam211_anexos/N211 - Anexo 4-B.txt) em 2026-10-08. Não foi possível determinar qual dos dois é o mais novo; por isso o item 4.5 deve ser tratado como divergência da DPC e o ensino deve se apoiar no art. 4.24 (e na tabela com \"OBRIGATÓRIO (*)\" do PDF)."
+ },
+ "extra-fechamento-am-06": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A página da DPC \"Exame para Categoria de Capitão Amador\" (duas páginas de listagem) publica provas de CPA desde 2013 (2013: apenas \"CPA - Prova\"; 2014 a 2018: CPA-1 e CPA-2 \"Prova e Gabarito\"). Relações de aprovados aparecem em 2014 (apenas no \"Exame extra de CPA - REFENO\") e, nos exames regulares, a partir de 2018 (CPA-2); em 2015, 2016 e 2017 não há relação de aprovados.",
+  "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador?page=1",
+  "evidence_quote": "Página 2: \"2016 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito Exame extra de CPA - XIV Simpósio | 2015 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito | 2013 Exame CPA - Prova | 2014 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito Exame extra de CPA - REFENO - Prova Exame extra de CPA - REFENO - Relação dos Aprovados Exame extra de CPA - XIII Simpósio - Prova\" ; Página 1: \"2018 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito CPA-2 - Relação dos Aprovados Exame extra de CPA - XV Simpósio | 2017 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito\"",
+  "notes": "Páginas ?page=0 e ?page=1 reabertas em 2026-10-08 (o fetcher marca status 403 na segunda, mas o conteúdo oficial da listagem vem completo, com \"Página 2\"); ?page=2 vem vazia. Os verificadores anteriores divergiram porque cada um viu uma página; a redação corrigida cobre as duas. Itens \"Exame extra\" de Simpósio (2014, 2016, 2018) não têm rótulo de gabarito/aprovados na listagem. Substitui também a redação de normas-90 se for adotada."
+ },
+ "extra-fechamento-cvtr-17": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Pelo Regulamento de Radiocomunicações da UIT (edição 2024, Vol. 1, Art. 32, Nos. 32.16, 32.17 e 32.29A), a estação de navio que receba uma chamada de socorro por radiotelefonia no canal 16 do VHF (156,8 MHz) e não a veja confirmada por uma estação costeira ou por outro navio em cinco minutos deve confirmar o recebimento ao navio em perigo e usar qualquer meio disponível para retransmitir a chamada a uma estação costeira (ou estação terrena costeira) apropriada.",
+  "evidence_url": "https://www.itu.int/dms_pub/itu-r/opb/reg/R-REG-RR-2024-ZPF-E.zip",
+  "evidence_quote": "32.29A 3) Ship stations in receipt of a distress call sent by radiotelephony on the frequency 156.8 MHz (VHF channel 16) shall, if the call is not acknowledged by a coast station or another vessel within five minutes, acknowledge receipt to the vessel in distress and use any means available to relay the distress call to an appropriate coast station or coast earth station (see also Nos. 32.16 to 32.19F). (WRC-07) | 32.17 a) on receiving a distress alert or call which is not acknowledged by a coast station or another vessel within five minutes (see also Nos. 32.29A and 32.31); (WRC-07)",
+  "notes": "Texto lido no arquivo \"2400594-RR-Vol 1-E-A5.pdf\" do ZIP oficial da edição 2024 do RR (itu.int), Art. 32, mesma numeração e redação do WRC-07 (nenhuma alteração posterior). A fonte citada originalmente (itu.int/pub/R-REG-RR) é só a página de venda; usar o ZIP/PDF como evidence_url."
+ },
+ "extra-travessia-2-14": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "Na água é proibido lançar, descarregar ou depositar material poluente de qualquer espécie, seja lixo, lata ou derivados de petróleo (item 7, Poluição, do Anexo 4-B \"Recomendações ao Navegante\" da NORMAM-211/DPC).",
+  "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "evidence_quote": "ANEXO 4-B RECOMENDAÇÕES AO NAVEGANTE ... 7. POLUIÇÃO Na água, é proibido lançar, descarregar ou depositar material poluente de qualquer espécie, seja lixo, lata, ou derivados de petróleo.",
+  "notes": "Conferido no PDF consolidado (acervo normam-211.txt, seção do Anexo 4-B) e no arquivo do Anexo 4-B do ZIP oficial de anexos (item 7). O Anexo 5-F (lista de verificação) não contém essa frase (só o item 15 sobre óleo de porões e lixo)."
+ },
+ "extra-fechamento-cvtr-15": {
+  "verdict": "confirmado_com_correcao",
+  "claim_corrigida": "A página da DPC \"Exame para Categoria de Capitão Amador\" (duas páginas de listagem) publica provas de CPA desde 2013 (2013: apenas \"CPA - Prova\"; 2014 a 2018: CPA-1 e CPA-2 \"Prova e Gabarito\"). Relações de aprovados aparecem em 2014 (apenas no \"Exame extra de CPA - REFENO\") e, nos exames regulares, a partir de 2018 (CPA-2); em 2015, 2016 e 2017 não há relação de aprovados.",
+  "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador?page=1",
+  "evidence_quote": "Página 2: \"2016 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito Exame extra de CPA - XIV Simpósio | 2015 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito | 2013 Exame CPA - Prova | 2014 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito Exame extra de CPA - REFENO - Prova Exame extra de CPA - REFENO - Relação dos Aprovados Exame extra de CPA - XIII Simpósio - Prova\" ; Página 1: \"2018 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito CPA-2 - Relação dos Aprovados Exame extra de CPA - XV Simpósio | 2017 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito\"",
+  "notes": "Alinhado ao desempate de extra-fechamento-am-06 (mesma página da DPC, reaberta nas duas listagens)."
+ }
+}

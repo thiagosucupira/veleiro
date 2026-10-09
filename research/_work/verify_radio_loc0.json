@@ -1,0 +1,52 @@
+{
+ "verdicts": [
+  {
+   "id": "online-anatel-cortf",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Pagina gov.br/Anatel abre (200); texto confirma provas ORR/ORG online via SEC."
+  },
+  {
+   "id": "se-rj-west-group-gmdss",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, entidade existe, pagina do produto GMDSS - Radio Operador com preco R$3.490 (JSON-LD); busca mostra unidade Macae com GMDSS. Pagina e JS, CROG/portarias nao verificados diretamente."
+  },
+  {
+   "id": "ne-ba-jjr-solutions-salvador",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200; Salvador, Rua Miguel Calmon,19 - Comercio confere; CBSN listado."
+  },
+  {
+   "id": "ne-se-jjr-solutions-aracaju",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200; unidade Sergipe no Iate Clube de Aracaju, Treze de Julho confere. CBSP nao aparece no texto da pagina CBSN (so evidencia de lista DPC), mantido."
+  },
+  {
+   "id": "ne-pe-seaman-nautica-recife",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200; 34 h confere; Recife (Derby) confere, mas endereco no site e Rua Henrique Dias, 675, Sala 09 (evidencia dizia 422)."
+  },
+  {
+   "id": "ex-uk-rya",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "RYA site e course finder 200; entidade real."
+  },
+  {
+   "id": "ex-uk-southampton-rya-sea-survival",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte 200; entidade real, curso RYA Sea Survival, coords Southampton plausiveis."
+  },
+  {
+   "id": "ex-us-ussailing-safety-at-sea",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte 200; entidade real, Safety at Sea courses."
+  }
+ ]
+}

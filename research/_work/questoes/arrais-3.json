@@ -1,0 +1,622 @@
+{
+ "questoes": [
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 1,
+   "enunciado": "Você entra num porto brasileiro, vindo do mar. A boia da figura é cônica, encarnada, com tope em cone encarnado de vértice para cima. Em relação ao seu barco, ela deve ficar:",
+   "alternativas": [
+    "A boreste (lado direito), pois marca o limite de boreste do canal.",
+    "A bombordo (lado esquerdo), como se faz na Região A.",
+    "A boreste na enchente e a bombordo na vazante, conforme a maré.",
+    "De qualquer lado, pois a boia só indica a posição de águas seguras."
+   ],
+   "correta": 0,
+   "explicacao": "No Brasil vale a Região B: na direção convencional (a de quem vem do mar), o sinal encarnado, de forma cônica, fica a <strong>boreste</strong>. Encarnado a bombordo é a regra da Região A. A maré não troca o lado das boias, porque a direção convencional é fixa. Águas seguras têm listras verticais encarnadas e brancas, não são cônicas e encarnadas.",
+   "referencia": "Decreto nº 92.267/1986 (Região B); NORMAM-601/DHN, sinal lateral de boreste",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 200 190\" width=\"100%\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"inherit\"><title>Boia vista de frente, com a sua marca de tope</title><rect x=\"0\" y=\"0\" width=\"200\" height=\"190\" fill=\"var(--sea-1)\"/><rect x=\"0\" y=\"150\" width=\"200\" height=\"40\" fill=\"var(--sea-2)\"/><polygon points=\"70,150 130,150 100,98\" fill=\"var(--nav-red)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"98\" x2=\"100\" y2=\"84\" stroke=\"currentColor\" stroke-width=\"2.5\"/><polygon points=\"90,84 110,84 100,64\" fill=\"var(--nav-red)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path d=\"M0,150 q12,-5 25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg>"
+   }
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 2,
+   "enunciado": "Ao sair de uma barra rumo ao mar aberto, você avista à frente uma boia lateral encarnada que faz parte do canal balizado. Para seguir dentro do canal, você deve deixá-la:",
+   "alternativas": [
+    "Por boreste, com ela à sua direita, como as encarnadas ficam para quem entra.",
+    "Por bombordo, com ela à sua esquerda, pois a direção convencional é a de quem entra.",
+    "Por boreste, porque a numeração das boias se inverte na saída do canal.",
+    "De qualquer lado, pois a cor das boias só vale para quem está entrando."
+   ],
+   "correta": 1,
+   "explicacao": "A direção convencional é sempre a de quem vem do mar, e quem sai vê tudo invertido: o encarnado, que fica a boreste de quem entra, fica a <strong>bombordo</strong> de quem sai. Deixar por boreste é o erro de decorar a cor sem pensar no sentido da viagem. A numeração não se inverte (ela cresce a partir da entrada do porto), e a cor vale nos dois sentidos.",
+   "referencia": "Decreto nº 92.267/1986; NORMAM-601/DHN (direção convencional do balizamento)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 2,
+   "enunciado": "A figura mostra uma boia cardinal que marca um parcel (rochas submersas). Os dois cones pretos do tope têm os vértices unidos. Para passar com segurança, você deve ficar:",
+   "alternativas": [
+    "A leste da boia, entre ela e o parcel.",
+    "Ao norte da boia, no quadrante do cardinal norte.",
+    "A oeste da boia, no quadrante que dá nome ao sinal.",
+    "Ao sul da boia, já que um dos cones aponta para baixo."
+   ],
+   "correta": 2,
+   "explicacao": "Cones com os vértices unidos (formato de ampulheta) e corpo amarelo com faixa preta são o <strong>cardinal oeste</strong>. O nome do sinal diz o quadrante por onde passar: a oeste dele, onde a água é boa, e o perigo fica do lado oposto. Passar a leste, entre a boia e o parcel, é justamente o risco. Dois cones para cima são o norte, e dois para baixo, o sul.",
+   "referencia": "Decreto nº 92.267/1986, Anexo, item 3.1.3; NORMAM-601/DHN, sinais cardinais",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 200 190\" width=\"100%\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"inherit\"><title>Boia vista de frente, com a sua marca de tope</title><rect x=\"0\" y=\"0\" width=\"200\" height=\"190\" fill=\"var(--sea-1)\"/><rect x=\"0\" y=\"150\" width=\"200\" height=\"40\" fill=\"var(--sea-2)\"/><rect x=\"84\" y=\"88\" width=\"32\" height=\"62\" fill=\"var(--nav-yellow)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><rect x=\"84\" y=\"108\" width=\"32\" height=\"20\" fill=\"var(--ink)\"/><line x1=\"100\" y1=\"88\" x2=\"100\" y2=\"76\" stroke=\"currentColor\" stroke-width=\"2.5\"/><polygon points=\"90,76 110,76 100,62\" fill=\"var(--ink)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><polygon points=\"90,48 110,48 100,62\" fill=\"var(--ink)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path d=\"M0,150 q12,-5 25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg>"
+   }
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 2,
+   "enunciado": "À noite, perto de um parcel, você avista uma luz branca que dá seis lampejos rápidos seguidos de um lampejo longo, repetidos a cada 15 segundos. Pelas cartas, você deve passar:",
+   "alternativas": [
+    "Ao sul do sinal.",
+    "Ao norte do sinal.",
+    "A leste do sinal.",
+    "A oeste do sinal."
+   ],
+   "correta": 0,
+   "explicacao": "Seis lampejos rápidos mais um lampejo longo, R(6)+LpL 15s, são a luz do <strong>cardinal sul</strong> (as 6 horas do relógio; o lampejo longo evita confundir com os grupos de 3 e de 9). Passa-se ao sul. O norte pisca de modo contínuo, o leste dá grupos de 3 lampejos e o oeste, grupos de 9.",
+   "referencia": "NORMAM-601/DHN, sinais cardinais; Lista de Faróis (DHN)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 1,
+   "enunciado": "Pelo “relógio” dos sinais cardinais, a luz branca do cardinal leste dá, a cada ciclo, um grupo de:",
+   "alternativas": [
+    "6 lampejos, seguidos de um lampejo longo.",
+    "9 lampejos seguidos, sem lampejo longo.",
+    "Lampejos contínuos, sem formar grupo.",
+    "3 lampejos seguidos, sem lampejo longo."
+   ],
+   "correta": 3,
+   "explicacao": "O leste fica nas 3 horas do relógio: grupo de <strong>3 lampejos</strong>, R(3) a cada 10 s ou MR(3) a cada 5 s. Seis lampejos mais um longo são do sul; nove lampejos, do oeste; lampejos contínuos sem grupo, do norte.",
+   "referencia": "NORMAM-601/DHN, sinais cardinais; Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 2,
+   "enunciado": "Um casco soçobrado está assinalado na carta por uma boia como a da figura: preta, com larga faixa encarnada e duas esferas pretas no tope. Como você deve navegar perto dela?",
+   "alternativas": [
+    "Deixá-la sempre por boreste, como se faz com as demais boias encarnadas do canal.",
+    "Passar com boa folga, por qualquer lado, pois há água navegável em volta do perigo.",
+    "Passar rente a ela, pois a boia fica fundeada a boa distância do perigo que marca.",
+    "Aproximar-se para fundear ao abrigo dela, pois a boia indica águas seguras."
+   ],
+   "correta": 1,
+   "explicacao": "Preta com faixa(s) encarnada(s) e duas esferas no tope é o <strong>perigo isolado</strong>: o sinal fica sobre ou junto do perigo, e há água navegável em volta, então se passa por qualquer lado, mantendo boa distância. Não é lateral, por isso não vale a regra de boreste. Passar rente é perigoso, porque o perigo está sob a boia ou colado a ela. Águas seguras têm listras verticais encarnadas e brancas.",
+   "referencia": "Decreto nº 92.267/1986; NORMAM-601/DHN, sinal de perigo isolado",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 200 190\" width=\"100%\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"inherit\"><title>Boia vista de frente, com a sua marca de tope</title><rect x=\"0\" y=\"0\" width=\"200\" height=\"190\" fill=\"var(--sea-1)\"/><rect x=\"0\" y=\"150\" width=\"200\" height=\"40\" fill=\"var(--sea-2)\"/><rect x=\"84\" y=\"88\" width=\"32\" height=\"62\" fill=\"var(--ink)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><rect x=\"84\" y=\"108\" width=\"32\" height=\"20\" fill=\"var(--nav-red)\"/><line x1=\"100\" y1=\"88\" x2=\"100\" y2=\"70\" stroke=\"currentColor\" stroke-width=\"2.5\"/><circle cx=\"100\" cy=\"64\" r=\"8\" fill=\"var(--ink)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><circle cx=\"100\" cy=\"46\" r=\"8\" fill=\"var(--ink)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path d=\"M0,150 q12,-5 25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg>"
+   }
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 2,
+   "enunciado": "Ao se aproximar de uma barra, você vê a boia da figura: esférica, com listras verticais encarnadas e brancas e uma esfera encarnada no tope. Ela indica:",
+   "alternativas": [
+    "O limite de boreste do canal; deixe-a sempre por boreste.",
+    "Um perigo isolado; mantenha-se afastado em todas as direções.",
+    "Água navegável em todo o entorno; pode servir de ponto de aterragem.",
+    "Uma área especial de recreação; reduza e contorne-a."
+   ],
+   "correta": 2,
+   "explicacao": "Listras verticais encarnadas e brancas, com esfera encarnada no tope, são o sinal de <strong>águas seguras</strong>: há água navegável em volta, e por isso ele é usado como ponto de aterragem na entrada de barras. O limite de boreste é um sinal lateral encarnado e cônico. Perigo isolado é preto com faixa encarnada. Área especial é amarela, com X amarelo no tope.",
+   "referencia": "Decreto nº 92.267/1986; NORMAM-601/DHN, sinal de águas seguras",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 200 190\" width=\"100%\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"inherit\"><title>Boia vista de frente, com a sua marca de tope</title><rect x=\"0\" y=\"0\" width=\"200\" height=\"190\" fill=\"var(--sea-1)\"/><rect x=\"0\" y=\"150\" width=\"200\" height=\"40\" fill=\"var(--sea-2)\"/><clipPath id=\"cps\"><circle cx=\"100\" cy=\"118\" r=\"34\"/></clipPath><g clip-path=\"url(#cps)\"><rect x=\"66.0\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-red)\"/><rect x=\"74.5\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-white)\"/><rect x=\"83.0\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-red)\"/><rect x=\"91.5\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-white)\"/><rect x=\"100.0\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-red)\"/><rect x=\"108.5\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-white)\"/><rect x=\"117.0\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-red)\"/><rect x=\"125.5\" y=\"84\" width=\"8.5\" height=\"68\" fill=\"var(--nav-white)\"/></g><circle cx=\"100\" cy=\"118\" r=\"34\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"84\" x2=\"100\" y2=\"62\" stroke=\"currentColor\" stroke-width=\"2.5\"/><circle cx=\"100\" cy=\"54\" r=\"8\" fill=\"var(--nav-red)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path d=\"M0,150 q12,-5 25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg>"
+   }
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 1,
+   "enunciado": "Uma área de despejo, uma raia de banhistas e uma boia oceanográfica (ODAS) são marcadas por sinais especiais. A marca de tope desses sinais, quando existe, é:",
+   "alternativas": [
+    "Uma cruz amarela.",
+    "Um X amarelo.",
+    "Duas esferas pretas.",
+    "Um cilindro verde."
+   ],
+   "correta": 1,
+   "explicacao": "Os sinais especiais são amarelos e, quando têm tope, usam um <strong>X amarelo</strong>. A cruz amarela é do sinal de marcação de destroços (novo perigo). Duas esferas pretas são do perigo isolado, e o cilindro verde é do lateral de bombordo.",
+   "referencia": "Decreto nº 92.267/1986, Anexo (sinal especial); NORMAM-601/DHN",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 3,
+   "enunciado": "Entrando num porto, na direção convencional, você lê na carta, junto a uma boia, a característica “Lp(2+1) V 12s”. O que ela indica e o que você faz?",
+   "alternativas": [
+    "Canal preferencial a bombordo: deixar a boia por boreste e seguir pelo canal da esquerda.",
+    "Perigo isolado: deixar a boia por qualquer lado, mantendo ampla folga em volta.",
+    "Lateral comum de bombordo, sem bifurcação: o canal é único e sem outras opções.",
+    "Canal preferencial a boreste: deixar a boia por bombordo e seguir pelo canal da direita."
+   ],
+   "correta": 3,
+   "explicacao": "O grupo composto Lp(2+1) é reservado ao canal preferencial. Com luz <strong>verde</strong>, trata-se do sinal de bombordo modificado (verde com larga faixa encarnada): o canal preferencial é o de boreste, e a boia é deixada por bombordo. O preferencial a bombordo teria luz encarnada. Perigo isolado usa luz branca Lp(2). E um lateral comum não pode usar o ritmo Lp(2+1).",
+   "referencia": "NORMAM-601/DHN, Cap. 3 (canal preferencial); Miguens, Navegação, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 1,
+   "enunciado": "Num canal de acesso a um porto brasileiro, uma boia lateral traz o número 7. Pelo balizamento do Brasil, ela é:",
+   "alternativas": [
+    "Encarnada, a boreste de quem entra.",
+    "Verde, a bombordo de quem entra.",
+    "Encarnada, a bombordo de quem entra.",
+    "Verde, a boreste de quem entra."
+   ],
+   "correta": 0,
+   "explicacao": "No Brasil, os sinais encarnados levam números <strong>ímpares</strong> e os verdes, números pares, em ordem crescente a partir da entrada do porto. O encarnado fica a boreste de quem entra. Verde com número ímpar não existe no sistema; encarnada a bombordo e verde a boreste são a Região A.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 13; NORMAM-601/DHN",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 3,
+   "enunciado": "Você desce um rio largo, que não deságua em baía, enseada ou estuário marítimo, balizado com sinais laterais. Uma boia lateral encarnada deve ficar:",
+   "alternativas": [
+    "A boreste, porque as encarnadas ficam sempre a boreste, em qualquer sentido de viagem.",
+    "A boreste, porque nos rios a direção convencional é a de quem desce, da nascente para a foz.",
+    "A bombordo, pois descer o rio é seguir contra a direção convencional (foz para a nascente).",
+    "A bombordo, porque nos rios as cores laterais da Região B passam a ser invertidas."
+   ],
+   "correta": 2,
+   "explicacao": "Num rio que não está ligado a baía, enseada ou estuário, a direção convencional é <strong>da foz para a nascente</strong> (de quem sobe). Quem desce segue no sentido contrário, então o encarnado, que fica a boreste de quem sobe, fica a bombordo de quem desce. As cores não mudam nos rios; o que muda é o lado em relação a quem navega. E a direção convencional não é a de quem desce.",
+   "referencia": "NORMAM-601/DHN, Cap. 2 (direção convencional); Decreto nº 92.267/1986",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 2,
+   "enunciado": "Um banco de areia formado há pouco ainda não consta das cartas e foi sinalizado como novo perigo. Para reforçar o aviso ao navegante, a NORMAM-601 prevê que pelo menos um dos sinais usados seja:",
+   "alternativas": [
+    "Substituído por um farol de alcance mínimo de 20 milhas.",
+    "Duplicado, com um sinal idêntico ao seu par.",
+    "Dotado de luz encarnada fixa, para ser visto de longe.",
+    "Posicionado a 1 milha do perigo, para não ser abalroado."
+   ],
+   "correta": 1,
+   "explicacao": "Um novo perigo é marcado com sinais laterais, cardinais, de perigo isolado ou especiais, e pelo menos um deles deve ser <strong>duplicado</strong>, com um sinal idêntico ao seu par, para dar mais destaque. A luz usa ritmo rápido (R) ou muito rápido (MR), não luz fixa. Farol com alcance mínimo não é exigência. E o sinal deve ficar junto do perigo; a 1 milha ele deixaria de o marcar.",
+   "referencia": "NORMAM-601/DHN, Cap. 3 (novos perigos)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html"
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 3,
+   "enunciado": "Numa bifurcação, ao entrar no porto, você vê a boia da figura: cônica, encarnada, com larga faixa horizontal verde e tope em cone encarnado. Qual é a decisão correta?",
+   "alternativas": [
+    "Deixá-la por bombordo e seguir pelo canal preferencial, que fica à direita dela.",
+    "Deixá-la por boreste e seguir pelo canal da direita, que é o preferencial.",
+    "Deixá-la por boreste e seguir pelo canal preferencial, que fica à esquerda dela.",
+    "Tratá-la como perigo isolado e contorná-la com ampla folga em volta."
+   ],
+   "correta": 2,
+   "explicacao": "Encarnada com larga faixa verde é o sinal de boreste modificado: <strong>canal preferencial a bombordo</strong>. A cor predominante (encarnada) diz como tratar o sinal, que é deixado por boreste, e a faixa verde avisa que o canal preferencial é o da esquerda. Deixá-la por bombordo ou seguir pela direita inverte a leitura. Perigo isolado é preto com faixa encarnada e duas esferas no tope.",
+   "referencia": "NORMAM-601/DHN, Cap. 3 (canal preferencial); Miguens, Navegação, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 200 190\" width=\"100%\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"inherit\"><title>Boia vista de frente, com a sua marca de tope</title><rect x=\"0\" y=\"0\" width=\"200\" height=\"190\" fill=\"var(--sea-1)\"/><rect x=\"0\" y=\"150\" width=\"200\" height=\"40\" fill=\"var(--sea-2)\"/><clipPath id=\"cpc\"><polygon points=\"70,150 130,150 100,98\"/></clipPath><polygon points=\"70,150 130,150 100,98\" fill=\"var(--nav-red)\"/><g clip-path=\"url(#cpc)\"><rect x=\"60\" y=\"122\" width=\"80\" height=\"14\" fill=\"var(--nav-green)\"/></g><polygon points=\"70,150 130,150 100,98\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"98\" x2=\"100\" y2=\"84\" stroke=\"currentColor\" stroke-width=\"2.5\"/><polygon points=\"90,84 110,84 100,64\" fill=\"var(--nav-red)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path d=\"M0,150 q12,-5 25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0 t25,0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg>"
+   }
+  },
+  {
+   "tema": "Balizamento IALA B",
+   "dificuldade": 3,
+   "enunciado": "A Lista de Faróis dá o alcance geográfico pela fórmula D = 1,927 × (√H + √h), com D em milhas e H e h em metros. Um farol tem altitude de 64 m e o seu olho, numa lancha, está a 1 m acima da água. A que distância, aproximadamente, a luz aparece no horizonte?",
+   "alternativas": [
+    "9,0 milhas.",
+    "17,3 milhas.",
+    "16,4 milhas.",
+    "125,3 milhas."
+   ],
+   "correta": 1,
+   "explicacao": "D = 1,927 × (√64 + √1) = 1,927 × (8 + 1) = 1,927 × 9 ≈ <strong>17,3 milhas</strong>. 9,0 milhas esquece de multiplicar pelo fator 1,927. 16,4 milhas multiplica só a raiz da altitude (1,927 × 8 + 1). 125,3 milhas soma as alturas sem tirar a raiz (1,927 × 65).",
+   "referencia": "Lista de Faróis (DHN/CHM), Introdução: alcance geográfico, D = 1,927(√H + √h)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro navega a 6 nós, constantes e sem corrente. Quantas milhas náuticas ele percorre em 2 horas e 30 minutos?",
+   "alternativas": [
+    "12 milhas.",
+    "15 milhas.",
+    "13,8 milhas.",
+    "18 milhas."
+   ],
+   "correta": 1,
+   "explicacao": "Um nó é uma milha náutica por hora. Em 2 h 30 min = 2,5 h: 6 × 2,5 = <strong>15 milhas</strong>. 12 milhas são só 2 horas; 18 milhas são 3 horas; 13,8 milhas tratam “2 h 30” como 2,30 hora (6 × 2,3), mas 30 minutos são 0,5 hora.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (velocidade em nós; 1 nó = 1 milha por hora)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 2,
+   "enunciado": "Em cruzeiro a motor, com o acelerador na mesma posição, o tacômetro mostra a rotação caindo aos poucos e o barco perde velocidade. Qual é a causa mais provável?",
+   "alternativas": [
+    "Cabo ou rede enrolado no hélice, aumentando a carga sobre o motor.",
+    "Cracas na roda de pás do odômetro, que acabam freando o barco e o motor.",
+    "Bateria do GNSS fraca, que acaba tirando potência do motor de propulsão.",
+    "Desvio da agulha magnética, que reduz a rotação em certas proas do barco."
+   ],
+   "correta": 0,
+   "explicacao": "O tacômetro mostra as rpm do motor. Com o acelerador parado, rpm caindo indicam <strong>carga extra</strong> no motor, como um cabo ou uma rede presos no hélice, o casco muito sujo ou sobrecarga. Cracas na roda de pás só fazem o odômetro marcar menos, sem frear o barco. O GNSS não alimenta nem afeta o motor. O desvio da agulha altera o rumo lido, não a rotação.",
+   "referencia": "Miguens, Navegação, vol. I; NORMAM-211, Anexo 5-A, 3.1 c) (tacômetro)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 2,
+   "enunciado": "Num dia de calmaria total (vento verdadeiro zero), você segue a motor a 8 nós. O anemômetro do tope, sem correção eletrônica, vai marcar aproximadamente:",
+   "alternativas": [
+    "Zero, pois não há vento verdadeiro.",
+    "8 nós, vindos de popa, pois o vento acompanha o barco.",
+    "8 nós, vindos de proa, causados pelo movimento do barco.",
+    "16 nós, somando a velocidade do barco e a do ar."
+   ],
+   "correta": 2,
+   "explicacao": "O anemômetro está preso ao barco e mede o <strong>vento aparente</strong>: a soma do vento verdadeiro com o “vento” criado pelo próprio movimento, que sempre vem da proa. Sem vento verdadeiro, resta 8 nós de proa. O zero ignora o movimento do barco. O vento do movimento não vem de popa. E 16 nós dobrariam a conta, porque o ar está parado e só o barco se move.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45 (anemômetros, vento aparente)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 3,
+   "enunciado": "Faltam 12 milhas até o fundeadouro. O odômetro marca 4,5 nós, mas o GNSS mostra SOG de 6,0 nós, no mesmo rumo. Pelo GNSS, qual é o tempo restante e a explicação da diferença?",
+   "alternativas": [
+    "2 horas e 40 minutos; corrente de cerca de 1,5 nó a favor.",
+    "2 horas; corrente de cerca de 1,5 nó contra.",
+    "2 horas e 40 minutos; corrente de cerca de 1,5 nó contra.",
+    "2 horas; corrente de cerca de 1,5 nó a favor."
+   ],
+   "correta": 3,
+   "explicacao": "O tempo até chegar depende da velocidade sobre o fundo: 12 ÷ 6,0 = <strong>2 horas</strong>. O odômetro mede a velocidade na água (4,5 nós) e o GNSS, sobre o fundo (6,0 nós); como o barco anda mais sobre o fundo do que na água, a água o empurra: 6,0 − 4,5 = 1,5 nó de corrente <strong>a favor</strong>. As duas respostas com 2 h 40 min usam o odômetro (12 ÷ 4,5), e as com corrente contra invertem o sinal.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, item 11.3 (odômetros) e vol. III (GNSS)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 2,
+   "enunciado": "O transdutor do ecobatímetro de um barco fica 0,4 m abaixo da linha d’água e o aparelho não tem ajuste (offset). Ele marca 2,6 m. O barco cala 1,5 m. Qual é a folga sob a quilha?",
+   "alternativas": [
+    "0,7 m.",
+    "1,1 m.",
+    "1,5 m.",
+    "4,5 m."
+   ],
+   "correta": 2,
+   "explicacao": "Sem ajuste, a leitura vai do transdutor ao fundo. A profundidade total é 2,6 + 0,4 = 3,0 m, e a folga é 3,0 − 1,5 = <strong>1,5 m</strong>. 1,1 m ignora o transdutor (2,6 − 1,5). 0,7 m subtrai o transdutor em vez de somá-lo (2,6 − 0,4 − 1,5). 4,5 m soma o calado em vez de subtraí-lo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, item 11.5.2 (ecobatímetro)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante cai da lancha em movimento. Logo depois de gritar “homem ao mar!”, qual função do GNSS você deve acionar para marcar o ponto da queda?",
+   "alternativas": [
+    "A criação de uma rota até o próximo porto.",
+    "O zeramento do odômetro parcial, para medir o retorno.",
+    "O alarme de fundeio, que avisa quando o barco garra.",
+    "O botão MOB (homem ao mar), que grava a posição na hora."
+   ],
+   "correta": 3,
+   "explicacao": "O botão <strong>MOB</strong> do GNSS grava a posição no instante em que é apertado e permite voltar ao ponto da queda. Criar rota para o porto não marca nada. Zerar o odômetro parcial apaga um dado em vez de gravar a posição. O alarme de fundeio serve para barcos parados e só avisa que o barco se moveu.",
+   "referencia": "Miguens, Navegação, vol. III (navegação eletrônica); NORMAM-211, Anexo 5-A, 3.1 c) e a) II)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante prende, no pedestal ao lado da agulha de governo, uma caixa de som portátil com ímã forte. O que isso provoca?",
+   "alternativas": [
+    "Desvio da agulha: o ímã atrai a rosa e o rumo lido fica errado.",
+    "Nada, pois a agulha magnética só responde ao norte verdadeiro da carta.",
+    "Mudança da declinação magnética do local onde o barco navega.",
+    "Erro apenas na velocidade lida no odômetro do barco."
+   ],
+   "correta": 0,
+   "explicacao": "Ímãs, ferros e aparelhos perto da agulha causam <strong>desvio</strong>: a rosa é atraída por eles e o rumo lido deixa de coincidir com o norte magnético. A agulha responde ao campo magnético, não ao norte verdadeiro. A declinação depende do lugar e do ano, não de objetos a bordo. O odômetro não tem relação com a agulha.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 3 (agulhas magnéticas)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Instrumentos",
+   "dificuldade": 2,
+   "enunciado": "Depois de meses parado na marina, um veleiro sai com o odômetro de roda de pás marcando 3,0 nós, enquanto o GNSS mostra 5,0 nós de SOG. Não há corrente no local, e o barco segue na mesma proa. A causa mais provável é:",
+   "alternativas": [
+    "Datum do GNSS diferente do da carta, o que muda a velocidade lida.",
+    "Cracas ou algas travando a roda de pás, que gira devagar.",
+    "Declinação magnética do local, que reduz a velocidade na água do barco.",
+    "Desvio da agulha magnética, que reduz a velocidade na água do barco."
+   ],
+   "correta": 1,
+   "explicacao": "Sem corrente, a velocidade na água e a velocidade sobre o fundo devem ser iguais. Se o odômetro marca bem menos, ele está <strong>lendo errado</strong>: a roda de pás suja de cracas ou algas gira devagar. É preciso limpar o sensor e calibrar. O datum desloca posições na carta, mas não muda a velocidade. Declinação e desvio afetam o rumo da agulha, não a velocidade.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, item 11.3.1 (odômetros)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "Qual instrumento mede a pressão atmosférica, e em que unidade ela é lida?",
+   "alternativas": [
+    "Anemômetro, em nós (kt).",
+    "Termômetro, em graus Celsius (°C).",
+    "Barômetro, em hectopascais (hPa).",
+    "Ecobatímetro, em metros (m)."
+   ],
+   "correta": 2,
+   "explicacao": "A pressão do ar é medida pelo <strong>barômetro</strong>, em hectopascais (hPa). O anemômetro mede a velocidade do vento (nós); o termômetro, a temperatura; o ecobatímetro, a profundidade (metros).",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "Numa carta sinótica, isóbaras muito próximas umas das outras indicam:",
+   "alternativas": [
+    "Vento forte, pois a pressão varia muito em pouca distância.",
+    "Calmaria, pois as pressões se igualam em toda a região.",
+    "Nevoeiro, em qualquer época do ano e em qualquer região.",
+    "Maré de sizígia, com preamares mais altas na região."
+   ],
+   "correta": 0,
+   "explicacao": "As isóbaras ligam pontos de mesma pressão. Quando estão <strong>juntas</strong>, a pressão muda muito em pouca distância e o vento é forte. Calmaria aparece com isóbaras bem espaçadas. O nevoeiro depende de umidade e temperatura, não do espaçamento das isóbaras. A maré de sizígia depende de Sol e Lua, não da pressão.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 1,
+   "enunciado": "Qual destas combinações indica tendência de PIORA do tempo?",
+   "alternativas": [
+    "Barômetro subindo continuamente, com a base das nuvens subindo.",
+    "Barômetro caindo rápido e sem parar, com cirrus engrossando e baixando.",
+    "Barômetro estável e céu abrindo aos poucos.",
+    "Vento passando a soprar de SW depois da frente fria, com pressão subindo."
+   ],
+   "correta": 1,
+   "explicacao": "Queda rápida e contínua do barômetro, com nuvens altas (cirrus) engrossando e baixando, é sinal clássico de <strong>mau tempo chegando</strong>. Barômetro subindo, estável ou subindo depois da passagem da frente indicam melhora ou tempo firme.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, Tabela 45.8 (sinais de bordo)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "O Serviço Meteorológico Marinho emite aviso de mau tempo quando é prevista, entre outras condições:",
+   "alternativas": [
+    "Visibilidade de 1 km ou menos.",
+    "Vento de 20 nós (força 5) com mar de 2 m.",
+    "Ondas de 2 m em águas profundas, com vento de 15 nós.",
+    "Chuva fraca, com vento força 4 e visibilidade de 5 km."
+   ],
+   "correta": 0,
+   "explicacao": "Os critérios do CHM são: vento de força 7 ou mais (28 nós ou mais), ondas de 3 m ou mais em águas profundas, <strong>visibilidade de 1 km ou menos</strong> ou ressaca com ondas de 2,5 m ou mais na costa. Vento de 20 nós é força 5; ondas de 2 m ficam abaixo de 3 m; e vento força 4 com chuva fraca e 5 km de visibilidade não atinge nenhum limite.",
+   "referencia": "CHM, Serviços Radiometeorológicos de Apoio ao Navegante (critérios do aviso de mau tempo)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Você está fundeado numa enseada aberta para o sul, com vento NW fraco. O Meteoromarinha informa que uma frente fria passa durante a noite, e o barômetro já começou a cair. A melhor decisão é:",
+   "alternativas": [
+    "Ficar onde está, pois o vento NW é fraco e a frente fria só deve trazer chuva à noite.",
+    "Mudar para um abrigo protegido de N e NW, que é de onde o vento sopra agora.",
+    "Mudar, ainda de dia, para um abrigo protegido de S e SW, de onde o vento vai soprar.",
+    "Sair para o mar aberto durante a noite, onde as vagas da frente fria são menores."
+   ],
+   "correta": 2,
+   "explicacao": "Na passagem da frente fria o vento <strong>ronda de NW para SW</strong>, com rajadas, e a enseada aberta ao sul ficaria exposta ao vento e ao mar. Por isso a escolha é um abrigo protegido de S e SW. Ficar esperando é apostar que a frente não traz vento forte. Abrigar-se do vento de agora (NW) deixa o barco desprotegido do vento que vem depois. E o mar aberto, com a frente passando, é pior que um abrigo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 45.4 (frentes frias)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Num trecho de litoral em que o mar fica a leste e a terra a oeste, num dia quente de verão, a brisa marítima da tarde sopra de:",
+   "alternativas": [
+    "Oeste, da terra para o mar.",
+    "Norte, paralela à praia.",
+    "Sul, acompanhando a linha d’água.",
+    "Leste, do mar para a terra."
+   ],
+   "correta": 3,
+   "explicacao": "De dia a terra esquenta mais que o mar, o ar sobe sobre a terra e o ar mais fresco do mar vem ocupar o lugar: a <strong>brisa marítima</strong> sopra do mar para a terra. Como o mar está a leste, ela vem de leste. A direção do vento é sempre a de onde ele vem. O vento de oeste, da terra para o mar, é o terral, que sopra à noite e é mais fraco. A brisa não corre paralela à praia.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 45.5.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "No fim de uma tarde quente de verão, sobre a serra à frente, uma nuvem escura em forma de torre (cumulonimbus) cresce depressa e já se ouvem trovões. Qual é a atitude mais segura?",
+   "alternativas": [
+    "Reduzir o pano, vestir os coletes e buscar abrigo antes que cheguem as rajadas.",
+    "Manter o rumo e o pano, pois as rajadas só chegam depois da chuva.",
+    "Atravessar a nuvem em velocidade máxima, pois a trovoada passa em minutos.",
+    "Ficar em pé no cockpit, junto ao mastro, para vigiar os raios."
+   ],
+   "correta": 0,
+   "explicacao": "Trovoadas nascem em cumulonimbus e trazem <strong>rajadas fortes e mudança brusca de vento antes da chuva</strong>, além de raios. O certo é reduzir o pano, vestir os coletes e procurar abrigo antes. Esperar a chuva é ser surpreendido pela rajada. Atravessar a nuvem em velocidade expõe o barco ao pior do vento e do mar. E ficar em pé junto ao mastro é a posição mais exposta a raios.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45 (trovoadas)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 3,
+   "enunciado": "Na passagem de uma frente fria pelo litoral do Sudeste, o vento ronda de NW para SW. Visto na rosa dos ventos, esse giro é no sentido:",
+   "alternativas": [
+    "Horário (de 315° para 225°, passando por N, E e S).",
+    "Anti-horário (de 315° para 225°, passando por W).",
+    "Horário, porque no Hemisfério Sul os ventos giram sempre assim.",
+    "Nenhum: a frente fria só aumenta a intensidade do vento."
+   ],
+   "correta": 1,
+   "explicacao": "De NW (315°) para SW (225°) o vento passa por W (270°): o giro mais curto é <strong>anti-horário</strong>. Para ser horário, teria de dar uma volta de 270° por N, E e S. A circulação em volta de uma baixa no Hemisfério Sul é horária, mas isso não significa que o vento ronde sempre no sentido horário num ponto. E a passagem da frente fria tem, justamente, a mudança de direção, além do aumento do vento.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, item 45.4 (passagem de frente fria)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Meteorologia",
+   "dificuldade": 2,
+   "enunciado": "Na costa Sul e Sudeste, o ar quente e úmido que passa sobre águas frias forma um nevoeiro do tipo:",
+   "alternativas": [
+    "De radiação.",
+    "De vapor (“fumaça do mar”).",
+    "De advecção.",
+    "Orográfico."
+   ],
+   "correta": 2,
+   "explicacao": "O nevoeiro de <strong>advecção</strong> aparece quando ar quente e úmido se desloca sobre uma superfície fria, esfria e condensa. O de radiação se forma em noites calmas e claras, quando o solo e a água esfriam, e é comum em rios e vales. O de vapor aparece quando ar muito frio passa sobre água mais quente. O orográfico depende do ar subindo uma serra.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 45 (nevoeiros)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 1,
+   "enunciado": "A tábua dá preamar de 2,6 m às 04h10 e baixa-mar de 0,4 m às 10h20. A amplitude dessa maré é de:",
+   "alternativas": [
+    "2,2 m.",
+    "1,5 m.",
+    "2,6 m.",
+    "3,0 m."
+   ],
+   "correta": 0,
+   "explicacao": "Amplitude é a diferença de altura entre a preamar e a baixa-mar: 2,6 − 0,4 = <strong>2,2 m</strong>. 1,5 m é a média das duas alturas. 2,6 m é só a altura da preamar. 3,0 m soma as alturas em vez de subtrair.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10 (marés)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 1,
+   "enunciado": "Hoje a baixa-mar da manhã ocorreu às 06h10 num porto de maré semidiurna. Como o dia lunar tem cerca de 24 h 50 min, a baixa-mar da manhã de amanhã será por volta de:",
+   "alternativas": [
+    "05h20.",
+    "07h00.",
+    "06h10.",
+    "07h50."
+   ],
+   "correta": 1,
+   "explicacao": "A maré se atrasa cerca de <strong>50 minutos por dia</strong>: 06h10 + 50 min = 07h00. 05h20 adianta a maré em vez de atrasar. 06h10 supõe que a maré se repete a cada 24 horas exatas. 07h50 atrasa 1 h 40 min, o dobro do certo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, item 10.1 (dia lunar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 1,
+   "enunciado": "Junto à preamar e à baixa-mar há um breve período em que o nível quase não sobe nem desce. Ele é chamado de:",
+   "alternativas": [
+    "Estofo da maré.",
+    "Enchente da maré.",
+    "Vazante da maré.",
+    "Sizígia da maré."
+   ],
+   "correta": 0,
+   "explicacao": "O período em que o nível fica praticamente parado, na preamar ou na baixa-mar, é o <strong>estofo</strong>. Enchente é quando o nível sobe e vazante é quando desce. Sizígia é a fase da Lua (Nova ou Cheia) em que as marés têm maior amplitude.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10 (marés)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "A carta indica sondagem de 1,5 m num canal. Pela tábua, no horário em que você vai passar, a altura da maré é de 2,1 m. O barco cala 2,2 m. A folga sob a quilha nesse horário será de:",
+   "alternativas": [
+    "0,6 m.",
+    "3,6 m.",
+    "5,8 m.",
+    "1,4 m."
+   ],
+   "correta": 3,
+   "explicacao": "Profundidade = sondagem + altura da maré = 1,5 + 2,1 = 3,6 m. Folga = profundidade − calado = 3,6 − 2,2 = <strong>1,4 m</strong>. 0,6 m esquece a maré do cálculo (2,1 − 1,5). 3,6 m é a profundidade, não a folga. 5,8 m soma o calado em vez de subtrair.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10 (profundidade = sondagem + altura da maré)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "A figura mostra a curva da maré de um dia num porto. Pela curva, a primeira baixa-mar do dia ocorre:",
+   "alternativas": [
+    "Às 09h00, com altura de 0,5 m.",
+    "Às 03h00, com altura de 2,5 m.",
+    "Às 06h00, com altura de 1,5 m.",
+    "Às 09h00, com altura de 2,5 m."
+   ],
+   "correta": 0,
+   "explicacao": "A baixa-mar é o ponto mais baixo da curva. Na figura, ele está em <strong>09h00, com 0,5 m</strong>. As 03h00 e 2,5 m são a primeira preamar. As 06h00 e 1,5 m são um ponto no meio da vazante, com o nível entre a preamar e a baixa-mar. A combinação 09h00 e 2,5 m não existe na curva: nessa hora o nível está no mínimo.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10 (curva de maré)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 360 215\" width=\"100%\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"inherit\"><title>Curva de maré de um dia: altura em metros ao longo das 24 horas</title><rect x=\"0\" y=\"0\" width=\"360\" height=\"215\" fill=\"var(--sea-1)\"/><g stroke=\"currentColor\" stroke-width=\"0.6\" opacity=\"0.45\"><line x1=\"40\" y1=\"180\" x2=\"340\" y2=\"180\"/><line x1=\"40\" y1=\"130\" x2=\"340\" y2=\"130\"/><line x1=\"40\" y1=\"80\" x2=\"340\" y2=\"80\"/><line x1=\"40\" y1=\"30\" x2=\"340\" y2=\"30\"/><line x1=\"40.0\" y1=\"30\" x2=\"40.0\" y2=\"180\"/><line x1=\"77.5\" y1=\"30\" x2=\"77.5\" y2=\"180\"/><line x1=\"115.0\" y1=\"30\" x2=\"115.0\" y2=\"180\"/><line x1=\"152.5\" y1=\"30\" x2=\"152.5\" y2=\"180\"/><line x1=\"190.0\" y1=\"30\" x2=\"190.0\" y2=\"180\"/><line x1=\"227.5\" y1=\"30\" x2=\"227.5\" y2=\"180\"/><line x1=\"265.0\" y1=\"30\" x2=\"265.0\" y2=\"180\"/><line x1=\"302.5\" y1=\"30\" x2=\"302.5\" y2=\"180\"/><line x1=\"340.0\" y1=\"30\" x2=\"340.0\" y2=\"180\"/></g><g font-size=\"11\" fill=\"currentColor\" text-anchor=\"end\"><text x=\"35\" y=\"184\">0 m</text><text x=\"35\" y=\"134\">1 m</text><text x=\"35\" y=\"84\">2 m</text><text x=\"35\" y=\"34\">3 m</text></g><g font-size=\"11\" fill=\"currentColor\" text-anchor=\"middle\"><text x=\"40.0\" y=\"198\">00h</text><text x=\"77.5\" y=\"198\">03h</text><text x=\"115.0\" y=\"198\">06h</text><text x=\"152.5\" y=\"198\">09h</text><text x=\"190.0\" y=\"198\">12h</text><text x=\"227.5\" y=\"198\">15h</text><text x=\"265.0\" y=\"198\">18h</text><text x=\"302.5\" y=\"198\">21h</text><text x=\"340.0\" y=\"198\">24h</text></g><polyline points=\"40.0,105.0 46.2,92.1 52.5,80.0 58.8,69.6 65.0,61.7 71.2,56.7 77.5,55.0 83.8,56.7 90.0,61.7 96.2,69.6 102.5,80.0 108.8,92.1 115.0,105.0 121.2,117.9 127.5,130.0 133.8,140.4 140.0,148.3 146.2,153.3 152.5,155.0 158.8,153.3 165.0,148.3 171.2,140.4 177.5,130.0 183.8,117.9 190.0,105.0 196.2,92.1 202.5,80.0 208.8,69.6 215.0,61.7 221.2,56.7 227.5,55.0 233.8,56.7 240.0,61.7 246.2,69.6 252.5,80.0 258.8,92.1 265.0,105.0 271.2,117.9 277.5,130.0 283.8,140.4 290.0,148.3 296.2,153.3 302.5,155.0 308.8,153.3 315.0,148.3 321.2,140.4 327.5,130.0 333.8,117.9 340.0,105.0\" fill=\"none\" stroke=\"var(--magenta)\" stroke-width=\"2.5\"/></svg>"
+   }
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 3,
+   "enunciado": "Num porto de maré semidiurna, a preamar ocorre às 22h40 de hoje. Considerando o intervalo de cerca de 12 h 25 min entre duas preamares, a primeira preamar de amanhã será por volta de:",
+   "alternativas": [
+    "10h15.",
+    "10h40.",
+    "11h05.",
+    "23h30."
+   ],
+   "correta": 2,
+   "explicacao": "Em maré semidiurna, as preamares se repetem a cada cerca de 12 h 25 min: 22h40 + 12 h 25 min = 35h05, isto é, <strong>11h05 de amanhã</strong>. 10h15 é a preamar anterior (22h40 − 12 h 25 min), que ocorre ainda hoje. 10h40 usa 12 horas exatas. 23h30 é a segunda preamar de amanhã (22h40 + 24 h 50 min), não a primeira.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10 (maré semidiurna e dia lunar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 3,
+   "enunciado": "Pela tábua, a baixa-mar é de 0,4 m às 06h00 e a preamar seguinte é de 2,8 m às 12h00. Num baixio, a sondagem da carta é de 1,2 m e o barco cala 1,5 m. Pela regra dos doze avos, qual será a folga sob a quilha às 08h00?",
+   "alternativas": [
+    "0,3 m.",
+    "0,7 m.",
+    "1,3 m.",
+    "2,2 m."
+   ],
+   "correta": 1,
+   "explicacao": "Amplitude = 2,8 − 0,4 = 2,4 m, e cada doze avos vale 0,2 m. Em 2 horas a maré sobe 1/12 + 2/12 = 3/12 = 0,6 m, e a altura às 08h00 é 0,4 + 0,6 = 1,0 m. Profundidade = 1,2 + 1,0 = 2,2 m, e a folga é 2,2 − 1,5 = <strong>0,7 m</strong>. 0,3 m esquece a altura da baixa-mar. 1,3 m usa a metade do tempo (6/12). 2,2 m é a profundidade, não a folga.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 10; regra dos doze avos (Manual de Navegação, DHN)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 3,
+   "enunciado": "Você vai fundear numa enseada onde a sondagem da carta é de 3,0 m. Agora a altura da maré é de 1,0 m, e a preamar, daqui a 2 horas, será de 2,6 m. A proa fica 1 m acima da água. Com cabo e filame de 5 vezes a profundidade na preamar, contada da proa até o fundo, quantos metros de cabo largar?",
+   "alternativas": [
+    "15 m.",
+    "25 m.",
+    "28 m.",
+    "33 m."
+   ],
+   "correta": 3,
+   "explicacao": "Na preamar, a profundidade é 3,0 + 2,6 = 5,6 m; somando a proa a 1 m da água, são 6,6 m. Filame = 5 × 6,6 = <strong>33 m</strong>. 15 m ignora a maré e a proa (5 × 3,0). 25 m usa a altura de agora, não a da preamar (5 × (3,0 + 1,0 + 1,0)). 28 m esquece de contar a altura da proa (5 × 5,6). Como a maré vai subir, o filame deve ser calculado para a preamar.",
+   "referencia": "Miguens, Navegação, vol. I, cap. 10; Arrais-Amador, fundeio (filame de 5 a 7 vezes com cabo)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 3,
+   "enunciado": "Um baixio tem sondagem de 0,8 m na carta. O barco cala 1,6 m e você quer pelo menos 0,4 m de folga. Pela tábua, a baixa-mar é de 0,2 m às 05h00 e a preamar seguinte é de 2,6 m às 11h00. Pela regra dos doze avos, qual é o primeiro horário cheio em que a passagem atende à folga?",
+   "alternativas": [
+    "06h00.",
+    "07h00.",
+    "08h00.",
+    "09h00."
+   ],
+   "correta": 2,
+   "explicacao": "É preciso profundidade de 1,6 + 0,4 = 2,0 m, ou seja, altura de maré de pelo menos 2,0 − 0,8 = 1,2 m. Amplitude = 2,4 m, e cada doze avos vale 0,2 m. Às 07h00 (2 horas depois da BM) a altura é 0,2 + 0,6 = 0,8 m: não basta (folga zero). Às <strong>08h00</strong> (3 horas), a altura é 0,2 + 1,2 = 1,4 m: atende. 06h00 e 07h00 ainda têm maré baixa demais. 09h00 também passa, mas não é o primeiro horário.",
+   "referencia": "Miguens, Navegação, vol. I, cap. 10; regra dos doze avos (Manual de Navegação, DHN)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  }
+ ]
+}

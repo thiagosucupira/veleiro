@@ -1,0 +1,208 @@
+{
+ "verdicts": [
+  {
+   "id": "taxas-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpma/node/123",
+   "notes": "Página CPMA node/123 diz exatamente isso, com horários de chegada."
+  },
+  {
+   "id": "taxas-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.4.1 a)-f) lista identidade, CPF, residência, GRU, atestado médico e, para ARA, atestado de treinamento; autenticação no local permitida."
+  },
+  {
+   "id": "taxas-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.4.1 e) diz que o atestado é dispensável com CNH dentro da validade."
+  },
+  {
+   "id": "taxas-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.4.1 f) exige firma em cartório ou assinatura gov.br de representante da ETN, instrutor e aluno (anexo 5-E)."
+  },
+  {
+   "id": "taxas-39",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-E",
+   "notes": "Obs. 1 do Anexo 5-E traz validade nacional de 2 anos e o campo diz mínimo de seis horas (confirmado no texto local)."
+  },
+  {
+   "id": "taxas-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.4.1 Notas exige ARA válida para MSA e MSA válida para CPA no ato da inscrição."
+  },
+  {
+   "id": "taxas-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.4.2 a) confere; há exceção excepcional para analfabeto em ARA em local remoto, mas a afirmação descreve a regra geral."
+  },
+  {
+   "id": "taxas-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.8 veda CHA por equivalência a habilitação estrangeira e manda iniciar por ARA."
+  },
+  {
+   "id": "taxas-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "notes": "Anexo 5-A item 1.b: 40 questões, máximo de quatro horas."
+  },
+  {
+   "id": "taxas-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "notes": "Anexo 5-A item 2.c: 40 questões, quatro com carta náutica, máximo três horas."
+  },
+  {
+   "id": "taxas-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "notes": "Anexo 5-A item 3.b: 40 questões, máximo duas horas."
+  },
+  {
+   "id": "taxas-46",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "notes": "Itens 1.c, 2.d e 3.c: valor máximo 10,0 e aprovação com pelo menos 5,0."
+  },
+  {
+   "id": "taxas-47",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "notes": "Itens 1.e e 1.f: DPC divulga programação, prova/gabarito e aprovados; revisão em até 7 dias úteis por requerimento à OM da inscrição."
+  },
+  {
+   "id": "taxas-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Página DPC lista exames CPA de 2017 a 2026, incluindo CPA-II 2026 Gabarito Preliminar (verificado ao vivo)."
+  },
+  {
+   "id": "taxas-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-10/2-ES-CPA-II-2026-GABARITO-PRELIMINAR-06OUT2026.pdf",
+   "notes": "Cabeçalho do gabarito preliminar traz CIAGA e ES-CPA-II/2026."
+  },
+  {
+   "id": "taxas-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip#N211 - Anexo 5-A",
+   "notes": "Anexo 5-A item 1.a: em princípio fev/ago para exames em abr/out, sujeito a alteração."
+  },
+  {
+   "id": "taxas-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/nota%20capitao%20amador-3.pdf",
+   "notes": "Nota DPC de 21/01/2026 traz exatamente essas datas e horários."
+  },
+  {
+   "id": "taxas-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/PDF.pdf",
+   "notes": "Nota de 17/07/2026 confere datas e horário da prova; portões 12h e 13h30 constam no cronograma da própria nota."
+  },
+  {
+   "id": "taxas-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/PDF.pdf",
+   "notes": "Itens 3 a 6 da nota conferem: preliminar até 06/10, recursos 06 a 16/10, final até 05/11, aprovados até 16/11."
+  },
+  {
+   "id": "taxas-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/PDF.pdf",
+   "notes": "Nota diz inscrição presencial no GAP de qualquer CP/DL/AG e que não é necessário agendamento."
+  },
+  {
+   "id": "taxas-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprs/sites/www.marinha.mil.br.cprs/files/2026-07/Calendario%20exame%20Capitao-Amador%20-%20Turma%20-%20CPA-II-2026.pdf",
+   "notes": "Calendário da CPRS repete inscrições 03-18AGO e prova 01OUT2026."
+  },
+  {
+   "id": "taxas-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpm/sites/www.marinha.mil.br.cpm/files/2026-10/CPA%20II-2026%20EDITAL%282%29.pdf",
+   "notes": "Edital da CPM confere presencial no GAP sem agendamento, 2a-5a 08h20-13h30 e 6a 08h20-10h30."
+  },
+  {
+   "id": "taxas-57",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cppb/exame_capitao_amador",
+   "notes": "Página CPPB traz cronograma CPA II/2026 e 'GRU no valor de R$ 60,32' entre os documentos."
+  },
+  {
+   "id": "taxas-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cppb/exame_capitao_amador",
+   "notes": "Página CPPB: sem agendamento e local da prova Av. Barão do Triunfo, 372, Varadouro; que seja a 'sede' é inferência plausível, não dita literalmente."
+  },
+  {
+   "id": "taxas-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.5.1 b) e c): validade 10 anos nacional; 5 anos para 65 anos ou mais."
+  },
+  {
+   "id": "taxas-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.5.4 a)-e) confere: requerimento 5-H, cópia da CHA, atestado (dispensável com CNH), residência e GRU de renovação."
+  },
+  {
+   "id": "taxas-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Notas do 5.5.4: condução autorizada por até 30 dias após expedição do protocolo."
+  },
+  {
+   "id": "taxas-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Notas do 5.5.4 conferem o prazo de cinco anos e a manifestação via GRU até a data-limite, seguida de agendamento eletrônico."
+  },
+  {
+   "id": "taxas-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.5.5 confere: só renovação em qualquer CP/DL/AG, com declaração (5-D) ou BO, além de requerimento 5-H."
+  },
+  {
+   "id": "taxas-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.5.1 a) confere: CHA digital no gov.br após aviso por SMS/e-mail e impressão aceita se o QR Code for legível."
+  },
+  {
+   "id": "taxas-65",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/localize-capitania?field_uf_localize_value=All",
+   "notes": "Contagem 69 coerente com o seletor SCAM (73 menos 4 não CP/CF/DL/AG); página ao vivo não carregou para recontar."
+  },
+  {
+   "id": "taxas-66",
+   "verdict": "confirmado",
+   "evidence_url": "https://dpc1.marinha.mil.br/scam/emitgruscam/solicitar_servico.asp",
+   "notes": "Seletor SCAM tem 73 opções, 4 não CP/CF/DL/AG (CIABA, CIAGA, Com8ºDN, DPC); recontado."
+  },
+  {
+   "id": "taxas-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfaoc/",
+   "notes": "Rodapé do site CFAOC lista Destacamento de São Gabriel da Cachoeira; ausência na lista de CP/DL/AG do SCAM confere."
+  },
+  {
+   "id": "taxas-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfaoc/sites/www.marinha.mil.br.cfaoc/files/MeuUpload/Carta%20ao%20usuario%20AGTEFE%20-%20Carta%20aos%20usuarios%20atual%202025%20AgTefe%20%2802%2008%29.pdf",
+   "notes": "Carta de Serviços AgTefé traz Rua Duque de Caxias, 287, Centro; o suposto endereço errado na página do SIM não foi reaberto."
+  }
+ ]
+}

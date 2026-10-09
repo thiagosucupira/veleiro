@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "internacional-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "evidence_quote": "Be 16 years old or older",
+   "notes": "Página RYA reaberta hoje: elegibilidade exige 16 anos ou mais no dia do exame."
+  },
+  {
+   "id": "internacional-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/first-aid-course/",
+   "evidence_quote": "This course is MCA approved and satisfies the requirements for Coastal Skipper Yachtmaster and Advanced Powerboat",
+   "notes": "Página atual confirma aprovação MCA, 1 dia, em sala."
+  },
+  {
+   "id": "internacional-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/water-safety/first-aid-on-the-water/first-aid/",
+   "evidence_quote": "designed for sailors venturing up to about 60 miles offshore",
+   "notes": "Texto atual da página confirma."
+  },
+  {
+   "id": "internacional-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/water-safety/first-aid-on-the-water/first-aid/",
+   "evidence_quote": "Medical First Aid Aboard Ships is recommended for offshore passages and Medical Care Aboard Ships is recommended for ocean voyages",
+   "notes": "Confirmado na página atual (cursos não-RYA, oferecidos por alguns centros)."
+  },
+  {
+   "id": "internacional-65",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/about/",
+   "evidence_quote": "issued on behalf of the UK Government under the authorisation of the UK Maritime and Coastguard (MCA)... in conformity with Resolution No. 40",
+   "notes": "Página atual confirma ambos os pontos."
+  },
+  {
+   "id": "internacional-66",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/",
+   "evidence_quote": "evidence of competence when requested by officials in a country you are visiting",
+   "notes": "Confirmado na página atual do ICC."
+  },
+  {
+   "id": "internacional-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://unece.org/sites/default/files/2026-05/ECE-TRANS-SC3-147r5e_0.pdf",
+   "evidence_quote": "to their own nationals or residents or to the nationals of any North American country or any country that is not a member of the United Nations Economic Commission for Europe",
+   "notes": "Texto da Rev.5 (PDF atual da UNECE) confirma."
+  },
+  {
+   "id": "internacional-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://unece.org/sites/default/files/2026-05/ECE-TRANS-SC3-147r5e_0.pdf",
+   "evidence_quote": "have reached the age of 16; ... sufficient powers of vision and hearing; ... successfully passed an examination",
+   "notes": "Anexo I Parte II §1 da Rev.5 confirma os três requisitos."
+  },
+  {
+   "id": "internacional-69",
+   "verdict": "confirmado",
+   "evidence_url": "https://unece.org/transport/documents/2026/05/international-certificate-operators-pleasure-craft-resolution-no-40",
+   "evidence_quote": "adopted at the sixty-ninth session ... on 31 October 2025, replaces its fourth revision ... Published: 08/05/2026",
+   "notes": "Página UNECE reaberta hoje confirma Rev.5, adoção 31/10/2025 e publicação 08/05/2026."
+  },
+  {
+   "id": "internacional-70",
+   "verdict": "confirmado",
+   "evidence_url": "https://unece.org/icc-resolution-no-40",
+   "evidence_quote": "As of July 2024, the ICC is formally recognized by more than 22 United Nations Member States",
+   "notes": "Página UNECE reaberta hoje (via serviço local): frase presente e lista de 22 países idêntica, sem Brasil (o trecho não foi achado na checagem automática apenas por falha de fetch 403)."
+  },
+  {
+   "id": "internacional-71",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51727",
+   "evidence_quote": "The RYA will also issue the ICC to nationals of other countries that have not accepted Resolution No. 40 because they may otherwise be unable to obtain an ICC",
+   "notes": "ICC-2 Notes (versão 25/11/2025) reaberto e ainda é a versão vigente no link; texto confere."
+  },
+  {
+   "id": "internacional-72",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51727",
+   "evidence_quote": "should the relevant country later accept Resolution No. 40, the certificate holder will no longer be eligible ... will not be able to amend or renew",
+   "notes": "Confirmado no ICC-2 Notes vigente."
+  },
+  {
+   "id": "internacional-73",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51727",
+   "evidence_quote": "Austria, Belarus, ... Poland*, ... Switzerland and Ukraine",
+   "notes": "Lista confere e não inclui o Brasil, mas o próprio RYA a data como 'correct at 01/10/2020' (sem África do Sul, que a UNECE lista); a afirmação trata da lista do RYA, que é fiel."
+  },
+  {
+   "id": "internacional-74",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51727",
+   "evidence_quote": "If you have dual nationality and at least one of those nationalities is of a country that has not yet accepted Resolution 40",
+   "notes": "Confirmado no ICC-2 Notes vigente."
+  },
+  {
+   "id": "internacional-75",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51728",
+   "evidence_quote": "An ICC cannot be issued unless evidence for a category in list A and a category in list B",
+   "notes": "Confirmado no ICC-3 Notes (25/11/2025), versão vigente no link."
+  },
+  {
+   "id": "internacional-76",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51728",
+   "evidence_quote": "RYA Day Skipper Sail (Practical) Course Completion Certificate: Power up to 10m LOA (*tender), Sail Yes, Coastal Yes, Inland No",
+   "notes": "Linha da tabela do ICC-3 confere, inclusive nota de rodapé do bote de apoio."
+  },
+  {
+   "id": "internacional-77",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/",
+   "evidence_quote": "A shorebased certificate on its own is not sufficient",
+   "notes": "Confirmado na página atual."
+  },
+  {
+   "id": "internacional-78",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/",
+   "evidence_quote": "In general, non RYA certificates cannot be used to evidence your competence",
+   "notes": "Confirmado na página atual (exceção: alguns certificados MCA)."
+  },
+  {
+   "id": "internacional-79",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/about/",
+   "evidence_quote": "An ICC assessment can be arranged through an ICC test centre, which is an RYA recognised training centre or an affiliated club authorised",
+   "notes": "Confirmado na página atual."
+  },
+  {
+   "id": "internacional-80",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=53057",
+   "evidence_quote": "springs; 360 turn; mooring buoy and anchoring; man overboard; sail a triangular course with one leg being to windward; collision regulations; safety; plus coastal or inland assessment certificate also required",
+   "notes": "ICC-4b (versão 22/03/2022) reaberto: todos os itens e a exigência de validar costeira/interiores conferem."
+  },
+  {
+   "id": "internacional-81",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/about/",
+   "evidence_quote": "All candidates requiring the inland category validated must pass the RYA ICC CEVNI test irrespective...; test online remotely from home",
+   "notes": "Confirmado na página atual, incluindo teste online remoto."
+  },
+  {
+   "id": "internacional-82",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/about/",
+   "evidence_quote": "The ICC is valid for 5 years.",
+   "notes": "Confirmado na página atual."
+  },
+  {
+   "id": "internacional-83",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/about/",
+   "evidence_quote": "You may renew your certificate up to 3 months prior to it expiring. The new certificate will be valid for a further 5 year period after the original expiry date.",
+   "notes": "Confirmado na página atual."
+  },
+  {
+   "id": "internacional-84",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51726",
+   "evidence_quote": "New application or renewal (valid for 5 years) £75.00",
+   "notes": "ICC-1 (versão 01/04/2026) é o formulário vigente no link e mostra £75 para não-membros."
+  },
+  {
+   "id": "internacional-85",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51726",
+   "evidence_quote": "New application or renewal (valid for 5 years) £200.00 (cost including £125.00 fast track service)",
+   "notes": "ICC-1 vigente confere (£75 + £125 = £200)."
+  },
+  {
+   "id": "internacional-86",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/about/",
+   "evidence_quote": "Issue of the ICC is free of charge for existing RYA members. You can also join the RYA at the same time as you apply for the ICC and have your ICC issued free of charge.",
+   "notes": "Confirmado na página atual."
+  },
+  {
+   "id": "internacional-87",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51726",
+   "evidence_quote": "TYPE OF MEMBERSHIP - PRICES (VALID UNTIL 31/03/2027)... Adult - £62",
+   "notes": "ICC-1 vigente (01/04/2026) mostra Adult £62 e validade até 31/03/2027 (checagem automática falhou só por quebra de texto)."
+  },
+  {
+   "id": "internacional-88",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/apply/",
+   "evidence_quote": "OUR CURRENT TURNAROUND TIME FROM THE DATE YOUR APPLICATION IS RECEIVED IS APPROXIMATELY 21 WORKING DAYS",
+   "notes": "Aviso presente na página reaberta hoje (valor volátil, vale na data de consulta)."
+  },
+  {
+   "id": "internacional-89",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/our-services/icc/apply/",
+   "evidence_quote": "The ICC will not be posted to any address other than the one printed on the certificate.",
+   "notes": "Confirmado na página atual; a parte 'não pode ser retirado pessoalmente' é inferência não literal da página, mas consistente com o envio só por correio."
+  },
+  {
+   "id": "internacional-90",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.rya.org.uk/assetbank-rya-assets/action/directLinkImage?assetId=51727",
+   "evidence_quote": "Passport: name/DOB/nationality/photo Yes, address X; address docs: driving licence, council tax, mortgage, UK/CI/EEA bank and credit card statements",
+   "notes": "Tabela do ICC-2 vigente confere com a afirmação."
+  }
+ ]
+}

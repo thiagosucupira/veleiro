@@ -1,0 +1,58 @@
+{
+  "verdicts": [
+    {
+      "id": "extra-arrais-2-01",
+      "verdict": "confirmado",
+      "evidence_url": "https://play.google.com/store/apps/details?id=boletim.ao.mar&hl=pt_BR",
+      "notes": "Play Store confirma os produtos listados, a atualização de 11/03/2026, a versão 2.8.0 e o desenvolvedor; a fonte é loja de apps, não site oficial da Marinha."
+    },
+    {
+      "id": "extra-arrais-2-02",
+      "verdict": "confirmado",
+      "evidence_url": "https://apps.apple.com/br/app/boletim-ao-mar/id1562769509",
+      "notes": "API iTunes confirma nome do app e vendedor 'Servicos e Informacoes do Brasil' na App Store BR."
+    },
+    {
+      "id": "extra-arrais-2-03",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "NORMAM-211 art. 4.19.1 a): agulha obrigatória exceto miúdas; 24 m ou mais com certificado de compensação/curva de desvio a cada 2 anos. Bate literalmente."
+    },
+    {
+      "id": "extra-arrais-2-04",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.19.3 a) e b): radar 9 GHz para grande porte/iates pós-11/02/2000 em costeira/oceânica e ecobatímetro obrigatório para os mesmos; menores só recomendado. Bate."
+    },
+    {
+      "id": "extra-arrais-2-05",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.19.2 a): 1 GNSS costeira, 2 oceânica, com recomendação de fonte independente; a fonte adiciona que as subalíneas são obrigatórias desde 31/12/2020, o que não altera a afirmação em 2026."
+    },
+    {
+      "id": "extra-arrais-2-06",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.17 traz exatamente as quantidades por tipo de navegação; bate."
+    },
+    {
+      "id": "extra-arrais-2-07",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Anexo 5-A item 3.1 c) lista agulha, odômetro, tacômetro, anemômetro, GNSS e ecobatímetro no programa do Arrais-Amador; bate."
+    },
+    {
+      "id": "extra-arrais-2-08",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Anexo 5-A item 3.1 e) traz comportamento das marés, curvas de marés e uso de tábuas de marés no programa do Arrais-Amador; bate."
+    },
+    {
+      "id": "extra-arrais-2-09",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+      "notes": "Manual Vol. III cap. 45.5.1 confirma emissão 0000/1200 HMG, as três partes, expressões NIL/NÃO HÁ e 'áreas costeiras e oceânicas'; autor Miguens confirmado na cópia em cache."
+    }
+  ]
+}

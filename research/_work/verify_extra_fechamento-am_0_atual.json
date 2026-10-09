@@ -1,0 +1,53 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-fechamento-am-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/servico-movel-maritimo/em-1979-a-organizacao-maritima-internacional-imo-reconhecendo-a-necessidade-de-implementar-o-sistema-de-comunicacao-maritima-decidiu-dar-inicio-a-implantacao-de-um-novo-sistema-de-socorro-e-seguranca-conhecido-como-sistema-global-de-socorro-e-seguranca",
+   "notes": "Página da Anatel reaberta hoje traz literalmente A1 VHF ~20 milhas e A2 MF ~100-300 milhas; a menção ao 30-50 do material de exame é outro claim (extra-radio-1-07), não reverificada aqui.",
+   "evidence_quote": "A1 cerca de 20 milhas da costa (VHF, DSC contínuo); A2 cerca de 100-300 milhas (MF)."
+  },
+  {
+   "id": "extra-fechamento-am-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment/children-and-lifejackets",
+   "notes": "Página do NSW reaberta hoje mantém 'Inflatable lifejackets are not recommended for children aged under 12' e recomenda crotch strap; NORMAM-211 4.14 só cita 'coletes de tamanho pequeno para as crianças'.",
+   "evidence_quote": "Inflatable lifejackets are not recommended for children aged under 12 years."
+  },
+  {
+   "id": "extra-fechamento-am-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "notes": "Planalto atual do Decreto 2.596 traz art. 12, I, multa do grupo D (única alteração listada é Decreto 7.860/2012, que não muda este inciso).",
+   "evidence_quote": "I - não possuir a documentação relativa à habilitação ou ao controle de saúde: Penalidade: multa do grupo D;"
+  },
+  {
+   "id": "extra-fechamento-am-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Texto consolidado (Portaria 200 de 27/02/2026) traz 4.19.3 a) e b) idênticos; página-índice da DPC ainda lista a Portaria 200 como a mais recente da NORMAM-211, sem portaria posterior.",
+   "evidence_quote": "4.19.3. Embarcações de Grande Porte, ou Iates: a) Radar - as embarcações de grande porte, ou iates, construídas após 11/02/2000, classificadas para a navegação Costeira ou Oceânica, deverão ser dotadas de radar capaz de operar na faixa de frequência de 9 GHz."
+  },
+  {
+   "id": "extra-fechamento-am-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 3.27.1 do texto consolidado confere (inclui exceção do estaleiro/artesanal e anexos 7-F NORMAM-201/6-G NORMAM-202); índice da DPC sem portaria posterior à 200/2026.",
+   "evidence_quote": "As embarcações deverão ter suas lotações determinadas pelos estaleiros construtores. Quando por qualquer motivo este dado não for disponibilizado..."
+  },
+  {
+   "id": "extra-fechamento-am-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Página da DPC reaberta hoje lista 2017 só com CPA-1 e CPA-2 Prova e Gabarito e 2018 com CPA-2 Relação dos Aprovados; 2017 é o ano mais antigo listado.",
+   "evidence_quote": "2018 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito CPA-2 - Relação dos Aprovados ... 2017 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito"
+  },
+  {
+   "id": "extra-fechamento-am-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/node/386",
+   "notes": "Página CPBA node/386 atual confere (segunda a sexta, computadores, 40 questões) e trata só de Arrais-Amador; Anexo 5-A do ZIP (mais novo) fixa 40 questões para o Mestre-Amador (item 2.c).",
+   "evidence_quote": "As provas ocorrem na Capitania de segunda a sexta-feira, e são realizadas em computadores dedicados a essa finalidade, constando de 40 questões."
+  }
+ ]
+}

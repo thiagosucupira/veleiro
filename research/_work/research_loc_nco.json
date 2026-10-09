@@ -1,0 +1,723 @@
+{
+ "file_written": "/home/sobranceiro/veleiro_certificacoes/research/locais_norte_co.md",
+ "claims": [
+  {
+   "id": "loc_nco-01",
+   "topic": "habilitação ARA / treinamento",
+   "claim": "Para se inscrever no exame de Arrais-Amador (ARA), o candidato precisa apresentar o Atestado de Treinamento Náutico para Arrais-Amador (anexo 5-E), com firma reconhecida ou assinatura digital gov.br do representante da ETN, do instrutor e do aluno.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1, alínea f, p. 5-4",
+   "quote": "para a habilitação específica na categoria de ARA, deverá ser apresentado o Atestado de Treinamento Náutico para Arrais-Amador com reconhecimento de firma em cartório, ou assinatura digital pelo GOV.BR do representante legal da ETN, do instrutor e do aluno, conforme anexo 5-E",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-02",
+   "topic": "habilitação ARA / treinamento",
+   "claim": "O atestado de treinamento para Arrais-Amador é obtido com aulas práticas em estabelecimentos de treinamento náutico ou pessoas físicas credenciados na Capitania/Delegacia/Agência (Capítulo 6, Seção II).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1, Notas, p. 5-5",
+   "quote": "os atestados de treinamento para Arrais-Amador poderão ser obtidos mediante treinamento náutico (aulas práticas) em estabelecimentos de treinamento náutico/pessoas físicas devidamente credenciadas nas CP/DL/AG, conforme estabelecido na Seção II do Capítulo 6",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-03",
+   "topic": "habilitação ARA / treinamento",
+   "claim": "O modelo de Atestado de Treinamento para Arrais-Amador exige no mínimo seis horas de treinamento teórico e prático em embarcação de esporte e/ou recreio.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "locator": "NORMAM-211/DPC, Anexo 5-E (arquivo 'N211 - Anexo 5-E')",
+   "quote": "cumpriu ______ horas de treinamento teórico e prático em (mínimo de seis horas) embarcação de esporte e/ou recreio",
+   "official": true,
+   "confidence": "alta",
+   "notes": "No texto extraído, '(mínimo de seis horas)' aparece em linha própria sob o campo de horas."
+  },
+  {
+   "id": "loc_nco-04",
+   "topic": "habilitação ARA / treinamento",
+   "claim": "O Anexo 5-E traz um plano de treinamento teórico de realização obrigatória no ambiente náutico e um plano de treinamento prático de realização obrigatória a bordo em navegação.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "locator": "NORMAM-211/DPC, Anexo 5-E, quadros 'Plano de Treinamento Teórico' e 'Plano de Treinamento Prático'",
+   "quote": "PLANO DE TREINAMENTO TEÓRICO – ARRAIS-AMADOR REALIZAÇÃO OBRIGATÓRIA NO AMBIENTE NÁUTICO (MARINA, BERÇO OU ATRACADO) | ... PLANO DE TREINAMENTO PRÁTICO – ARRAIS-AMADOR REALIZAÇÃO OBRIGATÓRIA A BORDO EM NAVEGAÇÃO",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-05",
+   "topic": "credenciamento de escolas (ETN)",
+   "claim": "Uma escola credenciada (ETN-A/PF) só pode dar o treinamento para Arrais-Amador nos municípios da jurisdição da Capitania/Delegacia/Agência que a credenciou; por isso o atestado deve ser feito com escola credenciada na região onde se treina.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.7.5, p. 6-9",
+   "quote": "A área de atuação dos ETN-A/PF credenciados para o treinamento náutico para Arrais-Amador limita-se aos municípios pertencentes à jurisdição da CP/DL/AG que realizou o seu credenciamento.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-06",
+   "topic": "credenciamento de escolas (ETN)",
+   "claim": "O instrutor do treinamento para Arrais-Amador deve ter no mínimo dois anos de habilitação ARA, MSA ou CPA (ou profissional com correspondência).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.7.1, p. 6-8",
+   "quote": "o instrutor deverá possuir, no mínimo, dois anos de habilitação nas categorias de ARA, MSA ou CPA, ou profissional com correspondência",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-07",
+   "topic": "categoria Veleiro",
+   "claim": "A CHA na categoria Veleiro (CHA-VLA) é facultativa e vale para embarcações miúdas de propulsão exclusivamente à vela; a idade mínima é de oito anos.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.2, alíneas a e b, p. 5-7",
+   "quote": "A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela. ... deverá possuir idade mínima de oito anos.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-08",
+   "topic": "categoria Veleiro",
+   "claim": "Para veleiros de médio ou grande porte (como um veleiro de 32 pés), a habilitação segue a área de navegação: ARA para navegação interior, MSA para costeira e CPA para oceânica.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.2, alínea b, p. 5-7",
+   "quote": "Para embarcações à vela de médio ou grande porte, a habilitação deverá obedecer os critérios previstos para a área de navegação para a qual estão classificadas, ou seja, ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-09",
+   "topic": "categoria Veleiro",
+   "claim": "Para emitir a CHA-VLA é preciso uma declaração (anexo 5-G) de marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado, comprovando o curso de veleiro conforme o programa do anexo 5-B.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.2, alínea c, inciso VII, p. 5-8",
+   "quote": "Declaração da marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado, conforme constante no anexo 5-G, comprovando que o interessado realizou o curso de veleiro",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-10",
+   "topic": "categoria Veleiro",
+   "claim": "Marinas, clubes e entidades desportivas náuticas podem organizar cursos para a categoria Veleiro em suas sedes, desde que credenciados como ETN-VLA na Capitania/Delegacia/Agência da sua área.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.8, p. 6-10",
+   "quote": "As marinas, os clubes, as entidades desportivas náuticas e outros estabelecimentos que exerçam atividade voltada para o treinamento náutico, poderão organizar cursos em suas sedes, voltados para a formação na categoria de Veleiro devendo, entretanto, serem credenciados junto às CP/DL/AG",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-11",
+   "topic": "clubes e marinas",
+   "claim": "Só podem funcionar como marina, clube ou entidade desportiva náutica os estabelecimentos com Certificado de Cadastramento válido na Capitania/Delegacia/Agência da sua jurisdição.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.2, p. 6-1",
+   "quote": "Somente os estabelecimentos que possuam o Certificado de Cadastramento válido junto às CP/DL/AG de sua jurisdição poderão funcionar como marina, clube e entidade desportiva náutica",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-12",
+   "topic": "clubes e marinas",
+   "claim": "Na saída para navegar, marinas, clubes e entidades desportivas náuticas devem verificar o TIE/PRPM da embarcação, a CHA ou CIR do condutor e o Aviso de Saída ou registro no app NAVSEG.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.2.1, alínea a, incisos I a III, p. 6-1",
+   "quote": "I) A apresentação do TIE ou PRPM dentro da validade; II) A apresentação da CHA ou CIR do condutor, dentro da validade; e III) O preenchimento do Aviso de Saída, ou registro no App NAVSEG.",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-13",
+   "topic": "listas oficiais de escolas",
+   "claim": "A Capitania dos Portos da Amazônia Oriental (Belém) exige, para a inscrição ARA, atestado de treinamento emitido por estabelecimento cadastrado e publica a lista desses estabelecimentos (PDF de 26/02/2026, com 5 estabelecimentos em Belém).",
+   "source_url": "https://www.marinha.mil.br/cpaor/amadores",
+   "locator": "Página 'Habilitação de Amadores' da CPAOR + link 'Estabelecimentos Náuticos Cadastrados' (PDF 'ETN CADASTRADAS NA CPAOR - 26FEV2026')",
+   "quote": "Atestado treinamento náutico para Arrais-Amador emitidos por Estabelecimento de Treinamento Náutico cadastrado nas CP/DL/AG",
+   "official": true,
+   "confidence": "alta",
+   "notes": "PDF: https://www.marinha.mil.br/cpaor/sites/www.marinha.mil.br.cpaor/files/2026-02/ETN%20CADASTRADAS%20NA%20CPAOR%20-%2026FEV2026.pdf (título: 'ESTABELECIMENTOS CADASTRADOS PARA O TREINAMENTO NÁUTICO NESTA CAPITANIA')."
+  },
+  {
+   "id": "loc_nco-14",
+   "topic": "listas oficiais de escolas",
+   "claim": "A Capitania Fluvial da Amazônia Ocidental (Manaus) publica a página 'Escolas Náuticas Cadastradas', atualizada em 13/08/2025, com escolas de Manaus, Itacoatiara, Parintins, Boa Vista e Caracaraí.",
+   "source_url": "https://www.marinha.mil.br/cfaoc/node/31",
+   "locator": "Página 'Escolas Náuticas Cadastradas | CFAOC' (cabeçalho de publicação)",
+   "quote": "Publicado em 10/07/2018 - 11:24 Atualizado em 13/08/2025 - 16:35",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-15",
+   "topic": "listas oficiais de escolas",
+   "claim": "A Capitania Fluvial de Brasília publica a lista 'Estabelecimentos de Treinamento Náutico Autorizados', atualizada em 13/07/2026, com 11 estabelecimentos no DF e entorno.",
+   "source_url": "https://www.marinha.mil.br/cfb/escolanauticacadastradas",
+   "locator": "Página 'ESTABELECIMENTOS DE TREINAMENTO NÁUTICO AUTORIZADOS | CFB' (cabeçalho e itens 1 a 11)",
+   "quote": "Publicado em 05/11/2015 - 10:50 Atualizado em 13/07/2026 - 15:41",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-16",
+   "topic": "listas oficiais de escolas",
+   "claim": "A Capitania Fluvial de Goiás publica a lista 'Estabelecimentos de Treinamento Náutico Homologados', atualizada em 01/10/2025, com 13 estabelecimentos em Goiás.",
+   "source_url": "https://www.marinha.mil.br/cfgo/node/5",
+   "locator": "Página 'Estabelecimentos de Treinamento Náutico Homologados | Capitania Fluvial de Goiás'",
+   "quote": "Publicado em 11/02/2021 - 17:28 Atualizado em 01/10/2025 - 08:46",
+   "official": true,
+   "confidence": "alta"
+  },
+  {
+   "id": "loc_nco-17",
+   "topic": "listas oficiais de escolas",
+   "claim": "A Capitania Fluvial do Pantanal (Corumbá) publica PDF dos ETN credenciados aptos a certificar o atestado ARA (anexo 5-E da NORMAM-211) e MTA, com validade de cada credenciamento e portaria.",
+   "source_url": "https://www.marinha.mil.br/cfpn/sites/www.marinha.mil.br.cfpn/files/CFPN%20E%20AGMURT%20-%20Entidades%20de%20Treinamento%20N%C3%A1utico%20Cadastradas_0.pdf",
+   "locator": "PDF 'CFPN E AGMURT - Entidades de Treinamento Náutico Cadastradas', p. 1 (linkado em https://www.marinha.mil.br/cfpn/Amadores)",
+   "quote": "os Estabelecimentos de Treinamento Náutico (ETN) abaixo estão devidamente credenciados e aptos a certificar o ATESTADO DE TREINAMENTO NÁUTICO PARA MOTONAUTA (anexo 3-B da NORMAM-212/DPC) e ATESTADO DE TREINAMENTO NÁUTICO PARA ARRAIS-AMADOR (anexo 5-E da NORMAM-211/DPC)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Metadado de criação do PDF: 05/11/2025. Existe um PDF antigo (2022) no mesmo site com validades vencidas; usar o atual."
+  },
+  {
+   "id": "loc_nco-18",
+   "topic": "listas oficiais de escolas",
+   "claim": "A Capitania Fluvial do Araguaia-Tocantins (Palmas) publica a página 'Escolas Náuticas Cadastradas', mas a última atualização exibida é de 09/08/2023.",
+   "source_url": "https://www.marinha.mil.br/cfat/escolas_nauticas",
+   "locator": "Página 'Escolas Náuticas Cadastradas | CFAT' (cabeçalho)",
+   "quote": "Publicado em 17/01/2018 - 13:19 Atualizado em 09/08/2023 - 15:53",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Lista possivelmente desatualizada; confirmar com a CFAT antes de escolher escola em Palmas."
+  },
+  {
+   "id": "loc_nco-19",
+   "topic": "federações de vela",
+   "claim": "A CBVela informa 13 federações estaduais de vela filiadas; da região Norte/Centro-Oeste só aparece a Federação Náutica de Brasília (FNB).",
+   "source_url": "https://cbvela.com.br/federacoes/",
+   "locator": "Página 'Federações – CBVela', lista 'Federações Estaduais de Vela'",
+   "quote": "O esporte da vela está organizado em 13 estados brasileiros por meio das entidades estaduais de administração da vela, as Federações filiadas à CBVela.",
+   "official": false,
+   "confidence": "alta",
+   "notes": "A lista inclui ainda Feneb (BA), FVMEC (CE), FECAI (ES), FMVela (MG), FPBVela (PB), FEIP (PR), FPVela (PE), FEVERJ (RJ), FNRN (RN), FEVERS (RS), FNC (SC), FEVESP (SP)."
+  }
+ ],
+ "locais": [
+  {
+   "id": "co-df-iate-clube-de-brasilia",
+   "nome": "Iate Clube de Brasília (ICB) – Escola de Vela",
+   "tipos": [
+    "iate-clube",
+    "escola-vela",
+    "regata"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.7779107,
+   "lon": -47.8599606,
+   "coord_precisao": "exata",
+   "site": "https://iateclubedebrasilia.com.br/",
+   "fonte_url": "https://iateclubedebrasilia.com.br/escola-de-vela-do-iate-abre-novas-turmas-para-o-segundo-semestre-2/",
+   "evidencia": "Notícia de 23/06/2026: \"A Escola de Vela do Iate Clube de Brasília abrirá novas turmas de iniciação a partir de 25 de julho.\" Página de 10/03/2020: \"O Iate oferece aula de Vela iniciante para o público adulto [...] O curso tem duração de 12 horas (2 horas por dia) [...] Veleiros Cabinados, classe Dingue e/ou Soling.\"",
+   "cursos": [
+    "iniciação à vela (crianças e jovens)",
+    "vela adulto iniciante (Dingue, Soling, cabinados)"
+   ],
+   "pratica": "Aulas em barcos do clube no Lago Paranoá (Dingue, Soling, veleiros cabinados); clube sedia regatas (ex.: Regata JK, Regata Aniversário ICB no calendário FNB).",
+   "preco": "Curso adulto: R$ 400 (sócio) / R$ 450 (convidado de sócio) – página de 10/03/2020; R$ 400 para sócios – página de 03/03/2023. Preço atual não publicado.",
+   "contato": "(61) 3329-8700 (geral); Secretaria Náutica (61) 3329-8747 / 3329-8748",
+   "notas": "Clube social: o curso adulto publicado é para sócios e convidados de sócios. Endereço no site: Setor de Clubes Esportivos Norte Trecho 2 conjunto 4, 70800-120 (https://iateclubedebrasilia.com.br/fale-conosco/). Páginas extras: https://iateclubedebrasilia.com.br/escola-de-vela-adulto/ (2020) e https://iateclubedebrasilia.com.br/curso-de-vela-para-adultos/ (2023).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-df-escola-de-vela-brasilia",
+   "nome": "Escola de Vela Brasília (no Clube da Aeronáutica de Brasília)",
+   "tipos": [
+    "escola-vela"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.788344,
+   "lon": -47.8451827,
+   "coord_precisao": "exata",
+   "site": "https://www.escoladevelabrasilia.com.br/",
+   "fonte_url": "https://www.escoladevelabrasilia.com.br/vela-oceanica",
+   "evidencia": "\"De iniciante a capitão: aprenda a velejar em um Cabinado\"; \"O O'Day 23 é o barco usado no nosso curso de vela oceânica\"; o curso cobre \"manobras básicas, leitura do vento e ajustes das velas — e também o uso do motor\" e \"técnicas de resgate de homem ao mar\".",
+   "cursos": [
+    "vela adulto (Dingue)",
+    "vela infantil (Optimist)",
+    "vela oceânica em cabinado O'Day 23",
+    "aulas avulsas e experimentais"
+   ],
+   "pratica": "Aulas práticas no Lago Paranoá em Dingue e no veleiro cabinado O'Day 23 (funções a bordo, genoa e balão, atracação, fundeio, motor, homem ao mar). Certificado com 75% de presença.",
+   "preco": "Página inicial em 2026-10-07: Curso de Vela Oceânica (sáb 10h) R$ 735/mês; aula experimental Dingue 1 h R$ 150; aula avulsa Dingue 2 h R$ 250; aula experimental oceânico 1 h R$ 250; aula avulsa oceânico 2 h R$ 350 (o site avisa: \"Reajuste de valores a partir de junho de 2026\").",
+   "contato": "WhatsApp +55 61 98132-4616; escoladevelabrasilia@gmail.com",
+   "notas": "Endereço no site: SCEN Trecho 01 Lotes 1/2A e 1/2B, Asa Norte, 70800-200 (Clube da Aeronáutica). O Clube da Aeronáutica informa ter \"10 veleiros à disposição de seus sócios\" (https://clubedaaeronauticadf.com.br/clube-de-vela/). Coordenada = POI 'Clube da Aeronáutica' no OpenStreetMap.",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-df-clube-naval-de-brasilia",
+   "nome": "Clube Naval de Brasília – Vela",
+   "tipos": [
+    "clube-nautico",
+    "escola-vela",
+    "regata"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.817067,
+   "lon": -47.8546451,
+   "coord_precisao": "exata",
+   "site": "https://clubenavaldf.com.br/",
+   "fonte_url": "https://clubenavaldf.com.br/curso/vela/",
+   "evidencia": "\"Instrutora: Débora [...] Idade: A partir de 14 anos / Dias e horários: Domingo, das 14h às 16h e das 16h às 18h [...] Dingue (a partir de 14 anos): • Sócio: R$ 481,50 • Não sócio: R$ 556,40 / Optimist (8 a 13 anos)\"",
+   "cursos": [
+    "vela em Dingue (a partir de 14 anos)",
+    "Optimist (8 a 13 anos)"
+   ],
+   "pratica": "Aulas de vela aos domingos no Lago Paranoá (Raia Sul); clube sedia regatas (ex.: Regata Aniversário do Clube Naval e Regata Dia da Marinha no calendário FNB 2026). Aceita não sócios no curso.",
+   "preco": "Página em 2026-10-07 (período da cobrança não informado): inscrição não sócio R$ 75; Dingue R$ 481,50 (sócio) / R$ 556,40 (não sócio); Optimist R$ 374,50 / R$ 449,50.",
+   "contato": "(61) 3223-2332; instrutora (61) 98133-9148; atendimento@clubenavaldf.com.br",
+   "notas": "Endereço no site: St. de Clubes Esportivos Sul, Trecho 2, Conj. 13. A instrutora citada parece ser a mesma da Escola de Vela Brasília (a página 'Equipe' daquela escola registra o Clube Naval como 'Cessionária 2025 - 2026'); confirmar quem opera o curso.",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-df-vela-art-aabb",
+   "nome": "Escola Vela Art – AABB Brasília",
+   "tipos": [
+    "escola-vela"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.8169251,
+   "lon": -47.8580275,
+   "coord_precisao": "exata",
+   "site": "https://aabbdf.com.br/escola-vela-art/",
+   "fonte_url": "https://aabbdf.com.br/escola-vela-art/",
+   "evidencia": "\"Curso de vela para crianças (a partir de 9 anos), jovens e adultos. Barco monotipo (Classe Dingue) [...] pacotes de 4(quatro) aulas mensais, no período de 2(duas) horas cada aula [...] Nossas aulas são individuais\"",
+   "cursos": [
+    "vela em Dingue (crianças a partir de 9 anos, jovens e adultos)",
+    "aula experimental avulsa"
+   ],
+   "pratica": "Aulas individuais em Dingue no Lago Paranoá, teoria e prática, com flexibilidade de horários; a tabela de horários do núcleo AABB na página indica seg–sex 9h–16h e sáb–dom 9h–13h.",
+   "preco": "",
+   "contato": "(61) 98104-4719 (Carlão); (61) 98189-2018 (escola)",
+   "notas": "Página oficial dentro do site da AABB-DF (SCES Trecho 2). A Federação Náutica de Brasília também lista a Vela Art na AABB (https://fnb.org.br/iniciante/). Coordenada = POI AABB no OpenStreetMap.",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-df-cota-mil-iate-clube",
+   "nome": "Cota Mil Iate Clube – Escola de Vela",
+   "tipos": [
+    "iate-clube",
+    "escola-vela"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.8182473,
+   "lon": -47.8660426,
+   "coord_precisao": "exata",
+   "site": "https://www.cotamil.com.br/",
+   "fonte_url": "https://www.cotamil.com.br/escola-de-vela",
+   "evidencia": "\"Aulas gratuitas aos sábados, exclusivas para os sócios, por ordem de chegada. / Aulas em recesso. / Horários: 9h30 às 10h20, crianças de 7 até 12 anos.\"",
+   "cursos": [
+    "escola de vela infantil para sócios (7 a 12 anos)"
+   ],
+   "pratica": "Clube no Setor de Clubes Esportivos Sul com escola de vela infantil para sócios; aulas estavam em recesso na consulta.",
+   "preco": "Gratuito para sócios (segundo a página).",
+   "contato": "(61) 3225-4489; (61) 99113-2608; secretaria@cotamil.com.br",
+   "notas": "Endereço no site: SCES Trecho 2 Lotes 26/27, 70200-002. Útil sobretudo para quem for sócio; adultos não sócios devem procurar outra escola.",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-df-federacao-nautica-de-brasilia",
+   "nome": "Federação Náutica de Brasília (FNB) – calendário de regatas do Lago Paranoá",
+   "tipos": [
+    "regata"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.7916191,
+   "lon": -47.802207,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://fnb.org.br/",
+   "fonte_url": "https://fnb.org.br/eventos-2026/",
+   "evidencia": "Página 'Eventos 2026' lista instruções de regata, entre elas \"IR-DF-de-Cabinados\", \"Cabinados-IR-Regata-Aniversario-ICB-2026\", \"IR-SOLITARIO-2026\" e \"REGATA-24h-2026-INSTRUÇÕES-DE-REGATA-IR\". Página AVOB: \"fundada em 2008 para gerir as competições de veleiros da categoria de oceano no Lago Paranoá\".",
+   "cursos": [],
+   "pratica": "Calendário anual de regatas de monotipos e de cabinados (oceano) no Lago Paranoá, inclusive regata de 24 horas – caminho para embarcar como tripulante em veleiros de oceano. A FNB também mantém a página 'Escolas Náuticas' com escolas do lago (https://fnb.org.br/iniciante/).",
+   "preco": "",
+   "contato": "Formulário em https://fnb.org.br/contato/",
+   "notas": "Federação filiada à CBVela (https://cbvela.com.br/federacoes/). Associação de Veleiros de Oceano de Brasília (AVOB) retomada em 2025 em formato informal: https://fnb.org.br/avob/. Sem endereço publicado; coordenada = centro do Lago Paranoá (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-df-arte-de-navegar",
+   "nome": "Escola Náutica Arte de Navegar (AABB-DF)",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.8169251,
+   "lon": -47.8580275,
+   "coord_precisao": "exata",
+   "site": "https://artedenavegar.com.br/",
+   "fonte_url": "https://aabbdf.com.br/escola-arte-de-navegar/",
+   "evidencia": "Página na AABB: \"Cursos: Arrais amador; Motonáutica (JET SKI); Mestre amador; Capitão amador;\". Site próprio: \"Somos a primeira Escola Náutica credenciada pela Capitania Fluvial de Brasília\" e \"Arrais Amador 6h práticas obrigatórias\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Mestre-Amador",
+    "Capitão-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Aulas práticas de Arrais-Amador (6 h) no Lago Paranoá a partir da náutica da AABB.",
+   "preco": "",
+   "contato": "(61) 99138-6959; en.artedenavegar@hotmail.com",
+   "notas": "Consta como item 1 ('Escola Arte de Navegar', SCES Trecho 02, Conj. 16/17) na lista oficial da Capitania Fluvial de Brasília atualizada em 13/07/2026 (https://www.marinha.mil.br/cfb/escolanauticacadastradas). O texto da AABB ainda cita a NORMAM-03 (substituída pela NORMAM-211).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-df-nautica-brasilia",
+   "nome": "Náutica Brasília (Vip Marina)",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Brasília",
+   "uf": "DF",
+   "regiao": "Centro-Oeste",
+   "lat": -15.7760289,
+   "lon": -47.8583913,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.nauticabrasilia.com.br/",
+   "fonte_url": "https://www.nauticabrasilia.com.br/curso-capitao-amador",
+   "evidencia": "Curso de Capitão Amador: \"CONTEÚDO PROGRAMÁTICO Carta náutica; Navegação Astronômica; Radar; GPS; e Estabilidade. CARGA HORÁRIA - Carga Horária Total: 24h\"; turma com \"Data: Data a Definir\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Mestre-Amador",
+    "Capitão-Amador (24 h)",
+    "simulado online"
+   ],
+   "pratica": "Preparatório teórico; o site também tem páginas de Arrais-Amador e Mestre-Amador (https://www.nauticabrasilia.com.br/mestreamador).",
+   "preco": "",
+   "contato": "(61) 3772-0797",
+   "notas": "Consta como item 9 da lista oficial da Capitania Fluvial de Brasília (SCEN Trecho 03, Lt 5 AB, sobreloja 02, Vip Marina), atualizada em 13/07/2026 (https://www.marinha.mil.br/cfb/escolanauticacadastradas). O site ainda oferece 'Baixar Normam 03/DPC' (norma substituída pela NORMAM-211). Coordenada aproximada pelo SCEN (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "no-am-escola-nautica-riomar",
+   "nome": "Escola Náutica RioMar",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Manaus",
+   "uf": "AM",
+   "regiao": "Norte",
+   "lat": -3.1261766,
+   "lon": -60.0022408,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.escolanauticariomar.com.br/",
+   "fonte_url": "https://www.escolanauticariomar.com.br/cursos",
+   "evidencia": "\"Na categoria de Arrais Amador, você estará apto a conduzir embarcações de esporte e recreio em águas interiores [...] Curso de Arrais Amador com aula teórica com duração de 4 horas.\"",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Curso teórico (4 h) e prático para o atestado de Arrais-Amador, no rio Negro/Manaus.",
+   "preco": "",
+   "contato": "(92) 98129-1188; escolanauticariomar2@gmail.com",
+   "notas": "Endereço no site: Av. Itacoatiara, 356, Cachoeirinha. Consta na lista oficial 'Escolas Náuticas Cadastradas' da Capitania Fluvial da Amazônia Ocidental (https://www.marinha.mil.br/cfaoc/node/31). Coordenada = trecho da Av. Itacoatiara em Cachoeirinha (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "no-am-nautilus-sports",
+   "nome": "Nautilus Sports – Escola Náutica",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Manaus",
+   "uf": "AM",
+   "regiao": "Norte",
+   "lat": -3.1158286,
+   "lon": -60.0440765,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://enauticanautilus.com/",
+   "fonte_url": "https://enauticanautilus.com/documentos-de-sua-embarcacao/primeira-habilitacao/",
+   "evidencia": "\"Caso o aluno faça a opção do curso de arrais amador [...] a instrução inicia às 8h e segue até às 14h\"; \"Após a aula prática, o aluno tem até 24 meses (2 anos) para fazer a prova na Marinha\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta",
+    "simulado online"
+   ],
+   "pratica": "Aula teórica, apostila, simulado e aula prática embarcada (8h–14h) para o atestado de Arrais-Amador.",
+   "preco": "",
+   "contato": "(92) 3088-1516; (92) 99614-0103; contato@enauticanautilus.com",
+   "notas": "Endereço no site: Av. Padre Agostinho Caballero Martin, 355, Santo Antônio, 69035-090. Consta na lista oficial da CFAOC (https://www.marinha.mil.br/cfaoc/node/31). O prazo de 24 meses é afirmação da escola, não verificada aqui na norma. Coordenada = centróide do bairro Santo Antônio (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "no-pa-para-ship",
+   "nome": "Pará Ship – Habilitação e Legalização Náutica",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Belém",
+   "uf": "PA",
+   "regiao": "Norte",
+   "lat": -1.448784,
+   "lon": -48.4973477,
+   "coord_precisao": "exata",
+   "site": "https://paraship.com.br/",
+   "fonte_url": "https://paraship.com.br/",
+   "evidencia": "\"Há 14 anos formamos novos navegadores com excelência, oferecendo cursos de Arrais Amador e Motonauta, além de atuarmos como Despachante Marítimo\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Treinamento para o atestado de Arrais-Amador (aulas práticas não detalhadas no site).",
+   "preco": "",
+   "contato": "(91) 3222-9441; (91) 99101-1200; paraship@hotmail.com.br",
+   "notas": "Endereço no site: Rua Santo Antônio nº 432, Ed. Antônio Velho, sala 611, Campina, 66010-105. Consta no PDF oficial da CPAOR 'ETN CADASTRADAS NA CPAOR - 26FEV2026' (https://www.marinha.mil.br/cpaor/sites/www.marinha.mil.br.cpaor/files/2026-02/ETN%20CADASTRADAS%20NA%20CPAOR%20-%2026FEV2026.pdf) como 'AGÊNCIA LOGÍSTICA PARÁ SHIPMENT LTDA-ME (PARÁ SHIP)'. Coordenada = número 432 da Rua Santo Antônio (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "no-pa-tubarao-escola-nautica",
+   "nome": "Tubarão Escola Náutica e Despachante",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Belém",
+   "uf": "PA",
+   "regiao": "Norte",
+   "lat": -1.4530846,
+   "lon": -48.4880119,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://tubaraoescolanautica.com/",
+   "fonte_url": "https://tubaraoescolanautica.com/",
+   "evidencia": "\"Garanta sua habilitação náutica em até 20 dias úteis após a matrícula\"; \"Curso Náutico em apenas 1 dia Arrais Amador e Motonauta\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Curso de um dia com parte prática para o atestado de Arrais-Amador.",
+   "preco": "",
+   "contato": "(91) 98203-5173; tubaraoescolanautica@gmail.com",
+   "notas": "O servidor respondeu HTTP 403 ao navegador automatizado, mas o conteúdo carregou. Endereço pela lista oficial da CPAOR (26/02/2026): Avenida Nazaré, nº 532, Nazaré, 66.035-145 (https://www.marinha.mil.br/cpaor/sites/www.marinha.mil.br.cpaor/files/2026-02/ETN%20CADASTRADAS%20NA%20CPAOR%20-%2026FEV2026.pdf). Prazo de '20 dias úteis' é promessa comercial da escola.",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "no-pa-centro-treinamento-nautico-belem",
+   "nome": "Centro de Treinamento Náutico – Belém (CTN)",
+   "tipos": [
+    "escola-vela"
+   ],
+   "cidade": "Belém",
+   "uf": "PA",
+   "regiao": "Norte",
+   "lat": -1.4751438,
+   "lon": -48.473916,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.instagram.com/centrodetreinamentonautico/",
+   "fonte_url": "https://linktr.ee/centrodetreinamentonautico",
+   "evidencia": "Linktree oficial: \"⛵ Navegue além da rotina! Cursos de vela e navegação.\" e \"Como chegar lá! Av. Bernardo Sayão - Condor, Belém\"; o perfil no Instagram (aberto sem login) tem a mesma descrição.",
+   "cursos": [
+    "cursos de vela e navegação (detalhes não publicados)"
+   ],
+   "pratica": "Não detalhada publicamente; perfil anuncia cursos de vela e navegação em Belém.",
+   "preco": "",
+   "contato": "Matrícula via links do Linktree",
+   "notas": "EVIDÊNCIA FRACA: sem site próprio; só Instagram (abriu sem login, cerca de 255 seguidores) e Linktree. Não aparece no PDF da CPAOR de 26/02/2026, então não emite atestado ARA por lá. Confirmar antes de recomendar. Coordenada = Av. Bernardo Sayão no bairro Condor (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-ms-nauticos-escola-nautica",
+   "nome": "Náuticos Escola Náutica",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "regiao": "Centro-Oeste",
+   "lat": -20.4830956,
+   "lon": -54.6187949,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://nauticosescolanautica.com.br/",
+   "fonte_url": "https://nauticosescolanautica.com.br/",
+   "evidencia": "\"Escola Naútica em Campo Grande MS [...] Curso Pretendido: Curso de Arrais / Curso de Motonauta / Inclusão de Motonauta\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Treinamento para o atestado de Arrais-Amador (detalhes não publicados).",
+   "preco": "",
+   "contato": "(67) 99608-3880; (67) 3384-6941; contato@nauticosescolanautica.com.br",
+   "notas": "Site: Av. Salgado Filho, 2166, sala 09, Jardim América, 79005-300. O PDF oficial da Capitania Fluvial do Pantanal (https://www.marinha.mil.br/cfpn/sites/www.marinha.mil.br.cfpn/files/CFPN%20E%20AGMURT%20-%20Entidades%20de%20Treinamento%20N%C3%A1utico%20Cadastradas_0.pdf) lista 'NÁUTICOS' com validade 26/10/2030 (Port. nº 26/2025/CFPN), mas com outro endereço (Av. das Bandeiras, 767); os telefones coincidem. Coordenada = centróide do Jardim América (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-ms-7-mares-arrais",
+   "nome": "Escola Náutica 7 Mares",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "regiao": "Centro-Oeste",
+   "lat": -20.480843,
+   "lon": -54.6073802,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://7maresarrais.com.br/",
+   "fonte_url": "https://7maresarrais.com.br/",
+   "evidencia": "\"SERVIÇOS OFERECIDOS Cursos Náuticos Arrais Amador Motonauta Inclusão de Motonauta\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Treinamento para o atestado de Arrais-Amador (detalhes não publicados).",
+   "preco": "",
+   "contato": "(67) 3043-3865; (67) 99115-5339; contato@7maresarrais.com.br",
+   "notas": "Site: Av. Eduardo Elias Zahran, nº 399. O PDF oficial da CFPN lista 'ESCOLA 7 MARES' com validade 04/09/2030 (Port. nº 25/2025/CFPN), mas no endereço Rua Berilo, 68, Vila Alba; telefones coincidem. Coordenada = trecho da Av. Eduardo Elias Zahran (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-mt-romera-escola-nautica",
+   "nome": "Romera Escola Náutica",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "regiao": "Centro-Oeste",
+   "lat": -15.6329445,
+   "lon": -56.0772864,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.romeraescolanautica.com/",
+   "fonte_url": "https://www.romeraescolanautica.com/",
+   "evidencia": "\"MATRICULAS ABERTAS 2026 [...] Somos credenciados Marinha do Brasil [...] OFERECEMOS CURSO PREPARATÓRIO PARA ARRAIS AMADOR E MOTONAUTA R$1.400,00 em até 3X\"; \"Temos 2 embarcações, sendo uma de alumínio, uma de fibra e um jetski\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Aulas práticas em lanchas da escola (alumínio e fibra) para o atestado de Arrais-Amador.",
+   "preco": "R$ 1.400,00 (Arrais-Amador e Motonauta, em até 3x) – site em 2026-10-07, anunciado como 'Matrículas abertas 2026'.",
+   "contato": "(65) 99299-3404",
+   "notas": "Endereço no site: Rua F, nº 01-76, Praeirinho, 78070-698. O credenciamento na Marinha é afirmação da escola; não cruzei com lista oficial da OM de Cuiabá. Coordenada = centróide do Praeirinho (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-mt-netuno-nautica",
+   "nome": "Netuno Consultoria e Projetos Náuticos",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "regiao": "Centro-Oeste",
+   "lat": -15.5899448,
+   "lon": -56.0785086,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://netunonautica.com/",
+   "fonte_url": "https://netunonautica.com/work/arrais-amador/",
+   "evidencia": "Título da página: \"ARRAIS AMADOR, MESTRE AMADOR E CAPITÃO AMADOR\"; conteúdo: módulo com \"RIPEAM [...] Balizamento Náutico NORMAM [...] Combate a Incêndio Sobrevivência no Mar Primeiros Socorros Arte Naval LESTA [...] RLESTA\".",
+   "cursos": [
+    "Arrais-Amador",
+    "Mestre-Amador",
+    "Capitão-Amador"
+   ],
+   "pratica": "Preparação teórica e prática para o exame de Arrais-Amador; Mestre/Capitão aparecem no título, sem programa detalhado.",
+   "preco": "",
+   "contato": "(65) 99643-9141; contato@netunonautica.com",
+   "notas": "Endereço no site: Av. Historiador Rubens de Mendonça, 2368, Bosque da Saúde, Ed. Top Tower, sala 904. Confirmar se Mestre/Capitão são de fato oferecidos (página detalha só Arrais). Coordenada = centróide do Bosque da Saúde (OSM).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "co-go-neto-despachante-nautico",
+   "nome": "Neto Despachante Náutico e Assessoria Naval (escola náutica)",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "regiao": "Centro-Oeste",
+   "lat": -16.7302229,
+   "lon": -49.2298134,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.escolanauticaeassessoria.com.br/",
+   "fonte_url": "https://www.escolanauticaeassessoria.com.br/",
+   "evidencia": "\"Neto Despachante Náutico - Arrais-Amador, Motonauta e Mestre-amador Goiás, Distrito Federal e Caldas Novas\"; \"Credenciados na Capitania Fluvial de Goiás da Marinha do Brasil, em atividade desde 1992.\"",
+   "cursos": [
+    "Arrais-Amador",
+    "Mestre-Amador",
+    "Motonauta",
+    "curso online"
+   ],
+   "pratica": "Treinamento náutico prático de Arrais-Amador (o site publica posts com fotos de treinamentos práticos).",
+   "preco": "",
+   "contato": "Goiânia (62) 3282-3906 / 3249-3052",
+   "notas": "Consta na lista oficial da Capitania Fluvial de Goiás (Avenida Angélica, Qd Y-01, Lt 14, nº 508, Jardim Bela Vista), atualizada em 01/10/2025 (https://www.marinha.mil.br/cfgo/node/5). Página lida por download direto (curl), pois o navegador automatizado falhou. Coordenada = Av. Angélica (OSM indica bairro vizinho Parque Acalanto).",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "su-pr-iate-clube-lago-de-itaipu",
+   "nome": "Iate Clube Lago de Itaipu (ICLI) – Projeto Velejar é Preciso",
+   "tipos": [
+    "iate-clube",
+    "escola-vela"
+   ],
+   "cidade": "Foz do Iguaçu",
+   "uf": "PR",
+   "regiao": "Sul",
+   "lat": -25.4461333,
+   "lon": -54.5109809,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://icli.com.br/",
+   "fonte_url": "https://icli.com.br/velejar-e-preciso/",
+   "evidencia": "\"Desde 2001 , o Iate Clube Lago de Itaipu (ICLI) desenvolve o projeto social Velejar é Preciso . Atualmente são 120 jovens , com idade entre 9 e 16 anos [...] barcos completos, instrutores capacitados, colete salva-vidas\".",
+   "cursos": [
+    "iniciação à vela para jovens de 9 a 16 anos (projeto social)"
+   ],
+   "pratica": "Clube com iatismo, hangares, rampas e píer flutuante no Lago de Itaipu; o projeto social atende jovens do bairro Três Lagoas. Adultos: consultar o clube.",
+   "preco": "",
+   "contato": "(45) 3577-1315; contato@iatelago.com.br",
+   "notas": "Endereço no site: R. Inácio Reuter Sottomaior, 1020, Jardim Porto Dourado. Projeto com apoio da Itaipu Binacional (segundo o site). Página lida por download direto (curl). Polo de águas interiores no PR incluído porque o pedido o cita; região oficial = Sul.",
+   "pais": "Brasil",
+   "verificado_em": "2026-10-07"
+  }
+ ],
+ "open_questions": [
+  "Santarém (PA): a página 'Aprenda a velejar / Escola de Vela Santarém' no Facebook (https://www.facebook.com/velasantarem/) abre sem login, mas a última publicação visível é de 09/11/2015 e o site velasantarem.com.br não respondeu. Não incluída.",
+  "Manaus (AM): o Iate Clube de Manaus tem site ativo (https://www.iateclubedemanaus.org/, sede náutica na Rua Iate Clube, Ponta Negra) e anuncia retomada de atividades, mas não mostra vela nem escola de vela. Não encontrei escola de vela em Manaus.",
+  "Belém (PA): o Iate Clube do Pará (Av. Bernardo Sayão, 3224, Condor) só aparece em agregadores e no Facebook; não achei site próprio. A Associação Náutica de Belém (ANB) organizava a regata Mosqueiro–Soure, mas a única fonte achada é uma matéria do O Liberal de 24/05/2019 (https://www.oliberal.com/esportes/maisesportes/velejadores-da-anb-disputam-o-desafio-da-regata-%C3%A0-vela-mosqueiro-soure-1.145315). Confirmar se seguem ativos.",
+  "Belém (PA): o 'Centro de Treinamento Náutico – Belém' entrou com evidência fraca (só Instagram e Linktree). Confirmar endereço, barcos e programa.",
+  "Belém (PA): a lista da CPAOR (26/02/2026) também traz APS Escola Náutica, Bras Ship (Expresso Tavares) e RCN Belém Cursos Náuticos; não abri sites próprios deles.",
+  "Palmas (TO): não achei escola de vela no Lago de Palmas. A lista da CFAT (https://www.marinha.mil.br/cfat/escolas_nauticas) foi atualizada pela última vez em 09/08/2023 e cita Capital Náutica, Líder (Tito Náutica), Nauteventos, Navegantes CFA e outras, sem sites próprios verificados. A Palmas Marinas (https://palmasmarinas.com.br/) é uma marina de guarda de lanchas e jet skis, sem vela; não incluída.",
+  "Macapá (AP): não achei escola de vela nem lista de ETN acessível na página de amadores da CPAP (https://www.marinha.mil.br/cpap/AMADOR).",
+  "Goiás: não achei escola de vela em Goiânia, no Lago Corumbá/Caldas Novas nem no Clube Jaó. A lista da CFGO traz outras 12 escolas de Arrais-Amador (Conexão, Nauta, Araguaia, Nautilus GO etc.) não abertas individualmente.",
+  "Cuiabá/MT: o perfil 'Tribo do Manso' (vela no Lago do Manso) apareceu na busca, mas o Instagram não carregou na verificação. Romera e Netuno não foram cruzadas com lista oficial da OM da Marinha em Cuiabá, porque não identifiquei qual OM publica a lista.",
+  "Corumbá/MS: a única escola de Corumbá na lista da CFPN é a Acquanauta – Agência Náutica, sem site próprio verificado.",
+  "Interior MG/SP: não achei escola de vela nos lagos de Furnas (Capitólio/Escarpas do Lago) nem de Três Marias. O site do Náutico Três Marias Iate Clube (https://www.nauticotresmarias.com.br/) diz que a estrutura é 'voltada estritamente para áreas de Acampamento'. Na Billings só há eventos pontuais antigos (2016). Não incluídos.",
+  "Rondônia, Acre e Roraima ficaram fora. A lista da CFAOC traz escolas em Boa Vista e Caracaraí (RR) sem sites próprios verificados.",
+  "Preços: os valores do curso adulto do ICB são de 2020 e 2023, e o preço atual não está publicado. O Clube Naval não informa se o valor é mensal ou por curso. A Escola de Vela Brasília avisa sobre 'reajuste a partir de junho de 2026'. Confirmar antes de publicar.",
+  "Divergência de endereço entre site e lista oficial da CFPN para Náuticos e 7 Mares (Campo Grande). Os telefones coincidem; confirmar o endereço atual de aula.",
+  "Náutica Brasília e a página da Arte de Navegar na AABB ainda citam a NORMAM-03/DPC; a norma vigente para amadores é a NORMAM-211/DPC."
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "questoes": [
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 1,
+   "enunciado": "Por que a altura da antena influi mais no alcance de uma conversa em VHF marítimo do que o aumento da potência do rádio?",
+   "alternativas": [
+    "Porque o VHF viaja em linha reta e não contorna a curvatura da Terra; antena mais alta enxerga mais longe.",
+    "Porque as ondas de VHF sobem até a ionosfera e voltam, e a altura da antena decide onde elas retornam.",
+    "Porque uma antena mais alta aumenta a potência irradiada pelo transmissor, medida em watts, sem trocar o rádio.",
+    "Porque a potência do VHF marítimo é limitada a 1 W e só a altura da antena compensa essa limitação."
+   ],
+   "correta": 0,
+   "explicacao": "O VHF se propaga em linha de visada de rádio: o que está abaixo do horizonte fica escondido, e o horizonte cresce com a altura das antenas. A reflexão na ionosfera é característica das ondas curtas (HF), não do VHF. A altura da antena não cria potência: ela só muda até onde o sinal chega. E a potência do VHF fixo já é alta (a NORMAM-211, art. 4.23.2, pede no mínimo 25 W; 1 W é apenas a opção de potência baixa), então não é ela que limita o alcance.",
+   "referencia": "Rec. UIT-R P.834 (refração troposférica); propagação em linha de visada no VHF",
+   "fonte_url": "https://www.itu.int/rec/R-REC-P.834"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro grande tem a antena de VHF no tope, a 25 m acima da água. A antena de uma estação costeira está a 100 m. Pela regra prática alcance (milhas) ≈ 2,2 × (√h₁ + √h₂), com as alturas em metros, qual é o alcance teórico entre as duas estações?",
+   "alternativas": [
+    "Cerca de 33 milhas.",
+    "Cerca de 275 milhas.",
+    "Cerca de 25 milhas.",
+    "Cerca de 110 milhas."
+   ],
+   "correta": 0,
+   "explicacao": "√25 = 5 e √100 = 10; 5 + 10 = 15; 2,2 × 15 = 33 milhas. O valor de 275 vem de somar as alturas sem tirar a raiz (2,2 × 125). O de 25 vem de tirar a raiz da soma das alturas (2,2 × √125 ≈ 24,6), o que não é a regra. O de 110 vem de multiplicar as raízes em vez de somá-las (2,2 × 5 × 10).",
+   "referencia": "Rec. UIT-R P.834; regra prática de alcance em linha de visada de rádio",
+   "fonte_url": "https://www.itu.int/rec/R-REC-P.834",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 360 150\" role=\"img\" aria-label=\"Duas antenas sobre a curvatura da Terra: uma a 25 metros e outra a 100 metros de altura\"><path d=\"M10 130 Q180 70 350 130 L350 146 L10 146 Z\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\" stroke-width=\"2\"/><line x1=\"90\" y1=\"108\" x2=\"90\" y2=\"98\" stroke=\"var(--ink)\" stroke-width=\"3\"/><line x1=\"270\" y1=\"108\" x2=\"270\" y2=\"68\" stroke=\"var(--ink)\" stroke-width=\"3\"/><circle cx=\"90\" cy=\"98\" r=\"3\" fill=\"var(--nav-red)\"/><circle cx=\"270\" cy=\"68\" r=\"3\" fill=\"var(--nav-red)\"/><line x1=\"90\" y1=\"98\" x2=\"270\" y2=\"68\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><text x=\"90\" y=\"88\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\">25 m</text><text x=\"270\" y=\"58\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\">100 m</text><text x=\"180\" y=\"140\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\">alcance = ?</text></svg>"
+   }
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 2,
+   "enunciado": "Em um trecho noturno da navegação costeira, um tripulante propõe desligar o VHF com DSC para poupar a bateria e religá-lo só se houver problema. De acordo com a NORMAM-211, o que está certo?",
+   "alternativas": [
+    "Pode, desde que a EPIRB fique ligada, pois ela substitui a escuta do VHF durante toda a navegação noturna.",
+    "Não pode: com o barco navegando, o VHF fica ligado e em escuta permanente no canal 16, ou no 70 se for DSC.",
+    "Pode, desde que a escuta seja mantida só durante o dia, quando há mais tráfego de embarcações na costa.",
+    "Pode, se o AIS estiver ligado, porque ele cobre a escuta de chamadas e de pedidos de socorro de outros barcos."
+   ],
+   "correta": 1,
+   "explicacao": "A norma exige o equipamento VHF ligado e em escuta permanente enquanto a embarcação navega (art. 4.23.4, alínea a), porque um pedido de socorro pode vir a qualquer hora. A EPIRB só transmite quando ativada e não ouve o canal; o AIS troca dados de posição e não recebe chamadas de voz nem alertas DSC; e a escuta não depende de ser dia ou noite.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.4 a)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 1,
+   "enunciado": "Qual das associações entre canal e frequência do VHF marítimo está correta?",
+   "alternativas": [
+    "Canal 70: 156,800 MHz, voz de chamada e socorro.",
+    "Canal 16: 156,525 MHz, chamada digital DSC.",
+    "Canal 70: 161,975 MHz, canal do AIS.",
+    "Canal 16: 156,800 MHz, voz de chamada e socorro."
+   ],
+   "correta": 3,
+   "explicacao": "O canal 16 (156,800 MHz) é o canal de voz para chamada, socorro, urgência e segurança. O canal 70 (156,525 MHz) é reservado ao DSC, em dados. Duas das associações erradas trocam os valores de um canal pelos do outro. E o AIS usa 161,975 e 162,025 MHz, que não são o canal 70.",
+   "referencia": "UIT, RR, Apêndice 18 (canais do serviço móvel marítimo); NORMAM-211/DPC, art. 4.23.4 a)",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 1,
+   "enunciado": "O MMSI de uma estação de navio tem 9 dígitos. No MMSI fictício da figura, o que os três primeiros dígitos (710) identificam?",
+   "alternativas": [
+    "A área marítima do GMDSS em que o barco navega, de A1 a A4.",
+    "O país da estação, pelo código MID: 710 é o Brasil.",
+    "O tipo de equipamento instalado: 710 indica um VHF com DSC.",
+    "A Capitania dos Portos em que o barco está inscrito."
+   ],
+   "correta": 1,
+   "explicacao": "Os três primeiros dígitos são o MID (maritime identification digits), o código do país; o do Brasil é 710, e os seis seguintes identificam a estação. As áreas A1 a A4 do GMDSS são definidas pelo alcance dos meios de comunicação e não aparecem no MMSI. O MMSI não informa o tipo de rádio nem a Capitania de inscrição.",
+   "referencia": "UIT, RR, Apêndice 43; Rec. UIT-R M.585; NORMAM-211/DPC, art. 4.23.6 d) (a EPIRB usa o mesmo prefixo 710)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 360 120\" role=\"img\" aria-label=\"MMSI fictício 710 482916, com um grupo de três dígitos e um grupo de seis dígitos\"><rect x=\"20\" y=\"24\" width=\"120\" height=\"48\" rx=\"4\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\"/><rect x=\"160\" y=\"24\" width=\"180\" height=\"48\" rx=\"4\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\"/><text x=\"80\" y=\"58\" text-anchor=\"middle\" font-size=\"26\" font-family=\"monospace\" fill=\"currentColor\">7 1 0</text><text x=\"250\" y=\"58\" text-anchor=\"middle\" font-size=\"26\" font-family=\"monospace\" fill=\"currentColor\">4 8 2 9 1 6</text><path d=\"M20 84 v8 h120 v-8\" fill=\"none\" stroke=\"var(--sea-3)\" stroke-width=\"2\"/><path d=\"M160 84 v8 h180 v-8\" fill=\"none\" stroke=\"var(--sea-3)\" stroke-width=\"2\"/><text x=\"80\" y=\"110\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\">3 dígitos</text><text x=\"250\" y=\"110\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\">6 dígitos</text><text x=\"180\" y=\"14\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\">MMSI fictício de estação de navio</text></svg>"
+   }
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 3,
+   "enunciado": "Pela estrutura dos MMSI definida pela UIT, qual dos números abaixo identifica uma ESTAÇÃO COSTEIRA do Brasil (MID 710)?",
+   "alternativas": [
+    "710009990",
+    "007109990",
+    "071012345",
+    "970710999"
+   ],
+   "correta": 1,
+   "explicacao": "A estação costeira usa 00 + MID + 4 dígitos: 00 710 9990. O número 710 009990 segue o formato de estação de navio (MID + 6 dígitos). O 071012345 segue o de grupo de navios (0 + MID + 5 dígitos). E o 970710999 começa por 970, prefixo do AIS-SART (baliza de sobrevivência), embora contenha 710 no meio.",
+   "referencia": "Rec. UIT-R M.585; UIT, RR, Apêndice 43",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.585"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 2,
+   "enunciado": "Com o rádio VHF DSC ligado ao GPS do barco, quais informações o alerta de socorro enviado no canal 70 leva?",
+   "alternativas": [
+    "O nome do comandante, o número de pessoas a bordo e o tipo de carga transportada.",
+    "Somente um tom de alarme, sem identificar o barco e sem informar a posição.",
+    "A posição e a hora de Brasília, mas nunca o MMSI, para preservar a privacidade do dono.",
+    "O MMSI, a posição, a hora UTC e a natureza do perigo, se o operador a escolheu."
+   ],
+   "correta": 3,
+   "explicacao": "O alerta DSC leva a identidade do barco (MMSI), a posição e a hora UTC, vindas do GPS e do próprio rádio, e a natureza do perigo, quando o operador a seleciona. Nome do comandante, número de pessoas e carga não fazem parte do alerta (o número de pessoas vai na mensagem de voz). Um tom sem dados não é um alerta digital. E sem o MMSI ninguém saberia quem pede socorro; além disso, a hora do alerta é UTC, não a de Brasília.",
+   "referencia": "Rec. UIT-R M.493 (informação do alerta de socorro); UIT-R M.541",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.493"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 2,
+   "enunciado": "A NORMAM-211 pede ao VHF portátil bateria para operar por no mínimo 4 horas com coeficiente de utilização de 1:9, isto é, 1 minuto de transmissão para 9 minutos de escuta. Nessas 4 horas, quanto tempo o rádio fica transmitindo?",
+   "alternativas": [
+    "24 minutos.",
+    "40 minutos.",
+    "27 minutos.",
+    "216 minutos."
+   ],
+   "correta": 0,
+   "explicacao": "A cada 10 minutos (1 de transmissão + 9 de escuta), 1 minuto é de transmissão. Em 4 h = 240 min, são 240 ÷ 10 = 24 minutos. Os 40 minutos vêm de ler 0,4 h como 40 minutos. Os 27 minutos vêm de dividir 240 por 9, esquecendo que o minuto transmitido também faz parte do ciclo. E os 216 minutos invertem a proporção (9 de transmissão para 1 de escuta).",
+   "referencia": "NORMAM-211/DPC, art. 4.23.3",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro tem a antena de VHF no tope do mastro. O que a NORMAM-211 exige além dela, para o caso de o mastro quebrar?",
+   "alternativas": [
+    "Um segundo rádio VHF fixo, ligado à mesma antena do tope.",
+    "Um rádio HF no lugar do VHF, que dispensa a antena do tope.",
+    "Uma antena de emergência, para uso se o mastro quebrar.",
+    "Um rolo de cabo coaxial reserva, sem antena."
+   ],
+   "correta": 2,
+   "explicacao": "Se o mastro cai, a antena do tope vai junto e o VHF fica mudo; por isso a norma exige uma antena de emergência (art. 4.24.2). Um segundo rádio ligado à mesma antena cairia junto com o mastro. Trocar o VHF por HF não cumpre a exigência, e cabo sem antena não irradia nada.",
+   "referencia": "NORMAM-211/DPC, art. 4.24.2 (parágrafo final)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de 13 m (embarcação de médio porte: comprimento inferior a 24 m, exceto as miúdas, que têm até 6 m, pelas definições da NORMAM-211) fará navegação costeira. Quanto ao rádio, o que a NORMAM-211 exige no art. 4.24.2, alínea b?",
+   "alternativas": [
+    "Um VHF fixo ou portátil, apenas recomendado, sem exigência de DSC.",
+    "Um VHF com DSC mais um HF com DSC (ou comunicador satelital).",
+    "Um transceptor VHF com DSC, obrigatório para essa navegação.",
+    "Nenhum rádio, bastando o celular com sinal de operadora."
+   ],
+   "correta": 2,
+   "explicacao": "Na navegação costeira, a embarcação de médio porte precisa de um transceptor VHF com DSC. A recomendação de VHF fixo ou portátil (alínea c) vale para a navegação interior. VHF com DSC mais HF com DSC (que pode ser trocado por telefone ou comunicador satelital) e EPIRB 406 MHz são a dotação da navegação oceânica (alínea a). E o celular não substitui o rádio marítimo, pois depende de cobertura de operadora.",
+   "referencia": "NORMAM-211/DPC, art. 4.24.2 b) e c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "VHF e DSC",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro com antena de VHF a 9 m quer falar com uma estação costeira a 22 milhas, no limite do alcance. Pela regra alcance ≈ 2,2 × (√h₁ + √h₂), qual é a altura mínima da antena da costeira?",
+   "alternativas": [
+    "7 m.",
+    "49 m.",
+    "100 m.",
+    "13 m."
+   ],
+   "correta": 1,
+   "explicacao": "Com 22 milhas: 22 ÷ 2,2 = 10, e √9 = 3 da antena do veleiro; sobram √h = 7, logo h = 7² = 49 m. O valor de 7 m esquece de elevar ao quadrado. O de 100 m ignora a antena do veleiro (10²). E o de 13 m subtrai as alturas diretamente (22 − 9), mas a regra trabalha com raízes.",
+   "referencia": "Rec. UIT-R P.834; regra prática de alcance em linha de visada de rádio",
+   "fonte_url": "https://www.itu.int/rec/R-REC-P.834"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro foi abalroado por um cargueiro, o casco abriu e a água entra mais depressa do que as bombas retiram. Que sinal de rádio o comandante deve usar?",
+   "alternativas": [
+    "PAN PAN, porque o barco ainda está flutuando.",
+    "MAYDAY, porque há perigo grave e iminente e é preciso auxílio imediato.",
+    "SÉCURITÉ, para avisar os outros navegantes do abalroamento.",
+    "Nenhum sinal especial: basta chamar a costeira no canal 16 em tom de rotina."
+   ],
+   "correta": 1,
+   "explicacao": "Alagamento que supera as bombas ameaça afundar o barco: é perigo grave e iminente, caso de MAYDAY. O PAN PAN serve quando a urgência não é de perigo imediato, e “ainda flutuar” não torna a situação menos grave. O SÉCURITÉ é aviso de segurança da navegação e não pede ajuda. E uma chamada de rotina não tem a prioridade do socorro.",
+   "referencia": "UIT, RR, Art. 32 (sinal de socorro MAYDAY); Anatel, Material de apoio ao exame de Radiotelefonista, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 1,
+   "enunciado": "Você avista um contêiner flutuando semi-submerso no meio de uma rota de navegação. Ninguém corre perigo, mas é preciso avisar os outros barcos. Que sinal de rádio usar?",
+   "alternativas": [
+    "MAYDAY, dito três vezes, para garantir a atenção de todos.",
+    "PAN PAN, dito três vezes, porque o objeto é urgente.",
+    "O alerta DSC de socorro (DISTRESS), por ser mais rápido.",
+    "SÉCURITÉ, dito três vezes antes do aviso."
+   ],
+   "correta": 3,
+   "explicacao": "Objeto à deriva é o caso típico de aviso de segurança da navegação: SÉCURITÉ, repetido três vezes. MAYDAY e o alerta DISTRESS são para perigo grave e iminente do seu próprio barco ou de outro, e usá-los sem necessidade mobiliza recursos de salvamento. O PAN PAN trata de urgência de uma embarcação ou pessoa, e aqui ninguém precisa de ajuda.",
+   "referencia": "UIT, RR, Art. 33 (sinal e mensagens de segurança); Anatel, Material de apoio, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 1,
+   "enunciado": "Qual é a ordem decrescente de prioridade das comunicações no serviço móvel marítimo?",
+   "alternativas": [
+    "Urgência (PAN PAN), socorro (MAYDAY), segurança (SÉCURITÉ) e, por último, rotina.",
+    "Segurança (SÉCURITÉ), urgência (PAN PAN), socorro (MAYDAY) e, por último, rotina.",
+    "Socorro (MAYDAY), urgência (PAN PAN), segurança (SÉCURITÉ) e, por último, rotina.",
+    "Socorro (MAYDAY), segurança (SÉCURITÉ), urgência (PAN PAN) e, por último, rotina."
+   ],
+   "correta": 2,
+   "explicacao": "A prioridade vai do mais grave ao mais leve: socorro, urgência, segurança e, por último, rotina. A mesma ordem vale para as categorias de chamada do DSC. A primeira alternativa põe a urgência acima do socorro. A segunda inverte a escada inteira e coloca o aviso de segurança no topo. A quarta põe a segurança acima da urgência, o que rebaixa um pedido urgente ao nível de um aviso.",
+   "referencia": "UIT, RR, Arts. 32 e 33; Rec. UIT-R M.493 (categorias de chamada)",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.493"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante quer apertar o botão DISTRESS “só para ver se o rádio está funcionando”. Por que isso não deve ser feito?",
+   "alternativas": [
+    "Porque o botão só pode ser acionado uma vez por viagem e depois o rádio fica travado até ser reiniciado.",
+    "Porque o transmissor do canal 70 queima se o botão ficar apertado por mais de 5 segundos seguidos.",
+    "Porque o alerta é real: chega às estações no alcance e pode mobilizar o salvamento.",
+    "Porque o alerta só funciona se o barco estiver navegando a mais de 5 nós de velocidade."
+   ],
+   "correta": 2,
+   "explicacao": "O DISTRESS não tem modo de teste: o alerta sai de verdade, toca em todos os rádios DSC no alcance e pode acionar o salvamento. Para testar, use uma chamada individual a um amigo ou a uma marina, em canal de trabalho. O botão não trava depois de usado, o equipamento é projetado para a duração normal do acionamento (cerca de 5 segundos) e o alerta não depende da velocidade do barco.",
+   "referencia": "Rec. UIT-R M.541; UIT, Resolução 349 (Rev.CMR-23) (alertas de socorro falsos e sua consequência para o salvamento)",
+   "fonte_url": "https://itu.int/en/ITU-R/terrestrial/fmd/Documents/WRC_23_Resolutions/E/RES_349(REV.WRC-23)-E.pdf"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 2,
+   "enunciado": "A 12 milhas da costa, com mar de 1 m e vento fraco, o leme de um veleiro quebra. A tripulação está bem, o barco não faz água e a deriva é lenta, mas eles precisam de reboque. Qual é a comunicação mais adequada?",
+   "alternativas": [
+    "PAN PAN três vezes, com a posição, o problema e o pedido de reboque.",
+    "MAYDAY três vezes, pois o barco ficou sem governo e isso sempre é perigo grave e iminente.",
+    "SÉCURITÉ três vezes, avisando a deriva do barco e pedindo o reboque a quem estiver ouvindo.",
+    "Nenhuma chamada por ora, esperando o barco chegar a menos de 1 milha das pedras mais próximas."
+   ],
+   "correta": 0,
+   "explicacao": "É uma situação urgente para a segurança do barco, mas sem perigo grave e iminente: caso de PAN PAN, com posição, problema e auxílio desejado. MAYDAY fica para risco imediato de vida ou do barco. O SÉCURITÉ serve para avisar a navegação e não pede ajuda. E esperar o perigo ficar iminente desperdiça tempo; se a situação piorar, passa-se a MAYDAY.",
+   "referencia": "UIT, RR, Art. 33 (sinal e mensagem de urgência); Anatel, Material de apoio, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 2,
+   "enunciado": "O veleiro “Maresia” precisa fazer a chamada de socorro por voz no canal 16. Qual é o começo correto da chamada?",
+   "alternativas": [
+    "SOS, SOS, SOS. Aqui é Maresia, Maresia, Maresia.",
+    "Maresia, Maresia, Maresia. Aqui é MAYDAY, MAYDAY, MAYDAY.",
+    "MAYDAY. Maresia. Estamos afundando. Câmbio.",
+    "MAYDAY, MAYDAY, MAYDAY. Aqui é Maresia, Maresia, Maresia."
+   ],
+   "correta": 3,
+   "explicacao": "A chamada de socorro por voz começa com o sinal dito três vezes, depois “aqui é” e o nome do barco três vezes. O SOS é o sinal do Código Morse, e não da radiotelefonia. A alternativa que começa pelo nome do barco troca a ordem e põe o nome no lugar do sinal. A que diz só um MAYDAY tem uma única repetição, não dá a posição nem a natureza do perigo e fecha com “câmbio” antes de dar os dados.",
+   "referencia": "UIT, RR, Art. 32 (chamada de socorro por radiotelefonia); RIPEAM, Anexo IV (sinais de perigo)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 2,
+   "enunciado": "Na mensagem de socorro, como o tripulante deve informar a posição do veleiro?",
+   "alternativas": [
+    "Apenas o nome do porto de destino da viagem, que a costeira já conhece pelo plano de navegação.",
+    "Latitude e longitude, em graus e minutos, ou distância e marcação de um ponto conhecido.",
+    "O rumo e a velocidade planejados para a travessia, sem dizer onde o barco se encontra agora.",
+    "A posição do último porto visitado, mais a hora local em que o barco saiu de lá."
+   ],
+   "correta": 1,
+   "explicacao": "Quem vai socorrer precisa saber onde o barco está agora: coordenadas (com o hemisfério) ou distância e marcação de um ponto conhecido, como “8 milhas ao sul da Ilha Rasa”. O destino, o rumo planejado e o último porto dizem para onde o barco ia ou de onde veio, e não onde ele se encontra no momento do perigo.",
+   "referencia": "UIT, RR, Art. 32 (conteúdo da mensagem de socorro); Anatel, Material de apoio, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 2,
+   "enunciado": "Ao levantar a tampa para “ver como é”, a criança do dono apertou o DISTRESS e o alerta saiu do rádio do veleiro “Maresia”. O que fazer em seguida?",
+   "alternativas": [
+    "Cancelar na hora, por voz no canal 16, dizendo que foi alarme falso e dando MMSI e hora UTC.",
+    "Desligar o rádio, pois sem transmissão o alerta é cancelado automaticamente depois de alguns minutos.",
+    "Enviar logo um novo alerta DISTRESS, para que o segundo anule o primeiro e apague o registro.",
+    "Esperar que uma estação costeira ligue para o barco e só então explicar que foi um engano."
+   ],
+   "correta": 0,
+   "explicacao": "Alerta falso deve ser cancelado na hora (pelo DSC também, se o rádio tiver a função), e a mensagem de voz no canal 16 é sempre necessária, com o MMSI e a hora UTC do alerta, para que ninguém saia à procura de um barco que não está em perigo. Desligar e religar o rádio (após 10 segundos) é só o primeiro passo do procedimento da UIT; sozinho não cancela o alerta que já saiu nem avisa ninguém, e o alerta não se cancela sozinho. Um segundo DISTRESS só reforça o engano. Esperar a ligação da costeira atrasa o cancelamento e pode deslocar meios de salvamento à toa.",
+   "referencia": "UIT, Resolução 349 (Rev.CMR-23), Anexo, item 1 (cancelamento de alerta DSC em VHF); Rec. UIT-R M.541; Anatel, Material de apoio, item 2.2.15",
+   "fonte_url": "https://itu.int/en/ITU-R/terrestrial/fmd/Documents/WRC_23_Resolutions/E/RES_349(REV.WRC-23)-E.pdf"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro enviou PAN PAN porque o motor parou. Vinte minutos depois, o vento aumentou, o barco derivou para um costão e a tripulação não consegue fundear. O que deve fazer?",
+   "alternativas": [
+    "Manter o PAN PAN, pois o sinal já foi enviado e não se muda de categoria no meio da ocorrência.",
+    "Passar a MAYDAY e avisar todas as estações de que o perigo agora é grave e iminente.",
+    "Cancelar o PAN PAN e enviar SÉCURITÉ para alertar os barcos próximos sobre o costão.",
+    "Repetir o PAN PAN a cada minuto até que alguma estação responda ao pedido."
+   ],
+   "correta": 1,
+   "explicacao": "As mensagens podem subir de nível quando a situação piora: com risco imediato de encalhe, o correto é MAYDAY, avisando quem estava em escuta. Manter o PAN PAN subestima o perigo. O SÉCURITÉ não pede ajuda. E repetir PAN PAN insiste num sinal que já não descreve a gravidade do caso.",
+   "referencia": "UIT, RR, Arts. 32 e 33; Anatel, Material de apoio, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 1,
+   "enunciado": "Você navega e ouve, no canal 16, um MAYDAY de outro barco, que está longe do seu. O que deve fazer?",
+   "alternativas": [
+    "Desligar o rádio para não interferir no tráfego de socorro em andamento.",
+    "Continuar transmitindo normalmente no canal 16, já que o socorro é de outro barco.",
+    "Chamar o barco em perigo para pedir detalhes extras só por curiosidade.",
+    "Parar o que possa atrapalhar, ficar na escuta e anotar os dados do socorro."
+   ],
+   "correta": 3,
+   "explicacao": "Toda estação que ouve uma chamada de socorro deve cessar qualquer transmissão que possa perturbar o tráfego e manter a escuta, anotando quem chama, a posição, o perigo e o auxílio pedido: a informação pode ser necessária se ninguém atender. Continuar a transmitir ou chamar o barco por curiosidade ocupa o canal. Desligar o rádio tira você da escuta e impede de ajudar ou retransmitir.",
+   "referencia": "UIT, RR, Art. 32 (tráfego de socorro); Anatel, Material de apoio, item 1.4.4",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 3,
+   "enunciado": "Você ouve um MAYDAY no canal 16 de um veleiro com incêndio. Passados 5 minutos, nenhuma costeira nem outro barco respondeu. Seu barco não corre perigo. Qual é a ação correta?",
+   "alternativas": [
+    "Confirmar ao barco em perigo que o ouviu e retransmitir o socorro com MAYDAY RELAY.",
+    "Transmitir MAYDAY como se o seu barco estivesse em perigo, para a costeira agir mais rápido.",
+    "Transmitir PAN PAN com os dados do barco em perigo, para não causar alarme desnecessário.",
+    "Nada, pois só estações costeiras podem retransmitir pedidos de socorro."
+   ],
+   "correta": 0,
+   "explicacao": "Sem resposta em cerca de 5 minutos, quem ouviu o socorro confirma ao barco em perigo que o recebeu e o retransmite com MAYDAY RELAY, o que deixa claro que quem fala não está em perigo e repete o socorro de outro. Transmitir MAYDAY como se o próprio barco estivesse em perigo declara um perigo que não existe e mobiliza o socorro sem necessidade. O PAN PAN rebaixa a gravidade de um incêndio. E qualquer estação pode (e deve) retransmitir quando ninguém atende; a ideia de que só costeira pode é falsa.",
+   "referencia": "UIT, RR, Art. 32 (retransmissão de mensagem de socorro, MAYDAY RELAY)",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 3,
+   "enunciado": "O veleiro “Maresia” transmitiu MAYDAY no canal 16 e você, no veleiro “Gaivota”, é a primeira estação a ouvir e vai prestar auxílio. Qual é o recibo correto?",
+   "alternativas": [
+    "MAYDAY Maresia, aqui é Gaivota, recebido MAYDAY.",
+    "MAYDAY RELAY Maresia, aqui é Gaivota, recebido MAYDAY.",
+    "Maresia, aqui é Gaivota, câmbio e desligo.",
+    "PAN PAN Maresia, aqui é Gaivota, estamos ouvindo, câmbio."
+   ],
+   "correta": 0,
+   "explicacao": "O recibo repete o sinal de socorro, identifica o barco em perigo, diz “aqui é” com o nome de quem responde e fecha com “recebido MAYDAY”. O MAYDAY RELAY é para retransmitir o socorro a terceiros, e não para confirmar o recebimento. A resposta sem o sinal não tem a marca de socorro e “câmbio e desligo” é contraditório. E o PAN PAN rebaixaria a mensagem para urgência.",
+   "referencia": "UIT, RR, Art. 32 (recibo de mensagem de socorro por radiotelefonia)",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 3,
+   "enunciado": "Terminado o tráfego de socorro, o centro que coordenou a operação quer liberar o canal para uso normal. Que expressão deve usar?",
+   "alternativas": [
+    "SEELONCE MAYDAY, enviada por qualquer barco que tenha ouvido o socorro.",
+    "PAN PAN, PAN PAN, PAN PAN, a todas as estações, avisando que a urgência terminou.",
+    "SÉCURITÉ, SÉCURITÉ, SÉCURITÉ, a todas as estações, avisando que o canal foi liberado.",
+    "SEELONCE FEENEE (“silêncio terminado”), com a hora e o nome do barco em perigo."
+   ],
+   "correta": 3,
+   "explicacao": "O fim do silêncio de rádio é dado por quem controla o tráfego de socorro, com SEELONCE FEENEE (silence fini), a hora e a identificação do barco que estava em perigo. SEELONCE MAYDAY (no material da Anatel, SILENCE MAYDAY) impõe o silêncio, ao contrário do que se quer aqui, e cabe a quem controla o socorro, não a qualquer barco que o ouça. PAN PAN e SÉCURITÉ são sinais de urgência e de segurança e não encerram o tráfego de socorro.",
+   "referencia": "UIT, RR, Art. 32 (silêncio de rádio e fim do tráfego de socorro); Anatel, Material de apoio, item 2.1.9.5 (SILENCE MAYDAY)",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  },
+  {
+   "tema": "Procedimentos de socorro, urgência e segurança",
+   "dificuldade": 3,
+   "enunciado": "Qual das situações a seguir exige MAYDAY, e não PAN PAN?",
+   "alternativas": [
+    "Tripulante com corte profundo na mão, sangramento já controlado, que pede orientação médica.",
+    "Motor parado e sem vento, a 5 milhas de qualquer perigo, com fundeio possível, aguardando reboque.",
+    "Leme travado com mar calmo, dentro de uma baía, sem pedras nem tráfego por perto.",
+    "Tripulante inconsciente e sem respirar depois de ser tirado da água."
+   ],
+   "correta": 3,
+   "explicacao": "MAYDAY é o sinal para perigo grave e iminente que requer auxílio imediato (Anatel, item 2.1.9.3). Pessoa sem respirar corre risco imediato de morte, mesmo sendo um caso médico. Corte com sangramento controlado e pedido de orientação é urgência (PAN PAN), assim como motor parado com fundeio possível e leme travado com mar calmo, sem perigo próximo.",
+   "referencia": "UIT, RR, Arts. 32 e 33; Anatel, Material de apoio, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 1,
+   "enunciado": "Qual palavra do alfabeto fonético da UIT representa a letra W?",
+   "alternativas": [
+    "Washington",
+    "William",
+    "X-ray",
+    "Whiskey"
+   ],
+   "correta": 3,
+   "explicacao": "No Apêndice 14 do Regulamento de Radiocomunicações, W é “Whiskey”. “William” pertence a alfabetos antigos, “X-ray” é a letra X, vizinha de W, e “Washington” é um nome próprio que não consta da tabela.",
+   "referencia": "UIT, RR, Apêndice 14 (alfabeto de soletração); Anatel, Material de apoio, item 2.1.9.1",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 1,
+   "enunciado": "O nome do barco é LUA. Qual é a soletração correta, pelo alfabeto fonético da UIT?",
+   "alternativas": [
+    "Love, Uncle, Able.",
+    "Lima, Uruguai, Argentina.",
+    "Lima, Uniform, Alfa.",
+    "Lima, Uniform, Able."
+   ],
+   "correta": 2,
+   "explicacao": "Pelo alfabeto da UIT, L é Lima, U é Uniform e A é Alfa. “Love, Uncle, Able” e “Lima, Uniform, Able” trazem palavras do alfabeto antigo, abandonado, em que o A era “Able”. “Lima, Uruguai, Argentina” usa nomes de países, que não fazem parte do alfabeto.",
+   "referencia": "UIT, RR, Apêndice 14 (alfabeto de soletração); Anatel, Material de apoio, item 2.1.9.1",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 1,
+   "enunciado": "Numa chamada de rotina, qual palavra de procedimento você diz ao terminar de falar para passar a vez à outra estação?",
+   "alternativas": [
+    "Desligo (OUT).",
+    "Câmbio (OVER).",
+    "Recebido (RECEIVED).",
+    "Repita (SAY AGAIN)."
+   ],
+   "correta": 1,
+   "explicacao": "“Câmbio” (over) significa “terminei de falar, é a sua vez”. “Desligo” (out) encerra a conversa, sem esperar resposta. “Recebido” confirma que a mensagem foi ouvida e entendida. “Repita” pede que a outra estação diga de novo o que não foi compreendido.",
+   "referencia": "Rec. UIT-R M.1171 (palavras de procedimento OVER e OUT)",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.1171"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante encerra uma chamada dizendo “câmbio e desligo”. Por que essa expressão é desaconselhada?",
+   "alternativas": [
+    "Porque “desligo” só pode ser usado nos canais de socorro, urgência e segurança, nunca em rotina.",
+    "Porque “câmbio” só vale para chamadas feitas em canais de trabalho, e nunca no canal 16.",
+    "Porque as duas palavras não existem na fraseologia marítima.",
+    "Porque câmbio pede resposta e desligo encerra a conversa: as duas palavras se contradizem."
+   ],
+   "correta": 3,
+   "explicacao": "“Câmbio” (over) passa a vez e espera resposta; “desligo” (out) diz que a conversa acabou e que não se espera resposta. Dizer as duas ao mesmo tempo se contradiz, e é isso que a torna desaconselhada. As outras respostas erram: “desligo” e “câmbio” podem ser usados em qualquer canal, de rotina ou não, e as duas palavras existem na fraseologia marítima.",
+   "referencia": "Rec. UIT-R M.1171 (palavras de procedimento OVER e OUT)",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.1171"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 2,
+   "enunciado": "Como se deve transmitir por rádio a latitude 23° 45,5′ S para reduzir o risco de erro de escuta?",
+   "alternativas": [
+    "Vinte e três graus, quarenta e cinco e meio, sul: números cheios, como se fala no dia a dia.",
+    "Dois três quatro cinco cinco sul: todos os algarismos juntos, sem dizer graus nem minutos.",
+    "Dois, três graus, quatro, cinco vírgula cinco minutos, sul: um algarismo de cada vez.",
+    "Vinte e três graus e meio, sul: a posição arredondada, para falar menos e ser mais rápido."
+   ],
+   "correta": 2,
+   "explicacao": "Os algarismos são sinais: o material da Anatel (item 2.1.9.1) os trata como sinais representados por palavras, e a regra é dizê-los um a um, o que evita confundir números como quinze e cinquenta. Números cheios (“vinte e três graus, quarenta e cinco e meio”) abrem espaço para erro de escuta. Juntar todos os algarismos, sem graus nem minutos, deixa a sequência ambígua. E arredondar para 23 graus e meio muda a posição em cerca de 15 milhas, o que em socorro pode ser fatal.",
+   "referencia": "UIT, RR, Apêndice 14 (algarismos); Rec. UIT-R M.1171; Anatel, Material de apoio, item 2.1.9.1",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.1171"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 2,
+   "enunciado": "O veleiro “Maresia” quer chamar o veleiro “Albatroz” no canal 16 e propor conversa no canal 72. Qual é a chamada de rotina correta?",
+   "alternativas": [
+    "Albatroz, Albatroz, Albatroz, aqui é Maresia, Maresia, Maresia, canal 72, câmbio.",
+    "Maresia, Maresia, Maresia, aqui é Albatroz, Albatroz, Albatroz, canal 72, câmbio.",
+    "Alô, Albatroz, aqui é o Maresia, está me ouvindo? Canal 72, câmbio e desligo.",
+    "Albatroz, Albatroz, Albatroz, aqui é Maresia, Maresia, Maresia, vamos conversar aqui mesmo, câmbio."
+   ],
+   "correta": 0,
+   "explicacao": "A chamada de rotina traz o nome da estação chamada (até três vezes), “aqui é”, o nome de quem chama (até três vezes), o canal proposto e “câmbio”; o assunto segue no canal combinado, para deixar o 16 livre. A segunda inverte quem chama e quem é chamado. A terceira é informal e termina com “câmbio e desligo”. A quarta mantém a conversa no 16, que é só para chamar e para emergências.",
+   "referencia": "Rec. UIT-R M.1171 (procedimento de chamada em radiotelefonia)",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.1171"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro em Manaus (UTC−4 o ano todo) registra um problema às 20h15, hora local. Qual é a hora a informar, em UTC?",
+   "alternativas": [
+    "1615 UTC.",
+    "2315 UTC.",
+    "0015 UTC.",
+    "2415 UTC."
+   ],
+   "correta": 2,
+   "explicacao": "Em UTC−4, soma-se 4 horas para chegar ao UTC: 20h15 + 4 h = 24h15, ou 0015 UTC do dia seguinte. A hora em UTC vai de 0000 a 2359 (Anatel, item 1.5), então 2415 não existe. 1615 resulta de subtrair as 4 horas em vez de somar. E 2315 vem de somar só 3 horas, como em Brasília.",
+   "referencia": "UIT-R M.1171; Anatel, Material de apoio, item 1.5 (hora UTC em quatro algarismos)",
+   "fonte_url": "https://www.itu.int/rec/R-REC-M.1171"
+  },
+  {
+   "tema": "Alfabeto fonético e fraseologia",
+   "dificuldade": 2,
+   "enunciado": "No código de algarismos da UIT (Apêndice 14 do Regulamento de Radiocomunicações), qual palavra representa o algarismo 9?",
+   "alternativas": [
+    "Niner",
+    "Nadazero",
+    "Novenine",
+    "Oktoeight"
+   ],
+   "correta": 2,
+   "explicacao": "No código da UIT, o 9 é “Novenine”. “Niner” é a pronúncia usada na aviação, não no código do Regulamento de Radiocomunicações. “Nadazero” é o 0 e “Oktoeight” é o 8.",
+   "referencia": "UIT, RR, Apêndice 14 (código de algarismos e sinais); Anatel, Material de apoio, item 2.1.9.1 (tabela: 9 = NOVENINE)",
+   "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 1,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 2,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 5,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 9,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 12,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 13,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 17,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 18,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 20,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 32,
+   "acao": "ok",
+   "motivo": "Gabarito, cálculo, referência e distratores conferidos; um só gabarito defensável; explicação cobre cada distrator."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Referência só citava NORMAM art. 4.23.6 d), que trata do código da EPIRB e não do MMSI de estação de navio. Acrescentadas as fontes do MMSI (RR Ap. 43; Rec. M.585), mantendo a NORMAM como paralelo."
+  },
+  {
+   "idx": 6,
+   "acao": "corrigida",
+   "motivo": "Enunciado dizia que a natureza do perigo sai 'automaticamente', mas o gabarito a trata como escolha do operador (contradição interna). Enunciado ajustado; gabarito mais curto para não ser o único item longo; explicação agora cobre cada distrator."
+  },
+  {
+   "idx": 7,
+   "acao": "removida",
+   "motivo": "Quase-duplicata da questão 6: ambas testam o mesmo fato (o GPS ligado ao rádio fornece a posição do alerta DSC). Mantida a 6, que cobre o conteúdo completo do alerta."
+  },
+  {
+   "idx": 10,
+   "acao": "corrigida",
+   "motivo": "Gabarito era a alternativa mais longa do item; encurtado sem mudar o sentido (VHF com DSC obrigatório na costeira, art. 4.24.2 b)."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Enunciado pedia altura 'aproximada' para um valor exato (49 m); removido o termo 'aproximada'. Conferido: 22 ÷ 2,2 = 10; 10 − 3 = 7; 7² = 49."
+  },
+  {
+   "idx": 14,
+   "acao": "corrigida",
+   "motivo": "Explicação era genérica ('qualquer outra sequência') e não dizia por que cada distrator está errado. Reescrita distrator a distrator."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Gabarito era a alternativa mais longa; encurtado mantendo o fato (alerta real, chega às estações, mobiliza salvamento)."
+  },
+  {
+   "idx": 16,
+   "acao": "corrigida",
+   "motivo": "Gabarito era a alternativa mais longa do item; encurtado sem perder o conteúdo (sinal, posição, problema, pedido)."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Gabarito era a alternativa mais longa (107 caracteres, contra 90 a 101). Encurtado; explicação agora diz por que cada distrator falha. Conteúdo alinhado ao material da Anatel (cancelar imediatamente e informar falso alarme) e ao curso (cancelamento por voz no canal 16)."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Só reordenação das alternativas para equilibrar a posição da correta (0 passou a 3). Texto inalterado."
+  },
+  {
+   "idx": 22,
+   "acao": "corrigida",
+   "motivo": "Enunciado 'O que transmitir?' pedia uma resposta composta (recibo + retransmissão). Reescrito como 'Qual é a ação correta?' e gabarito alinhado ao curso (confirmar ao barco em perigo e retransmitir com MAYDAY RELAY após 5 min sem resposta). Explicação reescrita para cobrir cada distrator sem afirmar a regra de forma rígida."
+  },
+  {
+   "idx": 24,
+   "acao": "corrigida",
+   "motivo": "Gabarito era a alternativa mais longa; encurtado. Explicação ajustada para cobrir a alternativa 'SEELONCE MAYDAY por qualquer barco' com a regra de quem impõe o silêncio. Referência complementada com o item 2.1.9.5 da Anatel, que cita SILENCE MAYDAY."
+  },
+  {
+   "idx": 25,
+   "acao": "corrigida",
+   "motivo": "Gabarito mantido; explicação amarrada à definição literal de MAYDAY do material da Anatel (item 2.1.9.3), que sustenta a resposta e também os distratores de PAN PAN."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Distratores só com nomes próprios davam pista (a correta era a única palavra do alfabeto). Trocado 'Walter' por 'X-ray', a letra vizinha, que é um distrator plausível. Gabarito inalterado (Anatel item 2.1.9.1: WHISKEY)."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Distrator com nomes de pessoas ('Lúcia, Úrsula, Alice') dava pista por tipo de palavra. Trocado por 'Lima, Uniform, Able' (armadilha do alfabeto antigo, plausível). Explicação ajustada."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Explicação agora refuta explicitamente as três erradas (canal de socorro, canal de trabalho, palavras inexistentes)."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "Gabarito mantido (leitura algarismo a algarismo). Trocado 'com as unidades' (pouco claro) por 'um algarismo de cada vez'; encurtado; distrator 'números cheios' reformulado; referência ligada ao item 2.1.9.1 da Anatel (números são sinais). CONFLITO COM O CURSO: ver nota global."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Alternativas com a mesma estrutura: a única com 'do dia seguinte' denunciava a correta. A informação de data foi para a explicação. Gabarito inalterado (Anatel item 1.5: UTC de 0000 a 2359)."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Dificuldade 3 para memorização de uma palavra da tabela; rebaixada para 2. Referência ligada à tabela do item 2.1.9.1 da Anatel (9 = NOVENINE). Gabarito conferido."
+  },
+  {
+   "idx": 29,
+   "acao": "removida",
+   "motivo": "Quase-duplicata da questão 33: mesma habilidade (converter hora local em UTC pelo fuso) e mesma lógica de distratores (subtrair, não converter, usar outro fuso). Mantida a 33, que adiciona a virada do dia (2415 não existe)."
+  },
+  {
+   "idx": null,
+   "acao": "nota",
+   "motivo": "Lote solicitado: VHF e DSC 12, socorro 14, alfabeto 9 (35). Após remover 2 quase-duplicatas (rev1 idx 7 e 29), o lote tem VHF 11, socorro 14, alfabeto 8 (33). Faltam 1 VHF e 1 alfabeto para completar; o gerador deve repor com temas válidos, sem repetir o fato já coberto."
+  },
+  {
+   "idx": null,
+   "acao": "nota",
+   "motivo": "Conflito com o curso (app/data/cursos/radio-1.js, linha 520): o exemplo de posição em palavras ('vinte e três graus, quarenta e cinco vírgula zero minutos, sul') contradiz a regra de leitura algarismo a algarismo das linhas 514 e 518 e o exemplo de MAYDAY da linha 602. As questões seguem a regra das linhas 514/602. Recomenda-se corrigir a linha 520 do curso."
+  },
+  {
+   "idx": null,
+   "acao": "nota",
+   "motivo": "Conflito interno no curso (radio-1.js, linha 109): 'O rádio fixo de bordo transmite com no máximo 25 W', enquanto a linha 110 e o fato normas-149 (NORMAM-211, art. 4.23.2) dizem potência MÍNIMA de 25 W. As questões usam 'mínimo', conforme o fato verificado."
+  },
+  {
+   "idx": null,
+   "acao": "nota",
+   "motivo": "Distribuição final: correta mais longa em 5 de 33 itens; posições 0/1/2/3 = 8/8/8/9. Todos os cálculos foram refeitos (regra 2,2×(√h₁+√h₂): 33 mi, 22 mi → 10 → 49 m; 240 min ÷ 10 = 24 min; 16h40 e 20h15 convertidos; UTC−4 de Manaus = 0015)."
+  }
+ ]
+}

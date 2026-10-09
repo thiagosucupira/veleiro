@@ -1,0 +1,206 @@
+{
+ "verdicts": [
+  {
+   "id": "travessia-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "NoR 2025 relido: 3300 nm, Table Bay a Guanabara, sinal de atenção 27/12/2025; imprensa (TimesLive/Yachts&Yachting, jan/2026) confirma que a regata largou em 27/12/2025.",
+   "evidence_quote": "The “Cape-to-Rio” is a 3300 nautical mile race across the South Atlantic Ocean."
+  },
+  {
+   "id": "travessia-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "Cabeçalho do NoR 2025 relido: RCYC com cooperação do ICRJ."
+  },
+  {
+   "id": "travessia-69",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "NoR 6.1 e 6.2 relidos: LOA mínimo 30 ft (9,144 m), ORC válido, OSR Cat. 1, 4 tripulantes salvo solo/duplas."
+  },
+  {
+   "id": "travessia-70",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "NoR 6.1 c) relido: Person-in-Charge com SA Sailing Yachtmaster Offshore ou superior, ou equivalente legal para não sul-africanos."
+  },
+  {
+   "id": "travessia-71",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "NoR 10.2 relido: log nos 18 meses anteriores, com Person-in-Charge e 50% da tripulação; regata qualificatória ou passagem contínua de 500 nm com 2 noites completas."
+  },
+  {
+   "id": "travessia-72",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.refeno.com.br/",
+   "notes": "Site oficial reaberto hoje: 'Largada 25.09.2027 12H00 BRT Marco Zero', contagem regressiva e 38a edição.",
+   "evidence_quote": "LARGADA · 25.09.2027 · 12H00 BRT · MARCO ZERO"
+  },
+  {
+   "id": "travessia-73",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.refeno.com.br/",
+   "notes": "Site oficial reaberto hoje contém a frase sobre vento de través de bombordo, alísios constantes e 300 milhas; é descrição da organização, atribuída corretamente."
+  },
+  {
+   "id": "travessia-74",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nhc.noaa.gov/climo/",
+   "notes": "Página do NHC reaberta hoje com a mesma frase (1 jun a 30 nov)."
+  },
+  {
+   "id": "travessia-75",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nhc.noaa.gov/climo/",
+   "notes": "Página do NHC reaberta hoje: pico em 10 de setembro, atividade principal entre meados de agosto e meados de outubro."
+  },
+  {
+   "id": "travessia-76",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nhc.noaa.gov/climo/",
+   "notes": "Página do NHC reaberta hoje: bacia inclui Atlântico, Caribe e Golfo da América."
+  },
+  {
+   "id": "travessia-77",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-monitoramento-de-ciclones",
+   "notes": "Página do CHM reaberta hoje com a frase literal sobre baixa frequência e grande impacto na METAREA V."
+  },
+  {
+   "id": "travessia-78",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-monitoramento-de-ciclones",
+   "notes": "Tabela atual do CHM vai de Arani (14-16 mar 2011) a Biguá (14-16 dez 2024), sem entradas posteriores; texto cita NORMAM-701/DHN."
+  },
+  {
+   "id": "travessia-79",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub. 160 (15ª ed., 2026) baixada do NGA hoje: alísios de SE nas costas mais orientais em todas as estações; NE e SE se aproximam na ZCIT, que chega a Cabo Orange no fim de novembro."
+  },
+  {
+   "id": "travessia-80",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub. 160 (15ª ed., 2026) baixada hoje: ZCIT ao norte no inverno, desce com a aproximação do verão, Cabo Orange no fim de novembro."
+  },
+  {
+   "id": "travessia-81",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub. 160 (15ª ed., 2026) baixada hoje: Corrente das Guianas NW persistente, média 2 nós, às vezes 4 nós, direção constante."
+  },
+  {
+   "id": "travessia-82",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub. 160 (15ª ed., 2026) baixada hoje: Corrente do Brasil SW até cerca de 35°S, extensão da Sul Equatorial."
+  },
+  {
+   "id": "travessia-83",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view",
+   "notes": "Pub. 140 (18ª ed., 2025) baixada hoje: coração do cinturão dos alísios de NE entre Canárias e Cabo Verde, 50-90% do tempo, 8-12 kt manhã e 12-18 kt tarde."
+  },
+  {
+   "id": "travessia-84",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view",
+   "notes": "Pub. 140 (18ª ed., 2025) baixada hoje: alísios de NE penetram até cerca de 7°N no inverno."
+  },
+  {
+   "id": "travessia-85",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-meteoromarinha/previsao-24-horas",
+   "notes": "Boletim reaberto: análise 071200 traz a ZCIT exatamente nessas coordenadas (dado do dia, válido como exemplo datado).",
+   "evidence_quote": "ZONA DE CONVERGÊNCIA INTERTROPICAL (ZCIT) EM 09N010W, 10N025W, 09N040W, 10N050W E 11N063W."
+  },
+  {
+   "id": "travessia-86",
+   "verdict": "nao_verificavel",
+   "evidence_url": "https://msi.nga.mil/Publications/APC",
+   "notes": "Página do NGA exige JavaScript/bloqueia acesso automatizado; varejistas confirmam Pub. 105 (2ª ed. 1995) e Pub. 106 (edição 2002 divergente entre lojas), mas não a disponibilidade para download no MSI."
+  },
+  {
+   "id": "travessia-87",
+   "verdict": "confirmado",
+   "evidence_url": "https://mdnautical.com/prostar-publications/978-pub-109-atlas-of-pilot-charts-indian-ocean-2001.html",
+   "notes": "Fontes independentes (varejistas/NGA) listam Pub. 109 como Atlas of Pilot Charts Indian Ocean, 4ª ed. 2001; é Oceano Índico."
+  },
+  {
+   "id": "travessia-88",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "PDFs baixados hoje do NGA: Pub. 140 é a 18ª ed. 2025 e Pub. 160 a 15ª ed. 2026; busca não achou 19ª ed. da Pub. 140. Listagem SDPGuides em si não renderiza sem JS."
+  },
+  {
+   "id": "travessia-89",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3",
+   "notes": "Página do CHM reaberta hoje (atualizada 02/10/2024): Trinidad ao Rio da Prata, até 020°W, 12 cartas Mercator 1:10.000.000."
+  },
+  {
+   "id": "travessia-90",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3",
+   "notes": "Página do CHM reaberta hoje: venda pela EMGEPRON na BHMN (Niterói) ou cartasnauticasbrasil.com.br."
+  },
+  {
+   "id": "travessia-91",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/u1974/atlas-cartas-piloto-2ed-isogonicas-2020-22092021-plotter.pdf",
+   "notes": "PDF do atlas reaberto: 'Publicada em 01 de Janeiro de 1974', '2a. EDIÇÃO: 15 de dezembro de 1993', dados de 1951 a 1972 (cópia com isogônicas atualizadas, 2021)."
+  },
+  {
+   "id": "travessia-92",
+   "verdict": "confirmado",
+   "evidence_url": "https://wwmiws.wmo.int/index.php/metareas/affiche/5",
+   "notes": "Página WMO-IMO WWMIWS reaberta hoje: METAREA V, Brasil, texto idêntico."
+  },
+  {
+   "id": "travessia-93",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Página do CHM reaberta hoje: operação cabe ao CHM, subordinado à DHN."
+  },
+  {
+   "id": "travessia-94",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Página do CHM reaberta hoje: partes I, II e III em linguagem clara em português e repetidas em inglês."
+  },
+  {
+   "id": "travessia-95",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Página do CHM reaberta hoje: áreas costeiras ALFA a HOTEL e oceânicas NOVEMBER e SIERRA."
+  },
+  {
+   "id": "travessia-96",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Página do CHM reaberta hoje: critérios de aviso de mau tempo idênticos (Beaufort 7/28 kt, ondas 3 m, visib. 1 km, ressaca 2,5 m)."
+  },
+  {
+   "id": "travessia-97",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Página do CHM reaberta hoje: boletim especial para regatas oceânicas, pedido à Divisão de Previsões Meteoceanográficas, custo informado quando for o caso."
+  },
+  {
+   "id": "travessia-98",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/cartassinoticas",
+   "notes": "Página do CHM reaberta hoje: cartas 00 e 12 HMG (de 07/10/2026) e e-mail chm.bndo@marinha.mil.br para datas anteriores."
+  },
+  {
+   "id": "travessia-99",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/portaria-dhn-dgn-31-2026.html",
+   "notes": "Apêndice DH8-14 (edição 'Original') confere com a afirmação, mas é antigo; a Portaria DHN/DGN nº 31 de 22/06/2026 (NORMAM-701) agora descreve transmissão por satélite 2x/dia via Inmarsat SafetyNET II e Iridium SafetyCAST, sem horários, e não achei confirmação independente de 0730Z/1930Z.",
+   "correction": "Dizer que o METEOROMARINHA é transmitido por satélite duas vezes ao dia via Inmarsat (SafetyNET II) e Iridium SafetyCAST (NORMAM-701/DHN, Portaria DHN/DGN/MB nº 31/2026); remover ou marcar como histórico o horário 0730Z/1930Z, AOR-E e Inmarsat-C, a confirmar com o CHM."
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "internacional-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/start-yachting-course/",
+   "evidence_quote": "over 16 years old or younger if accompanied by an adult",
+   "notes": "Reaberta hoje (2026-10-08): texto idêntico na página do RYA."
+  },
+  {
+   "id": "internacional-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/start-yachting-course/",
+   "evidence_quote": "Minimum age Recommended age 8",
+   "notes": "Reaberta hoje: ficha traz 'Recommended age 8' e a descrição traz 16, divergência interna real do RYA."
+  },
+  {
+   "id": "internacional-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/start-yachting-course/",
+   "evidence_quote": "reduced time of 3 days or 2 weekends",
+   "notes": "Reaberta hoje: texto idêntico."
+  },
+  {
+   "id": "internacional-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/competent-crew-practical-course/",
+   "evidence_quote": "over 5 consecutive days, or over a number of weekends",
+   "notes": "Reaberta hoje: 5 dias consecutivos ou fins de semana e 'essential starting point'; ok."
+  },
+  {
+   "id": "internacional-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/competent-crew-practical-course/",
+   "evidence_quote": "Required experience None Minimum age Recommended age 12",
+   "notes": "Reaberta hoje: experiência None, Recommended age 12."
+  },
+  {
+   "id": "internacional-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/competent-crew-practical-course/",
+   "evidence_quote": "Assessment is based on how well you have performed your practical and navigation tasks",
+   "notes": "Página confirma avaliação por desempenho prático; 'sem exame formal' é inferência razoável, não dito literalmente."
+  },
+  {
+   "id": "internacional-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-theory-course/",
+   "evidence_quote": "open to anyone and while some practical experience is desirable, it is not required",
+   "notes": "Reaberta hoje: aberto a todos, experiência desejável, Minimum age None."
+  },
+  {
+   "id": "internacional-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-theory-course/",
+   "evidence_quote": "Course length 40 hours plus exam time",
+   "notes": "Reaberta hoje: 40 h + exame; sala, online ou a distância."
+  },
+  {
+   "id": "internacional-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "evidence_quote": "Basic sailing ability. 5 days, 100 miles and 4 night hours",
+   "notes": "Reaberta hoje: pré-requisitos idênticos."
+  },
+  {
+   "id": "internacional-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "evidence_quote": "Minimum age 16",
+   "notes": "Reaberta hoje: idade mínima 16."
+  },
+  {
+   "id": "internacional-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "evidence_quote": "5 days, 3 weekends or 3 days plus 2 days",
+   "notes": "Reaberta hoje: duração idêntica e vive a bordo com instrutor RYA."
+  },
+  {
+   "id": "internacional-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "evidence_quote": "safely take charge of a 30-45ft sail cruising yacht",
+   "notes": "Reaberta hoje: texto idêntico."
+  },
+  {
+   "id": "internacional-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "evidence_quote": "qualifies you to apply for an ICC",
+   "notes": "Reaberta hoje: charter e ICC constam na página."
+  },
+  {
+   "id": "internacional-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipper-practical-sailing-course/",
+   "evidence_quote": "15 days 2 days as skipper 300 miles and 8 night hours Minimum age 17",
+   "notes": "Reaberta hoje: pré-requisitos e idade 17 idênticos."
+  },
+  {
+   "id": "internacional-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipper-practical-sailing-course/",
+   "evidence_quote": "minimum duration of 5 days; emphasis on coastal and offshore passages by day and night",
+   "notes": "Reaberta hoje: mínimo 5 dias, nível Day Skipper Practical e ênfase em passagens costeiras/offshore dia e noite."
+  },
+  {
+   "id": "internacional-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipperyachtmaster-offshore-theory-course/",
+   "evidence_quote": "40 hours of learning with the addition of exam time",
+   "notes": "Reaberta hoje: 40 h + exame, sala/online/distância, nível Day Skipper Shorebased."
+  },
+  {
+   "id": "internacional-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipperyachtmaster-offshore-theory-course/",
+   "evidence_quote": "It is also a prerequisite for those wishing to obtain a Yachtmaster qualification",
+   "notes": "A página afirma isso literalmente hoje, porém as páginas de exame Coastal/Offshore não listam o teórico entre os certificados exigidos; manter como 'segundo a página' e confirmar no G158."
+  },
+  {
+   "id": "internacional-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/yachtmaster-ocean-theory-course/",
+   "evidence_quote": "Navigation to Coastal Skipper & Yachtmaster Offshore Shorebased standard",
+   "notes": "Reaberta hoje: 40 h + exame, sala/online/distância, pré-requisito idêntico."
+  },
+  {
+   "id": "internacional-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "30 days at sea on a vessel less than 24m LOA, which may be reduced to 12 days",
+   "notes": "Reaberta hoje: 30 dias, reduzíveis a 12 com Coastal Skipper Practical (ou Coastal em outra disciplina); últimos 10 anos."
+  },
+  {
+   "id": "internacional-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "2 days as skipper on a vessel less than 24m LOA",
+   "notes": "Reaberta hoje: idêntico."
+  },
+  {
+   "id": "internacional-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "800 miles, which may be reduced to 400 miles",
+   "notes": "Reaberta hoje: 800 milhas, reduzíveis a 400 com a condição citada."
+  },
+  {
+   "id": "internacional-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "12 night hours",
+   "notes": "Reaberta hoje: 12 horas noturnas."
+  },
+  {
+   "id": "internacional-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "Practical; 6-10 hours for one candidate, 8-14 hours for two candidates",
+   "notes": "Reaberta hoje: prático, durações idênticas."
+  },
+  {
+   "id": "internacional-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "Minimum age 17 at the time of the exam",
+   "notes": "Reaberta hoje: 17 anos na data do exame."
+  },
+  {
+   "id": "internacional-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "A GMDSS compliant Marine Radio Operator's Certificate such as the RYA Short Range Certificate or higher",
+   "notes": "Reaberta hoje: exigência idêntica."
+  },
+  {
+   "id": "internacional-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "An RYA First Aid Certificate or another valid first aid certificate",
+   "notes": "Reaberta hoje: exigência idêntica."
+  },
+  {
+   "id": "internacional-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "exams outside the UK, all exams must be arranged through an RYA recognised training centre",
+   "notes": "Reaberta hoje: texto idêntico."
+  },
+  {
+   "id": "internacional-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "evidence_quote": "The boat used must be between 7m and 18m LOA",
+   "notes": "Reaberta hoje: 7-18 m LOA e padrão Cruising Yacht Safety (C8)."
+  },
+  {
+   "id": "internacional-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-offshore-exam/",
+   "evidence_quote": "no more than 150 miles from harbour, by day or night",
+   "notes": "Reaberta hoje: texto idêntico."
+  },
+  {
+   "id": "internacional-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-offshore-exam/",
+   "evidence_quote": "50 days at sea on yachts up to 500gt",
+   "notes": "Reaberta hoje: 50 dias nos últimos 10 anos (25 se já tem Offshore em outra disciplina)."
+  }
+ ]
+}

@@ -1,0 +1,697 @@
+{
+ "questoes": [
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante cai do lado de boreste com o veleiro em movimento. Qual é a primeira ação imediata da tripulação?",
+   "alternativas": [
+    "Recolher todas as velas para que o barco pare no mesmo lugar",
+    "Descer à cabine e transmitir o Mayday antes de qualquer outra ação",
+    "Gritar “homem ao mar a boreste”, jogar a boia e apontar para a pessoa",
+    "Mergulhar de colete atrás da pessoa para alcançá-la o quanto antes"
+   ],
+   "correta": 2,
+   "explicacao": "A sequência inicial é <b>gritar</b> para alertar a tripulação, <b>lançar a boia</b> (com luz, se houver) e <b>apontar</b> para a pessoa sem tirar os olhos dela. Depois vêm a marcação no GPS, a manobra de volta e o rádio. Recolher as velas toma tempo, e o barco se afasta da pessoa. O Mayday é importante, mas não vem antes de alertar a tripulação e manter a pessoa à vista. Mergulhar deixa duas pessoas na água, sem ninguém manobrando o barco.",
+   "referencia": "US Sailing, A Study Evaluating MOB Return and Recovery in the 21st Century (2020), recomendações de resposta imediata",
+   "fonte_url": "https://www.ussailing.org/wp-content/uploads/2024/05/2020.New-Study-Evaluating-MOB-Return-and-Recovery-in-the-21st-Century.pdf"
+  },
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro navega a 6 nós quando uma pessoa cai na água. Aproximadamente que distância o barco percorre em 1 minuto? (1 milha náutica = 1.852 m)",
+   "alternativas": [
+    "Cerca de 185 m",
+    "Cerca de 60 m",
+    "Cerca de 100 m",
+    "Cerca de 370 m"
+   ],
+   "correta": 0,
+   "explicacao": "Um nó é uma milha náutica por hora. Logo, 6 nós = 6 × 1.852 m = 11.112 m por hora. Dividindo por 60, o barco anda <b>cerca de 185 m por minuto</b>. Os 100 m equivalem a cerca de 3 nós (ou a 6 km/h, o erro de tratar nó como km/h). Os 60 m equivalem a cerca de 2 nós. Os 370 m são a distância percorrida a 12 nós. Em um minuto, o veleiro já está a quase 200 m da pessoa, por isso a vigia visual e o botão MOB não podem esperar.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (unidades de distância e velocidade: milha náutica e nó)"
+  },
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 1,
+   "enunciado": "Antes de uma travessia, qual item de um colete inflável automático precisa ser conferido para que ele infle quando for necessário?",
+   "alternativas": [
+    "A cor da fita refletiva e o número de bolsos do colete",
+    "O tamanho do colete, que deve ser sempre o maior disponível a bordo",
+    "O nível da bateria da bomba de enchimento elétrica",
+    "O cilindro de CO₂ (cheio e sem corrosão) e a validade da cápsula"
+   ],
+   "correta": 3,
+   "explicacao": "O colete infla com o gás de um <b>cilindro de CO₂</b>, disparado por uma <b>cápsula</b> de acionamento (ou pelo puxador manual). Cilindro vazio, furado ou corroído e cápsula vencida são as falhas clássicas. Por isso se confere o cilindro (preso, sem corrosão e com o peso marcado), a validade da cápsula e o funcionamento do puxador manual. A fita refletiva ajuda a ser visto, mas não faz o colete inflar, e o tamanho também não afeta o disparo. O colete a gás não tem bateria nem bomba de enchimento: o tubo de sopro, com a boca, é só um reforço.",
+   "referencia": "ISO 12402-3 (coletes salva-vidas infláveis, nível 150) e manual do fabricante"
+  },
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 1,
+   "enunciado": "Uma pessoa caiu ao mar, foi perdida de vista e corre risco de vida. Pelo Anexo IV do RIPEAM, qual palavra falada no rádio VHF é sinal de perigo?",
+   "alternativas": [
+    "Pan-Pan",
+    "Mayday",
+    "Sécurité",
+    "Seelonce"
+   ],
+   "correta": 1,
+   "explicacao": "O Anexo IV do RIPEAM lista a palavra <b>Mayday</b>, em radiotelefonia, entre os sinais de perigo. Pan-Pan é o sinal de urgência, para situação grave sem perigo imediato de vida. Sécurité anuncia mensagem de segurança da navegação, como um aviso de mau tempo. Seelonce serve para impor silêncio na frequência durante um socorro, e não é sinal de perigo.",
+   "referencia": "RIPEAM-72, Anexo IV, item 1(e) (sinais de perigo: palavra falada \"Mayday\" em radiotelefonia)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 3,
+   "enunciado": "Na manobra do oito (reach-tack-reach), a aproximação final à pessoa é feita em bolina folgada. Qual é a principal razão dessa escolha?",
+   "alternativas": [
+    "O barco anda mais depressa nesse rumo e chega antes à pessoa do que em outros",
+    "O abatimento empurra o barco direto para a pessoa, dispensando o uso do leme",
+    "O vento aparente fica nulo e o barco para sozinho ao lado da pessoa",
+    "Folgando as escotas, as velas panejam e o barco freia com controle"
+   ],
+   "correta": 3,
+   "explicacao": "Em bolina folgada, o piloto consegue <b>frear</b> o barco só folgando as escotas: as velas panejam, a força cai e o barco chega devagar, com governo, ao lado da pessoa. A velocidade de contato varia conforme a fonte: 1 nó é a regra de Annapolis, no programa de vela da Academia Naval dos EUA (e o US Sailing pede não arrastar a pessoa a mais de 1 nó), enquanto as vítimas dos testes de 2005 aceitaram de 2 a 3 nós; o olhar do timoneiro fica na pessoa, não no velocímetro. O afastamento antes de cambar também varia: de 2 comprimentos de barco (Deep Beam Reach) a cerca de 5 (Figure 8), ou cerca de 20 segundos. Em popa, folgar a escota não freia e há risco de jaibe. Bolina folgada não é o rumo de maior velocidade do barco, o abatimento não o leva à pessoa (é preciso governar) e o vento aparente não zera com o barco em movimento.",
+   "referencia": "US Sailing, Final Report, 2005 Crew Overboard Rescue Symposium (aproximação em bolina folgada, velocidade e afastamento); RYA, reach-tack-reach, via Practical Boat Owner",
+   "fonte_url": "https://www.ussailing.org/wp-content/uploads/2018/03/2005_Crew_Overboard_Symposium.pdf"
+  },
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 2,
+   "enunciado": "Uma pessoa cai e o ponto MOB é marcado no GPS. O barco leva 30 minutos para voltar. Não há vento, mas a corrente é de 1 nó e a pessoa deriva com ela. Quanto ela terá derivado em relação ao ponto marcado?",
+   "alternativas": [
+    "Nada, o ponto MOB acompanha a deriva da pessoa",
+    "Cerca de 0,5 milha, ou uns 900 m",
+    "Cerca de 1 milha, ou uns 1.850 m",
+    "Cerca de 0,1 milha, ou uns 185 m"
+   ],
+   "correta": 1,
+   "explicacao": "Um nó é uma milha por hora. Em meia hora, a corrente leva a pessoa <b>0,5 milha</b>, ou cerca de 926 m. Uma milha inteira só seria percorrida em 1 hora. Os 0,1 milha correspondem a apenas 6 minutos de corrente. O ponto MOB é fixo sobre o fundo: ele guarda a posição do instante do toque e não acompanha a pessoa. Por isso a busca começa no ponto marcado e segue no sentido para onde a corrente leva.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (corrente e deriva); manual do plotter (função MOB)"
+  },
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 3,
+   "enunciado": "Um tripulante caiu preso pelo tirante e é arrastado ao lado do barco, a 5 nós, com o rosto quase na água. Qual é a primeira providência?",
+   "alternativas": [
+    "Parar o barco o quanto antes, com um quick-stop ou orçando, antes de tentar içá-lo",
+    "Soltar o mosquetão do convés, para que ele flutue livre do barco, e depois lançar a boia",
+    "Içá-lo de imediato por uma adriça presa ao tirante, com o barco ainda em marcha",
+    "Acelerar o motor para chegar a águas abrigadas e içá-lo lá com mais calma"
+   ],
+   "correta": 0,
+   "explicacao": "A 5 nós, a água pressiona o corpo e o rosto, e a pessoa pode se afogar em poucos minutos. Por isso o primeiro passo é <b>parar o barco o mais depressa possível</b>: um quick-stop (cambar sem mexer nas escotas) ou, correndo de popa, orçar e arriar o balão. Isso também leva a pessoa para o lado alto do barco. Só então se agarra a pessoa e se iça com ajuda do tirante, ou se joga o Lifesling. <b>Não se iça pela adriça presa ao tirante</b>: a regata Clipper adotou isso, mas nos testes do US Sailing o tirante comum não deslizou pelo mosquetão da adriça e chegou a quebrar, e por isso o US Sailing recomenda os métodos clássicos. Soltar o mosquetão do convés deixaria a pessoa à deriva, sem ligação com o barco. Puxar com o barco em marcha é quase impossível e perigoso. Acelerar só prolonga o arrasto.",
+   "referencia": "US Sailing, Safety at Sea Committee, Results and Recommendations from our MOB Studies (v. 7.1), pessoa ainda presa ao barco; US Sailing, estudo MOB 2020 (Clipper, tirante com engate de soltura rápida)",
+   "fonte_url": "https://www.ussailing.org/wp-content/uploads/2025/02/SAS-Current-Thinking-regarding-the-Rescue-of-Crew-Overboard.pdf"
+  },
+  {
+   "tema": "Homem ao mar",
+   "dificuldade": 2,
+   "enunciado": "Uma pessoa já está ao lado do veleiro, consciente, mas exausta e sem força para subir pela escada. A borda livre é de cerca de 1 m. Qual é a melhor forma de recolhê-la?",
+   "alternativas": [
+    "Pedir que ela nade até a escada de popa e suba degrau por degrau, sozinha",
+    "Puxá-la pelos braços, com dois tripulantes inclinados sobre a borda do barco",
+    "Conectá-la ao Lifesling, parar o barco e içá-la com a adriça e a catraca",
+    "Deixá-la na água, presa por um cabo, até que recupere as forças antes de subir"
+   ],
+   "correta": 2,
+   "explicacao": "Para quem não tem força, é preciso <b>ajuda mecânica</b>: conectar a pessoa por um cabo ou pelo Lifesling, <b>parar o barco</b> (o US Sailing pede não arrastá-la a mais de 1 nó) e içá-la com uma adriça (a de balão, presa ao nó de alça do cabo do Lifesling) ou com a talha da escota da grande, usando a catraca. O motor fica em ponto morto ou desligado, e quem estiver inconsciente ou muito tempo na água fria deve ser içado na horizontal. Exigir que ela nade e suba a escada pede força que ela não tem. Puxar pelos braços fere o ombro e arrisca derrubar quem puxa. Deixá-la na água expõe a pessoa ao frio e à exaustão, e o tempo é o maior inimigo.",
+   "referencia": "US Sailing, Safety at Sea Committee, Results and Recommendations from our MOB Studies (v. 7.1), passos 3 a 5; RYA, Man overboard (içar na horizontal)",
+   "fonte_url": "https://www.ussailing.org/wp-content/uploads/2025/02/SAS-Current-Thinking-regarding-the-Rescue-of-Crew-Overboard.pdf"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 2,
+   "enunciado": "Na figura, o veleiro está atracado de lado, visto de cima, com a proa para o alto. Qual cabo numerado é o espringue de proa?",
+   "alternativas": [
+    "O cabo 1",
+    "O cabo 2",
+    "O cabo 3",
+    "O cabo 4"
+   ],
+   "correta": 1,
+   "explicacao": "O espringue de proa <b>sai da proa e segue para ré</b> até o cais: é o cabo 2, que impede o barco de avançar. O cabo 1 também sai da proa, mas segue para vante: é o lançante de proa. O cabo 3 sai da popa e segue para vante: é o espringue de popa, que impede o recuo. O cabo 4 sai da popa e segue para ré: é o lançante de popa.",
+   "referencia": "Fonseca, M. M., Arte Naval, vol. 2 (amarração); Rousmaniere, The Annapolis Book of Seamanship (docking lines)",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 250\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Veleiro atracado de lado, visto de cima, com quatro cabos numerados ligados ao cais\"><rect x=\"236\" y=\"0\" width=\"84\" height=\"250\" fill=\"var(--land)\"/><text x=\"278\" y=\"128\" font-size=\"15\" text-anchor=\"middle\" fill=\"var(--ink)\">Cais</text><path d=\"M140 24 C172 58 178 120 172 206 L108 206 C102 120 108 58 140 24 Z\" fill=\"var(--sea-2)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><text x=\"140\" y=\"16\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\">Proa</text><g stroke=\"var(--ink)\" stroke-width=\"2\" fill=\"none\"><path d=\"M160 56 L236 36\"/><path d=\"M164 74 L236 134\"/><path d=\"M168 192 L236 104\"/><path d=\"M168 204 L236 226\"/></g><g fill=\"var(--ink)\"><circle cx=\"160\" cy=\"56\" r=\"3.5\"/><circle cx=\"164\" cy=\"74\" r=\"3.5\"/><circle cx=\"168\" cy=\"192\" r=\"3.5\"/><circle cx=\"168\" cy=\"204\" r=\"3.5\"/><circle cx=\"236\" cy=\"36\" r=\"3.5\"/><circle cx=\"236\" cy=\"134\" r=\"3.5\"/><circle cx=\"236\" cy=\"104\" r=\"3.5\"/><circle cx=\"236\" cy=\"226\" r=\"3.5\"/></g><g font-size=\"16\" font-weight=\"700\" fill=\"var(--ink)\" text-anchor=\"middle\"><text x=\"200\" y=\"34\">1</text><text x=\"188\" y=\"90\">2</text><text x=\"192\" y=\"150\">3</text><text x=\"204\" y=\"206\">4</text></g></svg>"
+   }
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro vai pernoitar fundeado com rode misto (corrente e cabo), na razão de 7:1. A profundidade no local é de 6 m, a maré ainda vai subir 2 m até a preamar e a roldana de proa fica 1 m acima da água. Quanto filame deve ser largado?",
+   "alternativas": [
+    "42 m",
+    "49 m",
+    "56 m",
+    "63 m"
+   ],
+   "correta": 3,
+   "explicacao": "Altura a considerar: 6 m (profundidade) + 2 m (maré até a preamar) + 1 m (roldana de proa) = <b>9 m</b>. Com 7:1, o filame é 9 × 7 = <b>63 m</b>. Os 42 m usam só a profundidade (6 × 7). Os 49 m esquecem a maré: (6 + 1) × 7. Os 56 m esquecem a altura da roldana: (6 + 2) × 7. Esquecer qualquer parcela deixa o filame curto justamente na preamar, quando a profundidade é maior e o mesmo filame dá menos escopo: a âncora trabalha mais na vertical e fica exposta a sair do fundo.",
+   "referencia": "Rousmaniere, The Annapolis Book of Seamanship (fundeio e filame); NauticEd, Anchoring rode and scope",
+   "fonte_url": "https://sailing-blog.nauticed.org/anchoring-rode-and-scope/"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 3,
+   "enunciado": "Você fundeou com 5 m de profundidade, maré subindo mais 1 m, roldana a 1 m da água e rode de corrente na razão de 5:1. O barco tem 10 m. Para o alarme de fundeio do GPS, o raio é o filame mais o comprimento do barco mais 10 m de margem para o erro do GPS. Qual raio programar?",
+   "alternativas": [
+    "35 m",
+    "45 m",
+    "55 m",
+    "69 m"
+   ],
+   "correta": 2,
+   "explicacao": "Altura: 5 + 1 + 1 = 7 m. Filame: 7 × 5 = 35 m. Raio do alarme: 35 (filame) + 10 (barco) + 10 (margem) = <b>55 m</b>. Os 35 m esquecem o barco e a margem: o alarme dispararia a cada giro normal. Os 45 m esquecem a margem do GPS. Os 69 m vêm de usar 7:1 (49 m) em vez de 5:1: o raio ficaria grande demais, e o alarme só tocaria depois de o barco já estar bem longe da posição.",
+   "referencia": "Rousmaniere, The Annapolis Book of Seamanship (fundeio); NauticEd, Anchoring rode and scope",
+   "fonte_url": "https://sailing-blog.nauticed.org/anchoring-rode-and-scope/"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 2,
+   "enunciado": "O veleiro tem hélice de passo à direita. Ao atracar de lado, qual bordo é mais favorável para aproveitar o efeito de passo quando se dá atrás para parar o barco?",
+   "alternativas": [
+    "Bombordo, porque dando atrás a popa vai para bombordo e se encosta no cais",
+    "Boreste, porque dando atrás a popa vai para boreste e se encosta no cais",
+    "Tanto faz, pois o leme anula o efeito de passo quando se dá atrás",
+    "O bordo de onde vem o vento, pois o efeito de passo é sempre menor que o do vento"
+   ],
+   "correta": 0,
+   "explicacao": "Com hélice de passo à direita, dar atrás leva a popa para <b>bombordo</b>. Se o cais está a bombordo, a popa vem em direção a ele, e a mesma rabanada que para o barco o encosta. A alternativa de boreste inverte o efeito. O leme não anula o efeito de passo: com pouco seguimento a ré, ele governa pouco, e o passo domina. O vento pode mudar a manobra, mas não torna o efeito de passo irrelevante, nem é regra fixa para escolher o bordo.",
+   "referencia": "Fonseca, M. M., Arte Naval, vol. 2 (efeito do hélice e atracação); Rousmaniere, The Annapolis Book of Seamanship",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de calado 1,8 m fundeia na preamar, com 6 m de água. A baixa-mar seguinte será 4,5 m mais baixa que a preamar. O que acontecerá?",
+   "alternativas": [
+    "Ficará livre, com 4,2 m de água sob a quilha mesmo na baixa-mar",
+    "Tocará o fundo: restarão 1,5 m de água e o calado é de 1,8 m",
+    "Ficará livre, com 1,5 m de folga sob a quilha na baixa-mar",
+    "Só tocará o fundo se a maré baixar mais de 6 m abaixo da preamar"
+   ],
+   "correta": 1,
+   "explicacao": "Na baixa-mar a profundidade será 6 − 4,5 = <b>1,5 m</b>, menor que o calado de 1,8 m: o barco toca o fundo (faltam 0,3 m). Os 4,2 m de folga (6 − 1,8) valem só na preamar e ignoram a descida da maré. Os 1,5 m são a profundidade, não a folga sob a quilha, que seria negativa. E o barco já toca o fundo quando a maré baixa mais de 4,2 m (6 − 1,8), bem antes dos 6 m.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (marés e profundidade); calado e folga sob a quilha"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 1,
+   "enunciado": "De dia, um veleiro de 10 m fundeado em um fundeadouro comum deve exibir, a vante, qual marca?",
+   "alternativas": [
+    "Um cone com o vértice para baixo, na parte da proa, onde é melhor visto",
+    "Dois cones unidos pelos vértices, na parte da proa, onde é melhor visto",
+    "Uma esfera preta, na parte da proa, onde é melhor vista",
+    "Um cilindro preto, na parte da proa, onde é melhor visto"
+   ],
+   "correta": 2,
+   "explicacao": "A Regra 30(a)(i) manda a embarcação fundeada exibir, a vante, <b>uma luz circular branca</b> à noite ou <b>uma esfera</b> de dia; as marcas diurnas são pretas (RIPEAM, Anexo I, item 6). O cone com o vértice para baixo é a marca do veleiro que navega a vela e a motor (Regra 25(e)). Dois cones unidos pelos vértices indicam embarcação de pesca de arrasto (Regra 26(b)). O cilindro é a marca de embarcação restringida pelo calado (Regra 28).",
+   "referencia": "RIPEAM-72, Regra 30(a)(i); Anexo I, item 6 (marcas diurnas)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 2,
+   "enunciado": "Você navega a vela e quer fundear para pernoitar. Qual das alternativas é uma área de segurança, onde a NORMAM-211 proíbe o tráfego e o fundeio?",
+   "alternativas": [
+    "Qualquer enseada abrigada com menos de 10 m de profundidade",
+    "Qualquer trecho de água a menos de 50 m de outra embarcação fundeada",
+    "Qualquer trecho de água a menos de 1 milha de uma marina",
+    "A faixa de 500 m em torno de unidade estacionária de produção de petróleo"
+   ],
+   "correta": 3,
+   "explicacao": "O item 1.9 da NORMAM-211 lista as áreas de segurança: fundeadouros de navios mercantes, canais de acesso aos portos, proximidades das instalações do porto, a faixa de 500 m em torno de unidades estacionárias de produção de petróleo (item 1.9.6) e áreas especiais de Avisos aos Navegantes. Pela nota 4, não é permitido o tráfego nem o fundeio nelas. A profundidade da enseada não define área de segurança, e a distância de outra embarcação fundeada é apenas boa prática de espaço de giro. Perto de marinas, o acesso por canais de porto é regulado pelas NPCP/NPCF de cada Capitania, e não há proibição geral.",
+   "referencia": "NORMAM-211/DPC, item 1.9 (áreas de segurança), 1.9.6 e nota 4",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 1,
+   "enunciado": "Ao se aproximar de uma boia de amarração, por que o proeiro aponta a boia com o braço esticado o tempo todo?",
+   "alternativas": [
+    "Porque a boia só fica presa ao cabo se o proeiro a apontar com o braço esticado",
+    "Porque, vista do leme, a boia some sob a proa e o timoneiro deixa de enxergá-la",
+    "Porque a Capitania exige que o gesto seja feito para registrar a pega da boia",
+    "Porque o gesto reduz a corrente que empurra o barco contra a boia durante a pega"
+   ],
+   "correta": 1,
+   "explicacao": "Perto da proa, a boia desaparece da vista de quem governa. O proeiro, que ainda a enxerga, <b>aponta</b> para o timoneiro corrigir o rumo e a velocidade até a pega. O gesto não prende a boia a nada, não é exigência de registro da Capitania, não reduz a corrente e não mede distância.",
+   "referencia": "Fonseca, M. M., Arte Naval, vol. 2 (manobra de pegar boia); Rousmaniere, The Annapolis Book of Seamanship (mooring)",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Fundeio e porto",
+   "dificuldade": 2,
+   "enunciado": "Na figura, cada círculo é a área em que um barco fundeado pode girar, com raio igual ao filame mais o comprimento do barco. O seu barco tem 10 m e 30 m de filame. O vizinho tem 9 m e 26 m de filame. Para os círculos não se sobreporem, qual é a distância mínima entre as duas âncoras?",
+   "alternativas": [
+    "75 m",
+    "40 m",
+    "65 m",
+    "150 m"
+   ],
+   "correta": 0,
+   "explicacao": "Seu raio de giro: 30 + 10 = 40 m. Raio do vizinho: 26 + 9 = 35 m. Para os círculos apenas se tocarem, as âncoras ficam a 40 + 35 = <b>75 m</b>. Os 40 m consideram só o seu raio. Os 65 m somam o seu filame ao raio do vizinho (30 + 35) e esquecem o seu comprimento. Os 150 m dobram a conta sem necessidade.",
+   "referencia": "Fonseca, M. M., Arte Naval, vol. 2 (fundeio e espaço de giro); Rousmaniere, The Annapolis Book of Seamanship",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 360 170\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Dois círculos de giro de barcos fundeados, lado a lado, tocando-se em um ponto; cada âncora está no centro do seu círculo\"><circle cx=\"85\" cy=\"85\" r=\"80\" fill=\"var(--sea-1)\" fill-opacity=\"0.45\" stroke=\"var(--ink)\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><circle cx=\"235\" cy=\"85\" r=\"70\" fill=\"var(--sea-2)\" fill-opacity=\"0.45\" stroke=\"var(--ink)\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"85\" y1=\"85\" x2=\"235\" y2=\"85\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><circle cx=\"85\" cy=\"85\" r=\"4.5\" fill=\"var(--ink)\"/><circle cx=\"235\" cy=\"85\" r=\"4.5\" fill=\"var(--ink)\"/><g font-size=\"15\" fill=\"var(--ink)\" text-anchor=\"middle\"><text x=\"85\" y=\"62\">Seu barco</text><text x=\"235\" y=\"62\">Vizinho</text><text x=\"160\" y=\"106\" font-weight=\"700\">?</text><text x=\"85\" y=\"108\" font-size=\"13\">âncora</text><text x=\"235\" y=\"108\" font-size=\"13\">âncora</text></g></svg>"
+   }
+  },
+  {
+   "tema": "Navegação noturna",
+   "dificuldade": 1,
+   "enunciado": "À noite, um veleiro de 10 m navega só a vela. Um navio que o alcança por trás, exatamente na sua popa, enxerga qual luz do seu barco?",
+   "alternativas": [
+    "As luzes verde e encarnada de bordos, lado a lado",
+    "Apenas a luz branca de alcançado, situada junto à popa",
+    "A luz de mastro branca e a luz verde de boreste",
+    "Nenhuma luz, pois a luz de alcançado só é vista pelos lados"
+   ],
+   "correta": 1,
+   "explicacao": "A luz de alcançado é branca, junto à popa, e visível num setor de <b>135°</b>, com 67,5° de cada lado da popa (Regra 21(c)). As luzes de bordos cobrem da proa até 22,5° a ré do través (112,5° cada), e por isso não aparecem por trás. A luz de mastro é de embarcação de propulsão mecânica. Quem alcança, pela Regra 13(b), só vê a luz de alcançado. Na lanterna combinada do tricolor, a luz branca de popa segue o mesmo setor, e a resposta vale para os dois arranjos.",
+   "referencia": "RIPEAM-72, Regras 21(b), 21(c), 25(b) e 13(b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Navegação noturna",
+   "dificuldade": 3,
+   "enunciado": "Ao anoitecer, um veleiro de 10 m navega só a vela, com a lanterna tricolor do topo do mastro acesa. O vento morre, o comandante liga o motor e segue motorando, com as velas içadas. O que ele deve fazer com as luzes?",
+   "alternativas": [
+    "Manter o tricolor aceso, porque as velas continuam içadas",
+    "Manter o tricolor e acender também uma luz encarnada sobre uma verde no topo",
+    "Apagar todas as luzes até desligar o motor, para poupar bateria",
+    "Apagar o tricolor e exibir as luzes de embarcação de propulsão mecânica"
+   ],
+   "correta": 3,
+   "explicacao": "Com o motor em uso, o veleiro passa a ser <b>embarcação de propulsão mecânica</b> (Regras 3(b) e 3(c): só é embarcação a vela enquanto a máquina não está sendo usada). Como tem menos de 12 m, pode usar uma luz circular branca e luzes de bordos (Regra 23(d)(i)). O tricolor só vale para quem navega a vela (Regra 25(b)), e manter o tricolor ignora a mudança de categoria. A encarnada sobre verde é luz de veleiro a vela e não pode ser usada junto com a lanterna combinada (Regra 25(c)), nem com o motor em uso. Apagar todas as luzes é errado: elas valem do pôr ao nascer do Sol (Regra 20(b)).",
+   "referencia": "RIPEAM-72, Regras 3(b), 3(c), 20(b), 23(d)(i), 25(b) e 25(c)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Navegação noturna",
+   "dificuldade": 2,
+   "enunciado": "Dois veleiros de 9 m navegam à noite em rumos opostos, cada um a 6 nós, e só se avistam pelas luzes de bordos, no alcance mínimo da Regra 22(c) para embarcações com menos de 12 m. Quanto tempo falta para se cruzarem, se nada mudar?",
+   "alternativas": [
+    "2,5 minutos",
+    "10 minutos",
+    "5 minutos",
+    "20 minutos"
+   ],
+   "correta": 2,
+   "explicacao": "Pela Regra 22(c), as luzes de bordos de embarcações com menos de 12 m têm alcance mínimo de <b>1 milha</b>. Em rumos opostos, as velocidades se somam: 6 + 6 = 12 nós. Tempo = 1 milha ÷ 12 nós = 1/12 de hora = <b>5 minutos</b>. Os 10 minutos usam só uma das velocidades (1 milha ÷ 6 nós). Os 20 minutos usam o alcance de 2 milhas da luz de mastro e só uma velocidade. Os 2,5 minutos tomam a milha pela metade. Cinco minutos é pouquíssimo tempo, por isso a vigia e a velocidade segura são vitais à noite.",
+   "referencia": "RIPEAM-72, Regra 22(c) (alcance das luzes) e Regra 6 (velocidade segura)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Navegação noturna",
+   "dificuldade": 1,
+   "enunciado": "Três tripulantes dividem a noite em quartos de 3 horas, em rodízio e sem folga entre um quarto e outro. Quantas horas seguidas cada um descansa entre dois quartos?",
+   "alternativas": [
+    "3 horas",
+    "4 horas",
+    "6 horas",
+    "9 horas"
+   ],
+   "correta": 2,
+   "explicacao": "Com três pessoas em rodízio, cada ciclo dura 3 × 3 = 9 horas: 3 horas de quarto e <b>6 horas de descanso</b>. Três horas de descanso seria o caso de apenas duas pessoas em rodízio. Quatro horas não fecha a conta, e nove horas seria o ciclo inteiro, sem descontar o quarto. A escala precisa dar descanso real a todos, porque tripulação cansada vigia mal (Regra 5).",
+   "referencia": "RIPEAM-72, Regra 5 (vigilância permanente); RYA Yachtmaster Offshore Handbook (organização de quartos)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Navegação noturna",
+   "dificuldade": 3,
+   "enunciado": "Vindo do mar, você avista uma boia verde com larga faixa horizontal encarnada e luz verde de grupo de lampejos compostos Lp(2+1). O que ela indica, na Região B da IALA?",
+   "alternativas": [
+    "Canal preferencial a boreste (bombordo modificado)",
+    "Canal preferencial a bombordo (boreste modificado)",
+    "Perigo isolado, que pode ser contornado por qualquer lado",
+    "Águas seguras, que permitem passar por todos os lados"
+   ],
+   "correta": 0,
+   "explicacao": "Verde com larga faixa horizontal encarnada e luz verde Lp(2+1) é o <b>canal preferencial a boreste</b> (bombordo modificado): o canal principal fica a boreste da boia, que fica por bombordo de quem segue por ele. Seu oposto, o canal preferencial a bombordo (boreste modificado), é encarnado com larga faixa verde e luz encarnada Lp(2+1). O perigo isolado é preto com faixas encarnadas e tope de duas esferas pretas. Águas seguras têm faixas verticais encarnadas e brancas.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 13 (Fig. 13.15, sinais laterais da Região B, canais preferenciais); Decreto nº 92.267/1986 (adota a Região B no Brasil)",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm"
+  },
+  {
+   "tema": "Navegação noturna",
+   "dificuldade": 1,
+   "enunciado": "Você sobe da cabine iluminada para assumir o quarto da noite. O que fazer para enxergar melhor no escuro?",
+   "alternativas": [
+    "Acender a lanterna branca forte e varrer o horizonte para acelerar a adaptação dos olhos",
+    "Olhar fixamente para um só ponto escuro do horizonte, sem piscar",
+    "Conferir a posição no plotter com o brilho no máximo, antes de olhar para fora",
+    "Evitar luz forte, deixar a vista se adaptar e olhar um pouco ao lado de objetos fracos"
+   ],
+   "correta": 3,
+   "explicacao": "Os olhos levam cerca de <b>30 minutos</b> para se adaptar ao escuro, e uma luz forte desfaz boa parte do ganho em segundos. Por isso se usa o mínimo de luz, com as telas dimerizadas. Olhar de 5° a 10° ao lado de um objeto fraco ajuda, porque o centro da retina tem poucos receptores sensíveis a pouca luz. Lanterna forte e plotter no máximo cegam o vigia. Olhar fixamente para um ponto faz objetos fracos sumirem.",
+   "referencia": "RIPEAM-72, Regra 5 (vigilância visual); RYA Day Skipper Handbook (Sail), vigia noturna",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Mau tempo",
+   "dificuldade": 2,
+   "enunciado": "O METEOROMARINHA prevê ventos de 30 nós para a sua área. Na escala Beaufort e nos critérios de aviso de mau tempo do CHM, isso é:",
+   "alternativas": [
+    "Força 6, ainda abaixo do limite em que o CHM emite aviso de mau tempo",
+    "Força 7, no limite do aviso de mau tempo do CHM (28 nós ou mais)",
+    "Força 8, e o aviso de mau tempo só é emitido a partir da força 9",
+    "Força 5, e o aviso depende apenas da altura das ondas, não do vento"
+   ],
+   "correta": 1,
+   "explicacao": "A força 7 de Beaufort vai de 28 a 33 nós, então 30 nós é <b>força 7</b>. O CHM emite aviso de mau tempo quando se prevê vento força 7 ou mais (28 nós ou mais), ondas de 3 m ou mais em águas profundas, visibilidade de 1 km ou menos, ou ressaca com ondas de 2,5 m ou mais na costa. A força 6 vai de 22 a 27 nós, abaixo desse limite. A força 8 começa em 34 nós, e o aviso não espera a força 9. A força 5 vai de 17 a 21 nós, e nenhum vento dessa faixa, sozinho, leva ao aviso: o critério de vento começa na força 7.",
+   "referencia": "CHM/DHN, Serviços Radiometeorológicos de Apoio ao Navegante (critérios do aviso de mau tempo; fato travessia-96); escala Beaufort (OMM)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Mau tempo",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro corre em popa com vento real de 25 nós, a 6 nós de velocidade. O vento aparente é de 19 nós e a navegação parece tranquila. A tripulação vai orçar para a bolina em seguida. Qual é a decisão mais prudente?",
+   "alternativas": [
+    "Orçar já com todo o pano, porque o vento aparente de 19 nós mostra vento moderado",
+    "Manter o pano e orçar devagar, pois o vento aparente costuma cair quando se orça",
+    "Içar o balão antes de orçar, para ganhar velocidade e atravessar a virada mais rápido",
+    "Reduzir pano antes de orçar, porque na bolina o vento aparente sobe para perto de 30 nós"
+   ],
+   "correta": 3,
+   "explicacao": "Em popa, o vento aparente é a diferença: 25 − 6 = 19 nós. Na bolina, a 45° do vento real e com o barco a uns 6 nós, o aparente sobe para <b>perto de 30 nós</b>: o vento real de 25 nós somado ao vento do deslocamento de 6 nós dá cerca de 30 nós (cálculo vetorial: a 45° do vento, o vento real de 25 nós se decompõe em 17,7 nós ao longo da proa e 17,7 nós de lado; somando os 6 nós do barco ao componente de proa, ficam 23,7 nós ao longo da proa e 17,7 de lado, e a resultante é √(23,7² + 17,7²) ≈ 29,6 nós). Quem orça com todo o pano de popa leva um susto: banda, leme duro e manobra feita às pressas. O vento aparente <b>aumenta</b>, e não cai, ao orçar. Içar o balão é o oposto do que se precisa. A regra é reduzir cedo, ainda no rumo calmo.",
+   "referencia": "Coles e Bruce, Heavy Weather Sailing (reduzir pano cedo); RYA Day Skipper Handbook (Sail), vento aparente"
+  },
+  {
+   "tema": "Mau tempo",
+   "dificuldade": 1,
+   "enunciado": "Para que serve, na prática, capear (heave-to) um veleiro de cruzeiro?",
+   "alternativas": [
+    "Para ganhar velocidade em direção ao porto quando o vento aumenta",
+    "Para trocar de bordo mais depressa, sem perder velocidade no meio da manobra",
+    "Para substituir a âncora de popa quando o fundo é de lama e não segura",
+    "Para deixar o barco quase parado e estável, e descansar ou rizar com calma"
+   ],
+   "correta": 3,
+   "explicacao": "Capeado, o barco fica <b>quase parado e estável</b>, com a proa a uns 50° a 60° do vento: é uma pausa para comer, descansar, rizar ou pensar com calma. Não serve para ganhar velocidade, pois o barco quase não anda. Não substitui a âncora, pois continua derivando devagar. E não é forma de virar mais depressa: a virada exige seguimento, e o barco capeado está quase parado.",
+   "referencia": "RYA Yachtmaster Offshore Handbook (heave-to); Coles e Bruce, Heavy Weather Sailing"
+  },
+  {
+   "tema": "Mau tempo",
+   "dificuldade": 2,
+   "enunciado": "Correndo com o tempo em mar grosso, o barco começa a surfar as ondas e a perder o governo. Qual recurso ajuda a moderar a velocidade e a manter a popa alinhada com as ondas?",
+   "alternativas": [
+    "Um drogue (âncora de arrasto), rebocado pela popa, para frear o barco",
+    "Uma âncora flutuante lançada pela proa, para manter a proa ao mar",
+    "Mais pano na grande e na genoa, para fugir mais depressa das ondas altas",
+    "O burro bem caçado, para segurar a retranca e controlar a torção"
+   ],
+   "correta": 0,
+   "explicacao": "O <b>drogue</b> (âncora de arrasto) é rebocado pela popa: ele freia o barco e mantém a popa alinhada com as ondas, o que reduz o risco de atravessar. A âncora flutuante é lançada pela proa e mantém a proa ao mar, com o barco quase parado: não serve para correr com o tempo. Mais pano aumenta a velocidade e o risco de surfar fora de controle. O burro controla a torção da grande e não tem relação com a velocidade do barco.",
+   "referencia": "Coles e Bruce, Heavy Weather Sailing; Pardey, The Storm Tactics Handbook"
+  },
+  {
+   "tema": "Mau tempo",
+   "dificuldade": 3,
+   "enunciado": "Correndo com o tempo, um veleiro vai muito devagar, e as ondas grandes o ultrapassam por baixo da popa. Qual é o risco?",
+   "alternativas": [
+    "A proa afunda na onda da frente, porque o barco é mais rápido do que a onda",
+    "O vento aparente aumenta muito, e o mastro tende a se inclinar para a proa",
+    "A popa é levantada, o leme perde efeito e o barco pode atravessar na onda",
+    "O barco para de derivar e fica imóvel, protegido pelas ondas maiores"
+   ],
+   "correta": 2,
+   "explicacao": "Quando a onda passa por baixo da popa, esta é levantada e o <b>leme perde o efeito</b>: o barco pode girar para o través e ser atingido de lado (broaching). Enterrar a proa na onda da frente é o risco oposto, de quem corre <i>mais depressa</i> que a onda, e não é o caso de quem vai devagar. Em popa, o vento aparente é menor, e não maior. E o barco não fica imóvel: continua sendo levado pelas ondas e pelo vento.",
+   "referencia": "Coles e Bruce, Heavy Weather Sailing (correr com o tempo e broaching)"
+  },
+  {
+   "tema": "Mau tempo",
+   "dificuldade": 2,
+   "enunciado": "Qual vela de tempestade é içada no mastro, em pista própria, separada da vela grande?",
+   "alternativas": [
+    "Vela de capa (trysail), pequena e reforçada",
+    "Tormentim (storm jib), de proa, içado no estai",
+    "Genoa enrolada até a metade, ainda em uso normal",
+    "Vela grande com o terceiro rizo, presa à retranca"
+   ],
+   "correta": 0,
+   "explicacao": "A <b>vela de capa</b> (<i>trysail</i>) é uma vela pequena e muito resistente, içada no mastro por pista própria, separada da vela grande. O tormentim também é vela de tempestade, mas é vela de proa: fica no estai. A genoa enrolada até a metade continua sendo vela de proa de uso normal, que perde a forma. A grande com o terceiro rizo continua na pista e na retranca da própria grande.",
+   "referencia": "RYA Yachtmaster Offshore Handbook (velas de tempestade); World Sailing, Offshore Special Regulations (vela de capa e buja de tempestade; fato travessia-32)"
+  },
+  {
+   "tema": "Anatomia e sistemas do barco",
+   "dificuldade": 1,
+   "enunciado": "Qual peça do aparelho fixo segura o mastro contra a queda para os lados?",
+   "alternativas": [
+    "A adriça da vela grande, que iça a vela até o topo",
+    "O estai, que segura o mastro para a proa, contra a queda para vante",
+    "O burro, que puxa a retranca para baixo, na popa",
+    "O brandal, que segura o mastro para os bordos"
+   ],
+   "correta": 3,
+   "explicacao": "Os <b>brandais</b> são cabos do aparelho fixo que descem do alto do mastro até os bordos do casco e seguram o mastro lateralmente. O estai, também do aparelho fixo, segura o mastro para a proa (contra a queda para vante). A adriça iça a vela, e o burro puxa a retranca para baixo: esses dois são do aparelho de laborar, manobrados durante a navegação.",
+   "referencia": "Glossário náutico (aparelho fixo e de laborar); curso vela-1, módulo de anatomia do veleiro"
+  },
+  {
+   "tema": "Anatomia e sistemas do barco",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro tem banco de serviço de 200 Ah de baterias de chumbo-ácido e consome 50 Ah por dia. Usando só metade da capacidade antes de recarregar, quantos dias o banco aguenta sem carga?",
+   "alternativas": [
+    "1 dia",
+    "2 dias",
+    "3 dias",
+    "4 dias"
+   ],
+   "correta": 1,
+   "explicacao": "Em chumbo-ácido, a regra prática é usar no máximo cerca de <b>metade</b> da capacidade: 200 ÷ 2 = 100 Ah úteis. Dividindo pelo consumo: 100 ÷ 50 = <b>2 dias</b>. Um dia consumiria só 50 Ah (um quarto do banco), e três dias exigiriam 150 Ah, mais que a metade útil. Os 4 dias usam a capacidade inteira (200 ÷ 50), o que descarrega demais e encurta a vida do banco.",
+   "referencia": "Calder, Boatowner’s Mechanical and Electrical Manual (baterias e orçamento de energia)"
+  },
+  {
+   "tema": "Anatomia e sistemas do barco",
+   "dificuldade": 2,
+   "enunciado": "Logo após a partida, o motor diesel de um veleiro não lança água pelo escape e a temperatura sobe. Qual é a primeira verificação?",
+   "alternativas": [
+    "Se o tanque tem diesel suficiente para o motor funcionar até o porto",
+    "Se a bateria de serviço está carregada para a próxima partida",
+    "Se a válvula de fundo está aberta e o filtro de água do mar, limpo",
+    "Se o hélice está enrolado em algum cabo ou rede de pesca"
+   ],
+   "correta": 2,
+   "explicacao": "Sem água no escape, a bomba de água do mar não está bombeando. As causas mais comuns são a <b>válvula de fundo fechada</b> e o <b>filtro de água do mar entupido</b> por alga ou plástico. Depois vem o impelidor danificado. O motor sem água superaquece e deve ser desligado logo, para não queimar o impelidor. Falta de diesel ou de bateria não explica a falta de água no escape, e o hélice enrolado prejudica o avanço, não o resfriamento.",
+   "referencia": "Calder, Boatowner’s Mechanical and Electrical Manual (motores diesel e circuito de água do mar)"
+  },
+  {
+   "tema": "Anatomia e sistemas do barco",
+   "dificuldade": 1,
+   "enunciado": "Você sente cheiro de gás de cozinha na cabine do veleiro. Qual é a primeira providência?",
+   "alternativas": [
+    "Ligar a luz da cabine para localizar o vazamento com mais facilidade",
+    "Ligar a bomba de porão elétrica para tirar o gás que está na sentina",
+    "Fechar o registro do cilindro e ventilar, sem acionar interruptores",
+    "Fechar bem a cabine e esperar que o gás saia sozinho pelas frestas"
+   ],
+   "correta": 2,
+   "explicacao": "O GLP é mais pesado que o ar, escorre para a sentina e explode com uma faísca. A conduta é <b>fechar o registro do cilindro</b> e <b>ventilar</b> bastante (escotilhas e gaiuta abertas), sem acionar nada elétrico. Acender luz ou ligar a bomba de porão elétrica pode gerar faísca. Fechar a cabine mantém o gás acumulado onde ele é mais perigoso. Só se procura o vazamento depois que o cheiro sumir.",
+   "referencia": "ISO 10239 (sistemas de GLP em embarcações); ABYC A-1"
+  },
+  {
+   "tema": "Anatomia e sistemas do barco",
+   "dificuldade": 3,
+   "enunciado": "Com o veleiro adernado a 25°, entra água do mar na pia da cozinha, cuja descarga sai pelo casco um pouco acima da linha d’água em repouso. Qual é a causa e a solução?",
+   "alternativas": [
+    "A descarga fica abaixo da água ao adernar; alça alta no cano e válvula fechada na banda",
+    "A bomba de porão devolve água à pia; a solução é trocá-la por outra mais potente",
+    "A válvula de fundo é pequena para o cano; a solução é trocá-la por uma maior, de bronze",
+    "A água doce do tanque sobe pelo cano, e a solução é esvaziar o tanque antes de cada viagem"
+   ],
+   "correta": 0,
+   "explicacao": "Com a banda, o lado baixo do casco afunda e a <b>descarga da pia fica abaixo da linha d’água</b>: a água do mar entra pelo cano e inunda a pia. A solução é a <b>alça alta</b> (<i>loop</i>) no cano, acima do nível da água mesmo adernado, e fechar a válvula de fundo ao navegar muito adernado. A bomba de porão não tem relação com a entrada de água pela pia. Uma válvula maior só deixaria entrar mais água. E o tanque de água doce não faz a água do mar subir pela pia.",
+   "referencia": "RYA Yachtmaster Offshore Handbook (válvulas de fundo e passa-cascos); Calder, Boatowner’s Mechanical and Electrical Manual; curso vela-2 (alça alta na descarga)"
+  },
+  {
+   "tema": "Anatomia e sistemas do barco",
+   "dificuldade": 2,
+   "enunciado": "No copo transparente do pré-filtro separador do diesel, onde a água se acumula?",
+   "alternativas": [
+    "Na superfície, porque a água é menos densa que o diesel e sobe",
+    "No fundo, porque a água é mais densa que o diesel",
+    "Misturada ao diesel, porque os dois formam uma solução única",
+    "Na tampa do copo, porque a água evapora com o calor do motor"
+   ],
+   "correta": 1,
+   "explicacao": "A água é mais densa que o diesel (cerca de 1,0 contra 0,85 g/mL), então <b>vai para o fundo</b> do copo, onde se vê e se drena. O diesel fica por cima, ao contrário do que supõe a primeira alternativa. Diesel e água não formam solução: a água se separa em gotas e, se agitada, deixa o combustível turvo. E o calor do motor não faz a água subir à tampa do copo. Drene o copo periodicamente e sempre que abastecer em lugar duvidoso.",
+   "referencia": "Calder, Boatowner’s Mechanical and Electrical Manual (sistema de combustível diesel)"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "Conferido. Pequeno ajuste de redação na explicação; resposta e distratores mantidos; posição da correta equilibrada."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Cálculo refeito (6 × 1.852 / 60 = 185,2 m). Alternativa correta trocada de posição para a 1ª (distribuição de posições). Explicação ajustada: 100 m = 3,2 nós, 60 m = 1,9 nós, 370 m = 12 nós."
+  },
+  {
+   "idx": 2,
+   "acao": "corrigida",
+   "motivo": "Distrator 'peso de 5 kg' (absurdo) trocado por 'tamanho do colete' (plausível e errado). Correta encurtada para não ser sempre a mais longa. Explicação ajustada."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Conferido: Anexo IV 1(e) confirmado (claim tecnico-84). Única alternativa de perigo; a correta é a segunda, não mais a longa. Sem alteração de conteúdo."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era claramente a mais longa; encurtada e distratores ajustados ao mesmo tamanho. Referência trocada: a revista Practical Boat Owner não é fonte normativa/técnica precisa. Explicação corrigida (o rumo de bolina folgada não é o de maior velocidade)."
+  },
+  {
+   "idx": 5,
+   "acao": "ok",
+   "motivo": "Conferido: 1 nó × 0,5 h = 0,5 milha = 926 m. Único distrator 'nada' é o erro conceitual esperado. Posição da correta alterada para a 2ª. Explicação com redação mais clara."
+  },
+  {
+   "idx": 6,
+   "acao": "corrigida",
+   "motivo": "Correta era a mais longa; encurtada e distratores alongados. Distrator 'soltar o mosquetão' reescrito para ser mais plausível. Referência especificada (o estudo trata de recuperação; o caso de tirante é coberto pelo OSR)."
+  },
+  {
+   "idx": 7,
+   "acao": "corrigida",
+   "motivo": "Correta era a mais longa: encurtada ('alça' no lugar de 'alça de içamento'; a explicação mantém o termo completo). Distratores alongados. Posição alterada. Conteúdo conferido com o curso (callout 'Adriça + catraca')."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Figura conferida: 1 sai da proa para vante, 2 sai da proa para ré, 3 sai da popa para vante, 4 sai da popa para ré. Coerente com a figura do curso vela-2 (legenda dos cabos). Sem alteração."
+  },
+  {
+   "idx": 9,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido (9 × 7 = 63). Frase 'a puxada sobre a âncora é mais inclinada' era ambígua; reescrita em termos de escopo. Distratores verificados (42, 49, 56 correspondem aos erros nomeados)."
+  },
+  {
+   "idx": 10,
+   "acao": "ok",
+   "motivo": "Conferido: (5 + 1 + 1) × 5 = 35; 35 + 10 + 10 = 55; 69 = 49 + 20 corresponde ao erro de 7:1. Sem alteração de conteúdo."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Explicação sobre o leme era imprecisa ('quase não governa'); reescrita. Último distrator ('sempre menor') mantido como errado e explicado. Resposta conferida (hélice de passo à direita, em marcha à ré, leva a popa a bombordo)."
+  },
+  {
+   "idx": 12,
+   "acao": "ok",
+   "motivo": "Conferido: 6 − 4,5 = 1,5 m < 1,8 m. Sem alteração de conteúdo; alternativa correta mantida na 2ª posição."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "Referência ampliada para a Regra 30(d), que traz a esfera PRETA diurna (a 30(a)(i) só diz 'esfera'; a verificada tecnico-64 não traz a cor). 30(d) não consta de claims_verified.json: conferir no texto oficial. Explicação precisa (pesca de arrasto = Regra 26(b)). Distratores com mesmo comprimento."
+  },
+  {
+   "idx": 14,
+   "acao": "ok",
+   "motivo": "Conferido contra extra-mestre-2-02 (NORMAM-211, 1.9.3 a 1.9.7 e nota 4: 'não é permitido o tráfego e fundeio' e marinas reguladas pelas NPCP/NPCF). Alternativa correta usa o termo exato da norma ('unidade estacionária de produção de petróleo') e foi encurtada, pois era a mais longa. Explicação alinhada ao texto verificado."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Distratores eram absurdos (ex.: 'a boia só é reconhecida pelo dono se for apontada'), o que tornava a questão óbvia. Reescritos como erros plausíveis. Explicação cobre cada distrator."
+  },
+  {
+   "idx": 16,
+   "acao": "ok",
+   "motivo": "Conferido: 40 + 35 = 75. Figura conferida: raios 80 e 70 com centros a 150 (escala 2:1 dos 40 e 35 m, círculos tangentes). Correta passa para a 1ª posição. Sem alteração de conteúdo."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta reescrita para 'junto à popa' (a luz de alcançado é junto à popa, conforme tecnico-44). Explicação esclarece que, com tricolor, a luz branca de popa tem o mesmo setor. Referência inclui 25(b)."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Correta era a mais longa; encurtada. Explicação: 'infração' trocado por 'errado' (a regra é de validade das luzes); citação 23(d)(i) precisada (tecnico-53). Regra 25(c) confirmada (tecnico-56)."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Conferido: 1 milha ÷ 12 nós = 5 min (alcance 1 milha dos bordos confirmado em tecnico-51). Explicação de 20 min e 2,5 min tornada precisa (antes dizia 'nenhuma combinação', o que era falso para 20 min). Posição da correta alterada."
+  },
+  {
+   "idx": 20,
+   "acao": "ok",
+   "motivo": "Conferido: 9 − 3 = 6 h. Sem alteração de conteúdo."
+  },
+  {
+   "idx": 21,
+   "acao": "ok",
+   "motivo": "Conferido contra tecnico-103/104 (cores, faixas e luz Lp(2+1) dos dois canais preferenciais), tecnico-115 e tecnico-117, e tecnico-90 (Decreto 92.267/1986). Sem alteração."
+  },
+  {
+   "idx": 22,
+   "acao": "corrigida",
+   "motivo": "Correta era a mais longa; distrator 1 alongado para equilibrar. Explicação mantida (tempo de adaptação de cerca de 30 min, sem contradição com a alternativa)."
+  },
+  {
+   "idx": 23,
+   "acao": "corrigida",
+   "motivo": "Erro na explicação corrigido: dizia que a força 5 'basta' para o aviso, o que contradiz o critério verificado (travessia-96: vento força 7 ou mais). Distratores alongados para equilibrar comprimentos."
+  },
+  {
+   "idx": 24,
+   "acao": "corrigida",
+   "motivo": "Explicação dizia 'soma' de 25 e 6 nós (incorreta). Cálculo vetorial refeito: vento real a 45° (componentes 17,7 e 17,7) mais o deslocamento de 6 nós dá aparente de 29,6 nós. Distratores alongados (correta era a mais longa)."
+  },
+  {
+   "idx": 25,
+   "acao": "corrigida",
+   "motivo": "Distratores eram fracos (ex.: 'fundear sem âncora quando o fundo é de lama'), tornando a questão óbvia para dificuldade 1. Reescritos como erros plausíveis. Explicação reescrita para não confundir 'cambar' com 'capear'."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Distrator 'âncora flutuante' reescrito com sua função correta (manter a proa ao mar), para ficar claramente fora do enunciado (correr com o tempo). Distrator 'mais pano' alongado para que a correta não seja a mais longa."
+  },
+  {
+   "idx": 27,
+   "acao": "ok",
+   "motivo": "Conferido: broaching com a popa levantada e perda do leme. Distratores ajustados para comprimentos próximos. Sem alteração de conteúdo."
+  },
+  {
+   "idx": 28,
+   "acao": "corrigida",
+   "motivo": "Enunciado trocado: 'sem usar a retranca' não é afirmação segura para toda vela de capa (algumas usam pequena retranca própria). Agora 'em pista própria, separada da vela grande', que é o que a verificação sustenta (travessia-32). Distratores alongados."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Distrator 'escota da genoa' (de laborar, eliminável por si só) trocado pelo 'estai' (também do aparelho fixo, mas para vante), para que a questão exija saber a direção da força. Distratores alongados para que a correta ('brandal') não seja a mais longa. Explicação atualizada."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Cálculo conferido (100 ÷ 50 = 2). Explicação dos distratores precisada: antes dizia que 1 e 3 dias 'não correspondem a nenhuma conta', o que não explicava o erro. Agora cada um é explicado."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "Explicação dizia que o impelidor queima 'em segundos' (exagero sem fonte); trocado por 'logo'. Correta mantida."
+  },
+  {
+   "idx": 32,
+   "acao": "ok",
+   "motivo": "Conferido: conduta padrão (fechar o registro, ventilar, sem fontes de ignição). Alternativas com comprimento equilibrado. Sem alteração de conteúdo."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Correta era de longe a mais longa (116 caracteres); encurtada, e distratores alongados e reescritos com comprimento próximo. Explicação deixa claro que a válvula é fechada ao navegar muito adernado."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Distrator 'o diesel é mais denso e afunda' era contraditório; trocado por erro físico plausível (água menos densa que o diesel). Explicação ajustada."
+  }
+ ]
+}

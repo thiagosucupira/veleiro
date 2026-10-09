@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "NORMAM 211 Normas da Autoridade Marítima para Atividades de Esporte e/ou Recreio PORTARIA DPC/DGN/MB Nº 200 , DE 27 DE FEVEREIRO DE 2026",
+   "notes": "Linha NORMAM 211 da página-índice traz a Portaria 200 de 27/02/2026; a Introdução do PDF (p. XXII, item 6) confirma que ela substitui a 5ª modificação (Portaria DPC/DGN/MB nº 197, de 23/01/2026)."
+  },
+  {
+   "id": "normas-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "3. PRINCIPAIS MODIFICAÇÕES No Capítulo 5, foi incluído como artigo 5.9 o seguinte texto: \"5.9. MARINHEIRO PROFISSIONAL DE ESPORTE E RECREIO (MPER)",
+   "notes": "Introdução, item 3, p. XXI: a inclusão do art. 5.9 é a única modificação listada no item 3. Afirmação fiel."
+  },
+  {
+   "id": "normas-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Dessa forma, as categorias de amadores estão listadas no item II do anexo I do Decreto no 2.596/98 (RLESTA).",
+   "notes": "p. XXI, item 2: decorre da Lei 9.537/1997 (LESTA) e do Decreto 2.596/1998 (RLESTA). Fiel."
+  },
+  {
+   "id": "normas-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Interior - a realizada em águas consideradas abrigadas ou parcialmente abrigadas. As áreas de navegação interior serão subdivididas nos seguintes tipos:",
+   "notes": "art. 1.7, p. 1-4 (linhas 838-882 do texto). Lista Área 1 e Área 2. Fiel."
+  },
+  {
+   "id": "normas-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Área 1 - áreas abrigadas, tais como lagos, lagoas, baías, rios e canais, onde normalmente não sejam verificadas ondas com alturas significativas",
+   "notes": "art. 1.7, p. 1-4. Fiel."
+  },
+  {
+   "id": "normas-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Área 2 - áreas parcialmente abrigadas, onde eventualmente sejam observadas ondas com alturas significativas e/ou combinações adversas de agentes ambientais, tais como vento, correnteza ou maré",
+   "notes": "art. 1.7, p. 1-4. Fiel."
+  },
+  {
+   "id": "normas-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As Áreas de Navegação Interior são delimitadas pelas CP/DL/AG com base nas peculiaridades locais, e constam nas respectivas Normas e Procedimentos (NPCP/NPCF) de cada uma.",
+   "notes": "art. 4.7, p. 4-4; também art. 1.7, p. 1-4 (\"estabelecidas através das NPCP/NPCF, de cada Capitania\"). Fiel."
+  },
+  {
+   "id": "normas-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Costeira - aquela realizada dentro dos limites de visibilidade da costa até a distância máxima de 20 milhas náuticas.",
+   "notes": "art. 1.7, p. 1-4, e Glossário, p. VIII. Fiel."
+  },
+  {
+   "id": "normas-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Oceânica - aquela considerada sem restrições e realizada além das 20 milhas náuticas da costa.",
+   "notes": "art. 1.7, p. 1-4, e Glossário, p. VIII. Fiel."
+  },
+  {
+   "id": "normas-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Costeira - aquela realizada entre portos nacionais e estrangeiros dentro do limite da visibilidade da costa, não excedendo a 20 milhas náuticas (Mestre-Amador).",
+   "notes": "art. 4.7, p. 4-4. Fiel."
+  },
+  {
+   "id": "normas-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Oceânica - também definida como sem restrições, isto é, aquela realizada entre portos nacionais e estrangeiros fora dos limites de visibilidade da costa e sem outros limites estabelecidos (Capitão-Amador).",
+   "notes": "art. 4.7, p. 4-4 (começa logo após o rodapé 4-3). Fiel."
+  },
+  {
+   "id": "normas-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Interior 2 - ... possam comprometer a segurança da embarcação (Arrais-Amador, Veleiro e Motonauta).",
+   "notes": "art. 4.7, p. 4-4: a Interior 1 e a Interior 2 trazem ambas o parêntese (Arrais-Amador, Veleiro e Motonauta). Fiel."
+  },
+  {
+   "id": "normas-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Para os efeitos de dotação de equipamentos de navegação, segurança e salvatagem, de habilitação do condutor (categoria do Amador),",
+   "notes": "art. 4.7, p. 4-3. Fiel."
+  },
+  {
+   "id": "normas-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Com relação à habilitação do condutor, é de porte obrigatório (física ou digital), deverá ser compatível com a área de navegação em que estiver trafegando,",
+   "notes": "art. 4.1, p. 4-1; repetido na p. 4-5. Fiel."
+  },
+  {
+   "id": "normas-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação Miúda - para aplicação dessa norma são consideradas embarcações miúdas aquelas que tenham comprimento menor ou igual a seis (6) metros,",
+   "notes": "art. 1.7, p. 1-7. Fiel."
+  },
+  {
+   "id": "normas-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação de Pequeno Porte – é considerada embarcação de pequeno porte aquelas com comprimento maior que 6 metros e menor que 12 metros.",
+   "notes": "art. 1.7, p. 1-7. 32 pés × 0,3048 = 9,75 m, dentro da faixa. Fiel."
+  },
+  {
+   "id": "normas-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação de Médio Porte - é considerada embarcação de médio porte aquelas com comprimento maior que 12 metros e menor que 24 metros.",
+   "notes": "art. 1.7, p. 1-7. Fiel."
+  },
+  {
+   "id": "normas-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "EMBARCAÇÃO DE MÉDIO PORTE - é considerada embarcação de médio porte aquelas com comprimento inferior a 24 metros, exceto as miúdas.",
+   "notes": "Glossário, p. VII. A divergência com o art. 1.7 (médio porte de 12 a 24 m) é real. Fiel."
+  },
+  {
+   "id": "normas-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação de Grande Porte ou Iate - é considerada embarcação de grande porte ou iate, aquelas com comprimento igual ou maior que 24 metros.",
+   "notes": "art. 1.7, p. 1-6. Fiel."
+  },
+  {
+   "id": "normas-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "o termo \"comprimento da embarcação\" é definido como sendo a distância horizontal entre os pontos extremos da proa a popa. Plataformas de mergulho, gurupés ou apêndices similares não são considerados para o cômputo dessa medida",
+   "notes": "art. 1.7, p. 1-5. Fiel."
+  },
+  {
+   "id": "normas-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "só podem navegar a partir de cem metros da linha de base (para as que utilizam propulsão a remo ou a vela) ou a partir de duzentos metros da linha de base (para as que utilizam propulsão a motor).",
+   "notes": "art. 1.8.1, p. 1-9. A finalidade dada é a integridade de banhistas e mergulhadores. Fiel."
+  },
+  {
+   "id": "normas-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deve ser realizado perpendicularmente a essa, e com velocidade baixa, abaixo de três nós.",
+   "notes": "art. 1.8.1, p. 1-9. Fiel."
+  },
+  {
+   "id": "normas-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "CATEGORIAS SIGLAS Capitão-Amador CPA Mestre-Amador MSA Arrais-Amador ARA Motonauta MTA Veleiro VLA",
+   "notes": "art. 5.3.1, p. 5-1. Fiel."
+  },
+  {
+   "id": "normas-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) Capitão-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros, sem limite de afastamento da costa, exceto moto aquática.",
+   "notes": "art. 5.3.3 a, p. 5-1. Fiel."
+  },
+  {
+   "id": "normas-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) Mestre-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros nos limites da navegação costeira (até 20 MN), exceto moto aquática.",
+   "notes": "art. 5.3.3 b, p. 5-1. Fiel."
+  },
+  {
+   "id": "normas-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) Arrais-Amador - apto para conduzir embarcações nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF, exceto moto aquática.",
+   "notes": "art. 5.3.3 c, p. 5-1. Fiel."
+  },
+  {
+   "id": "normas-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "d) Motonauta - apto para conduzir moto aquática nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF.",
+   "notes": "art. 5.3.3 d, p. 5-1. Fiel."
+  },
+  {
+   "id": "normas-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "e) Veleiro - apto para conduzir embarcações a vela sem propulsão a motor, nos limites da navegação interior.",
+   "notes": "art. 5.3.3 e, p. 5-2. Fiel."
+  },
+  {
+   "id": "normas-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Observação 1: Os CPA, MSA e ARA habilitados a partir de 2 de julho de 2012 deverão ser, também, habilitados na categoria de MTA para condução de moto aquática.",
+   "notes": "art. 5.3.3, Obs. 1, p. 5-1. A Obs. 2 (p. 5-2) dá a regra para quem se habilitou antes dessa data. Fiel."
+  },
+  {
+   "id": "normas-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A habilitação dos amadores será comprovada por meio da Carteira de Habilitação de Amador (CHA), física ou digital, sendo o seu porte obrigatório para a condução das embarcações de esporte e/ou recreio.",
+   "notes": "art. 5.3.3, p. 5-1. Fiel."
+  }
+ ]
+}

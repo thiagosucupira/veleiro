@@ -1,0 +1,142 @@
+{
+ "verdicts": [
+  {
+   "id": "se-rj-icrj-edn",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-rj-clvela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "curl direto deu 406/403 (antibot); aberto via serviço local, título e conteúdo coerentes com a entidade e com a atividade descrita."
+  },
+  {
+   "id": "se-rj-sete-mares",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-rj-navegart",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "curl direto deu 406/403 (antibot); aberto via serviço local, título e conteúdo coerentes com a entidade e com a atividade descrita."
+  },
+  {
+   "id": "se-rj-brisamar",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-rj-projeto-grael",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-rj-clube-naval-charitas",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-rj-passeio-de-veleiro-rj",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-rj-feverj",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-rj-icab-buzios",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "curl direto deu 406/403 (antibot); aberto via serviço local, título e conteúdo coerentes com a entidade e com a atividade descrita."
+  },
+  {
+   "id": "se-rj-brasil-veleiros-paraty",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "curl direto deu 406/403 (antibot); aberto via serviço local, título e conteúdo coerentes com a entidade e com a atividade descrita."
+  },
+  {
+   "id": "se-rj-angra-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-vou-de-vela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-yacht-club-ilhabela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "curl direto deu 406/403 (antibot); aberto via serviço local, título e conteúdo coerentes com a entidade e com a atividade descrita."
+  },
+  {
+   "id": "se-sp-sivi-bolsa-tripulantes",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "curl direto deu 406/403 (antibot); aberto via serviço local, título e conteúdo coerentes com a entidade e com a atividade descrita."
+  },
+  {
+   "id": "se-sp-bl3-ilhabela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-sailing-adventures",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-escola-vela-prefeitura-ilhabela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-wahoo-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-ycsa",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-spyc",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-cen-nautico-guarapiranga",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx, título coerente com a entidade)."
+  },
+  {
+   "id": "se-sp-rede-nautica-guarapiranga",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "curl direto deu 406/403 (antibot); aberto via serviço local, título e conteúdo coerentes com a entidade e com a atividade descrita."
+  }
+ ]
+}

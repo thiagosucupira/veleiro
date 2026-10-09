@@ -1,0 +1,704 @@
+{
+ "questoes": [
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 1,
+   "enunciado": "Segundo o Centro Nacional de Furacões dos EUA (NHC), em que data cai o pico da temporada de furacões do Atlântico?",
+   "alternativas": [
+    "1º de junho, quando a temporada começa oficialmente.",
+    "30 de novembro, quando a temporada termina oficialmente.",
+    "10 de setembro, no meio da fase de maior atividade.",
+    "1º de julho, logo no primeiro mês de calor."
+   ],
+   "correta": 2,
+   "explicacao": "O pico é em <b>10 de setembro</b>, com a maior parte da atividade entre meados de agosto e meados de outubro. O dia 1º de junho é só o início da temporada oficial e o dia 30 de novembro é o seu fim, e em julho a atividade ainda é pequena.",
+   "referencia": "NHC/NOAA, Tropical Cyclone Climatology (temporada do Atlântico)",
+   "fonte_url": "https://www.nhc.noaa.gov/climo/"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro sai de Recife para o mar aberto, em qualquer mês do ano. Que vento predominante ele encontra na parte mais oriental da costa brasileira?",
+   "alternativas": [
+    "Os alísios de nordeste, como na rota das Canárias.",
+    "Os alísios de sudeste, presentes em todas as estações.",
+    "Os ventos de oeste das latitudes médias.",
+    "Ventos de monção, que invertem de sentido a cada semestre."
+   ],
+   "correta": 1,
+   "explicacao": "A parte mais oriental da costa brasileira fica sob os <b>alísios de sudeste</b> em todas as estações. Os alísios de nordeste pertencem ao Hemisfério Norte, do outro lado da ZCIT, e só chegam à costa Norte do Brasil perto do verão austral. Os ventos de oeste dominam em latitudes bem maiores, ao sul de cerca de 30°S. A monção é um regime típico do Índico, não do Atlântico.",
+   "referencia": "NGA Pub. 160, Sailing Directions (Planning Guide) South Atlantic Ocean and Indian Ocean, 15ª ed. (2026), Climatology",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 1,
+   "enunciado": "A Corrente do Brasil, extensão da Corrente Sul Equatorial, corre ao largo do litoral brasileiro em que sentido?",
+   "alternativas": [
+    "Para sudoeste, até cerca de 35°S.",
+    "Para noroeste, ao longo da costa Nordeste e Norte.",
+    "Para nordeste, em direção ao Caribe.",
+    "Para leste, em direção à costa da África."
+   ],
+   "correta": 0,
+   "explicacao": "A Corrente do Brasil corre para <b>sudoeste</b> ao largo do Brasil, até cerca de 35°S. A que corre para noroeste pela costa Nordeste é a Corrente das Guianas. A corrente não segue para nordeste nem cruza o Atlântico para leste nessa região.",
+   "referencia": "NGA Pub. 160 (15ª ed., 2026), Currents",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro faz 5 nós pela água, em rumo noroeste ao longo da costa Nordeste, com a Corrente das Guianas de 2 nós no mesmo sentido. Quanto tempo ele leva para percorrer 210 milhas sobre o fundo?",
+   "alternativas": [
+    "30 horas.",
+    "35 horas.",
+    "42 horas.",
+    "70 horas."
+   ],
+   "correta": 0,
+   "explicacao": "A corrente está a favor, então a velocidade sobre o fundo é 5 + 2 = 7 nós, e 210 ÷ 7 = <b>30 horas</b>. Os 42 horas ignoram a corrente (210 ÷ 5). As 70 horas subtraem a corrente, como se fosse contrária (210 ÷ 3). As 35 horas usam a média entre 5 e 7 nós (6 nós), que não é a velocidade real do barco.",
+   "referencia": "NGA Pub. 160 (15ª ed., 2026), Currents; Miguens, Navegação: a Ciência e a Arte, vol. I (navegação estimada)",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 2,
+   "enunciado": "Ao atravessar a ZCIT, os cruzeiristas escolhem o trecho em que ela é mais estreita e cruzam em rumo quase perpendicular à faixa. Qual é o motivo?",
+   "alternativas": [
+    "Usar a Corrente das Guianas, que corre ao longo da ZCIT.",
+    "Passar mais tempo nos alísios, que sopram dentro da ZCIT.",
+    "Manter o vento sempre de popa durante a travessia da faixa.",
+    "Reduzir o tempo em calmarias e pancadas, que gastam combustível."
+   ],
+   "correta": 3,
+   "explicacao": "A ZCIT é a faixa de <b>calmarias, vento rondando e pancadas</b> entre os dois alísios. Cruzá-la pelo caminho mais curto (onde ela é mais estreita) reduz o tempo nessas condições e o uso do motor. A corrente não segue a ZCIT, os alísios ficam dos dois lados dela e não dentro dela, e no meio da faixa o vento é variável, não de popa.",
+   "referencia": "NGA Pub. 140 (18ª ed., 2025), Climatology (ZCIT: faixa de ventos fracos, nebulosidade e pancadas entre os alísios); a escolha do trecho estreito é prática de planejamento de cruzeiro, não norma",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 2,
+   "enunciado": "Pela NGA Pub. 151, a rota de navio entre Recife e Dakar tem 1.717 milhas. Qual é, aproximadamente, o tempo de um veleiro que mantém 5,5 nós de média, sem margem?",
+   "alternativas": [
+    "Cerca de 10 dias.",
+    "Cerca de 13 dias.",
+    "Cerca de 18 dias.",
+    "Cerca de 26 dias."
+   ],
+   "correta": 1,
+   "explicacao": "Tempo = 1.717 ÷ 5,5 ≈ 312 horas, que dão <b>13 dias</b> (312 ÷ 24). Dez dias exigiriam cerca de 7 nós e 18 dias, cerca de 4 nós. Os 26 dias vêm de dividir as horas por 12 em vez de 24.",
+   "referencia": "NGA Pub. 151, Distances Between Ports, 11ª ed. (2001), verbete Recife",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 2,
+   "enunciado": "Um comandante planeja Salvador a Port Castries (Santa Lúcia), 2.593 milhas pela Pub. 151, a 5 nós de média. Ele soma 25% de margem para calmarias e mau tempo. Qual é o prazo de planejamento?",
+   "alternativas": [
+    "Cerca de 17 dias.",
+    "Cerca de 22 dias.",
+    "Cerca de 27 dias.",
+    "Cerca de 32 dias."
+   ],
+   "correta": 2,
+   "explicacao": "Sem margem: 2.593 ÷ (5 × 24) ≈ 21,6 dias. Com 25% a mais: 21,6 × 1,25 ≈ <b>27 dias</b>. Os 22 dias esquecem a margem. Os 17 dias dividem por 1,25 em vez de multiplicar. Os 32 dias correspondem a uma margem de 50%.",
+   "referencia": "NGA Pub. 151 (11ª ed., 2001), verbete Salvador; cálculo de planejamento",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 2,
+   "enunciado": "Na ARC+, a perna Mindelo–Granada tem 2.150 milhas, e o organizador fala em 12 a 16 dias para o barco médio. Que faixa de velocidade média isso representa?",
+   "alternativas": [
+    "De 4,5 a 6,0 nós.",
+    "De 5,6 a 7,5 nós.",
+    "De 7,5 a 9,0 nós.",
+    "De 11,2 a 14,9 nós."
+   ],
+   "correta": 1,
+   "explicacao": "Média = milhas ÷ horas. Em 12 dias (288 h): 2.150 ÷ 288 ≈ 7,5 nós. Em 16 dias (384 h): 2.150 ÷ 384 ≈ 5,6 nós. A faixa é, portanto, <b>de 5,6 a 7,5 nós</b>. A faixa de 11 a 15 nós sai de contar só 12 horas por dia. As outras duas não correspondem a nenhuma divisão com esses prazos.",
+   "referencia": "World Cruising Club, ARC+ (pernas e prazos); cálculo nosso",
+   "fonte_url": "https://worldcruising.com/events/arc-plus"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 3,
+   "enunciado": "Pela Pub. 151 (rotas de navio), Rio de Janeiro–Horta (Açores) tem 3.897 milhas. Rio de Janeiro–Mindelo (Cabo Verde) tem 2.687, e Mindelo–Horta tem 1.316. Quantas milhas a mais faz quem escala em Mindelo?",
+   "alternativas": [
+    "106 milhas.",
+    "1.210 milhas.",
+    "1.316 milhas.",
+    "4.003 milhas."
+   ],
+   "correta": 0,
+   "explicacao": "Via Mindelo: 2.687 + 1.316 = 4.003 milhas. A diferença para a rota direta é 4.003 − 3.897 = <b>106 milhas</b>. O valor 4.003 é o total, não o acréscimo. O valor 1.316 é só a segunda perna. E 1.210 sai de 3.897 − 2.687, que esquece a perna Mindelo–Horta.",
+   "referencia": "NGA Pub. 151 (11ª ed., 2001), verbetes Rio de Janeiro e Porto Grande (Mindelo)",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 3,
+   "enunciado": "A ZCIT desce com o verão austral e alcança Cabo Orange (Amapá) no fim de novembro. Um comandante pretende ir de Belém ao Oiapoque nessa época. O que a posição da ZCIT sugere para o planejamento?",
+   "alternativas": [
+    "Alísio de nordeste firme e céu limpo, porque a ZCIT está longe da costa.",
+    "Vento forte e constante de sudoeste, típico da ZCIT sobre o continente.",
+    "Ciclones tropicais frequentes, porque é nessa faixa que eles costumam se formar.",
+    "Calmarias, vento variável e pancadas, mais prováveis do que no inverno austral."
+   ],
+   "correta": 3,
+   "explicacao": "No inverno austral a ZCIT fica ao norte da costa Norte do Brasil, e ela desce até <b>Cabo Orange no fim de novembro</b>. Perto dela, o esperado é vento fraco e variável, com pancadas de chuva. O alísio firme e o céu limpo valeriam longe da ZCIT. A ZCIT não traz vento constante de sudoeste e, tão perto do Equador, não é berço de ciclones tropicais.",
+   "referencia": "NGA Pub. 160 (15ª ed., 2026), Climatology (costa leste da América do Sul)",
+   "fonte_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 1,
+   "enunciado": "A ARC Europe, que leva barcos do Caribe à Europa, larga em maio (em 2027, no dia 8). Considerando a temporada de furacões do Atlântico (1º de junho a 30 de novembro, pico em 10 de setembro), qual é a razão de planejamento mais coerente com essa data?",
+   "alternativas": [
+    "Pegar os alísios de nordeste, que só sopram em maio e junho.",
+    "Chegar a Portugal antes do inverno europeu, quando fecham os portos.",
+    "Evitar a Corrente do Golfo, que só se enfraquece em junho.",
+    "Cruzar bem antes do auge da temporada de furacões do Atlântico."
+   ],
+   "correta": 3,
+   "explicacao": "A temporada de furacões do Atlântico vai de 1º de junho a 30 de novembro, com o pico em 10 de setembro e a maior atividade entre meados de agosto e meados de outubro. Largar em <b>maio</b> deixa a travessia longe desse auge (a lógica de planejamento do calendário; o organizador não a declara na página do evento). Os alísios sopram o ano todo, os portos europeus não fecham no inverno e a Corrente do Golfo não some em nenhuma estação.",
+   "referencia": "NHC/NOAA, Tropical Cyclone Climatology (1º jun–30 nov; pico em 10 set); World Cruising Club, ARC Europe (largada em 08/05/2027)",
+   "fonte_url": "https://worldcruising.com/events/arc-europe"
+  },
+  {
+   "tema": "Rotas e clima",
+   "dificuldade": 3,
+   "enunciado": "Um 32 pés larga de Las Palmas ao meio-dia de 22/11/2026, dia da largada da ARC 2026, e mantém 5 nós de média nas 2.700 milhas da rota, sem margem. Quando ele chega a Santa Lúcia?",
+   "alternativas": [
+    "Em 10 de dezembro, ao meio-dia.",
+    "Na virada de 13 para 14 de dezembro.",
+    "Na virada de 14 para 15 de dezembro.",
+    "Em 19 de dezembro, dia da premiação."
+   ],
+   "correta": 2,
+   "explicacao": "Tempo = 2.700 ÷ 5 = 540 horas = 22,5 dias. Do meio-dia de 22/11, 22 dias levam ao meio-dia de 14/12 (novembro tem 30 dias), e as 12 horas restantes levam à <b>meia-noite de 14 para 15 de dezembro</b>. A virada de 13 para 14 vem de contar novembro com 31 dias. O dia 10 supõe cerca de 6,25 nós (18 dias). O dia 19 é a data da premiação, não a da chegada deste barco.",
+   "referencia": "World Cruising Club, ARC (rota de 2.700 mn e datas de 2026); cálculo nosso",
+   "fonte_url": "https://worldcruising.com/events/arc"
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 1,
+   "enunciado": "Um velejador quer baixar, no site MSI da NGA, o atlas com as cartas piloto mensais do Atlântico Norte. Qual publicação deve procurar?",
+   "alternativas": [
+    "Pub. 105.",
+    "Pub. 106.",
+    "Pub. 109.",
+    "Pub. 151."
+   ],
+   "correta": 1,
+   "explicacao": "O Atlas of Pilot Charts do Atlântico Norte é a <b>Pub. 106</b>. A Pub. 105 é o atlas do Atlântico Sul, a Pub. 109 é o do Oceano Índico e a Pub. 151 é o livro de distâncias entre portos, não de cartas piloto.",
+   "referencia": "NGA MSI, Atlas of Pilot Charts (Pub. 105, 106 e 109); Pub. 151",
+   "fonte_url": "https://msi.nga.mil/Publications/APC"
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 1,
+   "enunciado": "Num arquivo GRIB com grade de 0,25°, qual é a distância aproximada, no sentido norte-sul, entre dois pontos vizinhos?",
+   "alternativas": [
+    "4 milhas náuticas.",
+    "15 milhas náuticas.",
+    "25 milhas náuticas.",
+    "60 milhas náuticas."
+   ],
+   "correta": 1,
+   "explicacao": "Um grau de latitude vale 60 milhas náuticas (1′ = 1 milha), então 0,25° vale 60 × 0,25 = <b>15 milhas</b>. As 60 milhas seriam de uma grade de 1°. As 25 milhas confundem 0,25 com 25, e as 4 milhas não correspondem a esta grade. No sentido leste-oeste o espaçamento encolhe com o cosseno da latitude. Um fenômeno menor que 15 milhas pode ficar escondido dentro de uma só célula.",
+   "referencia": "NOAA/NCEP NOMADS (GFS em 0,25°, 0,50° e 1,00°); Miguens, Navegação: a Ciência e a Arte, vol. I, item 1.7.1 (milha náutica = arco de 1′ de latitude)",
+   "fonte_url": "https://nomads.ncep.noaa.gov/"
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 2,
+   "enunciado": "Pelos critérios do Centro de Hidrografia da Marinha, qual destas previsões leva à emissão de um aviso de mau tempo?",
+   "alternativas": [
+    "Vento de 24 nós e ondas de 2,5 m em águas profundas.",
+    "Visibilidade de 3 km com chuva forte.",
+    "Ressaca com ondas de 2 m na costa.",
+    "Vento de 30 nós em águas oceânicas."
+   ],
+   "correta": 3,
+   "explicacao": "O aviso é emitido para vento de força 7 Beaufort ou mais (28 nós ou mais), ondas de 3 m ou mais em águas profundas, visibilidade de 1 km ou menos, ou ressaca com ondas de 2,5 m ou mais na costa. Os <b>30 nós</b> passam do limite de 28. Os 24 nós são força 6 e as ondas de 2,5 m não chegam a 3 m. A visibilidade de 3 km é maior que 1 km. A ressaca de 2 m é menor que 2,5 m.",
+   "referencia": "CHM/DHN, Serviços Radiometeorológicos de Apoio ao Navegante (critérios do aviso de mau tempo)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 2,
+   "enunciado": "Qual destas posições está dentro da METAREA V, que cobre as águas atlânticas a oeste de 20°W, entre 35°50′S e 7°N?",
+   "alternativas": [
+    "10°S 030°W.",
+    "10°S 015°W.",
+    "10°N 030°W.",
+    "40°S 030°W."
+   ],
+   "correta": 0,
+   "explicacao": "A posição <b>10°S 030°W</b> está a oeste de 20°W e entre 35°50′S e 7°N. A de 10°S 015°W fica a leste de 20°W. A de 10°N fica ao norte de 7°N. A de 40°S fica ao sul de 35°50′S. As três ficam fora da área.",
+   "referencia": "OMM/OMI, Sistema Mundial de Informação Meteorológica Marítima (WWMIWS), METAREA V",
+   "fonte_url": "https://wwmiws.wmo.int/index.php/metareas/affiche/5"
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 2,
+   "enunciado": "A 900 milhas da costa, um veleiro quer receber o METEOROMARINHA, transmitido às 0730Z e às 1930Z. Que meio e que horas de Brasília (UTC−3) servem para a escuta?",
+   "alternativas": [
+    "Inmarsat-C (SafetyNET), às 04h30 e às 16h30.",
+    "Inmarsat-C (SafetyNET), às 10h30 e às 22h30.",
+    "NAVTEX em 518 kHz, às 04h30 e às 16h30.",
+    "VHF no canal 16, às 07h30 e às 19h30."
+   ],
+   "correta": 0,
+   "explicacao": "O boletim sai pelo <b>Inmarsat-C (SafetyNET)</b>, que alcança o oceano. Em UTC−3, subtraem-se 3 horas: 07h30 vira 04h30 e 19h30 vira 16h30. As 10h30 e 22h30 somariam 3 horas em vez de subtrair. A NAVAREA V não tem serviço NAVTEX. O VHF tem alcance de visada e não chega a 900 milhas.",
+   "referencia": "CHM, METEOROMARINHA (Apêndice 2); IHO WWNWS-16 (2024), relatório da NAVAREA V",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/u1921/apendice2.pdf"
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 2,
+   "enunciado": "Na rosa dos ventos de uma carta piloto, cada seta aponta para o centro a partir da direção de onde o vento sopra. O comprimento da seta dá a frequência, as penas dão a força e o círculo central dá a calmaria. Como se lê a figura?",
+   "alternativas": [
+    "O vento sopra para o sudeste em metade das observações, com 2% de calmaria.",
+    "O vento vem de sudeste em 4% das observações, e as quatro penas dão essa frequência.",
+    "O vento vem de sudeste em cerca de metade das observações, com 2% de calmaria.",
+    "O vento vem de sudeste com força 50, e o círculo mostra 2 nós de corrente."
+   ],
+   "correta": 2,
+   "explicacao": "A seta mais comprida vem de <b>sudeste</b>, com 50% de frequência (metade das observações do mês), e o círculo central indica 2% de calmaria. A seta indica sempre a direção de onde o vento vem, não para onde vai. As penas dão a força Beaufort, não a frequência, e a corrente aparece em outra cor, fora da rosa. Um padrão assim, com uma ou duas setas longas, é típico de região de alísios.",
+   "referencia": "Legenda das Pilot Charts (NGA Pub. 105 e 106); Miguens, Navegação: a Ciência e a Arte, vol. III (meteorologia)",
+   "fonte_url": "https://msi.nga.mil/Publications/APC",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 300 250\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"inherit\" aria-label=\"Rosa dos ventos de uma carta piloto: setas de sudeste (50 por cento) e de leste (25 por cento) dominantes, calmaria de 2 por cento\"><rect width=\"300\" height=\"250\" fill=\"var(--sea-1)\"/><path d=\"M130 80L130 89M153 81L141 93M202 105L146 105M218 193L141 116M130 146L130 121M111 123L118 116M107 105L114 105M114 89L118 93\" stroke=\"var(--ink)\" stroke-width=\"2\" fill=\"none\"/><path d=\"M130 80l8 -4M130 85l8 -4M153 81l8 2M149 85l8 2M145 89l8 2M202 105l4 8M197 105l4 8M192 105l4 8M187 105l4 8M218 193l-2 8M214 189l-2 8M211 186l-2 8M207 182l-2 8M130 146l-7 4M130 141l-7 4M130 136l-7 4M111 123l-8 -2M114 120l-8 -2M118 116l-8 -2M107 105l-4 -7M112 105l-4 -7M114 89l2 -8M117 92l2 -8\" stroke=\"var(--ink)\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M130 89L134 81L126 81zM141 93L149 90L144 85zM146 105L154 109L154 101zM141 116L144 124L149 119zM130 121L126 129L134 129zM118 116L110 119L115 124zM114 105L106 101L106 109zM118 93L115 85L110 90z\" fill=\"var(--ink)\"/><circle cx=\"130\" cy=\"105\" r=\"16\" fill=\"var(--sea-2)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><g font-size=\"12\" fill=\"var(--ink)\"><text x=\"130\" y=\"68\" text-anchor=\"middle\">N 2%</text><text x=\"158\" y=\"73\" text-anchor=\"start\">NE 6%</text><text x=\"210\" y=\"105\" text-anchor=\"start\">E 25%</text><text x=\"224\" y=\"205\" text-anchor=\"start\">SE 50%</text><text x=\"130\" y=\"162\" text-anchor=\"middle\">S 10%</text><text x=\"105\" y=\"136\" text-anchor=\"end\">SW 3%</text><text x=\"99\" y=\"109\" text-anchor=\"end\">W 1%</text><text x=\"108\" y=\"80\" text-anchor=\"end\">NW 1%</text><text x=\"130\" y=\"110\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\">2</text><text x=\"8\" y=\"240\" font-size=\"11\">Círculo: % de calmaria. Penas: força Beaufort.</text></g></svg>"
+   }
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 3,
+   "enunciado": "Na véspera de uma perna longa, o GFS prevê 20 nós e o ECMWF prevê 35 nós para o mesmo ponto da rota, daqui a 48 horas. O aviso de mau tempo do CHM começa em 28 nós. Qual é a decisão mais prudente?",
+   "alternativas": [
+    "Planejar pela média de 27,5 nós, porque os erros dos dois modelos se compensam.",
+    "Usar o GFS, porque é gratuito e global, e largar no horário previsto.",
+    "Largar e decidir quando os 35 nós chegarem, já com o barco no mar.",
+    "Planejar pelo pior caso, 35 nós, e acompanhar novas rodadas e boletins."
+   ],
+   "correta": 3,
+   "explicacao": "Quando os modelos divergem, assume-se o <b>pior caso</b>. Aqui os 35 nós passam do critério de aviso (28 nós), então o planejamento deve seguir esse cenário, com gatilhos de decisão escritos e novas rodadas e boletins oficiais para reavaliar. A média de 27,5 nós esconde o cenário perigoso. Ser gratuito não torna um modelo mais certo. E decidir só quando o vento chegar tira a margem de escolha de porto, de rumo e de pano.",
+   "referencia": "Prática de planejamento meteorológico (comparar modelos e assumir o cenário desfavorável quando divergem; não é norma); CHM/DHN, critério de aviso de mau tempo (vento ≥ 28 nós)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Planejamento meteorológico",
+   "dificuldade": 3,
+   "enunciado": "O programa de roteamento propõe, com previsão de 9 dias, uma rota que passa rente ao centro de uma baixa para ganhar 6 horas. Qual é a avaliação mais correta?",
+   "alternativas": [
+    "Desconfiar: o erro cresce com o prazo e 6 horas não pagam o risco.",
+    "Aceitar: o programa já inclui a margem de segurança para rajadas e ondas.",
+    "Aceitar: a polar do barco garante o bom desempenho, mesmo com o mar formado.",
+    "Rejeitar o roteamento: um programa nunca ajuda numa travessia oceânica."
+   ],
+   "correta": 0,
+   "explicacao": "A previsão perde precisão com o prazo, e o roteamento trabalha com o <b>vento médio</b> do GRIB, sem rajadas e sem ondas cruzadas. Ganhar 6 horas passando rente a uma baixa troca pouco tempo por muito risco. O programa, por padrão, não embute margem de segurança para rajadas e ondas, a polar é medida em mar liso e com velas em bom estado, e o roteamento é útil quando o comandante o usa com critério.",
+   "referencia": "Prática de roteamento meteorológico (limite de confiança das previsões longas; vento médio do GRIB sem rajadas nem estado do mar); não é norma"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 1,
+   "enunciado": "Segundo a OSR 1.02.1, a segurança do barco e da tripulação é responsabilidade de quem?",
+   "alternativas": [
+    "Do comitê de regata, que inspeciona o barco antes da largada.",
+    "Do proprietário do barco, mesmo que ele não esteja a bordo na travessia.",
+    "Compartilhada entre o comandante e a autoridade que emitiu o certificado.",
+    "Exclusiva da pessoa no comando, que também designa um substituto."
+   ],
+   "correta": 3,
+   "explicacao": "A OSR 1.02.1 diz que a segurança é responsabilidade <b>exclusiva e inescapável da pessoa no comando</b>, que também deve designar um substituto para o caso de incapacidade. Nem a inspeção do comitê, nem o dono ausente, nem um certificado dividem essa responsabilidade.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, OSR 1.02.1",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 1,
+   "enunciado": "Qual par de categorias das OSR está correto?",
+   "alternativas": [
+    "Categoria 0: regatas transoceânicas. Categoria 1: longa distância, bem afastadas da costa.",
+    "Categoria 0: regatas costeiras. Categoria 2: regatas transoceânicas.",
+    "Categoria 1: regatas transoceânicas, inclusive em águas frias. Categoria 0: costeiras.",
+    "Categoria 2: longa distância, bem afastadas da costa. Categoria 1: regatas costeiras."
+   ],
+   "correta": 0,
+   "explicacao": "A <b>Categoria 0</b> é a das regatas transoceânicas, inclusive as que passam por áreas com ar ou mar provavelmente abaixo de 5 °C. A <b>Categoria 1</b> é a das regatas de longa distância, bem afastadas da costa, com autossuficiência por períodos prolongados. A Categoria 2 é a de regatas longas ao longo da costa ou não muito afastadas dela. As demais alternativas trocam as categorias.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, OSR 2.01.1 a 2.01.3",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 2,
+   "enunciado": "Qual jackstay atende ao que a OSR 4.04.2 pede para as categorias 0 a 3?",
+   "alternativas": [
+    "Um jackstay único no eixo do barco, com ruptura de 2.040 kg.",
+    "Dois jackstays, um por bordo, de cabo de aço 1x19 de 3 mm revestido de plástico.",
+    "Dois jackstays, um por bordo, de cabo de poliéster com ruptura de 1.000 kg.",
+    "Dois jackstays, um por bordo, de fita com ruptura de 2.040 kg."
+   ],
+   "correta": 3,
+   "explicacao": "A OSR pede jackstays <b>independentes em cada bordo</b>, com ruptura de 2.040 kg, de cabo de aço inox 1x19 de no mínimo 5 mm sem revestimento, de fita ou de cabo HMPE. A fita de 2.040 kg serve. Um só jackstay no eixo não cobre os dois bordos. O cabo de aço de 3 mm revestido não atende (mínimo de 5 mm, sem revestimento). E o poliéster de 1.000 kg fica abaixo da ruptura exigida.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, OSR 4.04.2",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 2,
+   "enunciado": "Pela OSR 4.04.3, os pontos de engate devem permitir que dois terços da tripulação fiquem engatados ao mesmo tempo, sem depender dos jackstays. Numa tripulação de 6 pessoas, quantas devem poder estar engatadas simultaneamente?",
+   "alternativas": [
+    "2 pessoas.",
+    "3 pessoas.",
+    "4 pessoas.",
+    "6 pessoas."
+   ],
+   "correta": 2,
+   "explicacao": "Dois terços de 6 são 6 × 2 ÷ 3 = <b>4 pessoas</b>. Duas pessoas seriam um terço da tripulação, três seriam metade, e seis seriam a tripulação inteira, mais do que a regra pede.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, OSR 4.04.3",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 2,
+   "enunciado": "Uma balsa inflável ISO 9650, em contêiner, foi revisada em estação autorizada em março de 2026. Segundo a OSR 4.20.4, quando vence a próxima revisão?",
+   "alternativas": [
+    "Em março de 2027.",
+    "Em março de 2028.",
+    "Em março de 2029.",
+    "Em março de 2031."
+   ],
+   "correta": 2,
+   "explicacao": "Para balsas ISO 9650 em contêiner ou valise, a revisão é a cada <b>3 anos</b>: março de 2029. A revisão anual vale para balsas SOLAS (e para valise alugada), o que daria março de 2027. Dois e cinco anos não correspondem a nenhum prazo da regra.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, OSR 4.20.4",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 2,
+   "enunciado": "Para um monocasco Cat. 1, a OSR exige evidência de inspeção estrutural (quilha, leme, cavernas), com o barco fora d’água, nos 24 meses anteriores à largada. A inspeção foi em 15/03/2025 e não houve encalhe depois. Até que data o barco pode largar sem nova inspeção?",
+   "alternativas": [
+    "15/03/2026.",
+    "15/09/2026.",
+    "15/03/2027.",
+    "15/03/2028."
+   ],
+   "correta": 2,
+   "explicacao": "Vinte e quatro meses depois de 15/03/2025 é <b>15/03/2027</b>. A data de 15/03/2026 corresponde a 12 meses, a de 15/09/2026 a 18 meses e a de 15/03/2028 a 36 meses. Se houvesse encalhe, seria preciso nova inspeção após ele.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, OSR 3.02.2 e 3.02.3",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 3,
+   "enunciado": "Um comandante tem uma EPIRB 406 MHz sem GNSS interno, registrada em 2024. Ele largará em março de 2027, em regata que adota as OSR 2026-2027 em sua Versão 2 (vigente em 01/01/2027), na Categoria 1. A EPIRB atende?",
+   "alternativas": [
+    "Sim, porque as EPIRB registradas antes de 2026 ficam isentas.",
+    "Não: a Versão 2 exige GNSS interno em toda EPIRB 406 MHz.",
+    "Não: falta a capacidade de transmitir AIS, exigida em toda EPIRB.",
+    "Sim, desde que a EPIRB também transmita em 121,5 MHz."
+   ],
+   "correta": 1,
+   "explicacao": "A OSR 4.19.3 da Versão 2 exige <b>GNSS interno em toda EPIRB 406 MHz</b> (Cat. 0, 1 e 2). A capacidade de transmitir AIS só é exigida se a EPIRB for registrada após 2026, o que não é o caso (registrada em 2024). Não há isenção por data de registro para o GNSS. E o sinal de 121,5 MHz não substitui o GNSS interno.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, Versão 2, OSR 4.19.3",
+   "fonte_url": "https://www.sailing.org/wp-content/uploads/2026/06/WS_Offshore_Special-Regulations_2026-2027_v2_wcover_Effective1Jan2027-1.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 3,
+   "enunciado": "Pela OSR 3.04.2 (Tabela 2, categorias 0 a 2), o AVS (ângulo de estabilidade nula) mínimo é 130 − 0,002·m graus, mas nunca menos de 100°, com m em kg. Qual é o AVS mínimo para um monocasco de 20.000 kg?",
+   "alternativas": [
+    "90°.",
+    "100°.",
+    "110°.",
+    "130°."
+   ],
+   "correta": 1,
+   "explicacao": "A conta dá 130 − 0,002 × 20.000 = 130 − 40 = 90°, mas a regra impõe o piso de 100°. O mínimo é, portanto, <b>100°</b>. O valor 90° esquece o piso. O valor 110° seria o resultado para 10.000 kg. E 130° ignora o termo da massa.",
+   "referencia": "World Sailing, Offshore Special Regulations 2026-2027, OSR 3.04.2, Tabela 2",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Preparação do barco e OSR",
+   "dificuldade": 1,
+   "enunciado": "Pela NORMAM-211, um veleiro em navegação oceânica leva 5 pessoas a bordo. Qual conjunto de salvatagem atende à norma?",
+   "alternativas": [
+    "Balsas para 3 pessoas (60%) e 5 coletes Classe I (SOLAS).",
+    "Um bote inflável de apoio para 5 pessoas e 5 coletes Classe II.",
+    "Balsas para 5 pessoas e 5 coletes Classe I (SOLAS).",
+    "Balsas para 5 pessoas, só de classe I, e 5 coletes de qualquer classe."
+   ],
+   "correta": 2,
+   "explicacao": "Na navegação oceânica, as balsas salva-vidas infláveis devem cobrir <b>100% das pessoas a bordo</b> (podendo ser classe II), e os coletes devem ser <b>Classe I (SOLAS)</b>, em número igual ao de pessoas. A balsa para 60% é insuficiente. Um bote de apoio não é balsa salva-vidas. A norma não obriga balsa de classe I, e não aceita coletes de qualquer classe.",
+   "referencia": "NORMAM-211/DPC, art. 4.13 e art. 4.14 (navegação oceânica)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Energia e comunicações",
+   "dificuldade": 1,
+   "enunciado": "Um piloto automático de 12 V consome, em média, 2 A durante as 24 horas do dia. Qual é o seu consumo diário em ampères-hora (Ah)?",
+   "alternativas": [
+    "12 Ah.",
+    "24 Ah.",
+    "48 Ah.",
+    "576 Ah."
+   ],
+   "correta": 2,
+   "explicacao": "Consumo em Ah = corrente × horas = 2 × 24 = <b>48 Ah</b>. Os 24 Ah contam só as horas, e os 12 Ah são a tensão do sistema, não um consumo. Os 576 Ah multiplicam também pela tensão (2 × 24 × 12), mas isso daria watts-hora, não ampères-hora.",
+   "referencia": "Calder, Boatowner’s Mechanical and Electrical Manual (balanço de energia: A × h = Ah)"
+  },
+  {
+   "tema": "Energia e comunicações",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro consome 120 Ah por dia. Ele quer dois dias de autonomia sem recarga, com baterias de chumbo-ácido em que se usa no máximo 50% da capacidade. Qual é a capacidade nominal mínima do banco?",
+   "alternativas": [
+    "120 Ah.",
+    "240 Ah.",
+    "300 Ah.",
+    "480 Ah."
+   ],
+   "correta": 3,
+   "explicacao": "Em dois dias o consumo é 240 Ah. Como só metade da capacidade é utilizável, o banco precisa de 240 ÷ 0,5 = <b>480 Ah</b>. Os 240 Ah esquecem a parte inutilizável. Os 300 Ah usariam 80%, valor de baterias de lítio (LiFePO4), não de chumbo-ácido. E 120 Ah nominais dão só 60 Ah utilizáveis, o que cobre apenas meio dia.",
+   "referencia": "Calder, Boatowner’s Mechanical and Electrical Manual (capacidade útil de baterias de chumbo-ácido)"
+  },
+  {
+   "tema": "Energia e comunicações",
+   "dificuldade": 2,
+   "enunciado": "Um barco tem 300 W de painéis solares, 5 horas de sol equivalente por dia e um fator de perdas de 0,6 (sombras, calor, cabos). Qual é, aproximadamente, a geração diária num sistema de 12 V?",
+   "alternativas": [
+    "75 Ah.",
+    "125 Ah.",
+    "180 Ah.",
+    "900 Ah."
+   ],
+   "correta": 0,
+   "explicacao": "Energia = 300 W × 5 h × 0,6 = 900 Wh. Dividindo por 12 V, resultam <b>75 Ah</b>. Os 125 Ah esquecem as perdas (1.500 Wh ÷ 12). Os 180 Ah multiplicam só a potência pelo fator. E os 900 Ah confundem watts-hora com ampères-hora.",
+   "referencia": "Calder, Boatowner’s Mechanical and Electrical Manual (geração solar a bordo)"
+  },
+  {
+   "tema": "Energia e comunicações",
+   "dificuldade": 3,
+   "enunciado": "Um gerador eólico de bordo sente o vento aparente. Com vento real de 20 nós em popa total e o barco a 6 nós, a potência da turbina, que varia com o cubo da velocidade do vento, cai a quanto da potência obtida com os 20 nós reais?",
+   "alternativas": [
+    "Cerca de 34%.",
+    "Cerca de 49%.",
+    "Cerca de 70%.",
+    "Cerca de 100%."
+   ],
+   "correta": 0,
+   "explicacao": "Em popa total o vento aparente é 20 − 6 = 14 nós. A razão é 14 ÷ 20 = 0,7 e, pelo cubo, 0,7³ ≈ 0,34, ou <b>cerca de 34%</b>. O valor 70% trata a potência como proporcional à velocidade. O valor 49% usa o quadrado. E 100% ignora que o barco anda na mesma direção do vento.",
+   "referencia": "Vento aparente e vento real em popa; Calder, Boatowner’s Mechanical and Electrical Manual (geração eólica a bordo)"
+  },
+  {
+   "tema": "Energia e comunicações",
+   "dificuldade": 2,
+   "enunciado": "Por uma aproximação usual, alcance (milhas) ≈ 2,08 × (√h₁ + √h₂), com h em metros, qual é o alcance aproximado de um VHF entre duas antenas, uma a 16 m e outra a 9 m de altura?",
+   "alternativas": [
+    "Cerca de 10 milhas.",
+    "Cerca de 15 milhas.",
+    "Cerca de 25 milhas.",
+    "Cerca de 52 milhas."
+   ],
+   "correta": 1,
+   "explicacao": "A conta é 2,08 × (√16 + √9) = 2,08 × (4 + 3) = 2,08 × 7 ≈ 14,6, ou <b>cerca de 15 milhas</b>. Os 10 milhas vêm de somar as alturas dentro da raiz (2,08 × √25). Os 25 milhas somam as alturas direto (16 + 9), e os 52 milhas multiplicam essa soma por 2,08, sem tirar a raiz. Conferência: pelo Miguens, o alcance geográfico é D = 1,93 × (√16 + √9) ≈ 13,5 milhas, e o horizonte rádio é cerca de 15% maior (≈ 15,5), a mesma ordem de grandeza. O VHF depende de visada, e a potência do rádio pouco muda esse limite.",
+   "referencia": "Aproximação usual de visada (fornecida no enunciado); Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 13, apêndice B (D = 1,93·(√H + √h)) e vol. III, cap. 34 (horizonte rádio ≈ 15% acima do visual)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Energia e comunicações",
+   "dificuldade": 2,
+   "enunciado": "Pela NORMAM-211, qual conjunto de comunicações atende a uma embarcação de médio porte em navegação oceânica?",
+   "alternativas": [
+    "VHF com DSC, telefone satelital no lugar do HF com DSC e EPIRB 406 MHz.",
+    "VHF com DSC e EPIRB 121,5 MHz, com o HF e o telefone satelital dispensados.",
+    "VHF portátil, telefone celular com cobertura 4G e rádio AM/FM de pilha.",
+    "HF com DSC e EPIRB 406 MHz, pois o VHF só é exigido na navegação costeira."
+   ],
+   "correta": 0,
+   "explicacao": "Na navegação oceânica, a norma pede <b>VHF com DSC, HF com DSC</b> (que pode ser substituído por telefone satelital Iridium/Inmarsat ou por comunicador satelital) e <b>EPIRB 406 MHz</b>. A EPIRB de 121,5 MHz não é mais processada pelo Cospas-Sarsat. Um celular 4G não tem cobertura no oceano. E o VHF com DSC continua sendo exigido além da costeira.",
+   "referencia": "NORMAM-211/DPC, art. 4.24.2 a) I) a III) (médio porte, navegação oceânica); art. 4.23.6 c) (EPIRB 406 MHz)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Explicação dizia que o alísio de NE só aparece no Hemisfério Norte; a Pub. 160 mostra NE na costa Norte do Brasil no verão. Texto ajustado; resposta mantida (SE em todas as estações na parte mais oriental, claim travessia-79)."
+  },
+  {
+   "idx": 2,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Referência a Miguens vol. III não sustenta a regra de cruzar no ponto mais estreito (Miguens vol. III cap. 45 não trata disso); referência trocada pela Pub. 140 (descrição da ZCIT) e a regra declarada como prática de cruzeiro. Resposta mantida."
+  },
+  {
+   "idx": 5,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 6,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 7,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 9,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 10,
+   "acao": "corrigida",
+   "motivo": "Enunciado perguntava a 'principal razão' da data como se fosse fato do organizador, o que a fonte (WCC) não afirma; reformulado como razão coerente com o calendário do NHC (claims 57, 74, 75 confirmados). Resposta mantida."
+  },
+  {
+   "idx": 11,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 12,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "Distância de 15 milhas só vale no sentido N-S (em longitude encolhe com cos φ): enunciado especificado. Referência a 'Miguens vol. III' não sustentava a conta (GRIB não está lá); trocada pelo vol. I, item 1.7.1 (verificado no texto)."
+  },
+  {
+   "idx": 14,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 15,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 16,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Texto dizia 'metade do mês'; a frequência da pilot chart é percentual das observações. Alternativas e explicação ajustadas. SVG conferido (setas apontam ao centro a partir de SE/E/N..., comprimentos proporcionais, soma das frequências = 100% com 2% de calmaria, 4 penas em SE); sem contradição com o texto."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Média de 20 e 35 é 27,5, não 27 (e 27,5 arredonda para 28, o limite do aviso): valor corrigido. Referência a Miguens vol. III não trata de comparação de modelos; trocada por prática de planejamento + critério do CHM (claim 96)."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Referência a Miguens vol. III não sustenta o conteúdo (verificado: sem roteamento no vol. III); referência reescrita como prática. Explicação suavizada ('por padrão', polar em mar liso) para não afirmar absolutos falsos. Resposta mantida."
+  },
+  {
+   "idx": 20,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 21,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 22,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 24,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 25,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 26,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 27,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 29,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator 120 Ah errada: 120 Ah nominais a 50% dão 60 Ah úteis (meio dia), não 'um dia'. Cálculo da resposta (240 ÷ 0,5 = 480 Ah) correto."
+  },
+  {
+   "idx": 31,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 32,
+   "acao": "ok",
+   "motivo": "Conferido: resposta, cálculos, distratores, referência e fatos (claims confirmados / texto-fonte local) consistentes."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Referência atribuía ao Miguens a fórmula com 2,08, que não está lá (Miguens usa 1,93 ou 2, e +15% para o horizonte rádio). Enunciado marcado como aproximação usual, referência corrigida e conferência com o Miguens (exemplo 16 m e 9 m = 13,5 milhas) acrescentada. Resposta (≈15) mantida."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Referência citava também o art. 4.24.1 (grande porte/iate), que inclui transponder radar 9 GHz e não é o caso do enunciado (médio porte); texto do art. 4.24.2 a) conferido. Resposta mantida."
+  }
+ ]
+}

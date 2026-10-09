@@ -1,0 +1,832 @@
+{
+ "questoes": [
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 1,
+   "enunciado": "Num veleiro, a vara horizontal presa ao mastro, na qual corre a parte de baixo da vela grande, chama-se:",
+   "alternativas": [
+    "Retranca",
+    "Estai",
+    "Cruzeta",
+    "Gurupés"
+   ],
+   "correta": 0,
+   "explicacao": "A <strong>retranca</strong> é a vara horizontal presa ao mastro que sustenta o pé da vela grande. O estai é o cabo de aço que segura o mastro para vante. A cruzeta é a haste que afasta os brandais do mastro. O gurupés é uma peça que se projeta além da proa, e não sai do mastro.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): mastreação e aparelho",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 2,
+   "enunciado": "Uma lancha tem determinada borda livre com poucas pessoas a bordo. Ao embarcar mais gente e carga, o que acontece com a borda livre e por que isso importa?",
+   "alternativas": [
+    "Aumenta, pois o peso eleva o convés em relação à água, e a estabilidade melhora com a carga a bordo",
+    "Não muda, pois a borda livre é uma medida fixa do projeto e não depende do peso que está a bordo",
+    "Diminui, mas isso só afeta o cálculo do calado e não tem relação direta com a segurança do barco",
+    "Diminui: o casco afunda mais, a água chega perto do convés e a estabilidade piora com o peso"
+   ],
+   "correta": 3,
+   "explicacao": "Borda livre é a distância vertical entre a linha d’água e o convés. Com mais peso, o casco afunda e a distância <strong>diminui</strong>: a água chega mais perto do convés, entra com mais facilidade e a estabilidade piora. A borda livre não aumenta, pois o convés não sobe com a carga. Também não é fixa, pois muda com o calado. E o efeito sobre a segurança é direto, e não só sobre o calado.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): dimensões do navio",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 2,
+   "enunciado": "Uma vaga na marina comporta barcos de até 12 m de comprimento. Um veleiro de 40 pés (1 pé = 0,3048 m) cabe nela?",
+   "alternativas": [
+    "Sim: 40 pés equivalem a cerca de 9,8 m, e sobra espaço na vaga",
+    "Sim: 40 pés equivalem a cerca de 11,2 m, o que deixa uma folga de 0,8 m",
+    "Não: 40 pés equivalem a cerca de 12,2 m, mais do que a vaga comporta",
+    "Não: 40 pés equivalem a 40 m, bem mais do que a vaga comporta"
+   ],
+   "correta": 2,
+   "explicacao": "Convertendo, 40 × 0,3048 ≈ 12,19 m, acima dos 12 m da vaga. A resposta que diz 9,8 m erra a conta, pois 9,8 m corresponde a cerca de 32 pés. A resposta de 11,2 m também erra a conta, pois o valor correto passa de 12 m. Chamar 40 pés de 40 m confunde as unidades, já que o pé é bem menor que o metro.",
+   "referencia": "Definição internacional do pé (1959): 1 pé = 0,3048 m exatos (NIST)",
+   "fonte_url": "https://www.nist.gov/pml/us-surveyfoot"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 2,
+   "enunciado": "Na inspeção de um veleiro, você vê fios partidos num dos cabos de aço que seguram o mastro pelos lados, presos ao costado. Qual peça precisa ser trocada antes de sair?",
+   "alternativas": [
+    "O estai de popa, que segura o mastro para ré",
+    "O brandal, cabo de aço lateral do aparelho fixo",
+    "O guarda-mancebo, cabo que corre pela borda",
+    "A escota da genoa, cabo de laborar que regula a vela"
+   ],
+   "correta": 1,
+   "explicacao": "Os <strong>brandais</strong> são os cabos de aço do aparelho fixo que seguram o mastro pelos lados, presos ao costado. O estai de popa segura o mastro para ré, do topo até a popa. O guarda-mancebo corre pela borda e protege as pessoas, sem segurar o mastro. A escota é cabo de laborar que regula a vela, e não cabo de aço preso ao costado.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): mastreação e aparelho",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 3,
+   "enunciado": "Na figura, o barco navega no rumo verdadeiro 200° e a ilha está a 50° da proa, do lado de bombordo (marcação polar 050° BB). Qual é a marcação verdadeira da ilha?",
+   "alternativas": [
+    "150°",
+    "250°",
+    "310°",
+    "050°"
+   ],
+   "correta": 0,
+   "explicacao": "A polar 050° BB equivale à marcação relativa 360° − 050° = 310°. A marcação verdadeira é Mv = Mr + rumo = 310° + 200° = 510°, e 510° − 360° = <strong>150°</strong>. 250° vem de somar 50° ao rumo, como se a ilha estivesse a boreste. 310° é a marcação relativa, ainda sem o rumo. 050° é só o ângulo polar, sem conversão.",
+   "referencia": "Manual de Navegação (Miguens), vol. I, DHN, item 1.8 (Mv = Mr + R; marcação polar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 400 290\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Barco com a proa para cima e uma ilha a 50 graus da proa, do lado de bombordo\"><title>Ilha a 50 graus da proa, a bombordo</title><rect width=\"400\" height=\"290\" fill=\"var(--sea-1)\"/><line x1=\"200\" y1=\"185\" x2=\"200\" y2=\"40\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><line x1=\"200\" y1=\"185\" x2=\"108\" y2=\"108\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><path d=\"M200 118 A67 67 0 0 0 148 142\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\"/><text x=\"156\" y=\"112\" font-size=\"16\" fill=\"var(--ink)\">50°</text><ellipse cx=\"96\" cy=\"98\" rx=\"30\" ry=\"16\" fill=\"var(--land)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"96\" y=\"74\" font-size=\"15\" text-anchor=\"middle\" fill=\"var(--ink)\">ilha</text><path d=\"M200 150 L224 220 L176 220 Z\" fill=\"var(--nav-white)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><text x=\"206\" y=\"34\" font-size=\"15\" fill=\"var(--ink)\">proa</text><text x=\"40\" y=\"215\" font-size=\"15\" fill=\"var(--ink)\">bombordo (BB)</text><text x=\"250\" y=\"215\" font-size=\"15\" fill=\"var(--ink)\">boreste (BE)</text><text x=\"200\" y=\"266\" font-size=\"16\" text-anchor=\"middle\" fill=\"var(--ink)\" font-weight=\"700\">Rumo verdadeiro: 200°</text></svg>"
+   }
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 2,
+   "enunciado": "Um barco que se aproxima é avistado na marcação relativa 300°. Onde ele está em relação ao seu barco?",
+   "alternativas": [
+    "Por ante a ré do través de bombordo",
+    "Por ante a vante do través de boreste",
+    "Por ante a ré do través de boreste",
+    "Por ante a vante do través de bombordo"
+   ],
+   "correta": 3,
+   "explicacao": "O través de bombordo é 270°. A marcação 300° está entre 270° e a proa (360°), ou seja, mais para a proa do que o través, do lado de bombordo. Por ante a ré do través de bombordo seria entre 180° e 270°. Do lado de boreste, as marcações vão de 000° a 180°, e 300° não está ali.",
+   "referencia": "Manual de Navegação (Miguens), vol. I, DHN, item 1.8 (marcação relativa)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 3,
+   "enunciado": "Uma lancha mede 6,4 m entre as pontas de proa e popa, e 0,5 m desse total é uma plataforma de mergulho na popa. Para a NORMAM-211, qual é o comprimento da embarcação e ela é considerada miúda?",
+   "alternativas": [
+    "6,4 m: a plataforma conta, e a embarcação deixa de ser miúda por passar de 6 m",
+    "5,9 m: a plataforma não conta, mas a lancha não é miúda por ter motor",
+    "5,9 m: a plataforma não conta, e a embarcação é miúda, pois tem até 6 m",
+    "6,9 m: soma-se a plataforma ao comprimento, e a embarcação não é miúda"
+   ],
+   "correta": 2,
+   "explicacao": "Pela norma, plataformas de mergulho, gurupés e apêndices semelhantes não entram no comprimento: 6,4 − 0,5 = 5,9 m. Como miúda é a embarcação de comprimento menor ou igual a 6 m, a lancha é miúda. Contar a plataforma, ou somá-la, dá um comprimento errado. Ter motor não tira a classificação: a norma define embarcação miúda apenas pelo comprimento.",
+   "referencia": "NORMAM-211/DPC, Cap. 1, art. 1.7 (comprimento e embarcação miúda)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 2,
+   "enunciado": "Ao guinar uma lancha de motor de centro, por que a popa “varre” para o lado de fora da curva?",
+   "alternativas": [
+    "Porque o hélice puxa a popa sempre para o lado em que o leme foi carregado, em qualquer marcha",
+    "Porque o barco gira em torno de um ponto perto da proa, e a popa escorrega para fora",
+    "Porque o leme carregado empurra a proa e a popa juntas para o mesmo bordo, sem girar o barco",
+    "Porque a quilha prende a proa no lugar, e só a popa consegue se mover para o lado de fora"
+   ],
+   "correta": 1,
+   "explicacao": "Andando para vante, o ponto de giro fica perto da proa (cerca de um terço do comprimento a partir dela); a proa entra na curva e a popa escorrega para o lado de fora. O hélice não puxa a popa sempre para o lado do leme. Se proa e popa fossem juntas para o mesmo bordo, o barco não giraria. A quilha não prende a proa: ela resiste ao deslocamento lateral do casco inteiro.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): manobra: ação do leme e ponto de giro",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 1,
+   "enunciado": "Qual é o nome do cabo usado para içar a vela grande de um veleiro?",
+   "alternativas": [
+    "Adriça",
+    "Escota",
+    "Estai",
+    "Amarra"
+   ],
+   "correta": 0,
+   "explicacao": "A <strong>adriça</strong> é o cabo que iça (sobe) a vela. A escota regula o ângulo da vela em relação ao vento. O estai é o cabo de aço do aparelho fixo que segura o mastro. A amarra liga a âncora ao barco.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): aparelho de laborar",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Embarcação e nomenclatura",
+   "dificuldade": 1,
+   "enunciado": "Ao levantar o piso da cabine, você encontra água acumulada no ponto mais baixo do interior do casco. Esse local chama-se:",
+   "alternativas": [
+    "Paiol da amarra",
+    "Gaiuta",
+    "Antepara",
+    "Sentina"
+   ],
+   "correta": 3,
+   "explicacao": "A <strong>sentina</strong> é o ponto mais baixo do interior do casco, onde se junta a água que entra, e é esvaziada pela bomba de esgoto. O paiol da amarra é onde se guarda a amarra da âncora, na proa. A gaiuta é uma abertura de acesso ao interior. A antepara é uma parede interna que divide o casco.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): nomenclatura do navio",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 2,
+   "enunciado": "Qual cabo é o mais indicado para uma adriça, que não deve esticar muito quando a vela é içada e tesada?",
+   "alternativas": [
+    "Poliamida (náilon) torcida, que estica bastante e absorve trancos",
+    "Polipropileno torcido, que flutua e é barato",
+    "Poliéster trançado, que tem pouco alongamento",
+    "Fibra natural, como o sisal, que não escorrega nos nós"
+   ],
+   "correta": 2,
+   "explicacao": "Para adriças e escotas se quer pouco alongamento, e o <strong>poliéster</strong> trançado atende. O náilon estica demais, e a vela afrouxaria quando o vento apertasse (ele é ótimo para espias, pela elasticidade). O polipropileno se degrada ao sol e serve onde se quer flutuação. As fibras naturais apodrecem com a umidade e perdem resistência.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): cabos: materiais",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 2,
+   "enunciado": "Por que ninguém deve ficar na linha de uma espia de náilon muito esticada, como num reboque?",
+   "alternativas": [
+    "Porque o cabo esticado esquenta muito e pode queimar a pele de quem ficar perto dele",
+    "Porque, se ela partir, a energia guardada no alongamento faz o cabo voltar como um chicote",
+    "Porque o náilon tenso solta faíscas que podem incendiar vapores de combustível no porão",
+    "Porque o cabo tenso trava o cunho e impede que a espia seja solta depois de usada no reboque"
+   ],
+   "correta": 1,
+   "explicacao": "Um cabo sintético esticado guarda muita energia; ao partir ou escapar, ele volta como chicote e pode ferir gravemente. O aquecimento do cabo tenso não é o risco principal. Náilon tenso não solta faíscas desse tipo. E um cabo tenso pode ser difícil de soltar, mas essa não é a razão para afastar as pessoas da linha.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): cabos: cuidados e segurança",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 2,
+   "enunciado": "Você vai guardar uma escota de cabo trançado. Qual é a melhor maneira de aduchá-la para não acumular torção nem formar cocas?",
+   "alternativas": [
+    "Em oito, alternando o lado das voltas para não acumular torção",
+    "Em voltas sempre no sentido horário, a favor da cocha",
+    "Em voltas muito apertadas, uma sobre a outra, no sentido anti-horário",
+    "Dobrada em zigue-zague e enfiada num saco, sem arrumar as voltas"
+   ],
+   "correta": 0,
+   "explicacao": "O cabo trançado não tem cocha; por isso se prefere aduchá-lo <strong>em oito</strong>, que alterna o lado das voltas e não acumula torção. Voltas sempre no mesmo sentido acrescentam torção ao trançado, e o mesmo vale para voltas apertadas e anti-horárias. Enfiar o cabo desarrumado num saco o deixa embolado para a próxima vez.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): cabos: aducha",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 3,
+   "enunciado": "Duas espias vão ser emendadas para um reboque curto, e a emenda precisa ser segura sob carga e fácil de desfazer depois. Qual solução a bordo é a mais adequada?",
+   "alternativas": [
+    "Um nó direito bem apertado entre os dois chicotes",
+    "Um nó de oito dado em cada chicote, com os dois encostados",
+    "Uma volta do fiel dada com os dois chicotes juntos",
+    "Dois lais de guia, um passado dentro da alça do outro"
+   ],
+   "correta": 3,
+   "explicacao": "Dois lais de guia entrelaçados formam duas alças que se prendem entre si, resistem à carga e se desfazem com facilidade. O nó direito pode virar e soltar com carga, por isso é nó de atar. Nós de oito encostados não unem os cabos; são batentes. A volta do fiel prende um cabo a um objeto, e não a outro cabo.",
+   "referencia": "Ashley, The Ashley Book of Knots (1944); Arte Naval, vol. 1 (nós e voltas)",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 2,
+   "enunciado": "Todo nó enfraquece o cabo no ponto em que ele dobra. Para uma emenda permanente, qual recurso preserva mais a resistência do cabo?",
+   "alternativas": [
+    "O nó direito, bem apertado e com chicotes curtos",
+    "O nó de oito dobrado, com chicotes longos",
+    "A costura, entrelaçando os próprios cordões",
+    "A volta do fiel com dois cotes de segurança"
+   ],
+   "correta": 2,
+   "explicacao": "A <strong>costura</strong> distribui o esforço pelos cordões entrelaçados e mantém bem mais resistência do que qualquer nó. O nó direito é de atar e ainda perde resistência na dobra. O nó de oito é um batente, não emenda. A volta do fiel prende o cabo a um objeto e também enfraquece o cabo.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 1 (SDM, 2019): cabos: costuras e nós",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 3,
+   "enunciado": "Para unir uma retinida fina a uma espia grossa com o nó de escota, como se faz o seio?",
+   "alternativas": [
+    "O seio é feito na retinida fina, e a espia grossa o abraça passando por baixo de si mesma",
+    "O seio é feito na espia grossa, e a retinida fina o abraça passando por baixo de si mesma",
+    "Os dois cabos formam seios iguais e entrelaçados, como num nó direito",
+    "Não se faz seio: os dois chicotes são apenas cruzados e apertados"
+   ],
+   "correta": 1,
+   "explicacao": "No nó de escota, o cabo mais grosso (ou a alça) forma o seio, e o chicote do cabo mais fino o contorna e passa por baixo de si mesmo. Fazer o seio no cabo fino enfraquece o nó e ele pode escapar. Seios iguais e entrelaçados são característica do nó direito. Só cruzar e apertar os chicotes não segura os cabos.",
+   "referencia": "Ashley, The Ashley Book of Knots (1944); Arte Naval, vol. 1 (nós e voltas)",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 1,
+   "enunciado": "O comandante manda “caçar a escota”. O que você deve fazer?",
+   "alternativas": [
+    "Puxar a escota para dentro, fechando a vela",
+    "Soltar a escota um pouco, abrindo a vela",
+    "Soltar a escota de vez, deixando-a correr livre",
+    "Prender a escota no cunho e abandonar o cabo"
+   ],
+   "correta": 0,
+   "explicacao": "<strong>Caçar</strong> é puxar o cabo para dentro, como a escota que fecha a vela. Soltar um pouco, de forma controlada, é folgar. Soltar de vez é largar. Prender no cunho é dar volta, e isso só se faz depois de caçar.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): manobra: vozes de comando",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Marinharia e nós",
+   "dificuldade": 1,
+   "enunciado": "Ao içar a vela, o chicote da adriça escapou pelo moitão no alto do mastro e subiu. Que nó, dado na ponta, teria evitado o problema?",
+   "alternativas": [
+    "O nó direito, que aperta o chicote contra o moitão",
+    "A volta do fiel, que prende o chicote ao mastro",
+    "A volta redonda com dois cotes, que segura o chicote no cunho",
+    "O nó de oito, que forma um batente e não passa pelo moitão"
+   ],
+   "correta": 3,
+   "explicacao": "O <strong>nó de oito</strong> engrossa a ponta do cabo e funciona como batente, impedindo que ele escape pelo moitão ou pelo mordedor. O nó direito é nó de atar duas pontas, e não se dá em um chicote sozinho. A volta do fiel e a volta redonda com dois cotes prendem o cabo a um objeto, mas não impedem que o chicote corra pelo moitão.",
+   "referencia": "Ashley, The Ashley Book of Knots (1944); Arte Naval, vol. 1 (nós e voltas)",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 1,
+   "enunciado": "Depois do aviso “homem ao mar a boreste!”, um tripulante é escolhido para apontar a pessoa. Qual é a tarefa dele?",
+   "alternativas": [
+    "Preparar a escada de popa, pois é ela que vai recolher a pessoa, e só depois olhar para a água",
+    "Anotar a hora e a posição da queda no caderno de bordo, enquanto os outros manobram o barco",
+    "Manter o braço esticado na direção da pessoa e não tirar os olhos dela até o resgate",
+    "Ajudar o timoneiro a girar a roda do leme com mais força, para a manobra ficar mais rápida"
+   ],
+   "correta": 2,
+   "explicacao": "Na água, a cabeça de uma pessoa pode sumir de vista com facilidade entre as ondas; por isso alguém precisa apontá-la o tempo todo. Preparar a escada ou anotar dados é importante, mas é tarefa de outra pessoa, pois quem aponta não pode desviar o olhar. E ajudar no leme não faz parte dessa função.",
+   "referencia": "IAMSAR, vol. III (manobras de homem ao mar)",
+   "fonte_url": "https://www.imo.org/en/OurWork/Safety/Pages/IAMSARManual.aspx"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 3,
+   "enunciado": "Num veleiro, logo após alguém cair ao mar, qual é o princípio da manobra chamada parada rápida (Quick-Stop)?",
+   "alternativas": [
+    "Arriar todas as velas antes de qualquer guinada, para ficar parado onde a pessoa caiu",
+    "Orçar o barco para o vento, sem arriar as velas, para frear rápido perto da pessoa",
+    "Arribar ao máximo e fazer um jaibe imediato, voltando em linha reta com a vela grande folgada",
+    "Largar as escotas e engrenar o motor a ré até o barco parar em cima da pessoa"
+   ],
+   "correta": 1,
+   "explicacao": "Na parada rápida, o barco orça e passa pela linha do vento sem soltar as escotas e sem arriar as velas: a vela de proa fica em contravento e o barco perde velocidade logo, perto da pessoa. Depois ele continua girando, baixa ou enrola a vela de proa, jaiba e volta à pessoa em bolina folgada, parando ao lado dela. Arriar tudo antes de guinar faz o barco se afastar sem controle. Arribar e fazer jaibe imediato leva o barco para longe da pessoa. Engrenar o motor a ré leva o hélice para perto dela.",
+   "referencia": "US Sailing, Quick-Stop Rescue (princípio: reduzir a velocidade orçando para o vento, sem arriar as velas); US Sailing, Safety at Sea Committee (v. 7.1)",
+   "fonte_url": "https://www.ussailing.org/news/quick-stop-rescue/"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 3,
+   "enunciado": "Numa lancha de motor de centro com hélice de passo à direita, você precisa girar quase no lugar, num espaço apertado. Para qual bordo o giro é mais fácil, e por quê?",
+   "alternativas": [
+    "Para boreste: dando atrás, o efeito de passo leva a popa para bombordo e ajuda a girar",
+    "Para bombordo: dando atrás, o efeito de passo leva a popa para boreste e ajuda a girar",
+    "Para qualquer bordo: com um só hélice o giro é idêntico nos dois lados",
+    "Para bombordo: dando adiante, o efeito de passo é forte e puxa a popa para boreste"
+   ],
+   "correta": 0,
+   "explicacao": "Com passo à direita, dar atrás leva a popa para bombordo com força, o que favorece o giro para boreste (sentido horário). Para bombordo esse efeito trabalha contra você e o giro fica mais largo. Por isso os dois lados não são iguais. E dando adiante o efeito de passo é fraco, e não forte.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): manobra: efeito do hélice",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 2,
+   "enunciado": "Na aproximação final para recolher uma pessoa da água com uma lancha, por que a prática mais ensinada é vir contra o vento ou a corrente?",
+   "alternativas": [
+    "Para o vento de proa aumentar a velocidade do barco e economizar combustível no trajeto",
+    "Para a pessoa ficar atrás do barco, longe do hélice e fora da vista do timoneiro, que governa",
+    "Para o barco derivar sobre a pessoa e encostá-la ao costado sem precisar do leme",
+    "Para o barco ficar governável e parar devagar, sem ser empurrado sobre a pessoa"
+   ],
+   "correta": 3,
+   "explicacao": "Contra o vento ou a corrente, o barco governa melhor, perde velocidade com facilidade e não é empurrado sobre a pessoa. O vento de proa, ao contrário, freia o barco. A pessoa deve ficar à vista do timoneiro, e não atrás do barco. Deixar o barco derivar sobre a pessoa perde o controle e aproxima o casco e o hélice dela. Há escolas que preferem chegar a favor do vento ou da corrente e deixar o barco derivar até a pessoa; a revista Power & Motoryacht (2014) registra as duas e diz que a primeira dá mais controle ao timoneiro na maioria dos casos.",
+   "referencia": "IAMSAR, vol. III (manobras de homem ao mar); Arte Naval, vol. 2; Power & Motoryacht, How to Deal with a Man Overboard Emergency (Capt. Bill Pike, 2014)",
+   "fonte_url": "https://www.imo.org/en/OurWork/Safety/Pages/IAMSARManual.aspx"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 2,
+   "enunciado": "Numa lancha parada, com o leme a meio, você dá atrás devagar e a popa vai para boreste. O que isso indica?",
+   "alternativas": [
+    "O hélice é de passo à direita",
+    "O leme está empenado e precisa ser trocado",
+    "O hélice é de passo à esquerda",
+    "O motor está com a rotação invertida e a lancha precisa ser rebocada"
+   ],
+   "correta": 2,
+   "explicacao": "Com hélice de passo à direita, dar atrás leva a popa para bombordo; com passo à <strong>esquerda</strong>, tudo se inverte e a popa vai para boreste. Por isso o teste é prático para descobrir o passo do hélice. Com o barco parado, o leme quase não tem influência, de modo que não é um leme empenado. E o sentido de giro não indica avaria do motor.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): manobra: efeito do hélice",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 2,
+   "enunciado": "Você vai atracar por bombordo, e o vento sopra do cais para fora, tendendo a afastar o barco. Qual abordagem é a mais adequada?",
+   "alternativas": [
+    "Parar paralelo, a uma ou duas bocas do cais, e esperar o vento encostar o barco",
+    "Aproximar em ângulo maior e passar logo um cabo de proa, já que o vento afasta o barco",
+    "Aproximar quase paralelo ao cais, sem cabos prontos, e contar com o vento para encostar o barco",
+    "Aproximar com ângulo mínimo, quase paralelo, e passar primeiro o cabo de popa"
+   ],
+   "correta": 1,
+   "explicacao": "Com vento do cais para fora, o barco se afasta assim que perde seguimento; por isso se vem com mais ângulo e se passa rápido um cabo de proa. Esperar o vento encostar o barco serve quando o vento sopra <em>para</em> o cais. Sem cabos prontos, o barco se afasta antes de ser amarrado. Quase paralelo e com o cabo de popa primeiro, a proa abre e o barco não encosta.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): amarração e manobras de atracação",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 1,
+   "enunciado": "Na figura, o barco está atracado com a proa voltada para a direita. O cabo marcado com 3, que sai da popa e segue para vante, é o:",
+   "alternativas": [
+    "Espringue de popa",
+    "Espringue de proa",
+    "Lançante de popa",
+    "Lançante de proa"
+   ],
+   "correta": 0,
+   "explicacao": "O <strong>espringue de popa</strong> sai da popa e trabalha para vante, ao longo do costado, impedindo o barco de andar para ré. O espringue de proa sai da proa e vai para ré (cabo 2). O lançante de popa sai da popa e vai para ré (cabo 4). O lançante de proa sai da proa e vai para vante (cabo 1).",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): amarração",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 400 220\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Barco atracado visto de cima, com a proa para a direita e quatro cabos numerados ligando o barco ao cais\"><title>Barco atracado com quatro cabos numerados</title><rect width=\"400\" height=\"220\" fill=\"var(--sea-1)\"/><rect x=\"20\" y=\"20\" width=\"360\" height=\"30\" fill=\"var(--land)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"200\" y=\"41\" font-size=\"15\" text-anchor=\"middle\" fill=\"var(--ink)\">cais</text><g stroke=\"var(--ink)\" stroke-width=\"2.5\" fill=\"none\"><line x1=\"290\" y1=\"112\" x2=\"352\" y2=\"50\"/><line x1=\"290\" y1=\"112\" x2=\"228\" y2=\"50\"/><line x1=\"92\" y1=\"112\" x2=\"154\" y2=\"50\"/><line x1=\"92\" y1=\"112\" x2=\"30\" y2=\"50\"/></g><path d=\"M70 100 L270 100 Q335 125 270 150 L70 150 Z\" fill=\"var(--nav-white)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><circle cx=\"321\" cy=\"81\" r=\"11\" fill=\"var(--sea-1)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"321\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\" font-weight=\"700\">1</text><circle cx=\"259\" cy=\"81\" r=\"11\" fill=\"var(--sea-1)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"259\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\" font-weight=\"700\">2</text><circle cx=\"123\" cy=\"81\" r=\"11\" fill=\"var(--sea-1)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"123\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\" font-weight=\"700\">3</text><circle cx=\"61\" cy=\"81\" r=\"11\" fill=\"var(--sea-1)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><text x=\"61\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\" font-weight=\"700\">4</text><text x=\"80\" y=\"176\" font-size=\"15\" fill=\"var(--ink)\">popa</text><text x=\"262\" y=\"176\" font-size=\"15\" fill=\"var(--ink)\">proa</text><text x=\"200\" y=\"205\" font-size=\"14\" text-anchor=\"middle\" fill=\"var(--ink)\">vista de cima; a proa aponta para a direita</text></svg>"
+   }
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 3,
+   "enunciado": "Atracado por boreste, você quer afastar a proa do cais para sair dando adiante. Qual combinação de cabo e máquina é a correta?",
+   "alternativas": [
+    "Deixar só o espringue de proa, pôr uma defensa na proa do lado do cais e dar atrás com o leme todo",
+    "Deixar só o espringue de popa e dar adiante devagar, com o leme para fora do cais",
+    "Soltar todos os cabos e dar adiante com o leme todo para o lado do cais",
+    "Deixar só o espringue de popa, pôr defensa na alheta do lado do cais e dar atrás devagar"
+   ],
+   "correta": 3,
+   "explicacao": "Com o espringue de popa e a máquina atrás, o barco tende a girar em torno da popa: a proa se afasta do cais, e a defensa na alheta protege o casco. Com o espringue de proa e máquina atrás, o cabo fica frouxo e não há ponto de giro. Dar adiante com o leme para fora faz a popa cair sobre o cais, pois o barco anda para vante. Soltar tudo e levar o leme para o cais põe a proa de volta contra o cais.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): desatracação com espringue",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 3,
+   "enunciado": "Um fundeadouro tem 2,5 m de profundidade na baixa-mar; a maré prevista sobe 1,5 m na preamar e a proa fica 1 m acima da água. Para fundear com cabo, o Anexo 4-B da NORMAM-211 recomenda de 5 a 7 vezes a profundidade (contada da proa ao fundo, na maré mais alta). Qual é o menor filame dentro dessa faixa?",
+   "alternativas": [
+    "12,5 m",
+    "25 m",
+    "35 m",
+    "5 m"
+   ],
+   "correta": 1,
+   "explicacao": "A profundidade a considerar é 2,5 + 1,5 + 1 = 5 m. O menor valor da faixa é 5 × 5 = <strong>25 m</strong>. 12,5 m resulta de usar só os 2,5 m da baixa-mar. 35 m é o maior valor da faixa (7 × 5), e não o menor. 5 m é a profundidade total sem multiplicar: filame curto demais, com que a âncora garra.",
+   "referencia": "NORMAM-211/DPC, Anexo 4-B, item 6 (cabo de 5 a 7 vezes a profundidade local); Manual de Navegação (Miguens), vol. I, item 8.9; BoatUS Foundation, Anchoring & Mooring (7:1 recomendado; 5:1 em condições leves)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 1,
+   "enunciado": "Qual é a maneira correta de pôr a âncora no fundo?",
+   "alternativas": [
+    "Jogá-la ao mar com o barco em velocidade, para que ela se crave de uma vez no fundo",
+    "Arriá-la até o fundo e deixar o barco recuar enquanto se solta o filame aos poucos",
+    "Largar todo o filame de uma só vez, com o barco parado e sem olhar a profundidade",
+    "Dar volta no cunho antes de a âncora tocar o fundo, para que ela não se perca no mar"
+   ],
+   "correta": 1,
+   "explicacao": "A âncora é <strong>arriada</strong> até o fundo, e o filame sai aos poucos enquanto o barco recua, para a amarra se estender e a âncora unhar. Jogá-la em velocidade embola o cabo e pode machucar quem estiver no convés. Largar tudo de uma vez, com o barco parado, amontoa a amarra sobre a âncora. Dar volta antes de a âncora tocar o fundo deixa-a pendurada, sem se firmar.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): fundeio",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 1,
+   "enunciado": "Com o barco fundeado, você apoia a mão na amarra e sente trancos e vibração repetidos. O que isso sugere?",
+   "alternativas": [
+    "A âncora está garrando, isto é, arrastando pelo fundo",
+    "A âncora está bem unhada, e essa vibração é normal quando o vento aperta",
+    "O molinete está travado e precisa de lubrificação",
+    "O filame é longo demais, o que deixa o barco seguro"
+   ],
+   "correta": 0,
+   "explicacao": "Trancos e vibração na amarra são sinal de <strong>âncora garrando</strong>: ela arrasta pelo fundo e se solta aos solavancos. Uma âncora bem unhada não dá trancos: a amarra fica firme, mesmo com vento forte. O molinete não é a causa, pois a amarra está presa e dá os trancos. Filame longo deixa a amarra mais deitada e estável, e não produz trancos.",
+   "referencia": "Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019): fundeio",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Manobras e homem ao mar",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro navega só a vela, com o motor desligado, em frente a uma praia do litoral. A partir de que distância da linha de base ele pode navegar?",
+   "alternativas": [
+    "200 m",
+    "50 m",
+    "300 m",
+    "100 m"
+   ],
+   "correta": 3,
+   "explicacao": "Pela NORMAM-211, embarcações a vela ou a remo só navegam a partir de <strong>100 m</strong> da linha de base. Os 200 m valem para as de propulsão a motor. 50 m e 300 m não aparecem nessa regra.",
+   "referencia": "NORMAM-211/DPC, Cap. 1, art. 1.8.1",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 2,
+   "enunciado": "Você sai às 13 h 30 rumo a uma enseada a 12 milhas, navegando a 6 nós. O pôr do sol é às 17 h 40. Qual é o horário de chegada e a folga até o pôr do sol?",
+   "alternativas": [
+    "14 h 30, com folga de 3 h 10 min",
+    "15 h 30, com folga de 1 h 10 min",
+    "15 h 30, com folga de 2 h 10 min",
+    "16 h 30, com folga de 1 h 10 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo = distância ÷ velocidade = 12 ÷ 6 = 2 h, então chega-se às 15 h 30, e até 17 h 40 sobram 2 h 10 min. 14 h 30 resultaria de uma velocidade de 12 nós. 15 h 30 com folga de 1 h 10 min erra a subtração. 16 h 30 corresponde a 4 nós (12 ÷ 4 = 3 h), e não a 6 nós.",
+   "referencia": "Manual de Navegação (Miguens), vol. I, DHN, itens 1.7 e 1.9 (milha, nó e tempo)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 3,
+   "enunciado": "Uma lancha tem tanque de 120 L e consome 20 L/h a 15 nós. Pela regra do terço da NORMAM-211, qual é a distância máxima de ida antes de dar meia-volta?",
+   "alternativas": [
+    "45 milhas",
+    "30 milhas",
+    "60 milhas",
+    "90 milhas"
+   ],
+   "correta": 1,
+   "explicacao": "A regra de um terço (recomendada pela NORMAM-211) divide o combustível em 1/3 para a ida, 1/3 para a volta e 1/3 de reserva. Um terço de 120 L é 40 L, que dura 40 ÷ 20 = 2 h; a 15 nós, são 2 × 15 = <strong>30 milhas</strong>. 45 milhas usaria metade do tanque na ida. 60 milhas usaria dois terços. 90 milhas usaria o tanque inteiro só na ida, sem combustível para voltar nem reserva.",
+   "referencia": "NORMAM-211/DPC, Anexo 4-B, item 4.2 (regra de um terço)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 3,
+   "enunciado": "Um passeio de ida a 36 milhas será feito a 12 nós, com motor que consome 18 L/h. Pela regra do terço, qual é o tamanho mínimo do tanque?",
+   "alternativas": [
+    "162 L",
+    "108 L",
+    "54 L",
+    "216 L"
+   ],
+   "correta": 0,
+   "explicacao": "A ida leva 36 ÷ 12 = 3 h e gasta 3 × 18 = 54 L. Pela regra de um terço (1/3 ida, 1/3 volta, 1/3 reserva, recomendada pela NORMAM-211), esse valor é um terço do total: 3 × 54 = <strong>162 L</strong>. 108 L cobre ida e volta, sem reserva. 54 L cobre só a ida. 216 L seria quatro partes de 54 L, mais do que a regra pede.",
+   "referencia": "NORMAM-211/DPC, Anexo 4-B, item 4.2 (regra de um terço)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro com calado de 1,8 m precisa cruzar um baixio onde a carta indica sondagem de 2,0 m (referida ao nível de redução). A tábua de marés prevê altura de 0,6 m naquele horário. Qual é a profundidade no local e a folga abaixo da quilha?",
+   "alternativas": [
+    "1,4 m de profundidade, e o veleiro encalharia",
+    "2,0 m de profundidade, pois a maré não altera a sondagem; a folga seria de 0,2 m",
+    "2,6 m de profundidade, com folga de 4,4 m, somando-se o calado",
+    "2,6 m de profundidade, com folga de 0,8 m abaixo da quilha"
+   ],
+   "correta": 3,
+   "explicacao": "A profundidade é a sondagem da carta mais a altura da maré: 2,0 + 0,6 = 2,6 m. A folga é 2,6 − 1,8 = <strong>0,8 m</strong>. Subtrair a maré (1,4 m) é erro de sinal, pois maré acima do nível de redução aumenta a profundidade. A maré altera a profundidade, e a sondagem só vale no nível de redução. Somar o calado à profundidade não faz sentido: ele se subtrai.",
+   "referencia": "Manual de Navegação (Miguens), vol. I, DHN, cap. 10, item 10.1.9 (profundidade = sondagem + altura da maré)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 2,
+   "enunciado": "Você registrou o plano de viagem no NAVSEG para ir até a Ilha A, mas na metade do caminho decide seguir para outra enseada, 10 milhas mais longe. O que fazer?",
+   "alternativas": [
+    "Seguir sem avisar, pois o plano registrado vale até o fim do dia e o destino pode mudar depois",
+    "Cancelar o registro e navegar sem plano, pois o novo destino é decisão sua",
+    "Atualizar o plano no NAVSEG ou avisar a marina e alguém em terra do novo destino",
+    "Avisar somente depois de chegar, para não distrair quem conduz o barco durante a navegação"
+   ],
+   "correta": 2,
+   "explicacao": "A comunicação do Aviso de Saída é obrigatória e pode ser feita pelo registro do plano de viagem no NAVSEG (art. 4.6.1). Ela só serve se estiver correta: com o plano desatualizado, uma busca iria para o lugar errado. Navegar sem plano contraria a obrigação. Seguir sem avisar mantém um plano falso, e avisar só na chegada deixa o plano errado durante todo o trajeto, justamente quando seria usado. Avisar a marina e alguém em terra do novo destino e do horário de retorno completa o registro.",
+   "referencia": "NORMAM-211/DPC, Cap. 4, art. 4.6.1 (Aviso de Saída e NAVSEG); Anexo 5-F, item 07 (alguém em terra ciente do destino e do retorno)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 1,
+   "enunciado": "A previsão informa vento médio de 12 nós, com rajadas de até 25 nós à tarde. Por que o plano do passeio deve levar em conta as rajadas?",
+   "alternativas": [
+    "Porque a média só vale em terra, e no mar o vento sempre sopra igual à rajada do momento",
+    "Porque as rajadas fazem o veleiro adernar de repente e exigem mais do que a média sugere",
+    "Porque as rajadas indicam sempre que uma frente fria vai chegar no dia seguinte à tarde",
+    "Porque a média já inclui as rajadas, e por isso superestima o vento real que se sente no barco"
+   ],
+   "correta": 1,
+   "explicacao": "A média esconde os picos: é na rajada que o veleiro adernar de repente, as ondas crescem e o esforço sobre cabos e velas aumenta. A média continua valendo no mar. Rajadas não anunciam sozinhas uma frente fria. E a média não superestima o vento: por ser uma média, fica abaixo dos picos.",
+   "referencia": "NORMAM-211/DPC, Cap. 4, art. 4.6.3 (previsão do tempo e sinais de mau tempo); Anexo 5-A, item 3.1, alínea d) (meteorologia)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 1,
+   "enunciado": "Você vai embarcar uma caixa térmica e três mochilas num bote pequeno. Onde colocar esse peso?",
+   "alternativas": [
+    "Baixo, perto da linha de centro e peiado, para não se deslocar",
+    "No alto, sobre a borda, para não molhar com a água do fundo",
+    "Todo de um só lado, para equilibrar com as pessoas sentadas do outro",
+    "Na ponta da proa, para levantar a popa e diminuir o arrasto"
+   ],
+   "correta": 0,
+   "explicacao": "Peso baixo e junto ao centro mantém o barco estável, e peiado não se desloca com o balanço. Peso alto e na borda faz o barco adernar e diminui a borda livre. Peso de um lado só inclina o barco e a caixa pode escorregar. Peso na proa afunda a proa e piora o governo, sem ‘diminuir o arrasto’.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 3.1, alínea i) (estabilidade: distribuição de peso a bordo); Fonseca, M. M. Arte Naval, vol. 2 (SDM, 2019); Rousmaniere, The Annapolis Book of Seamanship (2014)",
+   "fonte_url": "https://www.marinha.mil.br/dphdm/node/801"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 2,
+   "enunciado": "Em qual etapa do planejamento da viagem se compara continuamente a posição real com a rota traçada, mudando o plano quando a situação muda?",
+   "alternativas": [
+    "Na avaliação, que reúne as informações disponíveis antes de sair",
+    "No planejamento, que traça a rota, os pontos e as distâncias",
+    "Na execução, que larga do porto e navega pelo traçado previsto",
+    "No monitoramento, que confere a posição frente à rota"
+   ],
+   "correta": 3,
+   "explicacao": "As etapas são avaliação, planejamento, execução e <strong>monitoramento</strong>. É no monitoramento que se acompanha a posição frente à rota e se muda o plano. A avaliação ocorre antes, reunindo informações. O planejamento é o traçado da rota. A execução é navegar conforme o plano, mas a conferência contínua com a rota é o monitoramento.",
+   "referencia": "IMO, Res. A.893(21), Diretrizes para o planejamento da viagem, item 1.3 (avaliação, planejamento, execução e monitoramento)",
+   "fonte_url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.893(21).pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 1,
+   "enunciado": "Antes de sair, ao inspecionar um extintor com manômetro, qual conjunto indica que ele está em condições de uso?",
+   "alternativas": [
+    "Lacre rompido, ponteiro na faixa verde e validade em dia",
+    "Lacre intacto, ponteiro fora da faixa verde e validade em dia",
+    "Lacre intacto, ponteiro na faixa verde e validade em dia",
+    "Lacre intacto, ponteiro na faixa verde e validade vencida"
+   ],
+   "correta": 2,
+   "explicacao": "O extintor deve ter lacre intacto, ponteiro do manômetro na <strong>faixa verde</strong> e validade em dia. Lacre rompido indica que ele pode ter sido usado ou violado. Ponteiro fora da faixa verde indica pressão insuficiente ou excessiva. Validade vencida exige recarga ou troca, mesmo com lacre e pressão aparentemente normais.",
+   "referencia": "ABNT NBR 12962 (inspeção, manutenção e recarga de extintores de incêndio); NORMAM-211/DPC, Anexo 5-F, itens 01 a 03 (material contra incêndio)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Preparo e plano de navegação",
+   "dificuldade": 2,
+   "enunciado": "Um amigo com habilitação de Arrais-Amador propõe um fim de semana numa ilha a 12 milhas da costa, sempre dentro da visibilidade da costa e fora da área de navegação interior definida pela Capitania. Qual é o problema do plano?",
+   "alternativas": [
+    "Nenhum: o Arrais-Amador pode navegar até 20 milhas da costa, desde que veja a terra e siga a rota",
+    "O Arrais-Amador só navega em águas interiores; a travessia é costeira e exige Mestre-Amador",
+    "Nenhum: a habilitação depende do porte do barco, e não da área onde ele navega, por isso vale para tudo",
+    "A viagem exige Capitão-Amador, categoria necessária para qualquer saída do porto"
+   ],
+   "correta": 1,
+   "explicacao": "O Arrais-Amador conduz embarcações nos limites da navegação interior, definidos pela Capitania nas NPCP/NPCF. Navegar até 20 milhas da costa, dentro da visibilidade dela, é navegação costeira, da categoria <strong>Mestre-Amador</strong>. A habilitação deve ser compatível com a área de navegação, e não só com o porte. E o Capitão-Amador é a categoria para navegação oceânica, e não para qualquer saída do porto.",
+   "referencia": "NORMAM-211/DPC, Cap. 4, art. 4.7 e Cap. 5, art. 5.3.3 c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Distratores equalizados em tamanho; a correta não é mais a mais longa. Explicação reescrita com cada distrator explicado."
+  },
+  {
+   "idx": 2,
+   "acao": "corrigida",
+   "motivo": "Referência Fonseca padronizada com a citação do curso. Explicação corrigida."
+  },
+  {
+   "idx": 3,
+   "acao": "corrigida",
+   "motivo": "Correta reequilibrada (era a mais longa e a única com 'brandal' sem qualificação); distratores reescritos com mesmo peso de descrição. Explicação mais clara."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 5,
+   "acao": "ok",
+   "motivo": "Conferida: resposta única, contas refeitas, referência coerente com a fonte/curso e tema válido."
+  },
+  {
+   "idx": 6,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 7,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada e distratores alongados: a correta deixava de ser a mais longa e a alternativa era a mais longa do lote."
+  },
+  {
+   "idx": 8,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 9,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 10,
+   "acao": "corrigida",
+   "motivo": "Explicação corrigida: removido exagero ('quase só para decoração') sobre fibras naturais."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Correta deixava de ser a mais longa; distratores reescritos. Explicação mais precisa."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Distratores alongados; correta não é mais a mais longa. Explicação revisada."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 14,
+   "acao": "corrigida",
+   "motivo": "Distrator 'nó direito' reescrito para equilibrar tamanhos (a correta era a única com 'nó direito' e 'apertado')."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 16,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Correta deixava de ser a mais longa; distrator 'Ajudar o timoneiro' ajustado. Explicação removeu afirmação não verificada ('em poucos segundos')."
+  },
+  {
+   "idx": 19,
+   "acao": "corrigida",
+   "motivo": "Quick-Stop: a chave foi verificada no artigo da US Sailing. Antes dizia 'cruzar a linha do vento', o que não bate com o texto (o barco não faz tack; orça e reduz velocidade sem arriar as velas). Correta encurtada; distratores alongados."
+  },
+  {
+   "idx": 20,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Correta não é mais a mais longa; distratores reescritos."
+  },
+  {
+   "idx": 22,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 23,
+   "acao": "corrigida",
+   "motivo": "Correta deixava de ser a mais longa; distrator 3 alongado."
+  },
+  {
+   "idx": 24,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 25,
+   "acao": "corrigida",
+   "motivo": "Correta deixava de ser a mais longa; explicação do distrator de leme 'para fora' corrigida."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Referência padronizada no formato do curso (Fonseca, M. M. Arte Naval, SDM, 2019); posição da correta rebalanceada."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Correta deixava de ser a mais longa; distratores alongados."
+  },
+  {
+   "idx": 28,
+   "acao": "corrigida",
+   "motivo": "Distrator 0 alongado para equilibrar; explicação da vibração ajustada ao novo distrator."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 32,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Conteúdo mantido; posição da correta rebalanceada (10 por posição). Conferida: resposta única, contas coerentes e referência coerente."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Correta encurtada (a mais longa do lote); referência do NAVSEG reforçada com art. 4.6.1; alínea de 'alguém em terra' marcada como a confirmar."
+  },
+  {
+   "idx": 35,
+   "acao": "corrigida",
+   "motivo": "Correta deixava de ser a mais longa; 'adorna' trocado por 'adernar' na explicação."
+  },
+  {
+   "idx": 36,
+   "acao": "corrigida",
+   "motivo": "Referência precisa (alínea i do item 3.1); explicação corrigida ('afunda' -> 'afunda a proa')."
+  },
+  {
+   "idx": 37,
+   "acao": "corrigida",
+   "motivo": "Correta deixava de ser a mais longa; distratores equalizados."
+  },
+  {
+   "idx": 38,
+   "acao": "corrigida",
+   "motivo": "Referência específica do extintor (NBR 12962 e Anexo 5-F itens 01 a 03)."
+  },
+  {
+   "idx": 39,
+   "acao": "corrigida",
+   "motivo": "Distrator 'Nenhum' reescrito; correta deixava de ser a mais longa (mais longa era a correta com 94 caracteres)."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Revisão final: a questão tratava como única uma prática que tem divergência declarada entre escolas (mob.md, S10). Enunciado e explicação agora dizem \"prática mais ensinada\" e citam o outro lado."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Revisão final: a faixa \"3 a 5 vezes com amarra de corrente\" não tinha fonte (Miguens vol. I 8.9 e Anexo 4-B dão 5 a 7). Questão refeita sobre a faixa de 5 a 7 vezes, que tem fonte; gabarito agora é 25 m."
+  },
+  {
+   "idx": 37,
+   "acao": "corrigida",
+   "motivo": "Revisão final: faltava URL da fonte técnica; incluído o PDF da resolução A.893(21) da IMO (item 1.3 conferido)."
+  },
+  {
+   "idx": 38,
+   "acao": "corrigida",
+   "motivo": "Revisão final: faltava URL; incluído o da NORMAM-211 (Anexo 5-F, itens 01 a 03), que é a fonte regulatória da inspeção do extintor."
+  }
+ ]
+}

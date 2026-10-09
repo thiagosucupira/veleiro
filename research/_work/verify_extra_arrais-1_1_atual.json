@@ -1,0 +1,39 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-arrais-1-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "1.4. Ter atenção especial, antes do início de uma viagem, para que todas as peças, equipamentos e demais objetos existentes a bordo sejam armazenados e peiados adequadamente",
+   "notes": "Item 1.4 idêntico no ZIP de anexos (N211 - Anexo 4-B) e índice DPC mostra Portaria 200/2026 (27/02/2026) como vigente, sem portaria posterior."
+  },
+  {
+   "id": "extra-arrais-1-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "Qualquer pessoa é obrigada, desde que o possa fazer sem perigo para si ou para outrem, a prestar auxílio a quem estiver em perigo no mar ou nas vias navegáveis interiores.",
+   "notes": "Item 3.4 do Anexo 4-B idêntico no ZIP mais novo; comunicação é à CP/DL/AG ou autoridades estaduais/municipais (afirmação resume como 'autoridades competentes', aceitável)."
+  },
+  {
+   "id": "extra-arrais-1-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "seus proprietários ou comandantes não deverão, ao se afastarem destas, deixar na embarcação a chave de partida do motor, em especial as motos aquáticas.",
+   "notes": "Item 1.10 do Anexo 4-B idêntico no ZIP de anexos; índice DPC sem portaria posterior à 200/2026."
+  },
+  {
+   "id": "extra-arrais-1-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "É recomendável que o amador ou passageiro da embarcação saiba flutuar na água sem o auxílio de flutuantes ou outros petrechos a fim de evitar os riscos de afogamento.",
+   "notes": "Item 3.2 do Anexo 4-B idêntico no ZIP de anexos; texto vigente sem alteração posterior."
+  },
+  {
+   "id": "extra-arrais-1-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "MARCAÇÕES NO CASCO ... 2.16 ... OBRIGATÓRIO (somente o no de inscrição) | OBRIGATÓRIO | OBRIGATÓRIO; TÍTULO DE INSCRIÇÃO ... 2.2 ... OBRIGATÓRIO (dispensado para as emb. Isentas de inscrição)",
+   "notes": "Verificado manualmente na tabela do art. 4.33 (itens 14 e 18, págs. 4-19/4-20; a checagem automática falhou só por formatação de tabela); o locutor 'p. 4-20' é aproximado (tabela inicia em 4-19) e a tabela não consta nos anexos, sem portaria posterior."
+  }
+ ]
+}

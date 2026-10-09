@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-BR" data-intl="on">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Veleiro — de leigo a transatlântico</title>
+  <meta name="description" content="Curso aberto e gratuito em português: habilitação náutica da Marinha (Arrais, Mestre e Capitão-Amador), vela prática, rádio, segurança e travessia oceânica num veleiro de cruzeiro.">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f6f9fa" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#081521" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="assets/img/icone.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/app.css">
+  <script>
+    /* aplica o tema salvo antes de pintar a página, evitando piscar */
+    try { var s = JSON.parse(localStorage.getItem('veleiro.v1.settings') || '{}'); if (s.tema === 'claro') document.documentElement.setAttribute('data-theme', 'light'); else if (s.tema === 'escuro') document.documentElement.setAttribute('data-theme', 'dark'); if (s.intl === false) document.documentElement.setAttribute('data-intl', 'off'); } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#view">Pular para o conteúdo</a>
+  <div class="app">
+    <aside class="rail" id="rail" aria-label="Navegação principal"></aside>
+    <div class="main">
+      <header class="topbar" id="topbar"></header>
+      <main class="view" id="view" tabindex="-1">
+        <noscript><p>Este app precisa de JavaScript ativado no navegador.</p></noscript>
+      </main>
+      <footer class="app-foot">
+        Projeto comunitário e de código aberto. Não substitui instrução prática com instrutor habilitado nem a habilitação oficial da Marinha do Brasil.
+        Confirme regras, taxas e datas na Capitania, Delegacia ou Agência antes da prova.
+        <a href="#/sobre">Sobre e como contribuir</a>.
+      </footer>
+    </div>
+  </div>
+
+  <!-- núcleo -->
+  <script src="core/vl.js"></script>
+  <script src="core/icons.js"></script>
+  <script src="core/ui.js"></script>
+  <script src="core/progress.js"></script>
+  <script src="core/quiz.js"></script>
+  <script src="core/srs.js"></script>
+  <script src="core/course.js"></script>
+  <script src="core/charts.js"></script>
+  <script src="core/config.js"></script>
+  <script src="data/manifesto.js"></script>
+  <script src="data/ufs.js"></script>
+  <script src="data/fontes.js"></script>
+  <!-- abas (cada uma carrega seus dados e widgets sob demanda) -->
+  <script src="tabs/roteiro.js"></script>
+  <script src="tabs/arrais.js"></script>
+  <script src="tabs/mestre.js"></script>
+  <script src="tabs/capitao.js"></script>
+  <script src="tabs/vela.js"></script>
+  <script src="tabs/travessia.js"></script>
+  <script src="tabs/radio.js"></script>
+  <script src="tabs/locais.js"></script>
+  <script src="tabs/simulados.js"></script>
+  <script src="tabs/glossario.js"></script>
+  <script src="tabs/sobre.js"></script>
+  <script src="tabs/lab.js"></script>
+  <!-- inicialização -->
+  <script src="core/shell.js"></script>
+</body>
+</html>

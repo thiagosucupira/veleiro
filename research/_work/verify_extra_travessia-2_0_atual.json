@@ -1,0 +1,151 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-travessia-2-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; texto do art. 1.16.1 a) idêntico no PDF consolidado.",
+   "evidence_quote": "nenhum tripulante/pessoa ou objeto embarcará ou desembarcará antes da visita ou manifestação das Autoridades anuentes"
+  },
+  {
+   "id": "extra-travessia-2-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; art. 1.16.1 d) e e) conferem (48 h e roteiro na Declaração).",
+   "evidence_quote": "dentro do prazo de até 48 horas, após a apresentação da Declaração de Entrada"
+  },
+  {
+   "id": "extra-travessia-2-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; art. 1.16.3 a) e b) conferem (24 h de antecedência; passe de saída da PF e liberação da Receita).",
+   "evidence_quote": "com antecedência mínima de 24 horas, mediante reapresentação da Declaração de Entrada/Saída"
+  },
+  {
+   "id": "extra-travessia-2-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; art. 1.16.2 a) confere.",
+   "evidence_quote": "O tempo de permanência da EEER em AJB será definido pela Receita Federal"
+  },
+  {
+   "id": "extra-travessia-2-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; art. 3.8.2 a), b), c) conferem com o PDF consolidado; Anexo 1-A existe no ZIP.",
+   "evidence_quote": "regularizar a exportação perante os órgãos da Receita Federal"
+  },
+  {
+   "id": "extra-travessia-2-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; arts. 2.6 e 2.6.1 conferem (Marinha apenas exige o comprovante de pagamento).",
+   "evidence_quote": "todos os proprietários ou armadores de embarcações nacionais ou estrangeiras sujeitas à inscrição e/ou registro nas CP/DL/AG"
+  },
+  {
+   "id": "extra-travessia-2-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; art. 2.5 confere (TIE digital, QR Code, impressão legível).",
+   "evidence_quote": "é de responsabilidade do proprietário ou condutor da embarcação portar seu telefone celular"
+  },
+  {
+   "id": "extra-travessia-2-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; art. 4.17 confere (oceânica: 4 foguetes, 4 fachos, 4 fumígenos).",
+   "evidence_quote": "Navegação oceânica - quatro foguetes manuais de estrela vermelha com paraquedas, quatro fachos manuais luz vermelha e quatro sinais fumígenos flutuantes laranja"
+  },
+  {
+   "id": "extra-travessia-2-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; Anexo 4-C do ZIP (mais novo) confere em itens e doses; art. 4.22 recomenda só o item I a embarcações de mar aberto com menos de 15 pessoas.",
+   "evidence_quote": "as embarcações de mar aberto que transportem menos de quinze pessoas a bordo dotem o item I do anexo 4-C (CAIXA DE MEDICAMENTOS)"
+  },
+  {
+   "id": "extra-travessia-2-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; Anexo 4-B item 1.8 do ZIP confere.",
+   "evidence_quote": "Uma situação particularmente perigosa ocorre quando o comprimento da onda é da ordem de 1,0 a 1,5 vezes o comprimento da embarcação."
+  },
+  {
+   "id": "extra-travessia-2-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; Anexo 4-B itens 1.6 e 1.7 do ZIP conferem.",
+   "evidence_quote": "Evitar a utilização de piloto automático sob condições climáticas adversas"
+  },
+  {
+   "id": "extra-travessia-2-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; Anexo 4-B item 1.4 do ZIP confere.",
+   "evidence_quote": "armazenados e peiados adequadamente"
+  },
+  {
+   "id": "extra-travessia-2-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; Anexo 4-B item 1.2 do ZIP confere.",
+   "evidence_quote": "acidentes ocorridos com sua embarcação (naufrágio, encalhe, colisão, abalroamento, água aberta, explosão, incêndio ou varação)"
+  },
+  {
+   "id": "extra-travessia-2-14",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Conteúdo é verdadeiro e atual, mas o localizador está errado: a frase está no Anexo 4-B (Recomendações ao Navegante) item 7 Poluição, não no Anexo 5-F (lista de verificação, sem esse texto).",
+   "correction": "Trocar localizador para NORMAM-211/DPC Anexo 4-B, item 7 (Poluição).",
+   "evidence_quote": "Na água, é proibido lançar, descarregar ou depositar material poluente de qualquer espécie, seja lixo, lata, ou derivados de petróleo."
+  },
+  {
+   "id": "extra-travessia-2-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Annex%20V%20discharge%20requirements%2007-2013.pdf",
+   "notes": "PDF da IMO reaberto: 'All other garbage including plastics, domestic wastes, cooking oil, incinerator ashes...' = Discharge prohibited nas três colunas; vigência 1/1/2013.",
+   "evidence_quote": "All other garbage including plastics, domestic wastes, cooking oil, incinerator ashes, operational wastes and fishing gear: Discharge prohibited"
+  },
+  {
+   "id": "extra-travessia-2-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Annex%20V%20discharge%20requirements%2007-2013.pdf",
+   "notes": "Tabela da IMO reaberta confere (triturado >=3 nm fora de áreas especiais; não triturado >=12 nm; em áreas especiais triturado >=12 nm e não triturado proibido); a tela de 25 mm vem das diretrizes MEPC.219(63), fora da tabela.",
+   "evidence_quote": "Food waste comminuted or ground: >=3 nm outside special areas; >=12 nm within special areas"
+  },
+  {
+   "id": "extra-travessia-2-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.imo.org/en/OurWork/Environment/Pages/Garbage-Default.aspx",
+   "notes": "Página IMO reaberta em 2026-10-08 lista as 8 áreas especiais exatamente como na afirmação.",
+   "evidence_quote": "the Mediterranean Sea area, the Baltic Sea area, the Black Sea area, the Red Sea area, the Gulfs area, the North Sea area, the wider Caribbean region and the Antarctic area"
+  },
+  {
+   "id": "extra-travessia-2-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.imo.org/en/OurWork/Environment/Pages/Garbage-Default.aspx",
+   "notes": "Página IMO reaberta confirma cartazes (>=12 m) e plano de gerenciamento (>=100 GT ou certificado para >=15 pessoas).",
+   "evidence_quote": "every ship of 12 metres in length or over and every fixed or floating platform to display placards"
+  },
+  {
+   "id": "extra-travessia-2-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+   "notes": "Planalto reaberto via curl: art. 38 diz que polícia marítima, aeroportuária e de fronteira são exercidas pela PF nos pontos de entrada e saída; a ressalva de procedimento de iate nacional não confirmado é honesta.",
+   "evidence_quote": "As funções de polícia marítima, aeroportuária e de fronteira serão realizadas pela Polícia Federal nos pontos de entrada e de saída do território nacional."
+  },
+  {
+   "id": "extra-travessia-2-20",
+   "verdict": "nao_verificavel",
+   "evidence_url": "https://journals.viamedica.pl/international_maritime_health/article/view/47451",
+   "notes": "Resumo do artigo confirma só atendimento 24 h e coordenação de transferência a hospital em terra; 'sem custo' e 'qualquer nacionalidade' vêm apenas de snippets de busca/seguradora (não reabertos) e o site oficial do CIRM não abre."
+  },
+  {
+   "id": "extra-travessia-2-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (consultado 2026-10-08) mostra Portaria 200 de 27/02/2026 como a vigente, sem portaria posterior; art. 4.27.2 b) e c) conferem com o PDF consolidado.",
+   "evidence_quote": "Classe B - fogo em líquidos, gases e graxas combustíveis ou inflamáveis"
+  }
+ ]
+}

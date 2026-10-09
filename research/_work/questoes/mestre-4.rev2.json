@@ -1,0 +1,807 @@
+{
+ "questoes": [
+  {
+   "tema": "Marés",
+   "dificuldade": 1,
+   "enunciado": "Para saber se há água suficiente sobre um baixio, o navegante soma a sondagem da carta e a altura da maré lida na Tábua das Marés da DHN. Essa soma só é correta porque as duas medidas:",
+   "alternativas": [
+    "partem do mesmo zero, o Nível de Redução (NR), usado nas cartas e nas tábuas.",
+    "partem do nível médio do mar, que é o zero usado nas cartas e nas tábuas de maré.",
+    "partem da preamar de sizígia do mês, que serve de zero para as cartas brasileiras.",
+    "partem da superfície do mar no instante da consulta, qualquer que seja a hora do dia."
+   ],
+   "correta": 0,
+   "explicacao": "A sondagem é a distância vertical do NR ao fundo, e a altura da maré da tábua também é contada acima do NR; por isso a soma dá a profundidade real. O nível médio do mar não é o zero das cartas brasileiras: o NR normalmente fica perto do nível médio das baixa-mares de sizígia. A superfície do instante é justamente o que a altura da maré mede, não um zero. A preamar de sizígia é um extremo da maré, nunca uma referência de profundidade.",
+   "referencia": "Miguens, vol. I, cap. 10, itens 10.1.7 (Nível de Redução ≈ média das baixa-mares de sizígia) e 10.1.9",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 1,
+   "enunciado": "Um comandante quer cruzar uma barra rasa quando a diferença entre preamar e baixa-mar for a maior possível. Em que fases da Lua ocorre a maré de sizígia, e como ficam as alturas?",
+   "alternativas": [
+    "Quartos crescente e minguante, com preamares mais baixas e baixa-mares mais altas que a média.",
+    "Lua nova e Lua cheia, com preamares mais baixas e baixa-mares mais altas que a média.",
+    "Quartos crescente e minguante, com preamares mais altas e baixa-mares mais baixas que a média.",
+    "Lua nova e Lua cheia, com preamares mais altas e baixa-mares mais baixas que a média."
+   ],
+   "correta": 3,
+   "explicacao": "Na Lua nova e na Lua cheia, Sol, Terra e Lua ficam alinhados e os efeitos se somam: preamares mais altas, baixa-mares mais baixas e amplitude máxima (sizígia, ou águas vivas). Nos quartos, o Sol atua a 90° da Lua e um efeito reduz o outro: é a quadratura (águas mortas), de amplitude menor, com preamares mais baixas e baixa-mares mais altas. As combinações cruzadas trocam a fase da Lua pelo efeito, ou o efeito pela fase, e por isso estão erradas.",
+   "referencia": "Miguens, vol. I, cap. 10 (marés)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "Num porto de maré semidiurna, a preamar da manhã de hoje ocorreu às 0630. O Método Expedito das Tábuas das Marés adota o intervalo de 12 h 25 min entre preamares. A preamar da manhã de amanhã ocorrerá aproximadamente às:",
+   "alternativas": [
+    "0630, no mesmo horário, pois a maré se repete a cada 24 horas.",
+    "0540, uns 50 minutos antes da de hoje.",
+    "0720, uns 50 minutos depois da de hoje.",
+    "0830, cerca de 2 horas depois da de hoje."
+   ],
+   "correta": 2,
+   "explicacao": "Duas preamares seguidas distam 12 h 25 min; em um dia há duas, de modo que o conjunto avança 2 × 12 h 25 min = 24 h 50 min. Cada preamar chega, portanto, cerca de 50 minutos mais tarde que a do dia anterior: 0630 + 0050 = 0720. As marés não se repetem às 24 horas exatas, porque a Lua passa pelo mesmo meridiano a cada 24 h 50 min. O 0540 inverte o sentido do atraso (chega 50 minutos mais cedo), e o 0830 atrasa 2 horas, bem mais do que os 50 minutos que o intervalo dá.",
+   "referencia": "Miguens, vol. I, cap. 10, item 10.1.10 (Método Expedito)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 1,
+   "enunciado": "A carta mostra a sondagem 2<sub>6</sub> sobre um baixio. Pela Tábua das Marés, a altura da maré no momento da passagem será de 1,4 m. O veleiro cala 1,9 m. Qual será a folga abaixo da quilha?",
+   "alternativas": [
+    "0,7 m",
+    "2,1 m",
+    "4,0 m",
+    "5,9 m"
+   ],
+   "correta": 1,
+   "explicacao": "Profundidade = sondagem + altura da maré = 2,6 + 1,4 = 4,0 m. Folga = profundidade − calado = 4,0 − 1,9 = 2,1 m. O valor de 0,7 m resulta de 2,6 − 1,9, esquecendo a maré. O valor de 4,0 m é só a profundidade, sem descontar o calado. O valor de 5,9 m soma o calado, que deve ser subtraído.",
+   "referencia": "Miguens, vol. I, cap. 10, item 10.1.9; Carta 12000 (INT 1), seção I",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "Tábua do dia, num porto de maré regular: baixa-mar de 0,5 m às 0300 e preamar de 3,3 m às 0900. Pela regra dos doze avos, qual a altura da maré às 0500?",
+   "alternativas": [
+    "0,7 m",
+    "1,2 m",
+    "1,4 m",
+    "1,9 m"
+   ],
+   "correta": 1,
+   "explicacao": "Amplitude = 3,3 − 0,5 = 2,8 m. Em 2 horas a maré sobe 1/12 + 2/12 = 3/12 da amplitude = 0,7 m, e a altura é 0,5 + 0,7 = 1,2 m. O valor de 0,7 m é só a subida, sem somar a baixa-mar. O valor de 1,4 m vem de uma interpolação linear (2/6 da amplitude), que ignora que a maré sobe devagar na primeira hora. O valor de 1,9 m é a altura às 0600, após 3 horas (6/12 = 1,4 m de subida).",
+   "referencia": "Regra dos doze avos, aproximação da curva senoidal (equivale às Tabelas I e II das Tábuas das Marés; Miguens, vol. I, cap. 10, p. 10-16 a 10-18)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "Tábua do dia: preamar de 3,6 m às 1000 e baixa-mar de 0,0 m às 1600. Pela regra dos doze avos, qual a altura da maré às 1200?",
+   "alternativas": [
+    "0,9 m",
+    "1,8 m",
+    "2,4 m",
+    "2,7 m"
+   ],
+   "correta": 3,
+   "explicacao": "Amplitude = 3,6 m. Na vazante, a maré cai 1/12 na 1ª hora e 2/12 na 2ª: em 2 horas cai 3/12 × 3,6 = 0,9 m. A altura é 3,6 − 0,9 = 2,7 m. O valor de 0,9 m é só a queda, sem subtraí-la da preamar. O valor de 2,4 m resulta de uma queda linear (2/6 da amplitude = 1,2 m). O valor de 1,8 m é a altura às 1300, após 3 horas (6/12 da amplitude).",
+   "referencia": "Regra dos doze avos, aproximação da curva senoidal (equivale às Tabelas I e II das Tábuas das Marés; Miguens, vol. I, cap. 10, p. 10-16 a 10-18)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "Na carta, uma pedra aparece com o número <u>0<sub>8</sub></u> sublinhado. No horário previsto para a passagem, a Tábua das Marés indica altura de 2,9 m. O veleiro cala 1,6 m. Qual a folga abaixo da quilha sobre a pedra?",
+   "alternativas": [
+    "0,5 m",
+    "1,3 m",
+    "2,1 m",
+    "3,7 m"
+   ],
+   "correta": 0,
+   "explicacao": "O número sublinhado é uma altura de secagem: a pedra emerge 0,8 m acima do NR. Com a maré em 2,9 m, a água sobre a pedra tem 2,9 − 0,8 = 2,1 m, e a folga é 2,1 − 1,6 = 0,5 m. O valor de 1,3 m trata a pedra como se não existisse (2,9 − 1,6). O valor de 2,1 m é a água sobre a pedra, sem descontar o calado. O valor de 3,7 m soma a secagem à maré, como se fosse uma sondagem.",
+   "referencia": "Carta 12000 (INT 1), seção I (altura de secagem sublinhada); Miguens, vol. I, cap. 10",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 170\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Corte vertical: veleiro de calado 1,6 m sobre uma pedra com altura de secagem de 0,8 m, com a maré em 2,9 m acima do NR\"><rect x=\"10\" y=\"53\" width=\"300\" height=\"87\" fill=\"var(--sea-2)\" opacity=\".45\"/><line x1=\"10\" y1=\"53\" x2=\"310\" y2=\"53\" stroke=\"var(--sea-3)\" stroke-width=\"1.5\"/><line x1=\"10\" y1=\"140\" x2=\"310\" y2=\"140\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"14\" y=\"156\" font-size=\"10\" fill=\"currentColor\">NR (zero da carta)</text><polygon points=\"185,140 210,116 245,116 270,140\" fill=\"var(--land)\" stroke=\"currentColor\" stroke-width=\"1\"/><polygon points=\"190,46 260,46 252,101 198,101\" fill=\"var(--nav-white)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"53\" x2=\"40\" y2=\"140\" stroke=\"currentColor\" stroke-width=\"1\"/><line x1=\"35\" y1=\"53\" x2=\"45\" y2=\"53\" stroke=\"currentColor\"/><line x1=\"35\" y1=\"140\" x2=\"45\" y2=\"140\" stroke=\"currentColor\"/><text x=\"48\" y=\"100\" font-size=\"10\" fill=\"currentColor\">maré: 2,9 m</text><line x1=\"170\" y1=\"53\" x2=\"170\" y2=\"101\" stroke=\"currentColor\" stroke-width=\"1\"/><line x1=\"165\" y1=\"101\" x2=\"175\" y2=\"101\" stroke=\"currentColor\"/><text x=\"165\" y=\"80\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\">calado: 1,6 m</text><line x1=\"290\" y1=\"116\" x2=\"290\" y2=\"140\" stroke=\"currentColor\" stroke-width=\"1\"/><line x1=\"285\" y1=\"116\" x2=\"295\" y2=\"116\" stroke=\"currentColor\"/><text x=\"286\" y=\"132\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\">secagem: 0,8 m</text></svg>"
+   }
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "Um comandante quer usar a regra dos doze avos numa barra do litoral Sul, onde a maré tem desigualdades diurnas, é pequena e muito alterada pelo vento. Por que o resultado deve ser visto com desconfiança?",
+   "alternativas": [
+    "A regra calcula a velocidade da corrente de maré, e não a altura da água sobre o fundo.",
+    "A regra só funciona em portos com amplitude de maré acima de 5 m, como no Maranhão.",
+    "A regra supõe uma curva de maré senoidal e regular, o que ali não costuma se verificar.",
+    "A regra só vale na sizígia, e o litoral Sul tem predominância de marés de quadratura."
+   ],
+   "correta": 2,
+   "explicacao": "A regra dos doze avos, como as Tabelas I e II das Tábuas das Marés, pressupõe uma curva de maré semelhante a uma senoide. Onde a maré tem desigualdades diurnas (caso do litoral Sul do Brasil), é pequena ou é dominada pelo vento, a curva real foge disso e o resultado é só aproximado. Por isso, o Manual de Navegação da MB manda usar as Tabelas I e II na costa brasileira apenas de Vitória (ES) para o Norte, onde a maré é predominantemente semidiurna. A regra dá alturas (não correntes), vale para qualquer fase da Lua e não depende de uma amplitude mínima.",
+   "referencia": "Miguens, vol. I, cap. 10, p. 10-18 (Tabelas I e II: curva sinusoidal; uso de Vitória/ES para o Norte); cap. 10, item 10.1.4 (maré do litoral Sul)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 3,
+   "enunciado": "Numa barra, a curva de maré não é senoidal, e o Manual de Navegação da MB recomenda somar uma margem de segurança de 10% da amplitude. A amplitude do dia é 3,0 m. O veleiro cala 1,7 m, o comandante quer 0,5 m de folga e a sondagem do ponto mais raso é 0<sub>8</sub> (0,8 m). Qual a altura mínima de maré para a passagem, já com a margem?",
+   "alternativas": [
+    "1,1 m",
+    "1,4 m",
+    "1,7 m",
+    "2,0 m"
+   ],
+   "correta": 2,
+   "explicacao": "Maré necessária = calado + folga − sondagem = 1,7 + 0,5 − 0,8 = 1,4 m. A margem de 10% da amplitude é 0,10 × 3,0 = 0,3 m. Altura mínima = 1,4 + 0,3 = 1,7 m. O valor de 1,4 m esquece a margem. O valor de 1,1 m subtrai a margem em vez de somá-la. O valor de 2,0 m usa 20% da amplitude (0,6 m).",
+   "referencia": "Miguens, vol. I, cap. 10, p. 10-18 (margem de 10% da amplitude)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 3,
+   "enunciado": "Tábua do dia: baixa-mar de 0,4 m às 0400 e preamar de 2,8 m às 1000. O veleiro cala 1,7 m, o comandante exige 0,5 m de folga e a sondagem da barra é 1<sub>2</sub> (1,2 m). Pela regra dos doze avos, a partir de que horas (primeiro horário) a maré permite a passagem?",
+   "alternativas": [
+    "0500",
+    "0600",
+    "0700",
+    "0800"
+   ],
+   "correta": 1,
+   "explicacao": "Maré necessária = 1,7 + 0,5 − 1,2 = 1,0 m, ou seja, 0,6 m acima da baixa-mar. A amplitude é 2,8 − 0,4 = 2,4 m, e 0,6 m é 3/12 dela, o que a regra acumula em 2 horas (1/12 + 2/12). Logo, a partir das 0600. Às 0500 a maré está em 0,6 m (só 1/12). Às 0700 (1,6 m) e às 0800 (2,2 m) também há água, mas a passagem já é possível desde as 0600, e a pergunta pede o primeiro horário.",
+   "referencia": "Regra dos doze avos, aproximação da curva senoidal (equivale às Tabelas I e II das Tábuas das Marés; Miguens, vol. I, cap. 10, p. 10-16 a 10-18)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 170\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Curva de maré do dia: baixa-mar de 0,4 m às 0400 e preamar de 2,8 m às 1000\"><g stroke=\"currentColor\" stroke-width=\".5\" opacity=\".35\"><line x1=\"40\" y1=\"140\" x2=\"300\" y2=\"140\"/><line x1=\"40\" y1=\"100\" x2=\"300\" y2=\"100\"/><line x1=\"40\" y1=\"60\" x2=\"300\" y2=\"60\"/><line x1=\"40\" y1=\"20\" x2=\"300\" y2=\"20\"/></g><g font-size=\"9\" fill=\"currentColor\" text-anchor=\"end\"><text x=\"35\" y=\"143\">0</text><text x=\"35\" y=\"103\">1</text><text x=\"35\" y=\"63\">2</text><text x=\"35\" y=\"23\">3 m</text></g><g font-size=\"9\" fill=\"currentColor\" text-anchor=\"middle\"><text x=\"40\" y=\"156\">0400</text><text x=\"83\" y=\"156\">0500</text><text x=\"127\" y=\"156\">0600</text><text x=\"170\" y=\"156\">0700</text><text x=\"213\" y=\"156\">0800</text><text x=\"257\" y=\"156\">0900</text><text x=\"300\" y=\"156\">1000</text></g><path d=\"M40 124 C152 124 188 28 300 28\" fill=\"none\" stroke=\"var(--sea-3)\" stroke-width=\"2.5\"/><circle cx=\"40\" cy=\"124\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"300\" cy=\"28\" r=\"3.5\" fill=\"currentColor\"/><text x=\"46\" y=\"118\" font-size=\"10\" fill=\"currentColor\">BM 0,4 m</text><text x=\"294\" y=\"20\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\">PM 2,8 m</text></svg>"
+   }
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 3,
+   "enunciado": "Tábua do dia: preamar de 3,0 m às 1200 e baixa-mar de 0,6 m às 1800. O veleiro cala 1,8 m, o comandante exige 0,6 m de folga e a sondagem da barra de saída é 0<sub>6</sub> (0,6 m). Pela regra dos doze avos, qual o último horário em que ainda se pode cruzar a barra?",
+   "alternativas": [
+    "1300",
+    "1400",
+    "1500",
+    "1600"
+   ],
+   "correta": 2,
+   "explicacao": "Maré necessária = 1,8 + 0,6 − 0,6 = 1,8 m. A maré tem de cair, no máximo, 3,0 − 1,8 = 1,2 m, que é 6/12 da amplitude de 2,4 m. Na vazante, 1/12 + 2/12 + 3/12 = 6/12 se acumulam em 3 horas: 1500. Às 1300 a maré ainda está em 2,8 m e às 1400 em 2,4 m (há folga de sobra). Às 1600 ela já caiu a 1,2 m, abaixo do necessário.",
+   "referencia": "Regra dos doze avos, aproximação da curva senoidal (equivale às Tabelas I e II das Tábuas das Marés; Miguens, vol. I, cap. 10, p. 10-16 a 10-18)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Marés",
+   "dificuldade": 2,
+   "enunciado": "Para entrar num porto aproveitando a corrente, o comandante consulta a Carta de Correntes de Maré do local. A preamar do porto ocorrerá às 1130 e ele quer a corrente prevista para as 0830. Que carta da série deve consultar?",
+   "alternativas": [
+    "A carta de 3 horas antes da preamar, porque o horário pedido vem antes dela.",
+    "A da hora da preamar, pois a série tem uma carta só, a de referência.",
+    "A de 3 horas antes da baixa-mar, pois a série é referida à baixa-mar.",
+    "A de 3 horas depois da preamar, porque a corrente de maré começa após ela."
+   ],
+   "correta": 0,
+   "explicacao": "As Cartas de Correntes de Maré trazem as setas e as velocidades referidas à hora da preamar, uma carta para cada hora antes e depois dela. Das 0830 às 1130 são 3 horas: vale a carta de 3 horas antes da preamar. A carta de 3 horas depois corresponderia às 1430. A série tem várias cartas, não só a da preamar. E a referência da publicação é a preamar, não a baixa-mar.",
+   "referencia": "Miguens, vol. I, cap. 10, itens 10.2.2 e 10.2.3 (Cartas de Correntes de Maré, referidas à hora da preamar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 1,
+   "enunciado": "Por que um receptor GNSS precisa de sinais de pelo menos quatro satélites para calcular a posição em três dimensões (latitude, longitude e altitude), e não apenas de três?",
+   "alternativas": [
+    "O quarto satélite informa o datum que a carta usa, evitando erro na hora de plotar a posição.",
+    "Três satélites fixam a posição; o quarto é apenas uma reserva, para o caso de um deles falhar.",
+    "O quarto satélite transmite a correção diferencial, que melhora a exatidão da posição obtida.",
+    "Com o relógio do receptor perfeito, três bastariam; o quarto resolve o erro desse relógio."
+   ],
+   "correta": 3,
+   "explicacao": "Cada satélite transmite a hora exata e a própria posição; o receptor converte o tempo de viagem do sinal em distância. Três distâncias bastariam para latitude, longitude e altitude se o relógio do receptor fosse perfeito. Como o relógio do aparelho é barato e erra, esse erro vira uma incógnita a mais (a hora), e o quarto satélite permite resolvê-la. (A bordo, com a altitude conhecida ao nível do mar, três satélites já dão latitude, longitude e hora.) O quarto satélite não transmite a correção diferencial, que vem das estações do DGNSS, e o datum da carta é escolhido por quem opera o aparelho, não enviado pelos satélites. O quarto satélite não é reserva: tem função de cálculo.",
+   "referencia": "Miguens, Navegação Eletrônica e em condições especiais, vol. III, cap. 37, item 37.3.3 (determinação da posição GPS)"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 1,
+   "enunciado": "O título da carta a ser usada traz o datum Córrego Alegre e uma nota com o deslocamento a aplicar às posições obtidas por satélite. O GNSS do veleiro está em WGS-84. Qual a conduta correta antes de plotar a posição do GNSS?",
+   "alternativas": [
+    "Aplicar o deslocamento da nota da carta, ou ajustar o receptor ao datum dela, e anotar o que fez.",
+    "Plotar a posição diretamente: a diferença de datum só importa na navegação oceânica, longe da costa.",
+    "Aplicar a declinação magnética da rosa da carta às coordenadas antes de plotá-las.",
+    "Plotar a posição diretamente: o GNSS corrige sozinho a diferença de datum em qualquer carta."
+   ],
+   "correta": 0,
+   "explicacao": "O GNSS calcula as posições em WGS-84. Se a carta usa outro datum, a mesma coordenada cai em ponto diferente do papel, em dezenas de metros ou mais, o que pesa perto de pedras e em barras estreitas. Por isso se aplica a correção impressa na própria carta (ou se configura o datum no aparelho, que em geral sabe fazer o datum shift) e se registra a escolha. O receptor não adivinha o datum da carta e a declinação magnética trata de rumos (e não de coordenadas). E a diferença de datum importa justamente perto da costa, onde a precisão da plotagem é decisiva.",
+   "referencia": "Miguens, vol. III, cap. 37, item 37.3.3 (posição GPS em WGS-84; correções de datum indicadas nas cartas); vol. I, cap. 1, item 1.4 (Córrego Alegre, SAD-69, WGS-84); CHM, Cartas Náuticas (atenção ao datum)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-cartas-nauticas"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 2,
+   "enunciado": "O que a estação de referência de um sistema DGNSS transmite aos receptores próximos?",
+   "alternativas": [
+    "As correções de erro, obtidas ao comparar a posição conhecida da estação com a que os satélites indicam.",
+    "A posição, o rumo e a velocidade de todas as embarcações da região, transmitidos para evitar colisões entre elas.",
+    "A hora exata dos relógios atômicos dos satélites, para sincronizar o relógio de cada receptor da região.",
+    "A profundidade e o tipo de fundo ao redor, medidos e enviados para corrigir a leitura do ecobatímetro de bordo."
+   ],
+   "correta": 0,
+   "explicacao": "A estação de referência sabe exatamente onde está. Ao comparar essa posição conhecida com as distâncias que mede aos satélites, calcula o erro e o transmite por rádio como correções, que os receptores próximos aplicam à própria solução. A hora dos relógios atômicos vem dos próprios satélites. A posição de outras embarcações é função do AIS, e a profundidade, do ecobatímetro, nada disso ligado ao DGNSS.",
+   "referencia": "Miguens, vol. III, cap. 37, item 37.9.1 (componentes e operação do DGNSS)"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 3,
+   "enunciado": "Em navegação costeira, com boa visibilidade, o plotter mostra de repente o veleiro 3 milhas dentro da terra, com SOG de 70 nós. O ecobatímetro e a água ao redor estão normais, e o barco segue com a mesma velocidade de antes. O que o comandante deve fazer?",
+   "alternativas": [
+    "Ampliar a escala do plotter e manter a rota, esperando a posição se corrigir sozinha com o tempo.",
+    "Confiar no plotter e guinar para a posição mostrada, pois o GNSS é mais exato que a vista.",
+    "Suspeitar de interferência ou falsificação do GNSS e navegar por marcações, sonda e estimada.",
+    "Reiniciar o aparelho e voltar a seguir só a tela, sem nenhuma outra conferência de posição."
+   ],
+   "correta": 2,
+   "explicacao": "Uma posição que salta para terra e uma velocidade impossível, com o barco em condições normais, são sinais típicos de falha do GNSS, interferência (jamming) ou falsificação (spoofing). Os dados independentes (marcações, distâncias, sonda, estimada mantida em paralelo) mostram a posição real. Seguir o plotter às cegas pode levar a uma laje, e reiniciar para voltar a confiar só na tela repete o risco. Esperar sem conferir nada também deixa o barco sem posição segura.",
+   "referencia": "Miguens, Navegação Eletrônica e em condições especiais, vol. III, cap. 37 (GNSS: bloqueio, falsificação e falhas do sinal)"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 2,
+   "enunciado": "Use a fórmula do horizonte radar, Dr = 2,21 √H (Dr em milhas, H em metros). A antena de um radar está a 9 m acima da água. Até que distância o radar alcança a linha do horizonte, para um alvo rente à superfície do mar?",
+   "alternativas": [
+    "3,0 M",
+    "6,6 M",
+    "13,3 M",
+    "19,9 M"
+   ],
+   "correta": 1,
+   "explicacao": "√9 = 3 e 2,21 × 3 = 6,63 ≈ 6,6 M. O valor de 3,0 M é só a raiz quadrada, sem o fator 2,21. O valor de 19,9 M multiplica 2,21 por 9, sem a raiz. O valor de 13,3 M dobra o resultado correto, confundindo o alcance com o percurso de ida e volta do pulso. As ondas do radar curvam levemente para baixo, e por isso o horizonte radar é cerca de 14% maior que o geográfico.",
+   "referencia": "Miguens, vol. I (2ª rev. 2023), cap. 14, item 14.1.3 (refração: o horizonte radar, Dr = 2,21 √H, p. 14-10/14-11)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 3,
+   "enunciado": "A antena do radar está a 9 m de altura e o alvo, um navio, tem 16 m de altura. Pela fórmula D = 2,21 (√H + √h), com H e h em metros, a que distância aproximada o alvo passa a aparecer na tela?",
+   "alternativas": [
+    "8,8 M",
+    "11,1 M",
+    "15,5 M",
+    "55,3 M"
+   ],
+   "correta": 2,
+   "explicacao": "√9 = 3 e √16 = 4. D = 2,21 × (3 + 4) = 2,21 × 7 ≈ 15,5 M. O valor de 8,8 M considera só o alvo (2,21 × 4). O valor de 11,1 M extrai a raiz da soma das alturas (2,21 × √25 = 2,21 × 5). O valor de 55,3 M soma as alturas sem extrair raiz (2,21 × 25). Cada altura entra com a própria raiz, porque os dois horizontes se somam.",
+   "referencia": "Miguens, vol. I (2ª rev. 2023), cap. 14, item 14.1.3 (horizonte radar e distância de detecção, p. 14-11)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 2,
+   "enunciado": "Com mar picado, o centro da tela do radar aparece coberto de pontos brilhantes, que escondem alvos próximos. Qual o ajuste adequado?",
+   "alternativas": [
+    "Aumentar o ganho ao máximo, para que os ecos fortes dos alvos se destaquem das ondas.",
+    "Ligar o anti-clutter de chuva (FTC) ao máximo, pois ele elimina o retorno das ondas.",
+    "Aumentar o anti-clutter de mar (STC) só até o retorno das ondas virar pontos fracos.",
+    "Passar para a escala maior com pulso longo, que elimina o retorno do mar perto do barco."
+   ],
+   "correta": 2,
+   "explicacao": "O anti-clutter de mar (STC) reduz o ganho só perto do barco, onde as ondas refletem mais. Deve ser aumentado até o retorno virar pontos fracos e nunca mais que isso: em excesso, apaga também barcos pequenos e boias. Mais ganho piora o clutter, pois amplifica o eco das ondas junto com o dos alvos. O anti-clutter de chuva atua sobre manchas de chuva, não sobre as ondas. E escala maior com pulso longo perde discriminação e não elimina o retorno do mar.",
+   "referencia": "Miguens, vol. I (2ª rev. 2023), cap. 14, item 14.1.5 c) e d) (controles STC e FTC, p. 14-20/14-21)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 1,
+   "enunciado": "Pelo radar, o comandante acompanha um eco que se aproxima: a distância diminui e a marcação quase não muda. Segundo a Regra 7 do RIPEAM, o que isso indica?",
+   "alternativas": [
+    "Que o outro barco vai passar com folga pela proa, pois sua marcação não está variando.",
+    "Que o eco é um alvo fixo, como uma pedra, e não oferece risco algum.",
+    "Que o outro barco tem AIS ligado e fará sozinho a manobra para evitar.",
+    "Que existe risco de abalroamento, o qual deve ser considerado presente."
+   ],
+   "correta": 3,
+   "explicacao": "A Regra 7(d)(i) manda considerar que existe risco de abalroamento se a marcação de uma embarcação que se aproxima não varia de modo apreciável, e a Regra 7(a) manda presumi-lo em caso de dúvida. Marcação constante com distância diminuindo é o sinal clássico de rota de colisão. Um alvo que passa pela proa mostraria marcação variando. Mesmo um alvo fixo, como uma pedra, com marcação constante e distância diminuindo, está na rota do barco e oferece risco. E a presença de AIS não tira de ninguém o dever de manobrar nem de manter vigia.",
+   "referencia": "RIPEAM, Regra 7(a) e 7(d)(i)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 1,
+   "enunciado": "O pulso do ecobatímetro leva 0,02 s para ir ao fundo e voltar ao transdutor. Tomando a velocidade do som na água do mar como 1.500 m/s, qual a profundidade abaixo do transdutor?",
+   "alternativas": [
+    "7,5 m",
+    "15 m",
+    "30 m",
+    "150 m"
+   ],
+   "correta": 1,
+   "explicacao": "O tempo medido é de ida e volta, então a profundidade é h = v × t ÷ 2 = 1.500 × 0,02 ÷ 2 = 15 m. O valor de 30 m esquece de dividir por 2. O valor de 7,5 m divide por 2 duas vezes. O valor de 150 m erra uma casa decimal.",
+   "referencia": "Miguens, vol. I (2ª rev. 2023), cap. 11, item 11.5.2 (ecobatímetros: h = v·t/2, v ≈ 1.500 m/s)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 3,
+   "enunciado": "O ecobatímetro, sem ajuste de offset, mostra 4,2 m, contados a partir do transdutor. O transdutor está 0,3 m abaixo da superfície e o fundo da quilha está 1,5 m abaixo da superfície. Qual a folga real abaixo da quilha?",
+   "alternativas": [
+    "2,7 m",
+    "3,0 m",
+    "4,2 m",
+    "4,5 m"
+   ],
+   "correta": 1,
+   "explicacao": "Entre o transdutor e o fundo da quilha há 1,5 − 0,3 = 1,2 m. A folga real é 4,2 − 1,2 = 3,0 m. O valor de 2,7 m desconta o calado inteiro (4,2 − 1,5), sem notar que o transdutor já está 0,3 m abaixo da superfície. O valor de 4,2 m é a leitura direta, sem descontar nada. O valor de 4,5 m é a profundidade total (4,2 + 0,3), que se compara com a carta, e não com a quilha.",
+   "referencia": "Miguens, vol. I, cap. 11, item 11.5.2 (transdutor no fundo do casco); conceito de offset do transdutor",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 2,
+   "enunciado": "No plotter, o comandante vê um navio com AIS à frente. No radar aparecem dois ecos: o do navio e outro, menor, sem identificação no plotter. O que ele deve fazer?",
+   "alternativas": [
+    "Ignorar o eco menor: sem AIS ele não é embarcação, e sim ruído do radar do próprio barco.",
+    "Confiar apenas no AIS do navio e reduzir a escala do radar até o eco menor desaparecer.",
+    "Chamar o eco menor pelo MMSI no VHF, pedindo que ele ligue o AIS para ser identificado.",
+    "Tratar o eco menor como embarcação real, acompanhar sua marcação e manter a vigia visual."
+   ],
+   "correta": 3,
+   "explicacao": "Nem toda embarcação tem AIS: pesqueiros e barcos pequenos muitas vezes não transmitem, e o AIS não substitui o radar nem a vigia (RIPEAM, Regra 5). O eco sem AIS deve ser tratado como alvo real, avaliando o risco com a variação da marcação (Regra 7). Quem não transmite AIS não tem MMSI para ser chamado, e reduzir a escala só esconde o alvo, sem eliminá-lo.",
+   "referencia": "RIPEAM, Regras 5 e 7",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 1,
+   "enunciado": "Em que frequência a EPIRB de uma embarcação brasileira deve transmitir o alerta de socorro aos satélites do sistema Cospas-Sarsat?",
+   "alternativas": [
+    "2.182 kHz",
+    "121,5 MHz",
+    "156,8 MHz",
+    "406 MHz"
+   ],
+   "correta": 3,
+   "explicacao": "A NORMAM-211 exige que a EPIRB transmita via satélite na faixa de 406 MHz; o alerta chega ao BRMCC, que aciona o SALVAMAR. Desde fevereiro de 2009 o Cospas-Sarsat não processa mais 121,5 MHz (essa frequência serve só como sinal de homing para os meios de busca). O valor de 156,8 MHz é o canal 16 do VHF, e 2.182 kHz é uma antiga frequência de socorro em MF, nenhuma delas usada pela EPIRB.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 2,
+   "enunciado": "Um comandante compra uma EPIRB 406 MHz para o veleiro. Quanto ao cadastro e à codificação, o que a NORMAM-211 determina?",
+   "alternativas": [
+    "Cadastro no INFOSAR (DECEA), com código iniciado por 406, que é a frequência de transmissão da baliza.",
+    "Dispensa de cadastro, se a EPIRB for de tipo aprovado e vier codificada de fábrica pelo fabricante.",
+    "Cadastro no INFOSAR (DECEA), com código iniciado por 710 (Brasil) e seis dígitos da estação.",
+    "Cadastro no INFOSAR (DECEA), mas com código livre, escolhido pelo fabricante do aparelho ou pelo dono."
+   ],
+   "correta": 2,
+   "explicacao": "A NORMAM-211 manda cadastrar toda EPIRB no INFOSAR, serviço do DECEA, e fixa o código: começa por 710 (identificação do Brasil), seguido de seis dígitos da estação, que é o MMSI. O código não é livre, e o cadastro não é dispensado nem para aparelhos de tipo aprovado. O número 406 é a frequência, e não faz parte do código.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 d) e e)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Eletrônica (GNSS, radar, ecobatímetro, AIS, EPIRB)",
+   "dificuldade": 1,
+   "enunciado": "O AIS de um navio mercante transmite automaticamente, em VHF, dados que aparecem no plotter de um veleiro com receptor AIS. Quais são alguns deles?",
+   "alternativas": [
+    "Somente o nome e a bandeira, pois a posição do navio é obtida pelo radar do veleiro.",
+    "A previsão do tempo e a altura da maré no local em que o navio se encontra.",
+    "A marcação e a distância do veleiro em relação ao navio, medidas pelo radar dele.",
+    "Identidade (MMSI e nome), posição obtida por GNSS, rumo e velocidade no fundo."
+   ],
+   "correta": 3,
+   "explicacao": "O AIS (Sistema Automático de Identificação) envia, em canais VHF próprios, a identidade do barco (MMSI, nome, indicativo, tipo e dimensões), a posição do GNSS, o rumo e a velocidade no fundo. Quem recebe vê esses alvos no plotter, mesmo atrás de uma ilha. A posição vem do GNSS do próprio transmissor, não do radar de quem recebe. O AIS não transmite meteorologia nem dados de maré, e não envia medidas de radar do navio.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.1 n); IMO, SOLAS Cap. V, Regra 19 (AIS); ITU-R M.1371",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade e flutuabilidade",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro de cruzeiro sai do mar e sobe um rio de água doce, sem mudar a carga. O que acontece com o calado?",
+   "alternativas": [
+    "Não muda, pois o empuxo depende só do volume do casco, e não da água em que ele flutua.",
+    "Aumenta um pouco: a água doce é menos densa, e o casco precisa afundar mais para flutuar.",
+    "Diminui um pouco, porque a água doce exerce menos pressão e o casco se ergue na água.",
+    "Diminui um pouco, porque o peso do barco é menor em água doce que na água do mar."
+   ],
+   "correta": 1,
+   "explicacao": "Pelo princípio de Arquimedes, o barco flutua quando o empuxo iguala o seu peso, e o empuxo é o peso da água deslocada. A água do mar tem cerca de 1,025 t/m³ e a doce, 1,000 t/m³, então, para deslocar o mesmo peso, o casco precisa deslocar mais volume em água doce e afunda um pouco mais. Nem a pressão nem o peso explicam a mudança: o peso do barco é o mesmo em qualquer água, e o empuxo depende da densidade do líquido, e não apenas do volume do casco.",
+   "referencia": "Princípio de Arquimedes; NORMAM-211/DPC, Anexo 5-A, item 2.1 e)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade e flutuabilidade",
+   "dificuldade": 1,
+   "enunciado": "Durante uma travessia com mar agitado, o tanque de água do veleiro está pela metade. Que efeito isso tem sobre a estabilidade?",
+   "alternativas": [
+    "Nenhum, pois a água do tanque conta como peso fixo, e só interessa o peso total do barco na estabilidade.",
+    "Só piora o conforto: o líquido faz o barco balançar mais, mas o braço de endireitamento continua igual.",
+    "O líquido vai para o bordo baixo e reduz o braço de endireitamento, como se o barco ficasse mais alto.",
+    "Aumenta a estabilidade, porque o líquido age como um lastro móvel que amortece o balanço do barco."
+   ],
+   "correta": 2,
+   "explicacao": "É o efeito de superfície livre. Com o tanque meio cheio, o líquido escorre para o lado que desce, desloca o centro de gravidade do conjunto para esse bordo e reduz o braço de endireitamento (GZ), o que equivale a diminuir a altura metacêntrica. Em tanque cheio ou vazio o efeito não existe. Por isso se evita nível intermediário em mau tempo. A água solta nunca ajuda como lastro, e a perda de estabilidade vai além do conforto.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.1 e) (noções de estabilidade e flutuabilidade); princípios de estática naval (superfície livre)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade e flutuabilidade",
+   "dificuldade": 2,
+   "enunciado": "Um comandante mede o balanço do veleiro fundeado: uma oscilação completa levava 4 s. Depois de levar galões de combustível sobre a cabine, com o mesmo mar, passou a levar 6 s. O que isso sugere?",
+   "alternativas": [
+    "O GM aumentou: o barco ficou mais duro, e por isso balança mais devagar.",
+    "Nada de importante: o período de balanço depende só da altura das ondas no fundeio.",
+    "O calado diminuiu: o barco ficou mais leve e, por isso, balança mais devagar que antes.",
+    "O GM diminuiu: o centro de gravidade subiu e a estabilidade inicial ficou menor."
+   ],
+   "correta": 3,
+   "explicacao": "Quanto maior o GM, mais forte o endireitamento e menor o período: o barco “duro” balança depressa. Um período maior significa GM menor, “barco mole”. Pesos altos, como galões sobre a cabine, sobem o centro de gravidade e reduzem o GM, e o que indica o problema é justamente o balanço mais lento. Mais carga não diminui o calado, e o período próprio do barco não depende só do mar.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.1 e) (noções de estabilidade e flutuabilidade); princípios de estática naval (período de balanço e GM)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade e flutuabilidade",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro desloca 5 t. Um tripulante leva 200 kg de equipamento do porão para o convés, 1,5 m mais alto. Em quanto sobe o centro de gravidade do barco, aproximadamente?",
+   "alternativas": [
+    "0,03 m",
+    "0,06 m",
+    "0,6 m",
+    "1,5 m"
+   ],
+   "correta": 1,
+   "explicacao": "A subida do centro de gravidade é o peso movido × a altura ÷ o deslocamento: 200 kg × 1,5 m ÷ 5.000 kg = 0,06 m, ou 6 cm. O valor de 0,03 m corta o resultado pela metade. O valor de 0,6 m erra uma casa decimal. O valor de 1,5 m supõe que o centro de gravidade do barco acompanha o peso, mas o equipamento é só uma pequena parte do deslocamento.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.1 e) (noções de estabilidade e flutuabilidade); princípios de estática naval (deslocamento de pesos: GG1 = p·d/Δ)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade e flutuabilidade",
+   "dificuldade": 3,
+   "enunciado": "Para pequenas inclinações vale tg(banda) ≈ (peso movido × distância transversal) ÷ (deslocamento × GM). Um veleiro de 6 t, com GM de 0,5 m, tem 200 kg deslocados 1,5 m para boreste. Qual a banda permanente aproximada, em águas calmas?",
+   "alternativas": [
+    "0,6°",
+    "3°",
+    "6°",
+    "11°"
+   ],
+   "correta": 2,
+   "explicacao": "Numerador: 200 × 1,5 = 300 kg·m. Denominador: 6.000 × 0,5 = 3.000 kg·m. tg(banda) = 0,10, o que dá cerca de 5,7°, ou seja, aproximadamente 6°. O valor de 3° resulta de esquecer o GM (tg = 300 ÷ 6.000 = 0,05). O valor de 11° supõe GM de 0,25 m. O valor de 0,6° erra o resultado por um fator de 10.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.1 e) (noções de estabilidade e flutuabilidade); princípios de estática naval (banda por deslocamento transversal de pesos)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Estabilidade e flutuabilidade",
+   "dificuldade": 2,
+   "enunciado": "O que é a reserva de flutuabilidade de uma embarcação, e o que acontece com ela quando o barco é sobrecarregado?",
+   "alternativas": [
+    "É o volume dos tanques de combustível e de água, que diminui quando eles são esvaziados.",
+    "É o empuxo extra gerado pelo lastro, que diminui quando se embarca carga leve.",
+    "É a distância entre G e M, que diminui quando a carga é posta abaixo do centro de gravidade.",
+    "É o volume estanque acima da linha d’água, que diminui quando o excesso de peso afunda o casco."
+   ],
+   "correta": 3,
+   "explicacao": "A reserva de flutuabilidade é o volume do casco, acima da linha d’água, que pode ainda ficar submerso sem que o barco afunde. Ela está ligada à borda livre: o excesso de peso afunda o casco, reduz a borda livre e a reserva, e o barco passa a embarcar água com mais facilidade. Os tanques, o lastro e a distância GM tratam de outras ideias: peso, estabilidade inicial e posição do centro de gravidade.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.1 e) (noções de estabilidade e flutuabilidade); princípios de estática naval (reserva de flutuabilidade e borda livre)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante de colete cai em água fria, e a respiração dispara por causa do choque térmico. O que ele deve fazer nos primeiros minutos?",
+   "alternativas": [
+    "Flutuar de costas, deixando o colete sustentar o corpo, até a respiração acalmar.",
+    "Nadar com força até o barco, para se aquecer com o exercício e alcançar o casco logo.",
+    "Tirar as roupas pesadas na hora, para nadar com mais facilidade até o barco e o resgate.",
+    "Gritar sem parar até o barco chegar, mantendo o corpo na vertical e a cabeça bem alta."
+   ],
+   "correta": 0,
+   "explicacao": "O choque térmico faz a pessoa ofegar e pode afogá-la em segundos; nos primeiros minutos o essencial é “flutuar para viver”: de costas, braços e pernas abertos, deixando o colete trabalhar, até controlar a respiração. Só depois se pensa em se fazer notar, se segurar ou usar a posição HELP. Nadar gasta força e calor, e tirar roupa deixa o corpo exposto ao frio. Gritar e ficar na vertical, ofegando, aumenta o risco de engolir água.",
+   "referencia": "Sobrevivência no mar (Rezende); NORMAM-211/DPC, Anexo 5-A, item 2.1 o)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante de colete espera o resgate sozinho, em água fria, sem nada a que se agarrar. Que posição economiza mais calor?",
+   "alternativas": [
+    "Posição HELP: pernas dobradas contra o peito, braços junto ao tronco e cabeça fora d’água.",
+    "Nadar devagar de costas, para manter o corpo aquecido pelo movimento e não ficar parado.",
+    "Ficar na vertical, com os braços abertos sobre o colete, para manter a cabeça alta.",
+    "Deitar de bruços com o rosto na água, para proteger o peito e a barriga do vento frio."
+   ],
+   "correta": 0,
+   "explicacao": "A posição HELP (Heat Escape Lessening Posture) protege as áreas onde o corpo perde mais calor: virilha, axilas, peito e pescoço. Com colete, a pessoa pode ficar parada e economizar energia. Nadar, mesmo devagar, gasta calor e força. Ficar com os braços abertos expõe as axilas e o peito. Deitar de bruços é perigoso, pois o rosto na água pode afogar quem perde as forças.",
+   "referencia": "Sobrevivência no mar (Rezende); NORMAM-211/DPC, Anexo 5-A, item 2.1 o)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Um tripulante é retirado da água depois de 40 minutos, tremendo e confuso. Qual o cuidado correto a bordo?",
+   "alternativas": [
+    "Mantê-lo em pé e andando pelo convés, para o movimento aquecê-lo mais depressa e sem demora.",
+    "Deitá-lo, trocar a roupa molhada por seca ou manta, abrigá-lo do vento e pedir ajuda médica.",
+    "Esfregar braços e pernas com força, para a circulação voltar ao normal o quanto antes.",
+    "Dar uma dose de bebida alcoólica, para aquecer o corpo por dentro e animar a pessoa."
+   ],
+   "correta": 1,
+   "explicacao": "Na hipotermia o corpo perde calor, e o cuidado é impedir que perca mais: retirar da água na horizontal, trocar a roupa molhada por seca ou envolver em manta, proteger cabeça e tronco e abrigar do vento. Convém pedir orientação médica pelo rádio (PAN-PAN) ou pelo SALVAMAR (185). Massagear os membros empurra sangue frio para o centro do corpo, o álcool dilata os vasos e aumenta a perda de calor, e ficar em pé ou andar pode provocar queda da pressão e arritmia.",
+   "referencia": "Sobrevivência no mar (Rezende), hipotermia; NORMAM-211/DPC, Anexo 5-A, item 2.1 o); SALVAMAR 185 (orientação médica)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "O sinal de socorro mais adequado para ser notado de dia por uma aeronave que se aproxima, e que também mostra a direção do vento, é:",
+   "alternativas": [
+    "o sinal fumígeno flutuante de fumaça laranja.",
+    "a lanterna estroboscópica do colete salva-vidas.",
+    "o facho manual de luz vermelha.",
+    "o foguete de estrelas vermelhas, disparado em salvas."
+   ],
+   "correta": 0,
+   "explicacao": "Durante o dia, a fumaça laranja contrasta com o mar e permanece visível por algum tempo; além disso, o seu desvio mostra ao piloto a direção do vento, o que ajuda na aproximação. O facho manual e o foguete são luzes, mais eficazes à noite, e o foguete tem curta duração. A lanterna estroboscópica do colete foi feita para atrair a atenção à noite e quase não aparece sob o sol.",
+   "referencia": "RIPEAM, Anexo IV, item 1(j) (fumaça de cor alaranjada); NORMAM-211/DPC, art. 4.16 c) (sinal fumígeno flutuante laranja, uso diurno)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 3,
+   "enunciado": "O veleiro bate numa pedra e começa a alagar devagar, mas ainda flutua, e o MAYDAY já foi transmitido. A balsa está pronta no convés. Qual a melhor conduta?",
+   "alternativas": [
+    "Abandonar de imediato para a balsa e cortar a retinida, para o barco não arrastar a balsa junto.",
+    "Controlar o alagamento enquanto der, manter a balsa presa e pronta, e abandonar só se ele afundar.",
+    "Lançar a balsa e esperar todos dentro dela, mesmo com o barco flutuando bem e sem perigo imediato.",
+    "Desligar o rádio para poupar bateria e aguardar sem avaliar a velocidade com que o barco alaga."
+   ],
+   "correta": 1,
+   "explicacao": "O veleiro, mesmo alagando, é um alvo maior e mais fácil de achar, oferece abrigo e mantém a EPIRB e o rádio. A orientação clássica é ficar a bordo enquanto ele flutuar, tentando controlar a água, com a balsa pronta e presa pela retinida para entrar nela ao primeiro sinal de afundamento, passando para dentro sem molhar-se. Abandonar cedo expõe todos ao frio. Cortar a retinida cedo, ou esperar na balsa com o barco intacto, joga fora a vantagem do barco. Ficar sem rádio ou sem avaliar o alagamento tira o socorro e o tempo de decidir.",
+   "referencia": "Sobrevivência no mar (Rezende), abandono e balsa salva-vidas; NORMAM-211/DPC, Anexo 5-A, item 2.1 o)"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "Já na balsa, em água fria, com a tenda aberta e o piso molhado, o que deve ser feito primeiro?",
+   "alternativas": [
+    "Racionar a água e a comida desde já, para que durem o maior tempo possível.",
+    "Disparar todos os pirotécnicos de uma vez, para ser visto o quanto antes.",
+    "Remar para a costa mais próxima, para encurtar a espera pelo resgate.",
+    "Fechar a tenda, tirar a água do piso e tratar do frio, o perigo mais imediato."
+   ],
+   "correta": 3,
+   "explicacao": "Em água fria, o frio mata antes da sede ou da fome; por isso a primeira prioridade na balsa é proteção: fechar a tenda, esgotar a água, isolar o piso e agrupar as pessoas, antes de racionar mantimentos. Remar gasta energia e afasta a balsa do ponto da emergência, onde estão os meios de busca. Disparar todos os pirotécnicos de uma vez desperdiça os sinais, que devem ser usados quando há alguém para ver.",
+   "referencia": "Sobrevivência no mar (Rezende), cap. sobre balsas; NORMAM-211/DPC, Anexo 5-A, item 2.1 o)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 3,
+   "enunciado": "À noite, com mar formado, um tripulante cai do veleiro. Há três outros a bordo. Qual a sequência inicial mais correta?",
+   "alternativas": [
+    "Gritar “homem ao mar”, lançar a boia com luz, pôr alguém só para apontá-lo e acionar o MOB do GNSS.",
+    "Ligar o VHF e transmitir o MAYDAY completo, e só depois lançar a boia, pois o socorro externo vem antes.",
+    "Parar o barco imediatamente e esperar que o tripulante nade de volta até o casco, sem mais ações.",
+    "Mergulhar atrás dele com um colete, porque o veleiro demora a voltar e a corrente o levará."
+   ],
+   "correta": 0,
+   "explicacao": "O MOB exige gestos imediatos: alertar a tripulação, lançar a boia com luz e retinida (que também marca o local), designar um vigia que aponte sem tirar os olhos e gravar a posição no GNSS. A comunicação por rádio vem logo depois, mas não antes da boia. Mergulhar põe mais uma pessoa na água, e esperar que nade de volta é impossível com mar formado e água fria.",
+   "referencia": "Sobrevivência no mar (Rezende), homem ao mar; RIPEAM, Regra 5 (vigilância)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Sobrevivência",
+   "dificuldade": 2,
+   "enunciado": "O colete inflável do comandante está guardado, sem uso, há três anos. Qual a conduta correta antes da próxima saída?",
+   "alternativas": [
+    "Revisar o cilindro de CO₂, o disparo e a bolsa, e fazer o teste de estanqueidade.",
+    "Trocar só a capa, pois o cilindro e o mecanismo duram tanto quanto o barco.",
+    "Usar o colete normalmente, pois o inflável não se deteriora enquanto fica guardado seco.",
+    "Disparar o colete para testar e reaproveitar o mesmo cilindro depois de reinflar a bolsa."
+   ],
+   "correta": 0,
+   "explicacao": "O colete inflável depende de peças que se desgastam: cilindro de CO₂ (que pode enferrujar ou perder carga), mecanismo de disparo (pastilha ou cápsula com prazo) e bolsa (que pode furar). Por isso se revisa conforme o fabricante, inclusive com teste de estanqueidade: infla-se a bolsa e observa-se a perda de pressão por algumas horas. Trocar só a capa não resolve o mecanismo, e presumir que o colete dura é arriscado, pois ele pode falhar quando for necessário. Cilindro disparado não se reutiliza.",
+   "referencia": "Sobrevivência no mar (Rezende), coletes salva-vidas"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta alongada e distratores equilibrados (a correta era a mais curta); explicação e cálculo conferidos. Conteúdo validado em tecnico-162. Correta encurtada para não ficar a mais longa."
+  },
+  {
+   "idx": 1,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 2,
+   "acao": "corrigida",
+   "motivo": "Explicação do distrator 0540 reescrita (estava confusa); cálculo 0630 + 50 min = 0720 refeito e confirmado (tecnico-163)."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 4,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 5,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 6,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 7,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta suavizada ('não costuma se verificar'), mantendo a única resposta defensável; referência Vitória/ES confirmada (tecnico-161)."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 9,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 10,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 11,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais curta) e distrator 'mais próximo' removido (1130 - 3 h e 1130 + 3 h estão à mesma distância); explicação mantida."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais longa); explicação ajustada sobre datum (escolhido pelo operador, não enviado pelo satélite) e sobre a função do quarto satélite."
+  },
+  {
+   "idx": 13,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 14,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais longa, pista de tamanho); conteúdo e referência mantidos."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Referência restrita ao capítulo de GNSS (o capítulo 38 não foi confirmado); alternativas e explicação conferidas. Alternativas 1 e 4 alongadas e correta encurtada (estava entre as mais longas). Ordem das alternativas: a correta permanece na posição 2 (índice 2)."
+  },
+  {
+   "idx": 16,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 17,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 18,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 19,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 20,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 21,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 22,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 24,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais longa); código 710 + seis dígitos e cadastro INFOSAR conferidos com normas-175 e radio-38."
+  },
+  {
+   "idx": 25,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta encurtada e explicação passa a refutar o distrator de pressão/peso (C e D), que antes não eram tratados."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais longa); efeito de superfície livre e a conduta conferidos. Correta encurtada para não ficar a mais longa."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 29,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 30,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 31,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 32,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais curta e uma das mais simples); conduta conferida."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais longa); posição HELP conferida."
+  },
+  {
+   "idx": 34,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas (a correta era a mais longa); conduta conferida (Rezende; SALVAMAR 185 em radio-48)."
+  },
+  {
+   "idx": 35,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 36,
+   "acao": "corrigida",
+   "motivo": "Alternativas reequilibradas; referência 'Miguens, vol. I, noções de sobrevivência' removida (o vol. I não tem esse capítulo); substituída por Rezende e NORMAM-211 item 2.1 o)."
+  },
+  {
+   "idx": 37,
+   "acao": "ok",
+   "motivo": "Revisado: uma única resposta defensável, distratores plausíveis e explicados, referência específica; cálculo refeito e confirmado."
+  },
+  {
+   "idx": 38,
+   "acao": "corrigida",
+   "motivo": "Explicação: removido 'simultâneos' (não sustentado pela fonte); sequência MOB mantida."
+  },
+  {
+   "idx": 39,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta encurtada e alinhada à explicação (teste de estanqueidade, não de pressão); conduta conferida."
+  }
+ ]
+}

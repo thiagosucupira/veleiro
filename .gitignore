@@ -1,0 +1,8 @@
+research/acervo/*.pdf
+research/acervo/*.zip
+node_modules/
+.DS_Store
+*.log
+# cache de páginas/PDFs de terceiros baixados para a checagem literal (regerável com tools/check_quotes.py --fetch)
+research/_work/fontes_cache/
+__pycache__/

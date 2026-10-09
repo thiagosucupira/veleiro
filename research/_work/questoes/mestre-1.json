@@ -1,0 +1,610 @@
+{
+ "questoes": [
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 1,
+   "enunciado": "Na carta náutica brasileira, ao lado de um ponto no mar aparece o número <b>7₃</b>, sem sublinhado. O que ele indica?",
+   "alternativas": [
+    "Sondagem: profundidade de 7,3 m, contada a partir do nível de redução da carta.",
+    "Sondagem: profundidade de 73 m, com o algarismo pequeno valendo metros.",
+    "Altura de secagem: pedra que fica 7,3 m acima do nível de redução.",
+    "Altitude: elevação de 7,3 m acima do nível médio do mar, como nos morros."
+   ],
+   "correta": 0,
+   "explicacao": "Os números comuns espalhados no mar são sondagens, em metros e decímetros: o decímetro vem menor e mais baixo, então 7₃ é 7,3 m, contados do nível de redução. Altitudes pertencem à terra e contam do nível médio do mar. Ler 73 m é errar o algarismo pequeno, que vale décimos de metro. Alturas de secagem apareceriam sublinhadas.",
+   "referencia": "Carta 12000 (INT 1), seção I; Miguens, vol. I, cap. 2, item 2.6.3 h",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 2,
+   "enunciado": "Numa carta, uma pedra traz a altura de secagem <u>1₂</u> (algarismos sublinhados). A previsão de maré para a hora da sua passagem é de 2,0 m acima do nível de redução. Qual é a lâmina de água sobre a pedra nesse momento?",
+   "alternativas": [
+    "3,2 m, que é a altura da maré somada à altura de secagem da pedra.",
+    "0,8 m, que é a altura da maré menos a altura de secagem da pedra.",
+    "1,2 m, o valor impresso na carta, que vale para qualquer altura de maré.",
+    "2,0 m, a própria altura da maré, porque a pedra está no nível de redução."
+   ],
+   "correta": 1,
+   "explicacao": "Altura de secagem conta para cima a partir do nível de redução: a pedra fica 1,2 m acima dele. Com maré de 2,0 m, sobra 2,0 − 1,2 = 0,8 m de água sobre a pedra. 3,2 m soma os valores, como se fosse uma sondagem. 1,2 m é a altura da pedra, que ignora a maré. 2,0 m esquece que a pedra sobe 1,2 m acima do nível de redução.",
+   "referencia": "Carta 12000 (INT 1), seção I; Miguens, vol. I, cap. 2, item 2.6.3 h",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 1,
+   "enunciado": "Na Carta 12000, qual é a cor usada na “chama” do símbolo de luz dos faróis e das boias luminosas?",
+   "alternativas": [
+    "Verde, a mesma cor usada nas áreas que cobrem e descobrem.",
+    "Preta, a mesma cor usada nas sondagens e na linha da costa.",
+    "Azul, a mesma cor usada para destacar as águas rasas.",
+    "Magenta, a mesma cor usada nas rosas dos rumos."
+   ],
+   "correta": 3,
+   "explicacao": "As luzes são marcadas com uma chama em magenta, cor que a carta reserva para informações sobrepostas, como rosas dos rumos e áreas restritas. Preto é a cor das sondagens e da estrutura da carta. Azul marca águas rasas, e quanto mais escuro, mais raso. Verde indica áreas que cobrem e descobrem com a maré.",
+   "referencia": "Carta 12000 (INT 1), seção P; Miguens, vol. I, cap. 2, item 2.6.3",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 2,
+   "enunciado": "Numa carta na escala 1:50.000, a distância entre dois pontos mede 7,4 cm. Qual é a distância real, em milhas náuticas (1 M = 1.852 m)?",
+   "alternativas": [
+    "Cerca de 3,7 M, tratando os 3.700 m como se fossem milhas.",
+    "Cerca de 20 M, errando a conversão de centímetros para metros.",
+    "Cerca de 4,0 M, dividindo os 3.700 m por 926 m, a meia milha.",
+    "Cerca de 2,0 M, pois 7,4 cm correspondem a 3.700 m."
+   ],
+   "correta": 3,
+   "explicacao": "7,4 cm × 50.000 = 370.000 cm = 3.700 m, e 3.700 ÷ 1.852 ≈ 2,0 M. Responder 3,7 M confunde quilômetros (3,7 km) com milhas. 4,0 M usa 926 m, que é meia milha, como se fosse a milha inteira. 20 M erra a vírgula na passagem de centímetros para metros.",
+   "referencia": "Miguens, vol. I, cap. 2, item 2.6.2, e cap. 1, item 1.7.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 3,
+   "enunciado": "Você quer plotar posições com erro máximo de 25 m, e calcula que o seu lápis e a sua leitura erram até 0,5 mm na carta. Entre as escalas abaixo, qual é a MENOR (maior denominador) que ainda respeita esse limite?",
+   "alternativas": [
+    "1:25.000, que respeita o limite, mas não é a menor escala que o faz.",
+    "1:500.000, em que 0,5 mm na carta correspondem a 250 m.",
+    "1:50.000, em que 0,5 mm na carta correspondem a 25 m.",
+    "1:100.000, em que 0,5 mm na carta correspondem a 50 m."
+   ],
+   "correta": 2,
+   "explicacao": "Em 1:50.000, 1 mm vale 50 m, então 0,5 mm vale 25 m: está exatamente no limite. A 1:25.000 o erro seria só de 12,5 m, mais folgado do que o necessário, mas essa não é a menor escala que atende. Em 1:100.000 o erro chega a 50 m, e em 1:500.000, a 250 m: ambas estouram o limite.",
+   "referencia": "Miguens, vol. I, cap. 2, item 2.6.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 2,
+   "enunciado": "Você vai navegar de porto a porto, sem perder a costa de vista, e precisa de uma carta que mostre um bom trecho do litoral com detalhe suficiente. Qual tipo de carta é o mais indicado?",
+   "alternativas": [
+    "Planta de fundeadouro, em escala de cerca de 1:5.000.",
+    "Carta oceânica, em escala de cerca de 1:5.000.000.",
+    "Carta costeira, em escala de cerca de 1:300.000.",
+    "Carta de porto, em escala de cerca de 1:15.000."
+   ],
+   "correta": 2,
+   "explicacao": "As cartas costeiras (cerca de 1:300.000 nas séries da DHN) foram feitas para a navegação ao longo da costa. A oceânica tem escala muito pequena e quase não mostra perigos costeiros. A carta de porto e a planta de fundeadouro têm grande escala: detalham a entrada e o fundeio, mas cobrem poucas milhas, o que obrigaria a trocar de carta toda hora.",
+   "referencia": "Miguens, vol. I, cap. 2, item 2.6.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 2,
+   "enunciado": "Ao lado de uma boia, a carta nacional mostra a característica <b>Oc(3) V 12s 18m 9M</b>. Qual é a leitura correta?",
+   "alternativas": [
+    "Grupo de três ocultações verdes, repetido a cada 12 s, com foco a 18 m e alcance de 9 milhas.",
+    "Grupo de três ocultações verdes, repetido a cada 18 s, com foco a 9 m e alcance de 12 milhas.",
+    "Grupo de três lampejos verdes, repetido a cada 12 s, com foco a 18 m e alcance de 9 milhas.",
+    "Grupo de três ocultações verdes, repetido a cada 9 s, com foco a 12 m e alcance de 18 milhas."
+   ],
+   "correta": 0,
+   "explicacao": "Oc é ocultação (a luz fica acesa mais tempo do que apagada) e (3) indica o grupo; V é verde; 12s é o período do grupo completo; 18m é a altitude do foco e 9M é o alcance. Lampejo seria Lp, em que a luz fica acesa menos tempo do que apagada. As outras duas opções trocam o período, a altitude e o alcance entre si.",
+   "referencia": "Carta 12000 (INT 1), seção P, itens 10 a 16",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 3,
+   "enunciado": "Um farol tem foco a 49 m de altitude e alcance luminoso de 25 M. Do seu veleiro, com os olhos a 4 m da água, qual é aproximadamente a distância em que você começa a ver a luz numa noite de boa visibilidade? (Alcance geográfico D = 1,927 × (√H + √h), em milhas, com H e h em metros.)",
+   "alternativas": [
+    "Cerca de 9,0 M, somando as raízes e esquecendo o fator 1,927.",
+    "Cerca de 9,6 M, subtraindo as raízes em vez de somá-las.",
+    "Cerca de 17,3 M, limitado pela curvatura da Terra.",
+    "Cerca de 25 M, o alcance luminoso impresso na carta."
+   ],
+   "correta": 2,
+   "explicacao": "D = 1,927 × (√49 + √4) = 1,927 × (7 + 2) ≈ 17,3 M. Como é menor que o alcance luminoso (25 M), é a curvatura da Terra que limita a visão da luz. 25 M ignora o horizonte. 9,6 M vem de 1,927 × (7 − 2), e 9,0 M, de somar as raízes sem multiplicar pelo fator.",
+   "referencia": "Lista de Faróis (DHN), 40ª ed., Introdução, item 3.5 (alcances)",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 2,
+   "enunciado": "Você procura um fundeadouro com boa tença para passar a noite. A carta mostra a natureza do fundo em quatro pontos: <b>L</b> (lama), <b>R</b> (rocha), <b>Cor</b> (coral) e <b>P</b> (pedras). Em geral, qual é a melhor escolha?",
+   "alternativas": [
+    "O ponto de lama (L), onde o ferro costuma cravar e segurar bem.",
+    "O ponto de pedras (P), porque elas travam o ferro e a amarra.",
+    "O ponto de rocha (R), porque é o fundo mais duro e mais firme.",
+    "O ponto de coral (Cor), porque o ferro se prende entre os galhos."
+   ],
+   "correta": 0,
+   "explicacao": "Lama e areia são os fundos que normalmente seguram bem, porque o ferro penetra e agarra. Em rocha e pedras o ferro desliza ou fica sem cravar, e pode ficar preso e não sair mais. No coral o ferro segura mal e ainda destrói o recife, o que deve ser evitado.",
+   "referencia": "Carta 12000 (INT 1), seção J; Miguens, vol. I, cap. 2, item 2.6.3",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 1,
+   "enunciado": "Nas cartas brasileiras, a altitude de um morro (por exemplo, “215”) está em metros acima de qual nível?",
+   "alternativas": [
+    "Do nível alto de maré (preamar) usado nos vãos de pontes.",
+    "Do nível de redução, o mesmo das sondagens.",
+    "Da base do morro, medida na linha da costa.",
+    "Do nível médio do mar, conforme o título da carta."
+   ],
+   "correta": 3,
+   "explicacao": "O título das cartas brasileiras informa que as altitudes são contadas a partir do nível médio do mar. O nível de redução (média das baixa-mares de sizígia) é a referência das sondagens e das alturas de secagem. Um nível alto de maré é a referência dos vãos livres de pontes e cabos. A base do morro não é um nível de referência da carta.",
+   "referencia": "Miguens, vol. I, cap. 2, item 2.6.3 b; Carta 12000 (INT 1), Introdução",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 2,
+   "enunciado": "Junto de uma rocha, a carta traz a abreviatura <b>PA</b>. Qual é a interpretação correta, e a conduta prudente?",
+   "alternativas": [
+    "Posição aproximada: a carta garante o ponto exato, e basta passar a 0,1 M dele.",
+    "Profundidade aproximada: use a sondagem como certa, sem qualquer margem de folga.",
+    "Perigo comunicado mas não confirmado: pode ser ignorado até sair um novo aviso.",
+    "Posição aproximada: a rocha pode estar fora do ponto, então convém dar resguardo maior."
+   ],
+   "correta": 3,
+   "explicacao": "PA significa posição aproximada: o levantamento não fixou o ponto com precisão, então o perigo pode estar a alguma distância do símbolo, e o certo é dar resguardo maior. Quem “garante” o ponto seria uma posição bem determinada. O comunicado ainda não confirmado é a abreviatura Com, mas mesmo esses perigos devem ser tratados como reais. PA não trata de profundidade.",
+   "referencia": "Carta 12000 (INT 1), Introdução (abreviaturas de incerteza); Miguens, vol. I, cap. 2, item 2.6.3",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 2,
+   "enunciado": "O título da sua carta antiga diz “Posições referidas ao datum SAD-69”, e o GPS do barco está em WGS-84. Qual é a conduta correta antes de plotar a posição do GPS?",
+   "alternativas": [
+    "Trocar o GPS para graus e segundos, que eliminam a diferença entre datums.",
+    "Aplicar a correção dada em nota na carta, ou usar uma carta atual em WGS-84.",
+    "Plotar a posição direto, porque o GPS é sempre mais preciso do que a carta.",
+    "Somar a declinação magnética à latitude e à longitude do GPS antes de plotar."
+   ],
+   "correta": 1,
+   "explicacao": "Datums diferentes dão coordenadas diferentes para o mesmo ponto, e a diferença pode chegar a centenas de metros. Por isso se aplica a correção que a carta traz em nota, ou se usa uma carta atual em WGS-84. Plotar direto leva o erro para a carta. A declinação é assunto de direções, não de coordenadas. O formato (graus e segundos) não muda o datum.",
+   "referencia": "Miguens, vol. I, cap. 2, item 2.6.3; CHM, Cartas Náuticas (datum WGS-84)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-cartas-nauticas"
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 3,
+   "enunciado": "Veja o perfil da figura. A sondagem no ponto é <b>2₁</b> (2,1 m), o calado do veleiro é 1,6 m e a previsão da tábua para a hora da passagem é de <b>−0,2 m</b> (a água fica 0,2 m abaixo do nível de redução). Qual é a folga sob a quilha, sem contar ondas?",
+   "alternativas": [
+    "0,3 m, porque a profundidade real é 2,1 − 0,2 = 1,9 m.",
+    "0,7 m, porque a profundidade real é 2,1 + 0,2 = 2,3 m.",
+    "0,5 m, porque a profundidade real é 2,1 m, a própria sondagem.",
+    "0,1 m, porque a profundidade real é 2,1 − 0,2 − 0,2 = 1,7 m."
+   ],
+   "correta": 0,
+   "explicacao": "Profundidade = sondagem + altura da maré. Como a maré é negativa, a água está abaixo do nível de redução: 2,1 + (−0,2) = 1,9 m, e a folga é 1,9 − 1,6 = 0,3 m. 0,7 m soma a maré como se fosse positiva. 0,5 m ignora a maré. 0,1 m desconta a maré duas vezes.",
+   "referencia": "Miguens, vol. I, cap. 10, item 10.1.9",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 360 190\" role=\"img\" aria-label=\"Perfil vertical: nível de redução, nível da água 0,2 m abaixo dele, quilha a 1,6 m abaixo da água e fundo a 2,1 m abaixo do nível de redução\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"10\" y=\"62\" width=\"250\" height=\"88\" fill=\"var(--sea-2)\" opacity=\"0.45\"/>\n<rect x=\"10\" y=\"150\" width=\"250\" height=\"16\" fill=\"var(--land)\"/>\n<line x1=\"10\" y1=\"50\" x2=\"330\" y2=\"50\" stroke=\"var(--ink)\" stroke-width=\"1\" stroke-dasharray=\"5 4\"/>\n<line x1=\"10\" y1=\"62\" x2=\"260\" y2=\"62\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/>\n<path d=\"M95 62 L105 44 L175 44 L185 62 Z\" fill=\"var(--nav-white)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/>\n<path d=\"M120 62 L120 126 L160 126 L160 62\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/>\n<line x1=\"270\" y1=\"62\" x2=\"270\" y2=\"126\" stroke=\"var(--ink)\" stroke-width=\"1.2\"/>\n<line x1=\"266\" y1=\"62\" x2=\"274\" y2=\"62\" stroke=\"var(--ink)\"/><line x1=\"266\" y1=\"126\" x2=\"274\" y2=\"126\" stroke=\"var(--ink)\"/>\n<line x1=\"300\" y1=\"50\" x2=\"300\" y2=\"150\" stroke=\"var(--ink)\" stroke-width=\"1.2\"/>\n<line x1=\"296\" y1=\"50\" x2=\"304\" y2=\"50\" stroke=\"var(--ink)\"/><line x1=\"296\" y1=\"150\" x2=\"304\" y2=\"150\" stroke=\"var(--ink)\"/>\n<g fill=\"var(--ink)\" font-size=\"11\" font-family=\"sans-serif\">\n<text x=\"14\" y=\"44\">NR (0,0 m)</text>\n<text x=\"14\" y=\"78\">água: 0,2 m abaixo do NR</text>\n<text x=\"278\" y=\"98\">calado</text><text x=\"278\" y=\"111\">1,6 m</text>\n<text x=\"308\" y=\"98\">sondagem</text><text x=\"308\" y=\"111\">2,1 m</text>\n<text x=\"14\" y=\"162\">fundo</text>\n<text x=\"124\" y=\"140\">quilha</text>\n</g></svg>"
+   }
+  },
+  {
+   "tema": "Carta náutica e simbologia",
+   "dificuldade": 1,
+   "enunciado": "Na rosa dos rumos de uma carta náutica, o anel interno, com a seta do Norte magnético, é graduado em rumos de qual tipo?",
+   "alternativas": [
+    "Rumos verdadeiros, e o anel externo traz os rumos magnéticos.",
+    "Rumos magnéticos, e o anel externo traz os rumos verdadeiros.",
+    "Rumos relativos, e o anel externo traz os rumos da agulha.",
+    "Rumos da agulha, e o anel externo traz os rumos magnéticos."
+   ],
+   "correta": 1,
+   "explicacao": "O anel externo da rosa é verdadeiro, alinhado com os meridianos da carta, e o interno é magnético, girado do valor da declinação do local. A rosa da carta não traz rumos da agulha, que dependem do desvio de cada barco. Os rumos relativos contam a partir da proa e não aparecem na rosa.",
+   "referencia": "Miguens, vol. I, cap. 2, item 2.6.3 i, e cap. 3, item 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 1,
+   "enunciado": "O GPS, configurado em graus, minutos e segundos, mostra a latitude 12°36′45″ S. Em graus e minutos com décimos (e centésimos) de minuto, essa latitude é:",
+   "alternativas": [
+    "12°36,75′ S, porque 45″ valem 0,75′.",
+    "12°36,45′ S, copiando os segundos como se fossem décimos.",
+    "12°43,5′ S, dividindo os segundos por 6 em vez de por 60.",
+    "12°36,25′ S, usando os 15″ que faltam para completar o minuto."
+   ],
+   "correta": 0,
+   "explicacao": "Um minuto tem 60 segundos, então 45″ = 45 ÷ 60 = 0,75′, e a latitude fica 12°36,75′ S. Copiar 45 como 0,45′ confunde segundos com centésimos de minuto. Dividir por 6 dá 7,5′, que somados a 36′ resultam em 43,5′. E 0,25′ corresponde a 15″, não a 45″.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro está em 24°10,0′ S e navega 18 M para o norte (Rv 000°). Qual é a latitude de chegada?",
+   "alternativas": [
+    "24°08,0′ S, subtraindo 10′ − 18′ e mantendo o grau.",
+    "23°52,0′ S, porque a latitude diminui 18′ ao ir para o norte.",
+    "24°28,0′ S, somando 18′ à latitude inicial.",
+    "23°42,0′ S, passando um grau para os minutos e esquecendo os 10′."
+   ],
+   "correta": 1,
+   "explicacao": "No Hemisfério Sul, ir para o norte diminui a latitude. 18 M valem 18′ de latitude: 24°10′ − 18′ = 23°52′ (empresta-se 1° = 60′, e 70′ − 18′ = 52′). 24°28′ soma em vez de subtrair. 24°08′ ignora que 10′ é menor que 18′ e não há como manter o grau. 23°42′ empresta o grau, mas perde os 10′ que já estavam na latitude.",
+   "referencia": "Miguens, vol. I, cap. 1, itens 1.6 e 1.7.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 2,
+   "enunciado": "Um barco navega exatamente para o sul de 22°47,0′ S até 23°12,0′ S. Qual foi a distância percorrida?",
+   "alternativas": [
+    "35 M, subtraindo 47′ − 12′ sem considerar a mudança de grau.",
+    "85 M, contando 1°25′ por empréstimo duplo de um grau.",
+    "25 M, porque a diferença de latitude é de 25′.",
+    "59 M, somando os minutos 47′ + 12′."
+   ],
+   "correta": 2,
+   "explicacao": "A diferença de latitude é 23°12′ − 22°47′ = 1.392′ − 1.367′ = 25′, e 1′ de latitude vale 1 milha, então são 25 M. 35 M subtrai os minutos de forma direta, esquecendo que a latitude passou de 22° para 23°. 59 M soma os minutos. 85 M soma um grau de 60′ a mais na conta.",
+   "referencia": "Miguens, vol. I, cap. 1, itens 1.6 e 1.7.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro navega 120 M exatamente para leste (Rv 090°) ao longo do paralelo de 60° S, onde cos 60° = 0,5. Em quanto muda a sua longitude?",
+   "alternativas": [
+    "1°00′, pois dlong = afastamento × cos 60° = 120 × 0,5 = 60′.",
+    "2°00′, pois 1′ de longitude vale sempre 1 milha (120′).",
+    "8°00′, pois o afastamento é dividido por cos 60° duas vezes (480′).",
+    "4°00′, pois dlong = afastamento ÷ cos 60° = 120 ÷ 0,5 = 240′."
+   ],
+   "correta": 3,
+   "explicacao": "Ao longo de um paralelo, o afastamento (120 M) e a diferença de longitude se relacionam por afastamento = dlong × cos φ. Então dlong = 120 ÷ 0,5 = 240′ = 4°. Em 60° de latitude o minuto de longitude vale só meia milha, e por isso 2° (120′) seria o valor no Equador. 1° multiplica por cos em vez de dividir. 8° aplica a divisão duas vezes.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.7 e cap. 2, item 2.4.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 1,
+   "enunciado": "Qual é a distância, em milhas náuticas, entre os paralelos de 23° S e 24° S, medida ao longo de um meridiano?",
+   "alternativas": [
+    "111 M, que é o valor de 1° de latitude em quilômetros.",
+    "100 M, porque 1° é dividido em 100 partes.",
+    "60 M, porque 1° de latitude tem 60′ e cada minuto vale 1 milha.",
+    "55 M, porque o minuto vale 0,92 milha a 23° S."
+   ],
+   "correta": 2,
+   "explicacao": "Um grau de latitude tem 60 minutos, e cada minuto de latitude vale 1 milha náutica: 60 M. 100 M usa a divisão decimal, que não se aplica à latitude. 111 é o valor em quilômetros (60 × 1,852). O fator 0,92 vale para o minuto de longitude a 23° S, não para a latitude.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.7.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro vai para o norte, cruzando o Equador, de 01°20′ S até 00°50′ N. Qual é a distância percorrida?",
+   "alternativas": [
+    "70 M, somando só os 20′ e os 50′ e esquecendo o grau inteiro.",
+    "130 M, porque as latitudes têm nomes contrários e se somam (80′ + 50′).",
+    "30 M, subtraindo 80′ − 50′ como se fossem do mesmo hemisfério.",
+    "170 M, somando as latitudes e lendo 1°70′ como 170 minutos."
+   ],
+   "correta": 1,
+   "explicacao": "Quando as latitudes têm nomes contrários, soma-se: 1°20′ S = 80′ ao sul do Equador e 0°50′ N = 50′ ao norte, em um total de 130′, ou 130 M. 30 M é a conta para latitudes de mesmo nome. 70 M esquece o grau (60′). 170 M converte 1°70′ errado: 1°70′ são 130′.",
+   "referencia": "Miguens, vol. I, cap. 1, itens 1.6 e 1.7.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 1,
+   "enunciado": "Navegando a 6,5 nós durante 36 minutos, quantas milhas o barco percorre?",
+   "alternativas": [
+    "3,9 M, pois D = 6,5 × 36 ÷ 60.",
+    "5,5 M, dividindo 36 por 6,5.",
+    "2,3 M, tratando 36 minutos como 0,36 hora.",
+    "39 M, dividindo por 6 em vez de por 60."
+   ],
+   "correta": 0,
+   "explicacao": "D = V × T, com o tempo em horas: 36 min = 0,6 h, e 6,5 × 0,6 = 3,9 M. Dividir por 6 dá 39 M. Escrever 0,36 h é converter minutos em centésimos de hora, o que dá 2,3 M. Dividir 36 por 6,5 calcula uma grandeza sem sentido aqui.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.9",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 1,
+   "enunciado": "Uma pernada tem 21 M e o veleiro mantém 6 nós no fundo. Quanto tempo ela leva?",
+   "alternativas": [
+    "17 min, dividindo 6 por 21 em vez de 21 por 6.",
+    "3 h 50 min, lendo 3,5 h como 3 h e 50 min.",
+    "2 h 06 min, multiplicando 21 por 6 e lendo 126 como minutos.",
+    "3 h 30 min, pois T = 21 ÷ 6 = 3,5 h."
+   ],
+   "correta": 3,
+   "explicacao": "T = D ÷ V = 21 ÷ 6 = 3,5 h, e 0,5 h são 30 min: 3 h 30 min. Em 3,5 h, o “,5” é meia hora, não 50 minutos. 17 min vem da divisão invertida (6 ÷ 21 h). 2 h 06 min é D × V (126), que não é o tempo.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.9",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 3,
+   "enunciado": "Você parte de 23°30,0′ S e navega 10 M no rumo verdadeiro 060° (use cos 60° = 0,5 e sen 60° ≈ 0,87). Qual é a nova latitude?",
+   "alternativas": [
+    "23°20,0′ S, porque a variação de latitude é igual aos 10 M percorridos.",
+    "23°35,0′ S, porque a variação de latitude é 5′ para o sul.",
+    "23°25,0′ S, porque a variação de latitude é 10 × cos 60° = 5′ para o norte.",
+    "23°21,3′ S, porque a variação de latitude é 10 × sen 60° ≈ 8,7′ para o norte."
+   ],
+   "correta": 2,
+   "explicacao": "O rumo 060° vai para nordeste, então a latitude diminui no Hemisfério Sul. A variação de latitude é a distância vezes o cosseno do rumo: 10 × cos 60° = 5′, e 23°30,0′ − 5,0′ = 23°25,0′ S. Somar 5′ ignora o sentido norte. 8,7′ é o afastamento (seno), que muda a longitude, não a latitude. 10′ só vale para um rumo norte puro (000°).",
+   "referencia": "Miguens, vol. I, cap. 1, itens 1.7 e 1.8",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 2,
+   "enunciado": "O GPS mostra a latitude em graus decimais: −23,75° (o sinal negativo indica Sul). Em graus e minutos, essa latitude é:",
+   "alternativas": [
+    "23°07,5′ S, dividindo 0,75 por 10 em vez de multiplicar por 60.",
+    "23°45,0′ S, porque 0,75° × 60 = 45′.",
+    "23°75,0′ S, lendo a parte decimal como minutos.",
+    "23°15,0′ S, usando o complemento 0,25° × 60."
+   ],
+   "correta": 1,
+   "explicacao": "Para passar a parte decimal do grau a minutos, multiplica-se por 60: 0,75 × 60 = 45′. Escrever 75′ é ler a fração decimal como se já fossem minutos, e não existe 75′ (o máximo é 59,9′). Dividir por 10 dá 7,5′. 15′ é o complemento do que falta para 1°, não a parte decimal dada.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 2,
+   "enunciado": "O ponto A está em 23°41,0′ S, 044°15,0′ W, e o ponto B em 23°39,5′ S, 044°22,0′ W. Em relação a A, o ponto B está:",
+   "alternativas": [
+    "A 1,5′ ao sul e 7,0′ a leste.",
+    "A 1,5′ ao norte e 7,0′ a oeste.",
+    "A 1,5′ ao sul e 7,0′ a oeste.",
+    "A 1,5′ ao norte e 7,0′ a leste."
+   ],
+   "correta": 1,
+   "explicacao": "No Hemisfério Sul, a latitude menor (23°39,5′) fica mais ao norte, a 1,5′ de A. A oeste de Greenwich, a longitude maior (044°22,0′) fica mais a oeste, a 7,0′ de A. As demais opções trocam o sentido de uma ou das duas diferenças, o erro típico de quem lê o número como se crescesse para cima e para a direita.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.6",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Coordenadas e distâncias",
+   "dificuldade": 2,
+   "enunciado": "O GPS indica 23°59,6′ S. O veleiro avança 1,0 M exatamente para o sul. Qual é a nova latitude?",
+   "alternativas": [
+    "23°58,6′ S, subtraindo 1,0′ como se fosse para o norte.",
+    "24°00,4′ S, calculando 60,0′ − 59,6′ para os minutos.",
+    "23°60,6′ S, mantendo o grau e deixando 60,6′ nos minutos.",
+    "24°00,6′ S, porque 59,6′ + 1,0′ = 60,6′ = 1° + 0,6′."
+   ],
+   "correta": 3,
+   "explicacao": "Ir para o sul aumenta a latitude: 59,6′ + 1,0′ = 60,6′, e 60′ formam 1°, então a posição passa a 24°00,6′ S. Os minutos nunca passam de 59,9′, por isso 23°60,6′ é inválido. 23°58,6′ é a conta para o norte. 24°00,4′ calcula só o que faltava para fechar o grau (0,4′), sem somar o restante do avanço.",
+   "referencia": "Miguens, vol. I, cap. 1, itens 1.6 e 1.7.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 1,
+   "enunciado": "Em um lugar de declinação magnética 18° W, o rumo magnético é 100°. Qual é o rumo verdadeiro?",
+   "alternativas": [
+    "064°, aplicando a declinação W duas vezes.",
+    "082°, porque com declinação W se subtrai 18° do rumo magnético.",
+    "118°, somando a declinação W em vez de subtraí-la.",
+    "100°, deixando de aplicar a declinação ao rumo magnético."
+   ],
+   "correta": 1,
+   "explicacao": "Pela convenção E+ W−, Rv = Rmg + Dec mg, e com 18° W a declinação vale −18°: Rv = 100° − 18° = 082°. Somar dá 118°, que é o sinal trocado. 100° esquece a declinação. 064° subtrai 36°, isto é, o dobro.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 1,
+   "enunciado": "Na carta, você traçou a pernada no Rv 215°. A declinação magnética é 21° W. Qual é o rumo magnético correspondente?",
+   "alternativas": [
+    "194°, subtraindo a declinação W.",
+    "215°, deixando de aplicar a declinação.",
+    "236°, porque da carta para o magnético, W soma.",
+    "257°, somando a declinação W duas vezes."
+   ],
+   "correta": 2,
+   "explicacao": "Rmg = Rv − Dec mg. Com a declinação W (−21°), Rmg = 215° + 21° = 236°. Na ida da carta para a agulha o sinal é o inverso: oeste soma. 194° subtrai, que é o sentido da agulha para a carta. 215° ignora a declinação, e 257° aplica 42°.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 2,
+   "enunciado": "Dados: Rag 047°, desvio da agulha 3° E nessa proa e declinação magnética 22° W. Qual é o rumo verdadeiro?",
+   "alternativas": [
+    "028°, porque Rmg = 047° + 3° = 050° e Rv = 050° − 22°.",
+    "025°, aplicando só a declinação e esquecendo o desvio.",
+    "022°, subtraindo o desvio E em vez de somá-lo.",
+    "072°, somando a declinação W em vez de subtraí-la."
+   ],
+   "correta": 0,
+   "explicacao": "Da agulha para a carta, leste soma e oeste subtrai. Rmg = Rag + Dag = 047° + 3° = 050°; Rv = Rmg + Dec = 050° − 22° = 028°. 072° soma a declinação W. 022° subtrai o desvio E (047° − 3° − 22°). 025° é 047° − 22°, sem desvio.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 2,
+   "enunciado": "O plano de derrota pede o Rv 310°. A declinação é 19° W e, para essa proa, o desvio da agulha é 4° W. Em que rumo da agulha o timoneiro deve governar?",
+   "alternativas": [
+    "287°, usando os sinais do caminho da agulha para a carta.",
+    "333°, porque Rmg = 310° + 19° = 329° e Rag = 329° + 4°.",
+    "325°, subtraindo o desvio W em vez de somá-lo.",
+    "329°, aplicando só a declinação e esquecendo o desvio."
+   ],
+   "correta": 1,
+   "explicacao": "Da carta para a agulha os sinais se invertem: oeste soma, leste subtrai. Rmg = 310° + 19° = 329°; Rag = 329° + 4° = 333°. 325° subtrai o desvio W. 329° é o rumo magnético, sem a correção do desvio. 287° subtrai os dois valores W, como se o caminho fosse o da agulha para a carta.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 2,
+   "enunciado": "A rosa da carta diz “19°20′W 2016 (8′E)”. Qual é a declinação magnética em 2026?",
+   "alternativas": [
+    "20°40′ W, porque a variação soma 1°20′ à declinação W em 10 anos.",
+    "19°12′ W, porque a variação vale um único ano (8′ de diferença).",
+    "18°00′ W, porque a variação (10 × 8′ E = 1°20′) subtrai da declinação W.",
+    "18°00′ E, porque a declinação mudou de nome ao passar por zero."
+   ],
+   "correta": 2,
+   "explicacao": "Em 10 anos, a variação acumulada é 10 × 8′ = 80′ = 1°20′ E. Como o sentido (E) é oposto ao da declinação (W), subtrai-se: 19°20′ − 1°20′ = 18°00′ W. Somar daria 20°40′ W. 19°12′ considera apenas um ano. A declinação só mudaria de nome se passasse por zero, o que não aconteceu: ainda há 18° W.",
+   "referencia": "Miguens, vol. I, cap. 3, itens 3.2.3 e 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 3,
+   "enunciado": "A rosa da carta traz “22°00′W 2020 (6′W)”. Em 2026, com valores aproximados a 0,5°, qual é a declinação magnética e qual é o Rv correspondente a um Rmg de 090°?",
+   "alternativas": [
+    "Dec 22,5° W (22°36′ W); Rv = 090° + 22,5° = 112,5°.",
+    "Dec 21,5° W (21°24′ W); Rv = 090° − 21,5° = 068,5°.",
+    "Dec 22,0° W (22°00′ W); Rv = 090° − 22,0° = 068,0°.",
+    "Dec 22,5° W (22°36′ W); Rv = 090° − 22,5° = 067,5°."
+   ],
+   "correta": 3,
+   "explicacao": "São 6 anos × 6′ W = 36′ W; como a variação tem o mesmo sentido da declinação, soma: 22°00′ + 36′ = 22°36′ W, que a 0,5° vale 22,5° W. Então Rv = Rmg + Dec = 090° − 22,5° = 067,5°. 112,5° soma, com o sinal trocado. 21,5° subtrai a variação, e 22,0° nem atualiza a declinação para 2026.",
+   "referencia": "Miguens, vol. I, cap. 3, itens 3.2.3 e 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 3,
+   "enunciado": "Na carta, um alinhamento tem Mv 078°. A declinação magnética atualizada é 21° W. Governando sobre o alinhamento, o timoneiro lê Rag 103°. Qual é o desvio da agulha nessa proa?",
+   "alternativas": [
+    "4° W, porque Rmg = 078° + 21° = 099° e Dag = 099° − 103°.",
+    "4° E, porque o desvio é calculado como 103° − 099°, com o sinal trocado.",
+    "25° W, porque Dag = 078° − 103°, sem considerar a declinação.",
+    "46° W, porque o Rmg foi calculado como 078° − 21° = 057°."
+   ],
+   "correta": 0,
+   "explicacao": "Primeiro passa-se o alinhamento ao magnético: Rmg = Mv − Dec = 078° + 21° = 099°. O desvio é Dag = Rmg − Rag = 099° − 103° = −4°, ou seja, 4° W. Calcular 103° − 099° dá 4° E, com o sinal trocado. 25° compara o verdadeiro com a agulha, misturando a declinação com o desvio. 46° aplica a declinação W com o sinal errado.",
+   "referencia": "Miguens, vol. I, cap. 3, itens 3.2.4 h e 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 2,
+   "enunciado": "No Rv 130°, você avista um farol na marcação polar 070° BB. Qual é a marcação verdadeira do farol?",
+   "alternativas": [
+    "060°, porque Mr = 360° − 70° = 290° e Mv = 290° + 130° − 360°.",
+    "200°, tratando a marcação polar como se fosse para boreste.",
+    "290°, tomando a marcação relativa como se fosse a verdadeira.",
+    "420°, esquecendo de tirar 360° da soma."
+   ],
+   "correta": 0,
+   "explicacao": "A marcação polar para bombordo vira relativa por Mr = 360° − Mp = 290°. Depois, Mv = Mr + Rv = 290° + 130° = 420°, e tira-se 360°: 060°. 200° é 70° + 130°, a conta para boreste. 420° é a soma sem o ajuste de 360°. 290° é a marcação relativa, que não se traça na carta.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.8",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 3,
+   "enunciado": "Navegando no Rag 070°, você marca um farol na marcação da agulha 120°. A curva de desvios dá 2° E para a proa 070° e 4° E para a direção 120°. A declinação é 20° W. Qual é a marcação verdadeira a traçar na carta?",
+   "alternativas": [
+    "142°, porque Mv = 122° + 20°, com o sinal da declinação trocado.",
+    "100°, porque Mmg = 120° e só se aplica a declinação.",
+    "104°, porque Mmg = 120° + 4° = 124°, com o desvio da direção da marcação.",
+    "102°, porque Mmg = 120° + 2° = 122°, com o desvio da proa, e Mv = 122° − 20°."
+   ],
+   "correta": 3,
+   "explicacao": "O desvio de uma marcação é o da proa do barco no instante da observação (2° E), e não o da direção do objeto. Mmg = 120° + 2° = 122°, e Mv = 122° − 20° = 102°. 104° entra na curva com a marcação, o erro clássico. 100° esquece o desvio. 142° soma a declinação W.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 b",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 1,
+   "enunciado": "De que depende a declinação magnética num ponto da Terra?",
+   "alternativas": [
+    "Da proa do barco, que muda a cada guinada.",
+    "Só do ano, porque é igual em toda a costa brasileira.",
+    "Do local e do ano, e não tem relação com o barco que está ali.",
+    "Do ferro e do equipamento elétrico instalados a bordo."
+   ],
+   "correta": 2,
+   "explicacao": "A declinação é a diferença entre o Norte verdadeiro e o magnético no lugar, e varia com a posição e com o tempo (por isso a rosa traz o ano e a variação anual). Depender da proa e do ferro de bordo é característica do desvio da agulha. E não é igual em toda a costa: no Sul e no Nordeste os valores diferem.",
+   "referencia": "Miguens, vol. I, cap. 3, itens 3.2.3 e 3.2.4",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 2,
+   "enunciado": "Numa carta estrangeira, a declinação é 15° E. Você quer seguir para o Norte verdadeiro (Rv 000°). Qual é o rumo magnético?",
+   "alternativas": [
+    "000°, deixando de aplicar a declinação.",
+    "345°, porque Rmg = Rv − Dec e, com Dec E, o Rmg é menor.",
+    "015°, somando a declinação E ao rumo verdadeiro.",
+    "330°, aplicando a declinação E duas vezes."
+   ],
+   "correta": 1,
+   "explicacao": "Com declinação E, o Norte magnético fica a leste do verdadeiro, então para apontar ao Norte verdadeiro a proa deve ficar 15° à esquerda do magnético: Rmg = 000° − 15° = 345°. Somar dá o sinal trocado (015°). 000° ignora a declinação. 330° subtrai 30°.",
+   "referencia": "Miguens, vol. I, cap. 3, itens 3.2.3 e 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 3,
+   "enunciado": "A curva de desvios dá 4° E para a proa 150° e 5° E para a proa 180°. Você governa no Rag 165° e a declinação é 20° W. Qual é o rumo verdadeiro, com valores a 0,5°?",
+   "alternativas": [
+    "145,0°, esquecendo o desvio da agulha.",
+    "140,5°, subtraindo o desvio E em vez de somá-lo.",
+    "149,5°, porque Dag = 4,5° E e Rmg = 169,5°.",
+    "189,5°, somando o desvio E e também a declinação W."
+   ],
+   "correta": 2,
+   "explicacao": "Entra-se na curva com a proa: 165° está no meio entre 150° (4° E) e 180° (5° E), logo Dag = 4,5° E. Rmg = 165° + 4,5° = 169,5° e Rv = 169,5° − 20° = 149,5°. 189,5° soma a declinação W. 145° é 165° − 20°. 140,5° subtrai o desvio E.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 1,
+   "enunciado": "Qual é o rumo recíproco do rumo 305°?",
+   "alternativas": [
+    "125°",
+    "055°",
+    "215°",
+    "035°"
+   ],
+   "correta": 0,
+   "explicacao": "A recíproca difere de 180°: 305° − 180° = 125°. 055° é 360° − 305°, o complemento para o círculo inteiro. 215° e 035° são perpendiculares ao rumo (305° − 90° e 305° + 90° − 360°), não a direção oposta.",
+   "referencia": "Miguens, vol. I, cap. 2, Apêndice A, item C",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Rumos, marcações e agulha",
+   "dificuldade": 2,
+   "enunciado": "Veja a figura. O veleiro governa no Rv 140° e o farol está exatamente pelo través de bombordo. Qual é a marcação verdadeira do farol?",
+   "alternativas": [
+    "230°, porque o través fica a boreste e Mv = 090° + 140°.",
+    "320°, porque o farol está pela popa, a 180° do rumo.",
+    "140°, porque a marcação do través é igual ao rumo.",
+    "050°, porque Mr = 270° e Mv = 270° + 140° − 360°."
+   ],
+   "correta": 3,
+   "explicacao": "O través de bombordo é a marcação relativa 270° (ou polar 090° BB). Mv = Mr + Rv = 270° + 140° = 410°, e tira-se 360°: 050°. 230° seria o través de boreste. 140° é o próprio rumo, que corresponde à marcação pela proa (Mr 000°). 320° é 140° + 180°, a marcação pela popa.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.8",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 200\" role=\"img\" aria-label=\"Veleiro visto de cima, com a proa para cima, e um farol exatamente pelo través de bombordo, no lado esquerdo\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M200 40 C225 80 228 130 218 160 L182 160 C172 130 175 80 200 40 Z\" fill=\"var(--nav-white)\" stroke=\"var(--ink)\" stroke-width=\"2\"/>\n<line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"14\" stroke=\"var(--ink)\" stroke-width=\"2\"/>\n<path d=\"M194 22 L200 12 L206 22\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\"/>\n<line x1=\"60\" y1=\"108\" x2=\"196\" y2=\"108\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/>\n<circle cx=\"52\" cy=\"108\" r=\"9\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\"/>\n<path d=\"M52 99 L52 117 M43 108 L61 108\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/>\n<g fill=\"var(--ink)\" font-size=\"12\" font-family=\"sans-serif\">\n<text x=\"214\" y=\"22\">proa</text>\n<text x=\"30\" y=\"140\">farol</text>\n<text x=\"100\" y=\"100\">BB</text>\n<text x=\"240\" y=\"108\">BE</text>\n</g></svg>"
+   }
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_nco-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.4.1 f e Anexo 5-E (ZIP) exigem firma em cartório ou assinatura gov.br de ETN, instrutor e aluno. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "com reconhecimento de firma em cartório, ou assinatura digital pelo GOV.BR do representante legal da ETN, do instrutor e do aluno, conforme anexo 5-E"
+  },
+  {
+   "id": "loc_nco-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Texto vigente da NORMAM-211 (consolidado 03/03/2026) traz a Nota literal; Seção II do Cap. 6 trata do credenciamento de ETN-A/PF. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "mediante treinamento náutico (aulas práticas) em estabelecimentos de treinamento náutico/pessoas físicas devidamente credenciadas nas CP/DL/AG, conforme estabelecido na Seção II do Capítulo 6"
+  },
+  {
+   "id": "loc_nco-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Anexo 5-E do ZIP (mais novo) mantém '(mínimo de seis horas)' no campo de horas. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "cumpriu ______ horas de treinamento teórico e prático em (mínimo de seis horas) embarcação de esporte e/ou recreio"
+  },
+  {
+   "id": "loc_nco-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Anexo 5-E do ZIP traz os dois quadros com os títulos citados (teórico no ambiente náutico; prático a bordo em navegação). Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "PLANO DE TREINAMENTO PRÁTICO – ARRAIS-AMADOR REALIZAÇÃO OBRIGATÓRIA A BORDO EM NAVEGAÇÃO"
+  },
+  {
+   "id": "loc_nco-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 6.7.5 vigente limita a área do ETN-A/PF aos municípios da jurisdição da CP/DL/AG credenciadora (a conclusão 'por isso' é inferência razoável). Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "A área de atuação dos ETN-A/PF credenciados para o treinamento náutico para Arrais-Amador limita-se aos municípios pertencentes à jurisdição da CP/DL/AG que realizou o seu credenciamento."
+  },
+  {
+   "id": "loc_nco-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 6.7.1 vigente exige no mínimo dois anos de habilitação ARA, MSA ou CPA (ou correspondência pelo 5.3.4). Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "o instrutor deverá possuir, no mínimo, dois anos de habilitação nas categorias de ARA, MSA ou CPA, ou profissional com correspondência"
+  },
+  {
+   "id": "loc_nco-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.5.2 a e b vigentes: CHA-VLA facultativa, embarcações miúdas só à vela, idade mínima oito anos. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela. ... idade mínima de oito anos."
+  },
+  {
+   "id": "loc_nco-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.5.2 vigente: médio/grande porte à vela segue a área (ARA interior, MSA costeira, CPA oceânica); a frase é parágrafo após a alínea b, locator aproximado. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente."
+  },
+  {
+   "id": "loc_nco-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 5.5.2 c VII vigente exige declaração conforme anexo 5-G; Anexo 5-G do ZIP remete ao programa do anexo 5-B. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "declaração da marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado, conforme constante no anexo 5-G, comprovando que o interessado realizou o curso de veleiro"
+  },
+  {
+   "id": "loc_nco-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 6.8 vigente mantém o credenciamento de ETN-VLA junto à CP/DL/AG da área de jurisdição (a sigla ETN-VLA é do título da Seção III). Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "poderão organizar cursos em suas sedes, voltados para a formação na categoria de veleiro devendo, entretanto, serem credenciados junto às CP/DL/AG localizada em sua área de jurisdição"
+  },
+  {
+   "id": "loc_nco-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 6.2 vigente exige Certificado de Cadastramento válido junto à CP/DL/AG da jurisdição. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "somente os estabelecimentos que possuam o certificado de cadastramento válido junto às CP/DL/AG de sua jurisdição poderão funcionar como marina, clube e entidade desportiva náutica"
+  },
+  {
+   "id": "loc_nco-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 6.2.1 a I a III vigentes listam TIE/PRPM, CHA/CIR e Aviso de Saída ou App NAVSEG. Página-índice da DPC (07/10/2026) ainda lista como vigente a Portaria DPC/DGN/MB nº 200 de 27/02/2026, sem portaria posterior.",
+   "evidence_quote": "i) a apresentação do TIE ou PRPM dentro da validade; ii) a apresentação da CHA ou CIR do condutor, dentro da validade; e iii) o preenchimento do Aviso de Saída, ou registro no App NAVSEG"
+  },
+  {
+   "id": "loc_nco-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpaor/amadores",
+   "notes": "Página CPAOR (atualizada 28/07/2026) segue exigindo o atestado e linkando o PDF de 26/02/2026, que lista exatamente 5 estabelecimentos, todos em Belém-PA.",
+   "evidence_quote": "atestado treinamento náutico para arrais-amador emitidos por estabelecimento de treinamento náutico cadastrado nas CP/DL/AG"
+  },
+  {
+   "id": "loc_nco-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfaoc/node/31",
+   "notes": "Reaberta em 07/10/2026: ainda 'Atualizado em 13/08/2025 - 16:35' e cita Manaus, Itacoatiara, Parintins, Boa Vista e Caracaraí.",
+   "evidence_quote": "Publicado em 10/07/2018 - 11:24 Atualizado em 13/08/2025 - 16:35"
+  },
+  {
+   "id": "loc_nco-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfb/escolanauticacadastradas",
+   "notes": "Reaberta: 'Atualizado em 13/07/2026' e 11 itens numerados; ressalva menor: itens 6 e 7 ficam em Alexânia-GO e Porangatu-GO, então 'DF e entorno' é aproximação (melhor 'DF e Goiás').",
+   "evidence_quote": "Publicado em 05/11/2015 - 10:50 Atualizado em 13/07/2026 - 15:41"
+  },
+  {
+   "id": "loc_nco-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfgo/node/5",
+   "notes": "Reaberta: 'Atualizado em 01/10/2025 - 08:46' e 13 estabelecimentos listados, todos em Goiás.",
+   "evidence_quote": "Publicado em 11/02/2021 - 17:28 Atualizado em 01/10/2025 - 08:46"
+  },
+  {
+   "id": "loc_nco-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfpn/sites/www.marinha.mil.br.cfpn/files/CFPN%20E%20AGMURT%20-%20Entidades%20de%20Treinamento%20N%C3%A1utico%20Cadastradas_0.pdf",
+   "notes": "Auto-checagem falhou só por acentos; o PDF, ainda linkado em cfpn/Amadores, tem o texto e validade/portaria por ETN (duas validades, 19/03/2026 e 01/04/2026, já venceram em 07/10/2026).",
+   "evidence_quote": "devidamente credenciados e aptos a certificar o ATESTADO DE TREINAMENTO NÁUTICO PARA MOTONAUTA (anexo 3-B da NORMAM-212/DPC) e ATESTADO DE TREINAMENTO NÁUTICO PARA ARRAIS-AMADOR (anexo 5-E da NORMAM-211/DPC)"
+  },
+  {
+   "id": "loc_nco-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfat/escolas_nauticas",
+   "notes": "Reaberta: ainda 'Atualizado em 09/08/2023 - 15:53', portanto a ressalva de lista possivelmente desatualizada procede.",
+   "evidence_quote": "Publicado em 17/01/2018 - 13:19 Atualizado em 09/08/2023 - 15:53"
+  },
+  {
+   "id": "loc_nco-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://cbvela.com.br/federacoes/",
+   "notes": "Reaberta: página diz 13 estados e lista 13 federações (BA, DF, CE, ES, MG, PB, PR, PE, RJ, RN, RS, SC, SP); a única de Norte/Centro-Oeste é a FNB.",
+   "evidence_quote": "O esporte da vela está organizado em 13 estados brasileiros por meio das entidades estaduais de administração da vela"
+  }
+ ]
+}

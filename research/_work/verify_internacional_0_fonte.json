@@ -1,0 +1,184 @@
+{
+ "verdicts": [
+  {
+   "id": "internacional-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/start-yachting-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/start-yachting-course/",
+   "notes": "Campo 'Minimum age: Recommended age 8' literal na ficha; divergência com 16 anos do texto é real."
+  },
+  {
+   "id": "internacional-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/start-yachting-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/competent-crew-practical-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/competent-crew-practical-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/competent-crew-practical-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-theory-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-theory-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/day-skipper-practical-sailing/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipper-practical-sailing-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipper-practical-sailing-course/",
+   "notes": "Duração mínima 5 dias e pré-requisito Day Skipper Practical literais; a parte 'ênfase offshore dia/noite' não apareceu no trecho de contexto (menor)."
+  },
+  {
+   "id": "internacional-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipperyachtmaster-offshore-theory-course/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/coastal-skipperyachtmaster-offshore-theory-course/",
+   "notes": "Frase literal na página; ressalva do pesquisador sobre exames não listarem o certificado é apropriada."
+  },
+  {
+   "id": "internacional-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/yachtmaster-ocean-theory-course/",
+   "notes": "Pré-requisito, 40h+exame e formato online literais no contexto; temas (sextante etc.) coerentes com o conteúdo listado."
+  },
+  {
+   "id": "internacional-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-coastal-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-offshore-exam/",
+   "notes": "Trecho achado literalmente na fonte e contexto bate com a afirmação."
+  },
+  {
+   "id": "internacional-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/training/certificates-of-competence/yachtmaster-offshore-exam/",
+   "notes": "50 dias em iates até 500gt nos últimos 10 anos literal; redução a 25 dias só para quem já tem Offshore em outra disciplina, conforme nota."
+  }
+ ]
+}

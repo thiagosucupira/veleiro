@@ -1,0 +1,70 @@
+{
+ "claims": [
+  {
+   "id": "extra-mestre-1-01",
+   "topic": "equipamentos-de-navegacao",
+   "claim": "Pela NORMAM-211, todas as embarcações, exceto as miúdas, devem ter agulha magnética de governo; as de comprimento igual ou maior que 24 m devem ter também certificado de compensação ou curva de desvio, atualizados a cada 2 anos.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.19.1 a), p. 4-9 e 4-10",
+   "quote": "a) Agulha magnética de governo - todas as embarcações, exceto as miúdas, deverão estar equipadas com agulha magnética de governo. [...] As embarcações com comprimento igual ou maior que 24 metros deverão possuir, também, certificado de compensação ou curva de desvio, atualizados a cada 2 anos.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 no PDF consolidado (research/acervo/normam-211.txt, linhas ~4224-4238)."
+  },
+  {
+   "id": "extra-mestre-1-02",
+   "topic": "equipamentos-de-navegacao",
+   "claim": "Pela NORMAM-211, embarcações de médio porte devem ter GNSS: 1 aparelho na navegação costeira e 2 na oceânica (recomendado que ao menos um tenha fonte de energia independente).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.19.2 a), p. 4-10",
+   "quote": "a) Sistema Global de Navegação - GNSS - as embarcações de médio porte deverão ser dotadas desses aparelhos nas seguintes situações: I) Navegação costeira: 1 (um) aparelho; e II) Navegação oceânica: 2 (dois) aparelhos (*). [...] (*) Recomendado que pelo menos um aparelho opere também com fonte independente de energia acumulada (pilha, bateria etc).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 (research/acervo/normam-211.txt, linhas ~4239-4246). O texto diz ainda que as subalíneas I) e II) são obrigatórias a partir de 31/12/2020."
+  },
+  {
+   "id": "extra-mestre-1-03",
+   "topic": "equipamentos-de-navegacao",
+   "claim": "Pela NORMAM-211, embarcações de grande porte ou iates construídos após 11/02/2000 devem ter ecobatímetro; para as embarcações menores o emprego é recomendado.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.19.3 b), p. 4-10",
+   "quote": "b) Ecobatímetro - as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 (research/acervo/normam-211.txt, linhas ~4252-4254)."
+  },
+  {
+   "id": "extra-mestre-1-04",
+   "topic": "publicacoes-a-bordo",
+   "claim": "Pela NORMAM-211, as embarcações de esporte e recreio, exceto as miúdas, devem ter a bordo cartas náuticas das regiões em que pretendem operar, em local acessível e apropriado; um Sistema de Cartas Eletrônicas (ECS) pode ser aceito para atender a essa exigência.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.20 (Publicações), p. 4-10",
+   "quote": "As embarcações de esporte e recreio, exceto as miúdas, deverão dotar cartas náuticas relativas às regiões em que pretendem operar, em local acessível e apropriado. Poderá ser aceito um Sistema de Cartas Eletrônicas (ECS - Electronic Chart System) como atendendo as exigências deste requisito com relação à existência de cartas a bordo.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 (research/acervo/normam-211.txt, linhas ~4262-4266). Mesmo fato que extra-mestre-2-01; registrado aqui para esta parte do curso."
+  },
+  {
+   "id": "extra-mestre-1-05",
+   "topic": "equipamentos-de-navegacao",
+   "claim": "No quadro-resumo da NORMAM-211 para navegação costeira, a agulha magnética é obrigatória para embarcações de médio porte e, para as de grande porte ou iates, obrigatória compensada ou com curva de desvio válida por 2 anos.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Capítulo 4, Seção V, art. 4.34 (quadro das embarcações classificadas para navegação costeira), item 01, p. 4-20",
+   "quote": "4.34. EMBARCAÇÕES CLASSIFICADAS PARA NAVEGAÇÃO COSTEIRA [...] 01 AGULHA MAGNÉTICA 4.19 Obrigatória Obrigatória (Compensada ou curva de desvio, válido por 2 anos)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 (research/acervo/normam-211.txt, linhas ~4745-4758). Colunas do quadro: médio porte = 'Obrigatória'; grande porte ou iates = 'Obrigatória (Compensada ou curva de desvio, válido por 2 anos)'. Grande porte = comprimento igual ou maior que 24 m (glossário da norma)."
+  },
+  {
+   "id": "extra-mestre-1-06",
+   "topic": "publicacoes-dhn",
+   "claim": "O Catálogo de Cartas e Publicações vigente do CHM é o de 2026-2030 (15ª edição), e as cartas e publicações nele listadas podem ser compradas no Posto de Vendas da EMGEPRON na Base de Hidrografia da Marinha em Niterói ou no site cartasnauticasbrasil.com.br.",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/catalogo-de-cartas-e-publicacoes",
+   "locator": "CHM, página 'Catálogo de Cartas e Publicações' (atualizada em 26/08/2026)",
+   "quote": "CATÁLOGO DE CARTAS E PUBLICAÇÕES 2026-2030 [...] As cartas e publicações náuticas constantes do Catálogo de Cartas e Publicações poderão ser adquiridas no Posto de Vendas da EMGEPRON, situado na Base de Hidrografia da Marinha em Niterói (BHMN) [...] ou na página de comércio eletrônico \"http://www.cartasnauticasbrasil.com.br\". [...] 15ª edição",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 pelo serviço de navegador (localhost:8799). A página diz também: 'Atualizado até o folheto de Avisos aos Navegantes nº 14/2026'."
+  }
+ ]
+}

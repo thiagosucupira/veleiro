@@ -1,0 +1,235 @@
+{
+ "verdicts": [
+  {
+   "id": "travessia-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.21.3 marcado MoMu1,2,3 (Cat.1-3), igual na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "at least 2 L (0.5 US Gal) per person of drinking water for emergency use in a dedicated and sealed container"
+  },
+  {
+   "id": "travessia-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.24 a) e b) marcados Cat.0-3, igual na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "permanently installed marine magnetic steering compass, independent of any power supply, correctly adjusted with deviation card"
+  },
+  {
+   "id": "travessia-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.11.1 Cat.0-3, igual na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "Navigational charts (not solely electronic) and chart plotting equipment."
+  },
+  {
+   "id": "travessia-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.02.2/3.02.3 marcados Mo0,1,2 (24 meses ou após encalhe), igual na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "Evidence of a structural inspection in accordance with 3.02.2 a) within 24 months before the start of the race or after a grounding"
+  },
+  {
+   "id": "travessia-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "5.01.1 e itens a-e conferem (arnês Mo0,1,2; sprayhood e luz 0-3), igual na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "A gas inflatable lifejacket which shall comply with ISO 12402-3 (Level 150) and have been manufactured after 2011"
+  },
+  {
+   "id": "travessia-39",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "5.02.2/5.02.3 conferem, inalterados na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "not exceed 2 m (6'-6\") including the length of the hook(s)"
+  },
+  {
+   "id": "travessia-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "6.01.2 marcado MoMu1,2, inalterado na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "At least 30% but not fewer than two crewmembers, including the person in charge shall have undertaken training within the five years"
+  },
+  {
+   "id": "travessia-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "6.01.4 confere, inalterado na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "an in-date certificate gained at a World Sailing approved Offshore Personal Survival Training course shall be accepted"
+  },
+  {
+   "id": "travessia-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "6.04 marcado ** (todas as categorias), inalterado na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "At least annually the crews shall practice the drills for: a) crew-overboard recovery, and b) abandonment of vessel."
+  },
+  {
+   "id": "travessia-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "6.05.2 marcado MoMu1 com itens a/b, inalterado na v2. (OSR 2026-2027 v1 em vigor; texto idêntico na v2 que vale a partir de 01/01/2027, página sailing.org/offshore-special-regulations/)",
+   "evidence_quote": "At least two crewmembers shall have a valid first aid certificate completed within the last five years"
+  },
+  {
+   "id": "travessia-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/activities-services/technical-offshore/technical-services/technical-and-offshore-safety/offshore-safety/offshore-personal-survival/",
+   "notes": "Página reaberta em 08/10/2026: códigos de país listados (ARG, POR, RSA etc.) sem BRA.",
+   "evidence_quote": "Offshore Personal Survival Course Providers Argentina (ARG)"
+  },
+  {
+   "id": "travessia-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.sailing.org/inside-world-sailing/activities-services/technical-offshore/technical-services/technical-and-offshore-safety/offshore-safety/osr-recognised-first-aid-qualifications/",
+   "notes": "Página reaberta: lista (AUS, AUT, CAN... USA) sem Brasil; OSR 6.05.2 b) admite STCW A-VI/1-3.",
+   "evidence_quote": "The following is a list of MNA recognised courses that are valid for use in that country"
+  },
+  {
+   "id": "travessia-46",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc",
+   "notes": "Página ARC reaberta em 08/10/2026, texto idêntico.",
+   "evidence_quote": "Around 150 boats set sail every year in November, sailing from Las Palmas on the island of Gran Canaria to Rodney Bay on Saint Lucia."
+  },
+  {
+   "id": "travessia-47",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc",
+   "notes": "Página ARC reaberta, texto idêntico.",
+   "evidence_quote": "The 2,700NM Atlantic crossing takes around 18-21 days for the average yacht."
+  },
+  {
+   "id": "travessia-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc",
+   "notes": "Datas ARC 2026 reconfirmadas na página atual.",
+   "evidence_quote": "ARC 2026 sets sail from Las Palmas on 22 November 2026, with the prizegiving in Saint Lucia on 19 December."
+  },
+  {
+   "id": "travessia-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc",
+   "notes": "Datas ARC 2027 reconfirmadas na página atual.",
+   "evidence_quote": "ARC 2027 sets sail from Las Palmas on the 21 November 2027, with prizegiving in Saint Lucia on the 18 December."
+  },
+  {
+   "id": "travessia-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc",
+   "notes": "Faixa 27-100 pés (8,23-32 m) reconfirmada.",
+   "evidence_quote": "sailing monohulls, multihulls and even motor boats from 27 feet to 100 feet (8.23m-32m)"
+  },
+  {
+   "id": "travessia-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc",
+   "notes": "Seção Racing Division reconfirmada (a página ainda remete ao NoR 2025, sem afetar a afirmação).",
+   "evidence_quote": "Racing division yachts can't motor and must comply with World Sailing Offshore Special Regulations Category 1 and the Racing Rules of Sailing."
+  },
+  {
+   "id": "travessia-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc",
+   "notes": "Valores £1500 + £185 por pessoa ainda na página em 08/10/2026.",
+   "evidence_quote": "the 2026 cost for a 13.2m (43 feet) yacht is £1500 plus £185 crew fee per person."
+  },
+  {
+   "id": "travessia-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/articles/arc-history",
+   "notes": "Artigo reaberto, dado histórico idêntico.",
+   "evidence_quote": "The first ARC set sail from Las Palmas de Gran Canaria on 25 November 1986, with 209 yachts flying the ensigns of 24 nations."
+  },
+  {
+   "id": "travessia-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc-plus",
+   "notes": "Distâncias e prazos reconfirmados na página ARC+.",
+   "evidence_quote": "Las Palmas to Mindelo is 850NM or 5-7 days at sea, and Mindelo to Grenada is 2150NM or 12-16 days at sea."
+  },
+  {
+   "id": "travessia-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc-plus",
+   "notes": "Datas ARC+ 2026 e status waitlisting reconfirmados.",
+   "evidence_quote": "ARC+ 2026 sets sail from Las Palmas on 8 November 2026, with the prizegiving in Grenada on 10 December"
+  },
+  {
+   "id": "travessia-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc-plus",
+   "notes": "Limite de frota e faixa 27-65 pés reconfirmados.",
+   "evidence_quote": "the fleet is usually capped at just under 100 boats ranging from 27 feet to 65 feet (8.23m to 19.81m)"
+  },
+  {
+   "id": "travessia-57",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc-europe",
+   "notes": "Página ARC Europe atual: 08/05/2027, Simpson Bay/Caribe ou costa leste EUA, Bermudas, Açores, Lagos.",
+   "evidence_quote": "Setting sail from the Caribbean or US East Coast on 8 May 2027, the rally sails to Bermuda, the Azores then to mainland Europe."
+  },
+  {
+   "id": "travessia-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/events/arc-europe",
+   "notes": "Quadro de pernas reconfirmado (870/720/1800/200/875 mn; maio-junho).",
+   "evidence_quote": "Sint Maarten Bermuda 870NM ... Chesapeake Bay Bermuda 720NM ... Bermuda Faial 1800NM ... Faial Sao Miguel 200NM ... Sao Miguel Lagos, Portugal 875NM"
+  },
+  {
+   "id": "travessia-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/rally-preparations",
+   "notes": "Página Rally Preparations reaberta, texto idêntico.",
+   "evidence_quote": "We require a minimum of two adults (over 18) on every boat - no single-handers."
+  },
+  {
+   "id": "travessia-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/rally-preparations",
+   "notes": "Reconfirmado na página atual.",
+   "evidence_quote": "The smallest yacht we allow is 8.23m (27 feet)."
+  },
+  {
+   "id": "travessia-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/storage/08-preparations/documents/vE3bIRHdfrfLOLSObKnrlqH3FivjEl8duh8s4ymB.pdf",
+   "notes": "PDF SER 2026 v1 (1 mai 2025) ainda é o 'current' linkado em worldcruising.com/safety-equipment.",
+   "evidence_quote": "Division II (Racing) is run under World Sailing Offshore Special Regulations* for Category 1 and these Safety Equipment Requirements."
+  },
+  {
+   "id": "travessia-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/storage/08-preparations/documents/vE3bIRHdfrfLOLSObKnrlqH3FivjEl8duh8s4ymB.pdf",
+   "notes": "SAF-3 confere; documento atual linkado na página Safety Equipment.",
+   "evidence_quote": "A floating, water and manually activated EPIRB transmitting on 406MHz, and 121.5MHz or AIS, fitted with an internal GPS, correctly registered with the appropriate home authority."
+  },
+  {
+   "id": "travessia-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/storage/08-preparations/documents/vE3bIRHdfrfLOLSObKnrlqH3FivjEl8duh8s4ymB.pdf",
+   "notes": "Checagem automática falhou só por quebra de colunas; SAF-4 i confere no PDF.",
+   "evidence_quote": "For ARC, ARC+, ARC Europe and World ARC: A satellite communications system (or an SSB radio with pactor modem) capable of sending and receiving email messages whilst at sea."
+  },
+  {
+   "id": "travessia-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/storage/08-preparations/documents/vE3bIRHdfrfLOLSObKnrlqH3FivjEl8duh8s4ymB.pdf",
+   "notes": "SAF-8 i e iii conferem.",
+   "evidence_quote": "A transponder is a mandatory requirement. ... An AIS personal crew overboard beacon for each crew member"
+  },
+  {
+   "id": "travessia-65",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/safety-equipment",
+   "notes": "Seção Liferaft reaberta, texto idêntico.",
+   "evidence_quote": "The required standard is ISO 9650 Type 1 Group A. We do not accept coastal or aviation rafts."
+  },
+  {
+   "id": "travessia-66",
+   "verdict": "confirmado",
+   "evidence_url": "https://worldcruising.com/storage/08-preparations/documents/vE3bIRHdfrfLOLSObKnrlqH3FivjEl8duh8s4ymB.pdf",
+   "notes": "SAF-19 xvi confere.",
+   "evidence_quote": "Medical kit and instruction handbook suitable for undertaking an ocean passage with the number of crew onboard."
+  }
+ ]
+}

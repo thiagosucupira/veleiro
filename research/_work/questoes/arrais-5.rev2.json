@@ -1,0 +1,809 @@
+{
+ "questoes": [
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Carlos tem apenas a CHA de Veleiro (VLA). Ele quer conduzir, com motor auxiliar, um veleiro de cruzeiro de 14 m numa área de navegação interior. Isso é permitido?",
+   "alternativas": [
+    "Sim: a CHA de Veleiro vale para qualquer embarcação a vela na área interior.",
+    "Sim, desde que ele mantenha o motor desligado durante toda a navegação.",
+    "Não: a CHA de Veleiro cobre só embarcações miúdas a vela; aqui se exige Arrais-Amador.",
+    "Não: para veleiro de qualquer tamanho a norma exige, no mínimo, Mestre-Amador."
+   ],
+   "correta": 2,
+   "explicacao": "A CHA de Veleiro é facultativa e se destina a embarcações miúdas (até 6 m) de propulsão exclusivamente a vela. Para veleiro de médio ou grande porte, a habilitação segue a área de navegação: na interior, Arrais-Amador. Dizer que a CHA de Veleiro vale para qualquer veleiro ignora o limite de 6 m. Desligar o motor não muda o porte nem a habilitação exigida. Mestre-Amador só é exigido na navegação costeira.",
+   "referencia": "NORMAM-211/DPC, art. 5.5.2 a) e b)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Mariana quer levar sua lancha de 13 m de um porto a outro, navegando sempre à vista da costa e a no máximo 15 milhas náuticas dela. Qual é a habilitação mínima exigida?",
+   "alternativas": [
+    "Arrais-Amador",
+    "Capitão-Amador",
+    "Mestre-Amador",
+    "Veleiro"
+   ],
+   "correta": 2,
+   "explicacao": "Navegar entre portos, dentro dos limites de visibilidade da costa e sem exceder 20 MN dela, é navegação costeira, que corresponde ao Mestre-Amador. Os 15 MN do caso cabem nesse limite de 20 MN. O Arrais-Amador conduz apenas nos limites da navegação interior (águas abrigadas ou parcialmente abrigadas). O Capitão-Amador cobre a navegação sem limite de afastamento, mas não é a habilitação mínima para este caso. Veleiro vale só para embarcações a vela sem motor, por isso não serve a uma lancha.",
+   "referencia": "NORMAM-211/DPC, arts. 4.7 e 5.3.3 b)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 1,
+   "enunciado": "Um casal planeja cruzar o Atlântico, de Recife a Lisboa, em seu veleiro de 15 m. Que categoria de amador a NORMAM-211 associa a essa navegação, feita fora da visibilidade da costa e sem outro limite?",
+   "alternativas": [
+    "Mestre-Amador",
+    "Arrais-Amador",
+    "Veleiro",
+    "Capitão-Amador"
+   ],
+   "correta": 3,
+   "explicacao": "A navegação oceânica, entre portos nacionais e estrangeiros, fora dos limites de visibilidade da costa e sem outros limites, corresponde ao Capitão-Amador. O Mestre-Amador vai só até 20 MN da costa, na navegação costeira. O Arrais-Amador é da navegação interior. A CHA de Veleiro é facultativa, restrita a embarcações miúdas a vela na área interior.",
+   "referencia": "NORMAM-211/DPC, arts. 4.7 e 5.3.3 a)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "O canal de acesso a um porto é parcialmente abrigado: costuma ser calmo, mas às vezes se formam ondas significativas quando o vento sopra contra a correnteza. Como a NORMAM-211 classifica essa área?",
+   "alternativas": [
+    "Navegação interior, Área 1",
+    "Navegação costeira",
+    "Navegação oceânica",
+    "Navegação interior, Área 2"
+   ],
+   "correta": 3,
+   "explicacao": "Área 2 é a área parcialmente abrigada onde eventualmente há ondas significativas e/ou combinações adversas de vento, correnteza ou maré. A Área 1 é abrigada e normalmente sem ondas significativas. Costeira e oceânica são outras navegações: a costeira vai até 20 MN da costa, dentro da visibilidade, e a oceânica começa além disso. Os limites exatos de cada área interior constam nas NPCP/NPCF da Capitania.",
+   "referencia": "NORMAM-211/DPC, art. 1.7 (navegação interior, Áreas 1 e 2) e art. 4.7",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro tem 5,8 m de casco (da proa à popa), um gurupé que avança 0,7 m à frente da proa e uma plataforma de mergulho na popa que avança 0,4 m. Pela NORMAM-211, qual é o comprimento da embarcação e como ela se classifica?",
+   "alternativas": [
+    "6,2 m: não é miúda, porque a plataforma de mergulho conta",
+    "5,8 m: é embarcação miúda, pois só o casco conta",
+    "6,5 m: não é miúda, porque o gurupé conta",
+    "6,9 m: não é miúda, porque gurupé e plataforma contam"
+   ],
+   "correta": 1,
+   "explicacao": "O comprimento é a distância horizontal entre os extremos de proa e popa; plataformas de mergulho, gurupés e apêndices similares não entram na medida. Logo, vale só o casco: 5,8 m, que é menor que 6 m, e a embarcação é miúda (comprimento menor ou igual a 6 m). As outras opções somam peças que a norma manda ignorar: 5,8 + 0,4 = 6,2 m; 5,8 + 0,7 = 6,5 m; 5,8 + 0,7 + 0,4 = 6,9 m.",
+   "referencia": "NORMAM-211/DPC, art. 1.7 (definições de embarcação miúda e de comprimento)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 1,
+   "enunciado": "Em frente a uma praia com banhistas navegam um barco a vela (com o motor desligado) e uma lancha a motor. A partir de que distância da linha de base cada um pode navegar, pela NORMAM-211?",
+   "alternativas": [
+    "Barco a vela: a partir de 200 m; lancha a motor: a partir de 100 m",
+    "Barco a vela e lancha a motor: ambos a partir de 100 m",
+    "Barco a vela: a partir de 100 m; lancha a motor: a partir de 200 m",
+    "Barco a vela e lancha a motor: ambos a partir de 200 m"
+   ],
+   "correta": 2,
+   "explicacao": "Para proteger os banhistas, embarcações a vela ou a remo só navegam a partir de 100 m da linha de base, e as a motor a partir de 200 m, pois o motor oferece mais risco. A opção invertida troca as distâncias. Usar 100 m para os dois ou 200 m para os dois ignora a diferença entre vela e motor.",
+   "referencia": "NORMAM-211/DPC, art. 1.8.1",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Marcos sai de uma rampa numa praia com banhistas e precisa levar sua lancha a motor, pela faixa próxima à linha de base, até águas livres. Como a NORMAM-211 manda fazer esse trânsito?",
+   "alternativas": [
+    "Paralelo à linha de base e abaixo de três nós",
+    "Perpendicular à linha de base e acima de dez nós",
+    "Em diagonal, em velocidade de planeio, para sair logo",
+    "Perpendicular à linha de base e abaixo de três nós"
+   ],
+   "correta": 3,
+   "explicacao": "O trânsito entre o ponto de entrada ou saída da água e a linha de base deve ser perpendicular a ela e abaixo de três nós, para atravessar a faixa dos banhistas pelo caminho mais curto e devagar. Ir paralelo à praia mantém o barco por mais tempo perto dos banhistas. Acima de dez nós e em velocidade de planeio são rápidos demais. A diagonal também alonga o trajeto.",
+   "referencia": "NORMAM-211/DPC, art. 1.8.1",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Paula obteve a CHA de Arrais-Amador há três meses e quer se inscrever no exame de Mestre-Amador. Que exigência de experiência a NORMAM-211 faz?",
+   "alternativas": [
+    "Dois anos de habilitação como Arrais-Amador, no mínimo, comprovados",
+    "Pelo menos 500 milhas náuticas navegadas, comprovadas em documento",
+    "Só a CHA de Arrais-Amador válida, sem tempo mínimo nem milhas",
+    "Pelo menos 100 dias de mar comprovados em diário de bordo"
+   ],
+   "correta": 2,
+   "explicacao": "Para o exame de Mestre-Amador o candidato deve ter a CHA de Arrais-Amador dentro da validade no ato da inscrição. Esse é o único pré-requisito de experiência citado: a norma não fala em tempo mínimo de habilitação, nem em milhas ou dias de mar. Por isso exigir dois anos, 500 milhas ou 100 dias de mar não tem base na norma.",
+   "referencia": "NORMAM-211/DPC, art. 5.4.1, Notas; Anexo 5-A, Seção I, item 2 a)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 1,
+   "enunciado": "Quantas questões e que duração máxima tem o exame de Arrais-Amador, segundo o Anexo 5-A da NORMAM-211?",
+   "alternativas": [
+    "40 questões, em até 4 horas",
+    "40 questões, em até 2 horas",
+    "40 questões, em até 3 horas",
+    "20 questões, em até 1h30"
+   ],
+   "correta": 1,
+   "explicacao": "O exame de Arrais-Amador é eletrônico ou escrito, com 40 questões e duração máxima de 2 horas. As 4 horas são do exame de Capitão-Amador. As 3 horas são do exame de Mestre-Amador. As 20 questões em 1h30 são do exame de Motonauta, regido pela NORMAM-212.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, Seção I, item 3 b)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 1,
+   "enunciado": "O que o candidato leva para a prova de Arrais-Amador, segundo o Anexo 5-A da NORMAM-211?",
+   "alternativas": [
+    "Protocolo, identificação, caneta, régua paralela, compasso e transferidor",
+    "Só o documento de identificação, pois a caneta é fornecida pela Capitania",
+    "Protocolo, identificação, caneta azul ou preta e calculadora científica",
+    "Protocolo de inscrição, identificação oficial e caneta azul ou preta"
+   ],
+   "correta": 3,
+   "explicacao": "Para o ARA o candidato leva só o protocolo de inscrição, um documento oficial de identificação e caneta azul ou preta. O material de desenho (régua, esquadros, transferidor, compasso) é pedido nas provas de Mestre e de Capitão, que têm questões de carta e de navegação. A norma não diz que a caneta é fornecida pela Capitania, nem prevê calculadora.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, Seção I, item 3 d)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 3,
+   "enunciado": "Beto fez três treinamentos de Arrais-Amador em dias diferentes e recebeu atestados de 30 minutos, de 2h30 e de 3h. A soma é de 6 horas. Ele pode usar os três para se inscrever no exame?",
+   "alternativas": [
+    "Não: o de 30 minutos não vale, e os outros dois somam só 5h30",
+    "Sim: a soma chega às 6 horas mínimas exigidas para o atestado",
+    "Sim: o mínimo de 1 hora vale para a soma, não para cada atestado",
+    "Não: a norma só aceita um único atestado, de 6 horas seguidas"
+   ],
+   "correta": 0,
+   "explicacao": "O atestado exige no mínimo 6 horas de treinamento (2 h de teoria e 4 h de prática). A norma aceita mais de um atestado para somar o treinamento, desde que o tempo de cada um não seja inferior a 1 hora. O de 30 minutos não atinge esse mínimo e não conta; os dois restantes somam 2h30 + 3h = 5h30, abaixo das 6 horas. Dizer que a soma de 6 horas basta ignora o mínimo por atestado. A norma não exige um único atestado.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-E (campo de horas e Obs. 3) e Anexo 5-A, Seção II, item a)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "O atestado de treinamento de Arrais-Amador de Júlia foi emitido há 26 meses, e ela ainda não fez a inscrição para o exame. Em relação à validade, o atestado:",
+   "alternativas": [
+    "Está vencido, pois vale 2 anos a partir da emissão",
+    "Continua válido, pois vale 3 anos a partir da emissão",
+    "Continua válido, pois vale 5 anos a partir da emissão",
+    "Continua válido, pois vale 10 anos, como a CHA"
+   ],
+   "correta": 0,
+   "explicacao": "O atestado de treinamento de Arrais-Amador vale em todo o país por 2 anos a partir da emissão (24 meses). Com 26 meses, está vencido. Os prazos de 3 e 5 anos não constam da norma. Os 10 anos são a validade da CHA, que é outro documento.",
+   "referencia": "NORMAM-211/DPC, Anexo 5-E, Obs. 1",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Seu Antônio, de 66 anos, recebe a CHA em 2026. Em que ano ela vence?",
+   "alternativas": [
+    "2036",
+    "2031",
+    "2028",
+    "2046"
+   ],
+   "correta": 1,
+   "explicacao": "Para quem tem 65 anos ou mais, a CHA vale cinco anos: 2026 + 5 = 2031. Em 2036 (10 anos) vence a CHA do condutor com menos de 65 anos. Em 2028 seriam 2 anos, validade do atestado de treinamento. Em 2046 seriam 20 anos, prazo que não existe na norma.",
+   "referencia": "NORMAM-211/DPC, art. 5.5.1 b) e c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 1,
+   "enunciado": "Marta pediu a renovação da sua CHA e recebeu o protocolo da Capitania. Por quanto tempo esse protocolo autoriza a conduzir embarcação?",
+   "alternativas": [
+    "Até 30 dias",
+    "Até 7 dias",
+    "Até 60 dias",
+    "Até 90 dias"
+   ],
+   "correta": 0,
+   "explicacao": "O protocolo de renovação emitido pela CP/DL/AG autoriza conduzir embarcação por até 30 dias. Os prazos de 7, 60 e 90 dias não constam da norma para esse fim.",
+   "referencia": "NORMAM-211/DPC, art. 5.5.4, Notas",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 3,
+   "enunciado": "A CHA de Rui venceu há 4 anos e 10 meses, e ele ainda não a renovou. Qual é a situação dele?",
+   "alternativas": [
+    "Perdeu o direito: precisa de nova inscrição e novo exame",
+    "Pode renovar a qualquer tempo, pagando multa adicional pelo atraso",
+    "Basta pedir segunda via na Capitania, sem pagar a GRU de renovação",
+    "Pode renovar sem novo exame, se pagar a GRU até 5 anos após o vencimento"
+   ],
+   "correta": 3,
+   "explicacao": "Ele ainda não perdeu o direito: a renovação sem novo exame vale até a data-limite (validade mais cinco anos). Depois dela, o amador precisa de novo processo de inscrição e exame. Rui está a 2 meses desse limite, então basta pagar a GRU de renovação e depois agendar o serviço. Depois do prazo, multa não reabre a renovação, e a segunda via não resolve: com a CHA digital não há segunda via.",
+   "referencia": "NORMAM-211/DPC, art. 5.5.4, Notas",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Rafael teve a cédula da sua CHA furtada. Que procedimento a NORMAM-211 prevê para quem tem a CHA digital?",
+   "alternativas": [
+    "Pedir segunda via, que só pode ser feita na Capitania que emitiu a CHA",
+    "Pedir renovação em qualquer Capitania, com anexo 5-D ou boletim de ocorrência",
+    "Refazer o treinamento náutico e o exame de Arrais-Amador por completo",
+    "Esperar o vencimento da CHA, pois não há como substituir a cédula"
+   ],
+   "correta": 1,
+   "explicacao": "Com a CHA digital não existe segunda via: a cédula extraviada, roubada, furtada ou danificada só pode ser renovada, em qualquer Capitania, com requerimento e a declaração do anexo 5-D ou um boletim de ocorrência. Pedir segunda via somente na Capitania de origem contraria isso. Não é preciso refazer o exame, e esperar o vencimento deixaria Rafael sem poder conduzir.",
+   "referencia": "NORMAM-211/DPC, art. 5.5.5",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 1,
+   "enunciado": "Na abordagem de um inspetor naval, o bafômetro de um condutor indica 0,30 mg de álcool por litro de ar alveolar. O que diz a NORMAM-211?",
+   "alternativas": [
+    "Ele não é considerado embriagado, pois o limite é 0,50 mg/L",
+    "Ele não é considerado embriagado, pois o limite é 0,40 mg/L",
+    "Ele é considerado embriagado, pois o limite é 0,25 mg/L",
+    "Só se configura embriaguez se também houver acidente"
+   ],
+   "correta": 2,
+   "explicacao": "Há embriaguez a partir de 0,25 mg de álcool por litro de ar alveolar (ou 0,05% de álcool no sangue). Como 0,30 mg/L é maior que 0,25, o condutor está embriagado. Os limites de 0,50 e 0,40 mg/L não existem na norma. A embriaguez independe de acidente.",
+   "referencia": "NORMAM-211/DPC, art. 7.12.2",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 3,
+   "enunciado": "Na abordagem de um inspetor naval, o condutor de uma lancha se recusa a fazer o teste de alcoolemia. O que prevê a NORMAM-211?",
+   "alternativas": [
+    "Fica impedido de conduzir e sujeito a multa do grupo C ou suspensão de até 30 dias",
+    "Nada acontece: ninguém é obrigado a produzir prova contra si, e ele segue navegando",
+    "Multa do grupo E e cancelamento imediato da CHA, ainda que seja a primeira vez",
+    "Apenas advertência verbal, e ele pode seguir navegando se parecer estar sóbrio"
+   ],
+   "correta": 0,
+   "explicacao": "Quem se recusa ao teste é notificado pelo inciso VIII do art. 23 do RLESTA e fica impedido de conduzir a embarcação. A penalidade é multa do grupo C ou suspensão da habilitação por até 30 dias. A recusa não deixa o condutor livre para seguir navegando. O grupo E e o cancelamento imediato não são a penalidade prevista, e a advertência verbal também não.",
+   "referencia": "NORMAM-211/DPC, art. 7.12.1; RLESTA (Decreto nº 2.596/1998), art. 23, VIII",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Júlia tem CHA válida, mas a esqueceu em casa e foi abordada navegando. Qual infração do RLESTA ela cometeu?",
+   "alternativas": [
+    "Art. 11 (conduzir sem habilitação): multa do grupo E, a mais alta",
+    "Art. 12, II (não portar): multa do grupo B ou suspensão de até 60 dias",
+    "Art. 12, III (habilitação vencida): multa do grupo A ou suspensão de até 30 dias",
+    "Nenhuma infração, pois basta apresentar a CHA depois à Capitania"
+   ],
+   "correta": 1,
+   "explicacao": "A habilitação é de porte obrigatório. Não portá-la, mesmo tendo, é infração do art. 12, II, com multa do grupo B ou suspensão por até 60 dias. O art. 11 e o art. 12, I tratam de quem não tem a habilitação, e o art. 12, III trata de habilitação vencida: nenhum é o caso de Júlia, cuja CHA é válida. Apresentar depois não afasta a infração, já que o porte é exigido durante a condução.",
+   "referencia": "RLESTA (Decreto nº 2.596/1998), art. 12, II; NORMAM-211/DPC, art. 4.1",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 3,
+   "enunciado": "Tiago é abordado navegando com a CHA vencida há dois anos. Que consequências a NORMAM-211 e o RLESTA preveem?",
+   "alternativas": [
+    "Art. 12, III (multa do grupo A ou suspensão de até 30 dias) e retirada de tráfego do barco",
+    "Art. 11 (multa do grupo E) e apreensão do barco, como se não tivesse habilitação",
+    "Art. 12, III (multa do grupo A ou suspensão de até 30 dias), com retirada de tráfego e apreensão do barco",
+    "Apenas orientação, pois a CHA vencida há menos de 5 anos ainda vale para navegar"
+   ],
+   "correta": 0,
+   "explicacao": "Quem porta CHA vencida é autuado pelo art. 12, III, com multa do grupo A ou suspensão por até 30 dias. Vencida há até 5 anos, a embarcação que estiver navegando é retirada de tráfego. A apreensão é para CHA vencida há mais de 5 anos ou condutor não habilitado, e o art. 11 é para quem conduz sem habilitação. O prazo de 5 anos serve para renovar sem novo exame, não torna a CHA vencida válida.",
+   "referencia": "RLESTA (Decreto nº 2.596/1998), art. 12, III; NORMAM-211/DPC, art. 7.9.1",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Seu Jorge empresta a lancha a um sobrinho que nunca se habilitou, e o rapaz é abordado conduzindo. Quem pode ser autuado?",
+   "alternativas": [
+    "Somente o sobrinho, pois o dono não estava a bordo no momento da abordagem",
+    "O sobrinho e também o dono, que emprestou a lancha a quem não tem CHA",
+    "Somente o dono, pois o sobrinho, sem habilitação, não responde por nada",
+    "Ninguém, desde que o dono tenha autorizado o empréstimo do barco"
+   ],
+   "correta": 1,
+   "explicacao": "Condutor e proprietário podem responder juntos. Quem conduz sem habilitação é autuado pelo art. 11 do RLESTA, e quem empresta a embarcação a pessoa não habilitada também pode ser autuado pelo mesmo artigo. Por isso não vale dizer que só um deles responde, nem que a autorização do dono livra alguém.",
+   "referencia": "NORMAM-211/DPC, art. 7.8.2, Nota; RLESTA (Decreto nº 2.596/1998), art. 11",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Legislação (RLESTA e NORMAM-211)",
+   "dificuldade": 2,
+   "enunciado": "Qual afirmação sobre o Marinheiro Profissional de Esporte e Recreio (MPER) está de acordo com a NORMAM-211?",
+   "alternativas": [
+    "Deve ser amador habilitado e só conduz na área da sua categoria, sem atividade comercial",
+    "Fica dispensado de CHA, desde que seja contratado pelo dono do barco para conduzir",
+    "Pode conduzir em qualquer área de navegação, mesmo fora da sua categoria de amador",
+    "Pode cobrar passagem de passageiros nos passeios, por ser profissional contratado"
+   ],
+   "correta": 0,
+   "explicacao": "O art. 5.9 diz que o MPER deve ser amador habilitado, só pode conduzir nas áreas da sua categoria e que as atividades comerciais são proibidas. Ele não é dispensado de CHA. Não pode conduzir fora da sua categoria. E cobrar passagem é atividade comercial, proibida ao MPER.",
+   "referencia": "NORMAM-211/DPC, art. 5.9",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 1,
+   "enunciado": "Qual é a frequência do canal 16 do VHF marítimo, usado para chamada e socorro?",
+   "alternativas": [
+    "156,525 MHz",
+    "121,5 MHz",
+    "162,0 MHz",
+    "156,8 MHz"
+   ],
+   "correta": 3,
+   "explicacao": "O canal 16 opera em 156,8 MHz, e é nele que o VHF deve ficar em escuta enquanto se navega. 156,525 MHz é o canal 70, reservado às chamadas digitais DSC. 121,5 MHz é frequência de socorro da aviação e de balizas antigas, fora do VHF marítimo. 162,0 MHz fica no extremo superior da faixa marítima e não é canal de socorro.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.4 a)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 2,
+   "enunciado": "Seu barco está bem, em mar calmo, mas um tripulante caiu e está com forte dor no tornozelo, com suspeita de fratura. Vocês querem orientação médica pelo rádio. Que tipo de mensagem usar no canal 16?",
+   "alternativas": [
+    "PAN PAN, a mensagem de urgência",
+    "MAYDAY, a mensagem de socorro",
+    "SECURITÉ, o aviso de segurança",
+    "Uma chamada de rotina, sem prefixo"
+   ],
+   "correta": 0,
+   "explicacao": "É uma situação urgente relativa à segurança de uma pessoa, mas sem perigo grave e iminente: a mensagem é PAN PAN. MAYDAY fica para perigo grave e iminente que exige auxílio imediato, como afundamento ou incêndio descontrolado. SECURITÉ é aviso importante à navegação, não pedido de ajuda. A chamada de rotina não tem prioridade e não sinaliza a urgência.",
+   "referencia": "Anatel, Material de apoio ao exame de Radiotelefonista, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 1,
+   "enunciado": "Para soletrar a sigla MAR no rádio usando o alfabeto fonético internacional, o correto é:",
+   "alternativas": [
+    "MARIA AMÉLIA RAIMUNDO",
+    "MIKE ALFA RIO",
+    "MIKE ALFA ROMEO",
+    "MAMA ADAM ROMEO"
+   ],
+   "correta": 2,
+   "explicacao": "No alfabeto fonético internacional, M é MIKE, A é ALFA e R é ROMEO. MARIA AMÉLIA RAIMUNDO é uma soletração comum em português, mas não é o alfabeto da UIT. RIO não é a palavra-código de R. MAMA e ADAM também não fazem parte do alfabeto, e só atrapalham no rádio.",
+   "referencia": "UIT, Regulamento de Radiocomunicações, Apêndice 14; Anatel, Material de apoio, item 2.1.9.1",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 1,
+   "enunciado": "Você está sem rádio e precisa pedir socorro à Marinha por telefone, por uma emergência no mar. Que número ligar, do serviço SALVAMAR?",
+   "alternativas": [
+    "190",
+    "185",
+    "192",
+    "193"
+   ],
+   "correta": 1,
+   "explicacao": "O SALVAMAR, Serviço de Busca e Salvamento da Marinha, atende emergências no mar 24 horas pelo telefone 185. O 190 é da Polícia Militar, o 192 é do SAMU e o 193 é do Corpo de Bombeiros: úteis em terra, mas não são o canal da Marinha para o mar.",
+   "referencia": "Marinha do Brasil, SALVAMAR (telefone 185)",
+   "fonte_url": "https://www.marinha.mil.br/cpm/185"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 2,
+   "enunciado": "Num rádio VHF com DSC ligado ao GPS, o que o botão de socorro transmite, em poucos segundos, às estações ao alcance?",
+   "alternativas": [
+    "Somente um apito contínuo de alarme, sem identificar o barco",
+    "A voz gravada do comandante, pedindo socorro e dizendo a posição",
+    "O número da CHA do condutor e o plano de navegação do NAVSEG",
+    "Um alerta digital com a identificação do barco (MMSI) e a posição"
+   ],
+   "correta": 3,
+   "explicacao": "O alerta DSC é digital: leva a identificação do barco (o MMSI) e, se o rádio estiver ligado ao GPS, a posição, e dispara alarme automático nos rádios DSC e nas estações costeiras ao alcance. Ele não é um apito sem identificação. Também não grava voz, e o MMSI e o GPS não trazem a CHA nem o plano de navegação. Depois do alerta, transmite-se o MAYDAY por voz no canal 16.",
+   "referencia": "Anatel, Material de apoio ao exame de Radiotelefonista, item 2.2.6 (DSC)",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 3,
+   "enunciado": "A NORMAM-211 exige que o VHF portátil tenha bateria para pelo menos 4 horas de operação, num ciclo de 1:9 (1 minuto transmitindo e 9 minutos escutando). Nesse ciclo, quanto tempo o rádio transmite ao todo em 4 horas?",
+   "alternativas": [
+    "4 minutos",
+    "24 minutos",
+    "48 minutos",
+    "3 horas e 36 minutos"
+   ],
+   "correta": 1,
+   "explicacao": "Quatro horas são 240 minutos. Cada ciclo dura 1 + 9 = 10 minutos, então há 24 ciclos, e o rádio transmite 24 × 1 = 24 minutos. 4 minutos seria transmitir 1 minuto por hora. 48 minutos viria de um ciclo de 5 minutos. 3 horas e 36 minutos (216 minutos) é o tempo escutando, 24 × 9.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.3",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 2,
+   "enunciado": "À noite, na entrada de uma barra, você nota que a boia lateral do canal está com a luz apagada, e outros barcos se aproximam. Que mensagem transmitir para avisar a navegação?",
+   "alternativas": [
+    "MAYDAY, a mensagem de socorro",
+    "PAN PAN, a mensagem de urgência",
+    "SECURITÉ, o aviso de segurança",
+    "Nenhuma: avisar é tarefa da Capitania"
+   ],
+   "correta": 2,
+   "explicacao": "Um sinal de balizamento apagado é perigo para a navegação, sem risco imediato à sua vida nem à do seu barco: pede um aviso SECURITÉ. MAYDAY é para perigo grave e iminente. PAN PAN é urgência com o seu barco ou com uma pessoa. Quem percebe o problema deve avisar os outros, e não esperar pela Capitania.",
+   "referencia": "Anatel, Material de apoio ao exame de Radiotelefonista, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 3,
+   "enunciado": "Qual é a ordem correta dos elementos de uma mensagem de socorro por voz no canal 16?",
+   "alternativas": [
+    "MAYDAY, identificação, posição, natureza do perigo, auxílio necessário, outras informações",
+    "MAYDAY, natureza do perigo, identificação, posição, auxílio necessário, outras informações",
+    "Identificação, posição, MAYDAY, auxílio necessário, natureza do perigo, outras informações",
+    "MAYDAY, identificação, auxílio necessário, natureza do perigo, posição, outras informações"
+   ],
+   "correta": 0,
+   "explicacao": "A ordem é: sinal de socorro (MAYDAY), identificação da embarcação, posição, natureza do perigo, auxílio necessário e outras informações. A posição vem logo cedo para que o resgate saiba onde procurar caso a comunicação caia. Nas demais opções o MAYDAY sai do início ou a identificação, a posição, o perigo e o auxílio aparecem fora da ordem.",
+   "referencia": "Anatel, Material de apoio ao exame de Radiotelefonista, item 2.1.9.3",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 3,
+   "enunciado": "No canal 16, você ouve o MAYDAY de uma lancha afundando e, minutos depois, ninguém respondeu. Você está longe e não consegue ajudar diretamente. O que fazer?",
+   "alternativas": [
+    "Ficar em silêncio, pois o socorro é assunto só da Marinha",
+    "Pedir à lancha que passe para um canal de trabalho e conversar",
+    "Desligar o rádio para não atrapalhar o canal 16 de socorro",
+    "Retransmitir o pedido (MAYDAY RELAY) a quem possa socorrer"
+   ],
+   "correta": 3,
+   "explicacao": "Se um pedido de socorro fica sem resposta e você não pode ajudar diretamente, deve retransmiti-lo (MAYDAY RELAY), para que chegue à estação costeira, à Capitania, ao SALVAMAR ou a barcos que possam ajudar. Ficar em silêncio ou desligar o rádio pode deixar o pedido sem resposta. Mandar a lancha afundando mudar de canal desperdiça tempo e tira o pedido de onde todos escutam.",
+   "referencia": "Transport for NSW, Alerting rescue services (se a estação costeira não responde ao MAYDAY, retransmitir a mensagem e ajudar a embarcação)",
+   "fonte_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/emergencies/alerting-rescue-services"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 1,
+   "enunciado": "O sinal está fraco e você não entendeu a posição que o outro barco informou. Que palavra de procedimento usar para pedir que ele repita a mensagem?",
+   "alternativas": [
+    "Repita",
+    "Câmbio",
+    "Terminado",
+    "Aguarde"
+   ],
+   "correta": 0,
+   "explicacao": "\"Repita\" pede que a mensagem (ou a parte indicada) seja dita de novo. \"Câmbio\" significa que você terminou de falar e espera a resposta. \"Terminado\" encerra a comunicação. \"Aguarde\" pede ao outro que espere, o que não ajuda a entender a mensagem.",
+   "referencia": "Anatel, Material de apoio ao exame de Radiotelefonista, item 2.1.9.8 (\"Terminado\" encerra o trabalho); IMO, Standard Marine Communication Phrases (Res. A.918(22)) para \"Say again\" (repita) e \"Over\" (câmbio)",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 2,
+   "enunciado": "Com um socorro em andamento no canal 16, a estação costeira transmite \"SILENCE MAYDAY\". O que isso significa?",
+   "alternativas": [
+    "O socorro terminou e o canal 16 está liberado para todas as embarcações",
+    "Todas as embarcações que ouviram devem repetir o MAYDAY recebido",
+    "Só quem participa do socorro deve transmitir; os demais ficam em silêncio",
+    "A embarcação em perigo deve parar de transmitir até ser chamada"
+   ],
+   "correta": 2,
+   "explicacao": "SILENCE MAYDAY é o pedido de silêncio feito pela estação em perigo ou por quem dirige o tráfego de socorro: só fala quem participa do salvamento, os demais ficam em silêncio. Não indica fim do socorro. Não pede que todos repitam o MAYDAY (isso seria uma retransmissão, feita só por quem ouviu um pedido sem resposta). E a embarcação em perigo não é calada por ele: ela continua falando com quem coordena o socorro.",
+   "referencia": "Anatel, Material de apoio ao exame de Radiotelefonista, item 2.1.9.5",
+   "fonte_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6"
+  },
+  {
+   "tema": "Comunicações VHF",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de cruzeiro de 14 m (médio porte) vai navegar numa área classificada como navegação interior. Quanto ao VHF, o que diz a NORMAM-211 (art. 4.24.2)?",
+   "alternativas": [
+    "O VHF com DSC é obrigatório",
+    "O VHF, fixo ou portátil, é recomendado",
+    "O VHF fixo e o HF com DSC são obrigatórios",
+    "O VHF é proibido, por ser equipamento de mar aberto"
+   ],
+   "correta": 1,
+   "explicacao": "Para embarcação de médio porte em navegação interior, o VHF fixo ou portátil é recomendado, não obrigatório. O VHF com DSC passa a ser exigido na navegação costeira. Na oceânica, são exigidos VHF com DSC, HF com DSC (ou equivalente via satélite) e EPIRB 406 MHz.",
+   "referencia": "NORMAM-211/DPC, art. 4.24.2 a), b) e c)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "RIPEAM: luzes e marcas",
+   "dificuldade": 1,
+   "enunciado": "Uma embarcação exibe luzes de bordos, que cobrem 112,5° cada uma, e uma luz de alcançado. Para as três juntas cobrirem todo o horizonte (360°), qual deve ser o setor da luz de alcançado?",
+   "alternativas": [
+    "112,5°",
+    "180°",
+    "135°",
+    "225°"
+   ],
+   "correta": 2,
+   "explicacao": "As duas luzes de bordos somam 2 × 112,5° = 225°, e 360° − 225° = 135°. É exatamente o setor da luz de alcançado: 67,5° para cada bordo, a partir da popa (Regra 21). 112,5° é o setor de uma luz de bordo. 225° é o setor da luz de mastro, que cobre o mesmo arco das duas luzes de bordos juntas. 180° não é setor de nenhuma dessas luzes.",
+   "referencia": "RIPEAM, Regra 21(a), (b) e (c)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM: luzes e marcas",
+   "dificuldade": 1,
+   "enunciado": "De dia, que marca uma embarcação fundeada exibe na parte de vante?",
+   "alternativas": [
+    "Um cone preto, com o vértice para baixo",
+    "Um cilindro preto",
+    "Dois cones pretos unidos pelos vértices",
+    "Uma esfera preta"
+   ],
+   "correta": 3,
+   "explicacao": "A embarcação fundeada exibe a vante, de dia, uma esfera preta (Regra 30(a)); à noite, uma luz circular branca. O cone com vértice para baixo é a marca do veleiro que navega a vela e com o motor ligado. O cilindro é a marca da embarcação restrita pelo calado. Dois cones unidos pelos vértices indicam embarcação engajada na pesca.",
+   "referencia": "RIPEAM, Regra 30(a)(i); distratores: Regras 25(e) (cone, vértice para baixo), 26(b) (dois cones pelos vértices) e 28 (cilindro)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM: luzes e marcas",
+   "dificuldade": 3,
+   "enunciado": "Qual é o alcance mínimo da luz de mastro de uma lancha de 14 m de comprimento, segundo o RIPEAM?",
+   "alternativas": [
+    "2 milhas náuticas",
+    "3 milhas náuticas",
+    "5 milhas náuticas",
+    "6 milhas náuticas"
+   ],
+   "correta": 1,
+   "explicacao": "Para embarcações de 12 m a menos de 50 m, a luz de mastro tem alcance mínimo de 5 milhas, exceto se o comprimento for menor que 20 m, caso em que são 3 milhas. Como 14 m está entre 12 e 20 m, o alcance mínimo é 3 milhas. 2 milhas é o valor para embarcações com menos de 12 m. 5 milhas valeria para 20 m ou mais (até 50 m). 6 milhas é para 50 m ou mais.",
+   "referencia": "RIPEAM, Regra 22(a), (b) e (c)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM: luzes e marcas",
+   "dificuldade": 3,
+   "enunciado": "Um rebocador leva uma balsa. A distância da popa do rebocador até a popa da balsa é de 250 m. Quantas luzes de mastro em linha vertical o rebocador exibe à noite, e que marca exibe de dia?",
+   "alternativas": [
+    "Três luzes de mastro; de dia, um losango preto",
+    "Duas luzes de mastro; de dia, um losango preto",
+    "Três luzes de mastro; de dia, dois cones pretos unidos pelos vértices",
+    "Duas luzes de mastro; de dia, uma esfera preta"
+   ],
+   "correta": 0,
+   "explicacao": "Quando o comprimento do reboque, medido da popa do rebocador até o extremo de ré do reboque, passa de 200 m, o rebocador exibe três luzes de mastro em linha vertical e, de dia, um losango preto onde melhor possa ser visto. Com 250 m o reboque passa de 200 m, então duas luzes não bastam. Dois cones unidos pelos vértices são marca de pesca. Esfera preta é marca de embarcação fundeada.",
+   "referencia": "RIPEAM, Regra 24(a)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM: luzes e marcas",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de 12 m navega somente à vela, à noite. Qual destas configurações de luzes NÃO é permitida pelo RIPEAM?",
+   "alternativas": [
+    "Luzes de bordos e luz de alcançado, instaladas separadamente nos bordos e na popa",
+    "Lanterna tricolor no tope do mastro, sem nenhuma outra luz de navegação acesa",
+    "Tricolor no tope do mastro, acesa junto com circulares: encarnada sobre verde",
+    "Luzes de bordos e de alcançado, mais circulares no tope: encarnada sobre verde"
+   ],
+   "correta": 2,
+   "explicacao": "A embarcação a vela com menos de 20 m pode combinar bordos e alcançado numa lanterna tricolor no tope (Regra 25(b)). Pode também exibir, no tope, encarnada sobre verde circulares, mas essas luzes não podem ser usadas junto com a lanterna tricolor (Regra 25(c)). Por isso a opção que junta as duas é a proibida. Bordos e alcançado separados, a tricolor sozinha, e bordos e alcançado com encarnada sobre verde são arranjos permitidos.",
+   "referencia": "RIPEAM, Regra 25(a), (b) e (c)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM: luzes e marcas",
+   "dificuldade": 2,
+   "enunciado": "À noite você observa as luzes da figura: duas circulares em linha vertical, verde sobre branca, e uma luz verde mais abaixo. O que é a outra embarcação e qual lado dela você vê?",
+   "alternativas": [
+    "Pesqueiro de arrasto com seguimento, visto pelo bombordo",
+    "Pesqueiro que não é de arrasto, visto pelo boreste",
+    "Embarcação de praticagem em serviço, vista pelo boreste",
+    "Pesqueiro de arrasto com seguimento, visto pelo boreste"
+   ],
+   "correta": 3,
+   "explicacao": "Verde sobre branca, circulares em linha vertical, é a luz da pesca de arrasto (Regra 26(b)). A luz de bordo só aparece com seguimento, e a verde é a de boreste, então você vê o boreste dela. Se fosse bombordo, a luz de bordo seria encarnada. Pesca que não é de arrasto exibe encarnada sobre branca. A praticagem em serviço exibe branca sobre encarnada.",
+   "referencia": "RIPEAM, Regras 21(b), 26(b) e 29(a)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 120 150\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Duas luzes circulares em linha vertical, verde sobre branca, e uma luz verde mais abaixo\"><title>Luzes vistas à noite: verde sobre branca e uma luz verde de bordo mais abaixo</title><circle cx=\"60\" cy=\"28\" r=\"11\" fill=\"var(--nav-green)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"62\" r=\"11\" fill=\"var(--nav-white)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"122\" r=\"8\" fill=\"var(--nav-green)\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg>"
+   }
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta reescrita: \"miúdas a vela\" (jargão) virou \"embarcações miúdas a vela\", e a correta ficou um pouco mais longa; mantida a resposta. Referência mantida (NORMAM-211, art. 5.5.2 a-b, confirmado)."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Distrator \"Motonauta\" (moto aquática) era descartável de imediato; trocado por \"Veleiro\", plausível e errado para lancha a motor. Explicação atualizada. Gabarito reposicionado (1 -> 2) para equilibrar."
+  },
+  {
+   "idx": 2,
+   "acao": "reordenada",
+   "motivo": "Gabarito reposicionado (0 -> 3) para equilibrar a distribuição; \"miúdas a vela\" trocado por \"embarcações miúdas a vela\" na explicação. Resposta mantida."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 4,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais curta do conjunto (cue de comprimento). Acrescentada a razão \"pois só o casco conta\", que a explicação já justifica. Conteúdo confirmado (normas-15, normas-20)."
+  },
+  {
+   "idx": 5,
+   "acao": "reordenada",
+   "motivo": "Gabarito reposicionado (0 -> 2) para equilibrar. Conteúdo e referência conferidos (NORMAM-211, art. 1.8.1; confirmado)."
+  },
+  {
+   "idx": 6,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 7,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais longa por margem (61 vs 48-54 caracteres). Distratores alongados sem mudar o sentido errado de cada um. Conteúdo confirmado (normas-47, normas-49)."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 9,
+   "acao": "reordenada",
+   "motivo": "Gabarito reposicionado (0 -> 3) para equilibrar. Conteúdo conferido (Anexo 5-A, Seção I, item 3 d; confirmado)."
+  },
+  {
+   "idx": 10,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 11,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 12,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 13,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 14,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais longa e a única com \"pode\". Alternativas reescritas com comprimentos parecidos. Explicação corrigida: a frase original dizia que Rui \"perdeu o direito\", o que contradiz o próprio enunciado (faltam 2 meses para o limite). Referência mantida (NORMAM-211, art. 5.5.4, Notas; confirmado)."
+  },
+  {
+   "idx": 15,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 16,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 17,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 18,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 19,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 20,
+   "acao": "corrigida",
+   "motivo": "A correta era a mais longa do conjunto; encurtada para \"a quem não tem CHA\" (mesmo sentido). Conteúdo confirmado (normas-142, normas-171)."
+  },
+  {
+   "idx": 21,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 22,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 24,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 25,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 26,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 27,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Justificativa \"dado mais importante\" (afirmação sem fonte) trocada por uma razão operacional. Ordem da mensagem mantida."
+  },
+  {
+   "idx": 30,
+   "acao": "ok",
+   "motivo": "Resposta correta (retransmissão do MAYDAY sem resposta) e distratores conferem. Ressalva: a referência é uma fonte australiana (Transport for NSW); antes de publicar, confirmar a prática no material da Anatel ou no Regulamento de Radiocomunicações."
+  },
+  {
+   "idx": 31,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 32,
+   "acao": "ok",
+   "motivo": "Conferido contra claims verificadas (normas-*, taxas-*, radio-*, tecnico-*); resposta, números e referência conferem; sem mudança."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Removida a frase absoluta \"Nenhuma norma proíbe o VHF na navegação interior\", que não tem fonte citada. Resposta confirmada (art. 4.24.2, alínea c; radio-22)."
+  },
+  {
+   "idx": 34,
+   "acao": "ok",
+   "motivo": "Resposta 135° conferida: 360 − 2×112,5 = 135 (Regra 21(a)-(c), tecnico-41 a tecnico-44). Distratores conferem."
+  },
+  {
+   "idx": 35,
+   "acao": "ok",
+   "motivo": "Esfera preta para embarcação fundeada à vante (Regra 30(a)(I), tecnico-64). Distratores conferem (Regras 25(e), 26(b), 28)."
+  },
+  {
+   "idx": 36,
+   "acao": "ok",
+   "motivo": "Cálculo conferido: 14 m está entre 12 e 20 m, logo luz de mastro = 3 milhas (Regra 22(b), tecnico-49, confirmado). Distratores: 2 mi (<12 m), 5 mi (20 a 50 m), 6 mi (>= 50 m) conferem."
+  },
+  {
+   "idx": 37,
+   "acao": "ok",
+   "motivo": "Resposta correta. Regra 24(a) (reboque > 200 m: três luzes de mastro e losango diurno) não consta das claims verificadas; sinalizada para conferência no texto oficial do RIPEAM."
+  },
+  {
+   "idx": 38,
+   "acao": "ok",
+   "motivo": "Combinação proibida conferida: lanterna tricolor com circulares (Regra 25(b)-(c), tecnico-55 e tecnico-56). Demais arranjos são permitidos."
+  },
+  {
+   "idx": 39,
+   "acao": "ok",
+   "motivo": "Figura conferida (SVG de 565 bytes, cores só por tokens, viewBox válido). Cálculo e regras 21(b), 26(b) e 29(a) conferem com as claims tecnico-42, tecnico-58, tecnico-63."
+  }
+ ]
+}

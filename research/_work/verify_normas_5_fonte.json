@@ -1,0 +1,193 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-151",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) Transceptor HF - frequência Internacional de Socorro ou 4.125 KHz, chamada e escuta no Atlântico Sul.",
+   "notes": "art. 4.23.4 b, p. 4-12 conferido; demais frequências (6.215, 8.255, 12.290, 22.060 kHz; 4.431,8 e 8.291,1) cobrem o 'entre outras'."
+  },
+  {
+   "id": "normas-152",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "as embarcações que dotam equipamentos de rádio comunicação devem obter a Licença de Estação de Navio nas sedes regionais da ANATEL",
+   "notes": "art. 4.23.8, p. 4-13 conferido."
+  },
+  {
+   "id": "normas-153",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "todos os equipamentos eletrônicos de comunicações deverão estar de acordo com as normas da Agência Nacional de Telecomunicações - ANATEL ou, para o caso de equipamentos estrangeiros, serem homologados pela autoridade competente do país de origem",
+   "notes": "Art. 4.23.7 (p. 4-13) e final do 4.23.3 (texto após rodapé 4-11, logo p. 4-12, não 4-11/4-12 como citado — diferença mínima de página) confirmam ambas as partes."
+  },
+  {
+   "id": "normas-154",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Todas as EPIRB devem ser cadastradas no INFOSAR, por meio da página \"https://infosar.decea.mil.br\".",
+   "notes": "art. 4.23.6 e; o texto diz 'O INFOSAR é um serviço do DECEA'."
+  },
+  {
+   "id": "normas-155",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "II) equipamento transceptor em HF com DSC (*); e III) Rádio Baliza Indicadora de Posição em Emergência (EPIRB 406 MHz), exigível a partir de 01/07/2006.",
+   "notes": "art. 4.24.2 a, p. 4-14; item I = VHF com DSC. O HF (*) pode ser substituído por satelital (nota)."
+  },
+  {
+   "id": "normas-156",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) Navegação interior I) recomendado o equipamento transceptor em VHF fixo ou portátil.",
+   "notes": "art. 4.24.2 b e c, p. 4-14 conferido."
+  },
+  {
+   "id": "normas-157",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As embarcações a vela que possuam antena de VHF no tope do mastro deverão possuir antena de emergência para uso em caso de quebra do mastro.",
+   "notes": "Ao final do 4.24.2, p. 4-14."
+  },
+  {
+   "id": "normas-158",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Dessa forma, essa comunicação é obrigatória. ... Em substituição a este anexo, o Comandante da embarcação de esporte e/ou recreio poderá realizar o registro no aplicativo NAVSEG",
+   "notes": "art. 4.6.1, p. 4-3 (após rodapé 4-2). A substituição é do formulário (anexo 4-A) pelo registro do plano de viagem no NAVSEG, para embarcação de esporte e/ou recreio; afirmação fiel."
+  },
+  {
+   "id": "normas-159",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/AnexoA.pdf",
+   "evidence_quote": "Carteira de Habilitação de Amador (CHA) - Inscrição para exame de habilitação de amador, renovação, emissão de 2a via, correspondência ou equivalência R$ 60,32 (Todas as Categorias)",
+   "notes": "Anexo A da Portaria 251/2025, item 3, p. 3 (conferido no cache da fonte). Vigência 1º/01/2026 pelo art. 3º da Portaria."
+  },
+  {
+   "id": "normas-160",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "evidence_quote": "PORTARIA No 251/DPC, DE 19 DE DEZEMBRO DE 2025. ... Art. 3o Esta Portaria entrará em vigor em 1o janeiro de 2026.",
+   "notes": "Data e vigência conferidas; art. 1º aprova as Tabelas de Indenizações."
+  },
+  {
+   "id": "normas-161",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/portarias-html/Portaria_251_2025.pdf",
+   "evidence_quote": "conforme o Índice de Preços ao Consumidor Amplo (IPCA) apurado no intervalo de novembro de 2024 e novembro de 2025 e no aumento de custos com pessoal, quando aplicável",
+   "notes": "art. 1º conferido."
+  },
+  {
+   "id": "normas-162",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/node/3510",
+   "evidence_quote": "selecione: Tipo de Serviço = \"Serviços Administrativos\" Serviços Administrativos = \"Inscrição para exame de habilitação de Amador e emissão da Carteira de Habilitação de Amador - CHA\"",
+   "notes": "Página reaberta (status 200), 'Atualizado em 17/10/2023 - 15:22' confirmado."
+  },
+  {
+   "id": "normas-163",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/node/3510",
+   "evidence_quote": "Para saber em qual Capitania, Delegacia ou Agência você será atendido, clique aqui",
+   "notes": "Conferido na página."
+  },
+  {
+   "id": "normas-164",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/node/3510",
+   "evidence_quote": "Para obter a relação dos Estabelecimentos de Treinamento náuticos / Pessoas Físicas, cadastrados na Capitania, Delegacia ou Agência, clique aqui",
+   "notes": "Conferido na página."
+  },
+  {
+   "id": "normas-165",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/navegador-amador",
+   "evidence_quote": "a leitura completa da NORMAM-211/DPC é indispensável ... Consulte exames anteriores para se preparar, como o de Capitão Amador.",
+   "notes": "Página reaberta: 'Atualizado em 21/07/2026 - 14:28' confirmado; ambos os trechos presentes."
+  },
+  {
+   "id": "normas-166",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "as despesas para viabilizar a aplicação dos exames fora da sede da CP/DL/AG, tais como transporte/deslocamento; e hospedagem, alimentação e locomoção urbana da equipe designada, serão custeadas pelo interessado ou entidade solicitante do serviço",
+   "notes": "art. 5.4.2 b, p. 5-5/5-6. Nuance: a solicitação só é atendida a critério do CP/DL/AG."
+  },
+  {
+   "id": "normas-167",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a penalidade prevista é a multa do grupo C daquele Regulamento ou suspensão do Certificado de Habilitação (CHA ou CIR) por até 30 dias.",
+   "notes": "art. 7.12.1, p. 7-9; base no inciso VIII do art. 23 do RLESTA."
+  },
+  {
+   "id": "normas-168",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "I - não possuir a documentação relativa à habilitação ou ao controle de saúde: Penalidade: multa do grupo D;",
+   "notes": "Checagem automática falhou só por acentuação/encoding; o contexto mostra o texto do art. 12, I com 'multa do grupo D'."
+  },
+  {
+   "id": "normas-169",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "III - portar a documentação relativa à habilitação ou ao controle de saúde desatualizada: Penalidade: multa do grupo A, ou suspensão do Certificado de Habilitação até trinta dias.",
+   "notes": "Mesmo caso de encoding; texto do art. 12, III confere. 'Vencida' é interpretação coerente com a NORMAM-211 art. 7.9.1, que aplica o art. 12, III à CHA vencida."
+  },
+  {
+   "id": "normas-170",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As medidas de Retirada de Tráfego e de Apreensão da embarcação não são necessárias caso se apresente um condutor habilitado durante a abordagem.",
+   "notes": "art. 7.8.1, Nota 1, p. 7-6."
+  },
+  {
+   "id": "normas-171",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Será lavrado em seu desfavor o Auto de Infração referente à infração cometida, prevista no art. 11 da RLESTA",
+   "notes": "art. 7.8.2, p. 7-6."
+  },
+  {
+   "id": "normas-172",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Será lavrado em seu desfavor o Auto de Infração referente à infração cometida, prevista no art. 12 da RLESTA, inciso III.",
+   "notes": "art. 7.9.1 b, p. 7-7 (após rodapé 7-6). O 7.9 trata da CHA vencida em até 5 anos do vencimento; o vencimento além disso pode ter outro tratamento — escopo a observar."
+  },
+  {
+   "id": "normas-173",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Deverá ser alimentado por uma bateria, com capacidade para operá-lo por no mínimo quatro horas, com um coeficiente de utilização de 1:9",
+   "notes": "art. 4.23.3, p. 4-11."
+  },
+  {
+   "id": "normas-174",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As EPIRB deverão ser capazes de transmitir um sinal de socorro por meio de satélite, em órbita polar, na faixa de 406 MHz.",
+   "notes": "art. 4.23.6 c, p. 4-13."
+  },
+  {
+   "id": "normas-175",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "constituída pelo dígito 710 (identificação do Brasil), seguido por outros seis dígitos que identificarão a estação da embarcação ... O código é conhecido como MMSI",
+   "notes": "art. 4.23.6 d, p. 4-13."
+  },
+  {
+   "id": "normas-176",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "(*) Poderá ser substituído por telefone satelital IRIDIUM ou INMARSAT, ou comunicadores satelitais do tipo SPOT X, IRIDIUM GO e outros, que permitam o envio de mensagens de socorro e salvamento.",
+   "notes": "Nota (*) do HF com DSC em 4.24.1 a e 4.24.2 a."
+  },
+  {
+   "id": "normas-177",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) declaração de extravio, roubo, furto ou danos devidamente preenchida, conforme anexo 5-D ou Boletim de Ocorrência;",
+   "notes": "art. 5.5.5 b; acompanha requerimento (anexo 5-H), alínea a."
+  }
+ ]
+}

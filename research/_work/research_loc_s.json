@@ -1,0 +1,972 @@
+{
+ "file_written": "/home/sobranceiro/veleiro_certificacoes/research/locais_sul.md",
+ "claims": [
+  {
+   "id": "loc_s-01",
+   "topic": "categorias",
+   "claim": "O Arrais-Amador (ARA) está apto a conduzir embarcações nos limites da navegação interior, cujas áreas são definidas nas NPCP/NPCF de cada Capitania, exceto moto aquática.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.3.3, alínea c, p. 5-1",
+   "quote": "c) Arrais-Amador - apto para conduzir embarcações nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF, exceto moto aquática.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Os limites concretos da 'navegação interior' variam por Capitania (NPCP); uma escola do PR (Loba do Mar) afirma '1,5 milhas da costa' para o ARA — conferir na NPCP da CPPR."
+  },
+  {
+   "id": "loc_s-02",
+   "topic": "categorias",
+   "claim": "O Mestre-Amador (MSA) está apto a conduzir embarcações entre portos nacionais e estrangeiros nos limites da navegação costeira (até 20 milhas náuticas), exceto moto aquática.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.3.3, alínea b, p. 5-1",
+   "quote": "b) Mestre-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros nos limites da navegação costeira (até 20 MN), exceto moto aquática.",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "loc_s-03",
+   "topic": "categorias",
+   "claim": "O Capitão-Amador (CPA) está apto a conduzir embarcações entre portos nacionais e estrangeiros sem limite de afastamento da costa, exceto moto aquática.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.3.3, alínea a, p. 5-1",
+   "quote": "a) Capitão-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros, sem limite de afastamento da costa, exceto moto aquática.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "É a categoria exigida para o objetivo transatlântico."
+  },
+  {
+   "id": "loc_s-04",
+   "topic": "categorias",
+   "claim": "A categoria Veleiro (VLA) habilita a conduzir embarcações a vela sem propulsão a motor, apenas nos limites da navegação interior.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.3.3, alínea e, p. 5-2",
+   "quote": "e) Veleiro - apto para conduzir embarcações a vela sem propulsão a motor, nos limites da navegação interior.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Relevante para cursos de monotipo (Dingue, ILCA, Optimist) oferecidos pelos clubes do Sul."
+  },
+  {
+   "id": "loc_s-05",
+   "topic": "categorias",
+   "claim": "A CHA de Veleiro é facultativa para embarcações miúdas exclusivamente à vela; para veleiros de médio ou grande porte vale a categoria da área de navegação: ARA (interior), MSA (costeira) e CPA (oceânica).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.2, alíneas a e b, p. 5-7",
+   "quote": "Para embarcações à vela de médio ou grande porte, a habilitação deverá obedecer os critérios previstos para a área de navegação para a qual estão classificadas, ou seja, ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Um veleiro de 32 pés em travessia oceânica exige, portanto, CPA para o comandante."
+  },
+  {
+   "id": "loc_s-06",
+   "topic": "categorias",
+   "claim": "A idade mínima para a CHA de Veleiro (embarcações miúdas) é de oito anos.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.2, alínea b, p. 5-7",
+   "quote": "O interessado na emissão da CHA-VLA para a condução de embarcações miúdas deverá possuir idade mínima de oito anos.",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "loc_s-07",
+   "topic": "onde-treinar",
+   "claim": "Para a CHA de Veleiro é exigida declaração de marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado (anexo 5-G) comprovando o curso de veleiro conforme o programa do anexo 5-B.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.5.2, alínea c, item VII, p. 5-8",
+   "quote": "Declaração da marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado, conforme constante no anexo 5-G, comprovando que o interessado realizou o curso de veleiro",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "loc_s-08",
+   "topic": "onde-treinar",
+   "claim": "Para a habilitação específica na categoria Arrais-Amador é exigido o Atestado de Treinamento Náutico para Arrais-Amador (anexo 5-E), assinado pelo representante do ETN, pelo instrutor e pelo aluno.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1, alínea f, p. 5-4",
+   "quote": "para a habilitação específica na categoria de ARA, deverá ser apresentado o Atestado de Treinamento Náutico para Arrais-Amador com reconhecimento de firma em cartório, ou assinatura digital pelo GOV.BR do representante legal da ETN, do instrutor e do aluno",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A exigência de atestado de treinamento prático é específica do ARA; não há atestado equivalente listado para MSA/CPA no art. 5.4.1."
+  },
+  {
+   "id": "loc_s-09",
+   "topic": "onde-treinar",
+   "claim": "Os atestados de treinamento para Arrais-Amador são obtidos em aulas práticas em estabelecimentos de treinamento náutico ou pessoas físicas credenciados nas Capitanias, Delegacias ou Agências.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1, Notas, p. 5-5",
+   "quote": "os atestados de treinamento para Arrais-Amador poderão ser obtidos mediante treinamento náutico (aulas práticas) em estabelecimentos de treinamento náutico/pessoas físicas devidamente credenciadas nas CP/DL/AG",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "loc_s-10",
+   "topic": "pre-requisitos",
+   "claim": "Para se inscrever no exame de Mestre-Amador é preciso ter habilitação de Arrais-Amador dentro da validade; para o de Capitão-Amador, habilitação de Mestre-Amador dentro da validade.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.1, Notas, p. 5-5",
+   "quote": "o candidato deverá possuir habilitação na categoria de Mestre-Amador, dentro da validade, ambos no ato da efetiva inscrição junto à CP/DL/AG",
+   "official": true,
+   "confidence": "alta",
+   "notes": "O trecho citado é a exigência para o exame de CPA; a frase anterior do mesmo parágrafo exige ARA válido para o exame de MSA (no PDF aparece com hifenização: 'o candidato deverá pos- suir habilitação na categoria de Arrais-Amador, dentro da validade')."
+  },
+  {
+   "id": "loc_s-11",
+   "topic": "pre-requisitos",
+   "claim": "O exame de ARA, MSA e CPA é uma prova escrita ou eletrônica em português, com idade mínima de 18 anos e exigência de saber ler e escrever.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 5.4.2, alínea a, p. 5-5",
+   "quote": "O exame para a habilitação nas categorias de ARA, MSA e CPA é constituído de prova escrita (ou eletrônica) no idioma português (Brasil), devendo o candidato possuir idade mínima de 18 (dezoito) anos e saber ler e escrever.",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "loc_s-12",
+   "topic": "clubes-marinas",
+   "claim": "Somente marinas, clubes e entidades desportivas náuticas com Certificado de Cadastramento válido na Capitania/Delegacia/Agência da jurisdição podem funcionar como tal.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.2, p. 6-1",
+   "quote": "Somente os estabelecimentos que possuam o Certificado de Cadastramento válido junto às CP/DL/AG de sua jurisdição poderão funcionar como marina, clube e entidade desportiva náutica",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "loc_s-13",
+   "topic": "clubes-marinas",
+   "claim": "Marinas, clubes e entidades desportivas náuticas devem verificar, na saída da embarcação, o TIE/PRPM e a CHA do condutor dentro da validade e o preenchimento do Aviso de Saída (ou registro no app NAVSEG).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.2.1, alínea a, p. 6-1",
+   "quote": "II) A apresentação da CHA ou CIR do condutor, dentro da validade; e III) O preenchimento do Aviso de Saída, ou registro no App NAVSEG.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Por isso clubes como o ICPS publicam avisos sobre documentação exigida para sair com a embarcação."
+  },
+  {
+   "id": "loc_s-14",
+   "topic": "onde-treinar",
+   "claim": "Marinas, clubes, entidades desportivas náuticas e outros estabelecimentos podem organizar cursos para a categoria Veleiro em suas sedes, desde que credenciados como ETN-VLA na Capitania da jurisdição.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 6.8, p. 6-10",
+   "quote": "As marinas, os clubes, as entidades desportivas náuticas e outros estabelecimentos que exerçam atividade voltada para o treinamento náutico, poderão organizar cursos em suas sedes, voltados para a formação na categoria de Veleiro",
+   "official": true,
+   "confidence": "alta",
+   "notes": ""
+  },
+  {
+   "id": "loc_s-15",
+   "topic": "listas-oficiais",
+   "claim": "A Capitania dos Portos de Santa Catarina (CPSC) publica a lista de estabelecimentos e pessoas físicas cadastrados para o treinamento náutico na Grande Florianópolis e no interior do estado (página atualizada em 25/06/2026).",
+   "source_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "locator": "Página 'Escolas Náuticas Cadastradas perante à CPSC', cabeçalho e tabela 'GRANDE FLORIANÓPOLIS'",
+   "quote": "ESTABELECIMENTOS E PESSOAS FÍSICAS CADASTRADOS PARA O TREINAMENTO NÁUTICO PERANTE À CPSC",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A página não traz as escolas das jurisdições das Delegacias de Itajaí e São Francisco do Sul."
+  },
+  {
+   "id": "loc_s-16",
+   "topic": "listas-oficiais",
+   "claim": "A ProNáutica (Lagoa da Conceição) consta na lista da CPSC de escolas cadastradas para treinamento náutico, com vencimento em 08/2027.",
+   "source_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "locator": "Tabela 'GRANDE FLORIANÓPOLIS', linha 'Lagoa da Conceição'",
+   "quote": "Lagoa da Conceição Pró Náutica (48) 3232-9173",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Vencimento 08/2027 na coluna 'Vencimento'."
+  },
+  {
+   "id": "loc_s-17",
+   "topic": "listas-oficiais",
+   "claim": "A Escola Náutica Sampaio (Ponta das Canas) consta na lista da CPSC de escolas cadastradas para treinamento náutico, com vencimento em 10/2028.",
+   "source_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "locator": "Tabela 'GRANDE FLORIANÓPOLIS', linha 'Ponta das Canas'",
+   "quote": "Ponta das Canas Sampaio (48) 9.8466-2994",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Vencimento 10/2028 na coluna 'Vencimento'."
+  },
+  {
+   "id": "loc_s-18",
+   "topic": "listas-oficiais",
+   "claim": "A Capitania dos Portos do Paraná (CPPR) publica a lista de Estabelecimentos de Treinamento Náutico credenciados, todos para emissão de atestado de treinamento de Arrais-Amador e de Motonauta (lista 'Atualizado em: 02/04/2025'; página atualizada em 24/08/2026).",
+   "source_url": "https://www.marinha.mil.br/cppr/entidades_nauticas",
+   "locator": "Página 'Estabelecimentos de Treinamento Náutico Credenciados', entradas da lista",
+   "quote": "Credenciado para emissão do Atestado de Treinamento para Arrais Amador e emissão de Atestado de Treinamento para Motonauta",
+   "official": true,
+   "confidence": "alta",
+   "notes": "A lista não indica escolas de vela (ETN-VLA)."
+  },
+  {
+   "id": "loc_s-19",
+   "topic": "listas-oficiais",
+   "claim": "A escola Loba do Mar (Av. Água Verde, 51, Curitiba) é credenciada pela CPPR pela Portaria nº 07/2023.",
+   "source_url": "https://www.marinha.mil.br/cppr/entidades_nauticas",
+   "locator": "Entrada 'LOBA DO MAR (Portaria Nº 07/2023)'",
+   "quote": "LOBA DO MAR (Portaria Nº 07/2023)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Endereço do credenciamento: Avenida Água verde, nº 51 – Água Verde – Curitiba/PR."
+  },
+  {
+   "id": "loc_s-20",
+   "topic": "listas-oficiais",
+   "claim": "A Delegacia da Capitania dos Portos em Laguna publica a lista de estabelecimentos de treinamento náutico de sua jurisdição para atestados de Arrais-Amador e Motonauta (página atualizada em 19/05/2026).",
+   "source_url": "https://www.marinha.mil.br/dellaguna/entidades_nauticas",
+   "locator": "Página 'Entidades Náuticas', parágrafo de abertura",
+   "quote": "Estabelecimentos de Treinamento Náutico para qualificação de Amadores na condução, exclusivamente, de Embarcações de Esporte e Recreio e emissão de Atestado de Treinamento para Arrais Amador e Atestado de Treinamento para Motonauta",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Inclui escolas em Laguna, Passo de Torres e Balneário Rincão."
+  }
+ ],
+ "locais": [
+  {
+   "id": "s-rs-clube-dos-jangadeiros",
+   "nome": "Clube dos Jangadeiros — Escola de Vela Barra Limpa",
+   "tipos": [
+    "iate-clube",
+    "escola-vela",
+    "preparatorio-cha",
+    "regata"
+   ],
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "lat": -30.1105887,
+   "lon": -51.2581412,
+   "coord_precisao": "exata",
+   "site": "https://jangadeiros.com.br/",
+   "fonte_url": "https://jangadeiros.com.br/vela-para-adultos/",
+   "evidencia": "\"há cursos voltados para Vela de Cruzeiro, com aulas práticas e teóricas em veleiros como o Ranger 22, que abordam navegação, manobras, uso de rádio VHF, noções de cartas náuticas e orientações de segurança\"; em /habilitacoes-e-outros-servicos/: \"São oferecidos cursos preparatórios para Arrais Amador e Mestre Amador\"",
+   "cursos": [
+    "iniciação à vela (Monotipo Básico: Laser, Dingue, Flash 165, DaySailer 16)",
+    "Velejar+ Monotipo",
+    "Vela de Cruzeiro (Ranger 22)",
+    "Velejar+ Cruzeiro",
+    "Arrais-Amador (preparatório)",
+    "Mestre-Amador (preparatório)",
+    "aulas particulares"
+   ],
+   "pratica": "Monotipos e veleiro de cruzeiro Ranger 22 no Guaíba; vivências, regatas e treinamentos especiais da escola; regatas do clube (ex.: 36º Troféu Cayru).",
+   "contato": "WhatsApp (51) 3094-5770 · escoladevela@jangadeiros.com.br · Rua Ernesto Paiva, 139, Tristeza",
+   "notas": "Escola inaugurada em 13/12/1975 (site). A página 'Rede de Tripulantes' existe, mas em 2026-10-07 exibia 'FORMULÁRIO EM DESENVOLVIMENTO' (https://jangadeiros.com.br/rede-de-tripulantes/). Coordenada: Nominatim casou o número 139 com o próprio clube.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-rs-veleiros-do-sul",
+   "nome": "Veleiros do Sul (VDS) — Escola de Vela Minuano",
+   "tipos": [
+    "iate-clube",
+    "escola-vela",
+    "preparatorio-cha",
+    "regata",
+    "crew-finder"
+   ],
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "lat": -30.0961028,
+   "lon": -51.2556346,
+   "coord_precisao": "exata",
+   "site": "https://vds.com.br/",
+   "fonte_url": "https://vds.com.br/evm/",
+   "evidencia": "\"Curso de Capitão Amador | O Capitão Amador está habilitado a conduzir embarcações entre portos nacionais e estrangeiros sem limitação geográfica.\"; \"Oceano I ... Conceito: Iniciação à vela em Oceano no barco Ranger 22\"; em /regatas/: \"Banco de Tripulantes | Preencha o formulário e aguarde um dos comandantes entrar em contato!\"",
+   "cursos": [
+    "Monotipo I e II (ILCA, Dingue, Day Sailer)",
+    "Oceano I e II (Ranger 22)",
+    "Arrais-Amador (preparatório)",
+    "Mestre-Amador (preparatório)",
+    "Capitão-Amador (preparatório, 13 aulas)",
+    "vela infantil (Optimist) e jovem (ILCA, Dingue)"
+   ],
+   "pratica": "Vela de oceano em Ranger 22 (manobras, regulagens, navegação segura); calendário intenso de regatas (34º Circuito Conesul de Vela de Oceano, Velejaço Noturno); Banco de Tripulantes para embarcar com comandantes do clube.",
+   "contato": "evm@vds.com.br · (51) 3265-1733 ramal 3 · WhatsApp (51) 99805-4749 · Av. Guaíba, 2941, Vila Assunção",
+   "notas": "Horários publicados: Capitão-Amador às terças e quintas, 19h–21h; Arrais 3 dias; Mestre 4 encontros. Coordenada: Nominatim casou o número 2941 com o próprio clube.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-rs-iate-clube-guaiba",
+   "nome": "Iate Clube Guaíba (ICG) — Escola de Vela Vento Sul",
+   "tipos": [
+    "iate-clube",
+    "escola-vela",
+    "regata"
+   ],
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "lat": -30.0937358,
+   "lon": -51.2509917,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://iateclubeguaiba.com.br/",
+   "fonte_url": "https://iateclubeguaiba.com.br/escola-de-vela/",
+   "evidencia": "\"Nossos cursos de monotipo (classes Dingue, ILCA e Snipe) e o módulo oceano é ideal para quem quer iniciar no esporte ou aperfeiçoar suas técnicas\"; \"Aulas realizadas no veleiro Tulipa 22 pés\"",
+   "cursos": [
+    "Vela Monotipo Infantil e Juvenil",
+    "Vela Monotipo Adulto 18+ (Dingue, ILCA, Snipe)",
+    "Módulo Vela Oceânica — fim de semana",
+    "Curso Completo de Vela Oceânica (Tulipa 22 pés)",
+    "Day Use de embarcações"
+   ],
+   "pratica": "Monotipos e veleiro-escola Tulipa 22 pés no Guaíba; Day Use após certificação; regatas do clube (Copa Limpa Trapiche, Copa Cruzeiro Oceano BRA-RGS no calendário de out/2026).",
+   "preco": "Vela Monotipo Adulto (8 aulas): R$ 550 (sócios/indicados) / R$ 750 (não sócios); Módulo Vela Oceânica fim de semana: R$ 300/pessoa; Curso Completo de Vela Oceânica (8 aulas): R$ 750 / R$ 900; Day Use com apoio: ILCA R$ 80, Dingue/Snipe R$ 140 — preços do site em 2026-10-07",
+   "contato": "(51) 99661-9617",
+   "notas": "O site não publica endereço; coordenada do OSM (feição 'Iate Clube Guaíba', bairro Cristal), coerente com a 'baía do Cristal' citada na página Nossa História.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "s-rs-rio-grande-yacht-club",
+   "nome": "Rio Grande Yacht Club (RGYC) — Escola de Vela João Hugo Altmayer",
+   "tipos": [
+    "iate-clube",
+    "escola-vela"
+   ],
+   "cidade": "Rio Grande",
+   "uf": "RS",
+   "lat": -32.0262252,
+   "lon": -52.1072843,
+   "coord_precisao": "exata",
+   "site": "https://www.yachtclub.com.br/",
+   "fonte_url": "https://www.yachtclub.com.br/velas/",
+   "evidencia": "\"A Escola de Vela João Hugo Altmayer oportuniza aulas nos monotipos Optimist e Laser. Também oferece aulas de Vela de Oceano.\"; \"oportuniza a sócios e a não sócios os conhecimentos náuticos através de aulas teóricas e práticas\"",
+   "cursos": [
+    "Optimist",
+    "Laser",
+    "Vela de Oceano"
+   ],
+   "pratica": "Aulas na Lagoa dos Patos/estuário com acompanhamento de bote; clube recebe veleiros de cruzeiro no 'trapiche de visitantes'.",
+   "contato": "+55 (53) 3231-6908 · secretaria@rgyc.com.br · R. Capitão-Tenente Heitor Perdigão, s/n, Centro",
+   "notas": "Notícia de 14/12/2022 em https://www.yachtclub.com.br/velejadores-visitantes/: \"Por ser o último Yacht Clube no litoral brasileiro, o Rio Grande Yacht Club (RGYC) recebe visitantes de todas as partes do mundo\". Rodapé do site com copyright 2021 — horários/turmas atuais a confirmar. Coordenada: POI OSM 'Yacht Club de Rio Grande'.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-rs-porto-habilitacao-nautica",
+   "nome": "Porto Habilitação Náutica",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "lat": -30.1012783,
+   "lon": -51.2657606,
+   "coord_precisao": "exata",
+   "site": "https://www.portohabilitacaonautica.com.br/",
+   "fonte_url": "https://www.portohabilitacaonautica.com.br/cursos",
+   "evidencia": "Página de cursos lista \"Arrais Amador | Apto a pilotar somente lanchas, barcos, veleiros ou botes nos limites da navegação interior\", \"Motonauta\" e \"Arrais Amador + Motonauta\"; página inicial: \"conta com mais de 2000 alunos habilitados entre eles Motonautas, Arrais-Amadores e Mestre-Amadores\"",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Treinamento prático para o atestado de Arrais-Amador (lancha).",
+   "contato": "contato@portohabilitacaonautica.com.br · (51) 99185-9899 · (51) 99312-8201 · Av. Guaíba, 4127, Vila Assunção",
+   "notas": "O rodapé diz 'Escola Credenciada', mas não localizei a lista oficial da Capitania dos Portos do RS para conferir (URL /cprs/entidades_nauticas deu 404). Curso de Mestre não aparece na página de cursos. No OSM o número 4127 da Av. Guaíba corresponde ao 'Sava Clube'.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-rs-fevers",
+   "nome": "FEVERS — Federação de Vela do Estado do Rio Grande do Sul",
+   "tipos": [
+    "regata"
+   ],
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "lat": -30.0961028,
+   "lon": -51.2556346,
+   "coord_precisao": "exata",
+   "site": "https://fevers.org.br/",
+   "fonte_url": "https://fevers.org.br/fevers/home/",
+   "evidencia": "\"34º Circuito Conesul reúne a vela oceânica gaúcha | Competição foi realizada de 11 a 20 de setembro, com disputas nas classes One-Design, ORC, BRA-RGS e Bico de Proa\"",
+   "cursos": [],
+   "pratica": "Calendário estadual de regatas de monotipo e oceano (em construção o Calendário de Vela 2027) — ponto de partida para achar regatas onde embarcar como tripulante via clubes filiados.",
+   "contato": "Av. Guaíba, 2941, Vila Assunção (endereço publicado no rodapé)",
+   "notas": "Mesmo endereço do Veleiros do Sul; coordenada igual à do VDS.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-rs-pro-wind-pelotas",
+   "nome": "Pro Wind – Escola Náutica (Laranjal)",
+   "tipos": [
+    "escola-vela"
+   ],
+   "cidade": "Pelotas",
+   "uf": "RS",
+   "lat": -31.7621792,
+   "lon": -52.2315062,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://prowind.com.br/",
+   "fonte_url": "http://prowind.com.br/barco-a-vela-na-prowind/",
+   "evidencia": "\"As aulas de barco a vela (monotipo) são a porta de entrada ideal para quem quer aprender a velejar de forma prática, segura e divertida.\"; \"Na Praia do Laranjal, em Pelotas (RS), a Lagoa dos Patos oferece condições perfeitas para iniciantes\"",
+   "cursos": [
+    "iniciação à vela em monotipo",
+    "windsurf",
+    "kitesurf"
+   ],
+   "pratica": "Aulas práticas de monotipo na Lagoa dos Patos (águas abrigadas), individuais ou em pequenos grupos.",
+   "contato": "(53) 99982-5891 (Leo) · contato@prowind.com.br · Av. Dr. Antônio Augusto de Assumpção, 7627, Laranjal",
+   "notas": "Endereço não geocodificou no Nominatim; coordenada do bairro Laranjal. Foco principal da escola é windsurf/kite.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-icsc-sede-oceanica-jurere",
+   "nome": "Iate Clube de Santa Catarina – Veleiros da Ilha (Sede Oceânica, Jurerê)",
+   "tipos": [
+    "iate-clube",
+    "escola-vela",
+    "regata"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "lat": -27.433333,
+   "lon": -48.468889,
+   "coord_precisao": "exata",
+   "site": "https://icsc.com.br/",
+   "fonte_url": "https://icsc.com.br/sede-oceanica/",
+   "evidencia": "\"Galpão de Vela para guarda de embarcações monotipos e sede da Escola de Vela\"; em /escola-de-vela/: \"abrangendo um público de 6 a 15 anos, no barco Optimist, e acima desta idade no Dingue (incluindo adultos)\"; em /oceano/: \"58ª Regata Volta à Ilha de Santa Catarina - 05/12/2026\"",
+   "cursos": [
+    "Optimist (6–15 anos)",
+    "Dingue (jovens e adultos)"
+   ],
+   "pratica": "Escola de vela em Jurerê; calendário oceânico do clube: Copa Veleiros de Oceano 2026 (ex.: Regata Mormaii 07/11/2026), 58ª Regata Volta à Ilha (05/12/2026), Circuito Oceânico de SC (fevereiro).",
+   "contato": "(48) 3266-1280 · (48) 99148-1697 · sedeoceanica@icsc.com.br · VHF canal 16, prefixo Bravo 26 · Rod. Tertuliano Brito Xavier, 3052, Jurerê",
+   "notas": "Coordenadas publicadas no site: 27º26’0’’ S / 48º28’8’’ W. A Escola Náutica Sampaio afirma que seu instrutor de Mestre/Capitão também dá aulas no ICSC — não confirmado no site do ICSC.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-icsc-sede-central",
+   "nome": "Iate Clube de Santa Catarina – Veleiros da Ilha (Sede Central, Centro)",
+   "tipos": [
+    "iate-clube",
+    "marina"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "lat": -27.601389,
+   "lon": -48.535833,
+   "coord_precisao": "exata",
+   "site": "https://icsc.com.br/",
+   "fonte_url": "https://icsc.com.br/sede-central/",
+   "evidencia": "\"guarda de embarcações à vela, motor e jet-sky na água em três trapiches\"; \"guincho/pau de carga (veleiros até 15 toneladas)\"; \"(Estes serviços podem ser usados por sócios de clubes conveniados e alguns, sob consulta, por terceiros)\"",
+   "cursos": [
+    "escola de vela (listada entre os serviços)"
+   ],
+   "pratica": "Base náutica na Baía Sul: trapiches, poitas, combustível, oficinas e lojas náuticas.",
+   "contato": "(48) 3225-7799 · WhatsApp (48) 99172-4533 · icsc@icsc.com.br · VHF canal 16, prefixo Bravo 20 · Rua Silva Jardim, 838, Centro",
+   "notas": "Coordenadas publicadas no site: 27°36’5’’ S / 48°32’9’’ W.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-hangar-do-lic",
+   "nome": "Hangar do LIC — Escola de Vela do Lagoa Iate Clube",
+   "tipos": [
+    "iate-clube",
+    "escola-vela",
+    "regata"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "lat": -27.6094338,
+   "lon": -48.4759877,
+   "coord_precisao": "exata",
+   "site": "https://hangardolic.com.br/",
+   "fonte_url": "https://hangardolic.com.br/",
+   "evidencia": "\"Temos aulas para todas as idades e níveis de experiência.\"; \"Classe Dingue | Para quem está começando.\"; \"Endereco | LIC Lagoa Iate Clube - Rua Hipolito do Valle Pereira, 620, Lagoa da Conceicao\"",
+   "cursos": [
+    "Dingue (iniciação)",
+    "ILCA/Laser",
+    "Optimist (crianças e jovens)",
+    "aula experimental"
+   ],
+   "pratica": "Aulas e regatas na Lagoa da Conceição (águas abrigadas); guarderia de barcos.",
+   "contato": "(48) 99192-9345 · hangar@lic.org.br",
+   "notas": "Site acessado pelo linktree do perfil @hangardolic (Instagram abriu sem login e mostra 'Cursos de Vela para todas as idades'). O site oficial do clube (https://www.lic.org.br/) confirma o endereço. Linktree divulga a Copa Sul Master ILCA (21–22/11, no LIC). Coordenada: POI OSM 'Lagoa Iate Clube'.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-escola-nautica-sampaio",
+   "nome": "Escola Náutica Sampaio",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "lat": -27.3980879,
+   "lon": -48.4283065,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://escolanauticasampaio.com.br/",
+   "fonte_url": "https://escolanauticasampaio.com.br/capitao-amador/",
+   "evidencia": "\"Um dos cursos disponíveis é o de Capitão Amador, destinado a navegadores que buscam experiências em águas mais profundas, sem limite de distância.\"; página de Mestre: \"Todas as nossas aulas são presenciais.\"",
+   "cursos": [
+    "Arrais-Amador",
+    "Mestre-Amador",
+    "Capitão-Amador",
+    "Motonauta",
+    "simulados online (gratuito e premium)"
+   ],
+   "pratica": "Aulas práticas de lancha/jet no norte da Ilha (Santo Antônio de Lisboa, Sambaqui, Canasvieiras, Cachoeira do Bom Jesus, Ponta das Canas).",
+   "contato": "(48) 98466-2994",
+   "notas": "Consta na lista oficial da CPSC (localidade Ponta das Canas, vencimento 10/2028). O site não publica endereço completo; coordenada do bairro Ponta das Canas.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-pronautica",
+   "nome": "ProNáutica — Escola Náutica (Lagoa da Conceição)",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "lat": -27.6090744,
+   "lon": -48.4542454,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.pronautica.com.br/",
+   "fonte_url": "https://www.pronautica.com.br/",
+   "evidencia": "\"ESCOLA NÁUTICA | Cursos práticos e teóricos | Arrais Amador e Motonauta\"; endereço \"Av. das Rendeiras, 200 | Lagoa da Conceição - Florianópolis - SC\"",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Aulas práticas em lancha (Arrais) e jet ski (Motonauta) na Lagoa da Conceição.",
+   "contato": "(48) 3235-2222 · +55 48 99182-5250 · pronautica@pronautica.com.br · Av. das Rendeiras, 200",
+   "notas": "Consta na lista da CPSC (vencimento 08/2027). Não oferece vela. Rodapé do site com copyright 2021. Nominatim devolveu a área 'Dunas da Lagoa', não o número.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-escola-de-vela-oceano",
+   "nome": "Escola de Vela Oceano",
+   "tipos": [
+    "escola-vela",
+    "charter"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "lat": -27.4963157,
+   "lon": -48.5235455,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.escoladevelaoceano.com.br/",
+   "fonte_url": "https://www.escoladevelaoceano.com.br/",
+   "evidencia": "\"Cinco módulos que levam você da iniciação ao comando de um veleiro de travessias oceânicas.\"; \"Marina Santo Antônio – Rodovia Gilson da Costa Xavier, 125 – Florianópolis\"; Módulo 5: \"Três dias de navegação com pelo menos 12 horas de navegação noturna para troca de turnos.\"",
+   "cursos": [
+    "Módulo 1 – águas abrigadas",
+    "Módulo 2 – águas desabrigadas",
+    "Módulo 3 – navegação costeira",
+    "Módulo 4 – mar aberto",
+    "Módulo 5 – travessia (36 h, 70–120 milhas)",
+    "Personal Sailing",
+    "aula experimental",
+    "charter com instrução"
+   ],
+   "pratica": "Progressão em veleiro do zero à travessia, com Carteira de Registro de milhas navegadas; no Módulo 5 aceita 'Tripulante Ouvinte' sem experiência.",
+   "preco": "Módulo 1: R$ 1.490 no cartão (até 6x) ou R$ 1.370 à vista; Módulo 5: R$ 2.600 (até 6x) ou R$ 2.400 à vista — preços do site em 2026-10-07",
+   "contato": "(48) 98811-3123",
+   "notas": "Fundador declarado como gestor da ABEV (Associação Brasileira de Escolas de Vela). Coordenada geocodificada no trecho da rodovia em Santo Antônio de Lisboa (sem o número).",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "s-sc-travessias-oceanicas-pangeia",
+   "nome": "Travessias Oceânicas — Veleiro-escola Pangeia",
+   "tipos": [
+    "escola-vela",
+    "charter"
+   ],
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "lat": -27.5973002,
+   "lon": -48.5496098,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.travessiasoceanicas.com/",
+   "fonte_url": "https://www.travessiasoceanicas.com/agenda/",
+   "evidencia": "Página inicial: \"Nossas Travessias são no formato de Clínicas de Vela Oceânica, em média 3 a 7 dias embarcados entre portos da costa brasileira.\"; Agenda 2026: \"28/nov a 04/dez: Paraty - Ilhabela - Florianópolis\" e \"11 a 13 / dez: Volta a Ilha de Santa Catarina\"",
+   "cursos": [
+    "clínicas de vela oceânica (3–7 dias embarcado)",
+    "Volta à Ilha de Santa Catarina (3 dias)"
+   ],
+   "pratica": "Vivência embarcada em travessias costeiras (até 6 alunos, veleiro de 44 pés): plotagem de posição na carta a cada duas horas, plano de navegação, navegação noturna.",
+   "contato": "(48) 98427-6427",
+   "notas": "Operação itinerante pela costa brasileira (a agenda 2026 inclui Refeno e trechos NE–SE). O site não publica a marina de base; uma listagem da ABEV cita a Rod. Gilson da Costa Xavier, 125 (Santo Antônio de Lisboa), mas essa listagem parece ter textos trocados — base a confirmar.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-marevento-itajai",
+   "nome": "MAREVENTO — Curso de Vela, Charter e Assessoria ao Velejador",
+   "tipos": [
+    "escola-vela",
+    "charter"
+   ],
+   "cidade": "Itajaí",
+   "uf": "SC",
+   "lat": -26.910556,
+   "lon": -48.653611,
+   "coord_precisao": "exata",
+   "site": "https://marevento.com.br/",
+   "fonte_url": "https://marevento.com.br/curso-de-vela/",
+   "evidencia": "\"As aulas são realizadas nas águas abrigadas da Bahia Affonso Wipel, também chamada de Saco da Fazenda, onde fica a Marina Itajaí.\"; \"O barco utilizado é o “Neréiades”, um veleiro monocasco, modelo Brasília, de 25 pés.\"",
+   "cursos": [
+    "Curso de Vela Básico (veleiro 11 pés, 12 h)",
+    "Curso de Vela Oceânica (veleiro 25 pés, 12 h)",
+    "Curso de Vela para Casal",
+    "assessoria para compra de veleiro"
+   ],
+   "pratica": "Aulas no Saco da Fazenda, Rio Itajaí-Açu e mar entre São Miguel (Navegantes) e Cabeçudas; charters no litoral norte de SC.",
+   "preco": "Curso de Vela Básico: R$ 1.600 por pessoa; Curso de Vela Oceânica: R$ 2.000 por pessoa (preço especial para duplas) — preços do site em 2026-10-07",
+   "contato": "(47) 99695-9648 · (47) 99981-4468 · contato@marevento.com.br · Av. Carlos Ely Castro, 100, Centro",
+   "notas": "Atua desde 2016 em parceria com a Marina Itajaí (site). Coordenada = coordenadas publicadas pela Marina Itajaí, mesmo endereço.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "s-sc-issa-brazil-itajai",
+   "nome": "ISSA Brazil — escola credenciada pela International Sailing School Association",
+   "tipos": [
+    "escola-vela",
+    "radio-certificacao"
+   ],
+   "cidade": "Itajaí",
+   "uf": "SC",
+   "lat": -26.910556,
+   "lon": -48.653611,
+   "coord_precisao": "exata",
+   "site": "https://issabrazil.com.br/",
+   "fonte_url": "https://issabrazil.com.br/",
+   "evidencia": "\"Somos a única escola credenciada no Brasil pela International Sailing School Association (ISSA)\"; \"Datas da próxima turma: Outubro 2026. Local:Marina Itajaí - Itajaí / SC.\"",
+   "cursos": [
+    "Master of Yacht (72 h, 8 dias; pré-requisitos: 500 mn como comandante e no mínimo Mestre-Amador)",
+    "Offshore Skipper (64 h, 7 dias; 200 mn)",
+    "SRC/VHF + GMDSS (online)",
+    "primeiros socorros (incluído)"
+   ],
+   "pratica": "Curso embarcado de 7–8 dias com navegação noturna, MOB, ancoragem e planejamento de travessia; turma de até 5 alunos.",
+   "preco": "Master of Yacht: R$ 11.700 (+ emissão da licença 120 € e SRC 40 €); Offshore Skipper: R$ 7.850; upgrade para Offshore Skipper: R$ 3.850; SRC/VHF online: R$ 1.400 — preços do site em 2026-10-07",
+   "contato": "lucio.de.almeida@issabrazil.com.br",
+   "notas": "ISSA não é RYA nem ASA. As frases sobre aceitação mundial das licenças são da própria escola e não foram verificadas. O site diz do SRC: 'Em águas internacionais ela é exigida além da habilitação do comandante'. Para conduzir embarcações de esporte e/ou recreio no Brasil, a NORMAM-211 (art. 5.3.3) torna obrigatório o porte da CHA; a certificação ISSA é complementar. Coordenada = Marina Itajaí, local declarado das aulas.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "s-sc-ani-itajai",
+   "nome": "ANI — Associação Náutica de Itajaí",
+   "tipos": [
+    "clube-nautico",
+    "escola-vela",
+    "regata"
+   ],
+   "cidade": "Itajaí",
+   "uf": "SC",
+   "lat": -26.9153274,
+   "lon": -48.653073,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.anitajai.org/",
+   "fonte_url": "https://www.anitajai.org/projetos/",
+   "evidencia": "\"Todas as embarcações atracadas no píer comunitário da ANI, disponibilizam 3h de aula para comunidade por mês, gratuitamente.\"; \"promove regatas de monotipo, e também de veleiros oceânicos, como as clássicas Regata de Verão, Regata de Inverno e Regata de Encerramento\"",
+   "cursos": [
+    "Barco Escola (vela oceânica, gratuito)",
+    "Escolinha de Vela (Optimist, 7–18 anos)",
+    "aulas de vela particulares (optimist, holder, laser, bateras)",
+    "Construção Naval Amadora (Ibis Rubra 3.5, ~9 meses)"
+   ],
+   "pratica": "Primeiro contato gratuito com vela oceânica nos veleiros do píer comunitário (agenda on-line); regatas de monotipo e oceano.",
+   "preco": "Barco Escola: gratuito (3 h de aula por mês por embarcação) — site em 2026-10-07",
+   "contato": "contato@anitajai.org · (47) 99744-6162 · Av. Ministro Victor Konder, 1001, Fazenda",
+   "notas": "ONG fundada em 2002 (site). Coordenada geocodificada no trecho da avenida (sem o número).",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "s-sc-marina-itajai",
+   "nome": "Marina Itajaí",
+   "tipos": [
+    "marina"
+   ],
+   "cidade": "Itajaí",
+   "uf": "SC",
+   "lat": -26.910556,
+   "lon": -48.653611,
+   "coord_precisao": "exata",
+   "site": "https://www.marinaitajai.com/",
+   "fonte_url": "https://www.marinaitajai.com/",
+   "evidencia": "\"Nossa estrutura conta com capacidade para comportar 355 embarcações em vagas secas e molhadas\"; coordenadas \"26º 54’ 38” S – 48º 39’ 13” W\"",
+   "cursos": [],
+   "pratica": "Base de cursos de terceiros (ISSA Brazil, MAREVENTO) e de regatas; vagas secas e molhadas.",
+   "contato": "(47) 3349-8080 · Av. Carlos Ely Castro, 100, Centro",
+   "notas": "Organiza anualmente o Salão Náutico Marina Itajaí, em julho (site). Coordenadas publicadas pela marina.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-porto-belo-vela-clube",
+   "nome": "Porto Belo Vela Clube (Escola de Vela e Escola Náutica)",
+   "tipos": [
+    "clube-nautico",
+    "escola-vela",
+    "preparatorio-cha"
+   ],
+   "cidade": "Porto Belo",
+   "uf": "SC",
+   "lat": -27.1505027,
+   "lon": -48.5365929,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://portobelovelaclube.com.br/",
+   "fonte_url": "https://portobelovelaclube.com.br/index.php/escola-de-vela/",
+   "evidencia": "\"O público atendido é de faixa etária de 08 a 15 anos no barco Optimist e acima desta idade no Dingue, Holder, Laser e Day sailer\"; página inicial: \"Cursos para Capitão Amador, Mestre Amador, Arrais Amador e Motonauta.\"",
+   "cursos": [
+    "vela nível básico (12 h)",
+    "vela nível intermediário",
+    "Arrais-Amador",
+    "Mestre-Amador",
+    "Capitão-Amador",
+    "Motonauta"
+   ],
+   "pratica": "Monotipos na Enseada de Porto Belo; após o curso o aluno pode se associar e velejar duas vezes por mês com barco do clube.",
+   "contato": "(47) 3369-4445 · (47) 98408-0165 · (47) 98814-7929",
+   "notas": "Página 'Quem Somos': portaria da Delegacia da Capitania dos Portos em Itajaí recebida em 08/01/2020 para despachante e escola náutica. O endereço não aparece no site; Av. Gov. Celso Ramos, 2277 vem da ficha do Google Maps, por isso geocodificado só em nível de rua.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-sc-velamagia-porto-belo",
+   "nome": "Velamagia Charters",
+   "tipos": [
+    "charter",
+    "escola-vela"
+   ],
+   "cidade": "Porto Belo",
+   "uf": "SC",
+   "lat": -27.1542415,
+   "lon": -48.5424395,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://velamagia.com.br/",
+   "fonte_url": "https://velamagia.com.br/cursos/",
+   "evidencia": "\"Curso Básico Prático de Vela Oceânica e Navegação Tradicional | Básico Módulo 1 / Veleiro 50 pés / 2 Dias e 1 Pernoite a bordo | Embarques em Porto Belo, Bombinhas ou Florianópolis\"",
+   "cursos": [
+    "Curso Básico Prático de Vela Oceânica e Navegação Tradicional (2 dias, 1 pernoite)",
+    "Experiência prática 'Day Sailing' (6 h)",
+    "charters privativos"
+   ],
+   "pratica": "Vela oceânica em veleiro de 50 pés com pernoite a bordo; navegação por carta sem auxílio eletrônico.",
+   "preco": "Não público ('Valor Base Individual: Consulte por gentileza')",
+   "contato": "WhatsApp (47) 99204-1363",
+   "notas": "O site não publica endereço de base (embarques em Porto Belo, Bombinhas ou Florianópolis); coordenada do município de Porto Belo.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "s-pr-feip",
+   "nome": "FEIP — Federação de Iatismo do Estado do Paraná",
+   "tipos": [
+    "regata"
+   ],
+   "cidade": "Curitiba",
+   "uf": "PR",
+   "lat": -25.4276134,
+   "lon": -49.2824532,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://www.feip.org.br/",
+   "fonte_url": "https://www.feip.org.br/aprenda-a-velejar",
+   "evidencia": "\"Selecionamos algumas escolas para você descobrir o mundo mágico para aprender a velejar.\"; página inicial: \"Festival Vela & Motor Antonina 14/11/2026\"",
+   "cursos": [],
+   "pratica": "Calendário de regatas 2026 (incl. regatas da classe Oceano / Flotilha Paranaense de Vela Oceânica) e indicação de escolas por cidade (Foz do Iguaçu, Curitiba, Pontal do Sul, Antonina, Paranaguá, Guaratuba).",
+   "contato": "(41) 99677-9074 · secretaria@feip.org.br · comunicacao@feip.org.br · Rua Martim Afonso, 491, Curitiba",
+   "notas": "O CEP do site (80410-060) diverge do CEP que o OSM dá para o número 491 (81020-430); coordenada tratada como aproximada.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-pr-espaco-vela-e-voo",
+   "nome": "Espaço Vela e Voo Curitiba (Represa do Passaúna)",
+   "tipos": [
+    "escola-vela",
+    "marina"
+   ],
+   "cidade": "Araucária",
+   "uf": "PR",
+   "lat": -25.5861107,
+   "lon": -49.4051209,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.feip.org.br/espacovelaevoo",
+   "fonte_url": "https://www.feip.org.br/espacovelaevoo",
+   "evidencia": "\"localizado as margens da Represa do Rio Passaúna, em Araucária. Fundado por Robson Ruthes, em 2017 o espaço oferece cursos de vela para todos os níveis\"; \"Possuímos um amplo espaço de Marina na qual em Janeiro de 2025 mantemos 108 embarcações\"",
+   "cursos": [
+    "cursos de vela para todos os níveis",
+    "locação supervisionada de embarcações",
+    "passeios de veleiro (19/23/24 pés)"
+   ],
+   "pratica": "Vela em águas interiores (represa) perto de Curitiba; aluno pode locar barcos após o curso.",
+   "contato": "robruthes@gmail.com · (41) 99924-7764",
+   "notas": "Sem site próprio localizado; evidência na página da FEIP (federação estadual). Endereço exato não aberto (um resultado de busca do Instagram cita 'Av Centenário, 233 - Araucária', não verificado). Coordenada do município.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-pr-veleiro-limonada",
+   "nome": "Veleiro Limonada (Pontal do Sul)",
+   "tipos": [
+    "charter",
+    "escola-vela"
+   ],
+   "cidade": "Pontal do Paraná",
+   "uf": "PR",
+   "lat": -25.5747824,
+   "lon": -48.3614848,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://veleirolimonada.com.br/",
+   "fonte_url": "https://veleirolimonada.com.br/",
+   "evidencia": "\"Oferecemos o serviço de day charter para grupos até 6 pessoas, charter com pernoite para casais e pequenas famílias e aula de vela oceânica para os aventureiros\"",
+   "cursos": [
+    "aula de vela oceânica (particular)",
+    "day charter",
+    "charter com pernoite"
+   ],
+   "pratica": "Veleiro de 25 pés na baía de Paranaguá / Ilha do Mel.",
+   "contato": "WhatsApp (41) 99968-0342",
+   "notas": "Também listado pela FEIP em 'Aprenda a Velejar'. Coordenada da localidade Pontal do Sul.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-pr-iate-clube-paranagua",
+   "nome": "Iate Clube de Paranaguá (ICP)",
+   "tipos": [
+    "iate-clube",
+    "marina"
+   ],
+   "cidade": "Paranaguá",
+   "uf": "PR",
+   "lat": -25.5151546,
+   "lon": -48.4997484,
+   "coord_precisao": "exata",
+   "site": "https://www.iateclubedeparanagua.com.br/",
+   "fonte_url": "https://www.iateclubedeparanagua.com.br/page1.html",
+   "evidencia": "Página inicial: \"Em nossas instalações abrigamos embarcações em vagas secas e molhadas, além de pátios para manutenção e reparos.\"; tarifas: \"ESTADIA EMBARCAÇÕES VISITANTES MARINA [Até 40 pés]\"",
+   "cursos": [],
+   "pratica": "Marina para veleiros visitantes (até 40 pés) e base para passeios/aulas de terceiros na Baía de Paranaguá.",
+   "preco": "Tabela de tarifas datada de 2018 no site: visitante conveniado R$ 4,00 por pé/pernoite; não conveniado R$ 4,50; sócio R$ 3,00 — valores antigos, confirmar",
+   "contato": "administrativo@iateclubedeparanagua.com.br · (41) 3422-5622",
+   "notas": "Fundado em 1952, no Rio Itiberê (site). A FEIP cita o Veleiro Putzi (36 pés) com embarque no ICP para passeios/aulas. Coordenada: POI OSM 'Iate Clube de Paranaguá' (marina).",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  },
+  {
+   "id": "s-pr-iate-clube-pontal-do-sul",
+   "nome": "Iate Clube Pontal do Sul (ICPS)",
+   "tipos": [
+    "iate-clube",
+    "marina"
+   ],
+   "cidade": "Pontal do Paraná",
+   "uf": "PR",
+   "lat": -25.5672842,
+   "lon": -48.3623425,
+   "coord_precisao": "aprox-bairro",
+   "site": "https://icps.com.br/",
+   "fonte_url": "https://icps.com.br/",
+   "evidencia": "\"Vagas cobertas de hangar e garagem, rampa reformada para lançamento e retirada, e píeres de atracação na baía.\"; \"R. da Soja, 2 — Pontal do Paraná/PR\"",
+   "cursos": [],
+   "pratica": "Apoio náutico (combustível, água doce, marinheiros) para associados; sem escola de vela anunciada.",
+   "contato": "(41) 3455-1141 · secretaria@icps.com.br",
+   "notas": "Aviso fixado em 08/09/2026 sobre a documentação exigida pela Marinha para sair com a embarcação. Coordenada no trecho da Rua da Soja.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07",
+   "preco": ""
+  },
+  {
+   "id": "s-pr-loba-do-mar",
+   "nome": "Loba do Mar — Escola Náutica",
+   "tipos": [
+    "preparatorio-cha"
+   ],
+   "cidade": "Pontal do Paraná",
+   "uf": "PR",
+   "lat": -25.574765,
+   "lon": -48.3614806,
+   "coord_precisao": "aprox-cidade",
+   "site": "https://www.lobadomar.com.br/",
+   "fonte_url": "https://www.lobadomar.com.br/",
+   "evidencia": "\"Curso completo de Arrais Amador, Motonauta e Mestre Amador com aulas teóricas e práticas em Pontal, frente à Ilha do Mel.\"",
+   "cursos": [
+    "Arrais-Amador",
+    "Motonauta",
+    "Mestre-Amador"
+   ],
+   "pratica": "Aulas práticas em embarcação própria da escola, em Pontal do Paraná, entre a Ilha do Mel e o Porto de Paranaguá.",
+   "preco": "Arrais-Amador: R$ 900 à vista (ou 6x R$ 167); Mestre-Amador: R$ 1.500 à vista (ou 6x R$ 284); Arrais + Motonauta: R$ 1.700 (ou 6x R$ 326) — preços do site em 2026-10-07",
+   "contato": "WhatsApp (41) 99237-8899",
+   "notas": "Credenciada pela CPPR (Portaria nº 07/2023; endereço do credenciamento: Av. Água Verde, 51, Curitiba — escritório). O site afirma que o Arrais permite navegar até '1,5 milhas da costa'; a NORMAM-211 (art. 5.3.3 c) define o ARA pela navegação interior delimitada nas NPCP — conferir a NPCP da CPPR. Coordenada do município.",
+   "pais": "Brasil",
+   "regiao": "Sul",
+   "verificado_em": "2026-10-07"
+  }
+ ],
+ "open_questions": [
+  "Vida Marítima (Estreito, Florianópolis) consta na lista da CPSC (vencimento 07/2027), mas o site vidamaritima.com.br estava em manutenção ('Voltamos em Breve') em 2026-10-07 — não incluída.",
+  "Lagoa Iate Clube: confirmado via hangardolic.com.br; o site do clube (lic.org.br) não descreve a escola — manter monitorado.",
+  "Escola de Vela Porto Belo (Fast 345, junto ao Iate Clube de Porto Belo) aparece só no Instagram e na listagem da ABEV; sem site próprio aberto — não incluída.",
+  "Veleiros Saldanha da Gama (Pelotas) e Sotavento Escola de Vela (Pelotas) só têm Instagram/Facebook/diretórios; não abri página própria que mostre cursos — não incluídos.",
+  "Escola Náutica Travessia (Porto Alegre, no Clube de Regatas Guaíba; Arrais, Motonauta e Mestre segundo o Instagram) — sem site próprio aberto — não incluída.",
+  "Iate Clube de Guaratuba (escola de vela citada pela FEIP), Veleiro Austral (curso de vela oceânica, base Antonina/Pontal a confirmar), Veleiro Putzi (Paranaguá) e Escola Pontal Sail Wind Point (Pontal do Sul) só aparecem na página da FEIP/Facebook — não incluídos por falta de site/base confirmada.",
+  "Balneário Camboriú: nenhuma escola de vela/clube com site próprio confirmado (Iate Clube Camboriú só no Instagram, sem menção a vela).",
+  "Joinville, São Francisco do Sul, Laguna, Garopaba e Imbituba não foram cobertos a fundo: a busca do Google bloqueou as consultas (captcha) durante a coleta.",
+  "Legado da Volvo/The Ocean Race em Itajaí (stopover e eventual edição futura) não verificado em fonte oficial — não incluído.",
+  "Listas oficiais de ETN da Capitania dos Portos do RS (CPRS), da Delegacia em Porto Alegre, da DelItajaí e da DelSFSul: as URLs /entidades_nauticas responderam 404; credenciamento de escolas do RS e do norte de SC (Porto Habilitação Náutica, Porto Belo Vela Clube) fica a confirmar.",
+  "Loba do Mar diz que o Arrais permite navegar até 1,5 milha da costa; conferir a definição de navegação interior na NPCP da CPPR (a NORMAM-211 remete às NPCP/NPCF).",
+  "O ICSC oferece curso de Mestre/Capitão? Só há a menção da Escola Náutica Sampaio (instrutor 'Comandante Américo'); o site do ICSC não confirma.",
+  "Tarifas de visitante do Iate Clube de Paranaguá são da tabela de 2018 publicada no site; valores atuais a confirmar com a secretaria.",
+  "Endereço do Espaço Vela e Voo (Av. Centenário, 233 – Araucária, segundo resultado de busca do Instagram) não verificado em página aberta.",
+  "Base exata (marina) do veleiro-escola Pangeia (Travessias Oceânicas) não publicada no site.",
+  "Aceitação internacional das licenças ISSA (Master of Yacht/Offshore Skipper) é afirmação da própria escola; não verificada em fonte independente."
+ ]
+}

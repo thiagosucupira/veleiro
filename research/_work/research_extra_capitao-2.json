@@ -1,0 +1,48 @@
+{
+ "claims": [
+  {
+   "id": "extra-capitao-2-01",
+   "topic": "estabilidade",
+   "claim": "Pela NORMAM-211, estabilidade intacta é a propriedade que tem a embarcação de retornar à sua posição inicial de equilíbrio, depois de cessada a força perturbadora que dela a afastou, considerando-se a situação de integridade estrutural da embarcação.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Glossário, verbete 'Estabilidade Intacta'",
+   "quote": "Estabilidade Intacta - é a propriedade que tem a embarcação de retornar à sua posição inicial de equilíbrio, depois de cessada a força perturbadora que dela a afastou, considerando-se a situação de integridade estrutural da embarcação.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 no PDF consolidado (research/acervo/normam-211.txt)."
+  },
+  {
+   "id": "extra-capitao-2-02",
+   "topic": "estabilidade",
+   "claim": "Para a embarcação de esporte e recreio realizar uma viagem em área de navegação com requisitos mais rigorosos que a de sua classificação, a NORMAM-211 exige reclassificação para a viagem, com declaração de um engenheiro naval atestando que a embarcação tem estabilidade e resistência estrutural satisfatórias para a viagem, e vistoria da Capitania (habilitação dos tripulantes, equipamentos e rádio).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 3.21 (Reclassificação para uma viagem), itens 3.21.1 e 3.21.2, p. 3-7 e 3-8",
+   "quote": "apresentação, pelo interessado, de declaração de um engenheiro naval, que ateste que a embarcação possui estabilidade e resistência estrutural satisfatórias para efetuar a viagem pretendida; e realização de vistoria pela CP/DL/AG onde deverão ser verificados a habilitação dos tripulantes e os setores de equipamentos e rádio",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 no PDF consolidado (research/acervo/normam-211.txt, linhas ~3452-3470)."
+  },
+  {
+   "id": "extra-capitao-2-03",
+   "topic": "estabilidade",
+   "claim": "Pela NORMAM-211, as embarcações de esporte e recreio com comprimento igual ou superior a 24 m destinadas à navegação em mar aberto devem ter a estabilidade intacta avaliada pelos requisitos do Capítulo 7 da NORMAM-201/DPC, no que for aplicável. Abaixo de 24 m, a lotação é determinada pelo estaleiro construtor.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 3.27.1 e 3.27.2, p. 3-9",
+   "quote": "As embarcações destinadas à navegação em mar aberto deverão ter a estabilidade intacta avaliada de acordo com os requisitos estabelecidos no Capítulo 7 da NORMAM-201/DPC, no que for aplicável.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 no PDF consolidado. Veleiro de 32 pés (cerca de 9,8 m) está abaixo de 24 m."
+  },
+  {
+   "id": "extra-capitao-2-04",
+   "topic": "vts",
+   "claim": "As Normas da Autoridade Marítima para o Serviço de Tráfego de Embarcações (VTS) são a NORMAM-602/DHN (antes NORMAM-26/DHN, 5ª Revisão), em vigor desde 2 de outubro de 2023.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/portaria-dhn-dgn-22-2023.html",
+   "locator": "Portaria DHN/DGN/MB nº 22, de 21/09/2023, arts. 1º e 3º",
+   "quote": "Altera as Normas da Autoridade Marítima para Serviço de Tráfego de Embarcações (VTS) - NORMAM-26/DHN (5ª Revisão) para NORMAM-602/DHN. [...] Art. 3º Esta Portaria entrará em vigor em 2 de outubro de 2023.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 via proxy local de páginas da Marinha."
+  }
+ ]
+}

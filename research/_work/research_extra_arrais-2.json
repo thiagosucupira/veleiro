@@ -1,0 +1,103 @@
+{
+  "claims": [
+    {
+      "id": "extra-arrais-2-01",
+      "topic": "meteorologia-consulta",
+      "claim": "O aplicativo Boletim ao Mar (Google Play, pacote boletim.ao.mar) reúne produtos da Marinha do Brasil/DHN para a METAREA V: o Meteoromarinha (previsão de tempo, vento, ondas e visibilidade para 24 e 48 horas), os Avisos de Mau Tempo, as Cartas Sinóticas (elaboradas duas vezes ao dia), meteogramas para cidades da costa e os Avisos-Rádio Náuticos e SAR.",
+      "source_url": "https://play.google.com/store/apps/details?id=boletim.ao.mar&hl=pt_BR",
+      "locator": "Página do app no Google Play, seção 'Sobre este app' (atualizado em 11/03/2026; versão 2.8.0; desenvolvedor: Serviços e Informações do Brasil)",
+      "quote": "Traz informações de alta confiabilidade geradas pela Marinha do Brasil / Diretoria de Hidrografia e Navegação – DHN que, irão auxiliar a todos que se dirijam ao litoral brasileiro, áreas oceânicas do Atlântico Sul e aquavias interiores. [...] o Meteoromarinha, que consiste em um boletim meteoceanográfico que traz a previsão de condição do tempo, vento, ondas e visibilidade para 24 e 48 horas; os Avisos de Mau Tempo [...]; as Cartas Sinóticas, que são elaboradas duas vezes ao dia [...]; e os meteogramas [...]. Na parte referente a Segurança da Navegação, estão disponíveis os Avisos-Rádio Náutico e Avisos-Rádio SAR",
+      "official": false,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08. Loja de aplicativos (não é site da Marinha), mas a conta desenvolvedora é a do governo federal (Serviços e Informações do Brasil). O aplicativo é citado pelo nome no programa do ARA (NORMAM-211, Anexo 5-A, 3.1 d), ver programa-40."
+    },
+    {
+      "id": "extra-arrais-2-02",
+      "topic": "meteorologia-consulta",
+      "claim": "O aplicativo Boletim ao Mar também está na App Store do Brasil (Apple), publicado por 'Serviços e Informações do Brasil'.",
+      "source_url": "https://apps.apple.com/br/app/boletim-ao-mar/id1562769509",
+      "locator": "API de busca do iTunes (country=br, term='boletim ao mar'): trackName, sellerName, trackViewUrl",
+      "quote": "Boletim ao Mar | Servicos e Informacoes do Brasil | https://apps.apple.com/br/app/boletim-ao-mar/id1562769509",
+      "official": false,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08 via https://itunes.apple.com/search?term=boletim+ao+mar&country=br&entity=software."
+    },
+    {
+      "id": "extra-arrais-2-03",
+      "topic": "equipamentos-navegacao",
+      "claim": "Pela NORMAM-211, todas as embarcações, exceto as miúdas, devem ter agulha magnética de governo; as de 24 m ou mais devem ter também certificado de compensação ou curva de desvio, atualizados a cada 2 anos.",
+      "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.19.1 a), p. 4-9 e 4-10",
+      "quote": "a) Agulha magnética de governo - todas as embarcações, exceto as miúdas, deverão estar equipadas com agulha magnética de governo. As embarcações com comprimento igual ou maior que 24 metros deverão possuir, também, certificado de compensação ou curva de desvio, atualizados a cada 2 anos.",
+      "official": true,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08 no PDF consolidado (research/acervo/normam-211.txt). O quadro-resumo do art. 4.33 (navegação interior) repete: agulha dispensada para miúdas, obrigatória para médio porte e, para grande porte, compensada ou com curva de desvio válida por 2 anos."
+    },
+    {
+      "id": "extra-arrais-2-04",
+      "topic": "equipamentos-navegacao",
+      "claim": "Pela NORMAM-211, embarcações de grande porte ou iates construídos após 11/02/2000 devem ter ecobatímetro (e, se classificados para navegação costeira ou oceânica, radar de 9 GHz); para embarcações menores, o uso desses equipamentos é recomendado.",
+      "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.19.3 a) e b), p. 4-10",
+      "quote": "b) Ecobatímetro - as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado",
+      "official": true,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08 no PDF consolidado. O radar está na alínea a) do mesmo artigo: 'classificadas para a navegação Costeira ou Oceânica, deverão ser dotadas de radar capaz de operar na faixa de frequência de 9 GHz. Para as embarcações menores o seu emprego é recomendado'."
+    },
+    {
+      "id": "extra-arrais-2-05",
+      "topic": "equipamentos-navegacao",
+      "claim": "Pela NORMAM-211, embarcações de médio porte devem ter GNSS assim: 1 aparelho em navegação costeira e 2 em navegação oceânica (recomenda-se que ao menos um tenha fonte de energia independente).",
+      "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.19.2 a), p. 4-10",
+      "quote": "a) Sistema Global de Navegação - GNSS - as embarcações de médio porte deverão ser dotadas desses aparelhos nas seguintes situações: I) Navegação costeira: 1 (um) aparelho; e II) Navegação oceânica: 2 (dois) aparelhos (*). [...] (*) Recomendado que pelo menos um aparelho opere também com fonte independente de energia acumulada (pilha, bateria etc).",
+      "official": true,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08. O artigo não lista GNSS obrigatório para navegação interior."
+    },
+    {
+      "id": "extra-arrais-2-06",
+      "topic": "salvatagem-pirotecnicos",
+      "claim": "Pela NORMAM-211, a dotação de pirotécnicos das embarcações de esporte e recreio é: navegação costeira, 2 foguetes manuais de estrela vermelha com paraquedas, 2 fachos manuais de luz vermelha e 2 sinais fumígenos flutuantes laranja; oceânica, 4 de cada; interior, apenas as de grande porte, 1 facho manual de luz vermelha.",
+      "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "locator": "NORMAM-211/DPC, Capítulo 4, art. 4.17, p. 4-9",
+      "quote": "Navegação costeira - dois foguetes manuais de estrela vermelha com paraquedas, dois fachos manuais luz vermelha e dois sinais fumígenos flutuantes laranja; Navegação oceânica - quatro foguetes manuais de estrela vermelha com paraquedas, quatro fachos manuais luz vermelha e quatro sinais fumígenos flutuantes laranja; e Navegação interior - apenas as embarcações de grande porte, um facho manual luz vermelha.",
+      "official": true,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08 no PDF consolidado (research/acervo/normam-211.txt)."
+    },
+    {
+      "id": "extra-arrais-2-07",
+      "topic": "programa-ara",
+      "claim": "O programa da prova de Arrais-Amador inclui instrumentos náuticos e eletrônicos: agulha magnética (bússola), odômetro, tacômetro, anemômetro, GNSS e ecobatímetro.",
+      "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "locator": "NORMAM-211/DPC, Anexo 5-A, item 3.1 c), p. 5-A-8",
+      "quote": "c) Instrumentos náuticos e eletrônicos, agulha magnética (bússola), odômetro, tacômetro, anemômetro, GNSS, ecobatímetro.",
+      "official": true,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08 no PDF consolidado."
+    },
+    {
+      "id": "extra-arrais-2-08",
+      "topic": "programa-ara",
+      "claim": "O programa da prova de Arrais-Amador inclui o conhecimento e a utilização das marés na navegação: comportamento das marés, conhecimento das curvas de marés e uso de Tábuas de Marés.",
+      "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "locator": "NORMAM-211/DPC, Anexo 5-A, item 3.1 e), p. 5-A-8",
+      "quote": "e) Conhecimento e utilização das marés na navegação: I) comportamento das marés; II) conhecimento das curvas de marés; e III) uso de Tábuas de Marés.",
+      "official": true,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08 no PDF consolidado."
+    },
+    {
+      "id": "extra-arrais-2-09",
+      "topic": "meteorologia-consulta",
+      "claim": "Pelo Manual de Navegação da Marinha (Miguens, Vol. III, 2026), o Meteoromarinha é emitido duas vezes por dia (0000 e 1200 HMG) em três partes: I – avisos de mau tempo em vigor (com 'NIL' ou 'NÃO HÁ' quando não há avisos), II – resumo descritivo do tempo e III – previsão do tempo para as áreas costeiras e oceânicas.",
+      "source_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+      "locator": "Navegação: a Ciência e a Arte, Vol. III (1ª revisão, 2026), Cap. 45, item 45.5.1, p. 45-79",
+      "quote": "O Meteoromarinha é elaborado e emitido duas vezes por dia, nos horários de 0000 HMG e 1200 HMG, sendo constituído pelas seguintes partes: • Parte I - Avisos de Mau Tempo em vigor [...] A ausência de avisos de mau tempo é claramente mencionada no texto dos boletins, por meio das expressões NIL ou NÃO HÁ; • Parte II - Resumo descritivo de tempo [...] • Parte III - Previsão do Tempo",
+      "official": true,
+      "confidence": "alta",
+      "notes": "Consultado em 2026-10-08 (cópia em research/_work/fontes_cache/098e471c2aa95fe7.bin.txt)."
+    }
+  ]
+}

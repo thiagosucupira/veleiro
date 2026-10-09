@@ -1,0 +1,647 @@
+{
+  "questoes": [
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 1,
+      "enunciado": "No GMDSS, o mar é dividido em quatro áreas marítimas, definidas pela cobertura de comunicações disponível. Qual alternativa associa corretamente cada área ao critério que a define?",
+      "alternativas": [
+        "A1: MF com DSC; A2: VHF com DSC; A3: satélite geoestacionário (Inmarsat); A4: o restante, em geral as regiões polares",
+        "A1: VHF com DSC; A2: MF com DSC; A3: o restante, em geral as regiões polares; A4: satélite geoestacionário (Inmarsat)",
+        "A1: satélite geoestacionário (Inmarsat); A2: MF com DSC; A3: VHF com DSC; A4: o restante, em geral as regiões polares",
+        "A1: VHF com DSC; A2: MF com DSC; A3: satélite geoestacionário (Inmarsat); A4: o restante, em geral as regiões polares",
+        "A1: VHF com DSC; A2: satélite geoestacionário (Inmarsat); A3: MF com DSC; A4: o restante, em geral as regiões polares"
+      ],
+      "correta": 3,
+      "explicacao": "<p>A1 é a área dentro da cobertura de VHF com alerta DSC contínuo de pelo menos uma estação costeira. A A2 fica fora da A1 e dentro da cobertura de uma estação costeira de MF com DSC. A A3 fica fora das duas e dentro da cobertura de satélites geoestacionários (Inmarsat). A A4 é o que sobra, na prática as regiões polares.</p><ul><li><b>A1 e A2 trocadas</b>: o VHF alcança menos que o MF, por isso a área mais próxima da costa, a A1, é a do VHF.</li><li><b>A3 e A4 trocadas</b>: a A3 é a que tem satélite geoestacionário; a A4 é a que fica sem nenhuma das três coberturas.</li><li><b>Ordem invertida</b>: o satélite é o meio da área mais afastada com cobertura (A3) e o VHF é o da mais próxima (A1).</li><li><b>A2 e A3 trocadas</b>: a cobertura de MF (A2) vem antes da de satélite (A3), que só é usada onde nem VHF nem MF alcançam.</li></ul>",
+      "referencia": "IMO, SOLAS, Capítulo IV, Regra 2 (definição das áreas marítimas A1 a A4); Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 47, item 47.4",
+      "fonte_url": "https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Safety-of-Life-at-Sea-(SOLAS),-1974.aspx"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 1,
+      "enunciado": "Ao revisar um veleiro recém-comprado, o comandante encontra uma radiobaliza antiga, que transmite apenas em 121,5 MHz. Em relação ao sistema Cospas-Sarsat e à NORMAM-211, qual é a situação dessa baliza?",
+      "alternativas": [
+        "Ela ainda gera alerta por satélite, sem identificar o barco, e a NORMAM-211 a aceita na navegação costeira.",
+        "Ela passa a ser aceita se for cadastrada no INFOSAR, que converte o sinal de 121,5 MHz em 406 MHz.",
+        "Ela serve como EPIRB principal numa travessia, desde que a bateria e o liberador estejam dentro da validade.",
+        "Ela não gera alerta por satélite, pois o sistema não processa 121,5 MHz desde 2009, e não atende à NORMAM-211.",
+        "Ela só emite alerta quando um navio a ilumina com radar na faixa de 9 GHz, como um transponder."
+      ],
+      "correta": 3,
+      "explicacao": "<p>A NORMAM-211 exige que a EPIRB transmita o sinal de socorro por satélite na faixa de 406 MHz e lembra que, desde fevereiro de 2009, o Cospas-Sarsat não processa mais a frequência de 121,5 MHz. A baliza antiga, portanto, não aciona o salvamento.</p><ul><li><b>Alerta sem identificação</b>: o sistema deixou de processar 121,5 MHz em 2009, de modo que nenhum alerta por satélite é gerado.</li><li><b>Cadastro no INFOSAR</b>: o cadastro identifica uma baliza de 406 MHz e não altera a frequência em que o aparelho transmite.</li><li><b>Validade da bateria</b>: bateria nova não resolve: o problema é a frequência, que a NORMAM-211 exige que seja 406 MHz.</li><li><b>Confusão com o SART</b>: quem responde a radar de 9 GHz é o SART; a baliza de 121,5 MHz serve apenas de sinal de aproximação para quem já está perto.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.23.6 c)",
+      "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 1,
+      "enunciado": "Navegando de Salvador para Fernando de Noronha, o comandante avista um contêiner semissubmerso à deriva, em posição conhecida, que oferece risco para outras embarcações. Ninguém está em perigo. Que sinal de rádio deve preceder a mensagem de aviso aos demais navios?",
+      "alternativas": [
+        "MAYDAY, dito três vezes, porque o contêiner ameaça a vida de quem navega perto.",
+        "PAN-PAN, dito três vezes, porque a situação exige atenção imediata de todos os navios.",
+        "SÉCURITÉ, dito três vezes, que anuncia mensagem sobre segurança da navegação ou aviso meteorológico.",
+        "SEELONCE MAYDAY, para liberar o canal antes de transmitir o aviso.",
+        "Nenhum sinal, pois só estações costeiras podem transmitir avisos de segurança da navegação."
+      ],
+      "correta": 2,
+      "explicacao": "<p>O sinal de segurança, SÉCURITÉ, anuncia uma mensagem sobre segurança da navegação, como uma boia à deriva, um contêiner ou um aviso meteorológico importante. A mensagem vem logo depois, no canal indicado.</p><ul><li><b>MAYDAY</b>: é o sinal de socorro, reservado a perigo grave e iminente para a vida ou para a embarcação de quem transmite ou de quem é socorrido.</li><li><b>PAN-PAN</b>: é o sinal de urgência, usado quando há uma situação séria a bordo (um doente, uma avaria), e não para avisar de um perigo à navegação.</li><li><b>SEELONCE MAYDAY</b>: só se usa para impor silêncio durante um socorro em andamento, o que não é o caso.</li><li><b>Nenhum sinal</b>: qualquer estação pode transmitir um aviso de segurança, que deve começar pelo sinal de segurança.</li></ul>",
+      "referencia": "UIT, Regulamento de Radiocomunicações, Art. 33 (sinal de segurança); Lista de Auxílios-Rádio (DHN), cap. 7",
+      "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 1,
+      "enunciado": "Um veleiro de 11 m tem a antena do rádio VHF instalada no tope do mastro. O que a NORMAM-211 exige nesse caso?",
+      "alternativas": [
+        "Um segundo transceptor VHF fixo, ligado a outra antena também instalada no tope do mastro.",
+        "Uma antena de emergência, para ser usada caso o mastro quebre.",
+        "Um VHF portátil com bateria para oito horas de uso, em lugar de qualquer antena extra.",
+        "Um para-raios ligado à antena, com cabo de cobre de seção mínima definida na norma.",
+        "Nada, porque a exigência vale somente para embarcações a motor de grande porte."
+      ],
+      "correta": 1,
+      "explicacao": "<p>A NORMAM-211 manda que as embarcações a vela com antena de VHF no tope do mastro tenham antena de emergência, para continuar a se comunicar se o mastro quebrar.</p><ul><li><b>Segundo rádio fixo</b>: a norma pede antena de reserva para o caso de perda do mastro, e uma antena no mesmo mastro cairia junto com ele.</li><li><b>Portátil no lugar da antena</b>: o VHF portátil é exigido à parte, para o abandono da embarcação, com bateria de pelo menos quatro horas, e não dispensa a antena de emergência.</li><li><b>Para-raios</b>: a NORMAM-211 não trata de para-raios nessa exigência.</li><li><b>Nenhuma exigência</b>: a norma cita expressamente as embarcações a vela com antena no tope do mastro.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.24.2 (último parágrafo)",
+      "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 1,
+      "enunciado": "Pela NORMAM-211, a embarcação que leva equipamentos de radiocomunicação deve obter a Licença de Estação de Navio. Qual órgão emite essa licença?",
+      "alternativas": [
+        "A Capitania dos Portos da área onde a embarcação está registrada.",
+        "A Diretoria de Hidrografia e Navegação (DHN).",
+        "A Anatel (Agência Nacional de Telecomunicações).",
+        "O DECEA, por meio do sistema INFOSAR.",
+        "A Diretoria de Portos e Costas (DPC), junto com o Título de Inscrição da Embarcação."
+      ],
+      "correta": 2,
+      "explicacao": "<p>A NORMAM-211 manda obter a Licença de Estação de Navio junto à Anatel, que regula as telecomunicações no Brasil. É nessa licença que a estação recebe o indicativo de chamada e o MMSI.</p><ul><li><b>Capitania dos Portos</b>: ela registra e inspeciona a embarcação, mas não licencia estações de rádio.</li><li><b>DHN</b>: a DHN produz cartas, almanaques e publicações náuticas, e não licencia rádios.</li><li><b>O DECEA, por meio do sistema INFOSAR.</b>: o INFOSAR cadastra balizas de 406 MHz, e não emite a licença da estação de rádio.</li><li><b>DPC</b>: a DPC edita as NORMAM, mas a licença da estação de rádio é da agência de telecomunicações.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.23.8",
+      "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 1,
+      "enunciado": "Qual canal do VHF marítimo é usado exclusivamente para a chamada seletiva digital (DSC), inclusive para o alerta de socorro, e qual é a sua frequência?",
+      "alternativas": [
+        "Canal 16, 156,800 MHz.",
+        "Canal 70, 156,525 MHz.",
+        "Canal 68, 156,425 MHz.",
+        "Canal 13, 156,650 MHz.",
+        "Canal 6, 156,300 MHz."
+      ],
+      "correta": 1,
+      "explicacao": "<p>O canal 70 (156,525 MHz) é reservado ao DSC. Nele o rádio envia o alerta digital de socorro com MMSI, posição e natureza do perigo, e a NORMAM-211 admite que o equipamento DSC use esse canal no lugar do 16 para a chamada.</p><ul><li><b>Canal 16, 156,800 MHz.</b>: é o canal de voz para socorro, urgência e segurança, e não o da chamada digital.</li><li><b>Canal 68, 156,425 MHz.</b>: é um canal de trabalho para a comunicação de voz, sem relação com a chamada digital.</li><li><b>Canal 13, 156,650 MHz.</b>: é o canal de segurança da navegação entre embarcações, usado por voz.</li><li><b>Canal 6, 156,300 MHz.</b>: é o canal de segurança entre navios e de coordenação de busca e salvamento, usado por voz.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.23.4 a); UIT, Regulamento de Radiocomunicações, Apêndice 18",
+      "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "Segundo a NORMAM-211, como deve ser a identificação (código único) de uma EPIRB instalada em uma embarcação brasileira?",
+      "alternativas": [
+        "Começa por 406 (a frequência), seguido de seis dígitos da estação, e a baliza é cadastrada na Anatel.",
+        "Começa por 710 (Brasil), seguido de seis dígitos da estação (o MMSI), e a baliza é cadastrada no INFOSAR.",
+        "Começa por 121, seguido do número de inscrição do casco, e a baliza dispensa qualquer cadastro.",
+        "Usa o indicativo de chamada do barco, no lugar do MMSI, e a baliza é cadastrada na Capitania dos Portos.",
+        "Começa por 970, o mesmo prefixo dos aparelhos AIS-SART, seguido de seis dígitos, e é cadastrada no DECEA."
+      ],
+      "correta": 1,
+      "explicacao": "<p>A norma exige código único formado pelo dígito 710 (Brasil) e por seis dígitos que identificam a estação, o MMSI, conforme o Apêndice 43 do Regulamento de Radiocomunicações da UIT. Toda EPIRB deve ser cadastrada no INFOSAR, e mudanças de dono, endereço ou telefone devem ser atualizadas lá.</p><ul><li><b>Prefixo 406</b>: 406 MHz é a frequência de transmissão da baliza, e o cadastro das balizas é feito no INFOSAR, do DECEA.</li><li><b>Prefixo 121</b>: 121,5 MHz é uma frequência antiga que já não é processada por satélite, e a norma exige cadastro.</li><li><b>Indicativo de chamada</b>: o código é derivado do MMSI da estação, e o registro é feito no INFOSAR.</li><li><b>Prefixo 970</b>: 970 identifica o AIS-SART; o prefixo do Brasil, em qualquer MMSI de navio brasileiro, é 710.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.23.6 d), e) e f)",
+      "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "Um veleiro tem a antena do VHF a 9 m acima da água e quer chamar uma estação costeira cuja antena está a 16 m de altura. Pela fórmula D ≈ 2,2 × (√h<sub>1</sub> + √h<sub>2</sub>), com D em milhas náuticas e as alturas em metros, o alcance esperado em VHF é de cerca de:",
+      "alternativas": [
+        "7 milhas.",
+        "11 milhas.",
+        "15 milhas.",
+        "25 milhas.",
+        "55 milhas."
+      ],
+      "correta": 2,
+      "explicacao": "<p>√9 = 3 e √16 = 4, então D ≈ 2,2 × (3 + 4) = 2,2 × 7 = 15,4, ou cerca de 15 milhas. O VHF propaga-se em linha de visada, e por isso o alcance cresce com a altura das duas antenas.</p><ul><li><b>7 milhas.</b>: esquece de multiplicar por 2,2: 3 + 4 = 7 não é o alcance em milhas.</li><li><b>11 milhas.</b>: calcula 2,2 × √(9 + 16) = 2,2 × 5; a fórmula pede a soma das raízes, e não a raiz da soma.</li><li><b>25 milhas.</b>: soma as alturas (9 + 16) sem tirar a raiz nem aplicar o fator 2,2.</li><li><b>55 milhas.</b>: faz 2,2 × (9 + 16), sem tirar as raízes; assim o alcance fica muito exagerado.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 34 (propagação das ondas de rádio)",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "O receptor NAVTEX de um iate imprime uma mensagem cujo cabeçalho é <b>ZCZC KB07</b>. Segundo a estrutura das mensagens NAVTEX, o que significa a letra <b>B</b> nesse cabeçalho?",
+      "alternativas": [
+        "A estação transmissora, que seria a letra B da lista da área.",
+        "A prioridade da mensagem, sendo B de baixa urgência.",
+        "O idioma da transmissão, sendo B de bilíngue.",
+        "O tipo de assunto da mensagem, neste caso um aviso meteorológico.",
+        "A frequência de transmissão, sendo B a de 518 kHz."
+      ],
+      "correta": 3,
+      "explicacao": "<p>O cabeçalho é ZCZC B1 B2 B3 B4. B1 (aqui K) identifica a estação transmissora, B2 (aqui B) o assunto, que no caso é aviso meteorológico, e B3B4 (aqui 07) o número de série da mensagem. O texto termina em NNNN.</p><ul><li><b>Estação transmissora</b>: a estação é identificada pela primeira letra depois de ZCZC, que aqui é K.</li><li><b>Prioridade</b>: a prioridade da mensagem não é indicada por essa letra; a segunda letra do cabeçalho indica o assunto.</li><li><b>Idioma</b>: o idioma não é indicado no cabeçalho: no NAVTEX internacional ele é sempre o inglês.</li><li><b>Frequência</b>: a frequência não consta do cabeçalho; ela é escolhida no receptor, e o 518 kHz é a do NAVTEX internacional.</li></ul>",
+      "referencia": "IMO, Manual NAVTEX (MSC.1/Circ.1403); Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 47, item 47.3.7",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "Um veleiro está no meio do Atlântico Sul, a cerca de 900 milhas da costa, e quer receber automaticamente os avisos náuticos e meteorológicos oficiais, sem precisar pedi-los por rádio. Qual meio do GMDSS atende a essa situação?",
+      "alternativas": [
+        "O NAVTEX em 518 kHz, cujo alcance é de cerca de 400 milhas da costa.",
+        "O alerta DSC no canal 70, que transmite os boletins meteorológicos a todos os navios da área.",
+        "O SafetyNET, com receptor EGC do Inmarsat-C, que recebe por satélite os avisos da região.",
+        "A EPIRB de 406 MHz, que também recebe os avisos pelo sistema de satélites Cospas-Sarsat.",
+        "O VHF no canal 16, cujo alcance chega a toda a bacia oceânica por reflexão na ionosfera."
+      ],
+      "correta": 2,
+      "explicacao": "<p>No alto-mar, fora do alcance do NAVTEX, a informação de segurança marítima chega pelo SafetyNET (Inmarsat-C, receptor EGC), que entrega as mensagens automaticamente a quem está na área de cobertura. O Brasil, como responsável pela NAVAREA V, transmite seus avisos náuticos por esse meio.</p><ul><li><b>NAVTEX</b>: a 900 milhas da costa o veleiro está muito além do alcance das estações NAVTEX.</li><li><b>DSC no canal 70</b>: o DSC serve para chamadas e alertas curtos, não para a difusão de boletins de segurança marítima.</li><li><b>EPIRB</b>: a EPIRB só transmite o alerta de socorro, e o Cospas-Sarsat não envia avisos aos navios.</li><li><b>VHF no canal 16</b>: o VHF segue em linha de visada e alcança poucas dezenas de milhas; a reflexão na ionosfera é característica do HF.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 47, itens 47.3.3 e 47.3.7; IMO, SOLAS, Capítulo IV",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "Na tela do radar de um navio de busca, em banda de 9 GHz, aparece uma linha de doze pontos igualmente espaçados, que parte de um ponto da tela, como mostra a figura. Qual é a interpretação mais provável?",
+      "alternativas": [
+        "Um radar-SART ativado, de uma balsa ou de um náufrago, na marcação indicada pela linha.",
+        "Um RACON de uma boia de balizamento, que responde ao radar com uma letra em código Morse.",
+        "Uma EPIRB de 406 MHz ativada, que aparece no radar como uma linha de pontos.",
+        "Uma frente de chuva forte, cujos ecos formam linhas de pontos no radar.",
+        "Um AIS-SART, cujos doze alvos aparecem na tela do radar."
+      ],
+      "correta": 0,
+      "explicacao": "<p>O radar-SART opera em 9 GHz e, ao ser iluminado pelo radar de um navio ou de uma aeronave, responde com uma série de sinais que formam uma linha de doze pontos. A linha parte da posição do transponder, na direção da sua marcação, e indica para onde seguir.</p><ul><li><b>RACON</b>: o RACON aparece como uma faixa de sinal que forma uma letra Morse, e não como doze pontos.</li><li><b>EPIRB</b>: a EPIRB transmite para satélites em 406 MHz e não é vista no radar de 9 GHz.</li><li><b>Frente de chuva</b>: a chuva forma manchas e faixas de eco irregulares, e não doze pontos igualmente espaçados.</li><li><b>AIS-SART</b>: o AIS-SART transmite mensagens AIS, vistas em receptor AIS ou no plotter, e não responde ao radar.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 47, item 47.3.5; UIT-R M.628",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+      "figura": {
+        "svg": "<svg viewBox=\"0 0 220 200\" width=\"100%\" role=\"img\" aria-label=\"Tela de radar com uma linha de doze pontos que parte de um ponto da tela\" style=\"max-width:320px;display:block;margin:0 auto;font-size:13px\" xmlns=\"http://www.w3.org/2000/svg\"><title>Tela de radar com uma linha de doze pontos</title><circle cx=\"110\" cy=\"100\" r=\"92\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><circle cx=\"110\" cy=\"100\" r=\"61\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" opacity=\".4\"/><circle cx=\"110\" cy=\"100\" r=\"30\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" opacity=\".4\"/><line x1=\"110\" y1=\"8\" x2=\"110\" y2=\"192\" stroke=\"currentColor\" stroke-width=\"1\" opacity=\".25\"/><line x1=\"18\" y1=\"100\" x2=\"202\" y2=\"100\" stroke=\"currentColor\" stroke-width=\"1\" opacity=\".25\"/><path d=\"M110 94 L116 106 L104 106 Z\" fill=\"var(--ink)\"/><text x=\"110\" y=\"124\" text-anchor=\"middle\" fill=\"var(--ink)\">nosso navio</text><g fill=\"var(--nav-green)\" stroke=\"var(--ink)\" stroke-width=\"0.6\"><circle cx=\"136.0\" cy=\"64.0\" r=\"2.6\"/><circle cx=\"141.6\" cy=\"60.1\" r=\"2.6\"/><circle cx=\"147.2\" cy=\"56.2\" r=\"2.6\"/><circle cx=\"152.8\" cy=\"52.3\" r=\"2.6\"/><circle cx=\"158.4\" cy=\"48.4\" r=\"2.6\"/><circle cx=\"164.0\" cy=\"44.5\" r=\"2.6\"/><circle cx=\"169.6\" cy=\"40.6\" r=\"2.6\"/><circle cx=\"175.2\" cy=\"36.7\" r=\"2.6\"/><circle cx=\"180.8\" cy=\"32.8\" r=\"2.6\"/><circle cx=\"186.4\" cy=\"28.9\" r=\"2.6\"/><circle cx=\"192.0\" cy=\"25.0\" r=\"2.6\"/><circle cx=\"197.6\" cy=\"21.1\" r=\"2.6\"/></g><text x=\"12\" y=\"192\" fill=\"var(--ink)\">Norte para cima</text></svg>"
+      }
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "A EPIRB de um veleiro foi ativada por engano durante uma limpeza do barco, em porto. Além de desligá-la, o que o comandante deve fazer?",
+      "alternativas": [
+        "Nada, porque o satélite só confirma o alerta se o sinal durar mais de 48 horas seguidas.",
+        "Retirar a bateria e guardar a baliza, pois o INFOSAR cancela o alerta automaticamente.",
+        "Enviar um alerta DSC de socorro no canal 70 para cancelar o sinal do satélite.",
+        "Esperar a ligação do centro de salvamento antes de qualquer contato, para não congestionar o canal 16.",
+        "Avisar o SALVAMAR (185) ou o BRMCC, com o nome do barco, o código da baliza e a informação de alarme falso."
+      ],
+      "correta": 4,
+      "explicacao": "<p>O alerta de uma baliza de 406 MHz é recebido pelo BRMCC, que aciona o SALVAERO e o SALVAMAR. Por isso, ao desligar uma baliza disparada por engano, avisa-se o SALVAMAR (telefone 185) ou o BRMCC, com o nome do barco, o código e a informação de que foi alarme falso, e assim nenhum meio de busca é mobilizado em vão.</p><ul><li><b>Não fazer nada</b>: o alerta é recebido logo, e o BRMCC pode acionar meios de salvamento antes de qualquer confirmação.</li><li><b>Retirar a bateria</b>: o INFOSAR é um cadastro de balizas e não cancela alertas; desligar sem avisar deixa o alerta valendo no centro de controle.</li><li><b>Alerta DSC</b>: o DSC não cancela o alerta da EPIRB, e um alerta de socorro por engano criaria um segundo falso alarme.</li><li><b>Esperar a ligação</b>: quem causou o alarme falso deve avisar logo, para que meios de busca não sejam enviados sem necessidade.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.23.6; DECEA, INFOSAR e BRMCC; Marinha do Brasil, SALVAMAR (telefone 185)",
+      "fonte_url": "https://www.marinha.mil.br/cpm/185"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "Um veleiro de 12 m (embarcação de médio porte) fará a travessia Recife–Mindelo, em navegação oceânica. Qual é a dotação de radiocomunicações que a NORMAM-211 exige para essa embarcação?",
+      "alternativas": [
+        "VHF portátil e EPIRB de 406 MHz, pois o HF só é exigido de embarcações de grande porte.",
+        "VHF com DSC, HF com DSC, transponder radar de 9 GHz e EPIRB, como nos iates e embarcações de grande porte.",
+        "VHF com DSC, HF com DSC (substituível por telefone ou comunicador satelital de socorro) e EPIRB de 406 MHz.",
+        "VHF com DSC e EPIRB de 406 MHz; o HF e o telefone satelital são dispensados em qualquer porte.",
+        "VHF com DSC, receptor NAVTEX de 518 kHz e SART, como nos navios sujeitos à SOLAS."
+      ],
+      "correta": 2,
+      "explicacao": "<p>Para o médio porte em navegação oceânica, a NORMAM-211 exige VHF com DSC, HF com DSC e EPIRB de 406 MHz. O HF com DSC pode ser trocado por telefone satelital (Iridium ou Inmarsat) ou comunicador satelital que envie mensagens de socorro. Um veleiro de 12 m é de médio porte, pois tem menos de 24 m.</p><ul><li><b>VHF portátil e EPIRB</b>: o HF com DSC (ou o equivalente por satélite) é exigido também do médio porte na navegação oceânica.</li><li><b>Lista do grande porte</b>: o transponder de 9 GHz (SART) está na lista do grande porte ou iate, e não na do médio porte.</li><li><b>Dispensa do HF</b>: a dispensa do HF vale na navegação costeira de médio porte, e não na oceânica.</li><li><b>Dotação da SOLAS</b>: a NORMAM-211 não pede receptor NAVTEX nessa tabela e exige a EPIRB de 406 MHz.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.24.2 a); Glossário (embarcação de médio porte)",
+      "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "A NORMAM-211 exige que o VHF portátil, para uso no abandono da embarcação, tenha bateria para operar por no mínimo quatro horas, com coeficiente de utilização de 1:9, isto é, um minuto de transmissão para nove minutos de escuta. Em quatro horas nesse regime, durante quantos minutos o rádio transmite?",
+      "alternativas": [
+        "27 minutos.",
+        "216 minutos.",
+        "48 minutos.",
+        "60 minutos.",
+        "24 minutos."
+      ],
+      "correta": 4,
+      "explicacao": "<p>Quatro horas são 240 minutos. Cada ciclo de 1:9 dura 10 minutos (1 transmitindo e 9 escutando), e 240 ÷ 10 = 24 ciclos. Logo o rádio transmite 24 × 1 = 24 minutos e escuta 216.</p><ul><li><b>27 minutos.</b>: divide 240 min por 9, mas a proporção 1:9 forma ciclos de 10 minutos (1 de transmissão e 9 de escuta).</li><li><b>216 minutos.</b>: é o tempo de escuta (240 − 24), e não o de transmissão.</li><li><b>48 minutos.</b>: corresponde a 2 minutos de transmissão por ciclo de 10, e não a 1.</li><li><b>60 minutos.</b>: é um quarto do tempo total, o que não corresponde à proporção de 1 para 9.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.23.3",
+      "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 2,
+      "enunciado": "Num naufrágio, a EPIRB de 406 MHz de um veleiro brasileiro é ativada, mas o dono nunca a cadastrou no INFOSAR. O que acontece com o alerta?",
+      "alternativas": [
+        "O alerta é descartado, porque o Cospas-Sarsat só aceita balizas cadastradas no INFOSAR.",
+        "O alerta é tratado como teste, e o BRMCC espera uma nova ativação por 48 horas antes de agir.",
+        "O alerta vai apenas para a Anatel, que o repassa ao SALVAMAR depois de conferir a licença de estação.",
+        "O alerta é recebido, mas o salvamento só é acionado depois que o dono confirmar o cadastro por telefone.",
+        "O alerta é recebido pelo BRMCC e tratado como emergência, mas sem cadastro é mais difícil identificar o barco e o dono."
+      ],
+      "correta": 4,
+      "explicacao": "<p>Um alerta de baliza de 406 MHz não registrada também é recebido pelo BRMCC e tratado como emergência. O cadastro no INFOSAR existe para identificar rapidamente a embarcação e o proprietário, e é exigido de toda EPIRB pela NORMAM-211.</p><ul><li><b>Alerta descartado</b>: o sinal de uma baliza de 406 MHz é recebido mesmo sem registro e tratado como emergência.</li><li><b>Espera de 48 horas</b>: não há espera: as 48 horas são a autonomia mínima de transmissão da baliza, e não um prazo de confirmação.</li><li><b>Alerta para a Anatel</b>: o alerta é recebido pelo BRMCC, que aciona os serviços de busca e salvamento; a Anatel não entra nessa cadeia.</li><li><b>Confirmação do dono</b>: o salvamento não depende dessa confirmação; o cadastro serve para facilitar a identificação.</li></ul>",
+      "referencia": "NORMAM-211/DPC, art. 4.23.6 e) e f); DECEA, Central de Ajuda do INFOSAR",
+      "fonte_url": "https://ajuda.decea.mil.br/base-de-conhecimento/no-caso-do-recebimento-do-sinal-de-emergen"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 3,
+      "enunciado": "Um veleiro com rádio HF com DSC navega no meio do Atlântico. Na banda de 8 MHz, quais são as frequências do alerta DSC de socorro e da radiotelefonia de socorro, respectivamente?",
+      "alternativas": [
+        "8.291 kHz (DSC) e 8.414,5 kHz (voz).",
+        "12.577 kHz (DSC) e 12.290 kHz (voz).",
+        "4.207,5 kHz (DSC) e 4.125 kHz (voz).",
+        "8.414,5 kHz (DSC) e 8.291 kHz (voz).",
+        "2.187,5 kHz (DSC) e 2.182 kHz (voz)."
+      ],
+      "correta": 3,
+      "explicacao": "<p>No GMDSS cada banda tem um par fixo: DSC e voz. Em 8 MHz, o DSC é 8.414,5 kHz e a voz de socorro é 8.291 kHz. Nas outras bandas, os pares são 4.207,5/4.125, 6.312/6.215, 12.577/12.290 e 16.804,5/16.420 kHz, e em MF, 2.187,5/2.182 kHz.</p><ul><li><b>8.291 kHz (DSC) e 8.414,5 kHz (voz).</b>: inverte as duas: 8.414,5 kHz é do DSC e 8.291 kHz é da voz.</li><li><b>12.577 kHz (DSC) e 12.290 kHz (voz).</b>: é o par da banda de 12 MHz, e não o da de 8 MHz.</li><li><b>4.207,5 kHz (DSC) e 4.125 kHz (voz).</b>: é o par da banda de 4 MHz, a que a NORMAM-211 indica para a escuta no Atlântico Sul.</li><li><b>2.187,5 kHz (DSC) e 2.182 kHz (voz).</b>: é o par da faixa de MF, e não o da banda de 8 MHz do HF.</li></ul>",
+      "referencia": "UIT, Regulamento de Radiocomunicações, Apêndice 15; Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 47, item 47.4",
+      "fonte_url": "https://www.itu.int/pub/R-REG-RR"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 3,
+      "enunciado": "O plotter de um veleiro mostra um alvo AIS cujo MMSI começa por 974, sem nome nem destino. O que esse prefixo indica?",
+      "alternativas": [
+        "Um AIS-SART de balsa salva-vidas, pois todos os prefixos 97x identificam o AIS-SART.",
+        "Uma EPIRB com transmissor AIS em emergência: é uma emergência real, e o socorro deve ser acionado.",
+        "Um localizador pessoal de homem ao mar (MOB), que usa o prefixo 974.",
+        "Uma boia ou farol com AIS (auxílio à navegação), que usa o prefixo 974.",
+        "Uma estação costeira de AIS, que usa prefixos de 974 a 979 para serviços em terra."
+      ],
+      "correta": 1,
+      "explicacao": "<p>Dispositivos AIS de emergência têm prefixos próprios: 970 para o AIS-SART, 972 para o localizador pessoal de homem ao mar e 974 para a EPIRB com AIS. Ao ver um deles no plotter, trata-se como emergência real: anota-se a posição e aciona-se o socorro.</p><ul><li><b>AIS-SART</b>: o AIS-SART usa o prefixo 970; os demais prefixos 97x têm outros dispositivos.</li><li><b>Localizador MOB</b>: o localizador pessoal de homem ao mar usa o prefixo 972.</li><li><b>Auxílio à navegação</b>: os auxílios à navegação com AIS usam MMSI com prefixo 99.</li><li><b>Estação costeira</b>: as estações costeiras usam MMSI com prefixo 00, e a faixa 974 a 979 não é para serviços em terra.</li></ul>",
+      "referencia": "UIT-R M.585 (atribuição e uso de MMSI); Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 47, item 47.3.5",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 3,
+      "enunciado": "Uma EPIRB sem receptor GNSS interno é ativada, e o alerta é captado primeiro por um satélite geoestacionário (GEOSAR). O alerta chega de imediato ao centro de controle, mas sem a posição da baliza. Por quê?",
+      "alternativas": [
+        "O satélite geoestacionário fica parado em relação à baliza, e sem o efeito Doppler a posição não é calculada.",
+        "O satélite geoestacionário só retransmite o código da baliza, e a posição seria calculada pelo rádio VHF do navio.",
+        "O satélite geoestacionário só escuta a antiga frequência de 121,5 MHz, que não leva a posição.",
+        "O cálculo da posição por efeito Doppler exige que a baliza esteja na área A1, com cobertura de VHF.",
+        "O efeito Doppler só se forma com satélites de órbita média, e nunca com os de órbita baixa (LEOSAR)."
+      ],
+      "correta": 0,
+      "explicacao": "<p>Os satélites de órbita baixa (LEOSAR) se movem depressa em relação à baliza, e a variação de frequência do sinal (efeito Doppler) dá a posição. O satélite geoestacionário (GEOSAR) parece parado: o alerta é imediato, mas a posição só aparece se a baliza tiver GNSS e a incluir na mensagem.</p><ul><li><b>Posição pelo VHF</b>: o VHF do navio não participa do cálculo da posição de uma baliza de 406 MHz.</li><li><b>Só escuta 121,5 MHz</b>: o GEOSAR escuta 406 MHz, tanto que o alerta chega de imediato ao centro de controle.</li><li><b>Exige a área A1</b>: o cálculo por Doppler não depende de cobertura de VHF, e sim do movimento do satélite em relação à baliza.</li><li><b>Doppler só em órbita média</b>: é justamente o satélite de órbita baixa (LEOSAR) que obtém a posição pelo Doppler.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. III, cap. 47, item 47.3.1; Cospas-Sarsat, visão geral do sistema",
+      "fonte_url": "https://cospas-sarsat.int/en/system-overview/cospas-sarsat-system"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 3,
+      "enunciado": "Um veleiro está em 12°S 015°W, no Atlântico Sul. Considerando apenas os limites em longitude, o que se pode afirmar sobre essa posição? (A região SAR marítima do Brasil e a NAVAREA V/METAREA V estendem-se, a partir da costa brasileira, até limites a leste.)",
+      "alternativas": [
+        "Está dentro da região SAR (que vai até 10°W) e fora da NAVAREA V e da METAREA V (que vão até 20°W).",
+        "Está dentro da região SAR e da NAVAREA V, pois a SAR vai até 20°W e a NAVAREA V até 10°W.",
+        "Está fora da região SAR e da NAVAREA V, pois os limites das duas a leste são 20°W.",
+        "Está dentro da região SAR e da NAVAREA V, pois os limites das duas a leste são 10°W.",
+        "Está dentro da NAVAREA V (até 10°W) e fora da região SAR, que terminaria em 30°W."
+      ],
+      "correta": 0,
+      "explicacao": "<p>A região SAR atribuída ao Brasil vai da costa até o meridiano de 10°W, e a NAVAREA V e a METAREA V vão até 20°W. Como 15°W está a leste de 20°W e a oeste de 10°W, a posição é atendida pela busca e salvamento brasileiros, mas os avisos náuticos e meteorológicos dessa posição são de outra área.</p><ul><li><b>Limites trocados</b>: a SAR vai até 10°W e a NAVAREA V até 20°W; com os limites corretos, 15°W fica fora da NAVAREA V.</li><li><b>Os dois em 20°W</b>: o limite a leste da SAR é 10°W, mais a leste que 20°W, e por isso 15°W está dentro dela.</li><li><b>Os dois em 10°W</b>: a NAVAREA V termina em 20°W; 15°W fica a leste desse limite, ou seja, fora dela.</li><li><b>SAR em 30°W</b>: a SAR brasileira vai até 10°W, bem além de 30°W; 15°W está dentro dela e fora da NAVAREA V.</li></ul>",
+      "referencia": "SALVAMAR Brasil, FAQ (região SAR até 10°W); IHO, WWNWS, NAVAREA V (limite 20°W); WMO-IMO, METAREA V",
+      "fonte_url": "https://www.marinha.mil.br/salvamarbrasil/node/49"
+    },
+    {
+      "tema": "Comunicações e GMDSS",
+      "dificuldade": 3,
+      "enunciado": "Em mar aberto, um comandante ouve pelo VHF uma chamada MAYDAY de outro veleiro, com posição e natureza do perigo. Passam-se alguns minutos e nenhuma estação responde. Qual é a conduta correta?",
+      "alternativas": [
+        "Ficar em silêncio, pois só estações costeiras ou navios sob a SOLAS podem agir numa chamada MAYDAY.",
+        "Responder com PAN-PAN, oferecendo ajuda a todos os navios que estejam próximos.",
+        "Impor silêncio no canal dizendo SEELONCE MAYDAY, já que nenhuma estação respondeu.",
+        "Repetir a chamada como se fosse um MAYDAY do próprio barco, usando a posição recebida.",
+        "Anotar os dados e retransmitir a mensagem por voz, com MAYDAY RELAY, para alcançar quem possa ajudar."
+      ],
+      "correta": 4,
+      "explicacao": "<p>A estação que ouve um socorro sem resposta anota posição, natureza do perigo e demais dados e os retransmite por voz, precedidos de MAYDAY RELAY, para que uma estação costeira, um navio ou o centro de salvamento tome conhecimento e aja.</p><ul><li><b>Ficar em silêncio</b>: qualquer estação que ouça um socorro sem resposta deve colaborar, e o silêncio deixa o veleiro sem ajuda.</li><li><b>Responder com PAN-PAN</b>: PAN-PAN é o sinal de urgência e não serve para atender ou retransmitir um socorro.</li><li><b>SEELONCE MAYDAY</b>: só a estação que coordena o socorro, ou a própria embarcação em perigo, impõe silêncio ao canal.</li><li><b>Repetir como seu</b>: isso faria o próprio barco parecer em perigo, na posição errada, e confundiria o salvamento.</li></ul>",
+      "referencia": "UIT, Regulamento de Radiocomunicações, Art. 32; Lista de Auxílios-Rádio (DHN), cap. 7",
+      "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 1,
+      "enunciado": "Na passagem meridiana, um veleiro está na latitude estimada 30° N, e a declinação do Sol é S 10°. Para o observador, o Sol cruzará o meridiano superior:",
+      "alternativas": [
+        "ao Norte do zênite, com azimute 000°.",
+        "ao Sul do zênite, com azimute 180°.",
+        "exatamente no zênite, com altura de 90°.",
+        "ao Norte do zênite, com azimute 180°.",
+        "ao Sul do zênite, com azimute 000°."
+      ],
+      "correta": 1,
+      "explicacao": "<p>Compara-se a declinação com a latitude estimada, com os sinais: δ = −10° é menor que φ = +30°, então o ponto subsolar está ao Sul do observador. O Sol culmina ao Sul do zênite, e o azimute na culminação é 180°. Assim, φ = δ + z.</p><ul><li><b>ao Norte do zênite, com azimute 000°.</b>: o Sol só passa ao Norte do zênite quando a declinação é maior (mais ao Norte) que a latitude; aqui ela é menor.</li><li><b>exatamente no zênite, com altura de 90°.</b>: o Sol só passa no zênite quando a declinação é igual à latitude, o que não ocorre (30° N contra S 10°).</li><li><b>ao Norte do zênite, com azimute 180°.</b>: a combinação é incoerente: azimute 180° é a direção do Sul, e não do Norte.</li><li><b>ao Sul do zênite, com azimute 000°.</b>: a combinação é incoerente: azimute 000° é a direção do Norte, e não do Sul.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 25, item 25.4",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 1,
+      "enunciado": "A altura verdadeira do centro do Sol na culminação foi 72° 18,4′. A distância zenital é:",
+      "alternativas": [
+        "17° 41,6′",
+        "17° 18,4′",
+        "18° 41,6′",
+        "107° 41,6′",
+        "162° 18,4′"
+      ],
+      "correta": 0,
+      "explicacao": "<p>z = 90° − a = 89° 60,0′ − 72° 18,4′ = 17° 41,6′. A altura e a distância zenital são complementares: a + z = 90°.</p><ul><li><b>17° 18,4′</b>: esquece que 90° valem 89° 60,0′; assim os minutos de 72° 18,4′ são simplesmente copiados.</li><li><b>18° 41,6′</b>: faz 90° − 72° = 18° e 60′ − 18,4′ = 41,6′, mas esquece de reduzir de 1° os graus ao tomar emprestados os 60′.</li><li><b>107° 41,6′</b>: usa 180° − a, que não é a distância zenital.</li><li><b>162° 18,4′</b>: soma 90° à altura, em vez de subtraí-la de 90°.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 25, item 25.4",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 1,
+      "enunciado": "No instante da passagem meridiana superior, o ângulo horário do Sol em Greenwich (AHG) é 295° 40,0′. A longitude do observador é:",
+      "alternativas": [
+        "064° 20,0′ W",
+        "295° 40,0′ W",
+        "295° 40,0′ E",
+        "115° 40,0′ W",
+        "064° 20,0′ E"
+      ],
+      "correta": 4,
+      "explicacao": "<p>Na culminação o AHL é zero, então a longitude Oeste é igual ao AHG. Como o AHG passa de 180°, a longitude é Leste: λ = 360° − 295° 40,0′ = 064° 20,0′ E.</p><ul><li><b>064° 20,0′ W</b>: o valor está certo, mas o nome é Leste: AHG maior que 180° dá longitude Leste.</li><li><b>295° 40,0′ W</b>: usa o AHG como longitude; isso só vale quando o AHG é de até 180° (e então a longitude é Oeste).</li><li><b>295° 40,0′ E</b>: não reduz o AHG ao intervalo de 0° a 180°; uma longitude não passa de 180°.</li><li><b>115° 40,0′ W</b>: subtrai 180° do AHG; para AHG maior que 180° o cálculo certo é 360° − AHG, e o nome é Leste.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 26, itens 26.5 e 26.6",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 2,
+      "enunciado": "Em 2 de junho de 2026, o Almanaque Náutico (extrato simulado) dá a passagem meridiana do Sol (Pass. Mer.) às 11h 58m, hora média local. Um veleiro, com posição estimada 20° S, 038° 30′ W, quer prever a hora legal da culminação. Qual é ela, ao minuto?",
+      "alternativas": [
+        "12h 32m",
+        "14h 32m",
+        "06h 24m",
+        "17h 32m",
+        "11h 32m"
+      ],
+      "correta": 4,
+      "explicacao": "<p>Longitude em tempo: 38° × 4 = 152 min = 2h 32m e 30′ × 4 = 2m, logo 2h 34m. Como a longitude é Oeste, HMG = 11h 58m + 2h 34m = 14h 32m. Fuso: 38° 30′ ÷ 15 = 2, resto 8° 30′, maior que 7,5°, então +3. Hleg = 14h 32m − 3h = 11h 32m.</p><ul><li><b>12h 32m</b>: usa o fuso +2, que é o do meridiano de 30° W; a faixa de 38° 30′ W (resto de 8° 30′, maior que 7,5°) é a do fuso +3.</li><li><b>14h 32m</b>: é a hora média de Greenwich (HMG) da culminação; falta subtrair o fuso para chegar à hora legal.</li><li><b>06h 24m</b>: subtrai a longitude da HML, que é a regra para longitude Leste; a Oeste ela se soma.</li><li><b>17h 32m</b>: soma o fuso à HMG; a hora legal é Hleg = HMG − fuso.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 25, item 25.3; cap. 19, itens 19.4 e 19.5",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 2,
+      "enunciado": "Em 10 de julho de 2026, no Oceano Índico, o Almanaque Náutico (extrato simulado) dá Pass. Mer. = 12h 05m (hora média local). A posição estimada do veleiro é 25° S, 040° 00′ E. A hora legal prevista da culminação do Sol é:",
+      "alternativas": [
+        "06h 25m",
+        "09h 25m",
+        "14h 45m",
+        "12h 25m",
+        "12h 05m"
+      ],
+      "correta": 3,
+      "explicacao": "<p>Longitude: 40° × 4 = 160 min = 2h 40m, a Leste. HMG = HML − λ = 12h 05m − 2h 40m = 09h 25m. Fuso: 40° ÷ 15 = 2, resto 10°, maior que 7,5°, então 3; a Leste é negativo: −3. Hleg = HMG − (−3) = 09h 25m + 3h = 12h 25m. A Leste, a HMG fica antes do meio-dia e a hora legal, depois.</p><ul><li><b>06h 25m</b>: trata o fuso como +3 e subtrai 3 h da HMG; a Leste o fuso é −3, e a conta Hleg = HMG − fuso soma 3 h.</li><li><b>09h 25m</b>: é a HMG da culminação; falta passar para a hora legal.</li><li><b>14h 45m</b>: soma a longitude à HML, o que vale para longitude Oeste; a Leste ela se subtrai.</li><li><b>12h 05m</b>: é a própria Pass. Mer., que é hora média local; faltam a longitude e o fuso.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 25, item 25.3; cap. 19, itens 19.4 e 19.5",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 2,
+      "enunciado": "Na observação do Sol (limbo inferior) na culminação, o sextante marcou altura instrumental de 62° 14,0′. O erro instrumental é +1,2′ (aplica-se com o sinal), a elevação do olho é 4,0 m (dp = −1,76′ × √h) e a correção da Tábua A2 para essa altura e limbo é +15,8′. A altura verdadeira é:",
+      "alternativas": [
+        "62° 25,1′",
+        "62° 27,5′",
+        "62° 34,5′",
+        "62° 11,7′",
+        "61° 55,9′"
+      ],
+      "correta": 1,
+      "explicacao": "<p>ao = ai + ei = 62° 14,0′ + 1,2′ = 62° 15,2′. dp = −1,76′ × √4,0 = −3,5′, logo a altura aparente é 62° 15,2′ − 3,5′ = 62° 11,7′. Com a correção da A2 no limbo inferior, a = 62° 11,7′ + 15,8′ = 62° 27,5′.</p><ul><li><b>62° 25,1′</b>: subtrai o erro instrumental de +1,2′, quando ele deve ser somado, com o seu sinal.</li><li><b>62° 34,5′</b>: soma a depressão do horizonte (3,5′); ela é sempre negativa, pois o horizonte visível fica abaixo do verdadeiro.</li><li><b>62° 11,7′</b>: é a altura aparente; falta aplicar a correção da Tábua A2 (refração, semidiâmetro e paralaxe).</li><li><b>61° 55,9′</b>: subtrai a correção da A2, o que seria o caso do limbo superior; no limbo inferior ela é positiva.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 22, itens 22.2 e 22.3.1",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 2,
+      "enunciado": "Na passagem meridiana, a declinação do Sol é S 15° 20,0′ e a altura verdadeira é 62° 35,0′. A latitude estimada é 12° N. A latitude meridiana é:",
+      "alternativas": [
+        "12° 05,0′ N",
+        "13° 05,0′ N",
+        "12° 05,0′ S",
+        "42° 45,0′ S",
+        "42° 45,0′ N"
+      ],
+      "correta": 0,
+      "explicacao": "<p>z = 90° − 62° 35,0′ = 27° 25,0′. Como δ = −15° 20,0′ é menor que a latitude estimada (+12°), o Sol passa ao Sul do zênite e φ = δ + z = −15° 20,0′ + 27° 25,0′ = +12° 05,0′, isto é, 12° 05,0′ N. Está perto da estimada, o que confirma o resultado.</p><ul><li><b>13° 05,0′ N</b>: calcula z = 28° 25,0′ (esquece que 90° são 89° 60′), e erra 1° na latitude.</li><li><b>12° 05,0′ S</b>: o valor está certo, mas o nome é Norte, coerente com a latitude estimada.</li><li><b>42° 45,0′ S</b>: aplica φ = δ − z, regra do Sol ao Norte; aqui o Sol passa ao Sul e o resultado ficaria a mais de 30° da estimada.</li><li><b>42° 45,0′ N</b>: soma em módulo a declinação (15° 20′) e z (27° 25′), ignorando que os nomes são contrários.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 25, itens 25.4 e 25.5",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 3,
+      "enunciado": "Em 13 de março de 2026, o veleiro “Maré Alta”, em 19° S, 038° 20′ W (fuso +3), observa a culminação do Sol às 11h 43m 20s de hora legal. A altura verdadeira já corrigida é 74° 03,7′. Do Almanaque (extrato simulado), na coluna do Sol, em HMG: 13h, Dec S 3° 10,4′; 14h, Dec S 3° 09,4′; 15h, Dec S 3° 08,4′; d = −1,0′ (a declinação, em número, diminui). Qual é a latitude meridiana?",
+      "alternativas": [
+        "19° 05,0′ S",
+        "19° 06,4′ S",
+        "19° 05,7′ S",
+        "19° 04,0′ S",
+        "12° 47,6′ N"
+      ],
+      "correta": 0,
+      "explicacao": "<p>HMG = Hleg + fuso = 11h 43m 20s + 3h = 14h 43m 20s, e entra-se com 14h. Correção d = −1,0′ × 43/60 = −0,7′, então Dec = S 3° 09,4′ − 0,7′ = S 3° 08,7′. z = 90° − 74° 03,7′ = 15° 56,3′. O Sol passa ao Norte do zênite (δ = −3° 08,7′ é maior que φ = −19°), logo φ = δ − z = −3° 08,7′ − 15° 56,3′ = −19° 05,0′, ou 19° 05,0′ S.</p><ul><li><b>19° 06,4′ S</b>: soma a correção d (+0,7′) à declinação; como o número da declinação diminui, a correção é subtraída.</li><li><b>19° 05,7′ S</b>: usa a declinação da hora inteira sem aplicar a correção de 0,7′ para os 43 minutos.</li><li><b>19° 04,0′ S</b>: entra com 15h em vez de 14h; o argumento é a hora inteira imediatamente anterior ao instante.</li><li><b>12° 47,6′ N</b>: aplica φ = δ + z, que é a regra do Sol ao Sul; a declinação (−3°) é maior, com sinal, que a latitude estimada (−19°), então o Sol passa ao Norte.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 23, item 23.4; cap. 25, itens 25.3 a 25.5",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 3,
+      "enunciado": "Em 22 de novembro de 2026, a equação do tempo (ET = hora verdadeira − hora média) vale +13m 50s ao meio-dia de Greenwich. Um veleiro está na longitude 051° 40′ W. Pelo método da hora verdadeira (meio-dia verdadeiro, HVL = 12h), qual é a hora legal, ao minuto, em que o Sol cruza o meridiano superior?",
+      "alternativas": [
+        "12h 13m",
+        "12h 41m",
+        "11h 13m",
+        "08h 46m",
+        "18h 13m"
+      ],
+      "correta": 0,
+      "explicacao": "<p>HML = HVL − ET = 12h 00m 00s − 13m 50s = 11h 46m 10s. Longitude em tempo: 51° 40′ → 3h 26m 40s. HMG = 11h 46m 10s + 3h 26m 40s = 15h 12m 50s. Fuso: 51° 40′ ÷ 15 = 3, resto 6° 40′, menor que 7,5°, logo +3. Hleg = 15h 12m 50s − 3h = 12h 12m 50s, ou 12h 13m ao minuto. A ET positiva fez o Sol chegar antes das 12h médias, mas a hora legal fica depois do meio-dia porque o veleiro está a oeste do meridiano central do fuso.</p><ul><li><b>12h 41m</b>: soma a ET à hora verdadeira, em vez de subtraí-la; com ET positiva o Sol chega antes das 12h médias.</li><li><b>11h 13m</b>: usa o fuso +4; 51° 40′ ÷ 15 dá quociente 3 e resto 6° 40′, menor que 7,5°, portanto o fuso é +3.</li><li><b>08h 46m</b>: subtrai o fuso da HML, sem passar pela HMG; falta somar a longitude em tempo.</li><li><b>18h 13m</b>: soma o fuso à HMG, em vez de subtraí-lo.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, item 19.8; cap. 25, item 25.3 (2º método)",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Passagem meridiana",
+      "dificuldade": 3,
+      "enunciado": "Um veleiro na latitude 60° S navega no rumo 270° e percorre 90 milhas entre duas passagens meridianas consecutivas do Sol. Desprezando a variação da equação do tempo e sem mudança de fuso, a segunda passagem meridiana ocorre, na hora legal, cerca de:",
+      "alternativas": [
+        "12 minutos mais cedo que a primeira.",
+        "6 minutos mais tarde que a primeira.",
+        "3 minutos mais tarde que a primeira.",
+        "12 minutos mais tarde que a primeira.",
+        "24 minutos mais tarde que a primeira."
+      ],
+      "correta": 3,
+      "explicacao": "<p>Em rumo 270°, o afastamento é 90′ e Δλ = afastamento ÷ cos φ = 90′ ÷ cos 60° = 90′ ÷ 0,5 = 180′ = 3° para Oeste. Cada grau de longitude vale 4 minutos de tempo, logo 3° × 4 = 12 minutos. Quem anda para Oeste encontra o Sol mais tarde, então a culminação atrasa 12 minutos.</p><ul><li><b>12 minutos mais cedo que a primeira.</b>: o veleiro vai para Oeste, afastando-se do Sol que também vai para Oeste; a culminação atrasa, e não adianta.</li><li><b>6 minutos mais tarde que a primeira.</b>: trata as 90 milhas como 1,5° de longitude, sem dividir pelo cosseno da latitude.</li><li><b>3 minutos mais tarde que a primeira.</b>: usa 3° de longitude com 1 minuto por grau; cada grau de longitude vale 4 minutos de tempo.</li><li><b>24 minutos mais tarde que a primeira.</b>: divide pelo cosseno duas vezes (ou converte 3° em 6°); a conta correta dá 3° de longitude.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, item 19.4.1; cap. 25, item 25.3",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Tempo e fusos",
+      "dificuldade": 1,
+      "enunciado": "A longitude 047° 30′ W, expressa em unidades de tempo, vale:",
+      "alternativas": [
+        "3h 08m",
+        "3h 10m",
+        "3h 17m",
+        "3h 30m",
+        "3h 50m"
+      ],
+      "correta": 1,
+      "explicacao": "<p>47° × 4 min = 188 min = 3h 08m e 30′ × 4 s = 120 s = 2m. Total: 3h 10m. Confere-se por 47,5° ÷ 15 = 3,1667 h = 3h 10m.</p><ul><li><b>3h 08m</b>: converte só os 47° (188 min = 3h 08m) e esquece que 30′ valem 2 minutos de tempo.</li><li><b>3h 17m</b>: divide 47,5 por 15 e obtém 3,17 h, mas o décimo de hora não é minuto: 0,17 h são cerca de 10 min.</li><li><b>3h 30m</b>: toma os 30′ de arco como 30 minutos de tempo; 1′ de arco vale 4 segundos.</li><li><b>3h 50m</b>: não corresponde à conversão: 15° = 1 h, 1° = 4 min e 1′ = 4 s.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, item 19.4.1",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Tempo e fusos",
+      "dificuldade": 2,
+      "enunciado": "Um veleiro fundeado em Bridgetown (Barbados) usa a hora do fuso +4 (Q). Seu relógio marca 21h 40m do dia 12 de março. Qual é a hora média de Greenwich (HMG) e a data correspondentes?",
+      "alternativas": [
+        "01h 40m do dia 13",
+        "17h 40m do dia 12",
+        "01h 40m do dia 12",
+        "21h 40m do dia 12",
+        "02h 40m do dia 13"
+      ],
+      "correta": 0,
+      "explicacao": "<p>HMG = Hleg + fuso = 21h 40m + 4h = 25h 40m. Como passa de 24 h, subtrai-se 24 h e soma-se um dia: 01h 40m do dia 13. Em longitude Oeste a HMG é sempre maior que a hora local.</p><ul><li><b>17h 40m do dia 12</b>: subtrai o fuso da hora legal; para chegar à HMG ele se soma (HMG = Hleg + fuso).</li><li><b>01h 40m do dia 12</b>: acerta a hora, mas não avança a data ao passar de 24 h.</li><li><b>21h 40m do dia 12</b>: repete a hora legal; a HMG difere dela em 4 horas.</li><li><b>02h 40m do dia 13</b>: soma 5 horas; o fuso de Barbados, nesta conta, é +4.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, itens 19.5 e 19.6",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Tempo e fusos",
+      "dificuldade": 2,
+      "enunciado": "Qual é o fuso horário teórico, com o sinal da convenção da DHN, de um navio na longitude 037° 40′ W?",
+      "alternativas": [
+        "+2 (O)",
+        "+4 (Q)",
+        "+3 (P)",
+        "−3 (C)",
+        "−2 (B)"
+      ],
+      "correta": 2,
+      "explicacao": "<p>37° 40′ ÷ 15 dá quociente 2 e resto 7° 40′. Como o resto é maior que 7,5°, soma-se 1: fuso 3. Oeste é positivo na convenção da DHN: +3 (P). Cada fuso vai 7,5° para cada lado do meridiano central (45° W, no caso).</p><ul><li><b>+2 (O)</b>: divide 37° 40′ por 15 (quociente 2) e ignora que o resto de 7° 40′ passa de 7,5°.</li><li><b>+4 (Q)</b>: passa para o fuso seguinte sem necessidade; o quociente 2 mais 1 dá 3, e não 4.</li><li><b>−3 (C)</b>: o módulo está certo, mas o sinal é positivo a Oeste de Greenwich.</li><li><b>−2 (B)</b>: erra o sinal (Oeste é positivo) e também desconsidera o resto maior que 7,5°.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, item 19.3.3",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Tempo e fusos",
+      "dificuldade": 3,
+      "enunciado": "Um veleiro parte de Recife (fuso +3) às 08h do dia 10 e estima 12 dias e 18 horas de travessia até Mindelo, em Cabo Verde, onde a hora legal é a do fuso +1. Qual é a hora legal de chegada em Mindelo?",
+      "alternativas": [
+        "02h do dia 23",
+        "00h do dia 23",
+        "06h do dia 23",
+        "04h do dia 23",
+        "04h do dia 22"
+      ],
+      "correta": 3,
+      "explicacao": "<p>HMG de partida = 08h + 3h = 11h do dia 10. HMG de chegada = 11h do dia 10 + 12 d 18 h = 29h do dia 22 = 05h do dia 23. Hleg em Mindelo = HMG − fuso = 05h − 1h = 04h do dia 23. Planejar em HMG evita erros de data e de fuso.</p><ul><li><b>02h do dia 23</b>: é a hora do relógio de Recife (fuso +3) na chegada; em Mindelo o relógio está 2 horas adiantado.</li><li><b>00h do dia 23</b>: atrasa 2 horas, em vez de adiantar, ao passar do fuso +3 para o +1.</li><li><b>06h do dia 23</b>: usa a HMG de chegada somada de 1 h, em vez de subtraí-la.</li><li><b>04h do dia 22</b>: acerta a hora, mas esquece de passar ao dia seguinte quando a soma passa de 24 h.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, itens 19.5 e 19.6",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Tempo e fusos",
+      "dificuldade": 2,
+      "enunciado": "Em um dia de fevereiro, a equação do tempo (ET = hora verdadeira − hora média) vale −13m 30s. Em que hora média local o Sol verdadeiro cruza o meridiano superior do lugar?",
+      "alternativas": [
+        "11h 46m 30s",
+        "12h 00m 00s",
+        "12h 13m 30s",
+        "12h 27m 00s",
+        "11h 33m 00s"
+      ],
+      "correta": 2,
+      "explicacao": "<p>No meio-dia verdadeiro, HVL = 12h, e HML = HVL − ET = 12h − (−13m 30s) = 12h 13m 30s. Com ET negativa o Sol verdadeiro está atrasado em relação ao Sol médio, então culmina depois das 12h do relógio médio, como ocorre em fevereiro.</p><ul><li><b>11h 46m 30s</b>: subtrai a ET como se fosse positiva; com ET negativa o Sol está atrasado e culmina depois das 12h.</li><li><b>12h 00m 00s</b>: o meio-dia verdadeiro só coincide com 12h médias quando a ET é zero.</li><li><b>12h 27m 00s</b>: soma duas vezes a ET (13m 30s + 13m 30s).</li><li><b>11h 33m 00s</b>: dobra a ET e ainda troca o sinal.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 19, item 19.8",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Almanaque e esfera celeste",
+      "dificuldade": 1,
+      "enunciado": "O ponto vernal (γ), origem para medir a ascensão reta e a ascensão reta versa das estrelas, é:",
+      "alternativas": [
+        "o ponto em que o Sol cruza o equador celeste, de Norte para Sul, no equinócio de setembro.",
+        "o ponto em que o Sol cruza o equador celeste, de Sul para Norte, no equinócio de março.",
+        "o ponto da eclíptica em que o Sol atinge a maior declinação Norte, no solstício de junho.",
+        "a interseção do meridiano de Greenwich com o equador celeste, que gira com a Terra.",
+        "o polo celeste elevado, cuja altura sobre o horizonte é igual à latitude do observador."
+      ],
+      "correta": 1,
+      "explicacao": "<p>O ponto vernal (γ ou Áries) é o ponto em que o Sol passa do hemisfério Sul para o Norte, no equinócio de março, quando a eclíptica cruza o equador celeste. Ele gira com a esfera, junto com as estrelas, e é o “meridiano de Greenwich do céu”: a origem das coordenadas das estrelas.</p><ul><li><b>Equinócio de setembro</b>: é o ponto oposto do vernal, em que o Sol passa do hemisfério Norte para o Sul.</li><li><b>Solstício de junho</b>: é o ponto de maior declinação, a cerca de 90° do ponto vernal.</li><li><b>Meridiano de Greenwich</b>: o meridiano de Greenwich é a origem dos ângulos horários, e não o ponto vernal, que acompanha as estrelas.</li><li><b>Polo celeste</b>: o polo elevado tem altura igual à latitude, mas não é origem da ascensão reta.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 18, item 18.3",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Almanaque e esfera celeste",
+      "dificuldade": 1,
+      "enunciado": "Num lugar de latitude 35° S, o polo celeste elevado está a 35° acima do horizonte. Nesse lugar, um astro de declinação 0° (sobre o equador celeste) culmina com altura e direção de:",
+      "alternativas": [
+        "55°, ao Sul do zênite (azimute 180°).",
+        "35°, ao Norte do zênite (azimute 000°).",
+        "35°, ao Sul do zênite (azimute 180°).",
+        "55°, ao Norte do zênite (azimute 000°).",
+        "90°, no zênite."
+      ],
+      "correta": 3,
+      "explicacao": "<p>A distância zenital na culminação é z = |φ − δ| = |35° − 0°| = 35°, então a altura é 90° − 35° = 55°. Como a declinação (0°) é maior que a latitude (−35°), o astro passa ao Norte do zênite, com azimute 000°.</p><ul><li><b>55°, ao Sul do zênite (azimute 180°).</b>: para quem está no hemisfério Sul, o equador celeste cruza o meridiano ao Norte do zênite; o azimute 180° seria a direção do polo elevado.</li><li><b>35°, ao Norte do zênite (azimute 000°).</b>: confunde a distância zenital (35°) com a altura; a altura é 90° − 35° = 55°.</li><li><b>35°, ao Sul do zênite (azimute 180°).</b>: repete o erro da altura e passa o astro para o lado do polo elevado.</li><li><b>90°, no zênite.</b>: o astro só culmina no zênite se a declinação for igual à latitude, o que não ocorre (0° contra 35° S).</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 17 e cap. 25, item 25.4",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Almanaque e esfera celeste",
+      "dificuldade": 2,
+      "enunciado": "Num certo instante, o Almanaque Náutico (extrato simulado) dá o ângulo horário do ponto vernal em Greenwich AHGγ = 250° 10,0′. Uma estrela tem ascensão reta versa (ARV) de 145° 30,0′. O AHG da estrela é:",
+      "alternativas": [
+        "395° 40,0′",
+        "104° 40,0′",
+        "324° 20,0′",
+        "215° 50,0′",
+        "035° 40,0′"
+      ],
+      "correta": 4,
+      "explicacao": "<p>AHG* = AHGγ + ARV* = 250° 10,0′ + 145° 30,0′ = 395° 40,0′. Como passa de 360°, subtrai-se 360°: AHG* = 035° 40,0′. O ponto vernal e a estrela giram juntos, e a ARV, constante por vários dias, é o ângulo entre eles.</p><ul><li><b>395° 40,0′</b>: a soma é 395° 40,0′, mas um ângulo horário não passa de 360°; subtrai-se 360°.</li><li><b>104° 40,0′</b>: faz AHGγ − ARV; o AHG da estrela é a soma AHGγ + ARV.</li><li><b>324° 20,0′</b>: é 360° − 035° 40,0′, ou seja, o ângulo contado no sentido oposto, que não é o AHG.</li><li><b>215° 50,0′</b>: não resulta de nenhuma das operações: a soma de 250° 10,0′ com 145° 30,0′ é 395° 40,0′.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 18, item 18.3 e cap. 23",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Almanaque e esfera celeste",
+      "dificuldade": 2,
+      "enunciado": "Em 17 de agosto de 2026, o Almanaque Náutico (extrato simulado) dá a declinação do Sol às 10h (HMG) como N 12° 30,6′, com d = −0,7′ (a declinação, em número, diminui). A declinação às 10h 45m (HMG) é:",
+      "alternativas": [
+        "N 12° 31,1′",
+        "N 12° 30,6′",
+        "N 12° 30,1′",
+        "N 12° 29,9′",
+        "S 12° 30,1′"
+      ],
+      "correta": 2,
+      "explicacao": "<p>A correção é d × minutos/60 = −0,7′ × 45/60 = −0,525′, ou cerca de −0,5′. Como d é negativo, subtrai-se: N 12° 30,6′ − 0,5′ = N 12° 30,1′. O sinal da correção é sempre o de d, e o nome N ou S não muda.</p><ul><li><b>N 12° 31,1′</b>: soma a correção, mas d é negativo: o número da declinação diminui.</li><li><b>N 12° 30,6′</b>: repete a declinação da hora inteira, sem corrigir pelos 45 minutos.</li><li><b>N 12° 29,9′</b>: subtrai os 0,7′ da hora toda; a correção é proporcional aos minutos: 0,7′ × 45/60.</li><li><b>S 12° 30,1′</b>: o valor está certo, mas a declinação continua Norte; só o número muda.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 23, item 23.4",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    },
+    {
+      "tema": "Almanaque e esfera celeste",
+      "dificuldade": 3,
+      "enunciado": "Em 20 de março de 2026, no fuso +3, o relógio de um veleiro marca 16h 20m 40s. A posição é 046° 40,0′ W. O Almanaque Náutico (extrato simulado) dá o AHG do Sol às 19h (HMG) como 103° 06,2′; o acréscimo do AHG do Sol é de 15° por hora (15′ por minuto e 0,25′ por segundo). O AHL do Sol é:",
+      "alternativas": [
+        "061° 26,2′",
+        "056° 26,2′",
+        "154° 56,2′",
+        "298° 23,8′",
+        "061° 36,2′"
+      ],
+      "correta": 4,
+      "explicacao": "<p>HMG = Hleg + fuso = 16h 20m 40s + 3h = 19h 20m 40s, e entra-se com 19h. Acréscimo: 20 × 15′ = 5° 00,0′ e 40 × 0,25′ = 10,0′, total 5° 10,0′. AHG = 103° 06,2′ + 5° 10,0′ = 108° 16,2′. Para longitude Oeste, AHL = AHG − λ = 108° 16,2′ − 046° 40,0′ = 061° 36,2′ (o Sol está a Oeste do meridiano, a cerca de 4h 06m após a culminação).</p><ul><li><b>061° 26,2′</b>: acrescenta só os 20 minutos (5° 00,0′); os 40 segundos valem mais 10,0′.</li><li><b>056° 26,2′</b>: usa o AHG da hora inteira (19h), sem somar o acréscimo de 20m 40s (5° 10,0′).</li><li><b>154° 56,2′</b>: soma a longitude Oeste ao AHG; a Oeste, AHL = AHG − λ.</li><li><b>298° 23,8′</b>: é 360° − AHL, o ângulo contado em sentido oposto; o AHL do Sol está a Oeste do meridiano.</li></ul>",
+      "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. II, cap. 23, itens 23.2 e 23.4; cap. 18, item 18.2",
+      "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf"
+    }
+  ]
+}

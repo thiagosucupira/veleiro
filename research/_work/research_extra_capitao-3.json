@@ -1,0 +1,224 @@
+{
+ "claims": [
+  {
+   "id": "extra-capitao-3-01",
+   "topic": "socorro-dever",
+   "claim": "O Comandante é obrigado a socorrer quem estiver em perigo de vida no mar, desde que possa fazê-lo sem perigo para a própria embarcação, tripulantes e passageiros.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 1.10.2, p. 1-11",
+   "quote": "que o possa fazer sem perigo para sua embarcação, tripulantes e passageiros, a socorrer",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-02",
+   "topic": "socorro-comunicar",
+   "claim": "Quem souber de vida humana em perigo no mar deve comunicar imediatamente o fato à Capitania, Delegacia ou Agência (CP/DL/AG) ou à Autoridade Naval mais próxima.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 1.10.3, p. 1-11",
+   "quote": "Qualquer pessoa que tomar conhecimento da existência de vida humana em perigo",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-03",
+   "topic": "socorro-gratuito",
+   "claim": "Nada é devido pela pessoa socorrida, qualquer que seja sua nacionalidade, posição social e as circunstâncias em que for encontrada.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 1.10.4, p. 1-11",
+   "quote": "Nada será devido pela pessoa socorrida, independentemente de sua nacionalidade,",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-04",
+   "topic": "comandante-definicao",
+   "claim": "Comandante é o tripulante responsável pela operação e manutenção da embarcação, em condições de segurança extensivas à carga, aos tripulantes e às demais pessoas a bordo.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 1.7 (definições), p. 1-5",
+   "quote": "Comandante - é a designação do tripulante responsável pela operação e manutenção",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-05",
+   "topic": "assistencia-comandante",
+   "claim": "Quando a embarcação precisa de assistência ou salvamento, o Comandante deve tomar todas as medidas possíveis para obtê-los e cooperar integralmente com os salvadores.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 1.11.2, p. 1-11",
+   "quote": "O Comandante da embarcação deverá tomar todas as medidas possíveis para obter",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-06",
+   "topic": "previsao-antes-de-sair",
+   "claim": "Antes de sair para o passeio ou viagem, o Comandante deve tomar conhecimento das previsões meteorológicas disponíveis e, durante a viagem, ficar atento a sinais de mau tempo, como aumento do vento, do estado do mar e queda acentuada da pressão.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 4.6.3, p. 4-3",
+   "quote": "conhecimento das previsões meteorológicas disponíveis. Durante o passeio ou viagem, o",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-07",
+   "topic": "hf-alcance",
+   "claim": "O transceptor fixo HF deve ter potência suficiente para operar a uma distância de, pelo menos, 75 milhas da costa.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 4.23.1, p. 4-11",
+   "quote": "pelo menos, 75 milhas da costa;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-08",
+   "topic": "acidente-comunicar",
+   "claim": "Em acidente da navegação de esporte e recreio, o proprietário ou condutor deve comunicar o fato à CP/DL/AG e à Autoridade Policial mais próxima.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 3.3, p. 4-B-2",
+   "quote": "seus proprietários ou condutores deverão comunicar o fato à CP/DL/AG e à Autoridade Policial",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-09",
+   "topic": "acidente-inquerito",
+   "claim": "Nos acidentes fatais ou com desaparecimento de pessoa, a Capitania providencia inquérito administrativo para apurar as causas, para posterior julgamento pelo Tribunal Marítimo.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 3.3.1, p. 4-B-2",
+   "quote": "A CP/DL/AG providenciarão o competente inquérito administrativo com o objetivo de",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-10",
+   "topic": "comunicar-alteracoes",
+   "claim": "A NORMAM recomenda ao Comandante comunicar à Autoridade Marítima alterações de sinais náuticos, obstáculos à navegação, acidentes com sua embarcação (inclusive água aberta) e infrações cometidas por outra embarcação.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 1.2, p. 4-B-1",
+   "quote": "acidentes ocorridos com sua embarcação (naufrágio, encalhe, colisão, abalroamento,",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-11",
+   "topic": "peiar-tudo",
+   "claim": "A NORMAM recomenda ao Comandante, antes do início da viagem, armazenar e peiar adequadamente todas as peças, equipamentos e objetos a bordo, por causa do estado do mar.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 1.4, p. 4-B-1",
+   "quote": "Ter atenção especial, antes do início de uma viagem, para que todas as peças, equipa-",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-12",
+   "topic": "aberturas-fechadas",
+   "claim": "Com condições climáticas adversas, o Comandante deve manter fechadas todas as aberturas por onde a água possa penetrar no casco.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 1.6, p. 4-B-1",
+   "quote": "1.6. Quando tiver de enfrentar condições climáticas adversas, manter todas as aberturas",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-13",
+   "topic": "piloto-automatico",
+   "claim": "A NORMAM recomenda evitar o piloto automático em condições climáticas adversas, pela impossibilidade de mudar rumo ou velocidade com presteza.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 1.7, p. 4-B-1",
+   "quote": "1.7. Evitar a utilização de piloto automático sob condições climáticas adversas devido à",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-14",
+   "topic": "mar-de-popa",
+   "claim": "Com mar de popa ou de alheta há risco de jogo excessivo e perda de estabilidade nas cristas; a situação é particularmente perigosa quando o comprimento da onda é de 1,0 a 1,5 vez o comprimento da embarcação, e velocidade ou rota devem ser alteradas.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 1.8, p. 4-B-1",
+   "quote": "situação particularmente perigosa ocorre quando o comprimento da onda é da ordem de 1,0",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-15",
+   "topic": "responsabilidade-esferas",
+   "claim": "A utilização imprudente da embarcação em condições adversas de mar ou tempo, ou fora da área de navegação para a qual foi habilitada, é de inteira responsabilidade do proprietário e/ou comandante nas esferas administrativa, civil e penal.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 2, p. 4-B-2",
+   "quote": "proprietário e/ou comandante perante todas as esferas (administrativa, civil e penal).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-16",
+   "topic": "epirb-100-milhas",
+   "claim": "A EPIRB 406 MHz é obrigatória para embarcações que se dirijam a portos estrangeiros ou que se afastem sistematicamente a mais de 100 milhas náuticas da costa.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 4-B, item 4.5, p. 4-B-3",
+   "quote": "É obrigatório que as embarcações que se dirijam a portos estrangeiros, ou que se",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-17",
+   "topic": "radar-transponder-iate",
+   "claim": "Embarcações de grande porte ou iates, em navegação costeira ou oceânica, devem ter VHF com DSC, HF com DSC (substituível por telefone ou comunicador satelital), receptor-transmissor radar (transponder) na faixa de 9 GHz e EPIRB 406 MHz.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 4.24.1 a), p. 4-13",
+   "quote": "III) receptor - transmissor radar (transponder) operando na faixa de 9 GHz; e",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-18",
+   "topic": "prpm-tie",
+   "claim": "Todas as embarcações devem portar, quando aplicável, a Provisão de Registro de Propriedade Marítima (PRPM) ou o Título de Inscrição de Embarcação (TIE).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 4.25, p. 4-14",
+   "quote": "a Provisão de Registro de Propriedade Marítima (PRPM) ou Título de Inscrição de Embarcação (TIE).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-19",
+   "topic": "revisao-modelo",
+   "claim": "O modelo de pedido de revisão de prova (Apêndice I do Anexo 5-A) pede nome, CPF e identidade do candidato, a data do exame, o número da questão, a resposta do gabarito e a do candidato, a fundamentação do pedido e a bibliografia que a embasou, com cópia das páginas de interesse; o avaliador do CIAGA decide se é procedente ou improcedente e fundamenta.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 5-A, Apêndice I, p. 5-A-I-1",
+   "quote": "Bibliografia que embasou a fundamentação (anexar cópia das páginas de interesse).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-capitao-3-20",
+   "topic": "revisao-requerimento",
+   "claim": "O requerimento do Anexo 5-H tem, entre as opções de serviço, o item 12, “Pedido de revisão de prova de Capitão-Amador”.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 5-H, p. 5-H-1",
+   "quote": "12 - PEDIDO DE REVISÃO DE PROVA DE CAPITÃO-AMADOR",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  }
+ ]
+}

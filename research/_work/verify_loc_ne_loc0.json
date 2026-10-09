@@ -1,0 +1,145 @@
+{
+ "verdicts": [
+  {
+   "id": "ne-pb-amar-escola-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, titulo coerente; CPPB regular citada."
+  },
+  {
+   "id": "ne-pb-escola-nautica-novo-rumo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Facebook 200 coerente; fonte CPPB oficial."
+  },
+  {
+   "id": "ne-pb-escola-nautica-portalo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Wix 200, titulo Portalo Joao Pessoa."
+  },
+  {
+   "id": "ne-pb-oraculo-escola-de-vela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  },
+  {
+   "id": "ne-pb-marina-jacare-village",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, marina ativa."
+  },
+  {
+   "id": "ne-pe-cabanga-iate-clube",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 406 so para curl simples; pagina escolinhas abre via servico local, conteudo confere."
+  },
+  {
+   "id": "ne-pe-refeno",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente."
+  },
+  {
+   "id": "ne-pe-velejando-pe",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente."
+  },
+  {
+   "id": "ne-pe-escola-de-vela-south-wind",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  },
+  {
+   "id": "ne-pe-vital-escola-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente; lista CPPE."
+  },
+  {
+   "id": "ne-pe-travessias-oceanicas-refeno",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente."
+  },
+  {
+   "id": "ne-rn-iate-clube-do-natal",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  },
+  {
+   "id": "ne-rn-escola-de-vela-natal",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Facebook 200 coerente."
+  },
+  {
+   "id": "ne-rn-portal-do-amador",
+   "verdict": "corrigir",
+   "http_ok": true,
+   "notes": "Site abre via servico local (curl direto expira); preco da apostila hoje R$ 40,00 e nao R$ 50,00.",
+   "corrected_fields": {
+    "preco": "Apostila digital de Arrais-Amador e Motonauta: R$ 40,00 (2026-10-07)."
+   }
+  },
+  {
+   "id": "ne-ba-yacht-clube-da-bahia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente."
+  },
+  {
+   "id": "ne-ba-aratu-iate-clube",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente."
+  },
+  {
+   "id": "ne-ba-regata-aratu-maragojipe",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente."
+  },
+  {
+   "id": "ne-ba-bahia-marina",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente."
+  },
+  {
+   "id": "ne-ba-vela-pra-vida",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  },
+  {
+   "id": "ne-ba-veleiro-pantai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  },
+  {
+   "id": "ne-ba-guarderia-beira-mar",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  },
+  {
+   "id": "ne-ba-baia-vela-e-mar",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  },
+  {
+   "id": "ne-ba-meninas-da-vela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200 coerente."
+  }
+ ]
+}

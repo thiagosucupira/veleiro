@@ -1,0 +1,76 @@
+{
+ "verdicts": [
+  {
+   "id": "ne-ba-bahia-vela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Instagram 200, título Bahia Vela; fonte oficial de turismo de Salvador (200) lista a empresa com cursos de vela oceânica."
+  },
+  {
+   "id": "ne-ba-fundacao-aleixo-belov",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente; ETN-A na lista CPBA (Portaria 68/2024, validade 2029)."
+  },
+  {
+   "id": "ne-ba-escola-nautica-legal-no-mar",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente; endereço/e-mail batem com credenciado CPBA (validade 2027)."
+  },
+  {
+   "id": "ne-ba-bahia-passeios",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente; CPBA ARA/MTA validade 2027."
+  },
+  {
+   "id": "ne-ba-bahia-aventura",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente; CPBA validade 2028; cidade Vera Cruz/Mar Grande já tratada."
+  },
+  {
+   "id": "ne-ba-namaste-charter",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 e página da fonte com trechos Salvador/Recife; ressalva: ano da Refeno não indicado."
+  },
+  {
+   "id": "ne-ce-iate-clube-de-fortaleza",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente; clube existente e credenciado na CPCE."
+  },
+  {
+   "id": "ne-al-escola-de-vela-pajussara",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente com Maceió; cursos conferem."
+  },
+  {
+   "id": "ne-se-barlavento-vela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 coerente com Aracaju/Mosqueiro."
+  },
+  {
+   "id": "ne-se-reseba",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 4ªRESEBA e e-inscrição 200; largada 30/10/2026."
+  },
+  {
+   "id": "ne-ma-ludovela-aven",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 LudoVela, São Luís."
+  },
+  {
+   "id": "ne-ma-vento-em-popa",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 (Vento em Popa - Home); conteúto antigo, mas entidade ativa e listada pela CPMA segundo a pesquisa; não confirmei a lista CPMA (timeout)."
+  }
+ ]
+}

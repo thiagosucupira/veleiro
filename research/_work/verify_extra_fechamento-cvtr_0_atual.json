@@ -1,0 +1,129 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-fechamento-cvtr-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/2026-06/gabaritofinal.pdf",
+   "notes": "Reabri o PDF pelo serviço local: gabarito ES-CPA-I/2026, datado de 01/06/2026, traz a questão 20 como CANCELADA.",
+   "evidence_quote": "20 CANCELADA"
+  },
+  {
+   "id": "extra-fechamento-cvtr-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-meteoromarinha/previsao-24-horas",
+   "notes": "Página reaberta (atualizada 07/10/2026): BRAVO é OCEÂNICA, CHARLIE é COSTEIRA, e há ÁREA SUL OCEÂNICA e NORTE OCEÂNICA, tanto na previsão 080000-090000 quanto na 090000-100000.",
+   "evidence_quote": "ÁREA BRAVO (DE LAGUNA ATÉ ARRAIAL DO CABO – OCEÂNICA)"
+  },
+  {
+   "id": "extra-fechamento-cvtr-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://sailmail.com/wp-content/uploads/2016/02/smprimer.htm",
+   "notes": "Página ainda no ar: GRIB < 30 kB (Pactor-III) e < 40 kB (Pactor-4), 10 kB em Pactor-II (15 kB em outro trecho); .fcst, .iac, .lis passam pequenos e tipos não citados não passam; documento é de 2016.",
+   "evidence_quote": "The SailMail system can pass grib files, but only if they are less than 30kBytes in length if sent via Pactor-III or less than 40kBytes via Pactor-4 (10kBytes via Pactor-II)."
+  },
+  {
+   "id": "extra-fechamento-cvtr-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://winlink.org/sites/default/files/download/wl2k_faq_9.pdf",
+   "notes": "O FAQ oficial do Winlink também lista 120000 bytes (comprimidos) como limite padrão incluindo anexos, e a apresentação SEA-PAC 2023 diz o mesmo; o limite vale para mensagens baixadas do CMS e o usuário pode alterá-lo.",
+   "evidence_quote": "Message size maximum, including Attachments: 120 kb (compressed)"
+  },
+  {
+   "id": "extra-fechamento-cvtr-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Texto reaberto: a checagem automática falhou só pelo layout; a tabela mostra a)/b) '**' (todas), c)/d) Mo/Mu 0-3, e) 0-2, f) só Cat. 0, como na afirmação; a edição v1 vale até 31/12/2026 (v2 só em 01/01/2027).",
+   "evidence_quote": "c) an emergency position indicating light MoMu0,1,2,3; d) a sprayhood MoMu0,1,2,3; e) a deck safety harness MoMu0,1,2; f) a personal location device MoMu0"
+  },
+  {
+   "id": "extra-fechamento-cvtr-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.08.2 a) e b) Cat. 0-4 e exceção de duas escotilhas por bordo < 0,071 m² conferem no PDF da edição 2026-2027 v1, vigente em 07/10/2026.",
+   "evidence_quote": "A boat may have a maximum of two hatches on each side of centreline that do not conform to the requirement in b), provided that the opening of each is less than 0.071 m²"
+  },
+  {
+   "id": "extra-fechamento-cvtr-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 3.01.2 e 3.01.3 conferem literalmente no PDF da v1, vigente; a v2 só entra em vigor em 01/01/2027.",
+   "evidence_quote": "Equipped with shrouds and at least one forestay that shall remain connected to the mast and the boat while racing (not applicable to boats with free-standing masts)."
+  },
+  {
+   "id": "extra-fechamento-cvtr-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 2.04.1 a) a f) conferem no PDF da v1 vigente (itens c, d, e como na afirmação).",
+   "evidence_quote": "c) if it has an expiry date, it will not have exceeded its expiry date whilst racing"
+  },
+  {
+   "id": "extra-fechamento-cvtr-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://journals.viamedica.pl/international_maritime_health/article/view/47451",
+   "notes": "O artigo (2016) diz serviço médico contínuo de 24 h por médicos na sede e coordenação de transferência para hospital em terra; busca independente não achou site oficial atual, e a afirmação já ressalva custo e elegibilidade como não confirmados.",
+   "evidence_quote": "The 24-h continuous medical service is provided by doctors at the CIRM headquarters."
+  },
+  {
+   "id": "extra-fechamento-cvtr-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12876.htm",
+   "notes": "Reabri a Lei 12.876/2013 no Planalto: alíneas b, c e e do art. 2º do Decreto 2.784 conferem exatamente (menos 3, 4 e 5 h); não achei lei posterior que altere os fusos.",
+   "evidence_quote": "b) o segundo fuso, caracterizado pela hora de Greenwich menos três horas, compreende o Distrito Federal e os Estados do Rio Grande do Sul, ..."
+  },
+  {
+   "id": "extra-fechamento-cvtr-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivos/Manual_Navega%C3%A7%C3%A3o_MB_Vol_2_%281%C2%AARevis%C3%A3o_2021%29_Final.pdf",
+   "notes": "Decreto 2.784 art. 2º a) confere no Planalto, e o Manual de Navegação vol. II (1ª rev. 2021) lista no primeiro fuso Noronha, Trindade e São Pedro e São Paulo, como na afirmação.",
+   "evidence_quote": "I – o primeiro fuso, em que a hora legal é igual à de Greenwich diminuída de duas horas, compreende o arquipélago de Fernando de Noronha, a ilha da Trindade e o arquipélago de São Pedro e São Paulo;"
+  },
+  {
+   "id": "extra-fechamento-cvtr-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Arts. 3.27.1 e 3.27.2 conferem no texto consolidado de 03/03/2026; o índice da DPC ainda mostra a Portaria nº 200 (27/02/2026) como a vigente, sem portaria posterior.",
+   "evidence_quote": "quando por qualquer motivo este dado não for disponibilizado pelo estaleiro construtor ou quando se tratar de embarcação de fabricação artesanal"
+  },
+  {
+   "id": "extra-fechamento-cvtr-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.19.3 a) e b) conferem no consolidado (radar só para costeira/oceânica, ecobatímetro, ambos para construídas após 11/02/2000); sem portaria posterior à nº 200 no índice da DPC.",
+   "evidence_quote": "b) Ecobatímetro - as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro."
+  },
+  {
+   "id": "extra-fechamento-cvtr-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Conferi nos dois textos: o Anexo 4-B item 4.5 (ZIP de anexos) diz 'É recomendável' e o consolidado 4.5 diz 'É obrigatório'; a obrigatoriedade em oceânica vem do art. 4.24 (4.24.1 a IV e 4.24.2 a III); não há portaria posterior que resolva a discrepância.",
+   "evidence_quote": "É recomendável que as embarcações que se dirijam a portos estrangeiros, ou que se afastem, sistematicamente, a mais de 100 milhas náuticas da costa, sejam dotadas com o equipamento denominado “Rádio Baliza Indicadora de Posição em Emergência” (EPIRB-406MHz)."
+  },
+  {
+   "id": "extra-fechamento-cvtr-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "notes": "Página reaberta pelo serviço local: 2017 só tem 'CPA-1/CPA-2 - Prova e Gabarito' e a primeira 'Relação dos Aprovados' é em 2018 (CPA-2); a checagem automática falhou só pelo texto parcial."
+  },
+  {
+   "id": "extra-fechamento-cvtr-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "notes": "O relatório WWNWS16 de 2024 traz exatamente essa previsão condicional (início em 01/01/2025); a afirmação é atribuída ao relatório de 2024 e não afirma que a transmissão começou, e não achei relatório de 2025 confirmando.",
+   "evidence_quote": "If all administrative processes are completed by the end of 2024, MSI transmissions with operational status are scheduled to begin on January 1, 2025."
+  },
+  {
+   "id": "extra-fechamento-cvtr-17",
+   "verdict": "nao_verificavel",
+   "evidence_url": "https://www.itu.int/pub/R-REG-RR",
+   "notes": "O texto de 32.17 e 32.29A (cinco minutos, canal 16) confere numa cópia WRC-07 do Art. 32, mas não consegui abrir a edição vigente do RR (2024) para confirmar numeração e redação atuais; a checagem automática falhou porque a fonte citada é só a página de venda da UIT.",
+   "evidence_quote": "32.29A 3) Ship stations in receipt of a distress call sent by radiotelephony on the frequency 156.8 MHz (VHF channel 16) shall, if the call is not acknowledged by a coast station or another vessel within five minutes, acknowledge receipt to the vessel in distress and use any means available to relay the distress call"
+  },
+  {
+   "id": "extra-fechamento-cvtr-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 5 do Anexo 4-B (ZIP de anexos) confere literalmente com a afirmação; sem portaria posterior à nº 200 no índice da DPC.",
+   "evidence_quote": "Os condutores de embarcações devem utilizá-las de forma racional e prudente, procurando evitar manobras arriscadas e potencialmente perigosas à vida humana e à propriedade alheia."
+  }
+ ]
+}

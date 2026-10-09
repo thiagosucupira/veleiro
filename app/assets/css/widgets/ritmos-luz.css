@@ -1,0 +1,121 @@
+/* Widget ritmos-luz — decodificador de característica de luz.
+   Variáveis locais (--bz-*) também usadas por boias-iala: "noite" (painel escuro onde a luz aparece)
+   e cores de tinta de boia que ainda não têm token no núcleo (preta e azul; ver core_requests). */
+.widget-ritmos-luz, .widget-boias-iala, .rl-lamp-svg, .rl-tl, .rl-noite {
+  --bz-noite: var(--ink);
+  --bz-noite-ink: var(--paper);
+  --bz-preta: var(--nav-black, #16191d);
+  --bz-azul: var(--nav-blue, #1f5fbf);
+  --bz-azul-luz: var(--nav-blue-light, #5b95ff);
+  --bz-lente-apagada: color-mix(in srgb, var(--bz-noite-ink) 16%, var(--bz-noite));
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .widget-ritmos-luz, :root:not([data-theme="light"]) .widget-boias-iala,
+  :root:not([data-theme="light"]) .rl-lamp-svg, :root:not([data-theme="light"]) .rl-tl, :root:not([data-theme="light"]) .rl-noite {
+    --bz-noite: var(--paper);
+    --bz-noite-ink: var(--ink);
+  }
+}
+:root[data-theme="dark"] .widget-ritmos-luz, :root[data-theme="dark"] .widget-boias-iala,
+:root[data-theme="dark"] .rl-lamp-svg, :root[data-theme="dark"] .rl-tl, :root[data-theme="dark"] .rl-noite {
+  --bz-noite: var(--paper);
+  --bz-noite-ink: var(--ink);
+}
+
+.rl .instrumento-corpo { padding: var(--s-4); }
+.rl-corpo { display: flex; flex-direction: column; gap: var(--s-4); }
+.rl-grade { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-4); align-items: start; }
+@media (min-width: 720px) { .rl-grade { grid-template-columns: minmax(230px, 300px) minmax(0, 1fr); } }
+/* decodificar: no celular, entrada → lâmpada → linha do tempo → explicação; no desktop, lâmpada fixa à esquerda */
+.rl-dec { grid-template-areas: "form" "esq" "saida"; }
+.rl-dec > .rl-info { grid-area: form; }
+.rl-dec > .rl-esq { grid-area: esq; display: flex; flex-direction: column; gap: var(--s-4); min-width: 0; }
+.rl-dec > .rl-saida { grid-area: saida; min-width: 0; }
+@media (min-width: 720px) {
+  .rl-dec { grid-template-areas: "esq form" "esq saida"; grid-template-rows: auto 1fr; }
+  .rl-dec > .rl-esq { position: sticky; top: calc(var(--topbar-h) + var(--s-3)); align-self: start; }
+}
+@media (max-width: 719px) {
+  .rl-exemplos { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; margin-right: calc(-1 * var(--s-4)); padding-right: var(--s-4); scrollbar-width: thin; }
+  .rl-exemplos .chip { flex: none; }
+}
+
+/* painel noturno com a lâmpada */
+.rl-noite {
+  background: var(--bz-noite); color: var(--bz-noite-ink);
+  border: 1px solid var(--line); border-radius: var(--r-panel);
+  padding: var(--s-4) var(--s-3) var(--s-3);
+  display: flex; flex-direction: column; align-items: center; gap: var(--s-2); text-align: center;
+}
+.rl-lamp { width: min(180px, 60vw); aspect-ratio: 1; }
+.rl-lamp-svg { width: 100%; height: 100%; display: block; overflow: visible; }
+.rl-lamp-brilho { opacity: 0; }
+.rl-lamp-lente { fill: var(--bz-lente-apagada); }
+.rl-lamp-anel { fill: none; stroke: color-mix(in srgb, var(--bz-noite-ink) 32%, transparent); stroke-width: 1.5; }
+.rl-fase-txt { margin: 0; font-weight: 650; min-height: 1.6em; }
+.rl-relogio { margin: 0; font-size: var(--fs--1); opacity: 0.85; }
+.rl-botoes { display: flex; gap: var(--s-2); justify-content: center; flex-wrap: wrap; }
+.rl-btn-noite { --bg: transparent; --fg: var(--bz-noite-ink); --bd: color-mix(in srgb, var(--bz-noite-ink) 38%, transparent); min-width: 44px; min-height: 44px; }
+.rl-btn-noite:focus-visible { box-shadow: 0 0 0 2px var(--bz-noite), 0 0 0 4px var(--magenta); }
+.rl-rm { font-size: var(--fs--1); margin: 0; opacity: 0.85; max-width: 30ch; }
+.rl-setores { display: flex; flex-direction: column; align-items: center; gap: var(--s-1); margin-top: var(--s-1); }
+.rl-setor-tit { font-size: var(--fs--1); }
+.rl-seg-noite { border-color: color-mix(in srgb, var(--bz-noite-ink) 38%, transparent); }
+.rl-seg-noite button { color: var(--bz-noite-ink); min-height: 40px; border-right-color: color-mix(in srgb, var(--bz-noite-ink) 38%, transparent); }
+.rl-seg-noite button[aria-pressed="true"] { background: var(--magenta); color: var(--magenta-ink); }
+
+/* entrada e explicação */
+.rl-info { min-width: 0; }
+.rl-form { margin-bottom: var(--s-3); }
+.rl-form .field-label { display: block; margin-bottom: var(--s-1); }
+.rl-linha-in { display: flex; gap: var(--s-2); }
+.rl-entrada { flex: 1; min-width: 0; font-weight: 650; font-size: 1.05rem; }
+.rl-form .field-hint { margin: var(--s-1) 0 0; }
+.rl-exemplos { margin-bottom: 0; }
+.rl-exemplos .chip { min-height: 40px; padding: 4px 12px; font-size: 0.9rem; border-color: var(--line); background: var(--paper); }
+.rl-exemplos .chip:hover { border-color: var(--magenta); }
+.rl-erro { color: var(--erro); font-weight: 650; }
+.rl-notacoes { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: var(--s-2) var(--s-4); padding: var(--s-3) var(--s-4); background: var(--shoal); border-radius: var(--r-panel); margin-bottom: var(--s-3); }
+.rl-not-rot { display: block; font-size: var(--fs--1); color: var(--ink-2); }
+.rl-not-v { font-size: var(--fs-1); font-weight: 760; letter-spacing: -0.005em; overflow-wrap: anywhere; }
+.rl-pecas { margin: 0 0 var(--s-3); display: flex; flex-direction: column; gap: var(--s-3); }
+.rl-peca { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2px; }
+.rl-peca dt { display: flex; gap: var(--s-2); align-items: baseline; flex-wrap: wrap; font-weight: 700; }
+.rl-peca dd { margin: 0; color: var(--ink-2); font-size: 0.97rem; }
+.rl-peca-cod { display: inline-block; min-width: 2.6em; padding: 0 8px; border: 1px solid var(--line); border-radius: var(--r-input); background: var(--paper); text-align: center; font-weight: 760; }
+.rl-en { font-weight: 450; color: var(--ink-3); font-style: italic; }
+.rl-sig { border-left: 4px solid var(--magenta); background: var(--magenta-soft); padding: var(--s-3) var(--s-4); border-radius: 0 var(--r-panel) var(--r-panel) 0; margin: 0 0 var(--s-3); }
+.rl-ref { color: var(--ink-2); font-size: var(--fs--1); }
+.rl-avisos { margin: 0 0 var(--s-3); padding: var(--s-3) var(--s-4) var(--s-3) calc(var(--s-4) + 1em); background: var(--aviso-soft); border-left: 4px solid var(--aviso); border-radius: 0 var(--r-panel) var(--r-panel) 0; font-size: 0.95rem; }
+.rl-alc { border: 1px solid var(--line); border-radius: var(--r-panel); padding: var(--s-3) var(--s-4); margin-bottom: var(--s-3); }
+.rl-alc .field-label { display: block; }
+.rl-alc input[type="range"] { min-height: 40px; }
+.rl-alc-out { display: block; margin: var(--s-1) 0; }
+.rl-alc .rl-ref { margin: 0; }
+
+/* linha do tempo */
+.rl-tl-wrap { min-width: 0; }
+.rl-tl-fundo { fill: var(--paper); }
+.rl-tl-tit { margin: 0 0 var(--s-1); font-weight: 700; font-size: 0.97rem; }
+.rl-tl-host { width: 100%; overflow: hidden; }
+.rl-tl { display: block; }
+.rl-tl-noite { fill: var(--bz-noite); stroke: var(--line); }
+.rl-tl-luz { stroke: color-mix(in srgb, var(--bz-noite) 40%, transparent); stroke-width: 0.5; }
+.rl-tl-tick { stroke: var(--ink-3); stroke-width: 1; }
+.rl-tl-txt { fill: var(--ink-2); font-size: 12px; font-family: var(--font); font-variant-numeric: tabular-nums; }
+.rl-tl-per { fill: var(--ink); font-weight: 650; }
+.rl-tl-colchete { fill: none; stroke: var(--ink-3); stroke-width: 1; }
+.rl-tl-cursor { stroke: var(--magenta); stroke-width: 2.5; stroke-linecap: round; }
+.rl-tl-cap { margin: var(--s-2) 0 0; font-size: var(--fs--1); color: var(--ink-2); }
+.rl-fd { color: var(--ink); font-weight: 600; }
+
+/* desafio */
+.rl-desafio-enun { font-weight: 700; font-size: 1.08rem; margin-bottom: var(--s-3); }
+.rl-ajuda { margin-bottom: var(--s-3); font-size: 0.95rem; min-height: 40px; }
+.rl-opcoes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-2); margin-bottom: var(--s-3); }
+.rl-alt { flex-direction: column; gap: 0; min-height: 56px; justify-content: center; }
+.rl-alt-cod { font-weight: 760; font-size: 1.05rem; }
+.rl-alt-pt { font-size: var(--fs--1); color: var(--ink-2); }
+.rl-fb p { margin-bottom: var(--s-2); }
+.rl-placar { margin: var(--s-3) 0 0; color: var(--ink-2); font-size: var(--fs--1); }
+.rl-fonte { max-width: 70ch; }

@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-121",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Caso não encontrados, deverá ser requerido novo processo de inscrição de amador.",
+   "notes": "Art. 5.5.5, Notas, p. 5-11 do PDF consolidado: 'A renovação de CHA que decorra de extravio, roubo, furto ou dano está condicionada à confirmação de seus dados cadastrados no ... (SISAMA)'. Localizador correto: o trecho está nas Notas do art. 5.5.5 (Extravio, roubo, furto ou dano de cédula de CHA). Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-122",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "comprovarem conter em seus respectivos currículos ou históricos escolares de seus cursos de formação profissional disciplinas equivalentes àquelas previstas nos programas constantes do anexo 5-A poderão as requerer, por equivalência profissional",
+   "notes": "Art. 5.5.3, p. 5-8, e repetido no art. 5.3.4. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-123",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Capitão-Amador ... Aquaviários da seção de convés. Nível 7 e acima (*)",
+   "notes": "Tabela do art. 5.3.4: a linha 'Aquaviários da seção de convés. Nível 7 e acima (*)' fica no bloco Capitão-Amador. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-124",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A possibilidade de condução de embarcações pelas categorias profissionais abaixo elencadas não exime o condutor de portar a CHA correspondente ... essa obrigatoriedade passará a vigorar a partir de 1o de fevereiro de 2024.",
+   "notes": "Art. 5.5.3, p. 5-8; o art. 5.3.4 repete a mesma regra. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-125",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O procedimento para emissão por concessão de CHA por equivalência profissional nesta norma é voltado apenas para as categorias de ARA, MSA e CPA.",
+   "notes": "Nota do art. 5.5.3. A mesma nota diz que a concessão para Motonauta segue a NORMAM-212/DPC. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-126",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15283.htm",
+   "evidence_quote": "Art. 2º São considerados marinheiros profissionais de esporte e recreio aqueles que possuem habilitação para conduzir e operar embarcações de esporte e recreio em caráter não comercial, contratados especialmente para esse fim.",
+   "notes": "Conferido de forma independente no texto da Lei 15.283/2025 no Planalto (art. 2º), que diz 'contratados especialmente'; a NORMAM-211 art. 5.9 parafraseia como 'especificamente'. Sentido idêntico. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-127",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O MPER caracteriza-se, em sua essência, como um navegador amador, devendo estar devidamente habilitado em uma das categorias previstas nesta norma. A atuação desse profissional limita-se exclusivamente à condução de embarcações nas áreas de navegação abrangidas pela sua certificação, sendo expressamente vedado o exercício de atividades de caráter comercial",
+   "notes": "NORMAM-211 art. 5.9, p. 5-12. A Lei 15.283/2025, art. 2º, §§2º-3º (Planalto), também confirma: 'somente poderá conduzir embarcações nas águas abrangidas pela habilitação' e 'não é permitida a condução de embarcações em atividades comerciais'. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-128",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Serão aceitos os documentos de habilitação de amador emitidos, exclusivamente, por Autoridades Marítimas estrangeiras, desde que os seus campos estejam preenchidos nos idiomas português, espanhol ou inglês, acompanhado obrigatoriamente pelo seu passaporte ou documento de identificação com foto, este último apenas para o caso de países-membros do Mercosul.",
+   "notes": "Art. 5.8, p. 5-12. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-129",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Não é permitida a concessão de CHA, por equivalência, a nenhuma habilitação estrangeira, cabendo ao condutor ... iniciar o processo de habilitação de amador a partir da categoria ARA, cumprindo todo o rito previsto no art. 5.4 desta norma.",
+   "notes": "Art. 5.8, p. 5-12. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-130",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "somente para locatário possuidor de habilitação compatível com a área de navegação onde se desenvolverá a singradura. Os estrangeiros não residentes no Brasil deverão observar as orientações contidas no artigo 1.16 destas normas",
+   "notes": "Art. 1.15.2 a) I, p. 1-21. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-131",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a tripulação deverá possuir habilitação (de amador ou de aquaviário) compatível com a área de navegação da embarcação.",
+   "notes": "Art. 1.15.2 b) I, p. 1-21. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-132",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Tal documento deve ser apresentado em até 24 horas após a entrada.",
+   "notes": "Art. 1.16.1 b), p. 1-22/1-23; a alínea c) do mesmo artigo diz que o formulário é a 'Declaração de Entrada/Saída (anexo 1-A)'. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-133",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "5.3.2. Insígnias (facultativo) - os amadores que assim o desejarem poderão utilizar as insígnias ... sob a forma de distintivos de metal, “botons”, bordados em bonés, broches, divisas, etc, conforme modelos apresentados no anexo 5-C.",
+   "notes": "Art. 5.3.2, p. 5-1. O Anexo 5-C do ZIP oficial de anexos também diz 'As insígnias, de uso facultativo'. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-134",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "CAPITÃO-AMADOR DUAS ÂNCORAS DOURADAS COM DOIS BARRETES DOURADOS Cada âncora formadora das insígnias terá o diâmetro máximo de 1 (um) centímetro.",
+   "notes": "O PDF consolidado (p. 5-C-1) e o Anexo 5-C do ZIP oficial de anexos (N211 - Anexo 5-C.txt) têm o mesmo texto. Ressalva: a norma fala em 'diâmetro máximo' de 1 cm. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-135",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "após julgamento do referido processo administrativo, poderá ser aplicada a penalidade de suspensão da CHA por até doze meses.",
+   "notes": "Art. 5.6, p. 5-11. O máximo de 12 meses no RLESTA (art. 28, I) bate com isso. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-136",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "I - conduzir embarcação em estado de embriaguez ou após uso de substância entorpecente ou tóxica, quando não constituir crime previsto em lei: Penalidade: suspensão do Certificado de Habilitação até cento e vinte dias. A reincidência sujeitará o infrator à pena de cancelamento",
+   "notes": "Conferido de forma independente no RLESTA art. 23, I (Planalto). Também consta na NORMAM-211 arts. 5.7 e 7.12.3. Texto compilado do Planalto baixado em 2026-10-07: única alteração anotada no decreto é do Decreto nº 7.860/2012 (praticagem), nada nos arts. 11, 12, 23 nem no Anexo II. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-137",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "decorridos dois anos de imposição da pena de cancelamento, o infrator poderá requerer a sua CHA-MTA, submetendo-se a todos os requisitos estabelecidos para o seu processo de emissão inicial.",
+   "notes": "Art. 5.7, p. 5-12, que remete ao art. 28 da LESTA. O texto vigente diz mesmo 'CHA-MTA', o que parece resto de redação vinda da NORMAM de motonautas; a afirmação já aponta isso. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-138",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a concentração igual ou superior a 0,25 miligramas ... de álcool por litro de ar alveolar ou 0,05% de teor de álcool no sangue, hipótese na qual será considerado estado de embriaguez.",
+   "notes": "Art. 7.12.2, p. 7-10. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-139",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Recusando-se o condutor a submeter-se ao teste de alcoolemia, este será notificado com base no inciso VIII do art. 23 do RLESTA, bem como impedido de conduzir a embarcação.",
+   "notes": "Art. 7.12.1, p. 7-9. Não conferi o conteúdo do inciso VIII do art. 23 no RLESTA porque a afirmação só diz o que a NORMAM prevê. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-140",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "7.7.1. Apreensão do Certificado de Habilitação - Ação emanada do Inspetor Naval, que consiste em reter a Carteira de Habilitação de Amador (CHA)",
+   "notes": "Art. 7.7.1, p. 7-5. Pela norma, é medida administrativa 'liminar' (art. 21 da LESTA), aplicada quando a salvaguarda da vida humana e/ou a segurança da navegação estiverem comprometidas. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-141",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) Se navegando: será retirada de tráfego e apreendida.",
+   "notes": "Art. 7.8.1 b), p. 7-6. A Nota 1 dispensa as medidas se um condutor habilitado se apresentar na abordagem. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-142",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Poderão responder pelo art. 11 do RLESTA o condutor (por conduzir sem ser habilitado) e o proprietário (por fornecer sua embarcação à pessoa não habilitada).",
+   "notes": "Nota do art. 7.8.2, p. 7-6 ('responder solidariamente'). Se não for possível notificar os dois, a prioridade é autuar o proprietário. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-143",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "7.9.1. Em relação ao inciso III, \"portar a CHA/CIR com data de validade vencida\", em até 5 anos da data do seu vencimento. a) Quanto à Embarcação. Se navegando, será retirada de tráfego.",
+   "notes": "Art. 7.9.1 a), p. 7-6. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-144",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "7.9.2. Em relação ao inciso III, \"portar a CHA com data de validade vencida\", após 5 anos ... II) Se navegando, será retirada de tráfego e apreendida.",
+   "notes": "Art. 7.9.2 a) II, p. 7-7. Se estiver atracada ou fundeada após efetiva navegação, a embarcação é apreendida (alínea I). Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-145",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "Art. 11. Conduzir embarcação ou contratar tripulante sem habilitação para operá-la: Penalidade: multa do Grupo E.",
+   "notes": "Reabri o Planalto em 2026-10-07 e o texto está lá literalmente; a checagem automática falhou por causa de codificação/HTML. Texto compilado do Planalto baixado em 2026-10-07: única alteração anotada no decreto é do Decreto nº 7.860/2012 (praticagem), nada nos arts. 11, 12, 23 nem no Anexo II."
+  },
+  {
+   "id": "normas-146",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "II - não portar a documentação relativa à habilitação ou ao controle de saúde: Penalidade: multa do grupo B ou suspensão do Certificado de Habilitação até sessenta dias;",
+   "notes": "Art. 12, II, encontrado literalmente no Planalto em 2026-10-07. Texto compilado do Planalto baixado em 2026-10-07: única alteração anotada no decreto é do Decreto nº 7.860/2012 (praticagem), nada nos arts. 11, 12, 23 nem no Anexo II."
+  },
+  {
+   "id": "normas-147",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "A de R$ 40,00 a R$ 200,00 B de R$ 40,00 a R$ 400,00 C de R$ 40,00 a R$ 800,00 D de R$ 40,00 a R$ 1.600,00 E de R$ 40,00 a R$ 2.200,00",
+   "notes": "Anexo II do RLESTA no Planalto. Todos os grupos de A a E começam em R$ 40,00. Existem ainda os grupos F (R$ 80,00 a R$ 2.800,00) e G (R$ 80,00 a R$ 3.200,00), que a afirmação omite sem ficar errada. Texto compilado do Planalto baixado em 2026-10-07: única alteração anotada no decreto é do Decreto nº 7.860/2012 (praticagem), nada nos arts. 11, 12, 23 nem no Anexo II."
+  },
+  {
+   "id": "normas-148",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "IV - descumprir regra do Regulamento Internacional para Evitar Abalroamento no Mar-RIPEAM: Penalidade: multa do grupo D ou suspensão do Certificado de Habilitação até sessenta dias;",
+   "notes": "Art. 23, IV, encontrado literalmente no Planalto em 2026-10-07. Texto compilado do Planalto baixado em 2026-10-07: única alteração anotada no decreto é do Decreto nº 7.860/2012 (praticagem), nada nos arts. 11, 12, 23 nem no Anexo II."
+  },
+  {
+   "id": "normas-149",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "4.23.2. transceptor fixo VHF - com potência mínima de 25W, para operar no limite da navegação em mar aberto, tipo costeira, e na navegação interior;",
+   "notes": "Art. 4.23.2, p. 4-11. Atenção ao contexto: os 25 W são o requisito da norma para o VHF fixo exigido como material obrigatório, onde ele for obrigatório. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  },
+  {
+   "id": "normas-150",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Enquanto a embarcação estiver navegando, o equipamento VHF deverá estar ligado e em escuta permanente no canal 16 ou 70 no caso de equipamento DSC.",
+   "notes": "Art. 4.23.4 a), p. 4-12: 'frequência 156,8 MHz, canais 16' e 'Se o transceptor for do tipo DSC, a frequência poderá ser 156,525 MHz, canal 70'. Vigência checada em 2026-10-07 na página-índice DPC (https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira): NORMAM 211 segue com PORTARIA DPC/DGN/MB Nº 200, DE 27/02/2026 como última; nenhuma portaria posterior."
+  }
+ ]
+}

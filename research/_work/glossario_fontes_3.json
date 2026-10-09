@@ -1,0 +1,902 @@
+{
+ "velame": {
+  "txt": "NORMAM-211/DPC",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "Cap. 2, tabela de tipos de embarcação, item 22 (Veleiro)",
+  "quote": "Embarcação propelida por um velame (conjunto de velas de tecido de corte e cálculo apropriados)",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/velame",
+    "loc": "verbete \"velame\", acepção 1",
+    "quote": "Conjunto das velas de um navio."
+   }
+  ],
+  "verificado": true
+ },
+ "area-velica": {
+  "txt": "Wikipédia, Sail area-displacement ratio (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Sail_area-displacement_ratio",
+  "loc": "abertura do artigo",
+  "quote": "The sail area-displacement ratio (SA/D) is a calculation used to express how much sail a boat carries relative to its weight.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Sail area-displacement ratio (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Sail_area-displacement_ratio",
+    "loc": "seção do índice SA/D",
+    "quote": "The higher the SA/D, the more lively the boat's sailing performance"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"canvas\"",
+    "quote": "the total area of all sails aboard her may be expressed as the area of her canvas"
+   }
+  ],
+  "verificado": true
+ },
+ "carangueja": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de casco e aparelho, p. A5-32",
+  "quote": "Gaff Carangueja.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"gaff\", acepção 1",
+    "quote": "A spar that holds the upper edge of a four-sided fore-and-aft-mounted sail."
+   }
+  ],
+  "verificado": true
+ },
+ "barlavento": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/barlavento",
+  "loc": "verbete \"barlavento\", acepção 1",
+  "quote": "Lado do navio que recebe o vento, por oposição ao sotavento.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Windward and leeward (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Windward_and_leeward",
+    "loc": "abertura do artigo",
+    "quote": "Windward is upwind from the point of reference, i.e., facing the direction from which the wind is coming"
+   }
+  ],
+  "verificado": true
+ },
+ "sotavento": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/sotavento",
+  "loc": "verbete \"sotavento\", acepção 1",
+  "quote": "Borda de navio oposta ao lado donde sopra o vento, por oposição a barlavento.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Windward and leeward (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Windward_and_leeward",
+    "loc": "abertura do artigo",
+    "quote": "leeward is downwind from the point of reference, i.e., along the direction towards which the wind is going"
+   },
+   {
+    "txt": "Wikipédia, Lee shore (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Lee_shore",
+    "loc": "abertura do artigo",
+    "quote": "a nautical term to describe a stretch of shoreline that is to the lee side of a vessel—meaning the wind is blowing towards land"
+   }
+  ],
+  "verificado": true
+ },
+ "orcar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/or%C3%A7ar",
+  "loc": "verbete \"orçar\", acepção 4 (Marinha)",
+  "quote": "Aproximar a proa da embarcação da linha do vento.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"luff\", acepção 3",
+    "quote": "To point a sailing vessel closer to the wind."
+   }
+  ],
+  "verificado": true
+ },
+ "arribar": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, cap. 8, item 8.4 (Efeitos do vento e da corrente sobre a curva de giro), p. 8-5",
+  "quote": "A maioria dos navios tem tendência a arribar, ou seja, levar a sua proa para sotavento",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/arribar",
+    "loc": "verbete \"arribar\", acepção 2 (Marinha)",
+    "quote": "Aproar a sotavento"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"fall off\"",
+    "quote": "To change the direction of sail so as to point in a direction that is more downwind"
+   }
+  ],
+  "verificado": true
+ },
+ "cambar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/cambar",
+  "loc": "verbete \"cambar\", acepção 3 (Náutica)",
+  "quote": "Mudar de um bordo para outro (vento, escota das velas, etc.).",
+  "extras": [
+   {
+    "txt": "Wikipédia, Tacking (sailing) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Tacking_(sailing)",
+    "loc": "abertura do artigo",
+    "quote": "turns its bow toward and through the wind so that the direction from which the wind blows changes from one side of the boat to the other"
+   }
+  ],
+  "verificado": true
+ },
+ "jaibe": {
+  "txt": "Wikipédia, Jibe (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Jibe",
+  "loc": "abertura do artigo",
+  "quote": "a sailing maneuver whereby a sailing craft reaching downwind turns its stern through the wind, which then exerts its force from the opposite side of the vessel",
+  "extras": [
+   {
+    "txt": "Wikipédia, Jibe (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Jibe",
+    "loc": "seção sobre jaibes acidentais",
+    "quote": "Accidental jibes may occur when running dead downwind"
+   }
+  ],
+  "verificado": true
+ },
+ "bordejar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/bordejar",
+  "loc": "verbete \"bordejar\", acepção 1 (Marinha)",
+  "quote": "Navegar, mudando de rumo frequentemente, consoante a direcção do vento.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Tacking (sailing) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Tacking_(sailing)",
+    "loc": "abertura do artigo",
+    "quote": "\"beating to windward\" in a zig-zag fashion with a series of tacking maneuvers"
+   }
+  ],
+  "verificado": true
+ },
+ "bordo": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/bordo",
+  "loc": "verbete \"bordo\", acepção 1 (Náutica)",
+  "quote": "Lado do navio.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/bordo",
+    "loc": "verbete \"bordo\", acepção 3",
+    "quote": "Acto de bordejar."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete \"tack\", acepção 1",
+    "quote": "A leg of the route of a sailing vessel, particularly in relation to tacking and to starboard tack and port tack."
+   }
+  ],
+  "verificado": true
+ },
+ "pontos-de-vela": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "abertura do artigo",
+  "quote": "direction of travel under sail in relation to the true wind direction",
+  "extras": [
+   {
+    "txt": "Wikipédia, Point of sail (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+    "loc": "abertura do artigo",
+    "quote": "(beating, close reach, beam reach, broad reach, and running downwind)"
+   }
+  ],
+  "verificado": true
+ },
+ "zona-morta": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "seção \"Sailing craft and the wind\" (no-go zone)",
+  "quote": "a zone of approximately 45° on either side of the true wind, where a sail cannot generate lift",
+  "verificado": true
+ },
+ "bolina-cerrada": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "seção \"The points of sail\"",
+  "quote": "Close-hauled means a boat is sailing at the sharpest angle possible toward the wind without entering the no-go zone",
+  "extras": [
+   {
+    "txt": "Wikipédia, Point of sail (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+    "loc": "abertura do artigo",
+    "quote": "Sailing on a course as close to the wind as possible—approximately 45°—is termed beating"
+   }
+  ],
+  "verificado": true
+ },
+ "bolina-folgada": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "seção \"The points of sail\"",
+  "quote": "Close reach: between close-hauled and a beam reach.",
+  "verificado": true
+ },
+ "vento-de-traves": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "seção \"The points of sail\"",
+  "quote": "Beam reach: the craft has the true wind at a right angle to its direction (on its beam).",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"beam reach\"",
+    "quote": "This is normally the fastest point of sail for a fore-and-aft-rigged vessel."
+   }
+  ],
+  "verificado": true
+ },
+ "largo": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "seção \"The points of sail\"",
+  "quote": "Broad reach: the true wind is coming from behind, but not directly behind.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Point of sail (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+    "loc": "abertura do artigo",
+    "quote": "At 135° off the wind, a craft is on a broad reach."
+   }
+  ],
+  "verificado": true
+ },
+ "vento-em-popa": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "seção \"The points of sail\"",
+  "quote": "Running downwind where a craft has the wind coming from directly behind.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Jibe (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Jibe",
+    "loc": "seção sobre jaibes acidentais",
+    "quote": "Accidental jibes may occur when running dead downwind"
+   }
+  ],
+  "verificado": true
+ },
+ "asa-de-pombo": {
+  "txt": "Wikipédia, Wing and wing (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Wing_and_wing",
+  "loc": "abertura do artigo",
+  "quote": "a way to sail directly downwind",
+  "extras": [
+   {
+    "txt": "Wikipédia, Wing and wing (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Wing_and_wing",
+    "loc": "seção \"Description\"",
+    "quote": "The mainsail and the foresail are extended outwards on opposite sides of the boat"
+   },
+   {
+    "txt": "Wikipédia, Wing and wing (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Wing_and_wing",
+    "loc": "seção \"Description\"",
+    "quote": "The jib is held out by the clew with a whisker pole"
+   }
+  ],
+  "verificado": true
+ },
+ "aproado": {
+  "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+  "loc": "verbete \"in irons\"",
+  "quote": "When a sailing vessel has lost all power in its sails along with all of its forward momentum preventing the vessel from steering.",
+  "extras": [
+   {
+    "txt": "NORMAM-211/DPC",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "Anexo 4-B, item 6 (Procedimentos para fundear a embarcação)",
+    "quote": "As embarcações deverão fundear, aproadas ao vento ou à corrente"
+   },
+   {
+    "txt": "Wikipédia, Point of sail (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+    "loc": "seção \"Sailing craft and the wind\"",
+    "quote": "A craft remaining in its no-go zone will slow to a stop"
+   }
+  ],
+  "verificado": true
+ },
+ "cacar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/ca%C3%A7ar",
+  "loc": "verbete \"caçar\", acepção 6 (Náutica)",
+  "quote": "Colher (as velas).",
+  "extras": [
+   {
+    "txt": "Wikipédia, Sheet (sailing) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Sheet_(sailing)",
+    "loc": "seção \"Fore-and-aft rigs\"",
+    "quote": "The sheet on a fore-and-aft sail controls the angle of the sail to the wind, and should be adjusted to keep the sail just filled."
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete \"trim\", acepção 2",
+    "quote": "Adjustments made to sails to maximize their efficiency."
+   }
+  ],
+  "verificado": true
+ },
+ "folgar": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), manobra de atracação, item \"Ease one\", p. A5-12",
+  "quote": "Alivia (folga) a espia 1; reduzir a tensão na espia 1, mas sem deixá-la branda",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/folgar",
+    "loc": "verbete \"folgar\", acepção 5",
+    "quote": "Desapertar."
+   }
+  ],
+  "verificado": true
+ },
+ "mareacao": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/marear",
+  "loc": "verbete \"marear\", acepção 2 (Náutica)",
+  "quote": "Orientar as velas de acordo com a direcção do vento.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/marea%C3%A7%C3%A3o",
+    "loc": "verbete \"mareação\", acepção 1",
+    "quote": "Acto ou efeito de marear."
+   }
+  ],
+  "verificado": true
+ },
+ "aquartelar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/aquartelar",
+  "loc": "verbete \"aquartelar\", acepção 5 (Marinha)",
+  "quote": "Alar quanto possível para barlavento as escotas das velas latinas.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"aback\"",
+    "quote": "Filled by the wind on the opposite side to the one normally used to move the vessel forward."
+   },
+   {
+    "txt": "Wikipédia, Heaving to (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Heaving_to",
+    "loc": "seção \"Method\"",
+    "quote": "When a sloop is hove to, the jib is backed. This means that its windward sheet is tight holding the sail to windward."
+   }
+  ],
+  "verificado": true
+ },
+ "capear": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, cap. 42, item 42.4.a (Manobra do navio com mau tempo), p. 42-22",
+  "quote": "Pôr o navio à capa ou capear é manter o navio com a proa chegada ao vento e ao mar, para aguentar o mau tempo, com pouco seguimento.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Heaving to (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Heaving_to",
+    "loc": "seção \"Method\"",
+    "quote": "The rudder is placed so that, should the boat make any forward movement, it will be turned into the wind"
+   },
+   {
+    "txt": "Wikipédia, Heaving to (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Heaving_to",
+    "loc": "seção \"Method\"",
+    "quote": "the tiller or wheel should be lashed so that the rudder cannot move again"
+   }
+  ],
+  "verificado": true
+ },
+ "fundear": {
+  "txt": "NORMAM-211/DPC",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "Anexo 4-B, item 6 (Procedimentos para fundear a embarcação)",
+  "quote": "As embarcações deverão fundear, aproadas ao vento ou à corrente, com motor de propulsão em posição neutra",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/fundear",
+    "loc": "verbete \"fundear\", acepção 2 (Náutica)",
+    "quote": "Deitar ferro ou âncora."
+   }
+  ],
+  "verificado": true
+ },
+ "suspender": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de fundeio, p. A5-21",
+  "quote": "Heave up Suspender (içar) o ferro.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, cap. 42 (Navegação com mau tempo), p. 42-20",
+    "quote": "Antes de suspender, o navio deve estar completamente preparado para enfrentar mau tempo"
+   },
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete \"weigh anchor\"",
+    "quote": "To heave up an anchor preparatory to sailing."
+   }
+  ],
+  "verificado": true
+ },
+ "filame": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de fundeio, p. A5-22",
+  "quote": "Scope of anchor chain; chain scope Filame (comprimento da amarra).",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, cap. 8, item 8.9 (Fundeio de precisão), p. 8-17",
+    "quote": "O filame a ser utilizado é função da profundidade e do tipo de fundo. Normalmente será usado um comprimento de amarra correspondente a 5 a 7 vezes a profundidade do local."
+   },
+   {
+    "txt": "NORMAM-211/DPC",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "Anexo 4-B, item 6 (Procedimentos para fundear a embarcação)",
+    "quote": "extensão de cabo com comprimento aproximado de cinco a sete vezes a profundidade local"
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao: o trecho do Vol. I (cap. 8, item 8.9) e a NORMAM-211 dao 5 a 7 vezes a profundidade (amarra e cabo), e o Vol. I recomenda filame de 5 a 7 vezes para amarra. A regra da def (3 a 5 vezes com amarra de corrente) nao e sustentada e e contraditada pela fonte. Id removido do JS."
+ },
+ "garrar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/garrar",
+  "loc": "verbete \"garrar\", acepção 1 (Náutica)",
+  "quote": "Ir a embarcação à mercê da água por ter rebentado a amarra ou por a âncora não fazer presa.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de fundeio, p. A5-21",
+    "quote": "Drag (to drag) Garrar o ferro."
+   }
+  ],
+  "verificado": true
+ },
+ "unhar": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de fundeio, p. A5-21",
+  "quote": "Hold Agüentar, unhar (o ferro).",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/unhar",
+    "loc": "verbete \"unhar\", acepção 5 (Náutica)",
+    "quote": "Aferrar âncoras."
+   }
+  ],
+  "verificado": true
+ },
+ "atracar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/atracar",
+  "loc": "verbete \"atracar\", acepção 1",
+  "quote": "Chegar (o barco) ao sítio onde deve ficar encostado e amarrar.",
+  "verificado": true
+ },
+ "desatracar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/desatracar",
+  "loc": "verbete \"desatracar\", acepção 1",
+  "quote": "Largar (a embarcação atracada).",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de atracação, p. A5-12",
+    "quote": "Cast off all lines Largar todas as espias"
+   }
+  ],
+  "verificado": true
+ },
+ "amarrar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/amarrar",
+  "loc": "verbete \"amarrar\", acepção 1",
+  "quote": "Prender à bóia ou ao cais (ex.: amarrar o navio",
+  "verificado": true
+ },
+ "poita": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, cap. 13, equipamento de fundeio de uma boia, p. 13-8",
+  "quote": "ligada a um corpo morto que repousa no fundo (poita)",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/poita",
+    "loc": "verbete \"poita\"",
+    "quote": "Pedra ou objecto pesado que serve de âncora."
+   }
+  ],
+  "verificado": true
+ },
+ "espringue": {
+  "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+  "loc": "verbete \"spring\"",
+  "quote": "A mooring warp that goes from the bow to a position on the quayside level with the stern (backspring) or led forward from the stern to a point level with the bow (forespring).",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de atracação, p. A5-14",
+    "quote": "Forespring Espringue de proa."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de atracação, p. A5-13",
+    "quote": "Backspring Espringue de ré."
+   }
+  ],
+  "verificado": true
+ },
+ "defensa": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/defensa",
+  "loc": "verbete \"defensa\", acepção 2 (Náutica)",
+  "quote": "Cada uma das peças que se colocam fora do costado do navio para o defender de ser roçado nas atracações.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de atracação, p. A5-13",
+    "quote": "Fender Defensa."
+   },
+   {
+    "txt": "Wikipédia, Fender (boating) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Fender_(boating)",
+    "loc": "abertura do artigo",
+    "quote": "used to absorb the kinetic energy of a boat or vessel berthing against a jetty, quay wall or other vessel"
+   }
+  ],
+  "verificado": true
+ },
+ "croque": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/croque",
+  "loc": "verbete \"croque\", acepção 3 (Marinha)",
+  "quote": "Vara com gancho para atracar os barcos.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Boat hook (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Boat_hook",
+    "loc": "abertura do artigo",
+    "quote": "Its most common use is as a docking and undocking aid."
+   }
+  ],
+  "verificado": true
+ },
+ "abatimento": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, cap. 5, item 5.5 (Termos empregados na navegação estimada), p. 5-6",
+  "quote": "Abatimento (abt) – é o ângulo entre o rumo na superfície (RN) e o rumo no fundo (Rfd).",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, cap. 42, mau tempo, p. 42-22",
+    "quote": "O abatimento e o caimento causados pelo efeito conjunto do mar (ondas), das correntes de superfície e do vento"
+   },
+   {
+    "txt": "Wikipédia, Leeway (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Leeway",
+    "loc": "abertura do artigo",
+    "quote": "Leeway is the amount of drift motion to leeward of an object floating in the water caused by the component of the wind vector that is perpendicular to the object's forward motion."
+   }
+  ],
+  "verificado": true
+ },
+ "deriva": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/deriva",
+  "loc": "verbete \"deriva\", acepção 1",
+  "quote": "Desvio de um navio ou dum avião por efeito de uma corrente ou do vento.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de manobra, p. A5-64",
+    "quote": "Drift angle Ângulo de deriva"
+   }
+  ],
+  "verificado": true
+ },
+ "seguimento": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "Vol. I, cap. 8, item 8.9 (Fundeio de precisão), p. 8-19",
+  "quote": "quebrar todo o seguimento para vante e dar um pouco de seguimento para ré",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete \"way\"",
+    "quote": "the point at which there is sufficient water flow past a vessel's rudder for it to be able to steer the vessel"
+   }
+  ],
+  "verificado": true
+ },
+ "guinar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/guinar",
+  "loc": "verbete \"guinar\", acepção 2",
+  "quote": "Desviar-se bruscamente (uma embarcação) da sua esteira.",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, cap. 1, item 1.2.2 (Plano de viagem), p. 1-4",
+    "quote": "pontos de guinada (mudança de rumo) na derrota"
+   }
+  ],
+  "verificado": true
+ },
+ "governar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/governar",
+  "loc": "verbete \"governar\", acepção 3",
+  "quote": "Dirigir (embarcação), com o leme.",
+  "verificado": true
+ },
+ "timoneiro": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/timoneiro",
+  "loc": "verbete \"timoneiro\", acepção 1 (Náutica)",
+  "quote": "Aquele que governa o timão das embarcações.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Helmsman (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Helmsman",
+    "loc": "abertura do artigo",
+    "quote": "a person who steers a ship, sailboat, submarine, other type of maritime vessel"
+   }
+  ],
+  "verificado": true
+ },
+ "vento-real": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "abertura do artigo",
+  "quote": "the true wind—the wind felt by a stationary observer",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "Vol. I, cap. 14 (Navegação por radar), exemplo do diagrama de velocidades do vento, p. 14-75",
+    "quote": "Determinar os elementos do vento real."
+   }
+  ],
+  "verificado": true
+ },
+ "vento-aparente": {
+  "txt": "Wikipédia, Point of sail (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Point_of_sail",
+  "loc": "abertura do artigo",
+  "quote": "The apparent wind is the combined effect of the velocities of the true wind and of the sailing craft.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Apparent wind (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Apparent_wind",
+    "loc": "seção \"Definition of apparent wind\"",
+    "quote": "the wind experienced by an observer in motion and is the relative velocity of the wind in relation to the observer"
+   }
+  ],
+  "verificado": true
+ },
+ "reduzir-pano": {
+  "txt": "Wikipédia, Reefing (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Reefing",
+  "loc": "abertura do artigo",
+  "quote": "reefing is the practice of reducing the area of a sail to preserve a sailing vessel's stability in strong winds",
+  "extras": [
+   {
+    "txt": "Wikipédia, Reefing (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Reefing",
+    "loc": "seção \"Roller\"",
+    "quote": "Roller reefing rolls or wraps the sail around a wire, foil, or spar to reduce its exposure to the wind."
+   }
+  ],
+  "verificado": true
+ },
+ "icar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/i%C3%A7ar",
+  "loc": "verbete \"içar\", acepção 1",
+  "quote": "Levantar, erguer (por meio de roldanas e cordas).",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete \"strike\" (oposto: arriar)",
+    "quote": "To haul down or lower (a flag, mast, etc.)."
+   }
+  ],
+  "verificado": true
+ },
+ "largar": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), vocabulário de atracação, p. A5-12",
+  "quote": "Cast off all lines Largar todas as espias",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/largar",
+    "loc": "verbete \"largar\", acepção 5 (Marinha)",
+    "quote": "Fazer-se (o navio) ao mar."
+   }
+  ],
+  "verificado": true
+ },
+ "cabo": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/cabo",
+  "loc": "verbete \"cabo\", acepção 7 (Náutica)",
+  "quote": "Corda grossa de uma embarcação.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"line\"",
+    "quote": "The correct nautical term for the majority of the cordage or \"ropes\" used on a vessel."
+   }
+  ],
+  "verificado": true
+ },
+ "chicote": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/chicote",
+  "loc": "verbete \"chicote\", acepção 5 (Marinha)",
+  "quote": "Extremo de um cabo de navio.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"bitter end\"",
+    "quote": "The last part or loose end of a rope or cable."
+   }
+  ],
+  "verificado": true
+ },
+ "seio": {
+  "txt": "Dicionário Priberam da Língua Portuguesa",
+  "url": "https://dicionario.priberam.org/seio",
+  "loc": "verbete \"seio\", acepção 14 (Marinha)",
+  "quote": "Todo o prolongamento do cabo ou qualquer porção dele.",
+  "extras": [
+   {
+    "txt": "Wikipédia, Bight (knot) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Bight_(knot)",
+    "loc": "abertura do artigo",
+    "quote": "a curved section or slack part between the two ends of a rope"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), nós, p. A5-63",
+    "quote": "bowline on a bight Balso pelo seio"
+   }
+  ],
+  "verificado": true
+ },
+ "firme": {
+  "txt": "Wikcionário PT, firme (fonte secundária)",
+  "url": "https://pt.wiktionary.org/wiki/firme",
+  "loc": "verbete \"firme\" (Náutica)",
+  "quote": "no cabo de amarração, parte que resta em relação com o seu nó e chicote",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (M–Z) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "loc": "verbete \"standing part\"",
+    "quote": "The section of a rope at a cleat or a block that is under tension, as opposed to the loose end."
+   }
+  ],
+  "verificado": true
+ },
+ "alca": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), nós e costuras, p. A5-63",
+  "quote": "Eye splice Mão do cabo, alça",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"bight\", acepção 1",
+    "quote": "A loop in a rope or line"
+   },
+   {
+    "txt": "Wikipédia, Bowline (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Bowline",
+    "loc": "abertura do artigo",
+    "quote": "used to form a fixed loop at the end of a rope"
+   }
+  ],
+  "verificado": true
+ },
+ "volta": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), nós e costuras, p. A5-63",
+  "quote": "Hitch Volta",
+  "extras": [
+   {
+    "txt": "Wikipédia, Glossary of nautical terms (A–L) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"hitch\"",
+    "quote": "A knot used to tie a rope or line to a fixed object."
+   }
+  ],
+  "verificado": true
+ },
+ "no": {
+  "txt": "Wikipédia, Knot (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Knot",
+  "loc": "abertura do artigo",
+  "quote": "A knot is an intentional complication in cordage which may be practical or decorative, or both.",
+  "extras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa",
+    "url": "https://dicionario.priberam.org/n%C3%B3",
+    "loc": "verbete \"nó\", acepção 1",
+    "quote": "Laço apertado."
+   }
+  ],
+  "verificado": true
+ },
+ "lais-de-guia": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Apêndice 5 (Noções de Inglês Técnico-Marítimo), nós e costuras, p. A5-63",
+  "quote": "Bowline Lais de guia (figura 25)",
+  "extras": [
+   {
+    "txt": "Wikipédia, Bowline (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Bowline",
+    "loc": "abertura do artigo",
+    "quote": "is an ancient and simple knot used to form a fixed loop at the end of a rope. It has the virtues of being both easy to tie and untie; most notably, it is easy to untie after being subjected to a load."
+   }
+  ],
+  "verificado": true
+ },
+ "lancante": {
+  "sem_fonte": "O Manual de Navegação Vol. III (Apêndice 5, p. A5-13 e A5-39) só traz a equivalência PT/EN (Bowline/head line = lançante de proa, espia nº 1; stern line = lançante de popa), sem definir o cabo; o Priberam define 'lançante' (Brasil, Marinha) como 'espia que sai obliquamente do meio da embarcação' = espringue, o que contradiz a distinção do app (lançante sai da proa para vante ou da popa para ré; espringue vai na diagonal ao longo do costado) e não a sustenta; NORMAM-211/212, Vol. I/II e RIPEAM não usam o termo; Wikipédia EN, glossário Wikipédia (A-L/M-Z), RYA e US Sailing não trazem definição de bow/stern/head line; buscas web (BoatUS, RYA, US Sailing, glossários PT) não acharam definição reconhecida. 'Arte Naval' (Fonseca, SDM) só existe à venda em e-book (sem PDF oficial). Definição do app mantida; sem fonte por verbete."
+ }
+}

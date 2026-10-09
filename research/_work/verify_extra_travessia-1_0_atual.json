@@ -1,0 +1,186 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-travessia-1-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Texto de 1.01.2 confere; edição 2026-2027 v1 vigente (v2 só vale a partir de 1/1/2027); menção à NORMAM-211 é glosa do app, não do texto OSR."
+  },
+  {
+   "id": "extra-travessia-1-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "2.04.1 a-e confere no extrato v1 vigente; v2 (2027) não altera este item."
+  },
+  {
+   "id": "extra-travessia-1-03",
+   "verdict": "divergente",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.01.2/3.01.3 conferem, mas só o estai (não as enxárcias) deve suportar toda a carga independente da testa da vela; a regra não se aplica a mastros autoportantes.",
+   "correction": "Pela OSR 3.01.2, o barco deve ter enxárcias e ao menos um estai que permaneçam ligados ao mastro e ao barco durante a regata (exceto mastros autoportantes); pela 3.01.3, é o estai que deve ser dimensionado para suportar toda a carga de vela, independentemente da carga da testa da vela de proa.",
+   "evidence_quote": "the forestay referenced above shall be sized and connected in a way that ensures it is capable of withstanding the full sailing loads independent of any headsail luff load capacity"
+  },
+  {
+   "id": "extra-travessia-1-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.02.1 confere no texto vigente (v1); v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.02.5 confere, marcador Mo0,1,2,3; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.06.1 confere (marcador Mo0-4); 32 pés ≈ 9,75 m ≥ 8,5 m; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.08.2 a) e b) conferem, b) com marcador Mo0-4; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.09.3 b) confere (4 x 20 mm para LH ≥ 8,5 m); v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.10 confere literalmente; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.03 confere literalmente; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.23.1 a) confere (dois baldes, cabo, 9 L); v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.23.1 b) (Mo0,1,2) e 3.23.2 conferem; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.12 confere literalmente; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.25.1 e 3.25.2 (MoMu0-3) conferem, incluindo exceção de enrolador; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.15.1 e 4.15.2 (MoMu0-3) conferem, com as exceções a) e b); v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.16.1 e 4.16.2 conferem; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.06.1 (MoMu1,2,3) confere, inclusive 1 âncora abaixo de 8,5 m; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.28.3 b) (MoMu0-3) confere; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.28.4 a) e c) conferem (c) vale para Cat. 0-3); v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.28.1 b) e c) conferem (inboard Mo0,1,2/Mu0); v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.05.1 (todas) e 4.05.2 (Cat. 1-3) conferem; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.25 confere literalmente (v2 só muda a posição da página); conteúdo inalterado."
+  },
+  {
+   "id": "extra-travessia-1-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.21.1 e 4.21.2 (Cat. 1,2) conferem; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "6.02.1 a 6.02.15 conferem com a lista da afirmação; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.14.1 b) confere (600/230 mm; abertura vertical 380 mm, salvo série pré-1993); v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.12 confere literalmente; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice L da v1 vigente confere (mancal, eixo/pá, teste de deflexão da ponta)."
+  },
+  {
+   "id": "extra-travessia-1-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice L confere (chapas, parafusos e cavernas por dentro; trincas de tensão por fora), com corrosão atribuída aos fixadores."
+  },
+  {
+   "id": "extra-travessia-1-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.27.3 (MoMu0-3) e 3.27.4 conferem; v2 inalterado."
+  },
+  {
+   "id": "extra-travessia-1-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.21.1 b) (MoMu1) confere (bomba e tanques em ao menos dois compartimentos); v2 inalterado."
+  }
+ ]
+}

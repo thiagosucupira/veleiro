@@ -1,0 +1,1871 @@
+{
+"online-nauticed": {
+"topico": "benchmark",
+"site_status": "403",
+"site_title": "Just a moment...",
+"fonte_status": "403",
+"fonte_title": "Just a moment..."
+},
+"se-rj-cl-vela": {
+"topico": "benchmark",
+"site_status": "200",
+"site_title": "CL VELA - Habilitações náuticas e aulas de vela para todos.",
+"fonte_status": "200",
+"fonte_title": "Arrais Amador Prático - CL Vela Rio de Janeiro"
+},
+"se-es-escola-nautica-es": {
+"topico": "benchmark",
+"site_status": "200",
+"site_title": "Escola Náutica do Espírito Santo | Seja habilitado para navegar - Vitória e Guarapari - ES",
+"fonte_status": "200",
+"fonte_title": "Curso de Arrais Amador - Escola Náutica do Espírito Santo | Seja habilitado para navegar - Vitória e"
+},
+"ext-pt-portimao-learn2sail-iberia": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Learn2Sail | Learn to Sail under the Sun in the Algarve, Portugal, RYA Approved Sailing Courses, Tid",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"se-rj-navegart": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "NAVEGART - Escola Náutica - Arrais Amador - Motonauta",
+"fonte_status": "200",
+"fonte_title": "NAVEGART - Escola Náutica - Arrais Amador - Motonauta - Cursos Am"
+},
+"ext-es-tenerife-canary-sail": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Sailing Holidays in the Canary Islands - RYA Sailing Courses",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"online-enauti": {
+"topico": "benchmark",
+"site_status": "200",
+"site_title": "Cursos Online para Arrais, Mestre, Capitão e Concurso de Prático - eNauti",
+"fonte_status": "200",
+"fonte_title": "Arrais, Mestre e Capitão Amador: Nossos Cursos Online - eNauti"
+},
+"ext-es-santa-cruz-tenerife-helmsmenclub-canary": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "HelmsmenClub Canary – RYA Courses, Yachtmaster Training &amp; Sailing Adventures in Tenerife",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-pt-horta-marina-da-horta": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Portos dos Açores, S.A. &raquo; Marina da Horta",
+"fonte_status": "200",
+"fonte_title": "Portos dos Açores, S.A. &raquo; Marina da Horta"
+},
+"ext-es-las-galletas-club-yachting": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Rya Sailing Courses Tenerife Canaries | Clubyachting",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-es-arrecife-atlantic-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Atlantic Sailing | RYA Training in Lanzarote",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"se-rj-nautica-sete-mares": {
+"topico": "benchmark",
+"site_status": "200",
+"site_title": "Náutica Sete Mares - Escola Náutica Credenciada pela Marinha",
+"fonte_status": "200",
+"fonte_title": "Curso Arrais Amador - Náutica Sete Mares - Urca - Rio de Janeiro - RJ"
+},
+"ext-pt-lagos-ru-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "RU Sailing",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-es-palma-mallorca-sailing-academy": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Mallorca Sailing Academy | RYA Sailing School in Palma, Mallorca",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"online-navathome": {
+"topico": "benchmark",
+"site_status": "200",
+"site_title": "RYA Online Theory Courses. Start Your Yachtmaster Training Today!",
+"fonte_status": "200",
+"fonte_title": "RYA Day Skipper | Online Day Skipper Navigation Training"
+},
+"ext-es-corralejo-sail-the-canaries": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Sail The Canaries - RYA sailing courses - learn to sail holidays",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-pt-cascais-seawings": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Seawings | Tuition and training from beginners to Yachtmaster levels in sail and powerboat.",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-pt-oeiras-west-coast-lisbon-sailing-centre": {
+"topico": "loc_ext",
+"site_status": "502",
+"site_title": "502 Bad Gateway",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"online-american-sailing": {
+"topico": "benchmark",
+"site_status": "200",
+"site_title": "American Sailing",
+"fonte_status": "200",
+"fonte_title": "Online Classes - American Sailing"
+},
+"ext-es-la-linea-gib-sailing-school": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "RYA Gib Sailing School | Courses in Spain &amp; Gibraltar",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"se-sp-marina-sylvestre": {
+"topico": "benchmark",
+"site_status": "200",
+"site_title": "Home -",
+"fonte_status": "200",
+"fonte_title": "Curso de Arrais Amador | Marina Sylvestre — Guarapiranga, SP"
+},
+"ext-es-barcelona-yacht-point": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Títulos Náuticos - Escuela Náutica en Barcelona Yacht Point",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-gr-alimos-academy-of-yachting-athens": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "RYA Sailing Courses in Greece | Academy of Yachting Athens",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-gr-kefalonia-seafarer-training": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Greece Training Centre - Seafarer Cruising &amp; Sailing Holidays",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-gr-lefkada-sail-ionian": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Yacht Charter Greece",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-uk-hamble-school-of-yachting": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "RYA Sailing Courses, RYA Sailing School and Lessons, Learn to Sail: Hamble School of Yachting: Hamps",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-es-yaiza-endeavour-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Endeavour Sailing RYA Sailing School Lanzarote",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-hr-split-seafarer-training": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Croatia Training Centre - Seafarer Cruising &amp; Sailing Holidays",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-ag-english-harbour-ondeck-antigua": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Home - Ondeck Sailing",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-gi-gibraltar-rock-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "ROCK Sailing | RYA Sailing Courses in Gibraltar &amp; Spain",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-es-palma-palma-sea-school": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Palma Sea School | RYA &amp; MCA Courses in Mallorca",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-gr-poros-greek-sails": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Sailing holidays, yacht charter, flotilla holidays &amp; sailing courses in Greece",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-lc-rodney-bay-igy-rodney-bay-marina": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Rodney Bay Marina - IGY Marinas",
+"fonte_status": "200",
+"fonte_title": "Rodney Bay Marina - IGY Marinas"
+},
+"ext-uk-plymouth-island-trust": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Home - The Island Trust",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-gd-st-georges-grenada-bluewater-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Grenada Bluewater Sailing | Caribbean RYA Training Centre",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-es-barcelona-red-sky-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Red Sky Sailing | Sailing Courses Barcelona | ASA Certification",
+"fonte_status": "200",
+"fonte_title": "Red Sky Sailing Barcelona - American Sailing"
+},
+"ext-uk-hamble-british-offshore-sailing-school": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Sailing Schools | British Offshore Sailing School | Learn To Sail UK",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-cv-mindelo-marina-mindelo": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Marina Mindelo | Home",
+"fonte_status": "200",
+"fonte_title": "Marina Mindelo | Home"
+},
+"ext-gi-gibraltar-allabroad-sailing-academy": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "RYA &amp; MCA Sailing Courses - Allabroad Sailing Academy",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ext-ag-jolly-harbour-second-star-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Second Star Sailing",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"co-df-escola-de-vela-brasilia": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Cursos | EscoladeVelaBrasília",
+"fonte_status": "200",
+"fonte_title": "Curso de Vela Oceânica em Brasília | Veleiro Cabinado"
+},
+"ext-vi-st-thomas-go-sail-virgin-islands": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Go Sail Virgin Islands | USVI & BVI Bareboat ASA Certifications",
+"fonte_status": "200",
+"fonte_title": "Go Sail - Virgin Islands - American Sailing"
+},
+"co-df-cota-mil-iate-clube": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Início | Cota Mil Iate Clube | Setor de Clubes esportivos sul",
+"fonte_status": "200",
+"fonte_title": "Escola de Vela | Cota Mil Iate Clube"
+},
+"co-df-clube-naval-de-brasilia": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Clube Naval de Brasília",
+"fonte_status": "200",
+"fonte_title": "Vela &#8211; Clube Naval de Brasília"
+},
+"ext-gd-lance-aux-epines-ltd-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Caribbean Sailing School | Grenada Sailing School",
+"fonte_status": "200",
+"fonte_title": "LTD Sailing - Living The Dream! - American Sailing"
+},
+"ext-pt-funchal-clube-naval-do-funchal": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Clube Naval do Funchal",
+"fonte_status": "200",
+"fonte_title": "Vela - Clube Naval do Funchal"
+},
+"ext-us-fort-lauderdale-deep-blue-sea-training": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Home - RYA Yachtmaster Academy & Powerboat School",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"no-pa-tubarao-escola-nautica": {
+"topico": "loc_nco",
+"site_status": "403",
+"site_title": "403 Forbidden",
+"fonte_status": "403",
+"fonte_title": "403 Forbidden"
+},
+"ext-us-fort-lauderdale-blue-water-sailing-school": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "America's Premier Sailing Schools - Blue Water Sailing School",
+"fonte_status": "200",
+"fonte_title": "Blue Water Sailing School - American Sailing"
+},
+"ext-us-san-diego-learn-to-sail-san-diego": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Award-Winning Sailing School - Learn To Sail San Diego",
+"fonte_status": "200",
+"fonte_title": "Learn to Sail San Diego | American Sailing School"
+},
+"co-df-nautica-brasilia": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Náutica Brasília - Cursos de Arrais Amador Brasília DF - Passeios",
+"fonte_status": "200",
+"fonte_title": "Cursos de Capitão Amador Náutica Brasília DF - Apostilas"
+},
+"ext-us-annapolis-chronic-sailing": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Sailing Charters, Lessons &amp; Captain Services in Annapolis, MD &amp; Abroad | Chronic Sailing",
+"fonte_status": "200",
+"fonte_title": "Chronic Sailing - American Sailing"
+},
+"ext-us-annapolis-annapolis-sailing-school": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Annapolis Sailing School | Sailing Courses &amp; Rentals",
+"fonte_status": "200",
+"fonte_title": "Annapolis Sailing School - American Sailing"
+},
+"co-ms-nauticos-escola-nautica": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Escola Náutica em Campo Grande MS | Náuticos – Habilitação Náutica e Cursos de Arrais e Motonauta",
+"fonte_status": "200",
+"fonte_title": "Escola Náutica em Campo Grande MS | Náuticos – Habilitação Náutica e Cursos de Arrais e Motonauta"
+},
+"co-df-vela-art-aabb": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Escola Vela Art &#8211; AABB Brasília",
+"fonte_status": "200",
+"fonte_title": "Escola Vela Art &#8211; AABB Brasília"
+},
+"co-ms-7-mares-arrais": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Escola Náutica - 7 Mares Arrais",
+"fonte_status": "200",
+"fonte_title": "Escola Náutica - 7 Mares Arrais"
+},
+"co-df-federacao-nautica-de-brasilia": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "FNB &#8211; Federação Náutica de Brasília",
+"fonte_status": "200",
+"fonte_title": "Eventos 2026 &#8211; FNB"
+},
+"ext-online-crewbay": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "Crewbay - Find Crew, Find Boats, Find Crewbay",
+"fonte_status": "200",
+"fonte_title": "Crewbay - Find Crew, Find Boats, Find Crewbay"
+},
+"no-pa-centro-treinamento-nautico-belem": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "centrodetreinamentonautico Official: Instagram | Linktree"
+},
+"co-mt-romera-escola-nautica": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Arrais Amador &amp; Motonauta | ROMERA",
+"fonte_status": "200",
+"fonte_title": "Arrais Amador &amp; Motonauta | ROMERA"
+},
+"ne-pb-escola-nautica-novo-rumo": {
+"topico": "loc_ne",
+"site_status": "400",
+"site_title": "Error",
+"fonte_status": "200",
+"fonte_title": "Relação de Escolas Naúticas | CPPB"
+},
+"co-df-iate-clube-de-brasilia": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Iate Clube de Brasília | Esporte, Lazer e Tradição desde 1960",
+"fonte_status": "200",
+"fonte_title": "Escola de Vela do Iate abre novas turmas para o segundo semestre - Iate Clube de Brasilia"
+},
+"co-mt-netuno-nautica": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Netuno Consultoria e Projetos Náuticos | Cuiabá-MT",
+"fonte_status": "200",
+"fonte_title": "Arrais, Mestre e Capitão Amador | Netuno"
+},
+"no-am-nautilus-sports": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Nautilus Sports &#8211; Escola Náutica",
+"fonte_status": "200",
+"fonte_title": "Primeira Habilitação &#8211; Arrais e Motonauta &#8211; Nautilus Sports"
+},
+"ne-pb-escola-nautica-portalo": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Portaló Serviços Náuticos | Habilitação De Arrais Amador | João Pessoa",
+"fonte_status": "200",
+"fonte_title": "Portaló Serviços Náuticos | Habilitação De Arrais Amador | João Pessoa"
+},
+"co-go-neto-despachante-nautico": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Neto Despachante Náutico - Arrais-Amador, Motonauta e Mestre-amador",
+"fonte_status": "200",
+"fonte_title": "Neto Despachante Náutico - Arrais-Amador, Motonauta e Mestre-amador"
+},
+"ne-pe-refeno": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Convés - Refeno - Regata Internacional Recife - Fernando de Noronha",
+"fonte_status": "200",
+"fonte_title": "Convés - Refeno - Regata Internacional Recife - Fernando de Noronha"
+},
+"ne-pb-oraculo-escola-de-vela": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"no-am-escola-nautica-riomar": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Escola N&aacute;utica RioMar &ndash; Cursos e Simulado N&aacute;utico",
+"fonte_status": "200",
+"fonte_title": "Cursos N&aacute;uticos - Escola N&aacute;utica RioMar"
+},
+"no-pa-para-ship": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Habilitação e Legalização Náutica em Belém | Para Ship",
+"fonte_status": "200",
+"fonte_title": "Habilitação e Legalização Náutica em Belém | Para Ship"
+},
+"ext-uk-cowes-uksa": {
+"topico": "loc_ext",
+"site_status": "200",
+"site_title": "UKSA - United Kingdom Sailing Academy - Cowes, Isle of Wight",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"su-pr-iate-clube-lago-de-itaipu": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "ICL &#8211; IATE CLUBE LAGO",
+"fonte_status": "200",
+"fonte_title": "Velejar é Preciso &#8211; ICL &#8211; IATE CLUBE LAGO"
+},
+"ne-rn-escola-de-vela-natal": {
+"topico": "loc_ne",
+"site_status": "400",
+"site_title": "Error",
+"fonte_status": "400",
+"fonte_title": "Error"
+},
+"ne-pb-amar-escola-nautica": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Amar Escola Náutica - Habilitação Arrais e Motonauta",
+"fonte_status": "200",
+"fonte_title": "Amar Escola Náutica - Habilitação Arrais e Motonauta"
+},
+"ne-pe-escola-de-vela-south-wind": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"ne-pb-marina-jacare-village": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Marina Jacaré Village &#8211; Your safe harbour with all facilities",
+"fonte_status": "200",
+"fonte_title": "Marina Jacaré Village &#8211; Your safe harbour with all facilities"
+},
+"co-df-arte-de-navegar": {
+"topico": "loc_nco",
+"site_status": "200",
+"site_title": "Arte de Navegar &#8211; Escola e Passeios Náuticos",
+"fonte_status": "200",
+"fonte_title": "Escola Arte de Navegar &#8211; AABB Brasília"
+},
+"ne-ba-aratu-iate-clube": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "HOME | aratuiateclube",
+"fonte_status": "200",
+"fonte_title": "ESCOLA DE VELA | aratuiateclube"
+},
+"ne-ba-guarderia-beira-mar": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"ne-ba-veleiro-pantai": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"ne-ba-vela-pra-vida": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"ne-ba-bahia-marina": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Marina, lazer náutico, lanchas, lojas e restaurantes, mar | Bahia Marina",
+"fonte_status": "200",
+"fonte_title": "Marina, lazer náutico, lanchas, lojas e restaurantes, mar | Bahia Marina"
+},
+"ne-ba-regata-aratu-maragojipe": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Home",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"ne-pe-velejando-pe": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Escola de Vela em Pernambuco | Velejando PE",
+"fonte_status": "200",
+"fonte_title": "Curso de Vela em Pernambuco | Velejando PE"
+},
+"ne-ba-baia-vela-e-mar": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"ne-rn-iate-clube-do-natal": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"ne-ba-yacht-clube-da-bahia": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Yacht Clube da Bahia",
+"fonte_status": "200",
+"fonte_title": "Vela - Yacht Clube da Bahia"
+},
+"ne-ba-meninas-da-vela": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Instagram"
+},
+"ne-ba-escola-nautica-legal-no-mar": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Curso Arrais Amador Mestre em Salvador | Escola Náutica Legal | Náutica Legal",
+"fonte_status": "200",
+"fonte_title": "Curso Arrais Amador Mestre em Salvador | Escola Náutica Legal | Náutica Legal"
+},
+"ne-pe-cabanga-iate-clube": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "| Cabanga",
+"fonte_status": "200",
+"fonte_title": "Escolinhas de Vela | Cabanga"
+},
+"ne-ma-ludovela-aven": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "LudoVela",
+"fonte_status": "200",
+"fonte_title": "LudoVela"
+},
+"ne-ba-bahia-vela": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Instagram",
+"fonte_status": "200",
+"fonte_title": "Daqui do Mar: lista de lugares para praticar vela, ter cursos e fazer passeios em Salvador - Salvado"
+},
+"ne-pe-refeno-bolsa-charter": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Convés - Refeno - Regata Internacional Recife - Fernando de Noronha",
+"fonte_status": "200",
+"fonte_title": "Convés - Refeno - Regata Internacional Recife - Fernando de Noronha"
+},
+"ne-se-barlavento-vela": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Velejar é Preciso &#8211; Curso de vela em Aracaju. Grupo de velejadores que promove a vela esportiv",
+"fonte_status": "200",
+"fonte_title": "Curso &#8211; Velejar é Preciso"
+},
+"ne-ce-iate-clube-de-fortaleza": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Iate Clube de Fortaleza",
+"fonte_status": "200",
+"fonte_title": "Naútica"
+},
+"ne-ba-bahia-aventura": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Bahia Aventura | Escola Náutica e Passeios de Lancha em Salvador",
+"fonte_status": "200",
+"fonte_title": "Cursos de Arrais e Motonauta em Salvador | Bahia Aventura"
+},
+"ne-ba-aratu-maragojipe": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "HOME | aratuiateclube",
+"fonte_status": "200",
+"fonte_title": "HOME | aratuiateclube"
+},
+"ne-al-escola-de-vela-pajussara": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Maceió | Escola de Vela Pajussara | Brasil Alagoas",
+"fonte_status": "200",
+"fonte_title": "Cursos | EscolaVelaPajussara"
+},
+"ne-ba-namaste-charter": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Sailboat Charters | Namaste Charter",
+"fonte_status": "200",
+"fonte_title": "Veleiro Bruce Farr 42 Fernando de Noronha | Namaste Charter"
+},
+"ne-ba-bahia-passeios": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Curso de Arrais Amador, Motonauta e Aluguel de Lanchas em Salvador | Bahia Passeios",
+"fonte_status": "200",
+"fonte_title": "Curso de Arrais Amador em Salvador | Habilitação Náutica para Lanchas"
+},
+"ne-pe-travessias-oceanicas-refeno": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Travessias Oceânicas",
+"fonte_status": "200",
+"fonte_title": "REFENO - Travessias Oceânicas"
+},
+"se-sp-sivi-ilhabela": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "SIVI - Semana Internacional da Vela de Ilhabela",
+"fonte_status": "200",
+"fonte_title": "SIVI - Semana Internacional da Vela de Ilhabela"
+},
+"ne-se-reseba": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "4ªRESEBA",
+"fonte_status": "200",
+"fonte_title": "4ª Regata Sergipe Bahia - Tripulantes | e-inscrição"
+},
+"ne-ba-fundacao-aleixo-belov": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Fundação Aleixo Belov",
+"fonte_status": "200",
+"fonte_title": "Treinamento para Amadores | CPBA"
+},
+"se-rj-circuito-rio": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "2026",
+"fonte_status": "200",
+"fonte_title": "22/10 a 02/11/2026 - Campeonato Brasileiro (76ª Regata Santos Rio e 57º Circuito Rio) - Classe: Ocea"
+},
+"se-sp-regata-santos-rio": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "2026",
+"fonte_status": "200",
+"fonte_title": "22/10 a 02/11/2026 - Campeonato Brasileiro (76ª Regata Santos Rio e 57º Circuito Rio) - Classe: Ocea"
+},
+"s-sc-volta-a-ilha": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Início - Veleiros da Ilha",
+"fonte_status": "200",
+"fonte_title": "Regata Marejada encerra 7ª etapa da Copa Veleiros de Oceano 2026 com disputa entre Florianópolis e I"
+},
+"online-crewseekers": {
+"topico": "loc_regatas",
+"site_status": "403",
+"site_title": "Just a moment...",
+"fonte_status": "403",
+"fonte_title": "Just a moment..."
+},
+"online-find-a-crew": {
+"topico": "loc_regatas",
+"site_status": "403",
+"site_title": "",
+"fonte_status": "403",
+"fonte_title": ""
+},
+"ext-ar-regata-buenos-aires-rio": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Regata Oceánica Buenos Aires - Río de Janeiro | Regata Oceánica Buenos Aires Río",
+"fonte_status": "200",
+"fonte_title": "Regata Oceánica Buenos Aires - Río de Janeiro | Regata Oceánica Buenos Aires Río"
+},
+"se-rj-abvo-calendario": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "ABVO - Home",
+"fonte_status": "200",
+"fonte_title": "ABVO - Calendario"
+},
+"online-ocean-crew-link": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"online-sdsa-crew-finder": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Salty Dawg",
+"fonte_status": "200",
+"fonte_title": "Salty Dawg"
+},
+"ext-es-rorc-transatlantic": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "RORC Transatlantic Race",
+"fonte_status": "200",
+"fonte_title": "Royal Ocean Racing Club - From Atlantic Racing To Caribbean Classic | 2027 Transatlantic & Caribbean"
+},
+"s-rs-clube-dos-jangadeiros": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Clube dos Jangadeiros",
+"fonte_status": "200",
+"fonte_title": "Vela para Jovens e Adultos &#8211; Clube dos Jangadeiros"
+},
+"online-crewbay": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Crewbay - Find Crew, Find Boats, Find Crewbay",
+"fonte_status": "200",
+"fonte_title": "Crewbay - Find Crew, Find Boats, Find Crewbay"
+},
+"ext-es-arc-plus": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "World Cruising Club | Sailing Specialists",
+"fonte_status": "200",
+"fonte_title": "ARC+ - World Cruising Club"
+},
+"online-sailingnetworks-crew-finder": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Home : SailingNetworks",
+"fonte_status": "200",
+"fonte_title": "Home : SailingNetworks"
+},
+"online-seven-seas-miles-building": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Yacht Delivery Worldwide | Seven Seas Yacht Delivery",
+"fonte_status": "200",
+"fonte_title": "Miles Building on Yacht Deliveries - Log Real Sea Miles"
+},
+"ext-es-arc": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "World Cruising Club | Sailing Specialists",
+"fonte_status": "200",
+"fonte_title": "ARC - World Cruising Club"
+},
+"s-rs-iate-clube-guaiba": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "",
+"fonte_status": "200",
+"fonte_title": "Escola de Vela"
+},
+"s-rs-fevers": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": ":: FEVERS",
+"fonte_status": "200",
+"fonte_title": "FEVERS :: Federação de Vela do Rio Grande do Sul - Home"
+},
+"s-rs-porto-habilitacao-nautica": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Porto Habilitação Náutica",
+"fonte_status": "200",
+"fonte_title": "Porto Habilitação Náutica"
+},
+"s-sc-icsc-sede-oceanica-jurere": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Início - Veleiros da Ilha",
+"fonte_status": "200",
+"fonte_title": "Sede Oceânica - Veleiros da Ilha"
+},
+"s-sc-hangar-do-lic": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Home - Hangar do LIC",
+"fonte_status": "200",
+"fonte_title": "Home - Hangar do LIC"
+},
+"ext-fr-transquadra": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Transquadra - Transquadra",
+"fonte_status": "200",
+"fonte_title": "Cap sur la Guadeloupe : une première pour cette course historique. - Transquadra"
+},
+"s-sc-icsc-sede-central": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Início - Veleiros da Ilha",
+"fonte_status": "200",
+"fonte_title": "Sede Central - Veleiros da Ilha"
+},
+"ext-sx-arc-europe": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "World Cruising Club | Sailing Specialists",
+"fonte_status": "200",
+"fonte_title": "ARC Europe - World Cruising Club"
+},
+"s-sc-escola-nautica-sampaio": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Escola Náutica Sampaio - Cursos de Formação para Motonauta, Arrais e Mestre Amador",
+"fonte_status": "200",
+"fonte_title": "Curso de Capitão Amador (CPA) - Habilitação Náutica | Escola Náutica Sampaio"
+},
+"ext-uk-cruising-association-crewing": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Home Page | CA",
+"fonte_status": "200",
+"fonte_title": "Crewing Service meeting | CA"
+},
+"ext-za-cape2rio": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Home - Cape2RioRace",
+"fonte_status": "200",
+"fonte_title": "Home - Cape2RioRace"
+},
+"s-sc-issa-brazil-itajai": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "ISSA Brazil",
+"fonte_status": "200",
+"fonte_title": "ISSA Brazil"
+},
+"s-sc-marina-itajai": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Marina Itajaí - Onde o Mar Encontra a Sofisticação",
+"fonte_status": "200",
+"fonte_title": "Marina Itajaí - Onde o Mar Encontra a Sofisticação"
+},
+"ext-uk-pyd-deliveries": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "Homepage - Professional Yacht Deliveries : Professional Yacht Deliveries",
+"fonte_status": "200",
+"fonte_title": "Crew Application - Professional Yacht Deliveries : Professional Yacht Deliveries"
+},
+"s-sc-travessias-oceanicas-pangeia": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Travessias Oceânicas",
+"fonte_status": "200",
+"fonte_title": "Agenda - Travessias Oceânicas"
+},
+"s-sc-ani-itajai": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "ANI &#8211; Associação Náutica de Itajaí",
+"fonte_status": "200",
+"fonte_title": "Projetos &#8211; ANI"
+},
+"s-pr-espaco-vela-e-voo": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "ESPAÇO VELA E VOO | FEIP",
+"fonte_status": "200",
+"fonte_title": "ESPAÇO VELA E VOO | FEIP"
+},
+"s-rs-rio-grande-yacht-club": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Yacht Club Rio Grande",
+"fonte_status": "200",
+"fonte_title": "Vela &#8211; Yacht Club Rio Grande"
+},
+"s-sc-pronautica": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "ProNáutica",
+"fonte_status": "200",
+"fonte_title": "ProNáutica"
+},
+"ext-lc-world-arc": {
+"topico": "loc_regatas",
+"site_status": "200",
+"site_title": "World Cruising Club | Sailing Specialists",
+"fonte_status": "200",
+"fonte_title": "World ARC - World Cruising Club"
+},
+"s-pr-veleiro-limonada": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Home",
+"fonte_status": "200",
+"fonte_title": "Home"
+},
+"s-pr-iate-clube-pontal-do-sul": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Início — ICPS",
+"fonte_status": "200",
+"fonte_title": "Início — ICPS"
+},
+"s-pr-iate-clube-paranagua": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Home",
+"fonte_status": "200",
+"fonte_title": "tarifas"
+},
+"ne-ma-vento-em-popa": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Vento em Popa - Home",
+"fonte_status": "200",
+"fonte_title": "Vento em Popa - Capitão Amador"
+},
+"s-pr-loba-do-mar": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Loba do Mar · Escola Náutica em Pontal do Paraná · 34 anos formando navegadores",
+"fonte_status": "200",
+"fonte_title": "Loba do Mar · Escola Náutica em Pontal do Paraná · 34 anos formando navegadores"
+},
+"s-pr-feip": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "FEIP | Federação de Iatismo do Estado do Paraná",
+"fonte_status": "200",
+"fonte_title": "Aprenda a Velejar | FEIP"
+},
+"se-rj-feverj": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": ".::. FEVERJ .::.",
+"fonte_status": "200",
+"fonte_title": ".::. FEVERJ .::."
+},
+"s-sc-escola-de-vela-oceano": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Florianópolis",
+"fonte_status": "200",
+"fonte_title": "Florianópolis"
+},
+"se-rj-projeto-grael": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Projeto Grael &#8211; Conheça o Projeto Grael",
+"fonte_status": "200",
+"fonte_title": "Programas &#8211; Projeto Grael"
+},
+"se-rj-clvela": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "CL VELA - Habilitações náuticas e aulas de vela para todos.",
+"fonte_status": "200",
+"fonte_title": "Cursos - CL Vela"
+},
+"se-rj-clube-naval-charitas": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Clube Naval Charitas &#8211; Clube Naval Charitas",
+"fonte_status": "200",
+"fonte_title": "ESCOLA DE VELA &#8211; Clube Naval Charitas"
+},
+"se-rj-icab-buzios": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Home - ICAB",
+"fonte_status": "200",
+"fonte_title": "Home - ICAB"
+},
+"se-sp-sivi-bolsa-tripulantes": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "SIVI - Semana Internacional da Vela de Ilhabela",
+"fonte_status": "200",
+"fonte_title": "SIVI - Semana Internacional da Vela de Ilhabela"
+},
+"se-rj-sete-mares": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Náutica Sete Mares - Escola Náutica Credenciada pela Marinha",
+"fonte_status": "200",
+"fonte_title": "Nossos Cursos - Náutica Sete Mares - Urca - Rio de Janeiro - RJ"
+},
+"s-rs-pro-wind-pelotas": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Pro Wind &#8211; Escola Náutica",
+"fonte_status": "200",
+"fonte_title": "Pro Wind &#8211; Escola Náutica : Barco a Vela na ProWind"
+},
+"s-sc-velamagia-porto-belo": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Curso de Vela Oceânica - Charter de Veleiro - Santa Catarina - Velamagia Charters",
+"fonte_status": "200",
+"fonte_title": "Curso Vela Oceânica Cursos - Velamagia Charters"
+},
+"s-rs-veleiros-do-sul": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Veleiros do Sul - Porto Alegre",
+"fonte_status": "200",
+"fonte_title": "Escola de Vela Minuano - Veleiros do Sul - Inscrições"
+},
+"se-rj-passeio-de-veleiro-rj": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Passeio de Veleiro | Passeio de Barco | Veleiro TERRA FIRME Rio | Brasil",
+"fonte_status": "200",
+"fonte_title": "CIRSO DE VELA - Rio de Janeiro"
+},
+"s-sc-porto-belo-vela-clube": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "Portobelo Vela Clube &#8211; Escola Náutica",
+"fonte_status": "200",
+"fonte_title": "ESCOLA DE VELA &#8211; Portobelo Vela Clube"
+},
+"s-sc-marevento-itajai": {
+"topico": "loc_s",
+"site_status": "200",
+"site_title": "MAREVENTO - Curso de Vela, Charter e Assessoria ao Velejador",
+"fonte_status": "200",
+"fonte_title": "Curso de Vela para Casal, Iniciantes e Vela Oceânica - Mar e Vento"
+},
+"se-sp-vou-de-vela": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Vou de Vela® - Aulas de vela básica a oceânica",
+"fonte_status": "200",
+"fonte_title": "Vou de Vela® - Aulas de vela básica a oceânica"
+},
+"se-sp-bl3-ilhabela": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Cursos de Vela | BL3 Escola de Iatismo de Ilhabela | Praia da Armaçao",
+"fonte_status": "200",
+"fonte_title": "Cursos de Vela | BL3 Escola de Iatismo de Ilhabela | Praia da Armaçao"
+},
+"se-sp-yacht-club-ilhabela": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Yacht Club de Ilhabela &#8211; O Yacht Club de Ilhabela é um dos mais importantes clubes náuticos br",
+"fonte_status": "200",
+"fonte_title": "Yacht Club de Ilhabela &#8211; O Yacht Club de Ilhabela é um dos mais importantes clubes náuticos br"
+},
+"se-rj-brasil-veleiros-paraty": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Brasil Veleiros - Experiências Incríveis a Bordo",
+"fonte_status": "200",
+"fonte_title": "Curso de Vela Oceânica - Brasil Veleiros - Experiências Incríveis a Bordo"
+},
+"se-sp-sailing-adventures": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Sailing Adventures — Cursos de vela oceânica em Ilhabela",
+"fonte_status": "200",
+"fonte_title": "CVOB - Curso de Vela Oceânica Básico — Sailing Adventures"
+},
+"se-sp-escola-vela-prefeitura-ilhabela": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Prefeitura Municipal de Ilhabela",
+"fonte_status": "200",
+"fonte_title": "Prefeitura Municipal de Ilhabela - Escola de Vela"
+},
+"se-sp-ycsa": {
+"topico": "loc_se",
+"site_status": "429",
+"site_title": "429 Too Many Requests",
+"fonte_status": "429",
+"fonte_title": "429 Too Many Requests"
+},
+"se-rj-brisamar": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Brisamar Escola de Vela",
+"fonte_status": "200",
+"fonte_title": "Cursos &#8211; Brisamar Escola de Vela"
+},
+"se-rj-angra-sailing": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Angra Sailing - Escola de Vela e Consultoria Náutica | Angra Sailing",
+"fonte_status": "200",
+"fonte_title": "Escola de Vela e Consultoria Náutica Angra Sailing | Angra Sailing"
+},
+"se-sp-spyc": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "SPYC - São Paulo Yacht Club",
+"fonte_status": "200",
+"fonte_title": "Escola de Vela | São Paulo Yacht Club"
+},
+"se-sp-cen-nautico-guarapiranga": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Home - Secretaria Municipal de Esportes e Lazer - Prefeitura",
+"fonte_status": "200",
+"fonte_title": "Projeto Rede Olímpica de Vela: Formação Esportiva e Iniciação à Navegação - Secretaria Municipal de "
+},
+"se-sp-rede-nautica-guarapiranga": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Nautica Guarapiranga | redenautica.com.br",
+"fonte_status": "200",
+"fonte_title": "Nautica Guarapiranga | redenautica.com.br"
+},
+"se-sp-wahoo-nautica": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Passeio de Barco e Aula de Vela em Ilhabela - Alugue o seu hoje!",
+"fonte_status": "200",
+"fonte_title": "Aula de Vela em Ilhabela, São Sebastião e Região"
+},
+"se-es-horizonte-azul": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Home - My Blog",
+"fonte_status": "200",
+"fonte_title": "Home - My Blog"
+},
+"se-sp-bombordo": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Grupo Bombordo | Assessoria & Escola Náutica",
+"fonte_status": "200",
+"fonte_title": "Grupo Bombordo | Assessoria & Escola Náutica"
+},
+"se-mg-capitania-nautica-bh": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Capitania Náutica | Habilitação e Assessoria Náutica | Arrais Amador | Belo Horizonte",
+"fonte_status": "200",
+"fonte_title": "Capitania Náutica | Habilitação e Assessoria Náutica | Arrais Amador | Belo Horizonte"
+},
+"se-es-ices-cabo-velho": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Iate Clube do Espírito Santo",
+"fonte_status": "200",
+"fonte_title": "Iate Clube do Espírito Santo"
+},
+"se-sp-iate-clube-santos": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Iate Clube de Santos &#8211; Um dos principais clubes náuticos do país, com sedes em Guarujá, Angra ",
+"fonte_status": "200",
+"fonte_title": "Iate Clube de Santos &#8211; Um dos principais clubes náuticos do país, com sedes em Guarujá, Angra "
+},
+"om-pa-cpaor": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPAOR",
+"fonte_status": "200",
+"fonte_title": "Início | CPAOR"
+},
+"om-pa-cfs": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFS",
+"fonte_status": "200",
+"fonte_title": "Contato | CFS"
+},
+"ne-pe-seaman-nautica-recife": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "Seaman Náutica",
+"fonte_status": "200",
+"fonte_title": "Cursos | Seaman Náutica"
+},
+"se-sp-ubatuba-iate-clube": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Ubatuba Iate Clube &#8211; Ubatuba &#8211; SP",
+"fonte_status": "200",
+"fonte_title": "Ubatuba Iate Clube &#8211; Ubatuba &#8211; SP"
+},
+"se-sp-argonauta": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Argonauta &#8211; Escola Náutica",
+"fonte_status": "200",
+"fonte_title": "Capitão Amador &#8211; Habilitação Náutica &#8211; Argonauta"
+},
+"se-sp-namarca": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "namarca &#8211; cursos de arrais amador e montonauta, habilitação para jet-ski, lancha, barco, velei",
+"fonte_status": "200",
+"fonte_title": "namarca &#8211; cursos de arrais amador e montonauta, habilitação para jet-ski, lancha, barco, velei"
+},
+"se-rj-icrj-edn": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Home",
+"fonte_status": "200",
+"fonte_title": "ARRAIS, MESTRE, CAPITÃO AMADOR e GPS"
+},
+"ex-uk-rya": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "Home | RYA &#x2014; Royal Yachting Association",
+"fonte_status": "200",
+"fonte_title": "RYA Marine Radio SRC Course and Exam | Course Finder"
+},
+"ex-us-ussailing-safety-at-sea": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "US Sailing &#8211; The National Governing Body For the Sport of Sailing",
+"fonte_status": "200",
+"fonte_title": "Safety at Sea Courses &#8211; US Sailing"
+},
+"ex-uk-southampton-rya-sea-survival": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "Changing the world starts with how we see it | University of Southampton",
+"fonte_status": "200",
+"fonte_title": "Introduction to Marine Navigation | University of Southampton"
+},
+"ne-ba-jjr-solutions-salvador": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "JJR Solutions - Curso de Salvatagem e THUET",
+"fonte_status": "200",
+"fonte_title": "STCW (CBSN) | Curso Básico de Segurança de Navio | Cursos | JJR Solutions - Curso de Salvatagem e TH"
+},
+"ne-se-jjr-solutions-aracaju": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "JJR Solutions - Curso de Salvatagem e THUET",
+"fonte_status": "200",
+"fonte_title": "STCW (CBSN) | Curso Básico de Segurança de Navio | Cursos | JJR Solutions - Curso de Salvatagem e TH"
+},
+"se-sp-cusco-baldoso": {
+"topico": "loc_se",
+"site_status": "200",
+"site_title": "Home - Cusco Baldoso",
+"fonte_status": "200",
+"fonte_title": "cursos - Cusco Baldoso"
+},
+"online-anatel-cortf": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "Operador Radiotelefonista",
+"fonte_status": "200",
+"fonte_title": "Operador Radiotelefonista"
+},
+"se-rj-west-group-gmdss": {
+"topico": "radio",
+"site_status": "200",
+"site_title": "West Group - Início - West Group",
+"fonte_status": "200",
+"fonte_title": "GMDSS – Rádio Operador - West Group"
+},
+"ne-pe-vital-escola-nautica": {
+"topico": "loc_ne",
+"site_status": "200",
+"site_title": "Inicio - Vital Escola Náutica",
+"fonte_status": "erro",
+"fonte_title": "Command '['curl', '-s', '-G', 'localhost:8799/page', '--data-urlencode', 'url=ht"
+},
+"om-am-cfaoc": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFAOC",
+"fonte_status": "erro",
+"fonte_title": "Command '['curl', '-s', '-G', 'localhost:8799/page', '--data-urlencode', 'url=ht"
+},
+"om-es-cpes": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPES",
+"fonte_status": "erro",
+"fonte_title": "Command '['curl', '-s', '-G', 'localhost:8799/page', '--data-urlencode', 'url=ht"
+},
+"om-mg-cfmg": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFMG",
+"fonte_status": "erro",
+"fonte_title": "Command '['curl', '-s', '-G', 'localhost:8799/page', '--data-urlencode', 'url=ht"
+},
+"om-sp-delssebastiao": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Bem vindo a DelSSebastião | DELSEBASTIAO",
+"fonte_status": "erro",
+"fonte_title": "Command '['curl', '-s', '-G', 'localhost:8799/page', '--data-urlencode', 'url=ht"
+},
+"ext-es-arc-world-cruising-club": {
+"topico": "travessia",
+"site_status": "200",
+"site_title": "ARC - World Cruising Club",
+"fonte_status": "200",
+"fonte_title": "ARC - World Cruising Club"
+},
+"ext-es-arc-plus-world-cruising-club": {
+"topico": "travessia",
+"site_status": "200",
+"site_title": "ARC+ - World Cruising Club",
+"fonte_status": "200",
+"fonte_title": "ARC+ - World Cruising Club"
+},
+"ext-sx-arc-europe-world-cruising-club": {
+"topico": "travessia",
+"site_status": "200",
+"site_title": "ARC Europe - World Cruising Club",
+"fonte_status": "200",
+"fonte_title": "ARC Europe - World Cruising Club"
+},
+"om-ms-cfpn": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFPN",
+"fonte_status": "erro",
+"fonte_title": "Command '['curl', '-s', '-G', 'localhost:8799/page', '--data-urlencode', 'url=ht"
+},
+"ne-pe-refeno-cabanga-iate-clube": {
+"topico": "travessia",
+"site_status": "200",
+"site_title": "Convés - Refeno - Regata Internacional Recife - Fernando de Noronha",
+"fonte_status": "200",
+"fonte_title": "Convés - Refeno - Regata Internacional Recife - Fernando de Noronha"
+},
+"om-ms-agpmurtinho": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFPN",
+"fonte_status": "erro",
+"fonte_title": "Command '['curl', '-s', '-G', 'localhost:8799/page', '--data-urlencode', 'url=ht"
+},
+"ext-za-cape2rio-royal-cape-yacht-club": {
+"topico": "travessia",
+"site_status": "200",
+"site_title": "Home - Cape2RioRace",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-ap-cpap": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPAP",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-ap-agoiapoque": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPAP",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-am-agitacoatiara": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Carta de Serviços ao Usuário | CFAOC",
+"fonte_status": "200",
+"fonte_title": "Comando do 9º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-am-agparintins": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Carta de Serviços ao Usuário | CFAOC",
+"fonte_status": "200",
+"fonte_title": "Comando do 9º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-am-ageirunepe": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Carta de Serviços ao Usuário | CFAOC",
+"fonte_status": "200",
+"fonte_title": "Comando do 9º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-am-cft": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFT",
+"fonte_status": "200",
+"fonte_title": "Início | CFT"
+},
+"om-am-agtefe": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Carta de Serviços ao Usuário | CFAOC",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-am-agbacre": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "OM subordinadas | CFPV",
+"fonte_status": "200",
+"fonte_title": "OM subordinadas | CFPV"
+},
+"om-ac-agcsul": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "OM subordinadas | CFPV",
+"fonte_status": "200",
+"fonte_title": "OM subordinadas | CFPV"
+},
+"om-ro-aggmirim": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "OM subordinadas | CFPV",
+"fonte_status": "200",
+"fonte_title": "OM subordinadas | CFPV"
+},
+"om-am-aghumaita": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "OM subordinadas | CFPV",
+"fonte_status": "200",
+"fonte_title": "OM subordinadas | CFPV"
+},
+"om-rr-agcaracarai": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | AgCaracaraí",
+"fonte_status": "200",
+"fonte_title": "Início | AgCaracaraí"
+},
+"om-ro-cfpv": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFPV",
+"fonte_status": "200",
+"fonte_title": "Contato: Informações | CFPV"
+},
+"ne-rn-portal-do-amador": {
+"topico": "loc_ne",
+"site_status": "000",
+"site_title": "",
+"fonte_status": "000",
+"fonte_title": ""
+},
+"om-pi-cppi": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPPI",
+"fonte_status": "200",
+"fonte_title": "Início | CPPI"
+},
+"om-ma-cpma": {
+"topico": "taxas",
+"site_status": "403",
+"site_title": "Bem-vindo! | CPMA",
+"fonte_status": "200",
+"fonte_title": "CONTATOS | CPMA"
+},
+"om-ma-agimperatriz": {
+"topico": "taxas",
+"site_status": "403",
+"site_title": "Bem-vindo! | CPMA",
+"fonte_status": "200",
+"fonte_title": "Comando do 4º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-ce-cpce": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Capitania dos Portos do Ceará | CPCE",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-rn-cprn": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPRN",
+"fonte_status": "200",
+"fonte_title": "GAP - Grupo de Atendimento ao Público | CPRN"
+},
+"om-rn-agabranca": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Histórico da Agência de Areia Branca | CPRN",
+"fonte_status": "200",
+"fonte_title": "GAP - Grupo de Atendimento ao Público | CPRN"
+},
+"om-pb-cppb": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPPB",
+"fonte_status": "200",
+"fonte_title": "Fale Conosco | CPPB"
+},
+"om-pe-cppe": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPPE",
+"fonte_status": "200",
+"fonte_title": "Início | CPPE"
+},
+"om-al-cpal": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CAPITANIA DOS PORTOS DE ALAGOAS",
+"fonte_status": "200",
+"fonte_title": "Capitania dos Portos de Pernambuco | Serviço de Identificação da Marinha"
+},
+"om-al-agpenedo": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Agência Fluvial de Penedo | CAPITANIA DOS PORTOS DE ALAGOAS",
+"fonte_status": "200",
+"fonte_title": "Agência Fluvial de Penedo | CAPITANIA DOS PORTOS DE ALAGOAS"
+},
+"om-se-cpse": {
+"topico": "taxas",
+"site_status": "403",
+"site_title": "Bem-vindo! | CPSE",
+"fonte_status": "403",
+"fonte_title": "Bem-vindo! | CPSE"
+},
+"om-ba-cpba": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPBA",
+"fonte_status": "200",
+"fonte_title": "Inscrição em Exame e Emissão de Carteira de Habilitação de Arrais Amador | CPBA"
+},
+"om-ba-delilheus": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPBA",
+"fonte_status": "200",
+"fonte_title": "Comando do 2º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-ba-delpseguro": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPBA",
+"fonte_status": "200",
+"fonte_title": "Comando do 2º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-ba-cfj": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFJ",
+"fonte_status": "200",
+"fonte_title": "Comando do 2º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-ba-agbjlapa": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "AGÊNCIA DE BOM JESUS DA LAPA | CFJ",
+"fonte_status": "200",
+"fonte_title": "Comando do 2º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-rj-cprj": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPRJ",
+"fonte_status": "200",
+"fonte_title": "Endereço e Telefones Úteis | CPRJ"
+},
+"om-rj-delareis": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | DelAReis",
+"fonte_status": "200",
+"fonte_title": "Área de Jurisdição e OM Subordinadas | CPRJ"
+},
+"om-rj-delitacuruca": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | DELITACURUCA",
+"fonte_status": "200",
+"fonte_title": "Área de Jurisdição e OM Subordinadas | CPRJ"
+},
+"om-rj-agparaty": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Área de Jurisdição e OM Subordinadas | CPRJ",
+"fonte_status": "200",
+"fonte_title": "Área de Jurisdição e OM Subordinadas | CPRJ"
+},
+"om-ce-agcamocim": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Capitania dos Portos do Ceará | CPCE",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-ce-agaracati": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Capitania dos Portos do Ceará | CPCE",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-rj-cpm": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPM",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-rj-delcfrio": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | DelCFrio",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-mg-delfurnas": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Carrocel | DelFurnas",
+"fonte_status": "200",
+"fonte_title": "Contato | DelFurnas"
+},
+"om-sp-cpsp": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Capitania dos Portos de São Paulo | CPSP",
+"fonte_status": "200",
+"fonte_title": "Contatos | CPSP"
+},
+"om-sp-cftp": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Seja bem-vindo ao Site da Capitania Fluvial do Tietê-Paraná! | CFTP",
+"fonte_status": "200",
+"fonte_title": "Seja bem-vindo ao Site da Capitania Fluvial do Tietê-Paraná! | CFTP"
+},
+"om-sp-delpepitacio": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Serviço de Informações ao Cidadão - SIC | DelPEpitacio",
+"fonte_status": "200",
+"fonte_title": "Serviço de Informações ao Cidadão - SIC | DelPEpitacio"
+},
+"om-pr-cppr": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPPR",
+"fonte_status": "200",
+"fonte_title": "Comando do 8º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-pr-cfrp": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFRP",
+"fonte_status": "200",
+"fonte_title": "Início | CFRP"
+},
+"om-pr-delguaira": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Notícias | DelGuaira",
+"fonte_status": "200",
+"fonte_title": "Notícias | DelGuaira"
+},
+"om-sc-cpsc": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPSC",
+"fonte_status": "200",
+"fonte_title": "Como chegar? | CPSC"
+},
+"om-sc-delitajai": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | DELITAJAI",
+"fonte_status": "200",
+"fonte_title": "Localização Delitajai | DELITAJAI"
+},
+"om-sc-delsfsul": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | DELSFSUL",
+"fonte_status": "200",
+"fonte_title": "Início | DELSFSUL"
+},
+"om-sc-dellaguna": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | DELLAGUNA",
+"fonte_status": "200",
+"fonte_title": "Contato | DELLAGUNA"
+},
+"om-rs-cprs": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPRS",
+"fonte_status": "200",
+"fonte_title": "Fale Conosco | CPRS"
+},
+"om-rj-agsjbarra": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CPM",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-rs-cfpa": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Noticias | CFPA",
+"fonte_status": "200",
+"fonte_title": "Comando do 5º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-rs-deluruguaiana": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Delegacia Fluvial de Uruguaiana | CPRS",
+"fonte_status": "200",
+"fonte_title": "Delegacia Fluvial de Uruguaiana | CPRS"
+},
+"om-mt-cfmt": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFMT",
+"fonte_status": "200",
+"fonte_title": "Comando do 6º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-mt-agcaceres": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Áreas de Jurisdição da AgCáceres | CFMT",
+"fonte_status": "200",
+"fonte_title": "Comando do 6º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-mt-agsfaraguaia": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Áreas de Jurisdição da AgSFAraguaia | CFMT",
+"fonte_status": "200",
+"fonte_title": "Comando do 6º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-mt-agsinop": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Histórico SINOP | CFMT",
+"fonte_status": "200",
+"fonte_title": "Comando do 6º Distrito Naval | Serviço de Identificação da Marinha"
+},
+"om-go-cfgo": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | Capitania Fluvial de Goiás",
+"fonte_status": "200",
+"fonte_title": "Contato | Capitania Fluvial de Goiás"
+},
+"om-rs-agtramandai": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Agência da Capitania dos Portos em Tramandaí | CPRS",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-to-cfat": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFAT",
+"fonte_status": "200",
+"fonte_title": "Contato | CFAT"
+},
+"om-df-cfb": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | CFB",
+"fonte_status": "200",
+"fonte_title": ""
+},
+"om-mg-delpirapora": {
+"topico": "taxas",
+"site_status": "200",
+"site_title": "Início | DelPirapora",
+"fonte_status": "None",
+"fonte_title": ""
+}
+}

@@ -1,0 +1,235 @@
+{
+ "verdicts": [
+  {
+   "id": "travessia-100",
+   "verdict": "confirmado",
+   "evidence_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "notes": "Relatório IHO WWNWS16 reaberto traz exatamente esses limites (coordenadas dos pontos 3-4 coerentes com 35°50'S/07°00'N/020°W).",
+   "evidence_quote": "NAVAREA V is limited by the coast of Brazil, by the parallels of 07º00’N and 35º50’S, by the meridian of 020ºW."
+  },
+  {
+   "id": "travessia-101",
+   "verdict": "confirmado",
+   "evidence_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "notes": "Reabri o PDF: itens 2.1-2.3 trazem 00:30/12:30 UTC (AOR-E), sem NAVTEX e HF 0400Z/2130Z; o texto está corretamente datado como relatório de 2024, e não achei relatório posterior que o altere.",
+   "evidence_quote": "NAVAREA V promulgates all navigational warnings, except for local warnings, via Inmarsat over the AOR-E satellite at 00:30 and 12:30 UTC daily."
+  },
+  {
+   "id": "travessia-102",
+   "verdict": "confirmado",
+   "evidence_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "notes": "Correto como previsão do relatório de 2024 (treinamento Iridium em 17/06/2024, início 01/01/2025 se concluídos os trâmites); não há relatório 2025 localizado para dizer se ocorreu, e a afirmação não alega que ocorreu.",
+   "evidence_quote": "MSI transmissions with operational status are scheduled to begin on January 1, 2025."
+  },
+  {
+   "id": "travessia-103",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radio-nautico-tela/avisos-radio-nauticos-e-sar",
+   "notes": "Página CHM reaberta (atualizada 07/10/2026) lista avisos por costa, NAVAREA V, hidrovias e SAR (homem ao mar, 'solicita-se aos navegantes... procurar, avistar, assistir e informar').",
+   "evidence_quote": "SOLICITA-SE AOS NAVEGANTES DA AREA PROCURAR, AVISTAR, ASSISTIR E INFORMAR"
+  },
+  {
+   "id": "travessia-104",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ SALVAMAR reaberto (atualizado 10/02/2022, ainda no ar) confirma SALVAMAR = serviço SAR da MB, Lei 7.273/1984.",
+   "evidence_quote": "SALVAMAR é o nome pelo qual é conhecido o Serviço de Busca e Salvamento da Marinha. De acordo com a Lei n° 7.273/1984"
+  },
+  {
+   "id": "travessia-105",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ reaberto confirma região SAR até o meridiano 10°W e ~1,6 vez o território.",
+   "evidence_quote": "Vai do litoral brasileiro até ao meridiano de 10° W, e tem uma superfície de cerca de 1,6 vezes o território nacional."
+  },
+  {
+   "id": "travessia-106",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ reaberto lista telefone 185/OM, GMDSS, navios SOLAS e RENEC (Embratel, VHF e HF).",
+   "evidence_quote": "Por telefone 185 ou outros telefones das Organizações Militares da MB"
+  },
+  {
+   "id": "travessia-107",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "Seis centros e sedes conferem com a página atual (que diz 'cinco sub-regiões' mas lista seis, inconsistência da fonte).",
+   "evidence_quote": "SALVAMAR SUL, Rio Grande; SUL SUESTE, São Paulo; SUESTE, Rio de Janeiro; LESTE, Salvador; NORDESTE, Natal; NORTE, Belém"
+  },
+  {
+   "id": "travessia-108",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ reaberto, pergunta 2, traz textualmente a emergência de doença a bordo com orientação médica/evacuação.",
+   "evidence_quote": "Pessoas que adoecem a bordo, necessitando de orientação médica para tratamento ou, até mesmo, de resgate"
+  },
+  {
+   "id": "travessia-109",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ reaberto, pergunta 8, confirma Avisos-Rádio Náuticos e, se necessário, Avisos-Rádio SAR por solicitação do SALVAMAR.",
+   "evidence_quote": "Caso necessário, são transmitidos também Avisos-Rádio SAR, por solicitação do SALVAMAR"
+  },
+  {
+   "id": "travessia-110",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-alertas-meteorologicos-inmet/alertas-meteorologicos-inmet",
+   "notes": "Página CHM (atualizada 11/09/2026) cita Alert-AS e https://avisos.inmet.gov.br/; o site do INMET responde (HTTP 200, 'INMET - Avisos').",
+   "evidence_quote": "elabora e emite alertas meteorológicos para o território nacional, dentre eles as áreas fluviais, por meio do sistema Alert-AS"
+  },
+  {
+   "id": "travessia-111",
+   "verdict": "confirmado",
+   "evidence_url": "https://nomads.ncep.noaa.gov/",
+   "notes": "Página NOMADS reaberta hoje lista GFS 0.25/0.50/1.00 e GFS Wave com grib filter e https; gribfilter de gfs_0p25, gfs_0p50, gfs_1p00 e gfswave respondem HTTP 200.",
+   "evidence_quote": "GFS 0.25 Degree 6 hours grib filter https"
+  },
+  {
+   "id": "travessia-112",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Texto do acervo (Portaria 200, 27/02/2026) idêntico; índice da DPC não mostra portaria posterior para a NORMAM-211.",
+   "evidence_quote": "Navegação Oceânica - aquela considerada sem restrições e realizada além das 20 milhas náuticas da costa."
+  },
+  {
+   "id": "travessia-113",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Tabela do art. 4.35 no acervo confirma Capitão-Amador para navegação oceânica (item 14); sem portaria posterior no índice da DPC.",
+   "evidence_quote": "Quando em navegação oceânica: Capitão-Amador"
+  },
+  {
+   "id": "travessia-114",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.13 no texto consolidado de 03/03/2026 confirma balsas para 100% das pessoas, podendo ser classe II; sem portaria posterior.",
+   "evidence_quote": "balsas salva-vidas infláveis para 100% do número total de pessoas a bordo, podendo ser classe II"
+  },
+  {
+   "id": "travessia-115",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.14 confirma coletes Classe I (SOLAS) na oceânica, dotação pelo menos igual ao número de pessoas; tabela 4.35 item 10 coerente.",
+   "evidence_quote": "Embarcações empregadas na Navegação Oceânica - deverão dispor de coletes salva-vidas Classe I (SOLAS)"
+  },
+  {
+   "id": "travessia-116",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.19.2 a) II confirma 2 aparelhos GNSS (obrigatório desde 31/12/2020) e a recomendação de fonte independente; sem portaria posterior.",
+   "evidence_quote": "Navegação oceânica: 2 (dois) aparelhos (*)."
+  },
+  {
+   "id": "travessia-117",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.24.2 a) (médio porte, oceânica) confirma VHF DSC, HF DSC substituível por satelital/SPOT X/Iridium GO e EPIRB 406 MHz; sem portaria posterior.",
+   "evidence_quote": "Poderá ser substituído por telefone satelital IRIDIUM ou INMARSAT, ou comunicadores satelitais do tipo SPOT X, IRIDIUM GO"
+  },
+  {
+   "id": "travessia-118",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Parágrafo final do art. 4.24.2 no acervo confirma antena de emergência para veleiros com VHF no tope.",
+   "evidence_quote": "As embarcações a vela que possuam antena de VHF no tope do mastro deverão possuir antena de emergência"
+  },
+  {
+   "id": "travessia-119",
+   "verdict": "confirmado",
+   "evidence_url": "https://infosar.decea.mil.br/",
+   "notes": "Art. 4.23.6 d) e e) confirmam 710 e INFOSAR; o site infosar.decea.mil.br responde (HTTP 200). Obs.: a NORMAM chama de 'dígito 710' o prefixo MMSI/Brasil.",
+   "evidence_quote": "Todas as EPIRB devem ser cadastradas no INFOSAR, por meio da página \"https://infosar.decea.mil.br\""
+  },
+  {
+   "id": "travessia-120",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/servico-movel-maritimo",
+   "notes": "NORMAM 4.23.8 confirma; página Anatel (modificada 16/07/2026) segue exigindo licenciamento de estação do Serviço Móvel Marítimo, hoje via SEI/Mosaico (não mais balcão regional).",
+   "evidence_quote": "LICENCIAMENTO DA ESTAÇÃO ... Acessar o módulo MMAR do MOSAICO"
+  },
+  {
+   "id": "travessia-121",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/43814",
+   "notes": "Metadados IRIS reabertos: 3rd ed., data 2007-12-31, título 'including the ship's medicine chest'; nenhuma 4ª edição localizada (em elaboração desde 2021 segundo estudo).",
+   "evidence_quote": "International medical guide for ships : including the ship's medicine chest , 3rd ed. ... citation_publication_date = 2007-12-31"
+  },
+  {
+   "id": "travessia-122",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/43814",
+   "notes": "Registro IRIS lista os três ISBNs exatamente como na afirmação (eletrônico, brochura, capa dura).",
+   "evidence_quote": "9789240682313 (electronic version) 9789241547383 (paperback version) 9789241547208 (hard cover version)"
+  },
+  {
+   "id": "travessia-123",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/43814",
+   "notes": "Resumo IRIS confirma público (tripulantes sem médico) e ênfase nas primeiras 48 horas após a lesão.",
+   "evidence_quote": "particularly for crew members responsible for medical care on ships without a medical doctor ... emphasizes the first 48 hours following injury"
+  },
+  {
+   "id": "travessia-124",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/44341",
+   "notes": "Registro IRIS 10665/44341 reaberto: addendum de 2010 com quantidades recomendadas de medicamentos.",
+   "evidence_quote": "Quantification addendum: International medical guide for ships, 3rd ed. ... citation_publication_date = 2010-12-31"
+  },
+  {
+   "id": "travessia-125",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 2026-2027 (vigente desde 01/01/2026) Apêndice H: sessão 3 de telemedicina e 'International Medical Guide for Ships, WHO' na bibliografia.",
+   "evidence_quote": "3.0 Support options (Medical advice services through official bodies)"
+  },
+  {
+   "id": "travessia-126",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Checagem automática falhou por quebra de coluna, mas o Prefácio da 11ª ed. (2001, ainda a edição servida pela NGA) traz a frase; distâncias em milhas náuticas.",
+   "evidence_quote": "The distances are between positions shown for each port and are generally over routes that afford the safest passage."
+  },
+  {
+   "id": "travessia-127",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 baixada hoje (PDF p.102, bloco RECIFE) traz 300 nm para Fernando de Noronha; 11ª ed. 2001 é a edição ainda servida pela NGA, sem edição posterior localizada.",
+   "evidence_quote": "Fernando de Noronha, 300"
+  },
+  {
+   "id": "travessia-128",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 baixada hoje (PDF p.102, bloco RECIFE) traz 399 nm para Salvador; 11ª ed. 2001 é a edição ainda servida pela NGA, sem edição posterior localizada.",
+   "evidence_quote": "Salvador, Brazil, 399"
+  },
+  {
+   "id": "travessia-129",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 baixada hoje (PDF p.102, bloco RECIFE) traz 1,717 nm para Dakar; 11ª ed. 2001 é a edição ainda servida pela NGA, sem edição posterior localizada.",
+   "evidence_quote": "Dakar, Senegal, 1,717"
+  },
+  {
+   "id": "travessia-130",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 baixada hoje (PDF p.102, bloco RECIFE) traz 2,054 nm para Bridgetown; 11ª ed. 2001 é a edição ainda servida pela NGA, sem edição posterior localizada.",
+   "evidence_quote": "Bridgetown, Barbados, 2,054"
+  },
+  {
+   "id": "travessia-131",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 baixada hoje (PDF p.102, bloco RECIFE) traz 2,151 nm para Port Castries; 11ª ed. 2001 é a edição ainda servida pela NGA, sem edição posterior localizada.",
+   "evidence_quote": "Port Castries, St. Lucia, 2,151"
+  },
+  {
+   "id": "travessia-132",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 baixada hoje (PDF p.102, bloco RECIFE) traz 2,453 nm para Las Palmas; 11ª ed. 2001 é a edição ainda servida pela NGA, sem edição posterior localizada.",
+   "evidence_quote": "Las Palmas, Canary Islands, 2,453"
+  }
+ ]
+}

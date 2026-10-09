@@ -1,0 +1,679 @@
+{
+ "questoes": [
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro corre em popa total, a 8 nós, com o vento real de 20 nós vindo exatamente de trás. Qual é o vento aparente a bordo?",
+   "alternativas": [
+    "8 nós, igual à velocidade do barco.",
+    "12 nós, vindo de trás.",
+    "20 nós, igual ao vento real.",
+    "28 nós, vindo de trás."
+   ],
+   "correta": 1,
+   "explicacao": "Em popa total, o vento real e o vento do deslocamento (8 nós) têm a mesma direção e sentidos opostos, então se subtraem: 20 − 8 = <b>12 nós</b>. A de 8 nós confunde o vento aparente com a velocidade do barco. A de 20 nós só vale com o barco parado. A de 28 nós vem de somar os dois, o que só vale com o vento de proa.",
+   "referencia": "RYA Day Skipper Handbook (Sail), vento aparente; Marchaj, Aero-Hydrodynamics of Sailing"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 1,
+   "enunciado": "Ao orçar, o vento aparente passa de 8 para 16 nós e as velas ficam na mesma posição. A força do vento nas velas fica aproximadamente:",
+   "alternativas": [
+    "2 vezes maior, na mesma proporção da velocidade.",
+    "1,4 vez maior, pois cresce com a raiz quadrada da velocidade.",
+    "4 vezes maior, pois cresce com o quadrado da velocidade.",
+    "8 vezes maior, pois cresce com o cubo da velocidade."
+   ],
+   "correta": 2,
+   "explicacao": "A força aerodinâmica nas velas cresce com o <b>quadrado</b> da velocidade do vento aparente: dobrando a velocidade, a força quadruplica (2² = 4). A de 2 vezes trata a força como se fosse proporcional à velocidade. A de 1,4 vez usa a raiz quadrada, o contrário do que acontece (a força cresce com o quadrado, não com a raiz). A de 8 vezes usa o cubo, que se aplica à potência, não à força.",
+   "referencia": "Marchaj, Aero-Hydrodynamics of Sailing; RYA Day Skipper Handbook (Sail)"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 2,
+   "enunciado": "Num través, o vento real é de 12 nós e o barco navega a 5 nós. Qual é, aproximadamente, o vento aparente?",
+   "alternativas": [
+    "7 nós, vindo mais de popa que o vento real.",
+    "17 nós, vindo do mesmo ângulo do vento real.",
+    "12 nós, vindo do mesmo ângulo do vento real.",
+    "13 nós, vindo mais de proa que o vento real."
+   ],
+   "correta": 3,
+   "explicacao": "No través, o vento real (12 nós, de lado) e o vento do deslocamento (5 nós, de frente) formam um ângulo reto: √(12² + 5²) = <b>13 nós</b>. Como o deslocamento \"puxa\" o ar para a frente, o aparente vem mais de proa que o real (cerca de 67° da proa, e não 90°). A de 7 nós subtrai, o que só vale em popa. A de 17 nós soma em linha reta, o que só vale com o vento de proa. A de 12 nós ignora o movimento do barco.",
+   "referencia": "Triângulo de velocidades (soma vetorial); RYA Day Skipper Handbook (Sail)"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 2,
+   "enunciado": "Pela regra prática da velocidade de casco (1,34 vez a raiz quadrada do comprimento na linha d'água, em pés), qual é a velocidade de casco aproximada de um veleiro com 25 pés na linha d'água?",
+   "alternativas": [
+    "3,7 nós.",
+    "5,0 nós.",
+    "6,7 nós.",
+    "33,5 nós."
+   ],
+   "correta": 2,
+   "explicacao": "√25 = 5 e 1,34 × 5 = <b>6,7 nós</b>. A de 33,5 nós esquece a raiz quadrada (1,34 × 25). A de 5,0 nós usa só a raiz, sem o fator 1,34. A de 3,7 nós vem de usar o comprimento em metros (cerca de 7,6 m) na fórmula feita para pés.",
+   "referencia": "Larsson e Eliasson, Principles of Yacht Design (velocidade de casco); Marchaj, Aero-Hydrodynamics of Sailing"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de 5 toneladas de deslocamento adernado tem braço de endireitamento (GZ) de 0,4 m. Qual é, aproximadamente, o momento de endireitamento?",
+   "alternativas": [
+    "0,08 t·m.",
+    "2,0 t·m.",
+    "5,4 t·m.",
+    "12,5 t·m."
+   ],
+   "correta": 1,
+   "explicacao": "O momento de endireitamento é o peso (deslocamento) vezes o braço GZ: 5 t × 0,4 m = <b>2,0 t·m</b>. A de 0,08 divide o braço pelo peso (0,4 ÷ 5). A de 5,4 soma os dois números. A de 12,5 divide o peso pelo braço (5 ÷ 0,4).",
+   "referencia": "Larsson e Eliasson, Principles of Yacht Design (estabilidade, curva GZ); RYA Day Skipper Handbook (Sail)"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 2,
+   "enunciado": "Por que um cruzeiro de quilha costuma perder rendimento na bolina quando a banda passa de uns 20°?",
+   "alternativas": [
+    "O vento aparente deixa de existir quando o barco aderna, e por isso a vela perde toda a força.",
+    "O lastro sai da água e deixa de contribuir para a estabilidade e para o equilíbrio do barco.",
+    "A quilha fica mais funda na água e o atrito com o casco aumenta bastante.",
+    "A quilha e o leme inclinados rendem menos: o barco abate mais e o leme pede mais ângulo."
+   ],
+   "correta": 3,
+   "explicacao": "Com banda forte, a quilha e o leme, inclinados, geram menos força lateral útil, o barco <b>abate mais</b>, o leme precisa de mais ângulo (e freia) e a força da vela aponta mais para o lado. A banda não faz o vento aparente desaparecer: ela inclina a vela e reduz a área útil, mas a vela continua recebendo força. O lastro continua submerso num cruzeiro de quilha e segue ajudando a endireitar. A quilha inclinada fica menos funda, não mais funda.",
+   "referencia": "RYA Day Skipper Handbook (Sail); Marchaj, Aero-Hydrodynamics of Sailing"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 3,
+   "enunciado": "Por que a vela grande de um cruzeiro precisa ter torção, com a parte de cima mais aberta que a de baixo?",
+   "alternativas": [
+    "Porque o vento é mais forte e mais aberto em cima; a torção mantém o ângulo de ataque parecido em toda a altura.",
+    "Porque a parte de cima deve trabalhar por arrasto, enquanto a de baixo trabalha por sustentação, mesmo na bolina.",
+    "Porque a torção desloca o centro de gravidade do barco para baixo e reduz a banda em qualquer força de vento.",
+    "Porque o tecido estica mais na parte de cima com o uso, e por isso toda vela sai do fabricante com essa forma."
+   ],
+   "correta": 0,
+   "explicacao": "O atrito com o mar freia o vento perto da superfície; em cima o vento real é mais forte e, somado ao deslocamento, o aparente vem de um ângulo <b>mais aberto</b>. Abrir a parte de cima mantém o ângulo de ataque semelhante em todas as alturas. Na bolina a vela inteira deve trabalhar por sustentação, não por arrasto. A torção não altera o centro de gravidade do barco. O estiramento do tecido é um defeito da idade da vela, não a razão da torção.",
+   "referencia": "RYA Day Skipper Handbook (Sail), torção e bolsa; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 3,
+   "enunciado": "Num veleiro leve e rápido, no través, com vento real constante de 6 nós, o barco acelera de 4 para 8 nós. O vento aparente passa de aproximadamente:",
+   "alternativas": [
+    "de 7 para 10 nós, vindo mais de popa.",
+    "de 10 para 14 nós, vindo mais de proa.",
+    "de 7 para 2 nós, vindo mais de popa.",
+    "de 7 para 10 nós, vindo mais de proa."
+   ],
+   "correta": 3,
+   "explicacao": "No través, o aparente é √(vento real² + velocidade do barco²). Com 4 nós: √(36 + 16) ≈ 7 nós. Com 8 nós: √(36 + 64) = <b>10 nós</b>. Como o vento do deslocamento cresceu, o ar passa a vir mais de proa (de cerca de 56° para 37° da proa). A opção \"mais de popa\" inverte o efeito. A de 14 nós soma 6 + 8 em linha reta. A de 2 nós subtrai 8 − 6, o que só vale em popa.",
+   "referencia": "Triângulo de velocidades (soma vetorial); RYA Day Skipper Handbook (Sail)"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro governa na proa 090° com vento de sudeste (135°) entrando por boreste, e o abatimento é de 5°. Qual é, aproximadamente, o caminho feito sobre a água?",
+   "alternativas": [
+    "080°",
+    "085°",
+    "090°",
+    "095°"
+   ],
+   "correta": 1,
+   "explicacao": "O abatimento empurra o barco para <b>sotavento</b>, o lado oposto ao de onde vem o vento. Com o vento de sudeste, o sotavento fica para o lado noroeste, isto é, para a esquerda da proa (bombordo). O caminho sobre a água é, então, a proa corrigida em 5° para a esquerda: 090° − 5° = <b>085°</b>. A de 095° desloca para o lado do vento, o que o abatimento nunca faz. A de 090° ignora o abatimento. A de 080° dobra o valor.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (abatimento e corrente); RYA Day Skipper Handbook (Sail)"
+  },
+  {
+   "tema": "Teoria da vela",
+   "dificuldade": 3,
+   "enunciado": "O centro vélico (ponto de aplicação da força das velas) de um veleiro está muito atrás do centro de deriva (ponto da força lateral da quilha). O que se espera do comportamento do barco?",
+   "alternativas": [
+    "Tende a arribar, e o timoneiro precisa segurar a cana para sotavento.",
+    "Tende a abater menos, porque a quilha passa a trabalhar com mais ângulo.",
+    "Tende a orçar (barco \"ardente\"); o timoneiro segura a cana a barlavento.",
+    "Não muda o rumo; apenas aumenta a banda, sem outros efeitos sobre o governo."
+   ],
+   "correta": 2,
+   "explicacao": "Com a força das velas aplicada atrás do ponto da força da quilha, forma-se um binário que gira a proa <b>para o vento</b>: o barco orça e o timoneiro corrige segurando a cana do lado do vento, a barlavento (barco \"ardente\"). Se o centro vélico estivesse muito à frente, o efeito seria o contrário (tendência a arribar). O abatimento não diminui por isso. E a posição relativa desses pontos muda o rumo, não só a banda.",
+   "referencia": "Marchaj, Aero-Hydrodynamics of Sailing (balanço entre centro vélico e centro de deriva); RYA Day Skipper Handbook (Sail)"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 1,
+   "enunciado": "A testa da genoa está batendo (panejando) e o barco perdeu velocidade. Qual é o ajuste correto?",
+   "alternativas": [
+    "Folgar mais a escota, para a vela ficar totalmente solta.",
+    "Caçar a escota devagar, até a batida parar.",
+    "Caçar a escota de uma vez, até o máximo.",
+    "Orçar o barco até a vela voltar a encher."
+   ],
+   "correta": 1,
+   "explicacao": "Vela batendo significa ângulo de ataque pequeno demais: o certo é <b>caçar devagar até a batida parar</b>, parando no ponto em que a vela fica o mais aberta possível sem bater. Folgar mais só piora a batida. Caçar de uma vez, até o máximo, leva ao estol e à perda de velocidade. Orçar reduz ainda mais o ângulo de ataque e faz a vela bater mais.",
+   "referencia": "RYA Day Skipper Handbook (Sail), trimagem; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 1,
+   "enunciado": "Com o vento real entrando a 130° da proa (veja a figura), em que ponto de vela o barco está?",
+   "alternativas": [
+    "Bolina folgada.",
+    "Través.",
+    "Largo.",
+    "Popa."
+   ],
+   "correta": 2,
+   "explicacao": "O largo vai de cerca de 100° a 150° do vento real, medidos a partir da proa; 130° está bem dentro dessa faixa. A bolina folgada fica por volta de 55° a 80°, o través em torno de 90° (80° a 100°) e a popa a partir de uns 150° até 180°. Os limites são aproximados e variam entre escolas, mas 130° é largo em qualquer um deles.",
+   "referencia": "RYA Day Skipper Handbook (Sail), pontos de vela",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 220 200\" role=\"img\" aria-label=\"Veleiro visto de cima com o vento entrando por boreste, a 130 graus da proa\"><path d=\"M110 60 C124 84 128 124 120 150 L100 150 C92 124 96 84 110 60Z\" fill=\"var(--sea-2)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><line x1=\"110\" y1=\"60\" x2=\"110\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><text x=\"116\" y=\"22\" font-size=\"11\" fill=\"currentColor\">proa</text><line x1=\"178\" y1=\"168\" x2=\"130\" y2=\"128\" stroke=\"var(--ink)\" stroke-width=\"3\"/><polygon points=\"124,123 137,126 130,135\" fill=\"var(--ink)\"/><text x=\"150\" y=\"186\" font-size=\"11\" fill=\"currentColor\">vento</text><path d=\"M110 41 A 70 70 0 0 1 163.6 156\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\"/><text x=\"180\" y=\"86\" font-size=\"12\" fill=\"currentColor\">130°</text></svg>"
+   }
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 2,
+   "enunciado": "Na bolina, a biruta de barlavento da genoa levanta e dança, enquanto a de sotavento voa reta para trás. O que isso indica e o que fazer?",
+   "alternativas": [
+    "Estol da vela; folgar a escota ou orçar um pouco.",
+    "Fluxo perfeito dos dois lados; manter tudo como está.",
+    "Vela caçada demais; folgar a escota e levar o carrinho para trás.",
+    "Ângulo de ataque pequeno; caçar a escota ou arribar."
+   ],
+   "correta": 3,
+   "explicacao": "A biruta de barlavento que levanta mostra fluxo falhando do lado de barlavento: o ângulo de ataque é <b>pequeno demais</b> (vela folgada para o rumo ou proa alta demais). A cura é caçar a escota ou arribar. O estol aparece na biruta de sotavento, por isso a alternativa do estol está errada. Com fluxo perfeito as duas voam retas. Vela caçada demais daria estol, e quem cairia seria a biruta de sotavento. Folgar mais a escota aumentaria o problema.",
+   "referencia": "RYA Day Skipper Handbook (Sail), birutas; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 2,
+   "enunciado": "Um cruzeiro bolineia com 14 nós de vento e o barco aderna demais numa rajada. Com o carrinho da grande no centro, qual ajuste alivia a banda sem perder a tensão da valuma?",
+   "alternativas": [
+    "Subir o carrinho a barlavento e caçar um pouco a escota para ganhar velocidade.",
+    "Descer o carrinho a sotavento; folgar a escota só se a banda persistir.",
+    "Caçar a escota da genoa até o fim, sem mexer na grande.",
+    "Soltar o cunningham e a esteira para dar mais bolsa."
+   ],
+   "correta": 1,
+   "explicacao": "Descer o carrinho a sotavento <b>alivia a parte de cima da vela</b> e reduz a banda, mantendo a tensão da valuma. Só se a banda persistir é que se folga um pouco a escota. Subir o carrinho e caçar aumenta a potência, o que agrava a banda, mesmo que pareça dar velocidade. Caçar a genoa acrescenta força e não alivia a grande. Soltar cunningham e esteira dá mais bolsa e mais força, o contrário do que se quer.",
+   "referencia": "RYA Day Skipper Handbook (Sail), controles da grande; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 1,
+   "enunciado": "No largo, com a escota da grande folgada, a retranca sobe e a vela abre em cima, perdendo potência. Qual controle evita isso?",
+   "alternativas": [
+    "Burro, que puxa a retranca para baixo.",
+    "Cunningham, que puxa a testa para baixo.",
+    "Estai de popa, que curva o mastro.",
+    "Carrinho da grande, que move a escota de lado."
+   ],
+   "correta": 0,
+   "explicacao": "Com a escota folgada, quem segura a retranca para baixo e mantém a tensão da valuma é o <b>burro</b>. O cunningham regula a posição da bolsa pela testa da vela. O estai de popa curva o mastro e achata a vela, mais usado na bolina. O carrinho ajusta o ângulo da retranca em relação ao centro, mas não a impede de subir.",
+   "referencia": "RYA Day Skipper Handbook (Sail), burro (boom vang)"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 2,
+   "enunciado": "O vento aumenta e aparecem vincos horizontais perto da testa da grande, com a bolsa recuando para trás. Qual é o ajuste?",
+   "alternativas": [
+    "Folgar a adriça para a vela descer um pouco e ganhar bolsa.",
+    "Soltar a esteira para dar mais bolsa embaixo.",
+    "Firmar o cunningham, trazendo a bolsa para a frente.",
+    "Subir o carrinho a barlavento."
+   ],
+   "correta": 2,
+   "explicacao": "Vincos horizontais na testa mostram que o <b>cunningham está solto</b>; firmando-o, a testa desce e a bolsa volta para a frente, achatando a vela, como pede o vento forte. Folgar a adriça aumentaria os vincos. Soltar a esteira daria mais bolsa, o contrário do desejado. Subir o carrinho a barlavento aumenta a potência.",
+   "referencia": "RYA Day Skipper Handbook (Sail), controles da grande; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 3,
+   "enunciado": "Na vela grande, a biruta superior da valuma desaparece atrás da vela, enquanto as de baixo voam retas para trás. O que isso indica e qual o ajuste?",
+   "alternativas": [
+    "Valuma fechada em cima, com pouca torção; folgar a escota.",
+    "A valuma está aberta demais em cima; caçar a escota.",
+    "A vela não tem bolsa suficiente; soltar a esteira e o cunningham.",
+    "O fluxo está perfeito em toda a altura; nada a ajustar."
+   ],
+   "correta": 0,
+   "explicacao": "A biruta de cima que \"some\" atrás da vela mostra fluxo descolado na parte alta: a valuma está <b>fechada em cima</b>, com torção de menos. Folgar a escota (ou aliviar o burro) dá mais torção e libera o fluxo. Caçar fecharia ainda mais. Bolsa não é o problema apontado pela biruta. E o fluxo só é perfeito quando todas as birutas voam retas.",
+   "referencia": "RYA Day Skipper Handbook (Sail), torção e bolsa"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 3,
+   "enunciado": "Ao orçar devagar, as birutas de cima da genoa levantam antes das de baixo. O que isso indica e qual o ajuste do carrinho?",
+   "alternativas": [
+    "Valuma fechada demais; levar o carrinho para trás.",
+    "Regulagem equilibrada; manter o carrinho onde está.",
+    "Valuma aberta demais; levar o carrinho para a frente.",
+    "Vela em estol; levar o carrinho para trás e folgar a escota."
+   ],
+   "correta": 2,
+   "explicacao": "Se as birutas de cima levantam primeiro, o ar deixa a parte alta antes da baixa: a valuma está <b>aberta demais</b> (muita torção). Levar o carrinho para a frente puxa a escota mais para baixo e fecha a valuma. Levar para trás, ao contrário, abre a valuma (e agravaria o problema); a hipótese de valuma fechada faria as birutas de baixo levantarem primeiro. Birutas todas levantando juntas indicariam regulagem equilibrada. Estol apareceria na biruta de sotavento, não no levantar da de barlavento.",
+   "referencia": "RYA Day Skipper Handbook (Sail), genoa: escota e carrinho"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 2,
+   "enunciado": "O vento passa de 10 para 22 nós e a banda aumenta. Qual conjunto de ajustes deixa a grande mais plana e reduz a força?",
+   "alternativas": [
+    "Esteira e cunningham soltos, para dar bolsa à vela, com o carrinho a barlavento.",
+    "Esteira firme, mas estai de popa folgado, para a vela ganhar bolsa.",
+    "Cunningham solto, estai de popa tenso e carrinho a barlavento.",
+    "Esteira e cunningham firmes, estai de popa tenso e carrinho a sotavento."
+   ],
+   "correta": 3,
+   "explicacao": "Para reduzir a força com vento forte, a vela deve ficar <b>rasa</b>: esteira e cunningham firmes, estai de popa tenso (que curva o mastro) e carrinho a sotavento para aliviar a parte de cima. Esteira e cunningham soltos com carrinho a barlavento é o ajuste de vento fraco. Os outros dois misturam um controle que achata com um que dá bolsa, e o resultado é uma vela que ainda gera força demais.",
+   "referencia": "RYA Day Skipper Handbook (Sail), controles da grande; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 1,
+   "enunciado": "Com 5 nós de vento e mar liso, o objetivo é ter mais potência na grande. Qual ajuste ajuda?",
+   "alternativas": [
+    "Esteira e cunningham soltos, para dar bolsa à vela.",
+    "Esteira e cunningham firmes, para a vela ficar plana.",
+    "Estai de popa tenso ao máximo, para curvar o mastro.",
+    "Escota caçada ao máximo, com a valuma bem fechada."
+   ],
+   "correta": 0,
+   "explicacao": "Com vento fraco a vela precisa de <b>bolsa</b> para gerar força: esteira e cunningham soltos. Firmá-los deixa a vela plana, o ajuste de vento forte. Estai de popa tenso curva o mastro e também achata a vela. Escota caçada ao máximo fecha a valuma e estola o ar, que já é fraco.",
+   "referencia": "RYA Day Skipper Handbook (Sail), torção e bolsa"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 1,
+   "enunciado": "Na bolina, o timoneiro segura a cana com muito esforço e muito ângulo de leme, com forte banda. Qual é a melhor primeira medida?",
+   "alternativas": [
+    "Mandar toda a tripulação para o lado de sotavento, para ajudar a endireitar o barco.",
+    "Caçar mais as velas e a genoa, para o barco acelerar e aliviar o esforço no leme.",
+    "Soltar o cunningham e a esteira, para dar mais bolsa e mais potência às velas.",
+    "Aliviar o pano: folgar a grande ou descer o carrinho, e rizar se persistir."
+   ],
+   "correta": 3,
+   "explicacao": "Leme pesado e muita banda são aviso de <b>pano demais ou mal regulado</b>: alivie a grande (escota ou carrinho) e, se continuar, reduza pano com um rizo. Caçar mais aumenta a força e a banda. Mais bolsa também aumenta a força. A tripulação deve ficar a barlavento, que é onde seu peso ajuda a endireitar; a sotavento ele agravaria a banda.",
+   "referencia": "RYA Day Skipper Handbook (Sail), reduzir pano; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 2,
+   "enunciado": "Dois veleiros perdem velocidade na bolina. No barco A, a testa da genoa bate. No barco B, as birutas de sotavento giram e caem. Que ação cabe a cada um?",
+   "alternativas": [
+    "A: caçar a escota. B: caçar mais, para encher a vela.",
+    "A: orçar mais, para chegar mais perto do vento. B: arribar mais.",
+    "A: folgar a escota. B: caçar a escota.",
+    "A: caçar a escota. B: folgar ou orçar um pouco."
+   ],
+   "correta": 3,
+   "explicacao": "Bater é ângulo de ataque pequeno demais: <b>A deve caçar</b>. Birutas de sotavento girando mostram estol, ângulo grande demais: <b>B deve folgar</b> (ou orçar um pouco, que também diminui o ângulo de ataque). As curas são opostas. Inverter as ações agravaria os dois problemas, e caçar mais no estol só piora. Orçar mais com a vela já batendo (A) reduz ainda mais o ângulo de ataque, e arribar mais com a vela já estolada (B) o aumenta ainda mais.",
+   "referencia": "RYA Day Skipper Handbook (Sail), birutas; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Mareação e regulagem",
+   "dificuldade": 2,
+   "enunciado": "O vento sopra do norte (000°) e o barco bolineia no ângulo mínimo de 45° com o vento, amurado a boreste (vento entrando pelo lado direito). Qual é a proa aproximada?",
+   "alternativas": [
+    "045°",
+    "135°",
+    "225°",
+    "315°"
+   ],
+   "correta": 3,
+   "explicacao": "Com o vento entrando pelo lado direito (boreste), o vento (000°) fica 45° à direita da proa; logo a proa é 000° − 45° = <b>315°</b>. A de 045° corresponde ao bordo oposto, com o vento por bombordo. As de 135° e 225° apontam bem longe do vento, para rumos de largo ou popa, e não de bolina.",
+   "referencia": "RYA Day Skipper Handbook (Sail), pontos de vela e bordos"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 1,
+   "enunciado": "Num veleiro de cana, o timoneiro empurra a cana para sotavento. O que o barco faz?",
+   "alternativas": [
+    "Arriba, afastando a proa do vento.",
+    "Orça, aproximando a proa do vento.",
+    "Cambia imediatamente, sem precisar das velas.",
+    "Mantém o rumo e apenas aumenta a banda."
+   ],
+   "correta": 1,
+   "explicacao": "A proa vai para o lado <b>oposto</b> ao da cana: cana para sotavento faz o barco <b>orçar</b>, isto é, a proa se aproxima do vento. Cana para barlavento faria o barco arribar. O barco só cambia se a proa passar pelo vento e as velas forem manobradas. E o leme com barco em movimento muda o rumo, não apenas a banda.",
+   "referencia": "RYA Day Skipper Handbook (Sail), orçar e arribar"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 2,
+   "enunciado": "Na cambada por davante, quando o tripulante deve largar a escota antiga da genoa?",
+   "alternativas": [
+    "Assim que o comandante diz \"Preparar para cambar\".",
+    "Quando a genoa começa a panejar, com a proa quase no vento.",
+    "Depois que a proa já passou pelo vento, para a genoa não bater.",
+    "Só depois de caçar a escota nova até o fim."
+   ],
+   "correta": 1,
+   "explicacao": "A escota antiga é largada <b>quando a genoa começa a panejar</b>, com a proa quase no vento, para ela cruzar livre. Largar já no aviso faria a genoa bater cedo e o barco perder força. Largar depois de a proa passar deixa a genoa a contravento e trava a proa. Caçar a escota nova só começa depois que a genoa cruzou.",
+   "referencia": "RYA Day Skipper Handbook (Sail), cambada"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 2,
+   "enunciado": "Qual preparação diminui o risco de o barco ficar parado, aproado, no meio de uma cambada?",
+   "alternativas": [
+    "Começar a manobra devagar, próximo da zona morta, para girar menos.",
+    "Girar o leme todo e rápido, para a proa passar logo pelo vento.",
+    "Chegar à bolina cerrada com velocidade e leme suave e contínuo.",
+    "Caçar a genoa antes de a proa cruzar o vento, para ganhar tempo."
+   ],
+   "correta": 2,
+   "explicacao": "O barco precisa de <b>velocidade e impulso</b> para a proa passar pelo vento; o leme deve girar de forma suave e contínua. Começar devagar perto da zona morta quase garante ficar aproado. Leme todo e rápido freia o barco. Caçar a genoa antes de ela cruzar a deixa a contravento e trava a proa.",
+   "referencia": "RYA Day Skipper Handbook (Sail), cambada; Marchaj, Sail Performance"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 2,
+   "enunciado": "Antes de a popa cruzar o vento num jaibe controlado, o tripulante da grande deve:",
+   "alternativas": [
+    "Caçar a escota até a retranca ficar quase no centro do barco.",
+    "Largar toda a escota, para a vela aliviar sozinha durante o giro.",
+    "Firmar o preventer, para a retranca não cruzar o barco durante o giro.",
+    "Soltar o burro e o cunningham, para a vela abrir mais durante o giro."
+   ],
+   "correta": 0,
+   "explicacao": "O que torna o jaibe seguro é controlar a retranca: <b>caçar a escota</b> até ela ficar quase centrada, para cruzar curta e devagar, e depois folgar aos poucos. Largar tudo deixaria a retranca varrer o barco em arco amplo. O preventer deve ser solto antes do jaibe, pois impede a retranca de cruzar. Soltar burro e cunningham não controla o cruzamento da retranca.",
+   "referencia": "RYA Day Skipper Handbook (Sail), jaibe; Heavy Weather Sailing (Adlard Coles Nautical)"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 3,
+   "enunciado": "Navegar \"pela contra\" (by the lee) em popa é perigoso porque:",
+   "alternativas": [
+    "O vento passa a entrar pelo lado da retranca, e um pequeno desvio causa o jaibe.",
+    "O vento aparente passa a valer o dobro do vento real e rasga a vela grande.",
+    "A genoa passa a empurrar a proa para o vento, e o barco deixa de obedecer ao leme.",
+    "A vela grande estola e perde toda a força, deixando o barco sem seguimento."
+   ],
+   "correta": 0,
+   "explicacao": "Pela contra, o vento já entra pelo <b>mesmo lado em que está a retranca</b>: qualquer desvio pequeno de rumo ou uma onda faz a vela virar de lado e a retranca varre o barco em jaibe acidental. O vento aparente em popa é menor que o real, não o dobro. A genoa não faz a proa orçar por isso. A vela não perde a força por estol: o risco é justamente o de ela encher do lado errado.",
+   "referencia": "RYA Day Skipper Handbook (Sail), jaibe acidental; Heavy Weather Sailing (Adlard Coles Nautical)"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 2,
+   "enunciado": "Um cruzeiro navega no largo com preventer firme e vai orçar para a bolina e cambar. O que fazer antes de orçar?",
+   "alternativas": [
+    "Manter o preventer firme, para a retranca não balançar na cambada.",
+    "Soltar o preventer, a partir do cockpit, antes de orçar.",
+    "Prender o preventer na amurada, para ele não atrapalhar.",
+    "Caçar o preventer ao máximo, para a retranca ir ao centro."
+   ],
+   "correta": 1,
+   "explicacao": "O preventer prende a retranca aberta; ao orçar e cambar a retranca precisa ir ao centro e cruzar, então ele deve ser <b>solto antes, do cockpit</b>. Deixá-lo firme travaria a retranca, com risco de quebra ou de ferimento. Prender o preventer na amurada ou nos balaústres é errado: eles não aguentam a carga e a retranca continuaria presa. Caçá-lo ao máximo só prenderia a retranca no lugar errado.",
+   "referencia": "RYA Day Skipper Handbook (Sail), preventer; Coles, Heavy Weather Sailing"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 2,
+   "enunciado": "Dois veleiros convergem. O veleiro A recebe o vento por bombordo; o B, por boreste. Segundo a Regra 12 do RIPEAM, quem deve manter-se fora do caminho do outro?",
+   "alternativas": [
+    "O veleiro A, que recebe o vento por bombordo.",
+    "O veleiro B, que recebe o vento por boreste.",
+    "O veleiro mais veloz e mais leve, seja qual for o bordo.",
+    "O veleiro que estiver a sotavento do outro."
+   ],
+   "correta": 0,
+   "explicacao": "Segundo a Regra 12(a)(i), quando cada veleiro recebe o vento por um bordo diferente, o que o recebe por <b>bombordo</b> deve manter-se fora do caminho do outro; logo, é o A. O B tem preferência. A velocidade não define a preferência. A posição a sotavento só decide a questão quando os dois têm o vento do mesmo bordo, caso em que quem está a barlavento é que se afasta.",
+   "referencia": "RIPEAM, Regra 12(a)(i)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 3,
+   "enunciado": "No veleiro X a vela grande está carregada a bombordo; no Y, a boreste. Os dois convergem com os ventos de bordos diferentes (veja a figura). Segundo a Regra 12 do RIPEAM, quem deve manter-se fora do caminho?",
+   "alternativas": [
+    "O X, porque a grande a bombordo indica que o vento entra por bombordo.",
+    "O Y, que recebe o vento por bombordo, por ter a grande a boreste.",
+    "Nenhum dos dois, pois o ângulo da grande não define o bordo.",
+    "O X, porque a sua grande está do lado de barlavento."
+   ],
+   "correta": 1,
+   "explicacao": "Pela Regra 12(b), o lado de barlavento é o <b>oposto</b> àquele em que a grande é carregada. Em X, a grande está a bombordo, logo o vento vem por boreste. Em Y, a grande está a boreste, logo o vento vem por <b>bombordo</b>. Pela Regra 12(a)(i), quem recebe o vento por bombordo deve manter-se fora do caminho: é o Y. A primeira alternativa inverte a relação entre a grande e o vento. A terceira ignora a própria regra. A quarta também confunde o lado da vela com o do vento.",
+   "referencia": "RIPEAM, Regra 12(a)(i) e 12(b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 220 190\" role=\"img\" aria-label=\"Vento vindo do alto da figura. O veleiro X vai para noroeste com a vela grande a bombordo; o veleiro Y vai para nordeste com a vela grande a boreste\"><line x1=\"110\" y1=\"8\" x2=\"110\" y2=\"40\" stroke=\"var(--ink)\" stroke-width=\"3\"/><polygon points=\"103,38 117,38 110,50\" fill=\"var(--ink)\"/><text x=\"120\" y=\"22\" font-size=\"11\" fill=\"currentColor\">vento</text><g transform=\"translate(155,130) rotate(-45)\"><path d=\"M0 -28 C9 -12 10 14 6 28 L-6 28 C-10 14 -9 -12 0 -28Z\" fill=\"var(--sea-2)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><line x1=\"0\" y1=\"-4\" x2=\"-13\" y2=\"26\" stroke=\"var(--ink)\" stroke-width=\"3\"/></g><text x=\"178\" y=\"176\" font-size=\"13\" font-weight=\"700\" fill=\"currentColor\">X</text><g transform=\"translate(65,130) rotate(45)\"><path d=\"M0 -28 C9 -12 10 14 6 28 L-6 28 C-10 14 -9 -12 0 -28Z\" fill=\"var(--sea-2)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><line x1=\"0\" y1=\"-4\" x2=\"13\" y2=\"26\" stroke=\"var(--ink)\" stroke-width=\"3\"/></g><text x=\"36\" y=\"176\" font-size=\"13\" font-weight=\"700\" fill=\"currentColor\">Y</text></svg>"
+   }
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 1,
+   "enunciado": "Ao se aproximar de uma boia de amarração, com vento e corrente vindos da mesma direção, o veleiro deve chegar:",
+   "alternativas": [
+    "Com vento e corrente pela popa, para chegar mais depressa à boia.",
+    "De través, usando o leme todo no último instante.",
+    "De ré e com pouca velocidade, para evitar bater na boia.",
+    "De proa para o vento e a corrente, controlando pelas escotas."
+   ],
+   "correta": 3,
+   "explicacao": "A aproximação deve ser feita <b>contra o vento ou a corrente</b>: ao tirar a força das velas, o barco para por si e o leme continua a ter fluxo de água. Chegar com vento e corrente pela popa deixa o barco \"empurrado\", sem ter como parar. Chegar de ré, devagar, tira o governo: o leme age mal e um veleiro não anda de ré com controle. De través, é preciso depender de leme brusco e há risco de abater sobre a boia.",
+   "referencia": "RYA Day Skipper Handbook (Sail), aproximação e parada"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 1,
+   "enunciado": "Num través, o timoneiro orça uns 15° sem mexer nas escotas. O que tende a acontecer com as velas?",
+   "alternativas": [
+    "Batem, porque o ângulo de ataque diminui.",
+    "Estolam, porque o ângulo de ataque aumenta.",
+    "Nada, pois as escotas seguram a vela em qualquer rumo.",
+    "Enchem mais, pois o vento aparente fica mais fraco."
+   ],
+   "correta": 0,
+   "explicacao": "Ao orçar, o vento aparente vem mais de proa e mais forte, e o ângulo entre o vento e a vela <b>diminui</b>: a vela tende a bater, e é preciso caçar. Estol seria o efeito de arribar sem folgar. Segurar a escota não impede a vela de bater. E o vento aparente ao orçar aumenta, não diminui.",
+   "referencia": "RYA Day Skipper Handbook (Sail), orçar e arribar"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 3,
+   "enunciado": "Com 28 nós de vento, mar levantado e tripulação pouco experiente, um veleiro em popa precisa mudar de bordo. Qual é a opção mais prudente?",
+   "alternativas": [
+    "Dar um jaibe rápido com o leme todo, para passar logo pelo vento.",
+    "Soltar toda a escota da grande e deixar a retranca cruzar sozinha.",
+    "Orçar, cambar e arribar de volta, mesmo com mais distância.",
+    "Caçar a genoa a contravento e deixar o barco girar sozinho."
+   ],
+   "correta": 2,
+   "explicacao": "Com vento forte e mar grosso, o jaibe é arriscado: a retranca é pesada e a vela enche com violência do outro lado. Mudar de bordo <b>cambando</b> custa distância e tempo, mas a manobra é feita contra o vento, com as velas aliviadas e sem esse risco (exige velocidade e atenção para não ficar aproado). Jaibe rápido com leme todo é pior; soltar toda a escota deixa a retranca varrer o cockpit; e a genoa a contravento não é método de mudar de bordo com controle.",
+   "referencia": "RYA Day Skipper Handbook (Sail), jaibe e cambada; Heavy Weather Sailing (Adlard Coles Nautical)"
+  },
+  {
+   "tema": "Manobras sob vela",
+   "dificuldade": 2,
+   "enunciado": "Um cruzeiro bolineia a 045°, com vento de leste (090°) entrando por boreste. Ao cambar, mantendo o mesmo ângulo de 45° com o vento, qual será o novo rumo?",
+   "alternativas": [
+    "045°",
+    "090°",
+    "135°",
+    "225°"
+   ],
+   "correta": 2,
+   "explicacao": "Depois da cambada o vento entra pelo outro lado (bombordo): o vento de 090° fica 45° à esquerda da proa, e a proa passa a ser 090° + 45° = <b>135°</b>. A mudança de rumo é de 90°. A de 045° é o rumo anterior. A de 090° apontaria direto para o vento, dentro da zona morta. A de 225° é o rumo de um barco que arribou muito, e não de bolina.",
+   "referencia": "RYA Day Skipper Handbook (Sail), cambada e pontos de vela"
+  }
+ ],
+ "log": [
+  {
+   "idx": 0,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 1,
+   "acao": "corrigida",
+   "motivo": "Termo: \"Na orçada\" trocado por \"Ao orçar\", termo do curso (l17)."
+  },
+  {
+   "idx": 2,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 3,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 4,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 5,
+   "acao": "corrigida",
+   "motivo": "Redação: \"muito de uns 20°\" trocado por \"de uns 20°\", alinhado à lição l4 do curso (15° a 20°)."
+  },
+  {
+   "idx": 6,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 7,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 8,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 9,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta mais longa que os distratores; encurtada sem mudar a resposta (cana a barlavento, lição l3)."
+  },
+  {
+   "idx": 10,
+   "acao": "corrigida",
+   "motivo": "Distrator \"folgar o cunningham\" sem sentido numa genoa, e distrator \"plana como tábua\" quase defensável; trocados por \"caçar de uma vez\" e \"orçar\"; explicação refeita."
+  },
+  {
+   "idx": 11,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 12,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; encurtada. Distrator \"descer o carrinho\" da genoa trocado por \"levar o carrinho para trás\" (lição l14); explicação passa a tratar cada distrator."
+  },
+  {
+   "idx": 13,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa e a ação \"descer o carrinho e folgar\" estava confusa; reescrita curta. Distrator \"firmar o burro e caçar a genoa\" ambíguo trocado por \"caçar a genoa até o fim\"; explicação refeita (lição l14)."
+  },
+  {
+   "idx": 14,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 15,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; distrator sobre adriça alongado (resposta mantida)."
+  },
+  {
+   "idx": 16,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta empatava como mais longa; encurtada (resposta mantida)."
+  },
+  {
+   "idx": 17,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; encurtada (resposta mantida, lição l14)."
+  },
+  {
+   "idx": 18,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; distrator alongado (resposta mantida)."
+  },
+  {
+   "idx": 19,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 20,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 21,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; reequilibrada com distrator alongado (resposta mantida)."
+  },
+  {
+   "idx": 22,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 23,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 24,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 25,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; encurtada sem perder \"bolina cerrada\" nem \"leme suave\" (lição l18)."
+  },
+  {
+   "idx": 26,
+   "acao": "corrigida",
+   "motivo": "Referência: autor de \"Heavy Weather Sailing\" não verificado no corpus; citado só pelo título e editora."
+  },
+  {
+   "idx": 27,
+   "acao": "corrigida",
+   "motivo": "Referência: autor de \"Heavy Weather Sailing\" não verificado no corpus; citado só pelo título e editora."
+  },
+  {
+   "idx": 28,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 29,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; distrator alongado (resposta mantida, Regra 12(a)(i) confirmada em tecnico-24)."
+  },
+  {
+   "idx": 30,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta quase a mais longa; distrator \"X\" alongado e alternativa correta encurtada, mantida a figura (vela grande a bombordo, Regra 12(b) confirmada em tecnico-27)."
+  },
+  {
+   "idx": 31,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; encurtada (boia, lição vela-2 m7 l4: aproximar contra vento e corrente)."
+  },
+  {
+   "idx": 32,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  },
+  {
+   "idx": 33,
+   "acao": "corrigida",
+   "motivo": "Alternativa correta era a mais longa; encurtada (resposta mantida, lição l19: cambar em vez de jaibar com mar grosso). Referência: autor de \"Heavy Weather Sailing\" não verificado, citado só pelo título e editora."
+  },
+  {
+   "idx": 34,
+   "acao": "ok",
+   "motivo": "Conferido: contas refeitas, regra/termo e referência verificados, coerente com o curso (vela-1 e m3/m4), resposta única e distratores defensáveis."
+  }
+ ]
+}

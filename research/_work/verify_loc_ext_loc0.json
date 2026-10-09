@@ -1,0 +1,142 @@
+{
+ "verdicts": [
+  {
+   "id": "ext-pt-oeiras-west-coast-lisbon-sailing-centre",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site abre via curl -k (cadeia TLS incompleta no servidor, nao e site morto); titulo 'West Coast - Lisbon Sailing Centre', menus Day Skipper/Marinheiro/840 conferem. RYA 200."
+  },
+  {
+   "id": "ext-pt-cascais-seawings",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 403 em curl simples; com UA abre 'Seawings | Tuition and training... Yachtmaster'. RYA 200. Divergencia de endereco ja anotada; coord aprox-cidade plausivel."
+  },
+  {
+   "id": "ext-pt-lagos-ru-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-pt-portimao-learn2sail-iberia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-pt-funchal-clube-naval-do-funchal",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-pt-horta-marina-da-horta",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-tenerife-canary-sail",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-santa-cruz-tenerife-helmsmenclub-canary",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-las-galletas-club-yachting",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-arrecife-atlantic-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-yaiza-endeavour-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-corralejo-sail-the-canaries",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-palma-palma-sea-school",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-palma-mallorca-sailing-academy",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-barcelona-yacht-point",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-es-barcelona-red-sky-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-gi-gibraltar-rock-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-gi-gibraltar-allabroad-sailing-academy",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 403 so em curl simples; com UA de navegador abre: 'RYA & MCA Sailing Courses - Allabroad Sailing Academy'. RYA 200."
+  },
+  {
+   "id": "ext-es-la-linea-gib-sailing-school",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-uk-hamble-school-of-yachting",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  },
+  {
+   "id": "ext-uk-hamble-british-offshore-sailing-school",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 403 em curl simples; com UA abre 'Sailing Schools | British Offshore Sailing School'. RYA 200."
+  },
+  {
+   "id": "ext-uk-cowes-uksa",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 403 em curl simples; com UA abre 'UKSA - United Kingdom Sailing Academy - Cowes'. RYA 200."
+  },
+  {
+   "id": "ext-uk-plymouth-island-trust",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200 com titulo coerente com a entidade; fonte RYA/oficial 200; cursos, cidade/UF e coordenadas plausiveis."
+  }
+ ]
+}

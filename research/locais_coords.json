@@ -1,0 +1,27 @@
+{
+ "_nota": "Centro aproximado do município (precisão 'aprox-cidade'), só para o marcador aparecer no mapa. A localização exata das aulas está na pesquisa de cada local. Aplicado por tools/build_locais.py apenas onde lat/lon estavam vazias.",
+ "se-rj-navegart": {
+  "lat": -22.9068,
+  "lon": -43.1729
+ },
+ "se-rj-cl-vela": {
+  "lat": -22.9068,
+  "lon": -43.1729
+ },
+ "se-rj-nautica-sete-mares": {
+  "lat": -22.9068,
+  "lon": -43.1729
+ },
+ "se-es-escola-nautica-es": {
+  "lat": -20.3155,
+  "lon": -40.3128
+ },
+ "se-sp-marina-sylvestre": {
+  "lat": -23.5505,
+  "lon": -46.6333
+ },
+ "ext-sx-arc-europe-world-cruising-club": {
+  "lat": 18.04,
+  "lon": -63.1
+ }
+}

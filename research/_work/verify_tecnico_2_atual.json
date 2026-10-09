@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "luzes superior e inferior deverão ser encarnadas e a do meio branca",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "três luzes circulares encarnadas dispostas em linha vertical, ou uma marca constituída por um cilindro",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "duas luzes circulares dispostas em linha vertical, a superior branca e a inferior encarnada",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "na parte de vante, uma luz circular branca ou uma esfera",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-65",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "comprimento inferior a 50 metros pode exibir uma luz circular branca",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-66",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "o valor de K deve ser 0,8, correspondendo à visibilidade meteorológica de cerca de 13 milhas marítimas",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "valor praticamente nulo entre 1 grau e 3 graus além dos setores prescritos",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "apito curto ... cerca de 1 segundo; apito longo ... 4 a 6 segundos",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-69",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "12 metros ... apito; 20 metros ... sino; 100 metros ... gongo",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-70",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "inferior a 12 metros não será obrigada ... dispositivos capazes de produzir um sinal sonoro eficaz",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-71",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "um apito curto ... boreste; dois ... bombordo; três ... dando a ré",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-72",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "dois apitos longos seguidos de um apito curto ... boreste; ... dois curtos ... bombordo",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-73",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "um apito longo, um curto, um longo e um curto, nesta ordem",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-74",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "pelo menos cinco apitos curtos e rápidos",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-75",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "ela deve soar um apito longo ... respondido com um apito longo",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-76",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "intervalos não superiores a 2 minutos, um apito longo",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-77",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "dois apitos longos sucessivos separados por intervalos de cerca de 2 segundos",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-78",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "três apitos sucessivos, sendo o primeiro longo e os dois seguintes, curtos",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-79",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "soar rapidamente o sino durante cerca de 5 segundos, a intervalos não superiores a um minuto",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-80",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "inferior a 12 metros não é obrigada ... outros sinais sonoros eficazes, a intervalos não superiores a 2 minutos",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-81",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "luzes intermitentes de grande intensidade ou de luzes rotativas ... deve ser evitada",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-82",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "deverá usar ou exibir os sinais descritos no Anexo IV",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-83",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "tiro de canhão ... cerca de um minuto; toque contínuo ... cerração; foguetes ... estrelas encarnadas, um de cada vez",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-84",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "SOS Morse; 'Mayday'; N.C.",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-85",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "bandeira quadrada, tendo acima ou abaixo uma esfera",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-86",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "foguete com pára-quedas ou tocha manual luz encarnada; fumaça alaranjada; movimentos lentos dos braços",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-87",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "alerta de perigo por DSC: VHF canal 70 ou MF/HF",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-88",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "sinais de radiobalizas indicadoras de posição; respondedores radar de embarcações de sobrevivência",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-89",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "evidence_quote": "É proibida a utilização ou a exibição de qualquer dos sinais acima ... exceto com a finalidade de indicar perigo",
+   "notes": "Texto RIPEAM/COLREG consolidado confere com a afirmação; sem emenda posterior relevante (última, A.1085(28), só acrescentou a Parte F, regras 39-41; edição IMO 2026 não traz alteração a essa regra)."
+  },
+  {
+   "id": "tecnico-90",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "evidence_quote": "Fica aprovado o Sistema de Balizamento Marítimo, Região \"B\", da Associação Internacional de Sinalização Náutica - IALA ... balizamento marítimo e de águas interiores do Brasil.",
+   "notes": "Página do Planalto reaberta hoje: art. 1º idêntico, decreto sem marca de revogação."
+  }
+ ]
+}

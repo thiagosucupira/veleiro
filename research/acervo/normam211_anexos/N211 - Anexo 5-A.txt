@@ -1,0 +1,254 @@
+
+
+ANEXO 5-A
+INSTRUÇÕES GERAIS PARA O EXAME ESCRITO PARA AS CATEGORIAS DE AMADORES E REALIZAÇÃO DO TREINAMENTO PRÁTICO PARA AS CATEGORIAS DE ARRAIS-AMADOR
+SEÇÃO I
+INSTRUÇÕES GERAIS PARA O EXAME ESCRITO PARA AS CATEGORIAS DE AMADORES
+1.	PROCEDIMENTOS PARA O EXAME DE CAPITÃO-AMADOR
+a)	As Capitanias, Delegacias e Agências divulgarão o período de inscrições. Em princípio, as inscrições serão feitas em todas essas Organizações Militares nos meses de fevereiro e agosto para exames a serem realizados, respectivamente, nos meses de abril e outubro do mesmo ano, que podem ser alterados de acordo com a necessidade da Autoridade Marítima. Assim, recomenda-se acompanhar o calendário de eventos no site da Diretoria de Portos e Costas, por meio do endereço eletrônico www.dpc.mar.mil.br. Para a realização deste exame o candidato deverá ser habilitado na categoria de Mestre-Amador.
+b)	O exame constará de uma prova escrita contendo 40 questões, com a duração máxima de quatro horas. 
+c)	A prova possui valor máximo de 10,0 pontos e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos.
+d)	O candidato deverá portar os seguintes documentos/materiais para a execução da prova:
+I)	protocolo da inscrição; 
+II)	documento oficial de identificação;
+III)	material de desenho: lápis preto ou lapiseira, régua paralela e/ou um par de esquadros, compasso e borracha para desenho; e
+4)	caneta esferográfica azul ou preta.
+e)	A DPC divulgará em seu site a programação geral do exame, a prova/gabarito e a relação contendo os nomes dos aprovados.
+f)	O candidato poderá pedir revisão da sua prova em um prazo máximo de 07 dias úteis, contados a partir da data de divulgação oficial da prova e do gabarito no site da Diretoria de Portos e Costas (DPC) (www.dpc.mar.mil.br). Esta solicitação deverá ser realizada por meio de requerimento, (modelo 5-I) à Organização Militar onde foi realizada a sua inscrição, anexando o “pedido de revisão de prova” conforme o modelo contido no apêndice I deste anexo. 
+g)	As CP/DL/AG encaminharão eletronicamente ao CIAGA o pedido de revisão impetrado pelo interessado, a quem caberá exarar a decisão final restituindo à OM de origem.
+h)	A GRU paga pelo candidato reprovado ou que faltou à prova não poderá ser reutilizada para um novo exame. Dessa forma, o candidato que desejar realizar novo exame deverá efetuar nova inscrição, conforme estabelecido no artigo 5.4 desta norma.
+1.1.	Programa para Exame de Capitão-Amador
+a)	Navegação Astronômica.
+b)	Navegação Eletrônica.
+c)	Estabilidade.
+d)	Meteorologia e Oceanografia.
+e)	Comunicações.
+f)	Sobrevivência no Mar.
+g)	Carta náutica e publicações de auxílio à navegação.
+1.2.	O assunto Navegação Astronômica abordará os seguintes tópicos:
+a)	Conceitos básicos sobre astronomia aplicada à navegação:
+I)	medida de tempo - Hora média local (HML), Hora média de Greenwich (HMG), Hora legal, Fusos horários; e
+II)	uso do Almanaque Náutico Brasileiro.
+b)	Cálculo da hora legal da passagem meridiana superior do sol pelo processo aproximado.
+c)	Posição pela passagem meridiana do sol.
+1.3.	O assunto Navegação Eletrônica abordará os seguintes tópicos:
+a)	Uso dos sistemas de navegação por satélite (GNSS e DGNSS).
+b)	Navegação radar:
+I)	poder discriminador em marcação;
+II)	poder discriminador em distância;
+III)	técnicas de navegação Radar; Aterragens – Navegação Costeira Navegação em águas restritas;
+IV)	auxílio à Navegação Radar (RACON/RTE);
+V)	o radar como importante recurso para evitar colisão no mar; e
+VI)	navegação Paralela Indexada pelo Radar.
+c)	Navegação por Satélite: 
+I)	sistemas Globais de Navegação por Satélite (GNSS e DGNSS).
+d)	Acompanhamento Automático de Embarcações:
+I)	auxílio de Plotagem Automática Radar (ARPA); e
+II)	sistema Automático de Identificação (AIS).
+e)	Navegação batimétrica:
+I)	o uso do ecobatímetro na navegação.
+f)	Conceitos básicos de sistemas integrados de navegação(ECDIS, ECS, VTS, GNSS).
+1.4.	O assunto Estabilidade abordará os seguintes tópicos:
+a)	Conceitos sobre:
+	I)	pontos notáveis de estabilidade (centro de gravidade, centro de carena e metacentro);
+	II)	altura metacêntrica; e
+	III)	condições de equilíbrio de uma embarcação.
+b)	Alterações da flutuabilidade e da estabilidade:
+I)	Causas da banda permanente e formas de correção;
+II)	Efeito de superfície livre (causas, precauções e correções);
+III)	Variação das condições de estabilidade durante uma viagem (mau tempo, embarque de água do mar, consumo, água aberta e avarias); e
+IV)	Variação da estabilidade de uma embarcação, em função da alteração do projeto inicial de construção.
+1.5.	O assunto Meteorologia e Oceanografia abordará os seguintes tópicos:
+Elementos meteorológicos:
+I)	pressão atmosférica;
+II)	umidade relativa do ar; 
+III)	nebulosidade e nevoeiro;
+IV)	circulação do ar; e
+V)	frentes frias, quentes, oclusas e estacionárias.
+Interpretação de boletins, cartas sinóticas e imagens de satélites meteorológicos:
+I)	análise do estado do tempo relacionado aos centros de alta e baixa pressão atmosférica e frentes constantes dos boletins meteorológicos;
+II)	interpretação dos avisos de mau tempo;
+III)	interpretação da configuração isobárica das cartas sinóticas;
+IV)	interpretação dos elementos meteorológicos apresentados na carta sinótica de pressão à superfície (direção e intensidade do vento, cobertura do céu, tempo presente, linhas de instabilidade e evolução das frentes); e
+V)	identificação dos elementos meteorológicos apresentados nas imagens de satélites meteorológicos.
+c)	Interação Oceano-Atmosfera:
+I)	ondas e marulhos;
+II)	características das correntes costeiras e oceânicas;
+III)	principais correntes oceânicas; e
+IV)	estado do mar (Escala Beaufort).
+
+
+d)	Cartas Piloto e Cartas de Correntes de Maré:
+I)	identificação da representação gráfica dos elementos meteorológicos e oceanográficos apresentados nas cartas piloto;
+II)	identificação dos parâmetros das marés de sizígia e quadratura; e
+III)	interpretação das Cartas de Correntes de Maré.
+1.6.	O assunto Comunicações
+a)	Comunicações na Navegação Oceânica:
+equipamentos, procedimentos, frequências de socorro, chamada e trânsito;
+estações de terra; e
+uso e funcionamento do EPIRB e do SART.
+1.7.	O assunto Sobrevivência no Mar
+	a) Técnicas e Procedimentos de Sobrevivência em mar aberto.
+	b) Utilização da palamenta e dispositivos de sobrevivência no mar.
+	c) Lançamento e abertura de balsas salva-vidas.
+	d) Navegação em balsas salva-vidas.
+1.8.	Carta náutica e publicações de auxílio à navegação
+a)	Reconhecimento dos elementos de uma carta náutica, conversão e traçados de rumos e marcações, e realização de plotagens de posições.
+b)	Conhecimento e uso das publicações de auxílio à navegação.
+1.9.	Bibliografia Recomendada
+Obs.: Os títulos abaixo especificados não esgotam a literatura a ser consultada pelo candidato, que deverão ser consideradas em suas últimas edições. Entretanto, havendo conflitos com outras fontes, considerar como válidas, para efeito de prova, as informações constantes na bibliografia recomendada.
+a) Navegação: A Ciência e a Arte Vol. I - Navegação Costeira, Estimada e em Águas Restritas, de ALTINEU PIRES MIGUENS (www.dhn.mar.mil.br).
+b)	Navegação: A Ciência e a Arte Vol. II - Navegação Astronômica e Derrotas, de ALTINEU PIRES MIGUENS (www.dhn.mar.mil.br).
+c)	Capitão-Amador Navegando Seguro em Cruzeiros de Alto Mar, de JAIME ROBERTO DA COSTA FELIPE.
+d)	Como Navegar pelo Sol, de GERALDO LUIZ MIRANDA DE BARROS. 
+e)	Meteorologia e Oceanografia, usuário Navegantes, de PAULO ROBERTO VALGAS LOBO.
+f)	Sobrevivência no Mar, de CELSO AJ. DE REZENDE.
+	g) Navegação Integrada, de CARLOS NORBERTO STUMPF BENTO.
+h)	Catálogo de Cartas e Publicações, DHN.
+i)	Roteiros, DHN.
+j)	Carta 12000 (INT) - símbolos, abreviaturas e termos usados nas cartas náuticas, DHN.
+k)	Lista de Faróis, DHN.
+l)	Tábua das Marés, DHN.
+m)	Lista de Auxílios-Rádio, DHN.
+n)	Cartas de Correntes de Maré, DHN.
+o)	Atlas de Cartas Piloto, DHN.
+p)	Almanaque Náutico, DHN.
+q)	Lista de Sinais Cegos, DHN.
+r)	Avisos aos Navegantes, Área Marítima e Hidrovias em Geral, folheto quinzenal, DHN.
+2.	PROCEDIMENTOS PARA O EXAME DE MESTRE-AMADOR
+a)	Para a realização deste exame o candidato deverá ser habilitado na categoria de Arrais-Amador.
+
+b) Os exames para a categoria de Mestre-Amador serão programados pelas CP/DL ou AG. 
+c)	O exame constará de uma prova eletrônica ou escrita contendo 40 questões de múltipla escolha, sendo quatro com utilização de carta náutica, com a duração máxima de três horas.
+d)	A prova possui valor máximo de 10,0 pontos e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos na prova.
+e)	O candidato deverá portar os seguintes documentos/materiais para a execução da prova:
+I)	protocolo da inscrição; 
+II)	documento oficial de identificação;
+III)	caneta esferográfica azul ou preta; e
+IV)	material de desenho: lápis ou lapiseira, régua, um par de esquadros ou régua paralelas, transferidor, compasso e borracha.
+f)	As CP/DL/AG divulgarão a relação contendo os nomes dos aprovados.
+g)	As provas deverão ser destruídas, imediatamente após a correção e a apresentação dos resultados aos candidatos, visando garantir a integridade e o sigilo do Banco de Questões.
+h)	A GRU paga pelo candidato reprovado ou que faltou à prova não poderá ser reutilizada para um novo exame. Dessa forma, o candidato que desejar realizar novo exame deverá efetuar nova inscrição, conforme estabelecido no artigo 5.4 desta norma.
+i)	Para a realização deste exame o candidato deverá ser habilitado na categoria de Arrais-Amador.
+2.1.	Programa para o exame de Mestre-Amador
+O programa para o exame versará sobre Navegação Costeira, abordando os seguintes conhecimentos:
+a)	Simbologia e abreviaturas usadas nas cartas náuticas brasileiras (Ref. Carta 12.000 (INT-1) da DHN).
+b)	Navegação estimada e costeira: plotagem de um ponto por coordenadas geográficas e por linhas de posição; conversão de rumos e marcações; determinação da posição de partida e chegada por marcações simultâneas e sucessivas; distância entre dois pontos; determinação do desvio da agulha por alinhamento, curva de desvio da agulha, declinação magnética, influência da corrente e do vento, utilização de auxílios visuais à navegação (faróis, faroletes, boias e balizas). 
+c)	Instrumentos náuticos: agulhas (magnética e giroscópica); odômetro (de fundo e de superfície); prumo de mão; alidades. 
+d)	Operação dos sistemas de navegação por satélite (GNSS/DGNSS).
+e)	Noções sobre de estabilidade e flutuabilidade de uma embarcação.
+f)	Conhecimento e utilização das marés na navegação:
+I)	comportamento das marés;
+II)	conhecimento das curvas de marés; e
+III)	uso de Tábuas de Marés.
+g)	Conhecimento e uso da Carta Náutica e publicações de auxílio à navegação.
+h)	Sistema de Balizamento Marítimo da IALA região “B”, sinais sonoros e luminosos.
+i)	Conceitos básicos de funcionamento e utilização do radar na navegação.
+j)	Conceitos básicos de funcionamento e utilização do ecobatímetro.
+k)	Meteorologia: Conhecimento e interpretação de Cartas Sinóticas, Boletins Meteorológicos, imagens satélite e avisos de mau tempo, características das frentes, nevoeiros, nuvens e ciclones extra-tropicais, conhecimento dos ventos predominantes na costa do Brasil e dos principais instrumentos meteorológicos.
+l)	Problemas de navegação costeira e estimada com utilização da carta e publicações náuticas.
+m)	Comunicações na navegação costeira: conceitos e funcionamento do sistema VHF, equipamentos, procedimentos, frequências de socorro, chamadas de emergência, chamadas de rotina e trânsito; Rede Nacional de Estações Costeiras (RENEC).
+n)	Conhecimento básico do funcionamento do EPIRB e AIS.
+o)	Conhecimento básico sobre sobrevivência no mar:
+I)	técnicas e procedimentos para a sobrevivência no mar; e
+II)	equipamentos de salvatagem, segurança e sobrevivência no mar, coletes salva-vidas, boias circulares, pirotécnicos, balsas salva-vidas e suas palamentas, botes de abandono.
+p)	Conhecimento e uso do RIPEAM – sinais sonoros e luminosos; regras de governo; luzes e marcas.
+2.2.	Bibliografia recomendada
+Obs.: Os títulos abaixo especificados não esgotam a literatura a ser consultada pelo candidato, que deverão ser consideradas em suas últimas edições. Entretanto, havendo conflitos com outras fontes, considerar como válidas, para efeito de prova, as informações constantes na bibliografia recomendada.
+Navegar é Fácil, de GERALDO LUIZ MIRANDA DE BARROS. 
+Navegue Tranquilo Vol. II de HILVIR W. CATANHEDE. 
+Navegação: A Ciência e a Arte Vol. I – Navegação Costeira, Estimada e em Águas Restritas, de ALTINEU PIRES MIGUENS (www.dhn.mar.mil.br).
+Navegação Eletrônica e em condições especiais – Volume III, de ALTINEU PIRES MIGUENS (www.dhn.mar.mil.br).
+Roteiro da CostaSul, DHN.
+Lista de Faróis, DHN.
+Tábuas das Marés, DHN.
+Avisos aos Navegantes, Área Marítima e Hidrovias em Geral, folheto quinzenal, DHN.
+Catálogo de Cartas e Publicações, DHN.
+Carta 12000 (INT) - símbolos, abreviaturas e termos usados nas cartas náuticas, DHN.
+Lista de Auxílios-Rádio, DHN.
+Cartas de Correntes de Maré, DHN.
+Atlas de Cartas Piloto.
+Listas de Sinais Cegos.
+GPS - Uma Abordagem Prática, de JOSÉ ANTÔNIO M. R. ROCHA.
+Capitão-Amador Navegando Seguro em Cruzeiros de Alto Mar, de JAIME ROBERTO DA COSTA FELIPE.
+RLESTA e NORMAM-211/DPC.
+Sobrevivência no Mar de Celso A. J. de Rezende.
+Meteorologia e Oceanografia, usuário Navegantes, de PAULO ROBERTO VALGAS LOBO.
+Regulamento Internacional Para Evitar Abalroamento no Mar – RIPEAM.
+Navegação Integrada de NORBERTO STUMPF BENTO CORTES. 
+
+3.	PROCEDIMENTOS PARA O EXAME DE ARRAIS-AMADOR 
+a)	Os exames para a categoria de Arrais-Amador serão programados pelas CP/DL/AG.
+b)	O exame constará de uma prova eletrônica ou escrita contendo 40 questões, com a duração máxima de duas horas.
+c)	A prova possui valor máximo de 10,0 pontos, e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos na prova.
+d)	O candidato deverá portar os seguintes documentos/materiais para a execução da prova:
+I)	protocolo da inscrição; 
+II)	documento oficial de identificação; e
+III)	caneta esferográfica azul ou preta.
+e)	As CP/DL/AG divulgarão a relação contendo os nomes dos aprovados.
+f)	As provas deverão ser destruídas, imediatamente após a correção e a apresentação dos resultados aos candidatos, visando garantir a integridade e o sigilo do Banco de Questões.
+g)	A GRU paga pelo candidato reprovado ou que faltou à prova não poderá ser reutilizada para um novo exame. Dessa forma, o candidato que desejar realizar novo exame deverá efetuar nova inscrição, conforme estabelecido no artigo 5.4 desta norma.
+3.1.	Programa para o exame de Arrais-Amador
+	Prova para Arrais-Amador
+	A prova abordará os seguintes assuntos:
+	a)	Conhecimentos gerais sobre:
+I)	termos náuticos, nomenclatura, peças e partes das embarcações, direções relativas, marinharia, nós e voltas;
+II)	manobras de fundeio, suspender, aproximação a margem, atracar, desatracar, pegar a boia; manobras de resgate de homem ao mar;
+III)	preparação da embarcação para a navegação: abastecimento de gêneros, água, combustível; salvatagem; e plano de navegação;
+IV)	sistemas de propulsão a motor e a vela, sistema de leme e seus efeitos, manobra em espaço limitado com emprego de um e/ou dois hélices;
+V)	identificação, classificação e nomenclatura de embarcações miúdas e leme e seus efeitos;
+VI)	prevenção e combate a incêndio, incluindo a identificação e manuseio correto de extintores;
+VII)	primeiros socorros e pronto atendimento; e
+VIII)	técnicas básicas para a sobrevivência e segurança no mar, em rios, lagos e lagoas.
+b)	Equipamentos de salvatagem, segurança e sobrevivência no mar, coletes salva-vidas, boias circulares, pirotécnicos, uso da palamenta, botes orgânicos e balsas salva-vidas de abandono.
+Instrumentos náuticos e eletrônicos, agulha magnética (bússola), odômetro, tacômetro, anemômetro, GNSS, ecobatímetro.
+Meteorologia: Noções de meteorologia e consulta à “previsão do tempo”, disponível nos sites “www.dhn.mar.mil.br” e “www.cptec.inpe.br” e no aplicativo “Boletim ao Mar”, disponível no “Google Play Store” e na “Apple Store”.
+Conhecimento e utilização das marés na navegação:
+I)	comportamento das marés;
+II)	conhecimento das curvas de marés; e
+III)	uso de Tábuas de Marés.
+RIPEAM- Regulamento Internacional Para Evitar Abalroamento no Mar:
+I)	luzes e marcas de navegação;
+II)	sinais sonoros e luminosos; e
+III)	regras de governo.
+Sistema de Balizamento Marítimo da IALA região “B”, sinais de perigo e sinais diversos.
+Conhecimentos do sistema de comunicação móvel marítimo em VHF (fixo e portátil): equipamentos, procedimentos, frequências de chamada de rotina, de socorro, de urgência, de segurança e trânsito.
+Conhecimentos básicos de estabilidade de embarcações. Distribuição de peso a bordo, enfrentamento de mau tempo e movimentos de balanço, caturro e cabeceio.
+Regulamento da Lei de Segurança do Tráfego Aquaviário (RLESTA – Decreto no 2596/98) e NORMAM-211/DPC.
+3.2.	Bibliografia Recomendada
+Obs.: Os títulos abaixo especificados não esgotam a literatura a ser consultada pelo candidadto, que deverão ser consideradas em suas últimas edições. Entretanto, havendo conflitos com outras fontes, considerar como válidas, para efeito de prova, as informações constantes na bibliografia recomendada.
+a)	Regulamento Internacional para Evitar Abalroamento no Mar - RIPEAM-72.
+b)	Navegar é Fácil, de GERALDO LUIZ MIRANDA DE BARROS.
+c)	Navegue Tranquilo de HILVIR W. CATANHEDE.
+d)	Sobrevivência no Mar de Celso AJ. de Rezende, Editora Catau Ltda.
+e)	Aplicativo da Cruz Vermelha – FICR, disponível no “Google Play Store” e na “Apple Store”.
+SEÇÃO II
+INSTRUÇÕES GERAIS PARA O TREINAMENTO PRÁTICOPARA AS CATEGORIAS DE ARRAIS-AMADOR
+1.	APLICAÇÃO:
+Os treinamentos para a categoria de Arrais-Amador têm como propósito a condução segura da embarcação e a familiarização do interessado em embarcações de esporte e recreio no seu ambiente de operação.
+Estes treinamentos deverão ser supervisionados por instrutores dos estabelecimentos de treinamento náutico ou pessoas físicas cadastradas pelas CP/DL/AG.
+Após o término do treinamento teórico e prático, o estabelecimento de treinamento náutico ou pessoa física emitirá o atestado de treinamento para Arrais-Amador (anexo 5-E), documento obrigatório para a inscrição do candidato para a categoria de Arrais-Amador, constante do capítulo 5 desta norma.
+a)	Plano de treinamento para Arrais-Amador
+O treinamento abordará obrigatoriamente os seguintes assuntos dentro dos tempos estabelecidos:
+Parte Teórica - 2h
+A parte teórica deverá ser ministrada necessariamente no ambiente de emprego da embarcação, estando atracada, fundeada, no berço, ou em movimento, utilizando seus equipamentos, acessórios, materiais de salvatagem e publicações como recursos instrucionais e devendo abordar os seguintes tópicos:
+1.1. apresentação da embarcação do treinamento;
+1.2. regras de governo (roda a roda, rumos cruzados, ultrapassagem etc); 
+1.3. luzes e marcas;
+1.4. orientações quanto as providências para saída e chegada, e para manutenção preventiva da embarcação;
+1.5. funcionamento e utilização do transceptor de VHF fixos e portáteis;
+1.6. frequência de chamada de socorro/urgência e segurança. Mensagens de socorro; 
+1.7. exemplos práticos de primeiros socorros, a bordo;
+1.8. noções sobre combate a incêndio descrevendo: triângulo do fogo, classificação dos incêndios e tipos de extintores portáteis (água, espuma, CO2 e pó químico seco);
+1.9 noções sobre sobrevivência e segurança, em especial para situações de queda n’água envolvendo hipotermia; e
+1.10 utilização dos tipos de materiais de segurança e salvatagem obrigatórios em especial os coletes e boias salva-vidas, e como devem ser usados em situações de emergência.
+Parte Prática - 4h
+A parte prática deverá ser ministrada pelo instrutor com a embarcação em movimento e deverá prever os seguintes treinamentos náuticos:
+2.1. preparação da embarcação para navegar, considerando embarque de pessoal, manobras de peso a bordo, uso do VHF, uso do material de salvatagem, abastecimento de gêneros e água, plano de navegação.
+2.2. demonstração das luzes, marcas e sinais sonoros utilizados pelas embarcações;
+2.3. demonstração das regras de governo (roda a roda, rumos cruzados, ultrapassagem);
+2.4. demonstração da ação do leme e do hélice;
+2.5. execução de manobra de atracação, desatracação, fundeio e suspender;
+2.6. apresentação das saída e aproximação segura de praias com ênfase no cumprimento das áreas seletivas para a navegação; e
+2.7. execução da lista de verificação para o funcionamento e orientações preventivas quanto à manutenção da embarcação.
+Quando em instrução para a obtenção do atestado de treinamento para Arrais-Amador, o candidato deve conduzir a embarcação devidamente supervisionado pelo instrutor que será o responsável pelo correto cumprimento das regras estabelecidas no RIPEAM e a segurança da embarcação. A instrução deverá ser realizada em área que não cause interferência com outras atividades náuticas e/ou banhistas.

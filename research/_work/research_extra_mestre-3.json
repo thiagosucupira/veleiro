@@ -1,0 +1,312 @@
+{
+ "claims": [
+  {
+   "id": "extra-mestre-3-01",
+   "topic": "equip-gnss",
+   "claim": "Embarcações de médio porte devem ter GNSS: 1 aparelho na navegação costeira e 2 na oceânica (recomendado que ao menos um tenha fonte de energia independente).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.19.2 a), p. 4-10",
+   "quote": "I) Navegação costeira: 1 (um) aparelho; e II) Navegação oceânica: 2 (dois) aparelhos (*).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Texto em research/acervo/normam-211.txt. A mesma alínea diz que as subalíneas são obrigatórias a partir de 31/12/2020."
+  },
+  {
+   "id": "extra-mestre-3-02",
+   "topic": "equip-radar-eco",
+   "claim": "Radar (9 GHz) e ecobatímetro só são obrigatórios para embarcações de grande porte ou iates construídos após 11/02/2000; para as menores o emprego é recomendado.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.19.3 a) e b), p. 4-10",
+   "quote": "b) Ecobatímetro - as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. A alínea a) traz a regra do radar: \"capaz de operar na faixa de frequência de 9 GHz\", com a mesma recomendação para embarcações menores."
+  },
+  {
+   "id": "extra-mestre-3-03",
+   "topic": "equip-refletor",
+   "claim": "Toda embarcação empregada em navegação costeira ou oceânica deve ter um refletor radar.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.18.3, p. 4-9",
+   "quote": "4.18.3. Refletor Radar - todas as embarcações quando empregadas em navegação costeira ou oceânica, deverão estar dotadas de um refletor radar.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-04",
+   "topic": "equip-epirb-costeira",
+   "claim": "Na tabela de equipamentos para navegação costeira, a EPIRB 406 MHz é dispensada para embarcações de médio porte e obrigatória para as de grande porte ou iates.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.34 (quadro de navegação costeira), item 11, p. 4-21",
+   "quote": "11 4.24 Dispensado OBRIGATÓRIO (*)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Linha \"EPIRB 406 MHz\" do quadro: coluna médio porte \"Dispensado\", coluna grande porte \"OBRIGATÓRIO (*)\". A nota (*) manda verificar funcionamento, validade das baterias e registro no INFOSAR na inspeção naval."
+  },
+  {
+   "id": "extra-mestre-3-05",
+   "topic": "salv-classes",
+   "claim": "Os equipamentos salva-vidas têm cinco classes: I (SOLAS, navegação oceânica), II (requisitos abrandados, navegação costeira), III (navegação interior), IV (trabalho junto à borda) e V (esportes, médio porte em navegação interior e miúdas).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.11, p. 4-6",
+   "quote": "CLASSE II - fabricado com base nos requisitos acima, abrandados para uso nas embarcações empregadas na Navegação Costeira.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-06",
+   "topic": "salv-coletes",
+   "claim": "A dotação de coletes deve ser pelo menos igual ao total de pessoas a bordo, com coletes pequenos para crianças; na navegação costeira os coletes são da Classe II e na oceânica da Classe I (SOLAS).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.14, p. 4-7",
+   "quote": "Embarcações empregadas na Navegação Costeira - deverão dispor de coletes salva-vidas Classe II;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. O mesmo artigo exige estiva pronta e acessível, com localização claramente indicada, e certificação conforme a NORMAM-321/DPC."
+  },
+  {
+   "id": "extra-mestre-3-07",
+   "topic": "salv-boias",
+   "claim": "Embarcação de médio porte com menos de 12 m deve ter 1 boia salva-vidas circular ou ferradura; com 12 m ou mais, 2. Fora da navegação interior, cada boia leva dispositivo de iluminação automática, e pelo menos uma tem retinida flutuante (o dobro da altura de estiva ou 20 m, o que for maior).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.15, pp. 4-7 e 4-8",
+   "quote": "deverão dotar uma (1) boia salva-vidas do tipo circular ou ferradura;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Mesmo artigo: \"é obrigatória a adoção de dispositivo de iluminação automática associado a cada boia salva-vidas, com exceção das embarcações empregadas na navegação interior\"; retinida \"de comprimento igual ao dobro da altura na qual ficará estivada [...] ou 20 m, o que for maior\"."
+  },
+  {
+   "id": "extra-mestre-3-08",
+   "topic": "salv-piro-tipos",
+   "claim": "Pela NORMAM-211, o foguete manual estrela vermelha com paraquedas sobe a 300 m e ejeta luz vermelha de 30.000 candelas por 40 s; o facho manual emite luz vermelha de 15.000 candelas por 60 s; o sinal fumígeno flutuante laranja emite fumaça por 3 ou 15 minutos.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.16, pp. 4-8 e 4-9",
+   "quote": "ejeta um paraquedas com uma luz vermelha com intensidade de 30.000 candelas por quarenta segundos.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-09",
+   "topic": "salv-piro-dotacao",
+   "claim": "Na navegação costeira a embarcação de esporte e recreio leva 2 foguetes estrela vermelha com paraquedas, 2 fachos manuais de luz vermelha e 2 sinais fumígenos flutuantes laranja; na oceânica, 4 de cada.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.17, p. 4-9",
+   "quote": "Navegação costeira - dois foguetes manuais de estrela vermelha com paraquedas, dois fachos manuais luz vermelha e dois sinais fumígenos flutuantes laranja;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-10",
+   "topic": "salv-balsa-costeira",
+   "claim": "Na navegação costeira as embarcações estão dispensadas de balsa salva-vidas, sendo recomendável um bote inflável; na oceânica é obrigatória balsa inflável para 100% das pessoas a bordo (pode ser classe II).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.13, p. 4-6",
+   "quote": "Navegação Costeira – as embarcações estão dispensadas do uso de balsas salva-vidas, sendo recomendável a utilização de um bote inflável;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-11",
+   "topic": "salv-balsa-revisao",
+   "claim": "As balsas de esporte e recreio devem ser homologadas (SOLAS, NORMAM-321/DPC ou ISO 9650-1); as SOLAS são revisadas anualmente e as demais no prazo do fabricante, sempre em estação de manutenção credenciada, com a data registrada no casulo.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.13, p. 4-7",
+   "quote": "As balsas salva-vidas SOLAS devem ser revisadas anualmente e as balsas salva-vidas homologadas de acordo com a NORMAM-321/DPC ou a ISO 9650-1 devem ser revisadas em período determinado pelo fabricante.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-12",
+   "topic": "radio-canais",
+   "claim": "No transceptor de VHF são obrigatórios os canais 16 (156,8 MHz, chamada e socorro), 68 e 69; no equipamento DSC, o canal 70 (156,525 MHz) pode substituir o 16 para a chamada seletiva digital.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.23.4 a), p. 4-12",
+   "quote": "a) Transceptor de VHF - frequência 156,8 MHz, canais 16, chamada e socorro, 68 e 69 respectivamente.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-13",
+   "topic": "renec-operador",
+   "claim": "A Rede Nacional de Estações Costeiras (RENEC) é operada pela Embratel; suas estações ficam ao longo do litoral e dos rios Amazonas e Pará e são operadas de forma centralizada pelo Centro de Operações do Serviço Móvel Marítimo (COSMM), em Guaratiba, Rio de Janeiro.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "locator": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., Cap. 8, itens 8.1 e 8.2.2, pp. 8-1 e 8-2",
+   "quote": "A RENEC é constituída por estações ao longo do litoral do Brasil e nos rios Amazonas e Pará, operadas de forma centralizada pelo Centro de Operações do Serviço Móvel Marítimo (COSMM).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Item 8.1: \"Rede Nacional de Estações Costeiras – RENEC – operada pela Empresa Brasileira de Telecomunicações (Embratel)\". A capa do PDF traz \"15ª EDIÇÃO 2025 - 2029\"; o nome do arquivo diz 2026-2030."
+  },
+  {
+   "id": "extra-mestre-3-14",
+   "topic": "renec-seguranca",
+   "claim": "O tráfego de segurança da RENEC é gratuito: recebe sinais e chamadas de perigo e segurança no canal 16 (156,8 MHz) e em 4.125 kHz e transmite boletins meteorológicos, previsões (METEOROMARINHA), Avisos-Rádio Náuticos e Avisos SAR do CHM em VHF e HF.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "locator": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., Cap. 8, item 8.2.1, p. 8-1",
+   "quote": "O tráfego de apoio à segurança da navegação e à salvaguarda da vida humana no mar é gratuito e abrange os seguintes serviços:",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-15",
+   "topic": "renec-estrutura",
+   "claim": "A RENEC tem uma estação principal no Rio de Janeiro (PPR); três regionais em Belém (PPL), Olinda (PPO) e Rio Grande (PPJ), com alcance de cerca de 600 milhas; duas locais em Manaus (PPM) e Itajaí (PPC), cerca de 200 milhas; e 34 estações locais restritas, até cerca de 40 milhas. Todas são telecomandadas.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "locator": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., Cap. 8, item 8.2.2, p. 8-2",
+   "quote": "trinta e quatro estações locais restritas, também telecomandadas, que ampliam as comunicações em telefonia com embarcações navegando até 40 milhas da estação local restrita.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-16",
+   "topic": "renec-avisos",
+   "claim": "A RENEC transmite em português, sem horário fixo, os Avisos-Rádio Náuticos Costeiros e Locais de maior relevância e os Avisos SAR: chamada no canal 16 (ou 4.125 kHz) e tráfego no canal designado pela estação. Quem só tem radiotelefonia deve manter escuta no canal 16 e, se possível, em 4.125 kHz.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "locator": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., Cap. 5, \"Radiodifusão pela RENEC\" e \"Recepção das Transmissões da RENEC\", pp. 5-5, 5-6 e 5-15",
+   "quote": "Os navegantes que dispõem apenas de receptores de radiotelefonia, devem manter escuta no canal 16 e, se possível, também na frequência 4.125,0 kHz, de modo a receberem os Avisos-Rádio transmitidos via RENEC.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-17",
+   "topic": "renec-comercial",
+   "claim": "Pela RENEC também há tráfego comercial pago (ligações telefônicas bordo-terra e terra-bordo e telegramas); para se cadastrar como usuário do Serviço Móvel Marítimo, contata-se a Embratel pelo 0800-7012141.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "locator": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., Cap. 8, item 8.2.1, p. 8-1, e Apêndice VIII-2 (observação)",
+   "quote": "Para cadastrar-se como usuário do SMM, o interessado deve fazer contato com a Embratel, pelo telefone 0800-7012141.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. A observação do Apêndice VIII-2 informa que o COSMM atende 24 horas no 0800-7012141 e no 0800-7012144 em horário comercial."
+  },
+  {
+   "id": "extra-mestre-3-18",
+   "topic": "renec-iatismo",
+   "claim": "A Rede Costeira de Apoio ao Iatismo é formada pelas estações dos iates clubes, com escuta em VHF e/ou SSB, normalmente do nascer ao pôr do sol; no VHF, o canal 68 (156,425 MHz) é exclusivo para iatismo e os canais 69 e 71 são para embarcações de pequeno porte.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "locator": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., Cap. 8, item 8.3, pp. 8-2 e 8-3",
+   "quote": "156,425 MHz - Canal 68 - Exclusivo para iatismo.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Mesmo item: \"O horário de trabalho é, normalmente, do nascer ao pôr-do-sol\" e \"Os comandantes dos iates devem acertar os detalhes do apoio às comunicações que os iates clubes das áreas onde vão navegar podem prestar, antes de iniciar qualquer viagem.\""
+  },
+  {
+   "id": "extra-mestre-3-19",
+   "topic": "salvamar-renec",
+   "claim": "O SALVAMAR também é alertado pela RENEC da Embratel, que opera em VHF e HF e retransmite as emergências para o SALVAMAR.",
+   "source_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "locator": "SALVAMAR Brasil, FAQ, pergunta 6 (página atualizada em 10/02/2022)",
+   "quote": "Por meio da Rede Nacional de Estações Costeiras (RENEC) da Embratel, que opera em VHF e HF e retransmite as emergências para o SALVAMAR.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-20",
+   "topic": "meteo-areas",
+   "claim": "O METEOROMARINHA divide a costa em oito áreas: ALFA (Chuí a Laguna), BRAVO (Laguna a Arraial do Cabo, oceânica), CHARLIE (Laguna a Arraial do Cabo, costeira), DELTA (Arraial do Cabo a Caravelas), ECHO (Caravelas a Salvador), FOXTROT (Salvador a Natal), GOLF (Natal a São Luís) e HOTEL (São Luís a Oiapoque).",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-smm-meteoromarinha/previsao-24-horas",
+   "locator": "CHM, página \"Meteoromarinha — Previsão 24 horas\", Parte Três (consultada em 2026-10-08, previsão válida de 080000 a 100000)",
+   "quote": "ÁREA FOXTROT (DE SALVADOR ATÉ NATAL)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Os limites aparecem no título de cada área da Parte Três: \"ÁREA ALFA (DE CHUÍ ATÉ LAGUNA)\", \"ÁREA BRAVO (DE LAGUNA ATÉ ARRAIAL DO CABO – OCEÂNICA)\", \"ÁREA CHARLIE (DE LAGUNA ATÉ ARRAIAL DO CABO - COSTEIRA)\", \"ÁREA DELTA (DE ARRAIAL DO CABO ATÉ CARAVELAS)\", \"ÁREA ECHO (DE CARAVELAS ATÉ SALVADOR)\", \"ÁREA GOLF (DE NATAL ATÉ SÃO LUÍS)\", \"ÁREA HOTEL (DE SÃO LUÍS ATÉ OIAPOQUE)\"."
+  },
+  {
+   "id": "extra-mestre-3-21",
+   "topic": "meteo-renec-pedido",
+   "claim": "Os boletins e cartas meteorológicas do CHM são divulgados pela Estação Rádio da Marinha no Rio de Janeiro e, a pedido, pelas estações da RENEC (Embratel).",
+   "source_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "locator": "CHM, \"Serviços Radiometeorológicos de Apoio ao Navegante\", seção Cartas meteorológicas (atualizada em 10/02/2025)",
+   "quote": "A divulgação dos boletins meteorológicos e cartas meteorológicas é efetuada pela Estação Rádio da Marinha no Rio de Janeiro e, a pedido, pelas estações da Rede Nacional de Estações Costeiras, pertencentes à EMBRATEL, que é a empresa concessionária do Serviço Móvel Marítimo.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-22",
+   "topic": "meteo-meios",
+   "claim": "Os avisos de mau tempo e demais produtos do Serviço Meteorológico Marinho podem ser vistos no site do CHM, nos aplicativos \"Previsão Ambiental Marinha (PAM)\" e \"Boletim ao Mar\", na página do serviço no Facebook, pelas frequências de VHF e HF da Lista de Auxílios-Rádio, a pedido às estações da RENEC e por satélite (SafetyNET II da Inmarsat e SafetyCast da Iridium).",
+   "source_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+   "locator": "Miguens, Navegação: a Ciência e a Arte, vol. III (DHN, 1ª rev. 2026), cap. 42, item \"Baixa visibilidade\", p. 42-54",
+   "quote": "por meio dos aplicativos \"Previsão Ambiental Marinha (PAM)\" e \"Boletim ao Mar\".",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-23",
+   "topic": "dgps-rede",
+   "claim": "O Brasil tem uma rede de 11 estações de referência DGPS em radiofaróis operados pela Marinha; perto da estação, a posição DGPS tem exatidão melhor que 2 m (95% do tempo), com degradação de 11,5 ppm da distância à estação.",
+   "source_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-08/LAR-15ED-2026-2030-Completa.pdf",
+   "locator": "Lista de Auxílios-Rádio (DH8-15), 15ª ed., Cap. 9, item 9.1.8.3, p. 9-10",
+   "quote": "O Brasil possui uma rede constituída por 11 ERDGPS (Estação de Referência DGPS), baseada em radiofaróis operados pela Marinha do Brasil",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-mestre-3-24",
+   "topic": "estab-def",
+   "claim": "Pela NORMAM-211, estabilidade intacta é a propriedade que tem a embarcação de retornar à sua posição inicial de equilíbrio, depois de cessada a força perturbadora que a afastou, considerando-se a situação de integridade estrutural da embarcação.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Glossário (verbete \"Estabilidade Intacta\")",
+   "quote": "Estabilidade Intacta - é a propriedade que tem a embarcação de retornar à sua posição inicial de equilíbrio, depois de cessada a força perturbadora que dela a afastou, considerando-se a situação de integridade estrutural da embarcação.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 em research/acervo/normam-211.txt (Glossário)."
+  },
+  {
+   "id": "extra-mestre-3-25",
+   "topic": "estab-borda-livre",
+   "claim": "Pela NORMAM-211, convés de borda livre é o convés completo mais elevado da embarcação, de modo que todas as aberturas das partes expostas tenham meios permanentes de fechamento que assegurem a estanqueidade.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Glossário (verbete \"Convés de Borda Livre\")",
+   "quote": "Convés de Borda Livre - é o convés completo mais elevado que a embarcação possui, de tal forma que todas as aberturas situadas nas partes expostas do mesmo disponham de meios permanentes de fechamento que assegurem sua estanqueidade.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 em research/acervo/normam-211.txt (Glossário). O verbete também diz que a borda livre é calculada conforme as NORMAM-201 e NORMAM-202."
+  },
+  {
+   "id": "extra-mestre-3-26",
+   "topic": "estab-norma-24m",
+   "claim": "Na NORMAM-211, embarcações de esporte e recreio com 24 m ou mais destinadas ao mar aberto devem ter a estabilidade intacta avaliada pelos requisitos do Capítulo 7 da NORMAM-201/DPC, no que for aplicável.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 3.27.2, p. 3-9",
+   "quote": "As embarcações destinadas à navegação em mar aberto deverão ter a estabilidade intacta avaliada de acordo com os requisitos estabelecidos no Capítulo 7 da NORMAM-201/DPC, no que for aplicável.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Abaixo de 24 m, o art. 3.27.1 manda a lotação ser definida pelo estaleiro construtor (ver extra-arrais-3-43)."
+  },
+  {
+   "id": "extra-mestre-3-27",
+   "topic": "estab-borda-livre-24m",
+   "claim": "Embarcações de esporte e recreio com 24 m ou mais estão dispensadas de marcas de borda livre e do respectivo certificado, mas as licenciadas para construção, alteração ou reclassificação a partir de 11/02/2000 devem atender aos requisitos técnicos para embarcações \"Não SOLAS\" das NORMAM-201 (Cap. 7) ou NORMAM-202 (Cap. 6).",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, art. 3.26, p. 3-9",
+   "quote": "Estas embarcações estão dispensadas de possuir marcas de borda-livre e o respectivo Certificado. Entretanto, as embarcações para as quais tenha sido solicitada Licença de Construção, Licença de Alteração, Reclassificação, a partir de 11/02/2000 deverão atender aos requisitos técnicos para embarcações \"Não SOLAS\"",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. O artigo se aplica a comprimento maior ou igual a 24 m; o veleiro de 32 pés (cerca de 9,75 m) fica abaixo disso."
+  },
+  {
+   "id": "extra-mestre-3-28",
+   "topic": "programa-estabilidade",
+   "claim": "O programa do exame de Mestre-Amador inclui, no item 2.1 e), noções sobre estabilidade e flutuabilidade de uma embarcação.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Anexo 5-A, item 2.1 e), p. 5-A-5",
+   "quote": "Noções sobre de estabilidade e flutuabilidade de uma embarcação.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08 (research/programa_provas.md, seção 5). A redação do original traz \"sobre de\", mantida na citação."
+  }
+ ]
+}

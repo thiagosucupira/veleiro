@@ -1,0 +1,179 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_se-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Texto da NORMAM-211 (Portaria 200/2026) confere; anexo 5-E existe no ZIP de anexos. Índice DPC (reaberto em 2026-10-07) ainda lista Portaria DPC/DGN/MB nº 200 de 27/02/2026 como a vigente, sem portaria posterior.",
+   "evidence_quote": "para a habilitação específica na categoria de ARA, deverá ser apresentado o Atestado de Treinamento Náutico para Arrais-Amador com reconhecimento de firma em cartório, ou assinatura digital pelo GOV.BR"
+  },
+  {
+   "id": "loc_se-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Nota do item 5.4.1 confere com o texto consolidado vigente. Índice DPC (reaberto em 2026-10-07) ainda lista Portaria DPC/DGN/MB nº 200 de 27/02/2026 como a vigente, sem portaria posterior.",
+   "evidence_quote": "poderão ser obtidos mediante treinamento náutico (aulas práticas) em estabelecimentos de treinamento náutico/pessoas físicas devidamente credenciadas nas CP/DL/AG"
+  },
+  {
+   "id": "loc_se-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Definição do item 6.6 confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "Entende-se por Estabelecimento de Treinamento Náutico (ETN) a empresa que ministra treinamentos práticos"
+  },
+  {
+   "id": "loc_se-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 6.7.5 confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "A área de atuação dos ETN-A/PF credenciados ... limita-se aos municípios pertencentes à jurisdição da CP/DL/AG que realizou o seu credenciamento."
+  },
+  {
+   "id": "loc_se-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 6.7.1 confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "o instrutor deverá possuir, no mínimo, dois anos de habilitação nas categorias de ARA, MSA ou CPA"
+  },
+  {
+   "id": "loc_se-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 6.7.4 confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "faixa/placa amarela ... no mínimo 20 (vinte) centímetros de altura, com a inscrição \"TREINAMENTO NÁUTICO\""
+  },
+  {
+   "id": "loc_se-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 6.7.8 confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "o candidato deverá conduzir a embarcação, e o instrutor deverá supervisioná-lo dentro da própria embarcação"
+  },
+  {
+   "id": "loc_se-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 5.5.2 (a, b e parágrafo seguinte) confere; a frase de médio/grande porte é parágrafo sem letra, detalhe de localizador apenas.",
+   "evidence_quote": "A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela. ... ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente."
+  },
+  {
+   "id": "loc_se-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "5.5.2.c.VII confere; Anexo 5-G (declaração de conclusão do curso de Veleiro, referindo o anexo 5-B) idêntico no ZIP de anexos mais novo.",
+   "evidence_quote": "declaração da marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado, conforme constante no anexo 5-G"
+  },
+  {
+   "id": "loc_se-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 6.8 (Seção III, ETN-VLA) confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "poderão organizar cursos em suas sedes, voltados para a formação na categoria de Veleiro devendo, entretanto, serem credenciados junto às CP/DL/AG"
+  },
+  {
+   "id": "loc_se-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Página CPRJ reaberta hoje (atualizada 28/09/2026) traz a observação literal.",
+   "evidence_quote": "OBS: Na jurisdição da Capitania dos Portos do Rio de Janeiro não estão sendo credenciadas pessoas físicas para o fornecimento de atestados."
+  },
+  {
+   "id": "loc_se-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Item 6 CL VELA, Marina da Glória, presente na página CPRJ atual.",
+   "evidence_quote": "6) CL VELA Endereço: Avenida Infante Dom Henrique, s/n°, loja A2 - Marina da Glória -RJ"
+  },
+  {
+   "id": "loc_se-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Item 3 BRISAMAR, Iate Clube do Rio de Janeiro, presente na página CPRJ atual.",
+   "evidence_quote": "3) BRISAMAR Endereço: Avenida Pasteur, n° 333, port 6, loja 4 – Botafogo - Iate Clube do Rio de Janeiro -RJ"
+  },
+  {
+   "id": "loc_se-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Item 5 CEMAR com www.navegart.eco.br presente na página CPRJ atual.",
+   "evidence_quote": "5) CEMAR – Centro de Estudos Marítimos Ltda ... www.navegart.eco.br"
+  },
+  {
+   "id": "loc_se-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Item 15 Náutica Sete Mares, Rua São Clemente, Botafogo, presente na página CPRJ atual.",
+   "evidence_quote": "15) NÁUTICA SETE MARES Endereço: Rua São Clemente, 185/1112 – Botafogo – Rio de Janeiro – RJ"
+  },
+  {
+   "id": "loc_se-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "PDF CPSP (atualizado 29/09/2026; página-índice CPSP atualizada 29/09/2026 17:02) tem o cabeçalho citado e ainda é o link vigente.",
+   "evidence_quote": "Autorizados a emitir Atestados de Treinamento Náutico para as categorias de Arrais Amador e Motonauta"
+  },
+  {
+   "id": "loc_se-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Cusco Baldoso Experiências em Vela Ltda (Santos/SP) consta na lista CPSP atual.",
+   "evidence_quote": "CUSCO BALDOSO EXPERIÊNCIAS EM VELA LTDA"
+  },
+  {
+   "id": "loc_se-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Rede Náutica Ltda (Copacabana-SP, site nauticaguarapiranga.com.br; coluna direita) consta na lista CPSP atual.",
+   "evidence_quote": "REDE NÁUTICA LTDA ... Site: www.nauticaguarapiranga.com.br"
+  },
+  {
+   "id": "loc_se-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Argonauta – Escola Náutica, São Caetano do Sul/SP, consta na lista CPSP atual.",
+   "evidence_quote": "ARGONAUTA – ESCOLA NÁUTICA ... São Caetano Sul – SP."
+  },
+  {
+   "id": "loc_se-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Escola Náutica Bombordo, Rua do Oratório, Mooca, consta na lista CPSP atual.",
+   "evidence_quote": "ESCOLA NÁUTICA BOMBORDO Rua Do Oratório, 1606, sala 709, Mooca – SP"
+  },
+  {
+   "id": "loc_se-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Na Marca – Serviços Marítimos Ltda.-ME, Praça Visconde de Mauá, Santos, consta na lista CPSP atual.",
+   "evidence_quote": "NA MARCA – Serviços Marítimos LTDA.-ME"
+  },
+  {
+   "id": "loc_se-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpes/node/33",
+   "notes": "Página CPES reaberta (atualizada 10/03/2026) lista a escola; título da página usa 'Atestado de Embarque para Arrais-Amador' (terminologia local, a NORMAM fala em atestado de treinamento).",
+   "evidence_quote": "ESCOLA NAUTICA HORIZONTE AZUL LTDA Avenida Maruípe 1135 sala 203, Maruípe, Vitória-ES"
+  },
+  {
+   "id": "loc_se-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfmg/escolas-nauticas",
+   "notes": "Tabela CFMG atual lista a empresa (CNPJ próprio, Ltda); natureza privada decorre do CNPJ/Ltda, não de texto da página.",
+   "evidence_quote": "CAPITANIA TREINAMENTO E ASSESSORIA NÁUTICA LTDA 32.871.314/0001-56 BELO HORIZONTE"
+  },
+  {
+   "id": "loc_se-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfmg/escolas-nauticas",
+   "notes": "Inclusão na tabela CFMG atual confirmada; busca web não achou site próprio (só grupo de Facebook e cadastros de CNPJ), coerente com a nota.",
+   "evidence_quote": "IATISMO KALAPOTHAKIS LTDA 08.861.035/0001-27 BELO HORIZONTE"
+  },
+  {
+   "id": "loc_se-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.feverj.org.br/contato.html",
+   "notes": "Rodapé confere como autodeclaração (não é norma); site da FEVERJ está ativo com calendário de regatas 2026 e avisos/instruções de outubro/2026 na página inicial.",
+   "evidence_quote": "FEVERJ - Federação de Vela do Estado do Rio de Janeiro é a única entidade esportiva autorizada a organizar e realizar regatas e enventos náuticos no estado do Rio de Janeiro."
+  }
+ ]
+}

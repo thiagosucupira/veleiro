@@ -1,0 +1,837 @@
+{
+ "veleiro": {
+  "txt": "NORMAM-211/DPC (Marinha do Brasil)",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "item 2.15.4 (Tipos de Embarcações), tipo 22 \"Veleiro\"",
+  "quote": "Embarcação propelida por um velame (conjunto de velas de tecido de corte e cálculo apropriados) em um ou mais mastros",
+  "outras": [
+   {
+    "txt": "RIPEAM/COLREG 72 consolidado (CCA-IMO, Marinha do Brasil)",
+    "url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+    "loc": "Regra 3 (Definições gerais), alínea (c)",
+    "quote": "O termo “embarcação a vela” designa qualquer embarcação sob vela desde que sua máquina de propulsão, se houver, não esteja em uso."
+   },
+   {
+    "txt": "RIPEAM/COLREG 72 consolidado (CCA-IMO, Marinha do Brasil)",
+    "url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+    "loc": "Regra 3 (Definições gerais), alínea (b)",
+    "quote": "O termo “embarcação de propulsão mecânica” designa qualquer embarcação movimentada por meio de máquinas ou motores."
+   }
+  ],
+  "verificado": true
+ },
+ "sloop": {
+  "txt": "Wikipedia EN, \"Sloop\"",
+  "url": "https://en.wikipedia.org/wiki/Sloop",
+  "loc": "abertura do artigo",
+  "quote": "a sloop is a sailboat with a single mast generally having only one headsail in front of the mast and one mainsail abaft (behind) the mast",
+  "verificado": true
+ },
+ "cutter": {
+  "txt": "Wikipedia EN, \"Cutter (boat)\"",
+  "url": "https://en.wikipedia.org/wiki/Cutter_(boat)",
+  "loc": "abertura do artigo, parágrafo sobre o aparelho",
+  "quote": "As a sailing rig, a cutter is a single-masted boat, with two or more headsails.",
+  "verificado": true
+ },
+ "ketch": {
+  "txt": "Wikipedia EN, \"Ketch\"",
+  "url": "https://en.wikipedia.org/wiki/Ketch",
+  "loc": "abertura do artigo",
+  "quote": "The mizzen mast being stepped forward of the rudder post is what distinguishes the ketch from a yawl, which has its mizzen mast stepped aft of its rudder post.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Ketch\"",
+    "url": "https://pt.wikipedia.org/wiki/Ketch",
+    "loc": "abertura do artigo",
+    "quote": "Diferencia-se do yawl pela maior altura do mastro de mezena e por este se situar à frente (à vante) da roda do leme."
+   }
+  ],
+  "verificado": true
+ },
+ "catamara": {
+  "txt": "NORMAM-211/DPC (Marinha do Brasil)",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "item 2.15.4 (Tipos de Embarcações), tipo 18 \"Multicasco\"",
+  "quote": "Embarcação constituída de dois ou três cascos paralelos ligados",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Catamaran\"",
+    "url": "https://en.wikipedia.org/wiki/Catamaran",
+    "loc": "seção \"Performance characteristics\"",
+    "quote": "lower resistance to passage through the water and greater stability (initial resistance to capsize)"
+   },
+   {
+    "txt": "Wikipedia EN, \"Capsizing\"",
+    "url": "https://en.wikipedia.org/wiki/Capsizing",
+    "loc": "seção sobre desvirar (\"righting\") veleiros",
+    "quote": "there is a chance that the boat will turtle and then become extremely difficult to recover without assistance"
+   }
+  ],
+  "verificado": true
+ },
+ "monocasco": {
+  "txt": "Wikipédia PT, \"Monocasco\"",
+  "url": "https://pt.wikipedia.org/wiki/Monocasco",
+  "loc": "abertura do artigo",
+  "quote": "O monocasco é um tipo de embarcação que apresenta um casco único.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Monohull\"",
+    "url": "https://en.wikipedia.org/wiki/Monohull",
+    "loc": "seção \"Fundamental concept\"",
+    "quote": "Adding weight or ballast to the bottom of the hull or as low as possible within the hull adds stability."
+   }
+  ],
+  "verificado": true
+ },
+ "mastro": {
+  "txt": "Wikipédia PT, \"Mastro (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Mastro_(n%C3%A1utica)",
+  "loc": "abertura do artigo",
+  "quote": "designa a(s) longa(s) peça(s) vertical(is) que nas embarcações a vela sustenta(m) a retranca, as cruzetas e o velame",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Mastro (náutica)\"",
+    "url": "https://pt.wikipedia.org/wiki/Mastro_(n%C3%A1utica)",
+    "loc": "seção \"Fixação e cablagem de suporte\"",
+    "quote": "reforçados na posição vertical por cabos chamados estais (à proa e à popa) e brandais (às laterais do casco)"
+   }
+  ],
+  "verificado": true
+ },
+ "tope-do-mastro": {
+  "txt": "Infopédia (Dicionário da Língua Portuguesa, Porto Editora), \"tope\"",
+  "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa-aao/tope",
+  "loc": "verbete \"tope\", acepção 8",
+  "quote": "NÁUTICA parte superior do mastro",
+  "outras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa, \"garlindéu\"",
+    "url": "https://dicionario.priberam.org/garlind%C3%A9u",
+    "loc": "verbete \"garlindéu\"",
+    "quote": "Aro, no topo do mastro, em que se enfia o mastaréu, os cadernais das adriças, etc."
+   },
+   {
+    "txt": "Wikipedia EN, \"Mast (sailing)\"",
+    "url": "https://en.wikipedia.org/wiki/Mast_(sailing)",
+    "loc": "abertura do artigo",
+    "quote": "It may also give necessary height to a navigation light, look-out position, signal yard, control position, radio aerial, or signal lamp."
+   }
+  ],
+  "verificado": true
+ },
+ "retranca": {
+  "txt": "Wikipédia PT, \"Retranca\"",
+  "url": "https://pt.wikipedia.org/wiki/Retranca",
+  "loc": "abertura do artigo",
+  "quote": "Retranca é um termo náutico que designa a verga inferior, presa a ré do mastro a 90° no sentido proa-popa e que serve de suporte à esteira da vela grande.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Retranca\"",
+    "url": "https://pt.wikipedia.org/wiki/Retranca",
+    "loc": "abertura do artigo, último parágrafo",
+    "quote": "oferecendo perigo ao(s) velejador(es) quando atirada com violência de um lado ao outro pelas fortes rajadas de vento ou por mudança de bordo"
+   }
+  ],
+  "verificado": true
+ },
+ "estai": {
+  "txt": "Wikipédia PT, \"Estai\"",
+  "url": "https://pt.wikipedia.org/wiki/Estai",
+  "loc": "abertura do artigo",
+  "quote": "cada um dos cabos, normalmente de aço, que, colocados no sentido longitudinal (também dito o sentido da vante), fixam a mastreação na proa. São parte do aparelho fixo.",
+  "verificado": true
+ },
+ "estai-de-popa": {
+  "txt": "Wikipédia PT, \"Estai\"",
+  "url": "https://pt.wikipedia.org/wiki/Estai",
+  "loc": "abertura do artigo",
+  "quote": "O estai do mastro para a popa designa-se como contraestai, sendo que também se usa o termo inglês backstay.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Brandal\"",
+    "url": "https://pt.wikipedia.org/wiki/Brandal",
+    "loc": "seção \"Nomenclatura\"",
+    "quote": "Contra-estai ou Estai de popa"
+   }
+  ],
+  "verificado": true
+ },
+ "brandal": {
+  "txt": "Wikipédia PT, \"Brandal\"",
+  "url": "https://pt.wikipedia.org/wiki/Brandal",
+  "loc": "abertura do artigo",
+  "quote": "cada um dos cabos, normalmente em aço, que servem para fixar o mastro no sentido transversal",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Ovém\"",
+    "url": "https://pt.wikipedia.org/wiki/Ov%C3%A9m",
+    "loc": "abertura do artigo",
+    "quote": "Juntamente com os brandais, os ovéns, e os estais constituem a enxárcia."
+   }
+  ],
+  "verificado": true
+ },
+ "cruzeta": {
+  "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"spreader\"",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+  "loc": "verbete \"spreader\"",
+  "quote": "A spar on a sailboat used to deflect the shrouds to allow them to better support the mast.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Shroud (sailing)\"",
+    "url": "https://en.wikipedia.org/wiki/Shroud_(sailing)",
+    "loc": "segundo parágrafo",
+    "quote": "a structure projecting from the mast must be used to increase the angle of the shroud at the attachment point, providing more support to the mast. On most sailing boats, such structures are called spreaders"
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: trecho da fonte primaria (\"A spar on a sailboat used to deflect the shrouds...\") NAO esta na pagina citada (Glossary of nautical terms A-L); o verbete \"spreader\" esta em outra secao da lista. Fonte secundaria (Shroud (sailing)) confirma o conceito, mas a citacao primaria esta errada."
+ },
+ "esticador": {
+  "txt": "Wikipédia PT, \"Esticador\"",
+  "url": "https://pt.wikipedia.org/wiki/Esticador",
+  "loc": "abertura do artigo",
+  "quote": "Esticador é em náutica uma peça metálica aplicada ao chicote de certos cabos para os atesarem.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Esticador\"",
+    "url": "https://pt.wikipedia.org/wiki/Esticador",
+    "loc": "abertura do artigo",
+    "quote": "regula-se a tensão do cabo como o ovém ou a estai"
+   }
+  ],
+  "verificado": true
+ },
+ "chapa-de-brandal": {
+  "txt": "Wikipedia EN, \"Chainplate\"",
+  "url": "https://en.wikipedia.org/wiki/Chainplate",
+  "loc": "abertura do artigo",
+  "quote": "A chainplate is a metal plate used to fasten a shroud or stay to the hull of a sailboat to support the mast that sails are attached to.",
+  "verificado": true
+ },
+ "enora": {
+  "txt": "Wikipédia PT, \"Enora\"",
+  "url": "https://pt.wikipedia.org/wiki/Enora",
+  "loc": "artigo inteiro",
+  "quote": "Enora é a abertura por onde o mastro passa pelo convés e cobertas, ou nas embarcações miúdas pelos bancos, para alcançarem a carlinga.",
+  "outras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa, \"enora\"",
+    "url": "https://dicionario.priberam.org/enora",
+    "loc": "verbete \"enora\", acepção 1",
+    "quote": "Abertura na coberta para dar passagem ao mastro."
+   }
+  ],
+  "verificado": true
+ },
+ "carlinga": {
+  "txt": "Dicionário Priberam da Língua Portuguesa, \"carlinga\"",
+  "url": "https://dicionario.priberam.org/carlinga",
+  "loc": "verbete \"carlinga\", acepção 1",
+  "quote": "Encaixe na sobrequilha para receber a extremidade do mastro.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"mast step\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"mast step\"",
+    "quote": "The place in the hull where the lowest point of a mast rests, taking the weight of the mast"
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: fonte primaria (Priberam, \"carlinga\") confirmada, mas o trecho da segunda fonte (\"The place in the hull where the lowest point of a mast rests...\", verbete \"mast step\") NAO esta na pagina citada (Glossary A-L); o verbete esta em outra secao da lista."
+ },
+ "aparelho-fixo": {
+  "txt": "Wikipédia PT, \"Aparelho (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Aparelho_(n%C3%A1utica)",
+  "loc": "seção \"Manobra fixa\"",
+  "quote": "constituído pelo cordame que serve a fixar a mastreação e resta imóvel uma vez usado para o fim a que foi destinado como é o caso do estai, brandal, enxárcia",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"standing rigging\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"standing rigging\"",
+    "quote": "Rigging that supports masts and spars and is not manipulated during normal operations."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: fonte primaria (PT Wikipedia, Aparelho) confirmada, mas o trecho da segunda fonte (\"Rigging that supports masts and spars...\", verbete \"standing rigging\") NAO esta na pagina citada (Glossary A-L); o verbete esta em outra secao da lista."
+ },
+ "aparelho-de-laborar": {
+  "txt": "Wikipédia PT, \"Aparelho (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Aparelho_(n%C3%A1utica)",
+  "loc": "seção \"Manobra corrente\"",
+  "quote": "é o conjunto da cordame (cordoalha) que serve para manobrar as velas",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"running rigging\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"running rigging\"",
+    "quote": "Rigging used to manipulate sails, spars, etc. in order to control the movement of a sailing vessel."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: fonte primaria (PT Wikipedia, Aparelho) confirmada, mas o trecho da segunda fonte (\"Rigging used to manipulate sails...\", verbete \"running rigging\") NAO esta na pagina citada (Glossary A-L); o verbete esta em outra secao da lista."
+ },
+ "adrica": {
+  "txt": "Dicionário Priberam da Língua Portuguesa, \"adriça\"",
+  "url": "https://dicionario.priberam.org/adri%C3%A7a",
+  "loc": "verbete \"adriça\"",
+  "quote": "Cabo para içar velas, vergas, mastros ou outras peças a bordo.",
+  "outras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa, \"adriça\"",
+    "url": "https://dicionario.priberam.org/adri%C3%A7a",
+    "loc": "verbete \"adriça\"",
+    "quote": "Cabo para içar bandeiras."
+   }
+  ],
+  "verificado": true
+ },
+ "escota": {
+  "txt": "Wikipédia PT, \"Escota\"",
+  "url": "https://pt.wikipedia.org/wiki/Escota",
+  "loc": "abertura do artigo",
+  "quote": "cabo usado para trabalhar com uma vela, como por exemplo o cabo fixo à retranca ou ao punho da escota através da qual se controla a abertura da vela em relação ao vento",
+  "verificado": true
+ },
+ "amantilho": {
+  "txt": "Wikipédia PT, \"Amantilho\"",
+  "url": "https://pt.wikipedia.org/wiki/Amantilho",
+  "loc": "abertura do artigo",
+  "quote": "Amantilho em náutica é um cabo que mantém suspenso o pau do spi ou a retranca",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Topping lift\"",
+    "url": "https://en.wikipedia.org/wiki/Topping_lift",
+    "loc": "abertura do artigo",
+    "quote": "primarily used to hold a boom up when the sail is lowered"
+   }
+  ],
+  "verificado": true
+ },
+ "burro": {
+  "txt": "Wikipédia PT, \"Aparelho (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Aparelho_(n%C3%A1utica)",
+  "loc": "seção \"Manobra corrente\"",
+  "quote": "burro - serve a manter a retranca na horizontal, e é o contrário do amantilho.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Boom vang\"",
+    "url": "https://en.wikipedia.org/wiki/Boom_vang",
+    "loc": "abertura do artigo",
+    "quote": "is a line or piston system on a sailboat used to exert downward force on the boom and thus control the shape of the sail"
+   }
+  ],
+  "verificado": true
+ },
+ "garlindeu": {
+  "txt": "Wikipédia PT, \"Garlindéu\"",
+  "url": "https://pt.wikipedia.org/wiki/Garlind%C3%A9u",
+  "loc": "artigo inteiro",
+  "quote": "Na retranca, une-a ao mastro e funciona como um elo giratório que permite à retranca mover-se para cima, para baixo e de um lado para o outro.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"gooseneck\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"gooseneck\"",
+    "quote": "A fitting that attaches a boom to a mast yet allows it to move freely."
+   }
+  ],
+  "verificado": true
+ },
+ "carril": {
+  "txt": "Wikipedia EN, \"Traveller (nautical fitting)\"",
+  "url": "https://en.wikipedia.org/wiki/Traveller_(nautical_fitting)",
+  "loc": "segundo parágrafo",
+  "quote": "A traveller is used to modify the location at which lines used to control sails (such as sheets) are attached to the vessel.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Traveller (nautical fitting)\"",
+    "url": "https://en.wikipedia.org/wiki/Traveller_(nautical_fitting)",
+    "loc": "segundo parágrafo",
+    "quote": "This kind of traveller is often a metal track"
+   }
+  ],
+  "verificado": true
+ },
+ "catraca": {
+  "txt": "Wikipedia EN, \"Winch\"",
+  "url": "https://en.wikipedia.org/wiki/Winch",
+  "loc": "abertura do artigo",
+  "quote": "In its simplest form, it consists of a spool (or drum) attached to a hand crank.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"winch\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"winch\"",
+    "quote": "A mechanical device for pulling on a rope (such as a sheet or halyard), usually equipped with a pawl to assist in control. It may be hand-operated or powered."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: fonte primaria (Wikipedia EN, Winch) confirmada, mas o trecho da segunda fonte (\"A mechanical device for pulling on a rope...\", verbete \"winch\") NAO esta na pagina citada (Glossary A-L); o verbete esta em outra secao da lista."
+ },
+ "manivela-da-catraca": {
+  "txt": "Wikipedia EN, \"Winch\"",
+  "url": "https://en.wikipedia.org/wiki/Winch",
+  "loc": "abertura do artigo",
+  "quote": "In its simplest form, it consists of a spool (or drum) attached to a hand crank.",
+  "verificado": true
+ },
+ "mordedor": {
+  "txt": "Wikipédia PT, \"Mordedor\"",
+  "url": "https://pt.wikipedia.org/wiki/Mordedor",
+  "loc": "abertura do artigo",
+  "quote": "O mordedor é em náutica uma peça em plástico ou em metal que impede um cabo de correr. Utilizados para morder ou estalar uma escota ou uma adriça",
+  "outras": [
+   {
+    "txt": "Infopédia (Dicionário da Língua Portuguesa, Porto Editora), \"mordedor\"",
+    "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa-aao/mordedor",
+    "loc": "verbete \"mordedor\", nome masculino 1",
+    "quote": "NÁUTICA peça usada para impedir o corrimento de um cabo"
+   }
+  ],
+  "verificado": true
+ },
+ "moitao": {
+  "txt": "Dicionário Priberam da Língua Portuguesa, \"moitão\"",
+  "url": "https://dicionario.priberam.org/moit%C3%A3o",
+  "loc": "verbete \"moitão\" 1",
+  "quote": "Peça de madeira ou de metal, suspensa de alto, e pela qual desliza um cabo ou uma corrente que pode levantar grandes pesos.",
+  "outras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa, \"cadernal\"",
+    "url": "https://dicionario.priberam.org/cadernal",
+    "loc": "verbete \"cadernal\", acepção 2",
+    "quote": "Peça ou encaixe do poleame que contém duas ou mais aberturas, onde trabalham duas ou mais roldanas"
+   },
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"block\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"block\"",
+    "quote": "A pulley with one or more sheaves or grooves over which a line is roved. It can be used to change the direction of the line, or in pairs used to form a tackle."
+   }
+  ],
+  "verificado": true
+ },
+ "patesca": {
+  "txt": "Infopédia (Dicionário da Língua Portuguesa, Porto Editora), \"patesca\"",
+  "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa-aao/patesca",
+  "loc": "verbete \"patesca\", nome feminino",
+  "quote": "NÁUTICA peça semelhante ao moitão, com uma só roldana",
+  "outras": [
+   {
+    "txt": "Real Academia Española, DLE, \"pasteca\" (cognato espanhol de patesca)",
+    "url": "https://dle.rae.es/pasteca",
+    "loc": "verbete \"pasteca\"",
+    "quote": "Especie de motón herrado, con una abertura en uno de los lados de su caja, para que pase el cabo con que se ha de trabajar."
+   },
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"snatch block\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"snatch block\"",
+    "quote": "A block with one cheek that is hinged, so that the bight of a rope can be inserted in the block (as opposed to threading the end of the rope into an ordinary block)."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: fontes primaria (Infopedia) e Real Academia (DLE, pasteca) confirmadas, mas o trecho da terceira fonte (\"A block with one cheek that is hinged...\", verbete \"snatch block\") NAO esta na pagina citada (Glossary A-L); o verbete esta em outra secao da lista."
+ },
+ "talha": {
+  "txt": "Dicionário Priberam da Língua Portuguesa, \"talha\"",
+  "url": "https://dicionario.priberam.org/talha",
+  "loc": "verbete \"talha\", acepção 17",
+  "quote": "Aparelho composto de moutão e de cadernal, com cabo gornido ora em um ora em outro alternadamente.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"tackle\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"tackle\"",
+    "quote": "A pair of blocks through which is rove a rope to provide an advantageous purchase. Used for lifting heavy loads and to raise and trim sails."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: fonte primaria (Priberam, talha, acepcao 17) confirmada, mas o trecho da segunda fonte (\"A pair of blocks through which is rove a rope...\", verbete \"tackle\") NAO esta na pagina citada (Glossary A-L); o verbete esta em outra secao da lista."
+ },
+ "manilha": {
+  "txt": "Wikipédia PT, \"Manilha\"",
+  "url": "https://pt.wikipedia.org/wiki/Manilha",
+  "loc": "abertura do artigo",
+  "quote": "A manilha é uma peça em aço forjado ou outra liga metálica para unir ou fixar cabos. Em forma de U, de lira ou redondo é fechado com um pino rosqueado",
+  "verificado": true
+ },
+ "mosquetao": {
+  "txt": "Wikipedia EN, \"Carabiner\"",
+  "url": "https://en.wikipedia.org/wiki/Carabiner",
+  "loc": "abertura do artigo",
+  "quote": "a specialized type of shackle, a metal loop with a spring-loaded gate used to quickly and reversibly connect components",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Carabiner\"",
+    "url": "https://en.wikipedia.org/wiki/Carabiner",
+    "loc": "seção \"Use\"",
+    "quote": "Carabiners are widely used in rope-intensive activities such as climbing, fall arrest systems, arboriculture, caving, sailing"
+   }
+  ],
+  "verificado": true
+ },
+ "sapatilho": {
+  "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"thimble\"",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+  "loc": "verbete \"thimble\"",
+  "quote": "A round or heart-shaped grooved ring of iron inserted into an eye-splice.",
+  "outras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa, \"sapatilho\"",
+    "url": "https://dicionario.priberam.org/sapatilho",
+    "loc": "verbete \"sapatilho\", acepção 2",
+    "quote": "Aro de ferro que se aguenta nos punhos das velas, etc."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao independente: fonte secundaria (Priberam, sapatilho) confirmada, mas o trecho da fonte primaria (\"A round or heart-shaped grooved ring of iron...\", verbete \"thimble\") NAO esta na pagina citada (Glossary A-L); o verbete esta em outra secao da lista."
+ },
+ "pau-de-spinnaker": {
+  "txt": "Wikipedia EN, \"Spinnaker pole\"",
+  "url": "https://en.wikipedia.org/wiki/Spinnaker_pole",
+  "loc": "abertura do artigo",
+  "quote": "A spinnaker pole is a spar used in sailboats (both dinghies and yachts) to help support and control a variety of headsails, particularly the spinnaker.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Spinnaker pole\"",
+    "url": "https://en.wikipedia.org/wiki/Spinnaker_pole",
+    "loc": "seção \"Rigging\"",
+    "quote": "out to windward over the side of the boat"
+   }
+  ],
+  "verificado": true
+ },
+ "gurupes": {
+  "txt": "Wikipédia PT, \"Gurupés\"",
+  "url": "https://pt.wikipedia.org/wiki/Gurup%C3%A9s",
+  "loc": "artigo inteiro",
+  "quote": "Gurupés são mastros fixos que se projetam, quase na horizontal (obliquamente), para vante da proa (parte dianteira da embarcação) de um navio.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Bowsprit\"",
+    "url": "https://en.wikipedia.org/wiki/Bowsprit",
+    "loc": "abertura do artigo",
+    "quote": "The bowsprit of a sailing vessel is a spar extending forward from the vessel's prow."
+   },
+   {
+    "txt": "NORMAM-211/DPC (Marinha do Brasil)",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "item 1.7 (Definições), \"Comprimento da embarcação\"",
+    "quote": "Plataformas de mergulho, gurupés ou apêndices similares não são considerados para o cômputo dessa medida."
+   }
+  ],
+  "verificado": true
+ },
+ "biruta": {
+  "txt": "Dicionário Priberam da Língua Portuguesa, \"biruta\"",
+  "url": "https://dicionario.priberam.org/biruta",
+  "loc": "verbete \"biruta\", acepção 1",
+  "quote": "Dispositivo que consiste numa espécie de saco cónico de tecido colocado no alto de um mastro para indicar a direcção e intensidade do vento.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Sail components\"",
+    "url": "https://en.wikipedia.org/wiki/Sail_components",
+    "loc": "seção \"Tell-tales\"",
+    "quote": "Tell-tales are pieces of yarn, thread or tape that are affixed to sails to help visualize airflow over their surfaces."
+   }
+  ],
+  "verificado": true
+ },
+ "enrolador": {
+  "txt": "Wikipedia EN, \"Roller furling\"",
+  "url": "https://en.wikipedia.org/wiki/Roller_furling",
+  "loc": "abertura do artigo",
+  "quote": "Roller furling is a method of furling (i.e. reefing) a yacht's staysail by rolling the sail around a stay.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Roller furling\"",
+    "url": "https://en.wikipedia.org/wiki/Roller_furling",
+    "loc": "abertura do artigo",
+    "quote": "A mainsail may also be furled by a similar system, whereby the sail is furled within the mast or around a rotating boom"
+   }
+  ],
+  "verificado": true
+ },
+ "vela-grande": {
+  "txt": "Wikipédia PT, \"Vela grande\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_grande",
+  "loc": "artigo inteiro",
+  "quote": "A vela grande ou vela mestra é um termo náutico que designa a vela situada atrás do mastro de um navio, à vela principal.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Vela grande\"",
+    "url": "https://pt.wikipedia.org/wiki/Vela_grande",
+    "loc": "artigo inteiro",
+    "quote": "mantida por duas de suas bordos: ao mastro pela testa (2) e à retranca pela esteira (1)"
+   }
+  ],
+  "verificado": true
+ },
+ "vela-de-proa": {
+  "txt": "Wikipédia PT, \"Vela de estai\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_de_estai",
+  "loc": "abertura do artigo",
+  "quote": "A vela de estai em náutica, numa embarcação, é a vela situada à proa, frente ao mastro vertical mais de vante.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Vela de estai\"",
+    "url": "https://pt.wikipedia.org/wiki/Vela_de_estai",
+    "loc": "abertura do artigo",
+    "quote": "Dentre os tipos de velas de estai, podemos citar genoa e bujarrona."
+   }
+  ],
+  "verificado": true
+ },
+ "genoa": {
+  "txt": "Wikipédia PT, \"Genoa (vela)\"",
+  "url": "https://pt.wikipedia.org/wiki/Genoa_(vela)",
+  "loc": "abertura do artigo",
+  "quote": "De dimensões superiores às da vela de estai, a genoa caracteriza-se por ultrapassar a linha do mastro",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Genoa (sail)\"",
+    "url": "https://en.wikipedia.org/wiki/Genoa_(sail)",
+    "loc": "abertura do artigo",
+    "quote": "A genoa sail is a type of large jib or staysail that extends past the mast and so overlaps the main sail when viewed from the side, sometimes eliminating it."
+   }
+  ],
+  "verificado": true
+ },
+ "buja": {
+  "txt": "Wikipedia EN, \"Jib\"",
+  "url": "https://en.wikipedia.org/wiki/Jib",
+  "loc": "abertura do artigo",
+  "quote": "A jib is a triangular sail that sets ahead of the foremast of a sailing vessel.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Genoa (sail)\"",
+    "url": "https://en.wikipedia.org/wiki/Genoa_(sail)",
+    "loc": "seção \"Definition\"",
+    "quote": "A working jib is no larger than 100% of the foretriangle. A genoa is larger, with the leech going past the mast and overlapping the mainsail."
+   },
+   {
+    "txt": "Infopédia (Dicionário da Língua Portuguesa, Porto Editora), \"bujarrona\"",
+    "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa-aao/bujarrona",
+    "loc": "verbete \"bujarrona\", acepção 1 (a buja brasileira)",
+    "quote": "NÁUTICA vela triangular içada à proa"
+   }
+  ],
+  "verificado": true
+ },
+ "balao": {
+  "txt": "Wikipédia PT, \"Spinnaker\"",
+  "url": "https://pt.wikipedia.org/wiki/Spinnaker",
+  "loc": "abertura do artigo",
+  "quote": "O Spinnaker (Spi) ou Balão é um tipo de vela de grandes dimensões que se iça nos barcos à vela à frente do mastro, quando a embarcação navega na direção do vento, popa ou popa rasada.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Spinnaker\"",
+    "url": "https://pt.wikipedia.org/wiki/Spinnaker",
+    "loc": "seção \"Características\"",
+    "quote": "o spi tem como característica não utilizar o estai mas só estar preso no alto do mastro"
+   }
+  ],
+  "verificado": true
+ },
+ "gennaker": {
+  "txt": "Wikipedia EN, \"Gennaker\"",
+  "url": "https://en.wikipedia.org/wiki/Gennaker",
+  "loc": "abertura do artigo",
+  "quote": "The gennaker is rigged like a spinnaker but the tack is fastened to the hull or to a bowsprit.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Gennaker\"",
+    "url": "https://en.wikipedia.org/wiki/Gennaker",
+    "loc": "abertura do artigo",
+    "quote": "It is not symmetric like a true spinnaker but is asymmetric like a genoa"
+   }
+  ],
+  "verificado": true
+ },
+ "tormentim": {
+  "sem_fonte": "Nenhuma fonte reconhecida define \"tormentim\" como vela de proa de tempestade. Tentado: Priberam, Michaelis e Infopédia (sem verbete ou sem esse sentido), Wikcionário PT (sem verbete), Wikipédia PT (sem artigo), NORMAM-211 e acervo local (sem ocorrência), buscas na web (só \"buja/bujarrona de tempestade\", \"storm jib\"). O DLE espanhol dá \"tormentín\" como pequeno mastro sobre o gurupés, sentido histórico diferente. O conceito (vela de proa pequena e robusta para vento forte) existe em storm jib (Wikipedia EN, Jib), mas a equivalência do nome em PT-BR não foi confirmada por fonte."
+ },
+ "testa": {
+  "txt": "Wikipédia PT, \"Vela (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_(n%C3%A1utica)",
+  "loc": "seção \"Ângulos e lados\"",
+  "quote": "Testa que entra no mastro (6)",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"luff\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"luff\", acepção 1",
+    "quote": "The forward edge of a sail."
+   }
+  ],
+  "verificado": true
+ },
+ "valuma": {
+  "txt": "Wikipédia PT, \"Valuma\"",
+  "url": "https://pt.wikipedia.org/wiki/Valuma",
+  "loc": "abertura do artigo",
+  "quote": "Valuma é o termo náutico que designa o bordo de fuga da vela, a parte de trás, mais próxima à popa",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Valuma\"",
+    "url": "https://pt.wikipedia.org/wiki/Valuma",
+    "loc": "abertura do artigo",
+    "quote": "A valuma estende-se do punho da adriça (ponta superior da vela) ao punho da escota (ponta ínfero-exterior da vela)."
+   }
+  ],
+  "verificado": true
+ },
+ "esteira": {
+  "txt": "Wikipédia PT, \"Vela (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_(n%C3%A1utica)",
+  "loc": "seção \"Ângulos e lados\"",
+  "quote": "Esteira geralmente fixa à retranca (11)",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Sail components\"",
+    "url": "https://en.wikipedia.org/wiki/Sail_components",
+    "loc": "abertura da seção \"Edges\"",
+    "quote": "the bottom edge is the foot"
+   }
+  ],
+  "verificado": true
+ },
+ "punho-da-adrica": {
+  "txt": "Wikipédia PT, \"Vela (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_(n%C3%A1utica)",
+  "loc": "seção \"Ângulos e lados\"",
+  "quote": "Punho da pena ou de adriça — punho por onde a vela é içada (1)",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Sail components\"",
+    "url": "https://en.wikipedia.org/wiki/Sail_components",
+    "loc": "seção sobre os cantos (reforços)",
+    "quote": "the halyard at the head"
+   }
+  ],
+  "verificado": true
+ },
+ "punho-da-amura": {
+  "txt": "Wikipédia PT, \"Vela (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_(n%C3%A1utica)",
+  "loc": "seção \"Ângulos e lados\"",
+  "quote": "Punho da amura — punho junto ao mastro (10)",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Sail components\"",
+    "url": "https://en.wikipedia.org/wiki/Sail_components",
+    "loc": "seção \"Tack\"",
+    "quote": "The tack is the corner on a fore-and-aft sail where the luff and foot connect and, on a mainsail, is located where the boom and mast connect."
+   }
+  ],
+  "verificado": true
+ },
+ "punho-da-escota": {
+  "txt": "Wikipédia PT, \"Vela (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_(n%C3%A1utica)",
+  "loc": "seção \"Ângulos e lados\"",
+  "quote": "Punho da escota — punho onde se prendem os cabos de manobra (12) (junto à escota da vela grande)",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Sail components\"",
+    "url": "https://en.wikipedia.org/wiki/Sail_components",
+    "loc": "seção \"Clew\"",
+    "quote": "On a jib, the sheet is connected to the clew; on a mainsail, the sheet is connected to the boom (if present) near the clew."
+   }
+  ],
+  "verificado": true
+ },
+ "tralha": {
+  "txt": "Infopédia (Dicionário da Língua Portuguesa, Porto Editora), \"tralha\"",
+  "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa-aao/tralha",
+  "loc": "verbete \"tralha\", acepção 2",
+  "quote": "NÁUTICA cabo com que se reforçam e circundam velas e redes",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Bolt rope\"",
+    "url": "https://en.wikipedia.org/wiki/Bolt_rope",
+    "loc": "abertura do artigo",
+    "quote": "is the rope that is sewn at the edges of the sail to reinforce them, or to fix the sail into a groove in the boom or in the mast"
+   }
+  ],
+  "verificado": true
+ },
+ "tala": {
+  "txt": "Wikipédia PT, \"Valuma\"",
+  "url": "https://pt.wikipedia.org/wiki/Valuma",
+  "loc": "segundo parágrafo",
+  "quote": "É na valuma que se encontram as bolsas de talas, onde são inseridas as talas, também conhecidas por réguas e que conferem maior rigidez e estabilidade à vela.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Sail components\"",
+    "url": "https://en.wikipedia.org/wiki/Sail_components",
+    "loc": "seção \"Battens\"",
+    "quote": "A sail batten is a flexible insert in a fore-and-aft sail that provides added stiffness and definition to the sail's airfoil cross-section."
+   }
+  ],
+  "verificado": true
+ },
+ "rizo": {
+  "txt": "Wikipédia PT, \"Vela (náutica)\"",
+  "url": "https://pt.wikipedia.org/wiki/Vela_(n%C3%A1utica)",
+  "loc": "seção \"Ângulos e lados\"",
+  "quote": "Para reduzir a área vélica utilizam-se os rizes (9) a fim de diminuir a sua superfície quando o vento se levanta",
+  "outras": [
+   {
+    "txt": "Dicionário Priberam da Língua Portuguesa, \"rizar\"",
+    "url": "https://dicionario.priberam.org/rizar",
+    "loc": "verbete \"rizar\"",
+    "quote": "Meter nos rizes para diminuir a superfície do pano da vela exposta ao vento"
+   },
+   {
+    "txt": "Wikipedia EN, \"Sail components\"",
+    "url": "https://en.wikipedia.org/wiki/Sail_components",
+    "loc": "seção \"Reefing points\"",
+    "quote": "Different categories of sails are reefed (reduced in size) in different manners and therefore have different fixtures that achieve shortening of sail."
+   }
+  ],
+  "verificado": true
+ },
+ "bolsa-da-vela": {
+  "txt": "Wikipedia EN, \"Sail components\"",
+  "url": "https://en.wikipedia.org/wiki/Sail_components",
+  "loc": "seção \"Draft\"",
+  "quote": "have depth, known as draft or draught, which results from the luff and foot being curved, rather than straight as they are attached to those spars. Draft creates a more efficient airfoil shape for the sail.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, \"Vela (náutica)\"",
+    "url": "https://pt.wikipedia.org/wiki/Vela_(n%C3%A1utica)",
+    "loc": "seção \"Vento e vela\"",
+    "quote": "Vento ligeiro, vela cheia. Vento forte, vela lisa."
+   }
+  ],
+  "verificado": true
+ },
+ "enfunar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa, \"enfunar\"",
+  "url": "https://dicionario.priberam.org/enfunar",
+  "loc": "verbete \"enfunar\", acepção 1",
+  "quote": "Tornar bojudo ou pando (ex.: o vento vai enfunar as velas",
+  "verificado": true
+ },
+ "panejar": {
+  "txt": "Dicionário Priberam da Língua Portuguesa, \"panejar\"",
+  "url": "https://dicionario.priberam.org/panejar",
+  "loc": "verbete \"panejar\", acepção 3",
+  "quote": "Agitar-se (o pano do navio, por não receber vento).",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, \"Glossary of nautical terms\", verbete \"luffing\"",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "loc": "verbete \"luffing\", acepção 2",
+    "quote": "Loosening a sheet so far past optimal trim that the sail no longer completely fills with wind."
+   }
+  ],
+  "verificado": true
+ }
+}

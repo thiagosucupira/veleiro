@@ -1,0 +1,100 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_ext-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/",
+   "notes": "Texto de abertura da página confere literalmente."
+  },
+  {
+   "id": "loc_ext-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/west-coast-lisbon-sailing-centre/",
+   "notes": "Seção ICCTestCentre e texto sobre testes do ICC confere na página do centro."
+  },
+  {
+   "id": "loc_ext-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=32.64&lng=-16.91",
+   "notes": "Refetch confirmou HelmsmenClub Canary (28.4711,-16.2758) como 1º item; distância recalculada ~466 km e nenhum centro na Madeira na lista."
+  },
+  {
+   "id": "loc_ext-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=37.74&lng=-25.67",
+   "notes": "Refetch confirmou HelmsmenClub Canary como 1º item; ~1.300-1.350 km coerente, sem centro nos Açores."
+  },
+  {
+   "id": "loc_ext-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=28.13&lng=-15.43",
+   "notes": "Refetch confirmou HelmsmenClub Canary 1º; ~91 km confere, sem centro em Gran Canária."
+  },
+  {
+   "id": "loc_ext-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=16.89&lng=-24.99",
+   "notes": "Refetch confirmou Club Yachting (Tenerife) como 1º; ~1.500 km confere, sem centro em Cabo Verde."
+  },
+  {
+   "id": "loc_ext-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=14.08&lng=-60.95",
+   "notes": "Refetch confirmou Grenada Bluewater Sailing como 1º; ~242 km confere."
+  },
+  {
+   "id": "loc_ext-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/schools/st-lucia/",
+   "notes": "Página diz \"2 american sailing schools in st lucia\": Sandals Grande St. Lucian e BodyHoliday."
+  },
+  {
+   "id": "loc_ext-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://portosdosacores.pt/marinas/marina-da-horta/",
+   "notes": "Características da marina listam 240 postos de acostagem."
+  },
+  {
+   "id": "loc_ext-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://portosdosacores.pt/marinas/marina-da-horta/",
+   "notes": "VHF 10/16, indicativo hortamarina e calado 4,0 m constam na página."
+  },
+  {
+   "id": "loc_ext-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://marinamindelo.cv/",
+   "notes": "Texto do site da marina confere (144 berths, 720 m, até 50 m)."
+  },
+  {
+   "id": "loc_ext-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.igymarinas.com/marinas/rodney-bay-marina/",
+   "notes": "Customs & Immigration Services consta em amenities; VHF 16 foi apontado no bloco de contato pelo pesquisador (não visto no trecho)."
+  },
+  {
+   "id": "loc_ext-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.bwss.com/offshore-passagemaking.html",
+   "notes": "Texto literal da BWSS lista ASA 101, 103-107 como pré-requisitos, exceto catamarã."
+  },
+  {
+   "id": "loc_ext-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.westcoast.pt/en/",
+   "notes": "Patrão Local 40h (30+10) e Marinheiro 30h (20+10) confirmados na página da escola; fonte é a escola, não a DGRM."
+  },
+  {
+   "id": "loc_ext-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ondecksailing.com/",
+   "notes": "Página cita RORC Caribbean 600 e Antigua Sailing Week entre as regatas oferecidas."
+  },
+  {
+   "id": "loc_ext-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/portugal-sail-power/",
+   "notes": "Portugal Sail & Power lista só cursos de motor, navegação e powerboat no localizador; escopo limitado ao localizador."
+  }
+ ]
+}

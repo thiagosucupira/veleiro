@@ -1,0 +1,248 @@
+
+
+ANEXO 1-A
+
+DECLARAÇÃO DE ENTRADA/SAÍDA DE EMBARCAÇÃO ESTRANGEIRA DE ESPORTE E RECREIO
+STATEMENT OF PORT ENTRY/DEPARTURE OF FOREIGN BOAT OF SPORT AND/OR RECREATION
+
+1.	DADOS GERAIS
+	(GENERAL INFORMATIONS) | 
+- Nome da Embarcação:
+(Name of the craft) | 
+
+_____________________ | 
+- Bandeira:
+(Flag) | 
+
+________________ | 
+- NO de Registro: __________________
+(Registry number) | 
+- Indicativo de chamada:
+(Call sign) | 
+
+________________ | 
+- Porto de Procedência:
+(Port of origin) __________________ | 
+- Tipo de Embarcação:
+(Type of boat) ________________ | 
+- Comprimento:
+(Lenght) __________________ | 
+(Veleiro, Lancha, outro)
+(Sailboat, Motorboat, Other) ________________ | 
+- Porto de Registro:
+(Port of Registry) __________________ | 
+- Balsas e infláveis:
+(Liferafts) ________________ | 
+-Boca:
+(Beam) __________________ | 
+- Cor do casco acima d’agua/abaixo:
+(Color of hull above water/below) _______________ | 
+- Calado:
+(Draught) __________________
+
+2.	PROPULSÃO
+	(PROPULSION) | 
+- Vela:
+(Sail) | 
+ | 
+- Motor: | 
+Quantidade
+(Quantity) | 
+Marca
+(Manufacturer /Mark) | 
+/HP
+(HP)
+
+3.	COMUNICAÇÕES
+	(COMMUNICATIONS) | 
+ | 
+HF | 
+ | 
+ | 
+VHF | 
+ | 
+ | 
+- Tipo/Modelo: 
+(Type/Model) | 
+ | 
+- Faixas de Freqüência:
+(Frequency Bandspread) | 
+- Canais:
+(Channels) | 
+- Fonte de Alimentação: 
+(Power Source) | 
+- Tel. Satelite (número):
+(Sat Phone number) | 
+- SART (Sim/Não):
+(SART Yes/No)
+
+4.	AUXILIOS À NAVEGAÇÃO/ QUANTIDADE
+	(NAVIGATION AID EQUIPMENT/QUANTITY) | 
+- Radar:
+(Radar) _________________ | 
+/Agulha Magnética:
+(Magnetic Compass) ________________ | 
+/Giro:
+(Gyro Compass) ________________ | 
+- Navsat, GNSS, Outros:
+(Navsat, GNSS, Other) _________________________ | 
+/Radiogoniômetro:
+/(Radio Direction Finder) __________________ | 
+- Ecobatimetro:
+(Echo Sounding Equipment) _________________________ | 
+/Piloto Automático:
+/(Automatic Pilot) __________________ | 
+- EPIRB (MMSI):
+(Epirb MMSI) _________________________
+
+
+5.	DOCUMENTOS EXISTENTES A BORDO
+	(DOCUMENTS ON BOARD) | 
+- Da Embarcação:
+(Ship’s documents) | 
+SIM
+(YES) | 
+ | 
+NÃO
+(NO) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+- Autorização do Porto de Procedência:
+(Permit From Proceeding Port) | 
+SIM
+(YES) | 
+ | 
+NÃO
+(NO) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+- Cartas Náuticas ou eletrônicas necessária para trânsito nos locais visitados:
+(Necessary Nautical or Eletronic Charts) | 
+SIM
+(YES) | 
+ | 
+NÃO
+(NO) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+
+
+6.	ENTRADA NO BRASIL
+	(ENTRY IN BRAZIL)
+- Porto de Entrada:	Data (dd/mm/aaaa):
+(Port of Entry) ______________________	(Date) dd/mm/yyyy) ____/____/____
+
+Conforme a NORMAM-211/DPC, alínea a) do inciso 6.3.4 do artigo 6.3, a Marina ou Clube em que aportar uma embarcação estrangeira deverá comunicar para a CP/DL/AG a sua entrada e saída. Ainda segundo o artigo 6.3, em seu inciso 6.3.1, alínea g), ao sair, um plano de navegação deverá ser comunicado à Marina ou Clube.
+(According to the NORMAM-211/DPC, subline a), clause 6.3.4, article 6.3, the Marina or Club in wich a vessel checks in must report to the CP/DL/AG its arrival and departure. According to thesubline g), clause 6.3.1, article 6.3, when departing, a navigation plan must be submitted to the Marina or Club.
+
+7.	TRIPULANTES E PASSAGEIROS (Nome completo/Nacionalidade/Passaporte/Habilitação)
+	(CREW AND PASSENGERS) (Full name/ Nationality/Passport/Professional qualification)  | 
+1 - Comandante: ___________________________________________________________________________ | 
+(Master) | 
+2 - | 
+________________________________________________________________________________ | 
+3 - | 
+ | 
+4 - | 
+________________________________________________________________________________ | 
+5 - | 
+ | 
+6 - | 
+
+
+Local:	Data (dd/mm/aaaa):
+(Place) _____________________________	(Date) dd/mm/yyyy ____/____/____
+
+
+
+_____________________________ _________________________________________
+VISTO DE ENTRADA DA CAPITANIA	ASSINATURA DO COMANDANTE DA EMBARCAÇÃO
+(ENTRANCE HARBOURMASTER VISA) (SIGNATURE OF THE MASTER/ SKIPPER)
+
+8.	INTENÇÃO DE MOVIMENTO
+	(MOVEMENT INTENTIONS) | 
+- Local:
+(Place) ___________________________________________________ | 
+- Período de Permanência:
+(Period of Stay) ___________________________________________________ | 
+- Fundeio ou Atracação:
+(At Anchor or Moored Alongside) ___________________________________________________ | 
+- Movimentações Previstas:
+(Planned Moving) ___________________________________________________
+
+	(Qualquer alteração não declarada será objeto de sanção e multa, exceto no caso de emergência devidamente comprovada).
+	(Any non declared change will be subject to penalty and fine, except in case of emergency properly explained).
+
+	Alterações na intenção de movimento
+	Changes in movement intention
+	(a ser preenchido somente após obtido visto de entrada)
+	(to be filled only after obtaining the entrance visa) | 
+Suspender de _____________, em ___/___/___ para ____________, em ___/___/___
+(local) (data) (local) (data)
+Departing from ___________, on ____/____/____ to __________, on ____/____/____
+(city) (date) (city) (date) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+
+
+
+1a Via - Capitania, Delegacia ou Agência
+(original - Port. Capt., Del, Ag.)
+2a Via - Comandante da Embarcação
+(2nd Copy - Master of the Boat)
+
+OBS.: O Visto de Saída será obtido na CP/DL/AG que tem jurisdição sobre o último Porto Nacional visitado.
+(P.S. Depart Harbourmaster visa refers to the last national port visited)
+
+9.	SAÍDA DO BRASIL
+	(DEPARTURE CLEARANCE FROM BRAZIL)
+
+- Porto de partida:	Data prevista de partida:
+- (Port of Departure) ___________________	(Expected date of departure) ____/____/____
+
+- Porto de Destino:	Data esperada de chegada:
+(Next Port of Call) ____________________	(Expected date of arrival)_____/_____/_____
+
+- Número total de pessoas a bordo:
+(Total number of persons on board) _______________
+
+- TRIPULANTES E PASSAGEIROS (Nome complete/Nacionalidade/Passaporte)
+(CREW AND PASSENGERS – Full name/Nationality/Passport)
+
+1 - Comandante (Master): _____________________________________________________
+
+2 - ________________________________________________________________________
+
+3 -________________________________________________________________________
+
+4 -________________________________________________________________________
+
+5 -________________________________________________________________________
+
+
+Local:	Data (dd/mm/aaaa):
+(Place) ______________________________________	(Date)dd/mm/yyyy) ____/____/____
+
+
+____________________________ _________________________________________
+VISTO DE SAÍDA DA CAPITANIA ASSINATURA DO COMANDANTE DA EMBARCAÇÃO
+(HARBOURMASTER DEPARTURE VISA) (SIGNATURE OF THE MASTER/SKIPPER)

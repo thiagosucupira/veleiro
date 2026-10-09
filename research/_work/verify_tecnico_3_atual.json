@@ -1,0 +1,184 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-91",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "notes": "Decreto 92.267/86 reaberto no Planalto sem indicação de revogação; texto bate."
+  },
+  {
+   "id": "tecnico-92",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-93",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Portaria 23/2023 reaberta: art. 1º renomeia, art. 3º vigência 2/10/2023; índice DPC (2026-10) ainda a lista como a portaria vigente."
+  },
+  {
+   "id": "tecnico-94",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "Lista de Faróis 40ª ed. 2026-2027 (corrigida até Folheto 17/2026) é a edição vigente na página do CHM e contém o trecho."
+  },
+  {
+   "id": "tecnico-95",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "notes": "Manual de Navegação Vol. I segue na 2ª Revisão 2023 na página de publicações da DHN e traz o trecho."
+  },
+  {
+   "id": "tecnico-96",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.iala.int/product/r1001/",
+   "notes": "IALA R1001 Ed. 2.0 (jun/2023) baixada hoje contém 'reversed with red to starboard and green to port'; é a edição vigente na página IALA."
+  },
+  {
+   "id": "tecnico-97",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.iala.int/product/r1001/",
+   "notes": "Página IALA de R1001 (2026-10-07) mostra Edition 2.0, revisada 03/06/2023, sem edição mais nova."
+  },
+  {
+   "id": "tecnico-98",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-99",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-100",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-101",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-102",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "notes": "Decreto 92.267/86 reaberto no Planalto sem indicação de revogação; texto bate. Consistente com NORMAM-601 art. 3.3 (cônico, pilar ou charuto)."
+  },
+  {
+   "id": "tecnico-103",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "notes": "Decreto 92.267/86 reaberto no Planalto sem indicação de revogação; texto bate. Consistente com NORMAM-601 art. 3.5 (verde com faixa encarnada, Lp(2+1))."
+  },
+  {
+   "id": "tecnico-104",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "notes": "Decreto 92.267/86 reaberto no Planalto sem indicação de revogação; texto bate. Consistente com NORMAM-601 art. 3.4."
+  },
+  {
+   "id": "tecnico-105",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-106",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "notes": "Decreto 92.267/86 reaberto no Planalto sem indicação de revogação; texto bate. NORMAM-601 art. 3.6 mantém a mesma definição de quadrantes."
+  },
+  {
+   "id": "tecnico-107",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-108",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-109",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-110",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-111",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-112",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-113",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-114",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-115",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-116",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-117",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  },
+  {
+   "id": "tecnico-118",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-09/LF-40ED-2026-2027-FOL-17-26-compactado_1.pdf",
+   "notes": "Lista de Faróis 40ª ed. vigente traz 'Iso., Oc., LpL. 10s ou Mo (A)'; NORMAM-601 art. 3.12 e IALA R1001 concordam."
+  },
+  {
+   "id": "tecnico-119",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm",
+   "notes": "Decreto 92.267/86 reaberto no Planalto sem indicação de revogação; texto bate. NORMAM-601 art. 3.13 mantém amarelo, forma opcional e tope em X."
+  },
+  {
+   "id": "tecnico-120",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dhn/normam/normam-601.html",
+   "notes": "Reaberto em 2026-10-07; índice DPC/DHN ainda lista NORMAM-601 pela Portaria DHN/DGN/MB nº 23/2023 (sem portaria posterior) e texto bate."
+  }
+ ]
+}

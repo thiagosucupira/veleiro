@@ -1,0 +1,142 @@
+{
+ "verdicts": [
+  {
+   "id": "om-sp-delssebastiao",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-sp-cftp",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-sp-delpepitacio",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e endereço oficial ok (Rua Porto Alegre 14-71 no site; SIM cita 1471). Coord ok."
+  },
+  {
+   "id": "om-pr-cppr",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-pr-cfrp",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-pr-delguaira",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-sc-cpsc",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-sc-delitajai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-sc-delsfsul",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-sc-dellaguna",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rs-cprs",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rs-agtramandai",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rs-cfpa",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-rs-deluruguaiana",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-mt-cfmt",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-mt-agcaceres",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-mt-agsfaraguaia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-mt-agsinop",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-ms-cfpn",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-ms-agpmurtinho",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site CFPN lista AG. Porto Murtinho; cidade/UF MS ok (a evidência cita 'RS' por erro de digitação do pesquisador, o campo uf é MS). Coord ok."
+  },
+  {
+   "id": "om-go-cfgo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-df-cfb",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  },
+  {
+   "id": "om-to-cfat",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site oficial marinha.mil.br abre (200, título coerente com a OM); endereço da evidência confere na página; cidade/UF e coordenadas plausíveis."
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+/* Aba Simulados e flashcards. Só tokens de tokens.css. Prefixo .sim- em tudo. */
+
+.sim { max-width: 1180px; }
+.sim-h2 { font-size: var(--fs-1); margin-top: var(--s-6); }
+.sim-secao { margin-top: var(--s-7); }
+.sim-secao > h2 { font-size: var(--fs-2); }
+.sim-secao-1 { margin-top: var(--s-5); }
+.sim-secao-lead { margin-top: calc(var(--s-2) * -1); max-width: 64ch; }
+
+/* trilha */
+.sim-trilha { font-size: 0.92rem; margin-bottom: var(--s-4); }
+.sim-trilha ol { list-style: none; display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-2); padding: 0; margin: 0; }
+.sim-trilha li { display: inline-flex; gap: var(--s-2); align-items: baseline; }
+.sim-trilha li + li::before { content: "/"; color: var(--ink-3); }
+.sim-trilha a { color: var(--ink-2); }
+.sim-trilha [aria-current="page"] { color: var(--ink); font-weight: 650; }
+
+/* resumo: bloco de título da carta, quatro campos */
+.sim-resumo {
+  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr));
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  margin: 0 0 var(--s-5);
+}
+.sim-tile { padding: var(--s-4) var(--s-4) var(--s-4) 0; min-width: 0; }
+.sim-tile + .sim-tile { padding-left: var(--s-4); border-left: 1px solid var(--line); }
+.sim-tile p { margin: 0; }
+.sim-tile-l { font-size: var(--fs--1); color: var(--ink-2); font-weight: 600; }
+.sim-tile-v { font-size: var(--fs-3); font-weight: 760; line-height: 1.15; letter-spacing: -0.015em; font-variant-numeric: proportional-nums; }
+.sim-tile-s { font-size: var(--fs--1); color: var(--ink-2); }
+@media (max-width: 760px) {
+  .sim-resumo { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .sim-tile:nth-child(3) { padding-left: 0; border-left: 0; }
+  .sim-tile:nth-child(n + 3) { border-top: 1px solid var(--line); }
+  .sim-tile-v { font-size: var(--fs-2); }
+}
+
+/* próximo passo */
+.sim-proximo {
+  display: flex; gap: var(--s-4); align-items: center; justify-content: space-between; flex-wrap: wrap;
+  background: var(--magenta-soft); border-radius: var(--r-panel); padding: var(--s-4) var(--s-5);
+}
+.sim-proximo > div { flex: 1 1 320px; min-width: 0; }
+.sim-proximo-t { font-weight: 750; margin: 0 0 2px; }
+
+/* cartões de nível */
+.sim-niveis { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: var(--s-4); }
+.sim-nivel { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-5); display: flex; flex-direction: column; gap: var(--s-3); min-width: 0; }
+.sim-nivel-extra { background: var(--paper); border: 1px solid var(--line); }
+.sim-nivel-cab { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-3); }
+.sim-nivel-cab h3 { font-size: var(--fs-1); margin: 0; }
+.sim-nivel-cab h3 a { color: var(--ink); text-decoration: none; }
+.sim-nivel-cab h3 a:hover { color: var(--magenta); text-decoration: underline; }
+.sim-sigla { font-size: var(--fs--1); font-weight: 700; color: var(--ink-2); border: 1px solid var(--ink-3); border-radius: 3px; padding: 0 6px; line-height: 1.5; }
+.sim-nivel-formato { font-size: var(--fs--1); color: var(--ink-2); margin: 0; }
+.sim-nivel-vazio { margin: 0; color: var(--ink-2); }
+.sim-nums { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s-3); margin: var(--s-1) 0 0; }
+.sim-nums dt { font-size: var(--fs--1); color: var(--ink-2); }
+.sim-nums dd { margin: 0; font-size: var(--fs-2); font-weight: 760; line-height: 1.15; font-variant-numeric: proportional-nums; }
+.sim-cobertura { display: flex; flex-direction: column; gap: 6px; }
+.sim-mini-t { font-size: var(--fs--1); color: var(--ink-2); font-weight: 600; margin: 0 0 2px; }
+.sim-ultimas ul { list-style: none; margin: 0; padding: 0; }
+.sim-ultimas li { display: grid; grid-template-columns: 3.6em 4.4em 1fr; gap: var(--s-2); font-size: 0.92rem; padding: 3px 0; }
+.sim-ult-d { color: var(--ink-2); }
+.sim-ult-v { font-weight: 700; text-align: right; }
+.sim-nivel-acoes { margin-top: auto; display: flex; flex-direction: column; gap: var(--s-3); padding-top: var(--s-2); }
+.sim-btn-prova { width: 100%; }
+.sim-acoes { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.sim-acao {
+  display: flex; align-items: center; gap: var(--s-3); min-height: 44px; padding: 0 var(--s-1);
+  color: var(--ink); text-decoration: none; font-weight: 600; border-bottom: 1px solid var(--line);
+}
+.sim-acoes li:last-child .sim-acao { border-bottom: 0; }
+.sim-acao svg { flex: none; color: var(--magenta); }
+a.sim-acao:hover .sim-acao-r { color: var(--magenta); text-decoration: underline; text-underline-offset: 0.18em; }
+.sim-acao-n { margin-left: auto; background: var(--magenta); color: var(--magenta-ink); border-radius: var(--r-chip); padding: 0 8px; font-size: var(--fs--1); font-weight: 750; line-height: 1.6; }
+.sim-acao[aria-disabled="true"] { color: var(--ink-3); font-weight: 500; cursor: default; }
+.sim-acao[aria-disabled="true"] svg { color: var(--ink-3); }
+
+.btn-externo svg { color: var(--ink-2); }
+
+/* filtro de nível dos gráficos: pílulas que quebram linha sem perder a borda */
+.sim-filtro { display: flex; align-items: center; gap: var(--s-3); flex-wrap: wrap; margin-bottom: var(--s-4); }
+.sim-filtro-l { font-weight: 650; }
+.segmented.sim-seg { border: 0; border-radius: 0; overflow: visible; gap: 6px; }
+.segmented.sim-seg button { border: 1px solid var(--line); border-radius: var(--r-input); min-height: 40px; padding: 6px 14px; background: var(--paper); }
+.segmented.sim-seg button:last-child { border-right: 1px solid var(--line); }
+.segmented.sim-seg button[aria-pressed="true"] { border-color: var(--magenta); background: var(--magenta); }
+.segmented.sim-seg button:hover:not([aria-pressed="true"]) { border-color: var(--magenta); }
+
+/* gráficos */
+.sim-graficos { align-items: stretch; }
+.sim-graf { margin: 0; border: 1px solid var(--line); border-radius: var(--r-panel); padding: var(--s-4) var(--s-5) var(--s-5); background: var(--paper); min-width: 0; }
+.sim-graf figcaption { display: flex; flex-direction: column; gap: 2px; margin-bottom: var(--s-4); }
+.sim-graf-t { font-weight: 750; font-size: var(--fs-0); }
+.sim-graf-l { font-size: var(--fs--1); color: var(--ink-2); }
+.sim-graf-corpo { min-width: 0; }
+.sim-graf-corpo .sim-vazio { padding: var(--s-5) var(--s-4); }
+.sim-graf-nota { margin: var(--s-3) 0 0; }
+@media (max-width: 520px) { .sim-graf { padding: var(--s-4) var(--s-3) var(--s-4); } }
+
+/* dias de estudo */
+.sim-seq { display: flex; align-items: center; gap: var(--s-4); margin-bottom: var(--s-4); }
+.sim-seq p { margin: 0; }
+.sim-seq-v { font-size: var(--fs-5); font-weight: 780; line-height: 1; letter-spacing: -0.03em; font-variant-numeric: proportional-nums; min-width: 1ch; }
+.sim-seq-l { font-weight: 700; font-size: var(--fs-1); line-height: 1.2; }
+.sim-calor-wrap { max-width: 440px; }
+.sim-calor { width: 100%; height: auto; display: block; }
+.sim-calor-rot { fill: var(--ink-3); font-size: 10px; font-family: var(--font); }
+.sim-calor-0 { fill: var(--shoal); }
+.sim-calor-1 { fill: color-mix(in srgb, var(--magenta) 32%, var(--shoal)); }
+.sim-calor-2 { fill: color-mix(in srgb, var(--magenta) 64%, var(--shoal)); }
+.sim-calor-3 { fill: var(--magenta); }
+.sim-calor-hoje { stroke: var(--ink); stroke-width: 1.5; }
+.sim-calor-rodape { margin-top: var(--s-3); }
+.sim-calor-legenda { display: inline-flex; align-items: center; gap: 4px; font-size: var(--fs--1); color: var(--ink-2); }
+.sim-calor-legenda span:first-child { margin-right: 2px; }
+.sim-calor-legenda span:last-child { margin-left: 2px; }
+
+/* estados vazios */
+.sim-vazio-t { font-weight: 750; color: var(--ink); font-size: var(--fs-1); margin: 0 0 var(--s-2); }
+.sim-vazio p { max-width: 56ch; margin-left: auto; margin-right: auto; }
+.sim-vazio-acoes { justify-content: center; margin-top: var(--s-4); }
+
+/* ficha do formato oficial */
+.sim-ficha-box { border: 1px solid var(--line); border-radius: var(--r-panel); padding: var(--s-4) var(--s-5) var(--s-5); margin: var(--s-5) 0; }
+.sim-ficha-box > :last-child { margin-bottom: 0; }
+.sim-ficha-box > .sim-ficha, .sim-ficha-box > p { max-width: 880px; }
+.sim-ficha-box > h2 { font-size: var(--fs-1); margin: 0 0 var(--s-2); }
+.sim-ficha { margin: 0 0 var(--s-3); }
+.sim-ficha > div { display: grid; grid-template-columns: 9.5em minmax(0, 1fr); gap: var(--s-3); padding: 10px 0; border-bottom: 1px solid var(--line); }
+.sim-ficha dt { font-weight: 650; }
+.sim-ficha dd { margin: 0; }
+@media (max-width: 560px) { .sim-ficha > div { grid-template-columns: minmax(0, 1fr); gap: 2px; } }
+
+/* modos */
+.sim-modos { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr)); gap: var(--s-4); }
+.sim-modo { border: 1px solid var(--line); border-radius: var(--r-panel); padding: var(--s-5); display: flex; flex-direction: column; align-items: flex-start; gap: var(--s-2); background: var(--paper); }
+.sim-modo h3 { font-size: var(--fs-1); margin: var(--s-1) 0 0; }
+.sim-modo p { flex: 1; margin: 0 0 var(--s-2); }
+.sim-modo-ic { width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; background: var(--magenta-soft); color: var(--magenta); }
+
+/* prática por assunto */
+.sim-pratica { margin-top: var(--s-6); }
+.sim-pratica { scroll-margin-top: calc(var(--topbar-h) + var(--s-4)); }
+.sim-pratica:focus, .sim-pratica:focus-visible { outline: none; box-shadow: none; }
+.sim-pratica > h2 { font-size: var(--fs-2); }
+.sim-fs { border: 0; padding: 0; margin: 0 0 var(--s-5); min-width: 0; }
+.sim-fs legend { font-weight: 650; padding: 0; margin-bottom: var(--s-2); }
+.sim-chips { gap: var(--s-2); }
+.sim-chip { min-height: 40px; padding: 6px 12px; font-size: 0.92rem; font-weight: 600; background: var(--paper); border-color: var(--line); text-align: left; max-width: 100%; flex-wrap: wrap; row-gap: 0; }
+.sim-chip:hover { border-color: var(--magenta); }
+.sim-chip-n { color: var(--ink-2); font-weight: 500; }
+.sim-chip-p { font-size: var(--fs--1); font-weight: 700; color: var(--ink-2); border-left: 1px solid var(--line); padding-left: 6px; }
+.sim-chip-p[data-fraco="1"] { color: var(--erro); }
+.sim-chip[aria-pressed="true"] { border-color: var(--magenta); }
+.sim-chip[aria-pressed="true"] .sim-chip-n, .sim-chip[aria-pressed="true"] .sim-chip-p { color: inherit; opacity: 0.9; border-color: currentColor; }
+.sim-chips-leg { margin-top: var(--s-2); }
+.sim-pratica-opcoes { display: flex; flex-wrap: wrap; gap: var(--s-4) var(--s-6); margin-bottom: var(--s-5); }
+.sim-opcao .field-label { margin: 0 0 6px; }
+.sim-pratica .segmented.sim-seg button:not([aria-pressed="true"]) { background: var(--paper); }
+.sim-pratica-fim { display: flex; align-items: center; justify-content: space-between; gap: var(--s-3); flex-wrap: wrap; border-top: 1px solid var(--shoal-2); padding-top: var(--s-4); }
+.sim-disp { margin: 0; color: var(--ink-2); flex: 1 1 260px; }
+@media (max-width: 520px) {
+  .sim-pratica { padding: var(--s-4); }
+  .sim-pratica-fim .btn { width: 100%; }
+}
+
+/* histórico */
+.sim-hist td:first-child, .sim-td-num { white-space: nowrap; }
+@media (max-width: 560px) {
+  /* no celular cada tentativa vira um bloco de duas linhas: data e modo; resultado e duração */
+  .sim-hist-wrap { overflow: visible; }
+  .sim-hist thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .sim-hist, .sim-hist tbody { display: block; }
+  .sim-hist tr { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px var(--s-3); padding: 10px 12px; border-bottom: 1px solid var(--line); }
+  .sim-hist tbody tr:last-child { border-bottom: 0; }
+  .sim-hist td { padding: 0; border: 0; }
+  .sim-hist .sim-td-data { font-weight: 650; }
+  .sim-hist .sim-td-modo, .sim-hist .sim-td-num { text-align: right; color: var(--ink-2); }
+}
+.sim-res { display: inline-flex; align-items: center; gap: 4px; font-weight: 650; }
+.sim-res[data-ok="1"] { color: var(--ok); }
+.sim-res[data-ok="0"] { color: var(--erro); }
+
+/* instruções da prova */
+.sim-instrucoes { max-width: 780px; }
+.sim-instrucoes .page-head { margin-bottom: var(--s-5); }
+/* cartucho da carta: o bloco de título com filete duplo */
+.sim-placa {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+  border: 4px double var(--ink); border-radius: 2px; background: var(--surface);
+  margin: 0 0 var(--s-5); max-width: 560px;
+}
+.sim-placa > div { padding: var(--s-4) var(--s-3); text-align: center; }
+.sim-placa > div + div { border-left: 1px solid var(--line); }
+.sim-placa p { margin: 0; }
+.sim-placa-v { font-size: var(--fs-4); font-weight: 780; line-height: 1.05; letter-spacing: -0.02em; font-variant-numeric: proportional-nums; }
+.sim-placa-l { font-size: var(--fs--1); color: var(--ink-2); }
+@media (max-width: 420px) { .sim-placa-v { font-size: var(--fs-3); } }
+.sim-regras, .sim-materiais { padding-left: 1.3em; margin: 0 0 var(--s-4); }
+.sim-regras li, .sim-materiais li { margin-bottom: var(--s-2); }
+.sim-regras li::marker, .sim-materiais li::marker { color: var(--ink-3); }
+.sim-btn-grande { min-height: 48px; padding: 0 var(--s-5); font-size: 1.05rem; }
+
+/* prova, prática e flashcards em andamento */
+.sim-quiz { max-width: 760px; }
+.sim-quiz:focus, .sim-quiz:focus-visible { outline: none; box-shadow: none; }
+.sim-quiz-cab { margin-bottom: var(--s-3); max-width: 760px; }
+.sim-h1-quiz { font-size: var(--fs-2); margin: 0 0 var(--s-1); }
+.sim-quiz .quiz-barra { gap: var(--s-3); }
+/* celular: relógio e "Entregar prova" na mesma linha; a descrição desce para baixo deles (barra fixa mais baixa) */
+@media (max-width: 520px) {
+  .sim-quiz .quiz-barra { row-gap: 2px; }
+  .sim-quiz .quiz-barra > .muted { order: 3; flex-basis: 100%; font-size: var(--fs--1); }
+}
+.sim-flash { max-width: 640px; }
+
+/* baralhos */
+.sim-como { border: 1px solid var(--line); border-radius: var(--r-panel); padding: var(--s-4) var(--s-5); max-width: 780px; margin-bottom: var(--s-2); }
+.sim-como > h2 { margin-top: 0; }
+.sim-como ol { margin: 0; padding-left: 1.3em; }
+.sim-como li { margin-bottom: var(--s-1); }
+.sim-decks { list-style: none; margin: 0; padding: 0; max-width: 900px; }
+.sim-deck { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); padding: var(--s-4) 0; border-bottom: 1px solid var(--line); }
+.sim-deck:first-child { border-top: 1px solid var(--line); }
+.sim-deck-todos { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-4); border: 0 !important; margin-bottom: var(--s-2); }
+.sim-deck-info { flex: 1 1 auto; min-width: 0; }
+.sim-deck-info h3 { font-size: var(--fs-1); margin: 0 0 var(--s-1); }
+.sim-deck-stats { list-style: none; display: flex; flex-wrap: wrap; gap: 2px var(--s-4); margin: 0; padding: 0; font-size: 0.92rem; }
+.sim-deck-stats strong { font-weight: 760; }
+.sim-deck-meter { max-width: 260px; margin-top: var(--s-2); }
+@media (max-width: 520px) {
+  .sim-deck { flex-wrap: wrap; }
+  .sim-deck > .btn { width: 100%; }
+}

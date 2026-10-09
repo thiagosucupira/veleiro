@@ -1,0 +1,204 @@
+/* Widget boias-iala — Sistema de Balizamento Marítimo IALA, Região B.
+   Usa as variáveis locais --bz-* definidas em ritmos-luz.css (carregado junto). */
+
+.bz .instrumento-corpo { padding: var(--s-4); }
+.bz-corpo { display: flex; flex-direction: column; gap: var(--s-4); min-width: 0; }
+.bz-corpo > .callout { margin: 0; }
+.bz-ref, .bz-fonte { color: var(--ink-2); font-size: var(--fs--1); }
+.bz-fonte { margin: var(--s-3) 0 0; }
+.bz-legfonte { max-width: 72ch; }
+
+/* ---------- desenho SVG da marca ---------- */
+.bz-marca-svg { display: block; overflow: visible; }
+.bz-agua { fill: var(--sea-2); }
+.bz-onda { fill: none; stroke: var(--sea-3); stroke-width: 1.4; }
+.bz-contorno { fill: none; stroke: var(--ink); stroke-width: 1.3; stroke-linejoin: round; }
+.bz-tope { stroke: var(--ink); stroke-width: 1; stroke-linejoin: round; }
+.bz-tope-contorno { fill: none; stroke: var(--ink); stroke-width: 6.6; stroke-linecap: butt; }
+.bz-tope-traco { fill: none; stroke-width: 4.2; stroke-linecap: butt; }
+.bz-mastro { stroke: var(--ink); stroke-width: 1.6; }
+.bz-lanterna { fill: var(--bz-preta); stroke: var(--ink); stroke-width: 0.8; }
+
+/* ---------- tira de marcas ---------- */
+.bz-tira { display: flex; flex-wrap: wrap; gap: var(--s-3) var(--s-5); }
+.bz-tira-grupo { display: flex; flex-direction: column; gap: var(--s-1); min-width: 0; }
+.bz-tira-tit { margin: 0; font-size: var(--fs--1); font-weight: 650; color: var(--ink-2); white-space: nowrap; }
+.bz-tira-linha { display: flex; gap: var(--s-2); }
+.bz-mini {
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+  width: 76px; min-height: 96px; padding: 4px 4px 6px;
+  font: inherit; color: var(--ink); background: var(--paper);
+  border: 1px solid var(--line); border-radius: var(--r-input); cursor: pointer;
+}
+.bz-mini:hover { border-color: var(--magenta); }
+.bz-mini[aria-pressed="true"] { border-color: var(--magenta); box-shadow: inset 0 0 0 2px var(--magenta); background: var(--magenta-soft); }
+.bz-mini-svg { width: 44px; height: 60px; }
+.bz-mini-txt { font-size: 0.78rem; font-weight: 650; line-height: 1.15; text-align: center; }
+@media (max-width: 759px) {
+  .bz-tira { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 8px; scrollbar-width: thin; scroll-snap-type: x proximity; }
+  .bz-tira-grupo { flex: none; scroll-snap-align: start; }
+}
+
+/* ---------- galeria ---------- */
+.bz-gal { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-5); align-items: start; }
+@media (min-width: 760px) {
+  .bz-gal { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .bz-palco { position: sticky; top: calc(var(--topbar-h) + var(--s-3)); }
+}
+.bz-palco { display: flex; flex-direction: column; gap: var(--s-2); min-width: 0; }
+.bz-cena {
+  position: relative; width: 100%; aspect-ratio: 4 / 4.2; overflow: hidden;
+  background: color-mix(in srgb, var(--sea-1) 55%, var(--paper));
+  border: 1px solid var(--line); border-radius: var(--r-panel);
+}
+.bz-cena-noite { background: var(--bz-noite); }
+.bz-canvas { position: absolute; inset: 0; width: 100% !important; height: 100% !important; display: block; touch-action: none; cursor: grab; }
+.bz-canvas:active { cursor: grabbing; }
+.bz-cena-svg { position: absolute; inset: 0; padding: var(--s-5) var(--s-4) var(--s-3); }
+.bz-grande-svg { width: 100%; height: 100%; }
+.bz-cena-noite .bz-grande-svg { opacity: 0.35; }
+.bz-palco-ctrl { display: flex; flex-wrap: wrap; gap: var(--s-2); justify-content: space-between; }
+.bz-seg button { min-height: 40px; }
+.bz-noite-ctrl { display: flex; gap: var(--s-2); align-items: center; }
+.bz-noite-txt { font-size: var(--fs--1); color: var(--ink-2); }
+.bz-dica3d, .bz-aviso3d { margin: 0; font-size: var(--fs--1); color: var(--ink-2); }
+.bz-aviso3d { color: var(--ink); background: var(--shoal); border-radius: var(--r-input); padding: var(--s-2) var(--s-3); }
+
+/* ---------- ficha ---------- */
+.bz-ficha { min-width: 0; }
+.bz-ficha-tit { font-size: var(--fs-2); margin-bottom: var(--s-3); }
+.bz-sub { font-weight: 500; color: var(--ink-2); font-size: 0.8em; }
+.bz-indica { margin-bottom: var(--s-3); }
+.bz-passar { border-left: 4px solid var(--magenta); background: var(--magenta-soft); padding: var(--s-3) var(--s-4); border-radius: 0 var(--r-panel) var(--r-panel) 0; margin: 0 0 var(--s-4); }
+.bz-dl { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-2); margin: 0 0 var(--s-3); }
+.bz-dl > div { display: grid; grid-template-columns: 5.2em minmax(0, 1fr); gap: var(--s-3); padding-bottom: var(--s-2); border-bottom: 1px solid var(--line); }
+.bz-dl dt { font-weight: 700; }
+.bz-dl dd { margin: 0; }
+.bz-nota { font-size: 0.95rem; color: var(--ink-2); }
+.bz-dica { font-size: 0.95rem; background: var(--shoal); border-radius: var(--r-input); padding: var(--s-2) var(--s-3); }
+.bz-luz-tit { font-size: var(--fs-1); margin: var(--s-5) 0 var(--s-2); }
+.bz-luz-chips { margin-bottom: var(--s-3); }
+.bz-luz-chips .chip { min-height: 40px; padding: 4px 12px; font-size: 0.9rem; border-color: var(--line); background: var(--paper); }
+.bz-luz-chips .chip[aria-pressed="true"] { background: var(--magenta); color: var(--magenta-ink); border-color: var(--magenta); }
+.bz-luz { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-3); }
+@media (min-width: 520px) { .bz-luz { grid-template-columns: 170px minmax(0, 1fr); align-items: center; } }
+.bz-noite-luz { padding: var(--s-3) var(--s-2) var(--s-2); }
+.bz-lamp { width: 110px; }
+.bz-tl { min-width: 0; }
+.bz-luz-cap { font-size: var(--fs--1); color: var(--ink-2); margin: var(--s-2) 0 0; display: flex; flex-direction: column; gap: var(--s-1); }
+.bz-luz-cap strong { color: var(--ink); }
+.bz-real { color: var(--ink-2); }
+
+/* ---------- porto ---------- */
+.bz-porto-topo { display: flex; flex-wrap: wrap; gap: var(--s-3) var(--s-5); align-items: center; }
+.bz-switch { min-height: 40px; }
+.bz-porto { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-5); align-items: start; }
+@media (min-width: 760px) {
+  .bz-porto { grid-template-columns: minmax(0, 400px) minmax(0, 1fr); }
+}
+.bz-mapa-box { min-width: 0; }
+.bz-mapa { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: var(--r-panel); user-select: none; -webkit-user-select: none; touch-action: manipulation; }
+.bz-mapa-leg { font-size: var(--fs--1); color: var(--ink-2); margin: var(--s-2) 0 0; }
+.bz-terra { fill: var(--land); }
+.bz-raso1 { fill: var(--sea-1); stroke: var(--sea-1); stroke-width: 30; stroke-linejoin: round; }
+.bz-raso2 { fill: var(--sea-2); stroke: var(--sea-2); stroke-width: 13; stroke-linejoin: round; }
+.bz-fundo { fill: var(--paper); stroke: var(--sea-3); stroke-width: 1; stroke-linejoin: round; }
+.bz-baixio { fill: var(--sea-2); stroke: var(--ink-2); stroke-width: 1.2; stroke-dasharray: 1.5 3; stroke-linecap: round; }
+.bz-perigo-linha { fill: var(--sea-2); stroke: var(--ink-2); stroke-width: 1.2; stroke-dasharray: 1.5 3; stroke-linecap: round; }
+.bz-cabo { fill: none; stroke: var(--magenta); stroke-width: 1.3; }
+.bz-cais { fill: var(--ink-3); }
+.bz-mapa-rot { fill: var(--land-ink); font-size: 15px; font-weight: 760; font-family: var(--font); }
+.bz-mapa-agua { fill: var(--ink-2); font-size: 14.5px; font-style: italic; font-family: var(--font); }
+.bz-mapa-peq { font-size: 14.5px; }
+.bz-norte-c { fill: var(--paper); stroke: var(--ink-2); }
+.bz-norte-s { fill: var(--ink); }
+.bz-norte-t { fill: var(--ink); font-size: 14.5px; font-weight: 760; font-family: var(--font); }
+.bz-rastro { fill: none; stroke: var(--magenta); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 5 4; }
+.bz-pm { cursor: pointer; }
+.bz-pm-ponto { fill: var(--ink); }
+.bz-anel { fill: none; stroke: var(--magenta); stroke-width: 3; }
+.bz-barco { cursor: grab; outline: none; touch-action: none; }
+.bz-barco:focus-visible .bz-barco-alvo { stroke: var(--magenta); stroke-width: 2.5; }
+.bz-barco-alvo { fill: transparent; stroke: transparent; }
+.bz-barco-casco { fill: var(--magenta); stroke: var(--paper); stroke-width: 1.4; }
+.bz-barco-retranca { stroke: var(--magenta-ink); stroke-width: 1.4; }
+.bz-encalhado .bz-barco-casco { fill: var(--erro); }
+/* noite: paleta escura de carta (como o modo noturno do ECDIS); só as luzes aparecem */
+.bz-veu { display: none; }
+.bz-luzes { display: none; pointer-events: none; }
+.bz-luzm-halo { opacity: 0.4; }
+.bz-luzm-pos { fill: none; stroke: var(--bz-noite-ink); stroke-width: 0.8; opacity: 0.4; }
+.bz-mapa-noite { background: var(--bz-noite); border-color: var(--bz-noite); }
+.bz-mapa-noite .bz-terra { fill: color-mix(in srgb, var(--land) 26%, var(--bz-noite)); }
+.bz-mapa-noite .bz-raso1 { fill: color-mix(in srgb, var(--sea-3) 30%, var(--bz-noite)); stroke: color-mix(in srgb, var(--sea-3) 30%, var(--bz-noite)); }
+.bz-mapa-noite .bz-raso2 { fill: color-mix(in srgb, var(--sea-3) 20%, var(--bz-noite)); stroke: color-mix(in srgb, var(--sea-3) 20%, var(--bz-noite)); }
+.bz-mapa-noite .bz-fundo { fill: var(--bz-noite); stroke: color-mix(in srgb, var(--sea-3) 50%, var(--bz-noite)); }
+.bz-mapa-noite .bz-baixio, .bz-mapa-noite .bz-perigo-linha { fill: color-mix(in srgb, var(--sea-3) 24%, var(--bz-noite)); stroke: color-mix(in srgb, var(--bz-noite-ink) 45%, transparent); }
+.bz-mapa-noite .bz-cais { fill: color-mix(in srgb, var(--bz-noite-ink) 35%, var(--bz-noite)); }
+.bz-mapa-noite .bz-mapa-rot { fill: color-mix(in srgb, var(--bz-noite-ink) 70%, transparent); }
+.bz-mapa-noite .bz-mapa-agua, .bz-mapa-noite .bz-norte-t { fill: color-mix(in srgb, var(--bz-noite-ink) 55%, transparent); }
+.bz-mapa-noite .bz-norte-c { fill: var(--bz-noite); stroke: color-mix(in srgb, var(--bz-noite-ink) 45%, transparent); }
+.bz-mapa-noite .bz-norte-s { fill: color-mix(in srgb, var(--bz-noite-ink) 70%, transparent); }
+.bz-mapa-noite .bz-cabo { opacity: 0.6; }
+.bz-mapa-noite .bz-luzes { display: inline; }
+.bz-mapa-noite .bz-marcas { opacity: 0; }
+.bz-mapa-noite .bz-rastro { stroke: var(--bz-noite-ink); opacity: 0.7; }
+
+.bz-painel { min-width: 0; }
+.bz-passo-n { font-size: var(--fs--1); color: var(--ink-2); margin: 0 0 var(--s-2); }
+.bz-vista { display: flex; align-items: center; gap: var(--s-4); background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-3) var(--s-4); margin-bottom: var(--s-3); }
+.bz-vista-svg { width: 74px; height: 100px; flex: none; }
+.bz-vista-cap { margin: 0; font-size: 0.95rem; color: var(--ink-2); }
+.bz-vista-noite { background: var(--bz-noite); color: var(--bz-noite-ink); flex-direction: column; text-align: center; border: 1px solid var(--line); }
+.bz-vista-noite .rl-noite { border: 0; background: transparent; padding: 0; }
+.bz-vista-noite .bz-vista-cap { color: var(--bz-noite-ink); opacity: 0.88; }
+.bz-pergunta { font-weight: 700; font-size: 1.08rem; margin-bottom: var(--s-3); }
+.bz-instr { color: var(--ink-2); font-size: 0.95rem; }
+.bz-ops { display: flex; flex-direction: column; gap: var(--s-2); margin-bottom: var(--s-3); }
+.bz-alt { min-height: 44px; align-items: center; }
+.bz-fb p { margin-bottom: var(--s-2); }
+.bz-res-tit { font-weight: 760; font-size: var(--fs-1); }
+.bz-msg { min-height: 3.2em; margin-bottom: var(--s-3); }
+.bz-msg p { margin: 0; padding: var(--s-3) var(--s-4); border-radius: 0 var(--r-panel) var(--r-panel) 0; border-left: 4px solid var(--line); background: var(--shoal); }
+.bz-msg .bz-msg-ok { border-left-color: var(--ok); background: var(--ok-soft); }
+.bz-msg .bz-msg-alerta { border-left-color: var(--aviso); background: var(--aviso-soft); }
+.bz-msg .bz-msg-erro { border-left-color: var(--erro); background: var(--erro-soft); }
+.bz-etapas { margin: 0 0 var(--s-4); padding-left: 1.4em; display: flex; flex-direction: column; gap: 4px; font-size: 0.95rem; }
+.bz-etapas li { color: var(--ink-2); }
+.bz-etapas li::marker { color: var(--ink-3); }
+.bz-etapas li[data-st="ok"] { color: var(--ok); font-weight: 650; }
+.bz-etapas li[data-st="ok"]::marker { color: var(--ok); }
+.bz-etapas li[data-st="alerta"] { color: var(--ink); font-weight: 650; background: var(--aviso-soft); border-radius: 4px; padding: 0 4px; }
+
+/* ---------- desafio ---------- */
+.bz-des { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-4); align-items: start; }
+@media (min-width: 760px) { .bz-des { grid-template-columns: minmax(220px, 300px) minmax(0, 1fr); } }
+.bz-des-vista { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: var(--s-2); min-height: 220px; background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-4); }
+.bz-des-svg { width: 130px; height: 176px; }
+.bz-des-noite { background: var(--bz-noite); color: var(--bz-noite-ink); text-align: center; border: 1px solid var(--line); }
+.bz-des-noite .rl-noite { border: 0; background: transparent; padding: 0; }
+.bz-des-noite .bz-vista-cap { color: var(--bz-noite-ink); opacity: 0.88; }
+.bz-des-noite .rl-lamp { width: min(160px, 50vw); }
+.bz-des-painel { min-width: 0; }
+.bz [aria-pressed="true"] .rl-en { color: inherit; opacity: 0.85; }
+
+/* ---------- tema escuro ----------
+   Desenhos de dia ficam sobre um fundo "luz do dia" atenuado, para o preto da boia não sumir no fundo escuro.
+   Na carta escura (como no modo noturno do ECDIS) o preto vira um cinza escuro, com contorno claro. */
+.widget-boias-iala { --bz-dia: var(--shoal); --bz-preta-carta: var(--bz-preta); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .widget-boias-iala {
+    --bz-dia: color-mix(in srgb, var(--nav-white) 30%, var(--shoal));
+    --bz-preta-carta: color-mix(in srgb, var(--ink) 28%, var(--paper));
+  }
+}
+:root[data-theme="dark"] .widget-boias-iala {
+  --bz-dia: color-mix(in srgb, var(--nav-white) 30%, var(--shoal));
+  --bz-preta-carta: color-mix(in srgb, var(--ink) 28%, var(--paper));
+}
+.bz-vista:not(.bz-vista-noite), .bz-des-vista:not(.bz-des-noite) { background: var(--bz-dia); }
+.bz-vista:not(.bz-vista-noite) .bz-vista-cap { color: var(--ink); }
+.bz-mini { background: var(--bz-dia); }
+.bz-mini[aria-pressed="true"] { background: color-mix(in srgb, var(--magenta) 16%, var(--bz-dia)); }
+.bz-cena:not(.bz-3d):not(.bz-cena-noite) { background: var(--bz-dia); }
+.bz-mapa .bz-marca-svg { --bz-preta: var(--bz-preta-carta); }

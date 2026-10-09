@@ -1,0 +1,16 @@
+{
+ "verdicts": [
+  {
+   "id": "online-seven-seas-miles-building",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte 200; entidade ativa (página atualizada 2026-09-27), Miles Building confere com a evidência."
+  },
+  {
+   "id": "online-sailingnetworks-crew-finder",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200; Crew Finder ativo com anúncios de 5 Oct 2026 (cruising, delivery, mile building, ocean)."
+  }
+ ]
+}

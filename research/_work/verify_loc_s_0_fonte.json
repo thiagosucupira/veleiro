@@ -1,0 +1,126 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_s-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Confirmado; a norma diz 'CHA ou CIR' (a afirmação omite CIR, imprecisão menor)."
+  },
+  {
+   "id": "loc_s-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "notes": "Página tem seções Grande Florianópolis e Interior do Estado, atualizada em 25/06/2026 13:43."
+  },
+  {
+   "id": "loc_s-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-18",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/cppr/entidades_nauticas",
+   "notes": "Nem todos: a entrada Native Jetski Curitiba (Portaria 10/2026) é credenciada só para Atestado de Motonauta; página atualizada em 24/08/2026 e lista em 02/04/2025 conferem.",
+   "correction": "A lista da CPPR traz ETNs credenciados para atestado de Arrais-Amador e Motonauta, exceto Native Jetski Curitiba, credenciada apenas para Motonauta.",
+   "evidence_quote": "Credenciado para emissão de Atestado de Treinamento para Motonauta"
+  },
+  {
+   "id": "loc_s-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cppr/entidades_nauticas",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  },
+  {
+   "id": "loc_s-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dellaguna/entidades_nauticas",
+   "notes": "Trecho achado literalmente na fonte e a afirmação o reflete fielmente."
+  }
+ ]
+}

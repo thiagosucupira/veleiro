@@ -1,0 +1,46 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-mestre-1-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "4.19.1 a) ... certificado de compensação ou curva de desvio, atualizados a cada 2 anos",
+   "notes": "Texto idêntico no consolidado de 03/03/2026; índice da DPC (07/10/2026) ainda mostra a Portaria nº 200 de 27/02/2026 como a vigente, sem portaria posterior."
+  },
+  {
+   "id": "extra-mestre-1-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "I) Navegação costeira: 1 (um) aparelho; e II) Navegação oceânica: 2 (dois) aparelhos",
+   "notes": "Confere com o texto consolidado vigente; sem portaria posterior ao índice da DPC; sem alteração nos anexos."
+  },
+  {
+   "id": "extra-mestre-1-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado",
+   "notes": "Confere com 4.19.3 b) do texto consolidado; Portaria 200/2026 segue sendo a mais recente no índice, e os anexos não alteram o item."
+  },
+  {
+   "id": "extra-mestre-1-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Poderá ser aceito um Sistema de Cartas Eletrônicas (ECS - Electronic Chart System)",
+   "notes": "Confere com 4.20 do consolidado vigente (Portaria 200/2026 ainda a última no índice da DPC)."
+  },
+  {
+   "id": "extra-mestre-1-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "01 AGULHA MAGNÉTICA 4.19 Obrigatória (Compensada ou curva de desvio, válido por 2 anos)",
+   "notes": "Quadro 4.34 (linhas 4749-4757 do acervo) confere com a afirmação; a checagem automática falhou só por formatação de tabela, e a norma segue vigente."
+  },
+  {
+   "id": "extra-mestre-1-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/catalogo-de-cartas-e-publicacoes",
+   "evidence_quote": "CATÁLOGO DE CARTAS E PUBLICAÇÕES 2026-2030 ... 15ª edição ... Posto de Vendas da EMGEPRON ... Niterói ... cartasnauticasbrasil.com.br",
+   "notes": "Reaberta a página do CHM hoje (atualizada em 26/08/2026): catálogo 2026-2030, 15ª edição, mesmos pontos de venda."
+  }
+ ]
+}

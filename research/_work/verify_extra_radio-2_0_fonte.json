@@ -1,0 +1,124 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-radio-2-01",
+   "verdict": "divergente",
+   "evidence_url": "https://cruzvermelha.org.br/en/campanhas/primeiros-socorros/",
+   "evidence_quote": "de acordo com a didática do Centro de Referência Global em Primeiros Socorros do Movimento Internacional da Cruz Vermelha, sediado em Paris",
+   "correction": "Os cursos são ministrados por instrutores capacitados pela CVB, de acordo com a didática do Centro de Referência Global em Primeiros Socorros do Movimento Internacional da Cruz Vermelha, sediado em Paris (4 h básico, 30 h avançado).",
+   "notes": "Horas 4 e 30 conferem; a seção do curso diz 'Movimento Internacional', não 'Federação Internacional' (esta aparece em outra seção da mesma página). Atribuição divergente, correção menor."
+  },
+  {
+   "id": "extra-radio-2-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/basic-sea-survival-certificate/",
+   "evidence_quote": "a practical session in a swimming pool, as you experience the problems of entering an uncooperative life raft and assisting your 'crew mates' first hand - all while fully kitted out in wet weather gear and a lifejacket",
+   "notes": "Sessão prática em piscina, entrar na balsa e ajudar colegas, com roupa de mau tempo e colete: confere."
+  },
+  {
+   "id": "extra-radio-2-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "6.1.1 The status of 'World Sailing Approved' ... may only be awarded to a training course by a World Sailing MNA ... 6.2.1 It is not necessary for a training course to follow the Appendix G Model Training Course to be approved ... but the course must deliver the training required by Special Regulation 6.02.",
+   "notes": "Itens 6.1.1 (só MNA) e 6.2.1 (não precisa seguir o modelo) conferidos no texto do OSR em cache."
+  },
+  {
+   "id": "extra-radio-2-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "Unless otherwise stated in the Notice of Race, it is not mandatory that a training course for compliance with SR 6.01 and 6.02 is 'World Sailing Approved,' however this status is encouraged wherever possible.",
+   "notes": "Item 6.5 do Apêndice G: não obrigatório salvo Notice of Race, status encorajado."
+  },
+  {
+   "id": "extra-radio-2-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "A score of 70% in each of the marked units, plus the instructors' continuous assessments, will provide an overall evaluation.",
+   "notes": "Introdução item 4 do Apêndice G: final de cada dia são exercícios/provas; 70% + avaliação contínua. Confere."
+  },
+  {
+   "id": "extra-radio-2-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "A warm-water swimming pool, deep enough to float everyone, is most suitable for demonstration/training with lifejackets and liferafts ... an outdoor location with proper safety equipment, personnel and facilities is required for demonstration and training with pyrotechnics and fire extinguishers.",
+   "notes": "Itens A3.4 e A3.5 do Apêndice G conferem."
+  },
+  {
+   "id": "extra-radio-2-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "Part B Day 1 ... sessions 1-10 (theory only: crew overboard, hypothermia, crew health, marine weather, heavy weather, storm sails, damage control, search and rescue organisation) ... Day 2 total hours including break = 08:00 04:00 04:00",
+   "notes": "Parte C: Dia 1 só teoria com 10 sessões listadas; Dia 2 tem 4h teoria + 4h prática com as sessões citadas. Confere."
+  },
+  {
+   "id": "extra-radio-2-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "The course is planned for at least a full day and includes the following sessions. ... 2.0 Cat 4 contents ... 3.0 Support options ... 4.1 L-ABCDE ... 4.2 Stopping of serious external bleeding ... 5.3 Helicopter evacuation ... 6.0 Seasickness 6.1 Hypothermia 6.2 Dehydration ... 7.0 CPR ... 8.1 when to call for outside assistance, when to retire and proceed to nearest harbour",
+   "notes": "Apêndice H, Parte 2: curso de pelo menos um dia com as sessões citadas; 'interromper a regata' = 'retire from the race'."
+  },
+  {
+   "id": "extra-radio-2-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "It is suggested that instructors be suitably trained and ideally a medical doctor, paramedics or nurse.",
+   "notes": "Apêndice H, Parte 1, item 3: sugestão literal confere."
+  },
+  {
+   "id": "extra-radio-2-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "evidence_quote": "6.06 Diving Training MoMu0 At least 30% of the crew shall have received diving training to enable them to carry out basic repairs underwater and to assist recovering a crew overboard.",
+   "notes": "Texto literal confere e a marcação MoMu0 indica aplicação à Categoria 0."
+  },
+  {
+   "id": "extra-radio-2-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "evidence_quote": "CARGA HORÁRIA TOTAL: 34 HORAS ... 3.4 - TÉCNICAS DE SOBREVIVÊNCIA PESSOAL 8 HORAS ... 3.5 - PRIMEIROS SOCORROS ELEMENTARES 4 HORAS ... 3.6 - PREVENÇÃO E COMBATE A INCÊNDIO 8 HORAS ... 2.5 a) nota igual ou superior a 6,0 ... conceito satisfatório ... frequência 90% ... Qualificar o aluno, não tripulante, para tarefas a bordo de navios de passageiros",
+   "notes": "Todos os números, a nota 6,0, o conceito e os 90% conferem na sinopse do CBSN."
+  },
+  {
+   "id": "extra-radio-2-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "evidence_quote": "CARGA HORÁRIA REAL...... 36 HORAS ... AVALIAÇÃO 02 HORAS ... TEMPO RESERVA 02 HORAS ... CARGA HORÁRIA TOTAL 40 HORAS ... 3.1 SEGURANÇA PESSOAL E RESPONSABILIDADE SOCIAL 08 HORAS ... 3.2 PRIMEIROS SOCORROS ELEMENTARES 06 HORAS ... 3.3 PREVENÇÃO E COMBATE A INCÊNDIO 10 HORAS ... 3.4 ... 09 HORAS ... 3.5 CONSCIENTIZAÇÃO DE PROTEÇÃO 03 HORAS",
+   "notes": "Sinopse do CBSP: 36+2+2=40 e todas as disciplinas conferem; nota 6,0, conceito e 90% conferem."
+  },
+  {
+   "id": "extra-radio-2-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_11.pdf",
+   "evidence_quote": "CARGA HORÁRIA TOTAL: 52 HORAS ... APROVO CARGA HORÁRIA REAL: 48 HORAS ... I - PRIMEIROS SOCORROS 18 HORAS ... II - PRÁTICA DE PRIMEIROS SOCORROS 10 HORAS ... III - GESTÃO DE SAÚDE 20 HORAS ... Os instrutores deverão ter capacitação por instituição de ensino reconhecida e sólida experiência profissional em emergência hospitalar",
+   "notes": "Sinopse do CPSO: 52 total, 48 de aula, disciplinas e exigência de experiência hospitalar dos instrutores conferem."
+  },
+  {
+   "id": "extra-radio-2-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/offshore-personal-survival-course-ryaworld-sailing/",
+   "evidence_quote": "Required experience None Minimum age None",
+   "notes": "Ficha do RYA Offshore Personal Survival Course: sem experiência nem idade mínima."
+  },
+  {
+   "id": "extra-radio-2-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/first-aid-course/",
+   "evidence_quote": "the RYA First Aid course has been specifically developed for water users. The one-day classroom course is taught by instructors with considerable boating experience ... Required experience None Minimum age None ... ideally everyone should do the course. It can be very difficult for just one person to navigate, helm, call for help and resuscitate at the same time!",
+   "notes": "Todos os elementos da afirmação estão na descrição do curso RYA First Aid."
+  },
+  {
+   "id": "extra-radio-2-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "evidence_quote": "2.1 f) O curso será composto de aulas teóricas e de participações práticas nos assuntos de sobrevivência, primeiros socorros e combate a incêndio, em locais apropriados ... 2.2 b) As partes práticas ... equipamentos de proteção para cada aluno; instrutores e monitores capacitados; e segurança do evento com apoio e socorro no local.",
+   "notes": "CBSN 2.1 f e 2.2 b conferem; o CBSP tem o mesmo texto (2.1 f e 2.2 b, 'EPI para cada aluno', 'segurança, apoio e socorro no local'), verificado em SINOPSE_0."
+  },
+  {
+   "id": "extra-radio-2-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "evidence_quote": "DURAÇÃO: 5 DIAS CARGA HORÁRIA TOTAL: 40 HORAS ... 2.1 d) ter mais de dezoito (18) anos, no dia da matrícula; ter concluído o ensino fundamental; e possuir boas condições de saúde física e mental ... 3.2 PRIMEIROS SOCORROS ELEMENTARES 06 HORAS ... 3.4 TÉCNICAS DE SOBREVIVÊNCIA PESSOAL E PROCEDIMENTOS DE EMERGÊNCIA 09 HORAS",
+   "notes": "Duração 5 dias/40 h, requisitos de matrícula e cargas de primeiros socorros (6h) e sobrevivência (9h) conferem na sinopse do CBSP."
+  }
+ ]
+}

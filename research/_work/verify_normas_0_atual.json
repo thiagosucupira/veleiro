@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "NORMAM 211 Normas da Autoridade Marítima para Atividades de Esporte e/ou Recreio PORTARIA DPC/DGN/MB Nº 200 , DE 27 DE FEVEREIRO DE 2026",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Página-índice reaberta hoje via Chrome (status 200): linha NORMAM 211 aponta Portaria nº 200/2026 e link Download para normam-211.pdf; Introdução item 6 do PDF diz que substitui a versão da Portaria nº 197, de 23/01/2026. Sem portaria posterior listada."
+  },
+  {
+   "id": "normas-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "3. PRINCIPAIS MODIFICAÇÕES No Capítulo 5, foi incluído como artigo 5.9 o seguinte texto: \"5.9. MARINHEIRO PROFISSIONAL DE ESPORTE E RECREIO (MPER)",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Introdução, item 3, p. XXI (linha 659 do texto local). É a única modificação listada no item 3; fundamento: Lei nº 15.283/2025."
+  },
+  {
+   "id": "normas-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "Art. 2º Os Amadores constituem um único grupo com as categorias constantes do item II do Anexo I a este Regulamento.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Confirmado também no Decreto 2.596/1998 (Planalto): anexo I, item II - CATEGORIAS DE AMADORES (CPA, MSA, ARA, MTA, VLA). NORMAM-211 Introdução item 2, p. XXI, cita Lei 9.537/1997 e Decreto 2.596/1998."
+  },
+  {
+   "id": "normas-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As áreas de navegação interior serão subdivididas nos seguintes tipos: Área 1 - áreas abrigadas",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-4 (linhas 860-864); Glossário p. VIII repete 'subdivididas em Área 1 ou Área 2'."
+  },
+  {
+   "id": "normas-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Área 1 - áreas abrigadas, tais como lagos, lagoas, baías, rios e canais, onde normalmente não sejam verificadas ondas com alturas significativas",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-4 (linha 861)."
+  },
+  {
+   "id": "normas-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Área 2 - áreas parcialmente abrigadas, onde eventualmente sejam observadas ondas com alturas significativas e/ou combinações adversas de agentes ambientais, tais como vento, correnteza ou maré",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-4 (linha 864)."
+  },
+  {
+   "id": "normas-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As Áreas de Navegação Interior são delimitadas pelas CP/DL/AG com base nas peculiaridades locais, e constam nas respectivas Normas e Procedimentos (NPCP/NPCF) de cada uma.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 4.7, p. 4-4 (linha 4000); art. 1.7 p. 1-4 diz o mesmo ('estabelecidas através das NPCP/NPCF')."
+  },
+  {
+   "id": "normas-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Costeira - aquela realizada dentro dos limites de visibilidade da costa até a distância máxima de 20 milhas náuticas.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-4 (linha 855) e Glossário p. VIII (linha 250)."
+  },
+  {
+   "id": "normas-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Oceânica - aquela considerada sem restrições e realizada além das 20 milhas náuticas da costa.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-4 (linha 857) e Glossário p. VIII (linha 254)."
+  },
+  {
+   "id": "normas-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Costeira - aquela realizada entre portos nacionais e estrangeiros dentro do limite da visibilidade da costa, não excedendo a 20 milhas náuticas (Mestre-Amador).",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 4.7, p. 4-4 (linha 3990). Coerente com art. 5.3.3 b (MSA até 20 MN)."
+  },
+  {
+   "id": "normas-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Oceânica - também definida como sem restrições, isto é, aquela realizada entre portos nacionais e estrangeiros fora dos limites de visibilidade da costa e sem outros limites estabelecidos (Capitão-Amador).",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 4.7, p. 4-4 (linha 3980). Coerente com art. 5.3.3 a."
+  },
+  {
+   "id": "normas-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Navegação Interior 2 - ... onde eventualmente as condições ambientais com ondas e ventos significativos, possam comprometer a segurança da embarcação (Arrais-Amador, Veleiro e Motonauta).",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 4.7, p. 4-4 (linhas 3992-3999): Interior 1 e Interior 2 trazem ambas '(Arrais-Amador, Veleiro e Motonauta)'."
+  },
+  {
+   "id": "normas-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Para os efeitos de dotação de equipamentos de navegação, segurança e salvatagem, de habilitação do condutor (categoria do Amador), e para atendimento de requisitos de estabilidade intacta",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 4.7, p. 4-3 (linha 3971)."
+  },
+  {
+   "id": "normas-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Com relação à habilitação do condutor, é de porte obrigatório (física ou digital), deverá ser compatível com a área de navegação em que estiver trafegando",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 4.1, p. 4-1 (linha 3859); repetido nas linhas 4020 e 4110 (cap. 4)."
+  },
+  {
+   "id": "normas-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação Miúda - para aplicação dessa norma são consideradas embarcações miúdas aquelas que tenham comprimento menor ou igual a seis (6) metros",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-7 (linha 972); Glossário (linha 186) idêntico."
+  },
+  {
+   "id": "normas-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação de Pequeno Porte – é considerada embarcação de pequeno porte aquelas com comprimento maior que 6 metros e menor que 12 metros.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-7 (linha 965). 32 pés x 0,3048 = 9,75 m, dentro da faixa. Atenção: o Glossário (p. VII) não tem 'pequeno porte' e classifica <24 m não-miúda como médio porte; tabelas do cap. 4 (ex.: boias, linha 4150) usam 'médio porte com menos de doze metros'."
+  },
+  {
+   "id": "normas-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação de Médio Porte - é considerada embarcação de médio porte aquelas com comprimento maior que 12 metros e menor que 24 metros.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-7 (linha 963). Diverge internamente do Glossário (ver normas-18)."
+  },
+  {
+   "id": "normas-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "EMBARCAÇÃO DE MÉDIO PORTE - é considerada embarcação de médio porte aquelas com comprimento inferior a 24 metros, exceto as miúdas.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Glossário, p. VII (linha 179). Inconsistência interna confirmada: art. 1.7 (p. 1-7) define médio porte como >12 e <24 m; cap. 4 (linhas 4150-4152) subdivide médio porte em <12 m e >=12 m, coerente com o Glossário."
+  },
+  {
+   "id": "normas-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Embarcação de Grande Porte ou Iate - é considerada embarcação de grande porte ou iate, aquelas com comprimento igual ou maior que 24 metros.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-6 (linha 951); Glossário p. VII idem."
+  },
+  {
+   "id": "normas-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "definido como sendo a distância horizontal entre os pontos extremos da proa a popa. Plataformas de mergulho, gurupés ou apêndices similares não são considerados para o cômputo dessa medida",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.7, p. 1-5 (linha 899); Glossário (linha 141) idem."
+  },
+  {
+   "id": "normas-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "só podem navegar a partir de cem metros da linha de base (para as que utilizam propulsão a remo ou a vela) ou a partir de duzentos metros da linha de base (para as que utilizam propulsão a motor).",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.8.1, p. 1-9 (linha 1070)."
+  },
+  {
+   "id": "normas-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deve ser realizado perpendicularmente a essa, e com velocidade baixa, abaixo de três nós.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 1.8.1, p. 1-9 (linha 1078)."
+  },
+  {
+   "id": "normas-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "evidence_quote": "II - CATEGORIAS DE AMADORES CATEGORIA SIGLA Capitão-Amador CPA Mestre-Amador MSA Arrais-Amador ARA Motonauta MTA Veleiro VLA",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Confirmado no RLESTA (Planalto, anexo I item II) e na NORMAM-211 art. 5.3.1, p. 5-1 (linhas 5122-5126)."
+  },
+  {
+   "id": "normas-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) Capitão-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros, sem limite de afastamento da costa, exceto moto aquática.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 5.3.3 a, p. 5-1 (linha 5135)."
+  },
+  {
+   "id": "normas-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) Mestre-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros nos limites da navegação costeira (até 20 MN), exceto moto aquática.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 5.3.3 b, p. 5-1 (linha 5137)."
+  },
+  {
+   "id": "normas-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) Arrais-Amador - apto para conduzir embarcações nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF, exceto moto aquática.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 5.3.3 c, p. 5-1 (linha 5139)."
+  },
+  {
+   "id": "normas-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "d) Motonauta - apto para conduzir moto aquática nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 5.3.3 d, p. 5-1 (linha 5141)."
+  },
+  {
+   "id": "normas-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "e) Veleiro - apto para conduzir embarcações a vela sem propulsão a motor, nos limites da navegação interior.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 5.3.3 e, p. 5-2 (linha 5155)."
+  },
+  {
+   "id": "normas-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Observação 1: Os CPA, MSA e ARA habilitados a partir de 2 de julho de 2012 deverão ser, também, habilitados na categoria de MTA para condução de moto aquática.",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 5.3.3, Observação 1, p. 5-1 (linha 5143)."
+  },
+  {
+   "id": "normas-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A habilitação dos amadores será comprovada por meio da Carteira de Habilitação de Amador (CHA), física ou digital, sendo o seu porte obrigatório",
+   "notes": "Conferido de forma independente no texto local do PDF consolidado de 03/03/2026 (research/acervo/normam-211.txt); página-índice DPC reaberta em 2026-10-07 lista NORMAM 211 com Portaria DPC/DGN/MB nº 200, de 27/02/2026 (nenhuma portaria posterior para a 211). Art. 5.3.3, p. 5-1 (linhas 5131-5133); art. 4.1 p. 4-1 reforça porte obrigatório."
+  }
+ ]
+}

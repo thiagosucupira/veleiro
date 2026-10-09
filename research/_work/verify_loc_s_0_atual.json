@@ -1,0 +1,145 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_s-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Texto consolidado de 03/03/2026 confirma a alínea c do 5.3.3; índice sem portaria posterior; limites concretos dependem da NPCP de cada Capitania.",
+   "evidence_quote": "c) Arrais-Amador - apto para conduzir embarcações nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF, exceto moto aquática."
+  },
+  {
+   "id": "loc_s-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Alínea b do 5.3.3 confere no texto consolidado vigente (Portaria 200/2026), sem portaria posterior no índice.",
+   "evidence_quote": "b) Mestre-Amador - apto para conduzir embarcações ... nos limites da navegação costeira (até 20 MN)"
+  },
+  {
+   "id": "loc_s-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Alínea a do 5.3.3 confere no texto consolidado vigente (Portaria 200/2026), sem portaria posterior no índice.",
+   "evidence_quote": "a) Capitão-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros, sem limite de afastamento da costa"
+  },
+  {
+   "id": "loc_s-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Alínea e do 5.3.3 confere no texto vigente; índice DPC sem portaria posterior à 200/2026.",
+   "evidence_quote": "e) Veleiro - apto para conduzir embarcações a vela sem propulsão a motor, nos limites da navegação interior."
+  },
+  {
+   "id": "loc_s-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "5.5.2 a/b confere no texto vigente (CHA-VLA facultativa para miúdas só à vela; médio/grande porte ARA/MSA/CPA); sem portaria posterior.",
+   "evidence_quote": "Para embarcações à vela de médio ou grande porte, a habilitação deverá obedecer os critérios previstos para a área de navegação ... ARA ... MSA ... CPA"
+  },
+  {
+   "id": "loc_s-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "5.5.2 b confere no texto vigente (idade mínima oito anos para CHA-VLA miúdas); sem portaria posterior.",
+   "evidence_quote": "deverá possuir idade mínima de oito anos"
+  },
+  {
+   "id": "loc_s-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "5.5.2 c VII confere e os anexos 5-G e 5-B do ZIP (mais novo) existem e são coerentes (5-G remete à sinopse do 5-B).",
+   "evidence_quote": "Declaração da marina, clube, entidade desportiva náutica ou estabelecimento de treinamento náutico cadastrado, conforme constante no anexo 5-G"
+  },
+  {
+   "id": "loc_s-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "5.4.1 f confere no texto vigente (reconhecimento de firma ou GOV.BR do ETN, instrutor e aluno); porém o formulário do anexo 5-E (ZIP e consolidado) traz só linha de assinatura do responsável/pessoa física.",
+   "evidence_quote": "deverá ser apresentado o Atestado de Treinamento Náutico para Arrais-Amador com reconhecimento de firma em cartório, ou assinatura digital pelo GOV.BR do representante legal da ETN, do instrutor e do aluno, conforme anexo 5-E"
+  },
+  {
+   "id": "loc_s-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Nota do 5.4.1 confere no texto vigente; Anexo 5-A do ZIP também trata do atestado 5-E emitido pelo estabelecimento ou pessoa física.",
+   "evidence_quote": "poderão ser obtidos mediante treinamento náutico (aulas práticas) em estabelecimentos de treinamento náutico/pessoas físicas devidamente credenciadas nas CP/DL/AG"
+  },
+  {
+   "id": "loc_s-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Nota do 5.4.1 confere integralmente (ARA válido para MSA; MSA válido para CPA) no texto vigente; sem portaria posterior.",
+   "evidence_quote": "para a inscrição ao exame da categoria de mestre-amador, o candidato deverá possuir habilitação na categoria de arrais-amador, dentro da validade. Já para ... capitão-amador ... mestre-amador, dentro da validade"
+  },
+  {
+   "id": "loc_s-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "5.4.2 a confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "prova escrita (ou eletrônica) no idioma português (Brasil), devendo o candidato possuir idade mínima de 18 (dezoito) anos e saber ler e escrever"
+  },
+  {
+   "id": "loc_s-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "6.2 confere no texto vigente de 03/03/2026; sem portaria posterior no índice.",
+   "evidence_quote": "Somente os estabelecimentos que possuam o Certificado de Cadastramento válido junto às CP/DL/AG de sua jurisdição poderão funcionar como marina, clube e entidade desportiva náutica"
+  },
+  {
+   "id": "loc_s-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "6.2.1 a confere (TIE/PRPM, CHA/CIR, Aviso de Saída ou App NAVSEG) no texto vigente; sem portaria posterior.",
+   "evidence_quote": "i) a apresentação do TIE ou PRPM dentro da validade; ii) a apresentação da CHA ou CIR do condutor, dentro da validade; e iii) o preenchimento do Aviso de Saída, ou registro no App NAVSEG."
+  },
+  {
+   "id": "loc_s-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "6.8 confere no texto vigente; sem portaria posterior no índice.",
+   "evidence_quote": "poderão organizar cursos em suas sedes, voltados para a formação na categoria de Veleiro devendo, entretanto, serem credenciados junto às CP/DL/AG"
+  },
+  {
+   "id": "loc_s-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "notes": "Página reaberta hoje mostra 'Atualizado em 25/06/2026 - 13:43' e tabelas Grande Florianópolis e Interior do Estado.",
+   "evidence_quote": "ESTABELECIMENTOS E PESSOAS FÍSICAS CADASTRADOS PARA O TREINAMENTO NÁUTICO PERANTE À CPSC"
+  },
+  {
+   "id": "loc_s-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "notes": "Página atual lista Lagoa da Conceição / Pró Náutica com vencimento 08/2027.",
+   "evidence_quote": "Lagoa da Conceição\tPró Náutica\t(48) 3232-9173 ... 08/2027"
+  },
+  {
+   "id": "loc_s-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsc/escolas-nauticas",
+   "notes": "Página atual lista Ponta das Canas / Sampaio com vencimento 10/2028.",
+   "evidence_quote": "Ponta das Canas\tSampaio\t(48) 9.8466-2994 ... 10/2028"
+  },
+  {
+   "id": "loc_s-18",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/cppr/entidades_nauticas",
+   "notes": "Datas (02/04/2025; página 24/08/2026) conferem, mas 'todos' é falso: Native Jetski Curitiba (Portaria 10/2026) está credenciada só para Motonauta.",
+   "correction": "A CPPR publica a lista de ETN credenciados (lista 'Atualizado em: 02/04/2025'; página atualizada em 24/08/2026); quase todos emitem atestado de Arrais-Amador e de Motonauta, mas ao menos um (Native Jetski Curitiba) emite apenas o de Motonauta.",
+   "evidence_quote": "NATIVE JETSKI CURITIBA (Portaria Nº 10/2026) ... Credenciado para emissão de Atestado de Treinamento para Motonauta"
+  },
+  {
+   "id": "loc_s-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cppr/entidades_nauticas",
+   "notes": "Página CPPR atual lista Loba do Mar (Portaria Nº 07/2023), Av. Água Verde, nº 51, Curitiba/PR.",
+   "evidence_quote": "LOBA DO MAR (Portaria Nº 07/2023) | CNPJ: 05.115.665/0001-29 | Avenida Água verde, nº 51 – Água Verde – Curitiba/PR"
+  },
+  {
+   "id": "loc_s-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dellaguna/entidades_nauticas",
+   "notes": "Página atual mostra 'Atualizado em 19/05/2026 - 14:33' e o parágrafo de abertura citado.",
+   "evidence_quote": "Estabelecimentos de Treinamento Náutico para qualificação de Amadores ... emissão de Atestado de Treinamento para Arrais Amador e Atestado de Treinamento para Motonauta"
+  }
+ ]
+}

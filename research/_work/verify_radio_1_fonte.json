@@ -1,0 +1,198 @@
+{
+ "verdicts": [
+  {
+   "id": "radio-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Passo 7-A do tutorial traz literalmente os campos Capitania, Número da Inscrição e Viagem Internacional (mar aberto)."
+  },
+  {
+   "id": "radio-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Passo 10/11: se precisa de MMSI vai à etapa UIT/GMDSS, que tem Número de MMSI, Capacidade de Pessoas a Bordo e Contato de Emergência enviado à UIT."
+  },
+  {
+   "id": "radio-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://informacoes.anatel.gov.br/legislacao/component/content/article/170-resolucoes/2025/2022-resolucao-777",
+   "notes": "Art. 270 caput e §1º conferem textualmente."
+  },
+  {
+   "id": "radio-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://informacoes.anatel.gov.br/legislacao/component/content/article/170-resolucoes/2025/2022-resolucao-777",
+   "notes": "Art. 269 confere textualmente."
+  },
+  {
+   "id": "radio-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 4.23.6 d: 710 + seis dígitos, apêndice 43 UIT, 'conhecido como MMSI'."
+  },
+  {
+   "id": "radio-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Alíneas e e f conferem (cadastro INFOSAR obrigatório e atualização de propriedade/endereço/telefones)."
+  },
+  {
+   "id": "radio-39",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Texto presente no PDF (sem acentos no OCR): 406 MHz por satélite e 121,5 MHz não processada desde fev/2009."
+  },
+  {
+   "id": "radio-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Contexto mostra liberação/flutuação/ativação automáticas, ativação manual e lista cospas-sarsat.org de tipo aprovado."
+  },
+  {
+   "id": "radio-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://infosar.decea.mil.br/",
+   "notes": "Home do INFOSAR confere (balizas 406 MHz e SEND, login gov.br); página SAR do DECEA tem o link 'Registro ELT/EPIRB/PLB'."
+  },
+  {
+   "id": "radio-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://infosar.decea.mil.br/",
+   "notes": "Trecho confere literalmente."
+  },
+  {
+   "id": "radio-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/base-de-conhecimento/quais-os-tipos-de-balizas-de-emergencias-que-existem-para-aeronaves-e-embarcacoes/",
+   "notes": "Artigo cita ELT, EPIRB e PLB; 'registráveis no INFOSAR' decorre da categoria/plataforma, aceitável."
+  },
+  {
+   "id": "radio-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/base-de-conhecimento/o-que-e-o-registro-infosar/",
+   "notes": "Trecho confere literalmente; conflito com artigo de 2019 já sinalizado e prevalece o mais recente."
+  },
+  {
+   "id": "radio-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/base-de-conhecimento/no-caso-do-recebimento-do-sinal-de-emergencia-de-uma-baliza-406mhz-que-nao-esteja-registada-no-infosar-as-autoridades-de-resgate-irao-fazer-a-operacao-de-busca/",
+   "notes": "Trecho confere literalmente."
+  },
+  {
+   "id": "radio-46",
+   "verdict": "confirmado",
+   "evidence_url": "https://ajuda.decea.mil.br/sem-categoria/como-cadastrar-uma-baliza-406mhz-no-infosar/",
+   "notes": "Trecho confere literalmente."
+  },
+  {
+   "id": "radio-47",
+   "verdict": "confirmado",
+   "evidence_url": "https://www2.fab.mil.br/brmcc/index.php/codificacao",
+   "notes": "Página BRMCC confere: EPIRB não SOLAS com MMSI ou serial; PLB serial."
+  },
+  {
+   "id": "radio-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpm/185",
+   "notes": "Página do CPM Macaé confere (24 h, sistemas de comunicações e serviço 185)."
+  },
+  {
+   "id": "radio-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/com2dn/salvamar-leste",
+   "notes": "Lei 7.273/1984 e definição de SALVAMAR conferem."
+  },
+  {
+   "id": "radio-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Anexo 5-A item 3.h confere."
+  },
+  {
+   "id": "radio-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Alíneas m e n conferem."
+  },
+  {
+   "id": "radio-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Itens 1.6 e 1.7 conferem (EPIRB, SART, sobrevivência)."
+  },
+  {
+   "id": "radio-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/offshore-cursos",
+   "notes": "Lista de cursos da página DPC inclui CROG, CPSO, CBSP, CBSN e CESS."
+  },
+  {
+   "id": "radio-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_10.pdf",
+   "notes": "Sinopse CROG: 3 semanas, 88 h, Radioperador Geral, Regra IV/2 STCW."
+  },
+  {
+   "id": "radio-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_10.pdf",
+   "notes": "Requisitos conferem (médio, 18 anos, atestado, inglês e computação básicos)."
+  },
+  {
+   "id": "radio-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_11.pdf",
+   "notes": "CPSO 7 dias/52 h, A-VI/4 e Tabela A-VI/4-1 conferem; exigência de CBSP em 5 anos citada no trecho."
+  },
+  {
+   "id": "radio-57",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "correction": "CBSP: 5 dias, 40 h, exige mais de 18 anos (não 'ter 18 anos'), ensino fundamental concluído e boa saúde; primeiros socorros elementares 6 h e técnicas de sobrevivência pessoal 9 h.",
+   "evidence_quote": "ter mais de dezoito (18) anos, no dia da matrícula; ter concluído o ensino fundamental",
+   "notes": "Sinopse diz 'mais de 18 anos', a afirmação diz 18 anos; demais números (40 h, 6 h, 9 h) conferem."
+  },
+  {
+   "id": "radio-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "notes": "34 h, não tripulante, Regra V/2, Tabelas A-VI/1-1 a 1-4 e validade de 5 anos conferem; 'inclui primeiros socorros' é inferência das tabelas A-VI/1."
+  },
+  {
+   "id": "radio-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Instituicoes_credenciadas_para_ministrar_Cursos_e_Treinamento_na_Modalidade_Presencial.pdf",
+   "notes": "Lista (30/09/2026) confere: CROG Rio (ICN) e Macaé (RelyOn Nutec, West Group); CBSN/CBSP em Recife, Salvador, Aracaju, Fortaleza e CBSP Guamaré e Mossoró."
+  },
+  {
+   "id": "radio-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Trecho confere literalmente."
+  },
+  {
+   "id": "radio-61",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Course overview confere (10 h + exame, online/sala, sem experiência, 16 anos)."
+  },
+  {
+   "id": "radio-62",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Página confere: £76 pagos ao RYA, separado do curso, exame teórico escrito + prático."
+  },
+  {
+   "id": "radio-63",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/",
+   "notes": "Elegibilidade confere literalmente."
+  },
+  {
+   "id": "radio-64",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/regulations/licensing-onboard-electronics/",
+   "notes": "Seção 'Using the SRC abroad' confere (CEPT harmonizado; Authority to Operate restringe a embarcações do Reino Unido)."
+  }
+ ]
+}

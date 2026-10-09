@@ -1,0 +1,191 @@
+{
+ "claims": [
+  {
+   "id": "extra-radio-2-01",
+   "topic": "cursos-br",
+   "claim": "A Cruz Vermelha Brasileira oferece cursos de primeiros socorros abertos a quem queira aprender, com curso básico de 4 horas e avançado de 30 horas, ministrados segundo a didática do Centro de Referência Global em Primeiros Socorros da Federação Internacional da Cruz Vermelha.",
+   "source_url": "https://cruzvermelha.org.br/en/campanhas/primeiros-socorros/",
+   "locator": "Página 'Primeiros Socorros', seção 'Curso de Primeiros Socorros'",
+   "quote": "Há vários cursos. O básico dura 4 horas. O avançado, 30 horas.",
+   "official": false,
+   "confidence": "media",
+   "notes": "Página institucional sem data; turmas, preços e cidades devem ser confirmados com a seção local da CVB. Não é curso voltado a navegantes."
+  },
+  {
+   "id": "extra-radio-2-02",
+   "topic": "cursos-exterior",
+   "claim": "O RYA Basic Sea Survival tem uma sessão prática em piscina, em que o aluno tenta entrar numa balsa salva-vidas e ajuda os colegas, vestido com roupa de mau tempo e colete salva-vidas.",
+   "source_url": "https://www.rya.org.uk/course-finder/basic-sea-survival-certificate/",
+   "locator": "Course description",
+   "quote": "a practical session in a swimming pool, as you experience the problems of entering an uncooperative life raft and assisting your ‘crew mates’ first hand - all while fully kitted out in wet weather gear and a lifejacket",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-03",
+   "topic": "osr-treino",
+   "claim": "Pelo Apêndice G das OSR, o status 'World Sailing Approved' só pode ser dado a um curso por uma autoridade nacional membro (MNA) da World Sailing, e o curso não precisa seguir o curso modelo do apêndice para ser aprovado, desde que entregue o treinamento exigido pela OSR 6.02.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, Apêndice G, itens 6.1.1 e 6.2.1, p. 53-54",
+   "quote": "It is not necessary for a training course to follow the Appendix G Model Training Course to be approved as in 6.1 above, but the course must deliver the training required by Special Regulation 6.02.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-04",
+   "topic": "osr-treino",
+   "claim": "Pelo Apêndice G das OSR (item 6.5), salvo disposição em contrário do Aviso de Regata, não é obrigatório que o curso de treinamento seja 'World Sailing Approved' para cumprir a OSR 6.01 e 6.02, embora o status seja incentivado.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, Apêndice G, item 6.5, p. 54",
+   "quote": "Unless otherwise stated in the Notice of Race, it is not mandatory that a training course for compliance with SR 6.01 and 6.02 is “World Sailing Approved,”",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-05",
+   "topic": "osr-treino",
+   "claim": "No curso modelo do Apêndice G das OSR, a avaliação final de cada dia é um exercício ou prova, e a nota de 70% em cada unidade avaliada, somada à avaliação contínua dos instrutores, dá a avaliação geral.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, Apêndice G, Introdução item 4, p. 53",
+   "quote": "A score of 70% in each of the marked units, plus the instructors’ continuous assessments, will provide an overall evaluation.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-06",
+   "topic": "osr-treino",
+   "claim": "O Apêndice G das OSR descreve como instalações adequadas ao curso uma piscina de água morna, funda o bastante para todos flutuarem, para treino com coletes e balsas, e um local externo, com segurança, para treino com pirotécnicos e extintores.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, Apêndice G, Parte A, itens A3.4 e A3.5, p. 55",
+   "quote": "A warm-water swimming pool, deep enough to float everyone, is most suitable for demonstration/training with lifejackets and liferafts",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-07",
+   "topic": "osr-treino",
+   "claim": "No cronograma modelo do Apêndice G das OSR, o dia 1 é de teoria (dez sessões, entre elas homem ao mar, hipotermia, saúde da tripulação, meteorologia, mau tempo, velas de tempestade, controle de avarias e organização de busca e salvamento) e o dia 2 é de prática, com 4 horas de teoria e 4 horas de prática (cuidado do equipamento, equipamento pessoal, balsa e abandono, incêndio, comunicações de emergência e pirotécnicos).",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, Apêndice G, Parte C, p. 59",
+   "quote": "Day 2, total hours including break = 08:00       04:00    04:00",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-08",
+   "topic": "osr-medico",
+   "claim": "O Apêndice H das OSR traz um curso modelo de primeiros socorros 'compatível com as OSR' de pelo menos um dia, com sessões sobre kits de primeiros socorros por categoria, comunicação de telemedicina, noções básicas de primeiros socorros (sequência L-ABCDE e controle de hemorragia), acidentes e doenças a bordo, evacuação por helicóptero, enjoo, hipotermia, desidratação, parada cardiorrespiratória (RCP) e decisão de quando pedir ajuda externa ou interromper a regata.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, Apêndice H, Parte 2, p. 61-63",
+   "quote": "The course is planned for at least a full day and includes the following sessions.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-09",
+   "topic": "osr-medico",
+   "claim": "O Apêndice H das OSR sugere que os instrutores do curso de primeiros socorros conheçam a situação específica do atendimento médico em alto-mar e, idealmente, sejam médicos, paramédicos ou enfermeiros.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, Apêndice H, Parte 1, item 3, p. 61",
+   "quote": "It is suggested that instructors be suitably trained and ideally a medical doctor, paramedics or nurse.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-10",
+   "topic": "osr-treino",
+   "claim": "Pela OSR 6.06, na Categoria 0 pelo menos 30% da tripulação deve ter recebido treinamento de mergulho para fazer reparos básicos submersos e ajudar a recuperar um homem ao mar.",
+   "source_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "locator": "OSR 2026-2027 v1, 6.06, p. 40",
+   "quote": "At least 30% of the crew shall have received diving training to enable them to carry out basic repairs underwater and to assist recovering a crew overboard.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-11",
+   "topic": "cursos-br",
+   "claim": "O currículo do CBSN (DPC) tem 34 horas, das quais 8 de técnicas de sobrevivência pessoal, 4 de primeiros socorros elementares e 8 de prevenção e combate a incêndio; a aprovação exige nota mínima 6,0 na prova teórica, conceito satisfatório nas atividades práticas e 90% de frequência; o curso tem finalidade de qualificar 'aluno, não tripulante' para tarefas em navios de passageiros.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "locator": "Sinopse Geral do CBSN, itens 1, 2.5 e 3",
+   "quote": "3.4 - TÉCNICAS DE SOBREVIVÊNCIA PESSOAL ................................................ 8 HORAS",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-12",
+   "topic": "cursos-br",
+   "claim": "O currículo do CBSP (DPC) tem 40 horas (36 de aula, 2 de avaliação e 2 de reserva): segurança pessoal e responsabilidade social 8 h, primeiros socorros elementares 6 h, prevenção e combate a incêndio 10 h, técnicas de sobrevivência pessoal e procedimentos de emergência 9 h e conscientização de proteção 3 h; exige nota mínima 6,0, conceito satisfatório nas práticas e 90% de frequência.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "locator": "Sinopse Geral do CBSP, itens 2.5 e 3",
+   "quote": "3.4    TÉCNICAS DE SOBREVIVÊNCIA PESSOAL E PROCEDIMENTOS DE EMERGÊNCIA .... 09 HORAS",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-13",
+   "topic": "cursos-br",
+   "claim": "O currículo do CPSO (DPC) tem 52 horas (48 de aula): primeiros socorros 18 h, prática de primeiros socorros 10 h e gestão de saúde 20 h; os instrutores devem ter experiência profissional em emergência hospitalar; exige nota mínima 6,0, conceito satisfatório nas práticas e 90% de frequência.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_11.pdf",
+   "locator": "Sinopse Geral do CPSO, itens 2.1 f), 2.5 e 3",
+   "quote": "I - PRIMEIROS SOCORROS.............................................................................................18 HORAS",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-14",
+   "topic": "cursos-exterior",
+   "claim": "O RYA Offshore Personal Survival Course (RYA/World Sailing) não exige experiência prévia nem idade mínima, segundo a ficha do curso no RYA.",
+   "source_url": "https://www.rya.org.uk/course-finder/offshore-personal-survival-course-ryaworld-sailing/",
+   "locator": "Course overview",
+   "quote": "Required experience None Minimum age None",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-15",
+   "topic": "cursos-exterior",
+   "claim": "O RYA diz que o curso RYA First Aid foi desenvolvido para quem navega, que é dado por instrutores com experiência náutica, não exige experiência nem idade mínima, e que o ideal é que todos os tripulantes o façam, porque é difícil uma só pessoa navegar, governar, pedir ajuda e ressuscitar ao mesmo tempo.",
+   "source_url": "https://www.rya.org.uk/course-finder/first-aid-course/",
+   "locator": "Course description",
+   "quote": "It can be very difficult for just one person to navigate, helm, call for help and resuscitate at the same time!",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-2-16",
+   "topic": "cursos-br",
+   "claim": "Segundo as sinopses da DPC, os cursos CBSN e CBSP são compostos de aulas teóricas e de participações práticas nos assuntos de sobrevivência, primeiros socorros e combate a incêndio, em locais apropriados, e as partes práticas exigem equipamento de proteção para cada aluno, instrutores capacitados, segurança e apoio de socorro no local.",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "locator": "Sinopse Geral do CBSN, itens 2.1 f) e 2.2 b)",
+   "quote": "O curso será composto de aulas teóricas e de participações práticas nos assuntos de sobrevivência, primeiros socorros e combate a incêndio, em locais apropriados",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. O CBSP traz texto equivalente (item 2.1 f)."
+  },
+  {
+   "id": "extra-radio-2-17",
+   "topic": "cursos-br",
+   "claim": "O Curso Básico de Segurança de Plataforma (CBSP) da DPC dura 5 dias e 40 horas, exige ter mais de 18 anos no dia da matrícula, ensino fundamental concluído e boa saúde, e inclui primeiros socorros elementares (6 h) e técnicas de sobrevivência pessoal (9 h).",
+   "source_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "locator": "Sinopse do CBSP, requisitos de matrícula",
+   "quote": "ter mais de dezoito (18) anos, no dia da matrícula; ter concluído o ensino fundamental",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Corrige radio-57 (veredito divergente: 'mais de 18 anos', não '18 anos')."
+  }
+ ]
+}

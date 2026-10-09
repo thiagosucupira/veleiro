@@ -1,0 +1,46 @@
+{
+  "verdicts": [
+    {
+      "id": "extra-mestre-1-01",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "evidence_quote": "todas as embarcações, exceto as miúdas, deverão estar equipadas com agulha magnética de governo. [...] As embarcações com comprimento igual ou maior que 24 metros deverão possuir, também, certificado de compensação ou curva de desvio, atualizados a cada 2 anos.",
+      "notes": "Texto literal do art. 4.19.1 a) confirma a obrigatoriedade para não-miúdas e a exigência de certificado/curva de desvio atualizado a cada 2 anos para 24 m ou mais."
+    },
+    {
+      "id": "extra-mestre-1-02",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "evidence_quote": "I) Navegação costeira: 1 (um) aparelho; e II) Navegação oceânica: 2 (dois) aparelhos (*). (*) Recomendado que pelo menos um aparelho opere também com fonte independente de energia acumulada",
+      "notes": "Art. 4.19.2 a) confirma 1 GNSS para costeira e 2 para oceânica, com a recomendação de fonte independente em pelo menos um."
+    },
+    {
+      "id": "extra-mestre-1-03",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "evidence_quote": "as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado",
+      "notes": "Art. 4.19.3 b) confirma a exigência de ecobatímetro para grande porte ou iates construídos após 11/02/2000 e a recomendação para as menores."
+    },
+    {
+      "id": "extra-mestre-1-04",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "evidence_quote": "As embarcações de esporte e recreio, exceto as miúdas, deverão dotar cartas náuticas relativas às regiões em que pretendem operar, em local acessível e apropriado. Poderá ser aceito um Sistema de Cartas Eletrônicas (ECS - Electronic Chart System)",
+      "notes": "Art. 4.20 confirma a exigência de cartas náuticas e a aceitação de ECS como alternativa."
+    },
+    {
+      "id": "extra-mestre-1-05",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "evidence_quote": "ITEM 01 AGULHA MAGNÉTICA 4.19 | MÉDIO PORTE: Obrigatória | GRANDE PORTE OU IATES: (Compensada ou curva de desvio, válido por 2 anos)",
+      "notes": "Tabela 4.34 (costeira, item 01) confirmada na coluna certa: médio porte obrigatória e grande porte/iates com compensação ou curva de desvio válida por 2 anos; a checagem automática falhou só por quebra de linha no PDF."
+    },
+    {
+      "id": "extra-mestre-1-06",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/catalogo-de-cartas-e-publicacoes",
+      "evidence_quote": "CATÁLOGO DE CARTAS E PUBLICAÇÕES 2026-2030 [...] poderão ser adquiridas no Posto de Vendas da EMGEPRON, situado na Base de Hidrografia da Marinha em Niterói (BHMN) [...] ou na página de comércio eletrônico \"http://www.cartasnauticasbrasil.com.br\". [...] 15ª edição",
+      "notes": "Página do CHM (atualizada em 26/08/2026) confirma catálogo 2026-2030, 15ª edição, e os dois canais de compra citados."
+    }
+  ]
+}

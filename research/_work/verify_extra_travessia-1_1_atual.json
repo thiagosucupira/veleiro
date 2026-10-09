@@ -1,0 +1,25 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-travessia-1-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "evidence_quote": "4.26.5 Heavy weather jib, attachable independent of luff groove / 4.26.6 Storm jib, attachable independent of luff groove (permanent)",
+   "notes": "Ficha Apêndice F idêntica na v1 (vigente) e na v2 (publicada 05/06/2026, vigor 01/01/2027, Extract-Mo1_2027-2027_v2.pdf); 4.27.3c/4.27.4d confirmam o requisito."
+  },
+  {
+   "id": "extra-travessia-1-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://rorctransatlantic.rorc.org/",
+   "evidence_quote": "The 13th edition of the RORC Transatlantic Race will start on Sunday 10th January 2027 from Marina Lanzarote, Canary Islands and will finish in Antigua.",
+   "notes": "Página oficial reaberta em 2026-10-08 traz o texto idêntico; 10/01/2027 é de fato domingo."
+  },
+  {
+   "id": "extra-travessia-1-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.saltydawgsailing.org/crew",
+   "evidence_quote": "THE SALTY DAWG SAILING ASSOCIATION DOES NOT VET, REVIEW, REFER, OR CONDUCT BACKGROUND CHECKS OF ANYONE POSTING TO THE SDSA CREW FINDER, BOTH CREW AND CAPTAINS ALIKE. THE FINDER IS BEING PROVIDED AS A CONVENIENCE ONLY AND THE SDSA TAKES NO RESPONSIBILITY...",
+   "notes": "Aviso presente na página renderizada atual (SPA; curl cru não mostra o texto), cobrindo tripulantes e comandantes e a isenção de responsabilidade."
+  }
+ ]
+}

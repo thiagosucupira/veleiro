@@ -1,0 +1,34 @@
+{
+ "verdicts": [
+  {
+   "id": "ext-es-arc-world-cruising-club",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "ARC 2026 22 Nov / prizegiving 19 Dec confirmados em arc-2026; site 200."
+  },
+  {
+   "id": "ext-es-arc-plus-world-cruising-club",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "ARC+ 2026 8 Nov, Grenada 10 Dec confirmados; waitlist; site 200."
+  },
+  {
+   "id": "ext-sx-arc-europe-world-cruising-club",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "ARC Europe 2027 aberto, 8 May Sint Maarten/Chesapeake, Lagos 19 Jun; site 200. Sem coords (aceitavel)."
+  },
+  {
+   "id": "ext-za-cape2rio-royal-cape-yacht-club",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, edicao 27 Dec 2025 confirmada; entidade ativa."
+  },
+  {
+   "id": "ne-pe-refeno-cabanga-iate-clube",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, titulo Refeno/Cabanga coerente; data 2027 nao reconfirmada no HTML estatico (conteudo dinamico)."
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+  "verdicts": [
+    {
+      "id": "extra-arrais-3-01",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.11 classe I: fabricada conforme SOLAS e usada na navegação oceânica."
+    },
+    {
+      "id": "extra-arrais-3-02",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.11: classe II abrandada a partir dos requisitos SOLAS para costeira; classe III para interior."
+    },
+    {
+      "id": "extra-arrais-3-03",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.11: classe IV para trabalho prolongado próximo à borda; classe V para esportes, médio porte interior e miúdas."
+    },
+    {
+      "id": "extra-arrais-3-04",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.14: dotação de coletes no mínimo igual ao número de pessoas, com tamanho pequeno para crianças."
+    },
+    {
+      "id": "extra-arrais-3-05",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.14 lista oceânica=classe I (SOLAS) e costeira=classe II; checagem automática falhou só por acentuação/quebra de linha."
+    },
+    {
+      "id": "extra-arrais-3-06",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.14: interior = médio porte classe III ou V; grande porte/iates classe III; miúdas classe III ou V."
+    },
+    {
+      "id": "extra-arrais-3-07",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.14: coletes estivados de modo prontamente acessível com localização claramente indicada."
+    },
+    {
+      "id": "extra-arrais-3-08",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.15: embarcações miúdas estão dispensadas de dotar boias salva-vidas."
+    },
+    {
+      "id": "extra-arrais-3-09",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.15: médio porte <12 m = 1 boia circular ou ferradura; ≥12 m = 2 (afirmação omite grande porte/iates, mas não erra)."
+    },
+    {
+      "id": "extra-arrais-3-10",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.15: boias não presas permanentemente, suspensas em suportes fixos, chicote não amarrado à embarcação."
+    },
+    {
+      "id": "extra-arrais-3-11",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.15: iluminação automática obrigatória por boia, exceto embarcações de navegação interior."
+    },
+    {
+      "id": "extra-arrais-3-12",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.15: ao menos uma boia com retinida de 2x a altura de estiva acima da linha d'água ou 20 m, o que for maior."
+    },
+    {
+      "id": "extra-arrais-3-13",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.16 alínea a: foguete estrela vermelha com paraquedas a 300 m, luz de 30.000 cd por 40 s."
+    },
+    {
+      "id": "extra-arrais-3-14",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.16 alínea b: facho vermelho de 15.000 cd por 60 s, para indicar posição à noite a navio ou aeronave."
+    },
+    {
+      "id": "extra-arrais-3-15",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.16 alínea c: fumígeno flutuante laranja por 3 ou 15 min, para indicar de dia a posição."
+    },
+    {
+      "id": "extra-arrais-3-16",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.17: navegação costeira = 2 foguetes, 2 fachos e 2 fumígenos."
+    },
+    {
+      "id": "extra-arrais-3-17",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.17: navegação oceânica = 4 foguetes, 4 fachos e 4 fumígenos."
+    },
+    {
+      "id": "extra-arrais-3-18",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.17: navegação interior = apenas grande porte, com um facho manual vermelho."
+    },
+    {
+      "id": "extra-arrais-3-19",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.13: costeira dispensada de balsa (bote inflável recomendado); interior dispensada de embarcações de sobrevivência; checagem automática falhou só por acentuação."
+    },
+    {
+      "id": "extra-arrais-3-20",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.13: balsas SOLAS revisadas anualmente; homologadas pela NORMAM-321 ou ISO 9650-1 conforme prazo do fabricante."
+    },
+    {
+      "id": "extra-arrais-3-21",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Nota do art. 4.13/4.1: itens das tabelas 4.33-4.35 são obrigatórios conforme TIE, independente da navegação; omite a exceção da balsa em regatas em águas interiores."
+    },
+    {
+      "id": "extra-arrais-3-22",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.18.2: todas as embarcações com lanterna portátil com bateria recarregável ou pilhas sobressalentes."
+    },
+    {
+      "id": "extra-arrais-3-23",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.18.3: refletor radar obrigatório em navegação costeira ou oceânica."
+    },
+    {
+      "id": "extra-arrais-3-24",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.18.4: âncora compatível com o porte e no mínimo 20 m de cabo ou amarra, exceto miúdas."
+    },
+    {
+      "id": "extra-arrais-3-25",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.18.5: apito obrigatório, exceto miúdas."
+    },
+    {
+      "id": "extra-arrais-3-26",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.18.7: sino ou buzina manual para embarcações de navegação costeira ou oceânica."
+    },
+    {
+      "id": "extra-arrais-3-27",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.8: homologação pela Autoridade Marítima por certificado, bom estado e dentro dos prazos de validade ou revisão."
+    },
+    {
+      "id": "extra-arrais-3-28",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.8: dotação exigida é mínima, para boas condições meteorológicas; art. 4.8/4.19 atribuem ao comandante dotação compatível com área e pessoas."
+    },
+    {
+      "id": "extra-arrais-3-29",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.12: material de salvatagem de esporte e recreio não precisa ser marcado e pode ser emprestado."
+    },
+    {
+      "id": "extra-arrais-3-30",
+      "verdict": "confirmado",
+      "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+      "notes": "Art. 4.10: veleiros de classes padronizadas, só diurno, dispensados do material do capítulo, exceto coletes."
+    }
+  ]
+}

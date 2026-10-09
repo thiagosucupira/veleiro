@@ -1,0 +1,100 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_ext-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/",
+   "notes": "Página RYA reaberta em 2026-10-08 mostra o texto de abertura com busca por nome/CEP e \"use my location\"."
+  },
+  {
+   "id": "loc_ext-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/west-coast-lisbon-sailing-centre/",
+   "notes": "Reaberta: página do centro mostra ICCTestCentre e o texto sobre testes do ICC."
+  },
+  {
+   "id": "loc_ext-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=32.64&lng=-16.91",
+   "notes": "Reaberta: dados do mapa trazem HelmsmenClub Canary (28.4711,-16.2758) em 1º; recalculei 468 km de Funchal; nenhum centro na Madeira entre os 20 listados."
+  },
+  {
+   "id": "loc_ext-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=37.74&lng=-25.67",
+   "notes": "Reaberta: 1º item HelmsmenClub Canary, 1.350 km de Ponta Delgada (recalculado); nenhum centro nos Açores entre os 20 listados."
+  },
+  {
+   "id": "loc_ext-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=28.13&lng=-15.43",
+   "notes": "Reaberta: 1º item HelmsmenClub Canary, 91 km de Las Palmas (recalculado); nenhum centro em Gran Canária listado."
+  },
+  {
+   "id": "loc_ext-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=16.89&lng=-24.99",
+   "notes": "Reaberta: 1º item Club Yachting (28.0073,-16.6601), 1.502 km de Mindelo (recalculado); nenhum centro em Cabo Verde."
+  },
+  {
+   "id": "loc_ext-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/?lat=14.08&lng=-60.95",
+   "notes": "Reaberta: 1º item Grenada Bluewater Sailing, 242 km de Santa Lúcia (recalculado)."
+  },
+  {
+   "id": "loc_ext-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/schools/st-lucia/",
+   "notes": "Página ASA atual diz \"2 American Sailing Schools in St Lucia\": Sandals Grande St. Lucian Resort & Spa e BodyHoliday (ambos resorts)."
+  },
+  {
+   "id": "loc_ext-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://portosdosacores.pt/marinas/marina-da-horta/",
+   "notes": "Página oficial atual: Nº Postos de Acostagem: 240."
+  },
+  {
+   "id": "loc_ext-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://portosdosacores.pt/marinas/marina-da-horta/",
+   "notes": "Página oficial atual: VHF 10-16, código hortamarina, calado de entrada 4,0 m."
+  },
+  {
+   "id": "loc_ext-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://marinamindelo.cv/",
+   "notes": "Site da própria marina (fonte não oficial/autodeclarada) ainda diz 144 berths, 720 m de pontões, até 50 m."
+  },
+  {
+   "id": "loc_ext-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.igymarinas.com/marinas/rodney-bay-marina/",
+   "notes": "Página IGY atual lista Customs & Immigration Services e \"VHF: Channel 16\"."
+  },
+  {
+   "id": "loc_ext-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.bwss.com/offshore-passagemaking.html",
+   "notes": "Página da BWSS atual traz exatamente essa frase (afirmação atribuída à escola, não à ASA)."
+  },
+  {
+   "id": "loc_ext-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.westcoast.pt/en/",
+   "notes": "Site West Coast atual mostra Patrão Local 40 h (30+10) e Marinheiro 30 h (20+10) e menu CARTAS DGRM; carga horária é da escola."
+  },
+  {
+   "id": "loc_ext-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ondecksailing.com/",
+   "notes": "Site da Ondeck atual cita RORC Caribbean 600 e Antigua Sailing Week entre as regatas oferecidas (texto menciona \"new for 2023/24\", algo datado)."
+  },
+  {
+   "id": "loc_ext-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/wheres-my-nearest/portugal-sail-power/",
+   "notes": "Páginas RYA atuais de Portugal Sail & Power e Algarve Boat Courses listam só Motor Cruising, navegação, powerboat e cursos curtos, sem curso prático de vela."
+  }
+ ]
+}

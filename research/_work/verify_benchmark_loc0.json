@@ -1,0 +1,58 @@
+{
+ "verdicts": [
+  {
+   "id": "se-rj-navegart",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200, titulo coerente. Pagina de cursos confirma Arrais (max 5 alunos na lancha), MSA, vela oceanica basico R$1.200; home liga ao Clube Naval Charitas. Locais Charitas/Urca nao citados textualmente na pagina de cursos, mas coerente."
+  },
+  {
+   "id": "se-rj-cl-vela",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200. Fonte confirma Arrais pratico 6h embarcadas, ate 5 alunos, saida Marina da Gloria RJ; home lista Mestre R$1.150 e regata ativa nov/2026."
+  },
+  {
+   "id": "se-rj-nautica-sete-mares",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200. Pagina confirma pratica a bordo de veleiro-escola, Av. Portugal 936 Urca RJ."
+  },
+  {
+   "id": "se-es-escola-nautica-es",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200. Pagina confirma 4h de pratica no canal de Vitoria ES."
+  },
+  {
+   "id": "se-sp-marina-sylvestre",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200. Fonte confirma 4h pratica + 3,5h teoria online, Av. Atlantica 3.444 Guarapiranga SP."
+  },
+  {
+   "id": "online-enauti",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200. Cursos teoricos online ARA R$69,99, MSA, CPA conferem."
+  },
+  {
+   "id": "online-navathome",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200. RYA Day Skipper online GBP275 confere; lista Yachtmaster/Coastal e Essential Navigation."
+  },
+  {
+   "id": "online-nauticed",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "403 apenas Cloudflare; aberto via servico local: cursos online, RYA Day Skipper Theory e SLC conferem."
+  },
+  {
+   "id": "online-american-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site 200. Aulas online ASA e app Go Sailing confirmados em /apps/."
+  }
+ ]
+}

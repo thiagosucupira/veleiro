@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "PDF reaberto hoje (HTTP 200, 169.912 bytes, 40 p., título da Convenção presente); busca na web não achou emenda posterior à A.1085(28).",
+   "evidence_quote": "CONVENÇÃO SOBRE O REGULAMENTO INTERNACIONAL PARA EVITAR ABALROAMENTOS NO MAR, 1972"
+  },
+  {
+   "id": "tecnico-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Texto do PDF reaberto traz Regras 39-41 (Parte F) e Código III/A.1070(28), na p. 40.",
+   "evidence_quote": "Código de Implementação significa Código de Implementação de Instrumentos da IMO (Código III)"
+  },
+  {
+   "id": "tecnico-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "Planalto reaberto hoje: ementa idêntica (checagem automática falhou só por acentos); decreto sem indício de revogação.",
+   "evidence_quote": "Promulga as Emendas à Convenção ... entre 1981 a 2013."
+  },
+  {
+   "id": "tecnico-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "Considerandos reabertos no Planalto confirmam Decreto 80.068/1977 e retificação 81.638/1978.",
+   "evidence_quote": "promulgada pelo Decreto nº 80.068, de 2 de agosto de 1977, e retificada pelo Decreto nº 81.638, de 9 de maio de 1978"
+  },
+  {
+   "id": "tecnico-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "Considerandos reabertos confirmam A.1085(28), 2013, em vigor desde 1/1/2016, como última listada; fontes externas não indicam emenda posterior.",
+   "evidence_quote": "A.1085(28), de 2013, em vigor desde 1º de janeiro de 2016"
+  },
+  {
+   "id": "tecnico-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10901.htm",
+   "notes": "Anexo do decreto reaberto traz a nova Parte F (Regras 39-41) após a Parte E, via A.1085(28).",
+   "evidence_quote": "Após a Parte E existente (Isenções), uma nova Parte F é adicionada"
+  },
+  {
+   "id": "tecnico-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/node/17385",
+   "notes": "Página CCA-IMO reaberta hoje via serviço local lista COLREG 1972 entre as convenções.",
+   "evidence_quote": "COLREG Convention on International Regulations for Preventing Collisions At Sea, 1972."
+  },
+  {
+   "id": "tecnico-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC ainda mostra Portaria 200/27-02-2026 como vigente (sem portaria posterior); item 4.5 igual no consolidado local.",
+   "evidence_quote": "Todas as embarcações deverão atender às prescrições do ... (RIPEAM-72) e suas emendas em vigor"
+  },
+  {
+   "id": "tecnico-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC sem portaria posterior à 200/2026; item 4.3.3 presente no texto consolidado.",
+   "evidence_quote": "somente as embarcações que possuem luzes de navegação, previstas no RIPEAM, podem operar sem restrições quanto ao horário"
+  },
+  {
+   "id": "tecnico-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.18.5 vigente no consolidado de 03/03/2026; índice sem portaria posterior.",
+   "evidence_quote": "Apito - todas as embarcações, exceto as miúdas, devem estar dotadas de um apito."
+  },
+  {
+   "id": "tecnico-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.18.6 vigente; índice DPC sem portaria posterior à 200/2026.",
+   "evidence_quote": "todas as embarcações, quando em navegação noturna, deverão exibir luzes de navegação, conforme a parte C do RIPEAM"
+  },
+  {
+   "id": "tecnico-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Item 4.18.7 vigente; índice DPC sem portaria posterior à 200/2026.",
+   "evidence_quote": "todas as embarcações classificadas para a navegação costeira ou oceânica, deverão possuir um sino ou buzina manual"
+  },
+  {
+   "id": "tecnico-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Programa de Arrais-Amador no Anexo 5-A do ZIP de anexos (mais novo) traz RIPEAM I/II/III idêntico; página exata 5-A-8 não verificada.",
+   "evidence_quote": "RIPEAM- ... I) luzes e marcas de navegação; II) sinais sonoros e luminosos; e III) regras de governo."
+  },
+  {
+   "id": "tecnico-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 3(c) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 5 reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 6 reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 7(a) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 7(d)(i) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 8(b) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 9(a) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 9(b) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 10(c) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 10(j) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(a)(i) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(a)(ii) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(a)(iii) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 12(b) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 13(a) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 13(b) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  },
+  {
+   "id": "tecnico-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "notes": "Regra 14(a) reconferida no PDF da CCA-IMO reaberto hoje; nenhuma emenda posterior à A.1085(28) encontrada, regra inalterada.",
+   "evidence_quote": ""
+  }
+ ]
+}

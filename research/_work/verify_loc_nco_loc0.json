@@ -1,0 +1,118 @@
+{
+ "verdicts": [
+  {
+   "id": "co-df-iate-clube-de-brasilia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "site 200, titulo coerente"
+  },
+  {
+   "id": "co-df-escola-de-vela-brasilia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "site 200; pagina de cursos coerente"
+  },
+  {
+   "id": "co-df-clube-naval-de-brasilia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "site 200 com UA de navegador; pagina /curso/vela confere (domingo 14-18h, 14+ anos, nao socio R$75)"
+  },
+  {
+   "id": "co-df-vela-art-aabb",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; Dingue, pacotes de 4 aulas de 2h confere"
+  },
+  {
+   "id": "co-df-cota-mil-iate-clube",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente"
+  },
+  {
+   "id": "co-df-federacao-nautica-de-brasilia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo FNB coerente"
+  },
+  {
+   "id": "co-df-arte-de-navegar",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente"
+  },
+  {
+   "id": "co-df-nautica-brasilia",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente"
+  },
+  {
+   "id": "no-am-escola-nautica-riomar",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; teorica 4h Arrais confere"
+  },
+  {
+   "id": "no-am-nautilus-sports",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "406 so com UA curto; 200 com UA de navegador; titulo coerente"
+  },
+  {
+   "id": "no-pa-para-ship",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente; lista CPAOR"
+  },
+  {
+   "id": "no-pa-tubarao-escola-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "403 antibot persistente; entidade na lista oficial CPAOR (endereco informado); nao remover"
+  },
+  {
+   "id": "no-pa-centro-treinamento-nautico-belem",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "evidencia fraca: so Instagram real (255 seguidores, abre sem login) e Linktree; entidade existe, atividade autodeclarada; manter com ressalva"
+  },
+  {
+   "id": "co-ms-nauticos-escola-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente"
+  },
+  {
+   "id": "co-ms-7-mares-arrais",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200 com UA de navegador; endereco do site (Av Eduardo Elias Zahran 399, Campo Grande) confere"
+  },
+  {
+   "id": "co-mt-romera-escola-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente"
+  },
+  {
+   "id": "co-mt-netuno-nautica",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente Cuiaba-MT"
+  },
+  {
+   "id": "co-go-neto-despachante-nautico",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200 com UA de navegador; titulo confere"
+  },
+  {
+   "id": "su-pr-iate-clube-lago-de-itaipu",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "200; titulo coerente"
+  }
+ ]
+}

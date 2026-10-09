@@ -1,0 +1,1119 @@
+{
+ "barometro": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.1, p. 45-10",
+  "quote": "Os instrumentos utilizados na medição da pressão atmosférica são os barômetros",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.5.6, p. 45-87",
+    "quote": "A tendência barométrica é outra informação essencial para o prognóstico da atmosfera."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.5.6, Tabela 45.3, p. 45-88",
+    "quote": "Baixando bruscamente Vento de pouca duração, tão mais violento quanto maior e mais brusca for a baixa"
+   }
+  ],
+  "verificado": true
+ },
+ "isobara": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.1, p. 45-14",
+  "quote": "As linhas que unem pontos da superfície da Terra de igual pressão atmosférica no mesmo instante são denominadas de isóbaras",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-29",
+    "quote": "Quanto mais próximas estiverem as isóbaras, maior o gradiente barométrico e maior a força do vento"
+   }
+  ],
+  "verificado": true
+ },
+ "baixa-pressao": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.3.1, p. 45-54",
+  "quote": "A circulação nos centros de baixa pressão, no Hemisfério Sul, é convergente e no sentido horário",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.2, p. 45-55",
+    "quote": "Os ciclones, também chamados de depressões"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-29",
+    "quote": "Em regra, os sistemas ciclônicos de ventos movem-se rapidamente e são acompanhados por mau tempo."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-29",
+    "quote": "formando com elas ângulos de 20º a 30º para o lado do centro de baixa pressão"
+   }
+  ],
+  "verificado": true
+ },
+ "alta-pressao": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.3.1, p. 45-53",
+  "quote": "Ventos fracos e tempo bom ocorrem próximo ao centro do anticiclone. A circulação nos centros de alta pressão, no Hemisfério Sul, é divergente e no sentido anti-horário",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.1, p. 45-53",
+    "quote": "Os anticiclones são regiões de altas pressões."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-29",
+    "quote": "sistemas anticiclônicos deslocam-se vagarosamente e, em geral, estão associados a bom tempo"
+   }
+  ],
+  "verificado": true
+ },
+ "frente-fria": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.3.3 a, p. 45-64",
+  "quote": "Diz-se que uma frente é fria quando a massa de ar que avança é mais fria do que a que se encontra em determinada região",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.3 a, p. 45-64",
+    "quote": "Adiante da frente fria, o vento rondará, no Hemisfério Sul, no sentido anti-horário, de NE ou N para NW e, em seguida, abruptamente para SW, forte e com rajadas"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.2, p. 45-61",
+    "quote": "passagem da frente fria: salto do vento NW para SW; subida brusca do barômetro e descida rápida da temperatura"
+   }
+  ],
+  "verificado": true
+ },
+ "frente-quente": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.3.3 b, p. 45-65",
+  "quote": "A frente quente ocorre quando há substituição do ar frio pelo ar quente à superfície.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.3 b, p. 45-65",
+    "quote": "o mau tempo associado a uma frente quente, embora menos rigoroso, estende-se normalmente em uma faixa mais larga que nas frentes frias"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.3 b, p. 45-65",
+    "quote": "precipitação leve, tipo garoa, contínua ou intermitente"
+   }
+  ],
+  "verificado": true
+ },
+ "ciclone-extratropical": {
+  "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+  "loc": "Anexo D, item 1 b), p. D-1",
+  "quote": "Ciclone Extratropical: centro de baixa pressão atmosférica que extrai sua energia primordialmente da energia potencial decorrente de um contraste horizontal de temperatura (gradiente térmico) associado a um sistema frontal",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.2, p. 45-60",
+    "quote": "Em geral, nas Latitudes médias, especialmente durante o inverno, observam-se ventos fortes e tempestuosos associados aos ciclones extratropicais"
+   }
+  ],
+  "verificado": true
+ },
+ "ciclone-tropical": {
+  "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+  "loc": "Anexo D, item 1 d), p. D-2",
+  "quote": "Ciclone Tropical: centro de baixa pressão atmosférica em escala sinótica com núcleo quente, não associado a sistema frontal, originado sobre águas tropicais ou subtropicais, com convecção profunda organizada e circulação de vento na superfície fechada em torno de um centro bem definido",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.2 a, p. 45-57",
+    "quote": "Furacão - igual ou superior a 64 nós, 118 km/h, 74 mph ou Força 12 na Escala Beaufort"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, ciclones tropicais do Atlântico Norte, p. 42-35",
+    "quote": "no período de junho a novembro"
+   },
+   {
+    "txt": "NOAA/NHC, Tropical cyclone climatology",
+    "url": "https://www.nhc.noaa.gov/climo/",
+    "loc": "seção sobre a temporada de furacões",
+    "quote": "The Atlantic hurricane season runs from June 1 to November 30."
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, p. 42-42",
+    "quote": "até mesmo o Oceano Atlântico Sul não está livre da ocorrência destes sistemas. O exemplo mais significativo ocorreu em março de 2004"
+   }
+  ],
+  "verificado": true
+ },
+ "alisios": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.1.3, p. 45-8",
+  "quote": "Os ventos alísios, por sua vez, são constantes e moderados, soprando da faixa de pressões altas das Latitudes subtropicais na direção do equador",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.1.3, p. 45-8",
+    "quote": "constituem os ventos alísios (Alísios de NE no Hemisfério Norte e Alísios de SE no Hemisfério Sul)"
+   }
+  ],
+  "verificado": true
+ },
+ "zcit": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.1.3, p. 45-8",
+  "quote": "criando na zona tórrida um cinturão de baixas pressões atmosféricas, denominado Zona de Convergência Intertropical (ZCIT), para onde flui na superfície o ar, tanto do Hemisfério Norte como do Hemisfério Sul",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.1.3, p. 45-8",
+    "quote": "A zona de calmas equatoriais é, então, caracterizada por calmarias ou ventos fracos e variáveis, trovoadas e chuvas, fortes e frequentes, durante todo o ano"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.1.3, p. 45-8",
+    "quote": "A faixa inteira é chamada de doldrums (ou marasmo)"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.1 c, p. 45-16",
+    "quote": "Em julho, a faixa se localiza, quase toda ela, ao norte do Equador"
+   }
+  ],
+  "verificado": true
+ },
+ "asas": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.4, p. 45-72",
+  "quote": "Na situação normal, de bom tempo, o anticiclone subtropical do Atlântico Sul domina o oceano e o litoral",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.4, p. 45-72",
+    "quote": "Os ventos, de fracos a moderados, variam de SE a NE"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.1.3, p. 45-8",
+    "quote": "zonas permanentes de altas pressões atmosféricas, denominadas Cinturões de Alta Subtropical"
+   }
+  ],
+  "verificado": true
+ },
+ "beaufort": {
+  "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+  "loc": "item 1.3 d), p. 1-2",
+  "quote": "Escala Beaufort: escala numérica que categoriza a intensidade dos ventos de Força 0 (calmaria) a Força 12 (furacão)",
+  "outras": [
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "Anexo B (Escala Beaufort), força 4, p. B-1",
+    "quote": "4 Moderado 11 a 16"
+   },
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "Anexo B (Escala Beaufort), força 7, p. B-1",
+    "quote": "7 Forte 28 a 33"
+   }
+  ],
+  "verificado": true
+ },
+ "rajada": {
+  "txt": "Wikipédia PT, Lufada (fonte secundária)",
+  "url": "https://pt.wikipedia.org/wiki/Lufada",
+  "loc": "introdução do artigo",
+  "quote": "Lufada, rajada de vento ou rajada é um vento forte e de curta duração, geralmente de três a 20 segundos.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Wind gust (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Wind_gust",
+    "loc": "introdução do artigo",
+    "quote": "A wind gust or simply gust is a brief, sudden increase in the wind speed. It usually lasts for less than 20 seconds"
+   }
+  ],
+  "verificado": true
+ },
+ "calmaria": {
+  "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+  "loc": "Anexo B (Escala Beaufort), força 0, p. B-1",
+  "quote": "0 Calmaria Inferior a 1",
+  "outras": [
+   {
+    "txt": "Michaelis On-line, verbete «calmaria»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/calmaria/",
+    "loc": "verbete «calmaria», acepção 1",
+    "quote": "Cessação do vento e quietação das ondas"
+   }
+  ],
+  "verificado": true
+ },
+ "borrasca": {
+  "txt": "Michaelis On-line, verbete «borrasca»",
+  "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/borrasca/",
+  "loc": "verbete «borrasca», acepção 1",
+  "quote": "Temporal com chuva ou neve, repentino e violento, que cessa de súbito.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Squall (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Squall",
+    "loc": "introdução do artigo",
+    "quote": "A squall is a sudden, sharp increase in wind speed lasting minutes"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.4, p. 45-70",
+    "quote": "os cumulonimbus provocam ventos em rajadas, variando em direção"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.4, p. 45-71",
+    "quote": "intensa precipitação de duração entre 15 e 30 minutos"
+   }
+  ],
+  "verificado": true
+ },
+ "cumulonimbo": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.5, p. 45-44",
+  "quote": "Cumulonimbus (Cb) é a nuvem cumulus de maior desenvolvimento vertical",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.5, p. 45-44",
+    "quote": "A presença de um cumulonimbus na atmosfera pode causar a ocorrência de forte turbulência, gelo, relâmpago, trovoada, saraiva, precipitação, ventos muito fortes"
+   },
+   {
+    "txt": "Wikipédia PT, Cumulonimbo (fonte secundária)",
+    "url": "https://pt.wikipedia.org/wiki/Cumulonimbo",
+    "loc": "seção sobre o desenvolvimento da nuvem",
+    "quote": "ventos transversais são responsáveis por alongar o topo da nuvem e criam, assim, o formato de bigorna"
+   }
+  ],
+  "verificado": true
+ },
+ "nevoeiro": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.6 a, p. 45-45",
+  "quote": "O nevoeiro é, em síntese, uma nuvem que toca a superfície",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.6 a, p. 45-46",
+    "quote": "O nevoeiro diminui a visibilidade para menos de 1 km"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.6 a, p. 45-48",
+    "quote": "O nevoeiro de advecção é o tipo de nevoeiro mais frequente no mar"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.6 a, p. 45-46",
+    "quote": "é necessário pôr em prática as medidas de segurança para navegação sob visibilidade restrita, especialmente aquelas estabelecidas pelos regulamentos internacionais, como o RIPEAM"
+   }
+  ],
+  "verificado": true
+ },
+ "marulho": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.6, p. 45-90",
+  "quote": "O marulho, por sua vez, é constituído pelas lentas e compridas ondulações produzidas por ventos passados ou distantes.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.6, p. 45-91",
+    "quote": "Pode-se produzir zonas de fortes marulhos, inclusive quando o vento observado é fraco"
+   }
+  ],
+  "verificado": true
+ },
+ "vaga": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.6, p. 45-90",
+  "quote": "Os movimentos ondulatórios da superfície do mar gerados pelo vento que sopra no momento e local considerados são denominados de vagas.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.6, p. 45-91",
+    "quote": "possuem aspecto confuso, com direção de propagação pouco definida, pequeno comprimento de onda, pequeno período e presença de “carneirinhos”"
+   }
+  ],
+  "verificado": true
+ },
+ "onda": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 42, p. 42-4",
+  "quote": "As partes mais altas das ondas são denominadas cristas; as partes mais baixas entre cristas são chamadas de cavados.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, p. 42-4",
+    "quote": "A distância vertical entre uma crista e um cavado consecutivo é denominada de altura da onda"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, p. 42-4",
+    "quote": "O intervalo de tempo entre a passagem de duas cristas consecutivas por um ponto fixo é chamado de período da onda (T)."
+   }
+  ],
+  "verificado": true
+ },
+ "altura-significativa": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 42, p. 42-9",
+  "quote": "corresponde, na realidade, à média do 1/3 mais alto das ondas observadas. Este valor é denominado altura significativa ou significante.",
+  "outras": [
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "item 1.3 f), p. 1-2",
+    "quote": "Altura significativa de onda: é o valor médio do terço superior das alturas de onda medidas em um determinado intervalo de tempo"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, tabela de relação com a altura significante, p. 42-9",
+    "quote": "mais altas 1,87"
+   }
+  ],
+  "verificado": true
+ },
+ "pista": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 42, p. 42-4",
+  "quote": "pista (distância em linha reta, na direção em que sopra o vento)",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.6, p. 45-90",
+    "quote": "a pista percorrida pelo vento sobre a superfície do mar"
+   },
+   {
+    "txt": "Wikipedia EN, Fetch (geography) (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Fetch_(geography)",
+    "loc": "introdução do artigo",
+    "quote": "wind fetch, also known as fetch length or simply fetch, is the length of water over which a given wind has blown without obstruction"
+   }
+  ],
+  "verificado": true
+ },
+ "ressaca": {
+  "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+  "loc": "item 2.2 b) IV), p. 2-2",
+  "quote": "Ondas com altura significativa de 2,5 metros ou superior atingindo a costa com direção favorável (Aviso de Ressaca)",
+  "outras": [
+   {
+    "txt": "Carta de Serviços ao Usuário do CHM (2026)",
+    "url": "https://assets.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/CARTA%20DE%20SERVICOS%20AO%20USUARIO_CHM-2026%20-%20APROVADA.pdf",
+    "loc": "item 7.3.1 (produtos do Serviço Meteorológico Marinho, avisos de mau tempo)",
+    "quote": "Avisos de ressaca – ondas atingindo a costa com altura acima de 2,5 metros"
+   }
+  ],
+  "verificado": true
+ },
+ "brisa-maritima": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-38",
+  "quote": "originando um fluxo do mar para a costa, denominado brisa, brisa marítima ou viração",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-38",
+    "quote": "terral ou brisa terrestre, que sopra durante a noite e cessa próximo do nascer do Sol"
+   }
+  ],
+  "verificado": true
+ },
+ "rondar": {
+  "txt": "Michaelis On-line, verbete «rondar»",
+  "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/rondar/",
+  "loc": "verbete «rondar», acepção 8",
+  "quote": "Náut Mover-se (o vento) para outra direção: O vento rondou para o sul.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.3 a, p. 45-64",
+    "quote": "Adiante da frente fria, o vento rondará, no Hemisfério Sul, no sentido anti-horário"
+   }
+  ],
+  "verificado": true
+ },
+ "refrescar": {
+  "txt": "Michaelis On-line, verbete «refrescar»",
+  "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/refrescar/",
+  "loc": "verbete «refrescar», acepção 6",
+  "quote": "Tornar-se mais intenso, mais ativo; avivar-se.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.3.2, p. 45-61",
+    "quote": "rondando de NW para SW e refrescando violentamente"
+   }
+  ],
+  "verificado": true,
+  "nota": "Fonte parcial: dicionário traz o sentido geral (tornar-se mais intenso); o Manual usa «refrescando» para o vento que aumenta."
+ },
+ "lei-de-buys-ballot": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-28",
+  "quote": "Voltando-se para a direção de onde sopra o vento verdadeiro, a baixa barométrica fica à sua direita no Hemisfério Norte e à esquerda no Hemisfério Sul",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Buys Ballot's law (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Buys_Ballot's_law",
+    "loc": "introdução do artigo",
+    "quote": "In the Northern Hemisphere, if a person stands with their back to the wind, the atmospheric pressure is low to the left, high to the right."
+   }
+  ],
+  "verificado": true
+ },
+ "forca-de-coriolis": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-27",
+  "quote": "Em virtude da rotação do globo terrestre, os ventos, pelo Efeito de Coriolis, são desviados para a direita no Hemisfério Norte e para a esquerda no Hemisfério Sul",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.4, p. 45-27",
+    "quote": "o efeito do movimento de rotação da Terra (força de Coriolis) impede o vento de soprar diretamente dos centros de alta para os centros de baixa pressão"
+   }
+  ],
+  "verificado": true
+ },
+ "carta-sinotica": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 45, item 45.5.4, p. 45-81",
+  "quote": "A Carta Sinótica é uma carta da análise de pressão atmosférica ao nível médio do mar, também conhecida como carta de pressão à superfície",
+  "outras": [
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "item 2.2 c), p. 2-2",
+    "quote": "Carta Sinótica – carta da análise de pressão atmosférica ao nível médio do mar, elaborada e emitida duas vezes por dia, referentes aos horários de 0000Z e 1200Z, onde são representados graficamente os sistemas meteorológicos em escala sinótica"
+   }
+  ],
+  "verificado": true
+ },
+ "aviso-de-mau-tempo": {
+  "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+  "loc": "item 2.2 b), p. 2-1",
+  "quote": "Aviso de Mau Tempo – mensagem emitida com a máxima antecedência possível, quando houver previsão de uma ou mais das seguintes situações",
+  "outras": [
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "item 2.2 b) I), p. 2-1",
+    "quote": "Vento com Força 7 ou superior na Escala Beaufort (intensidade igual ou superior a 28 nós) para as áreas costeiras e com Força 8 ou superior (intensidade igual ou superior a 34 nós) para as áreas oceânicas"
+   },
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "item 2.2 b) II), p. 2-2",
+    "quote": "Ondas com altura significativa de 3,0 metros ou superior para as áreas costeiras e de 4,0 metros ou superior para as áreas oceânicas"
+   },
+   {
+    "txt": "Carta de Serviços ao Usuário do CHM (2026)",
+    "url": "https://assets.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/CARTA%20DE%20SERVICOS%20AO%20USUARIO_CHM-2026%20-%20APROVADA.pdf",
+    "loc": "item 7.3.1 (produtos do Serviço Meteorológico Marinho)",
+    "quote": "Avisos de baixa visibilidade – visibilidade horizontal menor que 1 km"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.5.2, p. 45-80",
+    "quote": "Os Avisos de Mau Tempo, disseminados de forma imediata e depois incluídos no Meteoromarinha e demais boletins de previsão"
+   }
+  ],
+  "verificado": true
+ },
+ "meteoromarinha": {
+  "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+  "loc": "item 2.2 a), p. 2-1",
+  "quote": "METEOROMARINHA – boletim meteorológico elaborado e emitido duas vezes por dia, referentes aos horários de 0000Z e 1200Z",
+  "outras": [
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "item 2.3 d), p. 2-2",
+    "quote": "os Avisos de Mau Tempo, os boletins METEOROMARINHA e as Cartas Sinóticas estão disponíveis na página de internet do CHM"
+   },
+   {
+    "txt": "NORMAM-701/DHN (Meteorologia Marítima, 2023)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/normam/NORMAM-701.pdf",
+    "loc": "item 2.1, p. 2-1",
+    "quote": "na área sob responsabilidade do Brasil - METAREA V"
+   }
+  ],
+  "verificado": true
+ },
+ "grib": {
+  "txt": "Wikipedia EN, GRIB (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/GRIB",
+  "loc": "introdução do artigo",
+  "quote": "GRIB (GRIdded Binary or General Regularly-distributed Information in Binary form) is a concise data format commonly used in meteorology to store historical and forecast weather data.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, GRIB (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/GRIB",
+    "loc": "introdução do artigo",
+    "quote": "used operationally worldwide by most meteorological centers, for Numerical Weather Prediction output (NWP)"
+   }
+  ],
+  "verificado": true
+ },
+ "pilot-charts": {
+  "txt": "Marinha do Brasil, CHM: Cartas Piloto",
+  "url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3",
+  "loc": "página «Cartas Piloto»",
+  "quote": "O Atlas de Cartas Piloto é constituído por 12 cartas, na Projeção de Mercator, escala 1:10.000.000, sendo uma para cada mês do ano.",
+  "outras": [
+   {
+    "txt": "NOAA/NHC, Marine Climatology",
+    "url": "https://www.nhc.noaa.gov/marine/outreach/marine_climo.php",
+    "loc": "página «Marine Climatology»",
+    "quote": "Pilot Charts are an excellent choice for information on prevailing atmospheric winds and oceanic currents, atmospheric and sea surface temperature, wave heights, ice limits, visibility, barometric pressure, and weather conditions for the 12 months of the year."
+   }
+  ],
+  "verificado": true
+ },
+ "abalroamento": {
+  "txt": "Michaelis On-line, verbete «abalroamento»",
+  "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/abalroamento/",
+  "loc": "verbete «abalroamento», acepção 4",
+  "quote": "Mar Colisão de uma embarcação com outra ou com um obstáculo.",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 45, item 45.2.6 a, p. 45-46",
+    "quote": "RIPEAM (Regulamento Internacional para Evitar Abalroamento no Mar)"
+   }
+  ],
+  "verificado": true
+ },
+ "palamenta": {
+  "txt": "NORMAM-201/DPC (Mar Aberto)",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-201.pdf",
+  "loc": "Anexo 10-B, item 16, p. 10-B-3",
+  "quote": "dotação do saco de palamenta das embarcações de sobrevivência está de acordo com as normas específicas sobre o assunto",
+  "outras": [
+   {
+    "txt": "NORMAM-211/DPC (Esporte e Recreio)",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "Anexo 5-A, item 2.1 o) II), p. 5-A-6",
+    "quote": "equipamentos de salvatagem, segurança e sobrevivência no mar, coletes salva-vidas, boias circulares, pirotécnicos, balsas salva-vidas e suas palamentas, botes de abandono"
+   },
+   {
+    "txt": "46 CFR 160.151-21 (EUA, equipamento de balsas SOLAS conforme o LSA Code da IMO)",
+    "url": "https://www.ecfr.gov/current/title-46/chapter-I/subchapter-Q/part-160/subpart-160.151/section-160.151-21",
+    "loc": "§ 160.151-21, itens (b), (j), (k), (r), (s), (y) e (z): faca, sinais pirotécnicos, rações, água, kit de reparo e bomba",
+    "quote": "(r) Food rations (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.18)."
+   }
+  ],
+  "verificado": true,
+  "nota": "Fonte parcial: NORMAM-201 e NORMAM-211 confirmam que a palamenta acompanha balsas e embarcações de sobrevivência; a lista de itens (faca, bomba, kit de reparo, rações, água, sinais) vem do LSA Code da IMO via 46 CFR 160.151-21 (EUA). O Michaelis só traz o sentido de equipamento de embarcação pequena (remos etc.)."
+ },
+ "salvatagem": {
+  "txt": "NORMAM-211/DPC (Esporte e Recreio)",
+  "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+  "loc": "Anexo 5-A, item 2.1 o) II), p. 5-A-6",
+  "quote": "equipamentos de salvatagem, segurança e sobrevivência no mar, coletes salva-vidas, boias circulares, pirotécnicos, balsas salva-vidas e suas palamentas, botes de abandono",
+  "outras": [
+   {
+    "txt": "NORMAM-211/DPC (Esporte e Recreio)",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "item 4.8, p. 4-5",
+    "quote": "é responsabilidade do Comandante dotar sua embarcação com equipamentos de salvatagem e segurança compatíveis com a área de navegação e número de pessoas a bordo"
+   }
+  ],
+  "verificado": true,
+  "nota": "Fonte parcial: a Marinha (NORMAM-211) usa o termo no sentido do app, listando coletes, boias, pirotécnicos e balsas, mas não traz definição formal; o Michaelis dá apenas o sentido geral de resgate de náufragos."
+ },
+ "linha-de-vida": {
+  "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+  "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+  "loc": "seção 1 (definições), p. 10",
+  "quote": "Jackstay A securely fastened webbing or rope which permits a crewmember to move from one part of the boat to another without having to unclip a deck safety harness tether",
+  "outras": [
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+    "loc": "regra 4.04.2, p. 28",
+    "quote": "be independent on each side of the deck"
+   },
+   {
+    "txt": "RYA, Man overboard (segurança em água fria)",
+    "url": "https://www.rya.org.uk/water-safety/cold-water-shock-safety/man-overboard/",
+    "loc": "seção sobre prevenção",
+    "quote": "use a tether that’s the right length and secured to a purpose made strong point or jackstay"
+   }
+  ],
+  "verificado": true
+ },
+ "hipotermia": {
+  "txt": "Wikipédia PT, Hipotermia (fonte secundária)",
+  "url": "https://pt.wikipedia.org/wiki/Hipotermia",
+  "loc": "introdução do artigo",
+  "quote": "Hipotermia é a temperatura corporal reduzida que acontece quando um corpo dissipa mais calor do que produz internamente durante tempo suficientemente prolongado.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, Hipotermia (fonte secundária)",
+    "url": "https://pt.wikipedia.org/wiki/Hipotermia",
+    "loc": "introdução do artigo",
+    "quote": "Na hipotermia leve pode haver de arrepios até confusão mental."
+   },
+   {
+    "txt": "RYA, Man overboard (segurança em água fria)",
+    "url": "https://www.rya.org.uk/water-safety/cold-water-shock-safety/man-overboard/",
+    "loc": "seção sobre recuperação a bordo",
+    "quote": "When lifting a casualty onboard, they should remain in a horizontal position"
+   }
+  ],
+  "verificado": true
+ },
+ "enjoo": {
+  "txt": "Wikipedia EN, Motion sickness (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Motion_sickness",
+  "loc": "introdução do artigo",
+  "quote": "Symptoms commonly include nausea, vomiting, cold sweat, headache, dizziness, tiredness, loss of appetite, and increased salivation.",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Motion sickness (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Motion_sickness",
+    "loc": "introdução do artigo",
+    "quote": "Behavioral measures include keeping the head still and focusing on the horizon."
+   },
+   {
+    "txt": "Michaelis On-line, verbete «enjoo»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/enjoo/",
+    "loc": "verbete «enjoo», acepção 3",
+    "quote": "Mal-estar de estômago e cabeça, experimentado por quem viaja por mar ou ar"
+   }
+  ],
+  "verificado": true
+ },
+ "triangulo-do-fogo": {
+  "txt": "Wikipédia PT, Triângulo do fogo (fonte secundária)",
+  "url": "https://pt.wikipedia.org/wiki/Triângulo_do_fogo",
+  "loc": "introdução do artigo",
+  "quote": "O triângulo do fogo é a representação dos três elementos necessários para que haja uma combustão.",
+  "outras": [
+   {
+    "txt": "Wikipédia PT, Triângulo do fogo (fonte secundária)",
+    "url": "https://pt.wikipedia.org/wiki/Triângulo_do_fogo",
+    "loc": "introdução do artigo",
+    "quote": "Hoje em dia usa-se também o Tetraedro do Fogo, no qual a reação em cadeia entra como quarto elemento."
+   },
+   {
+    "txt": "Wikipedia EN, Fire triangle (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Fire_triangle",
+    "loc": "introdução do artigo",
+    "quote": "A fire can be prevented or extinguished by removing any one of the elements in the fire triangle."
+   }
+  ],
+  "verificado": true
+ },
+ "abandono": {
+  "txt": "RNLI, How to abandon ship (2015)",
+  "url": "https://rnli.org/magazine/magazine-featured-list/2015/october/how-to-abandon-ship",
+  "loc": "abertura do artigo",
+  "quote": "Many of us are familiar with the one-line wisdom, ‘always step up into a liferaft’",
+  "outras": [
+   {
+    "txt": "RNLI, How to abandon ship (2015)",
+    "url": "https://rnli.org/magazine/magazine-featured-list/2015/october/how-to-abandon-ship",
+    "loc": "passo 1 («Get ready»)",
+    "quote": "A liferaft is a last resort. A partially submerged vessel is still safer, and easier for rescuers to see. If there’s time, grab extra kit or your dry grab bag with clothing, blankets, hand-held VHF radio, flares, food, water, EPIRB and SART"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 43, p. 43-1",
+    "quote": "No que concerne à navegação, a primeira consideração após o abandono do navio é determinar se se deve permanecer o mais próximo possível do ponto do naufrágio"
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao falhou: as URLs citadas (rnli.org/magazine/.../how-to-abandon-ship) retornam HTTP 403 (Cloudflare) para curl e WebFetch; o trecho principal ('always step up into a liferaft') nao foi lido. O trecho alternativo da mesma URL tambem nao pode ser lido. A unica outra fonte (DHN Vol. III, Cap. 43) e literal mas nao sustenta a regra 'suba para a balsa, nao desca'. Reverificar com acesso a rnli.org ou trocar a fonte."
+ },
+ "ancora-flutuante": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "Vol. III, Cap. 42, item d (âncora flutuante), p. 42-29",
+  "quote": "Uma âncora flutuante é lançada com os seguintes propósitos: ● manter o navio no rumo desejado, ou próximo dele, capeando ou correndo com o tempo;",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, item d, p. 42-29",
+    "quote": "A principal aplicação da âncora flutuante é o seu lançamento pela proa, para manter o navio capeando"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Cap. 42, item d, p. 42-29",
+    "quote": "Quando correndo com o tempo, a âncora flutuante deve ser lançada pela popa"
+   },
+   {
+    "txt": "Wikipedia EN, Sea anchor (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Sea_anchor",
+    "loc": "introdução do artigo",
+    "quote": "Its purpose is to stabilize the vessel and to limit progress through the water."
+   }
+  ],
+  "verificado": true
+ },
+ "osr": {
+  "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+  "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+  "loc": "capa, p. 1",
+  "quote": "Governing Offshore Racing for Monohulls & Multihulls",
+  "outras": [
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+    "loc": "regra 2.01.1 (Category 0), p. 12",
+    "quote": "Trans-oceanic races, including races which pass through areas in which air or sea temperatures are likely to be less than 5°C"
+   },
+   {
+    "txt": "World Sailing, Offshore Special Regulations 2026-2027",
+    "url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+    "loc": "regra 2.01.2 (Category 1), p. 12",
+    "quote": "Races of long distance and well offshore"
+   }
+  ],
+  "verificado": true
+ },
+ "vhf": {
+  "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+  "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+  "loc": "item 2.1.2 (noções de propagação), p. 13",
+  "quote": "Ondas de VHF se propagam em linha reta (visada direta), sendo limitadas pela curvatura da Terra.",
+  "outras": [
+   {
+    "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+    "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+    "loc": "item 2.1.9.4 (escuta obrigatória), p. 19",
+    "quote": "operando entre 156 MHz e 174 MHz, devem procurar manter, em alto-mar, escuta em 156,8 MHz"
+   },
+   {
+    "txt": "Wikipedia EN, Marine VHF radio (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Marine_VHF_radio",
+    "loc": "introdução do artigo",
+    "quote": "a maximum range of up to about 60 nautical miles (111 km) between aerials mounted on tall ships and hills, and 5 nautical miles (9 km; 6 mi) between aerials mounted on small boats at sea level"
+   }
+  ],
+  "verificado": true
+ },
+ "estacao-costeira": {
+  "txt": "Anatel, Tutorial para Licenciamento de Estações do Serviço Limitado Móvel Marítimo (set. 2025)",
+  "url": "https://www.gov.br/anatel/pt-br/assuntos/noticias/licenciamento-de-estacoes-do-servico-limitado-movel-maritimo-tera-novo-modulo-do-sistema-mosaico-em-1-10/manual-mmar-maritimo-2-1-1.pdf",
+  "loc": "seção «Tipos de estação», p. 9",
+  "quote": "Estação Costeira: É uma instalação de radiocomunicação fixa, geralmente localizada em terra, destinada a estabelecer contato com embarcações para transmissão e recepção de mensagens de rotina, segurança e socorro.",
+  "outras": [
+   {
+    "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+    "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+    "loc": "item 2.2.11 (instalações do GMDSS em terra), p. 26",
+    "quote": "Estações costeiras com DSC (VHF/MF/HF), que recebem alertas de socorro transmitidos pelos navios"
+   },
+   {
+    "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+    "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+    "loc": "item 1.4.5, p. 8",
+    "quote": "Devem estar aptas a assegurar a recepção e transmissão das mensagens meteorológicas provenientes de navios e destinadas a navios."
+   }
+  ],
+  "verificado": false,
+  "motivo": "Verificacao falhou no URL citado: https://www.gov.br/anatel/.../manual-mmar-maritimo-2-1-1.pdf devolve a pagina HTML da noticia (sem o trecho). O trecho ('Estação Costeira: É uma instalação de radiocomunicação fixa...') foi confirmado literalmente no PDF em .../manual-mmar-maritimo-2-1-1.pdf/@@display-file/file (Manual MMAR-Maritimo 2, 98 p.). Corrigir o URL para o link @@display-file e reverificar para restaurar."
+ },
+ "alfabeto-fonetico": {
+  "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+  "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+  "loc": "item 2.1.9.1, p. 15",
+  "quote": "Para facilitar as comunicações radiotelefônicas, é utilizado o Alfabeto Fonético Internacional, que padroniza a pronúncia de letras e números, evitando erros e mal-entendidos.",
+  "outras": [
+   {
+    "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+    "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+    "loc": "item 2.1.9.1, p. 16",
+    "quote": "AF = ALFA FOXTROT, TR = TANGO ROMEO, PT = PAPA TANGO, DE = DELTA ECHO, Z = ZULU"
+   }
+  ],
+  "verificado": true
+ },
+ "salvamar": {
+  "txt": "Marinha do Brasil, SALVAMAR BRASIL: Estrutura SAR",
+  "url": "https://www.marinha.mil.br/salvamarbrasil/content/estrutura-sar",
+  "loc": "página «Estrutura SAR»",
+  "quote": "As atividades de supervisão do Serviço de Busca e Salvamento Marítimo são da competência do SALVAMAR BRASIL (MRCC BRAZIL), situado na cidade do Rio de Janeiro.",
+  "outras": [
+   {
+    "txt": "Marinha do Brasil, SALVAMAR BRASIL: Estrutura SAR",
+    "url": "https://www.marinha.mil.br/salvamarbrasil/content/estrutura-sar",
+    "loc": "página «Estrutura SAR»",
+    "quote": "As águas interiores do País também possuem Centros de Coordenação SAR"
+   },
+   {
+    "txt": "Marinha do Brasil, SALVAMAR BRASIL: Histórico",
+    "url": "https://www.marinha.mil.br/salvamarbrasil/content/historico",
+    "loc": "página «Histórico», seção «SAR no Brasil»",
+    "quote": "a Marinha implantou os Centros de Coordenação de Busca e Salvamento (Salvamar) nos Distritos Navais"
+   }
+  ],
+  "verificado": true
+ },
+ "cospas-sarsat": {
+  "txt": "Anatel, Material de apoio ao exame de Radiotelefonista",
+  "url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+  "loc": "item 2.2.5, p. 23",
+  "quote": "COSPAS-SARSAT é um sistema internacional de satélites para localização de radiobalizas de emergência (EPIRB).",
+  "outras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "Vol. III, Apêndice sobre o GMDSS, p. 47-4",
+    "quote": "sistema de satélites, operando na frequência de 406 MHz, projetado para localizar EPIRBs"
+   },
+   {
+    "txt": "Wikipedia EN, Cospas-Sarsat (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Cospas-Sarsat",
+    "loc": "introdução do artigo",
+    "quote": "detecting and locating emergency locator radio beacons activated by persons, aircraft or vessels in distress, and forwarding this alert information to authorities that can take action for rescue"
+   }
+  ],
+  "verificado": true
+ },
+ "quarto-de-servico": {
+  "txt": "Michaelis On-line, verbete «quarto»",
+  "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/quarto/",
+  "loc": "verbete «quarto», acepção 7",
+  "quote": "Cada quarta parte do dia ou da noite, em que se fazem as vigílias por soldados ou marinheiros escalados, enquanto os demais descansam ou fazem o serviço",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Watchkeeping (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Watchkeeping",
+    "loc": "seção «Watch systems»",
+    "quote": "A watch system allows the ship's crew to operate the ship 24 hours a day while also allowing individual personnel adequate time for rest and other duties."
+   }
+  ],
+  "verificado": true
+ },
+ "quarto-de-cao": {
+  "txt": "Wikipedia EN, Dog watch (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Dog_watch",
+  "loc": "introdução do artigo",
+  "quote": "This is typically formed by splitting a single four-hour watch period between 16:00 and 20:00 (4 pm and 8 pm) to form two two-hour dog watches",
+  "outras": [
+   {
+    "txt": "Wikipedia EN, Dog watch (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Dog_watch",
+    "loc": "introdução do artigo",
+    "quote": "Splitting one of the watches in half allows the sailors to stand different watches instead of one team being forced to stand the mid-watch every night."
+   }
+  ],
+  "verificado": true
+ },
+ "briefing": {
+  "txt": "US Sailing / Cruising Club of America, Skipper's Pre-Departure Safety Briefing Checklist",
+  "url": "https://www.ussailing.org/wp-content/uploads/2024/03/Capts.-Safety-Briefing-Culture-of-Safety.pdf",
+  "loc": "item 4 (localização e uso dos equipamentos de segurança)",
+  "quote": "Show location of posted boat diagrams of boat thru hulls and safety equipment",
+  "outras": [
+   {
+    "txt": "RYA, Man overboard (segurança em água fria)",
+    "url": "https://www.rya.org.uk/water-safety/cold-water-shock-safety/man-overboard/",
+    "loc": "seção sobre prevenção",
+    "quote": "Before setting off, ensure all crew receive a thorough safety briefing."
+   },
+   {
+    "txt": "RYA, Passage planning",
+    "url": "https://www.rya.org.uk/water-safety/passage-planning-and-navigation/passage-planning/",
+    "loc": "seção sobre o plano de viagem",
+    "quote": "A skipper should ensure that everyone on board knows where the safety equipment is stowed and how to use it."
+   },
+   {
+    "txt": "Michaelis On-line, verbete «briefing»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/briefing/",
+    "loc": "verbete «briefing», acepção 1",
+    "quote": "Ato de transmitir informações básicas, instruções, normas etc., elaborado de forma concisa, para orientar a execução de um determinado trabalho."
+   }
+  ],
+  "verificado": true
+ },
+ "normam": {
+  "txt": "DPC/DHN, Comunicado de reorganização das NORMAM (2023)",
+  "url": "https://www.marinha.mil.br/cfpa/sites/www.marinha.mil.br.cfpa/files/2025-02/Comunicado%20Reorganiza%C3%A7%C3%A3o%20NORMAM.pdf",
+  "loc": "texto do comunicado",
+  "quote": "distribuição das normas em séries correlatas, sendo aquelas numeradas nas Séries de 100 a 400, sob a responsabilidade da DPC, e nas Séries de 500 a 800, sob a responsabilidade da DHN",
+  "outras": [
+   {
+    "txt": "Carta de Serviços ao Usuário da DHN (2019)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Carta-de-Servicos%20ao%20Usuario-DHN%20-ALT2019.pdf",
+    "loc": "tarefas da DHN, inciso VIII",
+    "quote": "aprovar as Normas da Autoridade Marítima (NORMAM) relativas"
+   },
+   {
+    "txt": "NORMAM-211/DPC (Esporte e Recreio)",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "folha de rosto da NORMAM-211/DPC",
+    "quote": "NORMAS DA AUTORIDADE MARÍTIMA PARA ATIVIDADES DE ESPORTE E RECREIO"
+   }
+  ],
+  "verificado": true
+ },
+ "dhn": {
+  "txt": "Carta de Serviços ao Usuário da DHN (2019)",
+  "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Carta-de-Servicos%20ao%20Usuario-DHN%20-ALT2019.pdf",
+  "loc": "apresentação",
+  "quote": "A Diretoria de Hidrografia e Navegação (DHN) é um órgão do Comando da Marinha do Brasil (MB), subordinada à Diretoria-Geral de Navegação (DGN).",
+  "outras": [
+   {
+    "txt": "Carta de Serviços ao Usuário da DHN (2019)",
+    "url": "https://assets.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Carta-de-Servicos%20ao%20Usuario-DHN%20-ALT2019.pdf",
+    "loc": "tarefas da DHN, inciso VI",
+    "quote": "supervisionar a elaboração e a edição, pelo CHM, das cartas e publicações náuticas sob a responsabilidade do Brasil"
+   }
+  ],
+  "verificado": true
+ },
+ "chm": {
+  "txt": "Carta de Serviços ao Usuário do CHM (2026)",
+  "url": "https://assets.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/CARTA%20DE%20SERVICOS%20AO%20USUARIO_CHM-2026%20-%20APROVADA.pdf",
+  "loc": "apresentação",
+  "quote": "O Centro de Hidrografia da Marinha (CHM) é um órgão do Comando da Marinha do Brasil, subordinado à Diretoria de Hidrografia e Navegação (DHN).",
+  "outras": [
+   {
+    "txt": "Carta de Serviços ao Usuário do CHM (2026)",
+    "url": "https://assets.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/CARTA%20DE%20SERVICOS%20AO%20USUARIO_CHM-2026%20-%20APROVADA.pdf",
+    "loc": "tarefas do CHM, inciso XXII",
+    "quote": "elaborar e manter atualizadas as cartas náuticas e publicações de auxílio à navegação"
+   },
+   {
+    "txt": "Carta de Serviços ao Usuário do CHM (2026)",
+    "url": "https://assets.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/CARTA%20DE%20SERVICOS%20AO%20USUARIO_CHM-2026%20-%20APROVADA.pdf",
+    "loc": "tarefas do CHM, inciso IV",
+    "quote": "elaborar, publicar e disseminar Avisos aos Navegantes"
+   },
+   {
+    "txt": "Carta de Serviços ao Usuário do CHM (2026)",
+    "url": "https://assets.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/CARTA%20DE%20SERVICOS%20AO%20USUARIO_CHM-2026%20-%20APROVADA.pdf",
+    "loc": "tarefas do CHM, inciso V",
+    "quote": "operar o Serviço Meteorológico Marinho brasileiro (SMM)"
+   },
+   {
+    "txt": "Carta de Serviços ao Usuário do CHM (2026)",
+    "url": "https://assets.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/CARTA%20DE%20SERVICOS%20AO%20USUARIO_CHM-2026%20-%20APROVADA.pdf",
+    "loc": "item 7.1.2 (acesso aos dados e informações)",
+    "quote": "Previsões de Marés (Tábuas de Marés)"
+   }
+  ],
+  "verificado": true
+ },
+ "afirmativa": {
+  "txt": "PUC-Rio (dissertação, Certificação Digital 1112733/CA), \"Tipos de Questão de Múltipla Escolha\", a partir do guia da SEE-MG",
+  "url": "https://www.maxwell.vrac.puc-rio.br/23892/23892_5.PDF",
+  "loc": "tipo 3 («questão de resposta múltipla»)",
+  "quote": "contextualizada com afirmativas pertinentes a ela. A seguir, enuncia o problema ou situação problema na forma de pergunta ou afirmação incompleta e apresenta uma chave de resposta.",
+  "outras": [
+   {
+    "txt": "Michaelis On-line, verbete «afirmativa»",
+    "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/afirmativa/",
+    "loc": "verbete «afirmativa», acepção 3",
+    "quote": "Proposição pela qual se afirma ou se sustenta que uma coisa é verdadeira"
+   }
+  ],
+  "verificado": true,
+  "nota": "Fonte parcial: a dissertação da PUC-Rio descreve a questão de resposta múltipla com afirmativas e chave de resposta; o termo não tem definição formal em guia oficial."
+ },
+ "distrator": {
+  "txt": "INEP, Guia de Elaboração e Revisão de Itens, vol. 1 (2010)",
+  "url": "https://morretes.pr.gov.br/uploads/pagina/arquivos/GuiaelaboracaoitensINEP.pdf",
+  "loc": "item 2.3.2 (Distratores), p. 11",
+  "quote": "Os distratores indicam as alternativas incorretas à resolução da situação-problema proposta. Além disso, essas respostas devem ser plausíveis, isto é, devem parecer corretas para aqueles participantes do teste que não desenvolveram a habilidade em questão",
+  "outras": [
+   {
+    "txt": "INEP, Guia de Elaboração e Revisão de Itens, vol. 1 (2010)",
+    "url": "https://morretes.pr.gov.br/uploads/pagina/arquivos/GuiaelaboracaoitensINEP.pdf",
+    "loc": "item 2.3.2 (Distratores), p. 11",
+    "quote": "aqueles que retratam erros grosseiros ou alternativas absurdas, dentro ou não do contexto do item, tendem a induzir a identificação da alternativa correta"
+   }
+  ],
+  "verificado": true
+ },
+ "comando-negativo": {
+  "txt": "PUC-Rio (dissertação, Certificação Digital 1112733/CA), \"Tipos de Questão de Múltipla Escolha\", a partir do guia da SEE-MG",
+  "url": "https://www.maxwell.vrac.puc-rio.br/23892/23892_5.PDF",
+  "loc": "tipo 4 («questão de foco negativo»)",
+  "quote": "A Questão de foco negativo (tipo 4) apresenta várias respostas corretas e apenas uma incorreta, que é a solicitada.",
+  "verificado": true
+ }
+}

@@ -1,0 +1,143 @@
+/* beaufort — escala Beaufort com o mar ilustrado. Só tokens; as cores da cena mudam com o tema pelo CSS. */
+.bf-raiz {
+  container-type: inline-size;
+  --bf-ceu-a: var(--paper);
+  --bf-ceu-b: var(--shoal);
+  --bf-mar-a: var(--sea-2);
+  --bf-mar-b: var(--sea-3);
+  --bf-mar-2: color-mix(in srgb, var(--sea-2) 70%, var(--sea-1));
+  --bf-mar-3: color-mix(in srgb, var(--sea-1) 70%, var(--sea-2));
+  --bf-espuma: var(--surface);
+  --bf-nuvem: var(--surface);
+  --bf-nuvem-pesada: color-mix(in srgb, var(--ink-3) 55%, var(--shoal));
+  --bf-casco: var(--ink);
+  --bf-vela: var(--surface);
+  --bf-vela-borda: var(--ink-2);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .bf-raiz {
+    --bf-ceu-a: color-mix(in srgb, var(--paper) 70%, var(--shoal));
+    --bf-ceu-b: var(--shoal-2);
+    --bf-espuma: var(--ink-2);
+    --bf-nuvem: var(--shoal-2);
+    --bf-nuvem-pesada: color-mix(in srgb, var(--ink-3) 35%, var(--shoal-2));
+    --bf-casco: var(--ink-2);
+    --bf-vela: var(--ink);
+    --bf-vela-borda: var(--ink-3);
+  }
+}
+:root[data-theme="dark"] .bf-raiz {
+  --bf-ceu-a: color-mix(in srgb, var(--paper) 70%, var(--shoal));
+  --bf-ceu-b: var(--shoal-2);
+  --bf-espuma: var(--ink-2);
+  --bf-nuvem: var(--shoal-2);
+  --bf-nuvem-pesada: color-mix(in srgb, var(--ink-3) 35%, var(--shoal-2));
+  --bf-casco: var(--ink-2);
+  --bf-vela: var(--ink);
+  --bf-vela-borda: var(--ink-3);
+}
+
+.bf-raiz .instrumento-controles { justify-content: space-between; }
+.bf-modo button { min-height: 40px; }
+.bf-ctl-anim { display: flex; gap: var(--s-2); flex-wrap: wrap; }
+.bf-anim, .bf-passo { min-height: 40px; }
+.bf-anim[aria-pressed="true"] { --bd: var(--line); }
+
+.bf-corpo { padding: var(--s-4); }
+@container (max-width: 520px) { .bf-corpo { padding: var(--s-3); } }
+
+/* topo: título e régua */
+.bf-topo { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: var(--s-3) var(--s-5); align-items: end; margin-bottom: var(--s-3); }
+@container (max-width: 700px) { .bf-topo { grid-template-columns: minmax(0, 1fr); } }
+.bf-titulo { font-size: var(--fs-2); margin: 0 0 2px; line-height: 1.15; }
+.bf-num-f { color: var(--magenta); margin-right: 0.15em; }
+.bf-en { font-weight: 500; color: var(--ink-2); font-size: 0.82em; }
+.bf-vel { margin: 0; color: var(--ink-2); font-size: 0.95rem; }
+
+.bf-regua-linha { display: flex; align-items: center; gap: var(--s-2); }
+.bf-mm { flex: none; min-width: 40px; }
+.bf-faixa-caixa { flex: 1; min-width: 0; }
+.bf-faixa { display: block; height: 40px; margin: 0; cursor: pointer; }
+.bf-marcas { display: flex; justify-content: space-between; padding: 0 6px; margin-top: -6px; font-size: 0.75rem; color: var(--ink-3); }
+.bf-marcas span { width: 1.4em; text-align: center; }
+.bf-marcas .bf-marca-on { color: var(--magenta); font-weight: 760; }
+@container (max-width: 460px) { .bf-marcas span:nth-child(even):not(.bf-marca-on) { visibility: hidden; } }
+.bf-conv { display: flex; align-items: center; gap: var(--s-2); margin-top: var(--s-2); font-size: var(--fs--1); color: var(--ink-2); flex-wrap: wrap; }
+.bf-conv > span:first-child { font-weight: 650; }
+.bf-nos { width: 5.5em !important; min-height: 40px; }
+.bf-un { color: var(--ink-2); }
+.bf-nos-saida { color: var(--magenta); font-weight: 700; }
+
+/* cena */
+.bf-cena-caixa { border: 1px solid var(--line); border-radius: var(--r-input); overflow: hidden; background: var(--paper); }
+.bf-cena { display: block; width: 100%; height: auto; aspect-ratio: 800 / 360; }
+.bf-ceu-a { stop-color: var(--bf-ceu-a); }
+.bf-ceu-b { stop-color: var(--bf-ceu-b); }
+.bf-mar-a { stop-color: var(--bf-mar-a); }
+.bf-mar-b { stop-color: var(--bf-mar-b); }
+.bf-onda-3 { fill: var(--bf-mar-3); }
+.bf-onda-2 { fill: var(--bf-mar-2); }
+.bf-onda-1 { stroke: color-mix(in srgb, var(--bf-mar-b) 60%, var(--ink)); stroke-width: 1; stroke-opacity: 0.35; }
+.bf-reflexo path { stroke: var(--bf-espuma); stroke-width: 1.4; opacity: 0.7; stroke-linecap: round; }
+.bf-espuma path, .bf-espuma ellipse { fill: var(--bf-espuma); }
+.bf-faixas path { stroke: var(--bf-espuma); stroke-width: 1.6; stroke-linecap: round; fill: none; }
+.bf-borrifos circle { fill: var(--bf-espuma); }
+.bf-vento-ar path { stroke: var(--ink-3); stroke-width: 1.2; stroke-linecap: round; fill: none; }
+.bf-nevoa { fill: var(--bf-espuma); }
+.bf-mar-branco { fill: var(--bf-espuma); }
+.bf-nuvem ellipse { fill: var(--bf-nuvem); }
+.bf-nuvem-pesada ellipse { fill: var(--bf-nuvem-pesada); }
+.bf-casco { fill: var(--bf-casco); }
+.bf-faixa-casco { stroke: var(--magenta); stroke-width: 2; fill: none; }
+.bf-cabine { fill: var(--bf-vela); stroke: var(--bf-casco); stroke-width: 1.2; }
+.bf-mastro { stroke: var(--bf-casco); stroke-width: 2.4; stroke-linecap: round; }
+.bf-estai { stroke: var(--ink-3); stroke-width: 0.8; fill: none; }
+.bf-retranca { stroke: var(--bf-casco); stroke-width: 2.6; stroke-linecap: round; }
+.bf-vela { fill: var(--bf-vela); stroke: var(--bf-vela-borda); stroke-width: 1; stroke-linejoin: round; }
+.bf-rizo { stroke: var(--bf-vela-borda); stroke-width: 2.2; stroke-linecap: round; }
+.bf-vela-ferrada { stroke: var(--bf-vela); stroke-width: 5; stroke-linecap: round; }
+.bf-enrolada { stroke: var(--bf-vela-borda); stroke-width: 2.4; stroke-linecap: round; opacity: 0.9; }
+.bf-escala-fundo { fill: var(--paper); opacity: 0.82; }
+.bf-escala-linha { stroke: var(--ink); stroke-width: 1.6; fill: none; }
+.bf-escala-txt { fill: var(--ink); font-family: var(--font); font-size: 15px; font-weight: 650; }
+.bf-seta-vento { stroke: var(--ink); stroke-width: 2.4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+
+/* informações */
+.bf-grade { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: var(--s-4); margin-top: var(--s-4); }
+@container (max-width: 700px) { .bf-grade { grid-template-columns: minmax(0, 1fr); } }
+.bf-caixa { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-4); min-width: 0; }
+.bf-caixa h4 { font-size: var(--fs-0); margin: 0 0 var(--s-2); display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: baseline; }
+.bf-caixa-vela { background: var(--paper); border: 1px solid var(--line); }
+.bf-geral { font-size: var(--fs--1); font-weight: 650; color: var(--ink-2); background: var(--shoal); border-radius: var(--r-chip); padding: 1px 10px; }
+.bf-mar { margin: 0 0 var(--s-3); }
+.bf-numeros { display: flex; gap: var(--s-5); flex-wrap: wrap; margin-bottom: var(--s-2); }
+.bf-onda-v { display: flex; gap: var(--s-5); flex-wrap: wrap; }
+.bf-stat { display: flex; flex-direction: column; }
+.bf-stat-v { font-size: var(--fs-2); font-weight: 780; line-height: 1.1; }
+.bf-stat-l { font-size: var(--fs--1); color: var(--ink-2); }
+.bf-douglas { margin: 0 0 var(--s-2); font-size: 0.95rem; }
+.bf-vela-tit { font-weight: 700; margin: 0 0 var(--s-2); }
+.bf-vela-lista { margin: 0 0 var(--s-3); padding-left: 1.2em; }
+.bf-vela-lista li { margin-bottom: var(--s-1); }
+.bf-miudo { font-size: var(--fs--1); color: var(--ink-2); margin: 0; }
+.bf-boletim { margin: var(--s-4) 0 0; font-size: 0.95rem; border-left: 3px solid var(--magenta); padding-left: var(--s-3); }
+
+.bf-tabela { margin-top: var(--s-4); }
+.bf-tabela > summary { cursor: pointer; font-weight: 700; min-height: 40px; display: flex; align-items: center; color: var(--magenta); }
+.bf-tabela .table-wrap { margin: var(--s-2) 0; }
+.bf-tabela table.tabela { font-size: 0.9rem; }
+.bf-tabela td, .bf-tabela th { padding: 6px 8px; }
+.bf-tabela tr[data-f] { cursor: pointer; }
+.bf-tabela tr[data-f]:hover td { background: var(--shoal); }
+.bf-tabela tr[aria-current="true"] td { background: var(--magenta-soft); }
+.bf-tab-btn { font: inherit; font-weight: 760; min-width: 40px; min-height: 40px; border: 1px solid var(--line); border-radius: var(--r-input); background: var(--paper); color: var(--ink); cursor: pointer; }
+.bf-num { white-space: nowrap; }
+
+/* quiz */
+.bf-quiz-cab { display: flex; justify-content: space-between; gap: var(--s-3); font-size: var(--fs--1); color: var(--ink-2); margin-bottom: var(--s-2); }
+.bf-quiz-p { font-weight: 700; color: var(--ink); }
+.bf-cena-quiz { margin: var(--s-3) 0; }
+.bf-enunciado { margin-top: var(--s-3); }
+.bf-quiz .alternativa { min-height: 44px; }
+.bf-ver { margin-top: var(--s-2); color: var(--magenta); }
+.bf-quiz-rodape { margin-top: var(--s-3); }

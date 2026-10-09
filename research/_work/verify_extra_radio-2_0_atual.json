@@ -1,0 +1,123 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-radio-2-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://cruzvermelha.org.br/en/campanhas/primeiros-socorros/",
+   "notes": "Página reaberta hoje confirma cursos para todos, básico 4 h, avançado 30 h e didática do Centro de Referência Global (Paris).",
+   "evidence_quote": "O básico dura 4 horas. O avançado, 30 horas."
+  },
+  {
+   "id": "extra-radio-2-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/basic-sea-survival-certificate/",
+   "notes": "Página RYA atual traz literalmente a sessão em piscina com balsa, roupa de mau tempo e colete.",
+   "evidence_quote": "a practical session in a swimming pool"
+  },
+  {
+   "id": "extra-radio-2-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice G 6.1.1 (só MNA concede) e 6.2.1 (não precisa seguir o curso modelo) conferem no PDF; v1 é a edição em vigor hoje. A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "It is not necessary for a training course to follow the Appendix G Model Training Course"
+  },
+  {
+   "id": "extra-radio-2-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Item 6.5 do Apêndice G confere literalmente no PDF vigente. A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "it is not mandatory that a training course for compliance with SR 6.01 and 6.02 is \"World Sailing Approved,\""
+  },
+  {
+   "id": "extra-radio-2-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Introdução item 4 do Apêndice G confere (exercícios/provas finais diárias e 70% por unidade). A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "A score of 70% in each of the marked units, plus the instructors' continuous assessments"
+  },
+  {
+   "id": "extra-radio-2-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Itens A3.4 e A3.5 conferem: piscina de água morna funda e local externo para pirotécnicos/extintores. A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "A warm-water swimming pool, deep enough to float everyone"
+  },
+  {
+   "id": "extra-radio-2-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Parte B/C do cronograma confere: dia 1 com 10 sessões teóricas e dia 2 com 4 h teoria + 4 h prática; temas listados batem. A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "Day 2, total hours including break = 08:00 04:00 04:00"
+  },
+  {
+   "id": "extra-radio-2-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice H confere (sessões 2 a 8, L-ABCDE, evacuação por helicóptero, RCP, quando pedir ajuda ou abandonar a regata; 'pelo menos um dia'). A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "The course is planned for at least a full day"
+  },
+  {
+   "id": "extra-radio-2-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice H item 3 confere literalmente. A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "ideally a medical doctor, paramedics or nurse"
+  },
+  {
+   "id": "extra-radio-2-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 6.06 (marcada MoMu0, ou seja Categoria 0) confere: 30% da tripulação com treino de mergulho; texto igual na v2. A v2 (vigente a partir de 1/jan/2027, ainda não em vigor em 07/10/2026) não altera este conteúdo.",
+   "evidence_quote": "At least 30% of the crew shall have received diving training"
+  },
+  {
+   "id": "extra-radio-2-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "notes": "Página oficial atual do CBSN ('ATUALIZADO') ainda linka esta sinopse; 34 h, 8/4/8 h, nota 6,0 e 90% conferem; sem portaria posterior contraditória no índice de normas.",
+   "evidence_quote": "Qualificar o aluno, não tripulante, para tarefas a bordo de navios de passageiros"
+  },
+  {
+   "id": "extra-radio-2-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "notes": "Página oficial atual do CBSP linka esta sinopse; 40 h (36+2+2), 8/6/10/9/3 h, nota 6,0 e 90% conferem.",
+   "evidence_quote": "CARGA HORÁRIA TOTAL.....40 HORAS"
+  },
+  {
+   "id": "extra-radio-2-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_11.pdf",
+   "notes": "Página oficial atual do CPSO linka esta sinopse; 52 h (48+2+2), 18/10/20 h, instrutores com experiência em emergência hospitalar, 6,0 e 90% conferem.",
+   "evidence_quote": "sólida experiência profissional em emergência hospitalar"
+  },
+  {
+   "id": "extra-radio-2-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/offshore-personal-survival-course-ryaworld-sailing/",
+   "notes": "Página RYA atual mostra 'Required experience None, Minimum age None' (curso de 2 dias).",
+   "evidence_quote": "Required experience None Minimum age None"
+  },
+  {
+   "id": "extra-radio-2-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.rya.org.uk/course-finder/first-aid-course/",
+   "notes": "Página RYA atual confirma curso desenvolvido para quem está na água, instrutores com experiência náutica, sem requisitos e o trecho sobre uma só pessoa.",
+   "evidence_quote": "It can be very difficult for just one person to navigate, helm, call for help and resuscitate at the same time!"
+  },
+  {
+   "id": "extra-radio-2-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_20.pdf",
+   "notes": "Itens 2.1 f) e 2.2 b) do CBSN conferem, e o CBSP (SINOPSE_0.pdf) tem texto equivalente (EPI por aluno, instrutores capacitados, segurança e socorro no local); sinopses ainda são as vigentes.",
+   "evidence_quote": "equipamentos de proteção para cada aluno; instrutores e monitores capacitados; e segurança do evento com apoio e socorro no local"
+  },
+  {
+   "id": "extra-radio-2-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/cursos-offshore/SINOPSE_0.pdf",
+   "notes": "Sinopse vigente do CBSP: 5 dias, 40 h, 'mais de dezoito (18) anos', ensino fundamental, boa saúde, primeiros socorros 6 h e sobrevivência 9 h conferem.",
+   "evidence_quote": "ter mais de dezoito (18) anos, no dia da matrícula"
+  }
+ ]
+}

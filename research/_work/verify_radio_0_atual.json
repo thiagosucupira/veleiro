@@ -1,0 +1,228 @@
+{
+ "verdicts": [
+  {
+   "id": "radio-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/radioamador-e-radio-cidadao/operador-radiotelefonista",
+   "notes": "Página Anatel reaberta hoje (modificada 11/06/2026) traz o texto do convênio e das categorias.",
+   "evidence_quote": "aplica as provas para Operador Radiotelefonista, em suas duas categorias"
+  },
+  {
+   "id": "radio-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/radioamador-e-radio-cidadao/operador-radiotelefonista",
+   "notes": "Reaberta hoje: texto idêntico, sem mudança.",
+   "evidence_quote": "pode ser obtido por qualquer pessoa física maior de idade residente no Brasil e é expedido gratuitamente"
+  },
+  {
+   "id": "radio-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/radioamador-e-radio-cidadao/operador-radiotelefonista",
+   "notes": "Reaberta hoje: SEC, gov.br e gratuidade presentes; provas online conforme calendário.",
+   "evidence_quote": "registrar seu interesse em realizar prova, gratuitamente"
+  },
+  {
+   "id": "radio-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?8-74Kn1tDR89f1Q7RjX8EYU46IzCFD26Q9Xx5QNDbqZN6xPXfARLSUcWx4TnWTzH5A3neB6Oso1z0PtvCqNhP-nGZXXh0VeIuY-RIs04JpAv5qBlqcDBwhMXlVozb1f0",
+   "notes": "Ato 3449/2026 (DOU 13/03/2026) reaberto; categorias ORG/ORR e restrição do ORR confirmadas.",
+   "evidence_quote": "O operador de rádio restrito (ORR) somente pode operar estações no Território, Águas e Espaço Aéreo Nacionais"
+  },
+  {
+   "id": "radio-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?8-74Kn1tDR89f1Q7RjX8EYU46IzCFD26Q9Xx5QNDbqZN6xPXfARLSUcWx4TnWTzH5A3neB6Oso1z0PtvCqNhP-nGZXXh0VeIuY-RIs04JpAv5qBlqcDBwhMXlVozb1f0",
+   "notes": "Ato reaberto: gratuidade e questões certo/errado confirmadas.",
+   "evidence_quote": "questões objetivas, na modalidade \"certo\" ou \"errado\""
+  },
+  {
+   "id": "radio-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?8-74Kn1tDR89f1Q7RjX8EYU46IzCFD26Q9Xx5QNDbqZN6xPXfARLSUcWx4TnWTzH5A3neB6Oso1z0PtvCqNhP-nGZXXh0VeIuY-RIs04JpAv5qBlqcDBwhMXlVozb1f0",
+   "notes": "Tabela do Ato reaberta confere (falha da checagem automática foi só 'Operação de rádio I I'); ORG lista só Idioma, Op II e Leg II.",
+   "evidence_quote": "ORG Operação de rádio I I 10 5 30; ORG Legislação de radiocomunicações II 10 5 30"
+  },
+  {
+   "id": "radio-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?8-74Kn1tDR89f1Q7RjX8EYU46IzCFD26Q9Xx5QNDbqZN6xPXfARLSUcWx4TnWTzH5A3neB6Oso1z0PtvCqNhP-nGZXXh0VeIuY-RIs04JpAv5qBlqcDBwhMXlVozb1f0",
+   "notes": "Ementa de Op. II e Leg. II (SOLAS) confere no Ato reaberto; checagem automática falhou só pelo 'I I' no HTML.",
+   "evidence_quote": "Conhecimento prático detalhado da operação de todos os subsistemas e equipamentos do GMDSS"
+  },
+  {
+   "id": "radio-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?8-74Kn1tDR89f1Q7RjX8EYU46IzCFD26Q9Xx5QNDbqZN6xPXfARLSUcWx4TnWTzH5A3neB6Oso1z0PtvCqNhP-nGZXXh0VeIuY-RIs04JpAv5qBlqcDBwhMXlVozb1f0",
+   "notes": "12 meses, carência 8 dias e 30 dias de impedimento confirmados no Ato reaberto.",
+   "evidence_quote": "válidos por 12 (doze) meses"
+  },
+  {
+   "id": "radio-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?8-74Kn1tDR89f1Q7RjX8EYU46IzCFD26Q9Xx5QNDbqZN6xPXfARLSUcWx4TnWTzH5A3neB6Oso1z0PtvCqNhP-nGZXXh0VeIuY-RIs04JpAv5qBlqcDBwhMXlVozb1f0",
+   "notes": "Lista de isenção inclui EROG emitido pela Capitania dos Portos; CROG de fato ausente.",
+   "evidence_quote": "Curso Especial de Radioperador Geral (EROG) emitido pela Capitania dos Portos"
+  },
+  {
+   "id": "radio-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/0a5f21136202dc8e4135caab170cfb45",
+   "notes": "Manual v2026-04.1 reaberto: computador, câmera móvel, microfone, Teams, SEI e SEC confirmados; fones de ouvido proibidos.",
+   "evidence_quote": "Não é permitido o uso de fones de ouvido ou de cabeça"
+  },
+  {
+   "id": "radio-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Material de apoio reaberto (29 p.), seção 3.1 confere.",
+   "evidence_quote": "serão cobrados apenas conceitos básicos na tradução de termos ou frases relacionadas à temática náutica"
+  },
+  {
+   "id": "radio-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://informacoes.anatel.gov.br/legislacao/component/content/article/170-resolucoes/2025/2022-resolucao-777",
+   "notes": "Art. 271 caput reaberto na página oficial da Res. 777/2025; texto também cita SLMA, omitido na afirmação sem distorcê-la.",
+   "evidence_quote": "Art. 271. Para operação de estações do SLMM, quando associado ao GMDSS, e do SLMA, é necessário Certificado de Radiotelegrafista ou Radiotelefonista"
+  },
+  {
+   "id": "radio-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://informacoes.anatel.gov.br/legislacao/component/content/article/170-resolucoes/2025/2022-resolucao-777",
+   "notes": "Art. 271 §1º (16 anos) vs página Anatel (maior de idade, residente) - divergência entre as duas fontes reaberta e real.",
+   "evidence_quote": "desde que maiores de 16 (dezesseis) anos"
+  },
+  {
+   "id": "radio-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "notes": "Item 2.1.9.12 confere no material de apoio v2026-03.",
+   "evidence_quote": "pode ficar a cargo de um radiotelegrafista portador do Certificado RTE"
+  },
+  {
+   "id": "radio-15",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "Texto integral da NORMAM-211 (Portaria 200/2026, última no índice DPC) não exige certificado de operador de rádio; Anexo 5-A traz VHF nos programas da CHA.",
+   "evidence_quote": "4.23.8 e 4.24 tratam só de equipamento e licença"
+  },
+  {
+   "id": "radio-16",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "4.23.8 confere na versão de 03/03/2026; índice DPC mostra Portaria 200 de 27/02/2026 como a vigente.",
+   "evidence_quote": "4.23.8. Licença de Estação - as embarcações que dotam equipamentos de rádio comunicação devem obter a Licença de Estação de Navio"
+  },
+  {
+   "id": "radio-17",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "Parágrafo de 4.23.3 confere no acervo.",
+   "evidence_quote": "devem ser registrados no órgão federal competente"
+  },
+  {
+   "id": "radio-18",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "4.23.7 confere no acervo.",
+   "evidence_quote": "4.23.7. Homologação - todos os equipamentos eletrônicos de comunicações"
+  },
+  {
+   "id": "radio-19",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "4.23.4 a) confere no acervo.",
+   "evidence_quote": "em escuta permanente no canal 16 ou 70 no caso de equipamento DSC"
+  },
+  {
+   "id": "radio-20",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "4.23.4 b) confere no acervo, incluindo 4.431,8 e 8.291,1.",
+   "evidence_quote": "Transceptor HF - frequência Internacional de Socorro ou 4.125 KHz"
+  },
+  {
+   "id": "radio-21",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "4.24.2 a) e nota (*) conferem no acervo.",
+   "evidence_quote": "equipamento transceptor em HF com DSC (*)"
+  },
+  {
+   "id": "radio-22",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "4.24.2 b) e c) conferem no acervo.",
+   "evidence_quote": "recomendado o equipamento transceptor em VHF fixo ou portátil"
+  },
+  {
+   "id": "radio-23",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "Parágrafo final de 4.24.2 confere no acervo.",
+   "evidence_quote": "deverão possuir antena de emergência"
+  },
+  {
+   "id": "radio-24",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "Glossário confere: médio porte <24 m exceto miúdas (<=6 m); 32 pés ≈ 9,75 m cai em médio porte.",
+   "evidence_quote": "EMBARCAÇÃO DE MÉDIO PORTE - ... comprimento inferior a 24 metros, exceto as miúdas"
+  },
+  {
+   "id": "radio-25",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "Tabela 4.35 (oceânica) confere: HF SSB obrigatório e VHF fixo obrigatório em médio porte.",
+   "evidence_quote": "19 RADIO HF SSB 4.24 Obrigatório"
+  },
+  {
+   "id": "radio-26",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "Tabela 4.35 e nota (*) sobre EPIRB/INFOSAR conferem no acervo.",
+   "evidence_quote": "deverão ser observados o seu correto funcionamento, a validade de suas baterias e o seu registro atualizado no INFOSAR"
+  },
+  {
+   "id": "radio-27",
+   "verdict": "confirmado",
+   "evidence_url": "/home/sobranceiro/veleiro_certificacoes/research/acervo/normam-211.txt",
+   "notes": "Tabela 4.34 (costeira) reaberta: HF dispensado em médio porte e VHF fixo obrigatório; falha automática foi só de linearização.",
+   "evidence_quote": "19 RADIO HF 4.24 Dispensado"
+  },
+  {
+   "id": "radio-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/servico-movel-maritimo",
+   "notes": "Página Anatel reaberta: itens 1 a 5 confirmados (SEI, procuração, Mosaico/gov.br, autorização SLE, módulo MMAR).",
+   "evidence_quote": "5 - LICENCIAMENTO DA ESTAÇÃO ... Acessar o módulo MMAR do MOSAICO"
+  },
+  {
+   "id": "radio-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Tutorial MMAR (jun/2026) reaberto: define 'Embarcação' e 'Estação Móvel' como tipos de estação.",
+   "evidence_quote": "Estação Móvel: É o conjunto de equipamentos de radiocomunicação portátil ou transportável"
+  },
+  {
+   "id": "radio-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Tutorial reaberto: licenciamento oneroso com TFI e PPDUR se não houver autorização de uso de radiofrequência.",
+   "evidence_quote": "licenciamento oneroso ... Taxa de Fiscalização de Instalação (TFI)"
+  },
+  {
+   "id": "radio-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-servico-limitado-movel-aeronautico-ou-maritimo",
+   "notes": "Página gov.br reaberta: 30 dias e 'gratuito para o cidadão' presentes; a 'divergência' com o TFI é leitura plausível (autorização vs licença), não contradição provada.",
+   "evidence_quote": "Este serviço é gratuito para o cidadão"
+  },
+  {
+   "id": "radio-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "notes": "Tutorial reaberto: prazo indeterminado salvo Embarcação em Teste.",
+   "evidence_quote": "Todas as licenças geradas pelo módulo terão prazo indeterminado, exceto as referentes a estações do tipo Embarcação em Teste"
+  }
+ ]
+}

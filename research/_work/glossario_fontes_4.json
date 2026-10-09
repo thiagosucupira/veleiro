@@ -1,0 +1,774 @@
+{
+ "no-de-oito": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.5 (volta de fiador, o nó em forma de oito), p. 381",
+  "quote": "É dada, por exemplo, no chicote do tirador de uma talha, a fim de não deixar desgurnir",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+    "loc": "art. 8.5, p. 381",
+    "quote": "Volta de fiador (fig. 8-3) – Uma volta que lembra o número oito"
+   }
+  ],
+  "verificado": true
+ },
+ "no-direito": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.37 (nó direito) e 8.38 (nó torto), p. 392",
+  "quote": "Desfaz-se por si mesmo se os cabos são de diferentes tamanhos ou materiais",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+    "loc": "art. 8.38, p. 392",
+    "quote": "Confunde-se muito com aquele, mas não é usado a bordo porque recorre"
+   }
+  ],
+  "verificado": true
+ },
+ "volta-do-fiel": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.7 (volta de fiel singela), p. 382",
+  "quote": "A volta de fiel deve ser empregada onde a tensão no cabo seja constante",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+    "loc": "art. 7.57 (termos referentes aos cabos), verbete \"Fiéis\", p. 362",
+    "quote": "Cabos finos com que se prendem quaisquer objetos, tais como as fundas dos escaleres, as defensas etc."
+   }
+  ],
+  "verificado": true
+ },
+ "volta-redonda-e-dois-cotes": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.9 (volta redonda e cotes), p. 382",
+  "quote": "A volta com dois cotes não se desfaz como a anterior, mas também recorre, a menos que se abotoe o chicote",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+    "loc": "art. 8.9, p. 382",
+    "quote": "Servem para agüentar um cabo ao anete de um ancorote, à boça de uma embarcação, ao arganéu de uma bóia etc."
+   }
+  ],
+  "def_corrigida": "Volta completa em torno de uma argola ou de um pau seguida de dois cotes. Segura bem cargas fortes, mas pode recorrer: se o esforço for grande, abotoe o chicote.",
+  "verificado": true
+ },
+ "no-de-escota": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.39 (nó de escota singelo) e 8.40 (dobrado), p. 392",
+  "quote": "dois cabos pelos chicotes, ou um chicote a um olhal, mão ou alça",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+    "loc": "art. 8.40, p. 393",
+    "quote": "É o mesmo nó anterior, fazendo o chicote uma volta redonda, em vez da volta singela, para maior segurança"
+   }
+  ],
+  "verificado": true
+ },
+ "volta-de-cunho": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.144 (dar volta a um cabo num cunho), p. 450",
+  "quote": "Dá-se volta às adriças, tiradores das talhas etc., num cunho por meio de voltas falidas",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+    "loc": "art. 8.144, p. 451",
+    "quote": "Na última volta dá-se um cote"
+   },
+   {
+    "txt": "Wikipédia (EN), Cleat hitch (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Cleat_hitch",
+    "loc": "Cleat hitch, seção \"Tying\"",
+    "quote": "The hitch is finished with an inverted half hitch"
+   }
+  ],
+  "verificado": true
+ },
+ "cote": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.6 (cote), p. 381",
+  "quote": "É uma volta singela em que uma das partes do cabo morde a outra",
+  "verificado": false,
+  "motivo": "Citação confirmada no art. 8.6 (Arte Naval, Cap. 8, p. 381: volta singela em que uma parte do cabo morde a outra), mas a def afirma 'É a base de muitos nós', contrariada pela fonte, que diz que o cote é 'raramente usado só, servindo para rematar outras voltas'."
+ },
+ "falcaca": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.46 (falcaça), p. 395",
+  "quote": "A falcaça é o meio mais correto e o mais usado para não permitir descochar o chicote de um cabo, e consiste em dar em torno dos cordões um certo número de voltas redondas, com fio de vela ou merlim",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+    "loc": "art. 7.22 (cabos sintéticos, náilon), p. 320",
+    "quote": "A colagem das pontas das fibras pode ser feita com ferro quente e é recomendada pelos fabricantes"
+   }
+  ],
+  "verificado": true
+ },
+ "costura": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+  "loc": "art. 8.78 (costuras em cabos de fibra), p. 408",
+  "quote": "Costuras são emendas permanentes de dois chicotes ou de um chicote ao seio do cabo por meio de entrelaçamento de seus cordões",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 8 (Trabalhos do marinheiro)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap8_2005.pdf",
+    "loc": "art. 8.78.b (vantagens das costuras), p. 409",
+    "quote": "As costuras apresentam, sobre as emendas feitas com nós ou aboçaduras, as vantagens de maior resistência à tração"
+   }
+  ],
+  "verificado": true
+ },
+ "aduchar": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+  "loc": "art. 7.13 (como colher um cabo), p. 311",
+  "quote": "Chama-se colher um cabo arrumá-lo em aducha, a fim de que ele não possa ficar enrascado e tenha sempre os chicotes livres",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Apêndice VI (Minidicionário de termos náuticos)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Apendice_VI_2005.pdf",
+    "loc": "verbete \"Aduchar\"",
+    "quote": "Aduchar - To coil."
+   }
+  ],
+  "verificado": true
+ },
+ "tesar": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+  "loc": "art. 7.57 (termos referentes aos cabos), verbete \"Tesar\", p. 362",
+  "quote": "Tesar – Esticar um cabo.",
+  "verificado": true
+ },
+ "solecar": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+  "loc": "art. 7.57 (termos referentes aos cabos), verbete \"Solecar\", p. 362",
+  "quote": "Solecar – Dar um brando ao cabo, arriando-o um pouco; aliviar o peso ou esforço; dar mais folga ao seio.",
+  "verificado": true
+ },
+ "bitola": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+  "loc": "Cap. 7, Seção B (cabos de fibra sintética), após o art. 7.23, p. 324",
+  "quote": "os cabos de fibra sintética são mais comumente especificados pelo seu diâmetro",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+    "loc": "art. 7.9 (medida dos cabos de fibra natural), p. 308",
+    "quote": "O mais comum é fazer-se a medida pela circunferência em polegadas"
+   }
+  ],
+  "def_corrigida": "Medida da grossura de um cabo. Nos cabos sintéticos de hoje, dá-se em geral pelo diâmetro em milímetros (nos de fibra natural, era comum a circunferência).",
+  "verificado": true
+ },
+ "ancora": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 1",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap1_2005_0.pdf",
+  "loc": "art. 1.152 (âncora), p. 41",
+  "quote": "Peça do equipamento que, lançada ao fundo do mar, faz presa nele e agüenta o navio a que se acha ligada por meio da amarra",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 10 (Aparelho de fundear e suspender)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap10_2005.pdf",
+    "loc": "art. 10.1, p. 519",
+    "quote": "se largada em determinado fundo do mar, fazer presa nele; se içada pela amarra, soltar-se com facilidade"
+   }
+  ],
+  "verificado": true
+ },
+ "amarra": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 10 (Aparelho de fundear e suspender)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap10_2005.pdf",
+  "loc": "art. 10.11.a (amarra), p. 528",
+  "quote": "É constituída por elos com malhete e liga a âncora ao navio",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 12 (Manobra do navio)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap12_2005.pdf",
+    "loc": "art. 12.42.2 (aproximação para o fundeio), p. 624",
+    "quote": "o navio é mantido no ponto de fundeio pelo peso da amarra e não apenas pelo ferro unhado no fundo"
+   },
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 10 (Aparelho de fundear e suspender)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap10_2005.pdf",
+    "loc": "art. 10.11.a, p. 528",
+    "quote": "As embarcações pequenas podem empregar correntes (cadeia de elos sem malhete) ou cabo de aço"
+   }
+  ],
+  "verificado": true
+ },
+ "arinque": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 10 (Aparelho de fundear e suspender)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap10_2005.pdf",
+  "loc": "art. 10.28.a (bóia de arinque), p. 545",
+  "quote": "Um cabo fino de fibra, chamado arinque, é amarrado a este arganéu e à âncora",
+  "extras": [
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 10 (Aparelho de fundear e suspender)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap10_2005.pdf",
+    "loc": "art. 10.28.d, p. 545",
+    "quote": "O arinque pode ser amarrado à haste ou a um dos braços da âncora"
+   },
+   {
+    "txt": "Wikipédia (EN), Anchor (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Anchor",
+    "loc": "Anchor, seção sobre o içamento (trip line)",
+    "quote": "Anchors are sometimes fitted with a trip line attached to the crown, by which they can be unhooked from underwater hazards"
+   }
+  ],
+  "def_corrigida": "Cabo fino com uma boia na ponta, preso à âncora. Marca onde ela está, mesmo se a âncora se perder, e pode ajudar a soltá-la se ficar presa em pedras.",
+  "verificado": true
+ },
+ "espia": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+  "loc": "art. 7.57 (termos referentes aos cabos), verbete \"Espia\", p. 362",
+  "quote": "Espia – Cabo grosso que se lança de um navio para terra ou para outro navio, a fim de amarrá-lo",
+  "def_corrigida": "Cabo grosso usado para amarrar o barco ao cais ou a outro barco.",
+  "verificado": true
+ },
+ "retinida": {
+  "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 12 (Manobra do navio)",
+  "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap12_2005.pdf",
+  "loc": "art. 12.24 (notas sobre o emprego das espias), p. 604",
+  "quote": "As retinidas devem ser lançadas logo que a distância seja suficiente, mesmo que a espia só seja mandada ao cais depois que o navio esteja mais perto",
+  "extras": [
+   {
+    "txt": "NORMAM-211/DPC",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "art. 4.15 (dotação de boias salva-vidas), alínea \"Retinida\", p. 4-8",
+    "quote": "pelo menos uma das boias salva-vidas deve estar guarnecida com uma retinida flutuante de comprimento igual ao dobro da altura na qual ficará estivada"
+   },
+   {
+    "txt": "Arte Naval (Fonseca, SDM/Marinha), Cap. 7 (Cabos)",
+    "url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/Cap7_2005.pdf",
+    "loc": "art. 7.27, p. 326",
+    "quote": "como retinida (cabo mensageiro)"
+   }
+  ],
+  "verificado": true
+ },
+ "navegacao-estimada": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 5.1 (conceito de navegação estimada), p. 5-1",
+  "quote": "Navegação estimada é o método para determinar a posição provável do navio, recorrendo-se somente às características do seu movimento, a partir de uma posição conhecida",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 5.1, p. 5-2",
+    "quote": "Usar a navegação estimada, mesmo paralelamente a outros tipos de navegação, auxilia na prevenção de erros grosseiros"
+   }
+  ],
+  "def_corrigida": "Método de achar a posição a partir da última posição conhecida, do rumo, da velocidade e do tempo navegado. Usá-la sempre, mesmo com GNSS a bordo, ajuda a evitar erros grosseiros.",
+  "verificado": true
+ },
+ "posicao-estimada": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 5.1, p. 5-1",
+  "quote": "Se for considerado o efeito da corrente, obter-se-á uma posição mais precisa, denominada estimada corrigida",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 5.3 (regras para a navegação estimada), p. 5-3",
+    "quote": "uma posição estimada deve ser plotada nas horas inteiras"
+   }
+  ],
+  "verificado": true
+ },
+ "ponto": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 4.3 (determinação da posição no mar), p. 4-10",
+  "quote": "Para determinar a posição, é necessário cruzar duas ou mais linhas de posição do mesmo tipo ou de naturezas diferentes",
+  "verificado": true
+ },
+ "linha-de-posicao": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 4.2, p. 4-4",
+  "quote": "Chama-se Linha de Posição (LDP) ao lugar geométrico de todas as posições que o navio pode ocupar, tendo efetuado uma certa observação, em um determinado instante",
+  "verificado": true
+ },
+ "alinhamento": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 4.2.a (LDP alinhamento), p. 4-5",
+  "quote": "É a LDP de maior precisão e não necessita de qualquer instrumento para ser obtida",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 4.2.a, p. 4-5",
+    "quote": "os alinhamentos são muito utilizados em sinalização náutica, para indicar ao navegante onde governar"
+   }
+  ],
+  "verificado": true
+ },
+ "triangulo-de-incerteza": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 4.5.4 (triângulo de incerteza), p. 4-28",
+  "quote": "adota-se para a posição do navio a interseção (vértice do triângulo) mais próxima do perigo",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 4.5.4, p. 4-28",
+    "quote": "Quando se tomam três retas, elas nem sempre se cruzam em um ponto, podendo gerar um triângulo de incerteza"
+   }
+  ],
+  "verificado": true
+ },
+ "marcacao": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.8 (marcação verdadeira), p. 1-16",
+  "quote": "é o ângulo horizontal entre o Norte Verdadeiro e a linha que une o ponto de observação no navio ao objeto marcado",
+  "verificado": true
+ },
+ "marcacao-relativa": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.8 (marcação relativa), p. 1-16",
+  "quote": "é o ângulo horizontal entre a Proa e a linha que une o ponto de observação no navio ao objeto marcado",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 1.8, p. 1-17",
+    "quote": "(Mv = Mr + R)"
+   }
+  ],
+  "verificado": true
+ },
+ "rumo": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.8 (a direção no mar. Rumos e marcações), p. 1-14",
+  "quote": "Um navio (ou embarcação) governa seguindo um RUMO, que pode ser definido como o ângulo horizontal entre uma direção de referência e a direção para a qual aponta a proa do navio",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 1.8, p. 1-16",
+    "quote": "Um rumo deve ser sempre escrito com três algarismos em sua parte inteira"
+   }
+  ],
+  "verificado": true
+ },
+ "rumo-verdadeiro": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 3.2.5 (conversão de rumos e marcações), exemplo 1 (e), p. 3-18",
+  "quote": "Rv = Rag ± Dec mg ± Dag = 110º - 23º (W) + 2º (E) = 89º",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 3.2.5, p. 3-15",
+    "quote": "só se traçam na Carta Marcações e Rumos Verdadeiros"
+   }
+  ],
+  "verificado": true
+ },
+ "rumo-magnetico": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 3.2.1 (agulha magnética: descrição), p. 3-2",
+  "quote": "igual ao ângulo entre a proa do navio e o Norte Magnético, ou seja, o Rumo Magnético do navio",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 3.2.5, exemplo 4 (b), p. 3-17",
+    "quote": "Rmg = Rv ± Dec mg = 078º + 23º (W) = 101º"
+   }
+  ],
+  "verificado": true
+ },
+ "rumo-da-agulha": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 3.2.4.b (perturbações da agulha; desvios), p. 3-9",
+  "quote": "mas segundo uma outra direção, que se denomina “norte da agulha”",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 3.2.5, exemplo 2 (b), p. 3-16",
+    "quote": "Rmg = Rag ± Dag = 160º - 2º (W) = 158º"
+   }
+  ],
+  "def_corrigida": "Rumo que se lê na agulha de bordo, medido a partir do norte da agulha (que se afasta do norte verdadeiro pela declinação magnética e pelo desvio da agulha). Abreviatura Rag.",
+  "verificado": true
+ },
+ "declinacao-magnetica": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 3.2.3.b (conceito de declinação magnética), p. 3-5",
+  "quote": "a Declinação Magnética em um determinado local é o ângulo entre o Norte Verdadeiro e o Norte Magnético no local",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 3.2.3.b, p. 3-6",
+    "quote": "As Cartas Náuticas informam ao navegante, para as áreas nelas representadas, os valores da Declinação Magnética e de sua Variação Anual"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 3.2.5, exemplo 2, p. 3-16",
+    "quote": "a Declinação Magnética é de 22º 10’ W (2015) e a variação anual é de 6’ W"
+   }
+  ],
+  "def_corrigida": "Ângulo entre o norte verdadeiro e o norte magnético num lugar, para leste (E) ou para oeste (W). Muda de lugar para lugar e devagar com os anos: a rosa da carta traz o valor e a variação anual. No litoral brasileiro ela é oeste; no Rio de Janeiro, por exemplo, passa de 22°.",
+  "verificado": true
+ },
+ "desvio-da-agulha": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 3.2.4.b (desvio da agulha), p. 3-9",
+  "quote": "o Desvio da Agulha é definido como o ângulo entre o Norte Magnético e o Norte da Agulha",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 3.2.4.b, p. 3-10",
+    "quote": "Os desvios são fornecidos para cada Agulha e para cada navio, em função da proa, por uma CURVA DE DESVIOS e uma TABELA DE DESVIOS"
+   }
+  ],
+  "verificado": true
+ },
+ "agulha": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 3.2.7 (agulhas magnéticas de bordo), p. 3-20",
+  "quote": "Outro tipo de Agulha Magnética é a agulha de mão, utilizada para tomar marcações",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 3.2.7, p. 3-19",
+    "quote": "a Agulha de Governo, no Passadiço, e a Agulha Padrão, em um local mais livre de influências magnéticas"
+   }
+  ],
+  "verificado": true
+ },
+ "linha-de-fe": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 3.2.1, p. 3-2",
+  "quote": "a linha-de-fé (referência para rumos), que deve ser rigorosamente alinhada com a linha proa–popa",
+  "verificado": true
+ },
+ "rosa-dos-ventos": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 2.6.1.e (rosa-dos-ventos ou rosa-dos-rumos), p. 2-31",
+  "quote": "no interior das rosas-dos-rumos verdadeiros aparece sempre o valor da declinação magnética, junto com o ano a que se refere e sua variação anual",
+  "verificado": true
+ },
+ "pontos-cardeais": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.8 (a direção no mar), p. 1-14",
+  "quote": "A Figura 1.10 apresenta as direções CARDEAIS, LATERAIS (ou INTER-CARDEAIS) e COLATERAIS, comumente referidas em navegação",
+  "verificado": false,
+  "motivo": "A def afirma 'Os colaterais são NE, SE, SW e NW', contrariado pela fonte (Manual de Navegação Vol. I, cap. 11, item 11.2.1, p. 11-2 e seguintes): N, E, S e W são os cardeais; NE, SE, SW e NW são as intercardeais (ou laterais); os colaterais são NNE, ENE, ESE etc."
+ },
+ "milha-nautica": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.7.1 (a milha náutica), p. 1-12",
+  "quote": "Pode-se, então, definir uma milha náutica como o comprimento do arco de um minuto de meridiano terrestre e dizer que seu valor é de 1.852 metros",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 1.7.1, p. 1-12",
+    "quote": "as distâncias nestas cartas devem ser sempre medidas na escala das Latitudes (1 minuto de Latitude é igual a 1 milha)"
+   },
+   {
+    "txt": "Carta Náutica 12000 (INT 1), 5ª ed. (CHM/DHN)",
+    "url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/2026-05/Carta-12000-5a-ED-2022-Completo%202026.indd__1.pdf",
+    "loc": "símbolo B 45 (milha náutica)",
+    "quote": "Milha náutica (1852m)"
+   }
+  ],
+  "verificado": true
+ },
+ "no-velocidade": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.9 (a velocidade no mar), p. 1-18",
+  "quote": "a unidade de velocidade comumente utilizada é o NÓ, que corresponde à velocidade de 1 milha náutica por hora",
+  "verificado": true
+ },
+ "singradura": {
+  "txt": "Priberam, Dicionário (verbete \"singradura\")",
+  "url": "https://dicionario.priberam.org/singradura",
+  "loc": "verbete \"singradura\", acepção 1 (Marinha)",
+  "quote": "Caminho que um barco anda em 24 horas.",
+  "extras": [
+   {
+    "txt": "NORMAM-211/DPC",
+    "url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+    "loc": "art. 4.6.2, p. 4-3",
+    "quote": "material de navegação e salvatagem compatível com a singradura a ser realizada"
+   }
+  ],
+  "def_corrigida": "Distância navegada em 24 horas. A NORMAM-211 também usa a palavra para a viagem a ser feita.",
+  "verificado": true
+ },
+ "derrota": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 4.1 (planejamento e traçado da derrota), p. 4-2",
+  "quote": "registram-se os valores dos Rumos Verdadeiros e Distâncias a navegar entre os pontos de inflexão",
+  "verificado": true
+ },
+ "ortodromica": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.7.2 (ortodromia e loxodromia), p. 1-13",
+  "quote": "ORTODROMIA é qualquer segmento de um círculo máximo da esfera terrestre. É, assim, a menor distância entre dois pontos na superfície da Terra",
+  "verificado": true
+ },
+ "loxodromica": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.7.2 (ortodromia e loxodromia), p. 1-13",
+  "quote": "LOXODROMIA é a linha que intercepta os vários meridianos segundo um ângulo constante",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 2.4.1 (a projeção de Mercator), p. 2-13",
+    "quote": "para singraduras muito extensas, torna-se imperativa a adoção do caminho mais curto, isto é, da derrota ortodrômica"
+   }
+  ],
+  "verificado": true
+ },
+ "waypoint": {
+  "txt": "Wikipédia (EN), Waypoint (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Waypoint",
+  "loc": "seção de abertura",
+  "quote": "A waypoint is a point or place on a route or line of travel, a stopping point, an intermediate point, or point at which course is changed",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 11.7.1 (sistemas eletrônicos de exibição de cartas), p. 11-43",
+    "quote": "alteração de uma derrota por meio da introdução de way-points pelo teclado"
+   }
+  ],
+  "verificado": true
+ },
+ "latitude": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.6 (sistema de coordenadas geográficas), p. 1-11",
+  "quote": "LATITUDE de um lugar, cujo símbolo é a letra grega φ, é o arco de meridiano compreendido entre o Equador e o Paralelo do Lugar",
+  "verificado": true
+ },
+ "longitude": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.6, p. 1-11",
+  "quote": "Conta-se de 0º a 180º para Leste ou para Oeste de Greenwich",
+  "verificado": true
+ },
+ "paralelo": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.5 (principais linhas, pontos e planos do globo terrestre), p. 1-10",
+  "quote": "PARALELOS: são círculos menores paralelos ao Equador e, portanto, perpendiculares ao eixo da Terra",
+  "verificado": true
+ },
+ "meridiano": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.5, p. 1-11",
+  "quote": "MERIDIANOS: são os círculos máximos que contêm os polos da Terra",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 1.5, p. 1-11",
+    "quote": "sendo o principal o MERIDIANO DE GREENWICH"
+   }
+  ],
+  "def_corrigida": "Círculo máximo da Terra que contém os dois polos (usa-se a metade que liga um polo ao outro). Todos os pontos de um meridiano têm a mesma longitude; o de Greenwich é o meridiano de origem (0°).",
+  "verificado": true
+ },
+ "equador": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 1.5, p. 1-10",
+  "quote": "EQUADOR DA TERRA: é o círculo máximo resultante da interseção do plano equatorial com a superfície terrestre",
+  "verificado": true
+ },
+ "carta-nautica": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 2.6.1 (a carta náutica), p. 2-26",
+  "quote": "cabe à Diretoria de Hidrografia e Navegação (DHN), por meio do Centro de Hidrografia da Marinha (CHM), produzir e manter atualizadas todas as cartas náuticas em Águas Jurisdicionais Brasileiras",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 2.6.1, p. 2-25",
+    "quote": "se destina a servir de base à navegação aquaviária"
+   }
+  ],
+  "verificado": true
+ },
+ "projecao-de-mercator": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 2.4.3 (vantagens da projeção de Mercator), p. 2-10",
+  "quote": "os meridianos são representados por linhas retas; os paralelos e o Equador são representados por um segundo sistema de linhas retas, perpendicular",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 2.4.3.a, p. 2-10",
+    "quote": "as linhas de rumo ou loxodromias são representadas por linhas retas"
+   },
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 1.7.1, p. 1-12",
+    "quote": "as distâncias nestas cartas devem ser sempre medidas na escala das Latitudes"
+   }
+  ],
+  "verificado": true
+ },
+ "escala-da-carta": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 2.6.2 (escala da carta), p. 2-27",
+  "quote": "A escala é definida como a relação entre um valor gráfico na carta e o valor real correspondente na superfície da Terra",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 2.1, nota de rodapé 1, p. 2-2",
+    "quote": "as cartas de grande escala são aquelas que apresentam uma grande quantidade de detalhes geográficos, onde são representadas pequenas áreas"
+   }
+  ],
+  "verificado": true
+ },
+ "gnss": {
+  "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+  "loc": "item 37.1 (introdução à navegação por satélites), p. 37-2",
+  "quote": "De forma geral, esses sistemas têm sido chamados de GNSS (Global Navigation Satellite System - Sistema Global de Navegação por Satélite)",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. III (DHN, 1ª rev. 2026)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Volume%20III%20%281%C2%AA%20Revis%C3%A3o%29%202026.pdf",
+    "loc": "item 37.1, p. 37-2",
+    "quote": "o BeiDou (BeiDou Navigation Satellite System - BDS) de origem chinesa"
+   }
+  ],
+  "verificado": true
+ },
+ "radar": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 14.1.2 (princípio de funcionamento), p. 14-3",
+  "quote": "O princípio básico do Radar de Navegação é a determinação de distância para um objeto, ou “alvo”, pela medida do tempo requerido para um pulso de energia de radiofrequência",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 14.2.3.a (alvos no mar: navios), p. 14-30",
+    "quote": "Já as embarcações de madeira fornecem uma resposta muito pobre. O mesmo ocorre com embarcações de fibra de vidro"
+   }
+  ],
+  "verificado": true
+ },
+ "ais": {
+  "txt": "Wikipédia (EN), Automatic identification system (fonte secundária)",
+  "url": "https://en.wikipedia.org/wiki/Automatic_identification_system",
+  "loc": "seção de abertura",
+  "quote": "AIS integrates a standardized VHF transceiver with a positioning system such as a Global Positioning System receiver",
+  "extras": [
+   {
+    "txt": "Wikipédia (EN), Automatic identification system (fonte secundária)",
+    "url": "https://en.wikipedia.org/wiki/Automatic_identification_system",
+    "loc": "seção \"Class B units\"",
+    "quote": "Class B transceivers are smaller, simpler and lower cost than Class A transceivers"
+   }
+  ],
+  "verificado": true
+ },
+ "ecobatimetro": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 11.5.2.c (medição de profundidades com o ecobatímetro), p. 11-35",
+  "quote": "A quase totalidade dos aparelhos permite a introdução do valor do calado, de modo que as indicações do ecobatímetro tenham como referência o nível do mar no instante da medição",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 11.5.2.a (princípio fundamental), p. 11-33",
+    "quote": "O tempo decorrido entre a emissão do sinal e a recepção do eco refletido do fundo é convertido em profundidade"
+   }
+  ],
+  "verificado": true
+ },
+ "odometro": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 11.3.1 (odômetros e velocímetros), p. 11-9",
+  "quote": "Os dois primeiros tipos medem a velocidade do navio na superfície, isto é, em relação à massa d’água circundante",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 11.3.1, p. 11-9",
+    "quote": "O odômetro Doppler é capaz de medir a velocidade em relação ao fundo"
+   }
+  ],
+  "verificado": true
+ },
+ "plotter": {
+  "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+  "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+  "loc": "item 11.7.1 (sistema eletrônico de exibição de cartas náuticas), p. 11-41",
+  "quote": "um equipamento eletrônico que, basicamente, opera por meio da integração de diversas informações, entre as quais as recebidas por um sistema de posicionamento eletrônico",
+  "extras": [
+   {
+    "txt": "Manual de Navegação, Vol. I (DHN, 2ª rev. 2023)",
+    "url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+    "loc": "item 11.7.1 (ECS), p. 11-42",
+    "quote": "Electronic Chart System (ECS) – são sistemas de navegação genéricos, que não cumprem as especificações estabelecidas pela IMO"
+   }
+  ],
+  "verificado": true
+ }
+}

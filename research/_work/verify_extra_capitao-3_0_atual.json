@@ -1,0 +1,145 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-capitao-3-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Texto do art. 1.10.2 vigente; índice DPC mostra Portaria 200/2026 como a mais recente.",
+   "evidence_quote": "1.10.2. ... obrigada, desde que o possa fazer sem perigo para sua embarcação, tripulantes e passageiros, a socorrer quem estiver em perigo de vida"
+  },
+  {
+   "id": "extra-capitao-3-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 1.10.3 vigente; sem portaria posterior à 200/2026 no índice DPC.",
+   "evidence_quote": "1.10.3. Qualquer pessoa que tomar conhecimento da existência de vida humana em perigo"
+  },
+  {
+   "id": "extra-capitao-3-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 1.10.4 vigente; sem portaria posterior no índice DPC.",
+   "evidence_quote": "1.10.4. Nada será devido pela pessoa socorrida"
+  },
+  {
+   "id": "extra-capitao-3-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Definição de Comandante (1.7) vigente na NORMAM-211 consolidada de 03/03/2026; sem portaria posterior.",
+   "evidence_quote": "Comandante - é a designação do tripulante responsável pela operação e manutenção da embarcação"
+  },
+  {
+   "id": "extra-capitao-3-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 1.11.2 vigente; sem portaria posterior no índice DPC.",
+   "evidence_quote": "1.11.2. O Comandante da embarcação deverá tomar todas as medidas possíveis para obter assistência ou salvamento"
+  },
+  {
+   "id": "extra-capitao-3-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.6.3 vigente; sem portaria posterior no índice DPC.",
+   "evidence_quote": "4.6.3. Antes de sair para o passeio ou viagem, o Comandante ... deve tomar conhecimento das previsões meteorológicas disponíveis"
+  },
+  {
+   "id": "extra-capitao-3-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.23.1 vigente (75 milhas); sem portaria posterior no índice DPC.",
+   "evidence_quote": "4.23.1. Transceptor fixo HF - com potência suficiente para operar a uma distância de, pelo menos, 75 milhas da costa"
+  },
+  {
+   "id": "extra-capitao-3-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 3.3 do Anexo 4-B idêntico no ZIP de anexos (mais novo) e no PDF consolidado.",
+   "evidence_quote": "Na ocorrência de acidentes envolvendo embarcações de esporte e/ou recreio, seus proprietários ou condutores deverão comunicar o fato à CP/DL/AG e à Autoridade Policial mais próxima."
+  },
+  {
+   "id": "extra-capitao-3-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 3.3.1 do Anexo 4-B idêntico no ZIP de anexos (mais novo).",
+   "evidence_quote": "A CP/DL/AG providenciarão o competente inquérito administrativo com o objetivo de apurar as causas determinantes, para posterior julgamento pelo Tribunal Marítimo."
+  },
+  {
+   "id": "extra-capitao-3-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 1.2 do Anexo 4-B idêntico no ZIP de anexos (mais novo).",
+   "evidence_quote": "1.2. Comunicar a Autoridade Marítima: ... acidentes ocorridos com sua embarcação (naufrágio, encalhe, colisão, abalroamento, água aberta, ..."
+  },
+  {
+   "id": "extra-capitao-3-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 1.4 do Anexo 4-B idêntico no ZIP de anexos (mais novo).",
+   "evidence_quote": "1.4. Ter atenção especial, antes do início de uma viagem, para que todas as peças, equipamentos e demais objetos ... sejam armazenados e peiados adequadamente"
+  },
+  {
+   "id": "extra-capitao-3-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 1.6 do Anexo 4-B idêntico no ZIP de anexos (mais novo).",
+   "evidence_quote": "1.6. Quando tiver de enfrentar condições climáticas adversas, manter todas as aberturas ... adequadamente fechadas"
+  },
+  {
+   "id": "extra-capitao-3-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 1.7 do Anexo 4-B idêntico no ZIP de anexos (mais novo).",
+   "evidence_quote": "1.7. Evitar a utilização de piloto automático sob condições climáticas adversas devido à impossibilidade de se adotar com presteza as mudanças de rumo ou velocidade"
+  },
+  {
+   "id": "extra-capitao-3-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 1.8 do Anexo 4-B idêntico no ZIP de anexos (mais novo).",
+   "evidence_quote": "comprimento da onda é da ordem de 1,0 a 1,5 vezes o comprimento da embarcação"
+  },
+  {
+   "id": "extra-capitao-3-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Item 2 do Anexo 4-B idêntico no ZIP de anexos (mais novo).",
+   "evidence_quote": "é de inteira responsabilidade do seu proprietário e/ou comandante perante todas as esferas (administrativa, civil e penal)"
+  },
+  {
+   "id": "extra-capitao-3-16",
+   "verdict": "divergente",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "O ZIP de anexos (mais novo) traz o item 4.5 do Anexo 4-B como 'É recomendável', não 'obrigatório'; o PDF consolidado diz 'obrigatório'.",
+   "correction": "O EPIRB 406 MHz é recomendável (Anexo 4-B, item 4.5) para embarcações que se dirijam a portos estrangeiros ou se afastem sistematicamente a mais de 100 milhas náuticas da costa; a obrigatoriedade vale apenas onde a dotação do Cap. 4 (ex.: art. 4.24.1 a, grande porte/iate em navegação costeira/oceânica) a exigir.",
+   "evidence_quote": "4.5. EPIRB: É recomendável que as embarcações que se dirijam a portos estrangeiros, ou que se afastem, sistematicamente, a mais de 100 milhas náuticas da costa, sejam dotadas com o equipamento denominado “Rádio Baliza Indicadora de Posição em Emergência” (EPIRB-406MHz)."
+  },
+  {
+   "id": "extra-capitao-3-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.24.1 a) vigente; sem portaria posterior no índice DPC.",
+   "evidence_quote": "4.24.1. ... a) Navegação costeira ou oceânica: i) VHF com DSC; ii) HF com DSC (*); iii) transponder radar 9 GHz; iv) EPIRB 406 MHz"
+  },
+  {
+   "id": "extra-capitao-3-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.25 vigente; sem portaria posterior no índice DPC.",
+   "evidence_quote": "4.25. Todas as embarcações deverão portar, quando aplicável, a PRPM ou TIE"
+  },
+  {
+   "id": "extra-capitao-3-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Apêndice I do Anexo 5-A idêntico no ZIP de anexos (mais novo); campos conforme afirmado.",
+   "evidence_quote": "Nome do candidato, CPF, No do documento oficial de identificação ... Data de aplicação ... No da questão ... Resposta do gabarito ... Resposta do candidato ... Fundamentação ... Bibliografia ... Decisão do avaliador: Procedente/Improcedente"
+  },
+  {
+   "id": "extra-capitao-3-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Anexo 5-H do ZIP de anexos (mais novo) contém o item '12 - Pedido de revisão de prova de Capitão-Amador'.",
+   "evidence_quote": "12 - PEDIDO DE REVISÃO DE PROVA DE CAPITÃO-AMADOR"
+  }
+ ]
+}

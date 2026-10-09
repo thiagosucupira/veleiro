@@ -1,0 +1,4 @@
+# Netlify a partir da raiz do repositório: publica app/ sem build.
+[build]
+  publish = "app"
+  command = ""

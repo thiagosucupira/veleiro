@@ -1,0 +1,610 @@
+{
+ "questoes": [
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 1,
+   "enunciado": "Na carta ou na Lista de Faróis, a luz de um farol é descrita como <b>Fl(2) W 10s 15M</b>. Como se lê essa característica?",
+   "alternativas": [
+    "Duas luzes brancas fixas, com período de 15 segundos e alcance de 10 milhas.",
+    "Grupo de dois lampejos de luz branca a cada 15 segundos, com alcance de 10 milhas.",
+    "Grupo de dois lampejos de luz branca a cada 10 segundos, com alcance de 15 milhas.",
+    "Grupo de duas ocultações de luz branca a cada 10 segundos, com alcance de 15 milhas."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Fl é lampejo (em português, Lp); (2) é o grupo de dois lampejos; W é a cor branca; 10s é o período, do início de um grupo ao início do seguinte; 15M é o alcance, em milhas náuticas.</p><ul><li><b>Duas luzes brancas fixas, com período de 15 segundos e alcance de 10 milhas.</b> — Luz fixa é F e não tem período; Fl indica lampejos.</li><li><b>Grupo de dois lampejos de luz branca a cada 15 segundos, com alcance de 10 milhas.</b> — Troca o período (10 s) pelo alcance (15 M) e vice-versa.</li><li><b>Grupo de duas ocultações de luz branca a cada 10 segundos, com alcance de 15 milhas.</b> — Ocultação é Oc, luz mais longa que a escuridão; Fl é luz mais curta que a escuridão.</li></ul>",
+   "referencia": "Carta 12000 (INT 1), seção P; Lista de Faróis (DHN), Introdução; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 1,
+   "enunciado": "No planejamento, você quer consultar a altitude do foco, a fase detalhada da luz e os alcances luminoso e geográfico de um farol. Que publicação da DHN traz esses dados?",
+   "alternativas": [
+    "Lista de Faróis.",
+    "Lista de Sinais Cegos.",
+    "Lista de Auxílios-Rádio.",
+    "Catálogo de Cartas e Publicações."
+   ],
+   "correta": 0,
+   "explicacao": "<p>A Lista de Faróis descreve cada sinal luminoso: número de ordem, posição, característica com fase detalhada, altitude do foco, alcances luminoso e geográfico e descrição da estrutura.</p><ul><li><b>Lista de Sinais Cegos.</b> — Traz boias cegas e balizas, ou seja, sinais sem luz, que não têm característica luminosa.</li><li><b>Lista de Auxílios-Rádio.</b> — Reúne radiofaróis, sinais horários, boletins meteorológicos e estações costeiras.</li><li><b>Catálogo de Cartas e Publicações.</b> — É o índice das cartas e publicações existentes, com número, escala e edição.</li></ul>",
+   "referencia": "Lista de Faróis (DH2), DHN/CHM; NORMAM-211/DPC, Anexo 5-A, item 2.2 f)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 1,
+   "enunciado": "Que tipo de informação você encontra na Lista de Auxílios-Rádio, da DHN?",
+   "alternativas": [
+    "Altitude do foco e alcance geográfico dos faróis da costa brasileira, em tabelas.",
+    "Horários de preamar e baixa-mar de cada porto brasileiro, dia a dia, ao longo do ano.",
+    "Correções que devem ser feitas à mão nas cartas de papel, para cada área marítima.",
+    "Radiofaróis, sinais horários, boletins meteorológicos e estações costeiras de socorro."
+   ],
+   "correta": 3,
+   "explicacao": "<p>A Lista de Auxílios-Rádio reúne os auxílios radioelétricos à navegação e os serviços-rádio úteis a quem navega na costa do Brasil e no Atlântico Sul. Os horários vêm em hora de Greenwich.</p><ul><li><b>Altitude do foco e alcance geográfico dos faróis da costa brasileira, em tabelas.</b> — Isso está na Lista de Faróis.</li><li><b>Horários de preamar e baixa-mar de cada porto brasileiro, dia a dia, ao longo do ano.</b> — Isso está nas Tábuas das Marés.</li><li><b>Correções que devem ser feitas à mão nas cartas de papel, para cada área marítima.</b> — Isso vem nos Avisos aos Navegantes.</li></ul>",
+   "referencia": "Lista de Auxílios-Rádio (DH8), DHN/CHM; NORMAM-211/DPC, Anexo 5-A, item 2.2 k)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-auxilios-radio"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 1,
+   "enunciado": "Você vai planejar uma travessia e precisa descobrir quais cartas cobrem cada trecho da costa, com número, escala e edição. Por onde começar?",
+   "alternativas": [
+    "Pelo Catálogo de Cartas e Publicações, com listas e índices por trecho de costa.",
+    "Pela Carta 12000 (INT 1), que relaciona todas as cartas náuticas existentes.",
+    "Pelo Atlas de Cartas Piloto, que mostra as cartas de cada porto.",
+    "Pelo Roteiro, que traz a relação de cartas e edições vigentes."
+   ],
+   "correta": 0,
+   "explicacao": "<p>O Catálogo tem a lista de todas as cartas, os cartogramas por trecho de costa (com número, escala e edição) e a lista das publicações. É a porta de entrada do planejamento.</p><ul><li><b>Pela Carta 12000 (INT 1), que relaciona todas as cartas náuticas existentes.</b> — A Carta 12000 é o dicionário de símbolos e abreviaturas, não um índice de cartas.</li><li><b>Pelo Atlas de Cartas Piloto, que mostra as cartas de cada porto.</b> — O Atlas traz ventos e correntes médios do Atlântico, em 12 cartas, uma por mês.</li><li><b>Pelo Roteiro, que traz a relação de cartas e edições vigentes.</b> — O Roteiro dá subsídios para navegar e entrar nos portos; não é o catálogo de cartas.</li></ul>",
+   "referencia": "Catálogo de Cartas e Publicações (CHM), 15ª ed.; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/catalogo-de-cartas-e-publicacoes"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 2,
+   "enunciado": "Um farol tem o foco a 64 m de altitude. Você o observa com o olho a 4 m acima da água. Pela fórmula da Lista de Faróis, <b>D = 1,927 (√H + √h)</b>, com H e h em metros, qual é o alcance geográfico, em milhas?",
+   "alternativas": [
+    "Cerca de 15,4 milhas.",
+    "Cerca de 15,9 milhas.",
+    "Cerca de 23,1 milhas.",
+    "Cerca de 19,3 milhas."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Conta: √64 = 8 e √4 = 2; D = 1,927 × (8 + 2) = 19,27, ou cerca de 19,3 milhas.</p><ul><li><b>Cerca de 15,4 milhas.</b> — É 1,927 × 8: esqueceu a altura do olho do observador.</li><li><b>Cerca de 15,9 milhas.</b> — É 1,927 × √68: tirou a raiz da soma das alturas em vez de somar as raízes.</li><li><b>Cerca de 23,1 milhas.</b> — É 1,927 × (8 + 4): usou a altura do olho sem tirar a raiz.</li></ul>",
+   "referencia": "Lista de Faróis (DH2), Introdução, item 3.5; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 2,
+   "enunciado": "Um farol tem alcance luminoso de 25 M e alcance geográfico de 20 M, ambos pela Lista de Faróis. Numa noite de chuva forte, com visibilidade de apenas 5 milhas, o que ocorre com a distância em que você verá a luz?",
+   "alternativas": [
+    "Continua em 20 M, pois o alcance geográfico não depende da atmosfera.",
+    "Aumenta, pois a chuva forte espalha a luz do farol em todas as direções.",
+    "Continua em 25 M, pois o alcance luminoso é uma característica fixa do farol.",
+    "Cai, e pode ficar abaixo de 20 M, pois o alcance luminoso diminui com a visibilidade."
+   ],
+   "correta": 3,
+   "explicacao": "<p>O alcance luminoso publicado vale para uma atmosfera padrão (T = 0,85, visibilidade de 18,4 milhas). Com visibilidade de 5 milhas, ele cai muito e pode ficar abaixo do geográfico; vale sempre o menor dos dois.</p><ul><li><b>Continua em 20 M, pois o alcance geográfico não depende da atmosfera.</b> — O geográfico não muda, mas agora o limite passa a ser o luminoso, menor.</li><li><b>Aumenta, pois a chuva forte espalha a luz do farol em todas as direções.</b> — A chuva absorve e dispersa a luz, reduzindo a distância de visão.</li><li><b>Continua em 25 M, pois o alcance luminoso é uma característica fixa do farol.</b> — O número publicado é calculado para uma visibilidade padrão e não vale com chuva.</li></ul>",
+   "referencia": "Lista de Faróis (DH2), Introdução, itens 3.1 e 3.5; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 2,
+   "enunciado": "O Aviso aos Navegantes informa que um farol por onde você passará está apagado para manutenção, por tempo limitado (Aviso Temporário, T). Como corrigir a sua carta de papel?",
+   "alternativas": [
+    "A caneta, anotando o número do aviso em \"Pequenas correções\".",
+    "A lápis, para poder apagar quando o aviso for cancelado.",
+    "Colando o trecho de carta (\"bacalhau\") sobre a área do farol.",
+    "Não corrigir, porque só os avisos permanentes alteram a carta."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Avisos Temporários (T) e Preliminares (P) descrevem mudanças passageiras ou futuras, e entram na carta a lápis. Só os Permanentes vão a caneta, com o registro em \"Pequenas correções\".</p><ul><li><b>A caneta, anotando o número do aviso em \"Pequenas correções\".</b> — Esse é o procedimento dos avisos permanentes, que são definitivos.</li><li><b>Colando o trecho de carta (\"bacalhau\") sobre a área do farol.</b> — O \"bacalhau\" é um trecho de carta que acompanha mudanças maiores e permanentes.</li><li><b>Não corrigir, porque só os avisos permanentes alteram a carta.</b> — Um farol apagado é perigoso; o aviso temporário deve ser lançado na carta, a lápis.</li></ul>",
+   "referencia": "Avisos aos Navegantes, DH21 (Seções III e VIII)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-aos-navegantes-tela"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 2,
+   "enunciado": "Você quer escolher o mês mais favorável, em ventos e correntes médios, para uma travessia no Atlântico Sul. Que publicação da DHN reúne essas médias climatológicas?",
+   "alternativas": [
+    "Cartas de Correntes de Maré, com setas referidas à hora da preamar.",
+    "Atlas de Cartas Piloto, com 12 cartas, uma por mês.",
+    "Tábuas das Marés, com as previsões de preamar e baixa-mar.",
+    "Lista de Auxílios-Rádio, com os boletins meteorológicos."
+   ],
+   "correta": 1,
+   "explicacao": "<p>O Atlas de Cartas Piloto traz ventos, correntes, temperaturas e outras médias do Atlântico, mês a mês. Serve para planejar época e rota, nunca para substituir a previsão do tempo.</p><ul><li><b>Cartas de Correntes de Maré, com setas referidas à hora da preamar.</b> — Só cobrem portos específicos e mostram a corrente de maré, que é local e de curto prazo.</li><li><b>Tábuas das Marés, com as previsões de preamar e baixa-mar.</b> — Dão as horas e as alturas das marés, não ventos nem correntes oceânicas.</li><li><b>Lista de Auxílios-Rádio, com os boletins meteorológicos.</b> — Indicam onde e quando ouvir os boletins, mas não são médias climatológicas.</li></ul>",
+   "referencia": "Atlas de Cartas Piloto (DHN); Miguens, vol. I",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 3,
+   "enunciado": "A Carta de Correntes de Maré de um porto mostra a corrente em folhas, referidas à hora da preamar. Pela Tábua das Marés, a preamar do dia é às 14h40 (hora local), e você vai atravessar o canal às 11h40. Qual folha consultar e o que ela mostra?",
+   "alternativas": [
+    "A de 3 horas antes da preamar, com setas de direção e números de velocidade da corrente.",
+    "A de 3 horas depois da preamar, com setas de direção e números de velocidade da corrente.",
+    "A de 3 horas antes da preamar, com setas de direção e números de altura da maré.",
+    "A de 3 horas antes da baixa-mar, com setas de direção e números de velocidade da corrente."
+   ],
+   "correta": 0,
+   "explicacao": "<p>De 11h40 a 14h40 são 3 horas: a travessia será 3 horas antes da preamar. Nas folhas, as setas dão a direção e os números a velocidade da corrente, que entram direto no triângulo de corrente.</p><ul><li><b>A de 3 horas depois da preamar, com setas de direção e números de velocidade da corrente.</b> — 11h40 vem antes de 14h40, não depois.</li><li><b>A de 3 horas antes da preamar, com setas de direção e números de altura da maré.</b> — Os números das folhas são velocidades da corrente, não alturas da maré.</li><li><b>A de 3 horas antes da baixa-mar, com setas de direção e números de velocidade da corrente.</b> — As folhas são referidas à preamar, não à baixa-mar.</li></ul>",
+   "referencia": "Cartas de Correntes de Maré (DHN); Tábuas das Marés (DHN)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-2"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 2,
+   "enunciado": "Qual associação entre uma publicação da DHN e o seu conteúdo está <b>correta</b>?",
+   "alternativas": [
+    "Lista de Sinais Cegos: faróis e faroletes, com altitude do foco e alcances.",
+    "Carta 12000 (INT 1): relação das cartas e publicações vigentes, com escala e edição.",
+    "Roteiro: derrota aconselhada, reconhecimento de portos, perigos, fundeadouros, marés e ventos locais.",
+    "Avisos aos Navegantes: previsão do tempo e avisos de mau tempo para cada área."
+   ],
+   "correta": 2,
+   "explicacao": "<p>O Roteiro (três volumes: Costa Norte, Leste e Sul) complementa as cartas com informações para navegar na costa, nos canais e nas aterragens.</p><ul><li><b>Lista de Sinais Cegos: faróis e faroletes, com altitude do foco e alcances.</b> — A Lista de Sinais Cegos traz boias cegas e balizas, sinais sem luz.</li><li><b>Carta 12000 (INT 1): relação das cartas e publicações vigentes, com escala e edição.</b> — A Carta 12000 é o dicionário de símbolos e abreviaturas; a relação de cartas está no Catálogo.</li><li><b>Avisos aos Navegantes: previsão do tempo e avisos de mau tempo para cada área.</b> — Os Avisos aos Navegantes atualizam cartas e publicações; a previsão vem dos boletins meteorológicos.</li></ul>",
+   "referencia": "NORMAM-211/DPC, Anexo 5-A, item 2.2; Roteiro, Lista de Sinais Cegos e Avisos aos Navegantes (DHN/CHM)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/roteiros"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 3,
+   "enunciado": "Um farol, segundo a Lista, tem o foco a 81 m de altitude e alcance luminoso de 24 M. Numa noite com a transparência atmosférica padrão da Lista, você o procura com o olho a 9 m de altura. Qual a maior distância em que o verá pela primeira vez?",
+   "alternativas": [
+    "Cerca de 23,1 milhas, o alcance geográfico.",
+    "24 milhas, o alcance luminoso da Lista.",
+    "Cerca de 17,3 milhas, pela altitude do farol.",
+    "Cerca de 18,3 milhas, pela soma das alturas."
+   ],
+   "correta": 0,
+   "explicacao": "<p>Alcance geográfico: D = 1,927 × (√81 + √9) = 1,927 × (9 + 3) = 23,1 M. Como o luminoso é 24 M, o limite é o menor dos dois: 23,1 M. A curvatura da Terra esconde a luz antes de ela se esgotar.</p><ul><li><b>24 milhas, o alcance luminoso da Lista.</b> — Seria o limite se o geográfico fosse maior; aqui o geográfico (23,1 M) é menor.</li><li><b>Cerca de 17,3 milhas, pela altitude do farol.</b> — É 1,927 × 9: considerou só a altitude do farol e esqueceu a altura do olho.</li><li><b>Cerca de 18,3 milhas, pela soma das alturas.</b> — É 1,927 × √90: tirou a raiz da soma das alturas em vez de somar as raízes.</li></ul>",
+   "referencia": "Lista de Faróis (DH2), Introdução, item 3.5",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Auxílios e publicações",
+   "dificuldade": 3,
+   "enunciado": "A Lista de Faróis diz que um farol mostra luz <b>encarnada nas marcações de 070° a 085°</b> e branca nas demais, marcações verdadeiras tomadas do mar para o farol. Com a bússola de mão (desvio já corrigido), você mede a marcação magnética 088° do farol. A declinação magnética local é 6° W. Que cor você vê?",
+   "alternativas": [
+    "Encarnada, pois a marcação verdadeira é 082°, dentro do setor.",
+    "Branca, pois 088° está fora do setor encarnado.",
+    "Branca, pois a marcação verdadeira é 094°.",
+    "Branca, pois a marcação do farol para o barco seria 262°."
+   ],
+   "correta": 0,
+   "explicacao": "<p>Os setores são dados em marcações verdadeiras. Com declinação W, Mv = Mm − 6° = 088° − 6° = 082°, que está entre 070° e 085°: luz encarnada.</p><ul><li><b>Branca, pois 088° está fora do setor encarnado.</b> — Esqueceu de converter a marcação magnética em verdadeira.</li><li><b>Branca, pois a marcação verdadeira é 094°.</b> — Somou a declinação W em vez de subtraí-la; declinação oeste é negativa.</li><li><b>Branca, pois a marcação do farol para o barco seria 262°.</b> — Os setores usam a marcação do mar para o farol, e não a do farol para o barco (recíproca).</li></ul>",
+   "referencia": "Lista de Faróis (DH2), Introdução, item 3.3; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 2,
+   "enunciado": "Você sai de um porto brasileiro, rumo ao mar, e avista à frente uma boia lateral verde de número 4. Por qual bordo deve deixá-la?",
+   "alternativas": [
+    "Por boreste, porque a direção convencional é a de quem vem do mar.",
+    "Por bombordo, porque o verde sempre fica a bombordo.",
+    "Por bombordo, porque ela tem número par.",
+    "Por qualquer bordo, pois no sentido de saída o canal é livre."
+   ],
+   "correta": 0,
+   "explicacao": "<p>O balizamento é lido no sentido de quem vem do mar: o verde fica a bombordo de quem entra. Quem sai tem o verde a boreste, e a encarnada a bombordo.</p><ul><li><b>Por bombordo, porque o verde sempre fica a bombordo.</b> — Isso vale para quem entra; ao sair, o lado se inverte.</li><li><b>Por bombordo, porque ela tem número par.</b> — O número par só mostra que ela é verde; não diz o bordo de quem sai.</li><li><b>Por qualquer bordo, pois no sentido de saída o canal é livre.</b> — A boia continua sendo lateral e marca o limite do canal, qualquer que seja o sentido.</li></ul>",
+   "referencia": "Decreto 92.267/1986; Miguens, vol. I, cap. 13, itens 13.3.3 e 13.3.4",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 1,
+   "enunciado": "Num canal brasileiro balizado, a boia lateral de número 7 tem que cor e fica em que bordo de quem vem do mar?",
+   "alternativas": [
+    "Verde, a bombordo.",
+    "Verde, a boreste.",
+    "Encarnada, a boreste.",
+    "Encarnada, a bombordo."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Na Região B, adotada no Brasil, os sinais encarnados ficam a boreste e recebem números ímpares; os verdes ficam a bombordo e recebem números pares, em ordem crescente a partir da entrada.</p><ul><li><b>Verde, a bombordo.</b> — O verde fica a bombordo, mas recebe número par.</li><li><b>Verde, a boreste.</b> — O verde nunca fica a boreste de quem vem do mar na Região B.</li><li><b>Encarnada, a bombordo.</b> — O encarnado fica a boreste na Região B; a Região A é que o põe a bombordo.</li></ul>",
+   "referencia": "Decreto 92.267/1986; Lista de Faróis, Introdução, item 4.2",
+   "fonte_url": "https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/1985-1987/d92267.htm"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 2,
+   "enunciado": "A boia da figura é uma marca cardinal. Que luz ela mostra à noite e por onde você deve passar?",
+   "alternativas": [
+    "Branca rápida em grupo de 9 lampejos, passando a oeste dela.",
+    "Branca rápida contínua, passando ao norte dela.",
+    "Branca rápida em grupo de 6 lampejos mais um longo, passando ao sul dela.",
+    "Branca rápida em grupo de 3 lampejos, passando a leste dela."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Dois cones com as bases unidas e corpo preto-amarelo-preto formam a cardinal Leste. A luz lembra o 3 do relógio: grupo de 3 lampejos. Passe do lado que dá nome à marca: a leste.</p><ul><li><b>Branca rápida em grupo de 9 lampejos, passando a oeste dela.</b> — 9 lampejos é a cardinal Oeste, cuja marca de tope tem os cones com as pontas unidas.</li><li><b>Branca rápida contínua, passando ao norte dela.</b> — Lampejos contínuos são da cardinal Norte, de cones com as pontas para cima.</li><li><b>Branca rápida em grupo de 6 lampejos mais um longo, passando ao sul dela.</b> — 6 lampejos mais um longo é a cardinal Sul, de cones com as pontas para baixo.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2 (IALA Região B); Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois",
+   "figura": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 230\" role=\"img\" aria-label=\"Boia cardinal com marca de tope de dois cones de bases unidas e corpo preto, amarelo e preto\"><title>Boia cardinal</title><path d=\"M0 178 Q20 170 40 178 T80 178 T120 178 T160 178 V230 H0Z\" fill=\"var(--sea-2)\"/><rect x=\"58\" y=\"92\" width=\"44\" height=\"27\" fill=\"var(--ink)\"/><rect x=\"58\" y=\"119\" width=\"44\" height=\"27\" fill=\"var(--nav-yellow)\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><rect x=\"58\" y=\"146\" width=\"44\" height=\"30\" fill=\"var(--ink)\"/><line x1=\"80\" y1=\"74\" x2=\"80\" y2=\"92\" stroke=\"var(--ink)\" stroke-width=\"3\"/><polygon points=\"80,28 66,51 94,51\" fill=\"var(--ink)\"/><polygon points=\"66,51 94,51 80,74\" fill=\"var(--ink)\"/></svg>"
+   }
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 1,
+   "enunciado": "Uma boia preta com uma larga faixa horizontal encarnada e duas esferas pretas superpostas no tope indica:",
+   "alternativas": [
+    "Perigo isolado, de pequena extensão, com águas navegáveis em volta.",
+    "Águas seguras, com navegação livre em todo o redor da boia.",
+    "Sinal especial, que marca uma área de finalidade específica.",
+    "Canal preferencial, com o canal principal a boreste."
+   ],
+   "correta": 0,
+   "explicacao": "<p>Preta com faixa(s) encarnada(s) e duas esferas pretas é o perigo isolado. Ele fica sob ou junto da marca, e há água navegável em volta. Luz: branca, grupo de 2 lampejos.</p><ul><li><b>Águas seguras, com navegação livre em todo o redor da boia.</b> — Águas seguras têm listras verticais brancas e encarnadas e uma esfera encarnada.</li><li><b>Sinal especial, que marca uma área de finalidade específica.</b> — Sinais especiais são amarelos, com um X amarelo no tope.</li><li><b>Canal preferencial, com o canal principal a boreste.</b> — O canal preferencial é lateral verde ou encarnada com faixa da outra cor.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 1,
+   "enunciado": "Uma boia esférica com listras verticais brancas e encarnadas, esfera encarnada no tope e luz branca isofásica indica:",
+   "alternativas": [
+    "Perigo isolado: passe longe, por qualquer lado.",
+    "Cardinal Norte: passe ao norte dela.",
+    "Águas navegáveis em todo o redor, como início ou meio de canal.",
+    "Sinal especial de recreação: não serve de guia para a rota."
+   ],
+   "correta": 2,
+   "explicacao": "<p>É a marca de águas seguras: não indica perigo, só que há água navegável em volta. A luz é branca isofásica, de ocultação, lampejo longo de 10 s ou Morse \"A\".</p><ul><li><b>Perigo isolado: passe longe, por qualquer lado.</b> — O perigo isolado é preto com faixa encarnada e duas esferas pretas.</li><li><b>Cardinal Norte: passe ao norte dela.</b> — A cardinal Norte é preta sobre amarela, com cones para cima.</li><li><b>Sinal especial de recreação: não serve de guia para a rota.</b> — Sinais especiais são amarelos; esta marca é de águas seguras e serve de guia.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 2,
+   "enunciado": "Numa baía há várias boias amarelas, com X amarelo no tope e luz amarela. O que elas indicam?",
+   "alternativas": [
+    "Uma área ou finalidade especial, como recreação ou cabos, e não um canal.",
+    "O limite de bombordo do canal de acesso ao porto, vindo do mar.",
+    "Um novo perigo, ainda não indicado nas cartas da região.",
+    "O eixo do canal, com águas navegáveis dos dois lados dela."
+   ],
+   "correta": 0,
+   "explicacao": "<p>Amarelo é a cor dos sinais especiais: marcam áreas ou finalidades específicas (recreação, cabos, descarga de dragagem etc.), e o significado está na carta ou no Roteiro. Não são auxílios de canal.</p><ul><li><b>O limite de bombordo do canal de acesso ao porto, vindo do mar.</b> — O bombordo do canal é marcado por boias verdes.</li><li><b>Um novo perigo, ainda não indicado nas cartas da região.</b> — O novo perigo usa listras azuis e amarelas, ou cardinal ou lateral de ritmo rápido.</li><li><b>O eixo do canal, com águas navegáveis dos dois lados dela.</b> — O eixo do canal usa a marca de águas seguras, de listras brancas e encarnadas.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 3,
+   "enunciado": "Entrando num porto, você vê uma boia verde com uma faixa horizontal encarnada e luz verde Fl(2+1) (Lp(2+1), em português). Como interpretá-la?",
+   "alternativas": [
+    "Canal preferencial a bombordo: tratar a boia como lateral de boreste, deixando-a por boreste.",
+    "Perigo isolado: passar longe dela, por qualquer lado.",
+    "Lateral de bombordo comum: deixá-la por bombordo, sem outra informação.",
+    "Canal preferencial a boreste: tratar a boia como lateral de bombordo, deixando-a por bombordo."
+   ],
+   "correta": 3,
+   "explicacao": "<p>A cor principal (verde) diz como tratar a boia: lateral de bombordo. A faixa encarnada e o grupo composto (2+1) avisam de uma bifurcação: o canal preferencial segue por boreste.</p><ul><li><b>Canal preferencial a bombordo: tratar a boia como lateral de boreste, deixando-a por boreste.</b> — O canal a bombordo é indicado por boia encarnada com faixa verde.</li><li><b>Perigo isolado: passar longe dela, por qualquer lado.</b> — O perigo isolado é preto com faixa encarnada e luz de grupo de 2 lampejos.</li><li><b>Lateral de bombordo comum: deixá-la por bombordo, sem outra informação.</b> — Uma lateral comum não tem faixa nem Fl(2+1); o ritmo composto é reservado ao canal preferencial.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 2,
+   "enunciado": "Você vê uma boia com listras verticais azuis e amarelas, tope em cruz amarela e luz alternada azul e amarela. O que ela é?",
+   "alternativas": [
+    "Cardinal Oeste: perigo a leste dela, devendo-se passar a oeste.",
+    "Sinal especial: marca uma área de recreação ou de cabo submarino.",
+    "Águas seguras: navegação livre em volta, sem perigo conhecido.",
+    "Marca de destroços de emergência: perigo novo, como um naufrágio recente."
+   ],
+   "correta": 3,
+   "explicacao": "<p>A IALA criou a boia de destroços de emergência para balizar um perigo novo (por exemplo, casco afundado) antes de a carta ser corrigida. Tem listras verticais azuis e amarelas e luz alternada azul e amarela.</p><ul><li><b>Cardinal Oeste: perigo a leste dela, devendo-se passar a oeste.</b> — A cardinal Oeste é amarela e preta, com luz branca de 9 lampejos.</li><li><b>Sinal especial: marca uma área de recreação ou de cabo submarino.</b> — O sinal especial é todo amarelo, com X no tope.</li><li><b>Águas seguras: navegação livre em volta, sem perigo conhecido.</b> — Águas seguras têm listras verticais brancas e encarnadas e esfera encarnada.</li></ul>",
+   "referencia": "Lista de Faróis 2026–2027, quadro \"Novos Perigos\"; IALA, R1001",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 3,
+   "enunciado": "Você navega com rumo verdadeiro 090° e, à noite, vê bem pela proa uma luz branca Q(9) 15s (R(9) 15s, nas cartas em português) de uma boia cardinal. O que ela indica e o que você deve fazer?",
+   "alternativas": [
+    "É a cardinal Oeste: o perigo está a oeste dela. Siga em frente e passe a leste, onde há água segura.",
+    "É a cardinal Leste: o perigo está a oeste dela. Siga em frente e passe a leste.",
+    "É a cardinal Oeste: o perigo fica a leste dela, na sua proa. Mude o rumo e permaneça a oeste da boia.",
+    "É um perigo isolado: mantenha o rumo e passe junto dela, pois há águas navegáveis em volta."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Q(9) é o \"9 horas\" do relógio: cardinal Oeste. A cardinal fica do lado do perigo por onde há água segura; passe a oeste dela, e o perigo está a leste. Com a proa para leste, é preciso mudar o rumo.</p><ul><li><b>É a cardinal Oeste: o perigo está a oeste dela. Siga em frente e passe a leste, onde há água segura.</b> — Inverte a regra: passa-se do lado que dá nome à marca (oeste), nunca do lado oposto.</li><li><b>É a cardinal Leste: o perigo está a oeste dela. Siga em frente e passe a leste.</b> — 9 lampejos é Oeste; o Leste tem 3 lampejos.</li><li><b>É um perigo isolado: mantenha o rumo e passe junto dela, pois há águas navegáveis em volta.</b> — Perigo isolado tem grupo de 2 lampejos e não se passa por cima da marca.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 3,
+   "enunciado": "Qual das características de luz abaixo <b>não</b> pode ser usada numa boia lateral comum (encarnada ou verde) do balizamento IALA?",
+   "alternativas": [
+    "Fl R 4s, lampejos simples encarnados a cada 4 s.",
+    "Fl(2+1) G 12s, por ser reservada ao canal preferencial.",
+    "Oc G 6s, ocultação verde a cada 6 segundos.",
+    "Iso R 4s, isofásica encarnada de período 4 s."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Numa lateral comum vale qualquer ritmo, exceto o grupo composto Fl(2+1), reservado às marcas de canal preferencial.</p><ul><li><b>Fl R 4s, lampejos simples encarnados a cada 4 s.</b> — Lampejo simples é permitido em laterais.</li><li><b>Oc G 6s, ocultação verde a cada 6 segundos.</b> — A ocultação é permitida em laterais.</li><li><b>Iso R 4s, isofásica encarnada de período 4 s.</b> — A isofásica é permitida em laterais.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 2,
+   "enunciado": "Na Região B do balizamento IALA, qual é a marca de tope de uma boia lateral de boreste, quando existe?",
+   "alternativas": [
+    "Um cilindro encarnado, de base para baixo.",
+    "Um cone encarnado com o vértice para cima.",
+    "Um cone verde com o vértice para cima.",
+    "Um cilindro verde, de base para baixo."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Na Região B, o sinal de boreste é encarnado e leva um cone com o vértice para cima. O de bombordo é verde e leva um cilindro.</p><ul><li><b>Um cilindro encarnado, de base para baixo.</b> — O cilindro encarnado seria o de bombordo na Região A, que inverte as cores.</li><li><b>Um cone verde com o vértice para cima.</b> — O verde é cor de bombordo; o cone é a forma de boreste, e a cor está trocada.</li><li><b>Um cilindro verde, de base para baixo.</b> — Cilindro verde é a marca de bombordo.</li></ul>",
+   "referencia": "Lista de Faróis, Introdução, item 4.2; Miguens, vol. I, cap. 13",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes/lista-de-farois"
+  },
+  {
+   "tema": "Balizamento e sinais",
+   "dificuldade": 1,
+   "enunciado": "Qual dos sinais abaixo é um sinal de perigo (pedido de socorro) do Anexo IV do RIPEAM?",
+   "alternativas": [
+    "Cinco ou mais apitos curtos e rápidos, em sequência.",
+    "Toque contínuo de um aparelho de sinais de cerração.",
+    "Três apitos curtos em sequência, a intervalos regulares.",
+    "Um apito longo ao se aproximar de uma curva sem visão."
+   ],
+   "correta": 1,
+   "explicacao": "<p>O toque contínuo do aparelho de sinais de cerração é sinal de perigo, assim como os foguetes e fachos encarnados e a fumaça laranja. Só pode ser usado para pedir socorro.</p><ul><li><b>Cinco ou mais apitos curtos e rápidos, em sequência.</b> — É o sinal de dúvida, entre embarcações no visual.</li><li><b>Três apitos curtos em sequência, a intervalos regulares.</b> — Significa \"estou dando atrás\".</li><li><b>Um apito longo ao se aproximar de uma curva sem visão.</b> — Avisa quem pode estar do outro lado da curva.</li></ul>",
+   "referencia": "RIPEAM, Anexo IV, item 1 b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 1,
+   "enunciado": "Qual a cor e o arco de visibilidade da luz de alcançado (popa) de uma embarcação?",
+   "alternativas": [
+    "Branca, 135°, visível por ré.",
+    "Branca, 225°, visível por ante-a-vante.",
+    "Encarnada, 112,5°, visível por um bordo.",
+    "Amarela, 135°, visível por ré."
+   ],
+   "correta": 0,
+   "explicacao": "<p>A luz de alcançado é branca e cobre 135°, 67,5° para cada lado da popa. Só é vista por quem está por ré da embarcação.</p><ul><li><b>Branca, 225°, visível por ante-a-vante.</b> — Esse é o arco da luz de mastro, que olha para a frente.</li><li><b>Encarnada, 112,5°, visível por um bordo.</b> — 112,5° é o arco de cada luz de bordo, que tem cor encarnada ou verde.</li><li><b>Amarela, 135°, visível por ré.</b> — A luz amarela de 135° é a de reboque; a luz de alcançado é branca.</li></ul>",
+   "referencia": "RIPEAM, Regras 21(c) e 21(a)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 1,
+   "enunciado": "Dois veleiros se aproximam em rumos cruzados, com risco de abalroamento. O veleiro A recebe o vento por boreste; o veleiro B recebe o vento por bombordo. Quem deve se manter fora do caminho do outro?",
+   "alternativas": [
+    "O A, que recebe o vento por boreste.",
+    "O que estiver a barlavento.",
+    "O de menor comprimento.",
+    "O B, que recebe o vento por bombordo."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Regra 12(a)(i): quando cada veleiro recebe o vento por um bordo, aquele que o recebe por bombordo mantém-se fora do caminho do outro.</p><ul><li><b>O A, que recebe o vento por boreste.</b> — Recebe o vento por boreste e é o que mantém rumo e velocidade.</li><li><b>O que estiver a barlavento.</b> — O barlavento só decide quando os dois recebem o vento pelo mesmo bordo.</li><li><b>O de menor comprimento.</b> — O tamanho não conta entre veleiros nessa regra.</li></ul>",
+   "referencia": "RIPEAM, Regra 12(a)(i)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 1,
+   "enunciado": "De dia, que marca deve exibir na proa uma embarcação de 15 m fundeada?",
+   "alternativas": [
+    "Um cone preto com o vértice para baixo.",
+    "Uma esfera preta.",
+    "Um cilindro preto.",
+    "Duas esferas pretas na vertical."
+   ],
+   "correta": 1,
+   "explicacao": "<p>A embarcação fundeada exibe, onde melhor se veja, uma esfera preta (de noite, uma luz branca circular). Duas esferas são a marca de embarcação sem governo.</p><ul><li><b>Um cone preto com o vértice para baixo.</b> — É a marca do veleiro que navega com motor também acionado.</li><li><b>Um cilindro preto.</b> — O cilindro é a marca de embarcação restrita pelo calado.</li><li><b>Duas esferas pretas na vertical.</b> — Duas esferas pretas indicam embarcação sem governo.</li></ul>",
+   "referencia": "RIPEAM, Regra 30(a)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 1,
+   "enunciado": "Duas lanchas a motor se aproximam de frente, em rumos opostos ou quase, com risco de abalroamento. O que cada uma deve fazer?",
+   "alternativas": [
+    "Guinar para bombordo, passando boreste com boreste.",
+    "A mais lenta guina para boreste e a mais rápida mantém o rumo.",
+    "Guinar para boreste, passando bombordo com bombordo.",
+    "Soar um apito longo e manter rumo e velocidade."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Regra 14(a): na situação de roda a roda, ambas as embarcações de propulsão mecânica guinam para boreste e passam pelo bordo de bombordo uma da outra.</p><ul><li><b>Guinar para bombordo, passando boreste com boreste.</b> — Guinar para bombordo faria as duas se cruzarem pela proa.</li><li><b>A mais lenta guina para boreste e a mais rápida mantém o rumo.</b> — Nessa regra as duas manobram, sem importar a velocidade.</li><li><b>Soar um apito longo e manter rumo e velocidade.</b> — Não existe estar \"mantendo rumo\" no roda a roda: ambas guinam.</li></ul>",
+   "referencia": "RIPEAM, Regra 14(a)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "A luz de mastro de uma embarcação de propulsão mecânica é branca e mostra um arco horizontal de:",
+   "alternativas": [
+    "135°, centrados na popa da embarcação.",
+    "112,5°, de um só bordo, da proa até 22,5° atrás do través.",
+    "225°, da proa até 22,5° atrás do través de cada bordo.",
+    "180°, da proa até o través de cada bordo."
+   ],
+   "correta": 2,
+   "explicacao": "<p>A luz de mastro cobre 225°: 112,5° para cada lado da proa, até 22,5° atrás do través. Por isso ela some quando o barco é visto bem de popa.</p><ul><li><b>135°, centrados na popa da embarcação.</b> — É o arco da luz de alcançado.</li><li><b>112,5°, de um só bordo, da proa até 22,5° atrás do través.</b> — É o arco de cada luz de bordo.</li><li><b>180°, da proa até o través de cada bordo.</b> — O limite é 22,5° atrás do través, não o través.</li></ul>",
+   "referencia": "RIPEAM, Regra 21(a)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de 11 m navega à vela, à noite. Qual alternativa de luzes de navegação o RIPEAM permite?",
+   "alternativas": [
+    "Lanterna tricolor no tope e mais uma luz de mastro branca de 225°.",
+    "Lanterna tricolor no tope do mastro, em lugar das luzes de bordos e de alcançado.",
+    "Uma única luz branca circular no tope, suficiente para veleiro com menos de 12 m.",
+    "Luzes de bordos separadas e luz de mastro branca de 225°, como nas lanchas."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Veleiro de menos de 20 m pode combinar as luzes de bordos e de alcançado numa só lanterna tricolor no ponto mais alto do mastro.</p><ul><li><b>Lanterna tricolor no tope e mais uma luz de mastro branca de 225°.</b> — A luz de mastro branca é de embarcação de propulsão mecânica e confundiria os outros barcos.</li><li><b>Uma única luz branca circular no tope, suficiente para veleiro com menos de 12 m.</b> — Uma só luz branca circular não é o conjunto exigido para veleiro desse tamanho.</li><li><b>Luzes de bordos separadas e luz de mastro branca de 225°, como nas lanchas.</b> — A luz de mastro branca é de propulsão mecânica.</li></ul>",
+   "referencia": "RIPEAM, Regra 25(a) e (b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "De dia, um veleiro navega à vela com vento de popa a 6 nós e se aproxima por trás, em rumo quase igual, de uma lancha a motor que anda a 4 nós. Quem deve se manter fora do caminho?",
+   "alternativas": [
+    "A lancha a motor, porque o veleiro tem a preferência.",
+    "O veleiro, porque está alcançando a outra embarcação.",
+    "Os dois, guinando para boreste, como no roda a roda.",
+    "A embarcação mais lenta, pois a mais rápida tem direito de passagem."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Regra 13(a): qualquer embarcação que alcança outra se mantém fora do caminho dela, prevalecendo sobre as outras regras de governo. É ultrapassagem quando se vem de mais de 22,5° por ante-a-ré do través.</p><ul><li><b>A lancha a motor, porque o veleiro tem a preferência.</b> — A preferência do veleiro (Regra 18) não vale na ultrapassagem.</li><li><b>Os dois, guinando para boreste, como no roda a roda.</b> — Guinar para boreste é a regra do roda a roda, e este caso é de ultrapassagem.</li><li><b>A embarcação mais lenta, pois a mais rápida tem direito de passagem.</b> — O direito de passagem nunca é do que alcança.</li></ul>",
+   "referencia": "RIPEAM, Regra 13(a) e (b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "Duas lanchas a motor têm rumos cruzados e risco de abalroamento. A lancha A vê a lancha B pela sua boreste; B vê A pela sua bombordo. Quem manobra e como?",
+   "alternativas": [
+    "A manobra, evitando cruzar pela proa de B.",
+    "B manobra, guinando para bombordo.",
+    "A mantém rumo e velocidade.",
+    "B manobra, evitando cruzar pela proa de A."
+   ],
+   "correta": 0,
+   "explicacao": "<p>Regra 15: a embarcação que vê a outra por seu bordo de boreste dá passagem e, se possível, evita cruzar pela proa dela. A é quem vê B por boreste.</p><ul><li><b>B manobra, guinando para bombordo.</b> — B é quem mantém rumo e velocidade, e guinar para bombordo não é o que se pede.</li><li><b>A mantém rumo e velocidade.</b> — A é quem deve dar passagem, pois vê a outra por boreste.</li><li><b>B manobra, evitando cruzar pela proa de A.</b> — B é a embarcação que mantém rumo e velocidade (Regra 17).</li></ul>",
+   "referencia": "RIPEAM, Regras 15 e 17",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "De dia, você, à vela, vê uma embarcação com dois cones pretos unidos pelos vértices, na vertical. O que isso significa e o que fazer?",
+   "alternativas": [
+    "Está engajada na pesca; ela deve dar passagem ao veleiro.",
+    "Está fundeada; o veleiro pode manter o rumo, pois ela não se move.",
+    "Tem capacidade de manobra restrita; o veleiro deve manter rumo e velocidade.",
+    "Está engajada na pesca; o veleiro deve dar passagem a ela."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Dois cones com os vértices unidos são a marca da embarcação engajada na pesca. Pela Regra 18(b), o veleiro dá passagem a ela.</p><ul><li><b>Está engajada na pesca; ela deve dar passagem ao veleiro.</b> — A hierarquia é inversa: quem pesca tem preferência sobre o veleiro.</li><li><b>Está fundeada; o veleiro pode manter o rumo, pois ela não se move.</b> — A fundeada exibe uma esfera preta; mesmo parada, é preciso dar-lhe espaço.</li><li><b>Tem capacidade de manobra restrita; o veleiro deve manter rumo e velocidade.</b> — A manobra restrita usa bola, losango e bola; e o veleiro também dá passagem, não mantém rumo.</li></ul>",
+   "referencia": "RIPEAM, Regras 18(b) e 26(b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "Em cerração, um veleiro de 15 m navega à vela, com seguimento. Que sinal sonoro ele deve dar, e com que intervalo máximo?",
+   "alternativas": [
+    "Um apito longo, a intervalos de no máximo 2 minutos.",
+    "Um apito longo e dois curtos, a intervalos de no máximo 2 minutos.",
+    "Dois apitos longos, a intervalos de no máximo 2 minutos.",
+    "Sino por cerca de 5 segundos, a intervalos de no máximo 1 minuto."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Regra 35(c): a embarcação a vela, sem governo, com manobra restrita, pescando ou rebocando dá um longo e dois curtos, no máximo a cada 2 minutos.</p><ul><li><b>Um apito longo, a intervalos de no máximo 2 minutos.</b> — É o sinal da embarcação de propulsão mecânica com seguimento.</li><li><b>Dois apitos longos, a intervalos de no máximo 2 minutos.</b> — É o sinal da embarcação de propulsão mecânica parada, sem seguimento.</li><li><b>Sino por cerca de 5 segundos, a intervalos de no máximo 1 minuto.</b> — É o sinal da embarcação fundeada.</li></ul>",
+   "referencia": "RIPEAM, Regra 35(c)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "De dia, um veleiro de 14 m navega à vela, mas com o motor também engrenado. O que a Regra 25 exige?",
+   "alternativas": [
+    "Um cone preto com o vértice para cima, na proa, onde melhor se veja.",
+    "Uma esfera preta, na proa, onde melhor se veja.",
+    "Um cone preto com o vértice para baixo, na proa, onde melhor se veja.",
+    "Nenhuma marca, porque o veleiro continua sendo um barco a vela."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Para o RIPEAM, quem usa motor é embarcação de propulsão mecânica. O veleiro motorando exibe um cone com o vértice para baixo, que avisa que ele não tem mais a \"preferência\" de veleiro.</p><ul><li><b>Um cone preto com o vértice para cima, na proa, onde melhor se veja.</b> — O cone com vértice para cima não é marca desta regra.</li><li><b>Uma esfera preta, na proa, onde melhor se veja.</b> — A esfera preta é a marca de embarcação fundeada.</li><li><b>Nenhuma marca, porque o veleiro continua sendo um barco a vela.</b> — A marca é obrigatória: deixa claro que o barco está sob motor.</li></ul>",
+   "referencia": "RIPEAM, Regra 25(e)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 2,
+   "enunciado": "Você mantém rumo e velocidade, como manda a Regra 17, e a outra embarcação, que deveria dar passagem, não está agindo adequadamente. O que a Regra 17 permite?",
+   "alternativas": [
+    "Manter rumo e velocidade até o fim, pois a Regra 17 proíbe qualquer manobra do barco que mantém rumo.",
+    "Manobrar quando ficar claro que a outra não age, e é obrigada a fazê-lo se só a ação dela já não evita o choque.",
+    "Parar de imediato e deixar que a outra decida sozinha como evitar o choque entre as duas.",
+    "Dar três apitos curtos e continuar com o mesmo rumo e a mesma velocidade, sem manobrar."
+   ],
+   "correta": 1,
+   "explicacao": "<p>Regra 17(a)(ii): pode manobrar sozinha assim que ficar evidente que a outra não toma ação adequada. Regra 17(b): quando só a ação da outra já não evita a colisão, deve fazer o que melhor ajude a evitá-la.</p><ul><li><b>Manter rumo e velocidade até o fim, pois a Regra 17 proíbe qualquer manobra do barco que mantém rumo.</b> — A proibição não existe: a obrigação de manter rumo termina quando surge o risco.</li><li><b>Parar de imediato e deixar que a outra decida sozinha como evitar o choque entre as duas.</b> — Parar não resolve e pode criar outro risco; a regra manda agir para evitar o abalroamento.</li><li><b>Dar três apitos curtos e continuar com o mesmo rumo e a mesma velocidade, sem manobrar.</b> — Três apitos curtos significam \"estou dando atrás\" e não resolvem a situação.</li></ul>",
+   "referencia": "RIPEAM, Regra 17(a)(ii) e (b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 3,
+   "enunciado": "Você navega com o vento por bombordo e avista um veleiro a barlavento, sem conseguir determinar com segurança se ele recebe o vento por bombordo ou por boreste. O que fazer?",
+   "alternativas": [
+    "Manter rumo e velocidade, porque quem está a barlavento é quem dá passagem.",
+    "Soar cinco apitos curtos e manter rumo e velocidade, esperando a resposta.",
+    "Guinar para barlavento e cruzar a proa dele, para mostrar sua intenção.",
+    "Manobrar para se manter fora do caminho dele."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Regra 12(a)(iii): se você recebe o vento por bombordo, vê outro veleiro a barlavento e não consegue ter certeza do bordo dele, deve manobrar para se manter fora do caminho dele.</p><ul><li><b>Manter rumo e velocidade, porque quem está a barlavento é quem dá passagem.</b> — Só vale se os dois estiverem com vento pelo mesmo bordo, o que você não sabe.</li><li><b>Soar cinco apitos curtos e manter rumo e velocidade, esperando a resposta.</b> — O sinal de dúvida não retira a obrigação de manobrar.</li><li><b>Guinar para barlavento e cruzar a proa dele, para mostrar sua intenção.</b> — Cruzar-lhe a proa é manobra arriscada e contraria a obrigação de ficar fora do caminho.</li></ul>",
+   "referencia": "RIPEAM, Regra 12(a)(iii)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 3,
+   "enunciado": "Qual afirmativa sobre o risco de abalroamento (Regra 7) está <b>correta</b>?",
+   "alternativas": [
+    "Marcação variando indica sempre que não há risco, e a manobra pode ser dispensada com segurança.",
+    "Só o radar pode determinar o risco; a marcação tomada com a bússola de mão não tem valor algum.",
+    "Havendo dúvida, deve-se presumir que não existe risco, para não atrapalhar o tráfego de outros barcos.",
+    "Marcação constante indica risco, mas pode haver risco com a marcação variando, em especial perto de navio muito grande."
+   ],
+   "correta": 3,
+   "explicacao": "<p>Regra 7(d): o risco se presume quando a marcação de quem se aproxima não muda de forma apreciável, mas pode existir mesmo com a marcação mudando, sobretudo com navio muito grande, reboque ou curta distância.</p><ul><li><b>Marcação variando indica sempre que não há risco, e a manobra pode ser dispensada com segurança.</b> — A variação da marcação não afasta o risco em todos os casos, como o de navio muito grande ou de distância curta.</li><li><b>Só o radar pode determinar o risco; a marcação tomada com a bússola de mão não tem valor algum.</b> — A Regra 7(d)(i) cita expressamente a marcação de bússola.</li><li><b>Havendo dúvida, deve-se presumir que não existe risco, para não atrapalhar o tráfego de outros barcos.</b> — A Regra 7(c) manda presumir o risco quando há dúvida.</li></ul>",
+   "referencia": "RIPEAM, Regra 7(a), (c) e (d)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 3,
+   "enunciado": "À noite, no través, você vê só duas luzes encarnadas circulares, uma sobre a outra, como na figura, e nenhuma luz de bordo. Você navega à vela, em rumo de colisão. Quem deve manobrar?",
+   "alternativas": [
+    "A outra embarcação, porque o veleiro tem preferência sobre qualquer outra.",
+    "Nenhuma delas, pois só estão visíveis luzes encarnadas.",
+    "O veleiro: a embarcação está sem governo e sem seguimento, e tem preferência.",
+    "O veleiro, mas apenas se ela exibir também luzes de bordos."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Duas luzes encarnadas verticais indicam embarcação sem governo. Sem luzes de bordos, ela não tem seguimento. Pela Regra 18(b), o veleiro dá passagem a ela, com ou sem seguimento.</p><ul><li><b>A outra embarcação, porque o veleiro tem preferência sobre qualquer outra.</b> — A preferência do veleiro não vale contra embarcação sem governo.</li><li><b>Nenhuma delas, pois só estão visíveis luzes encarnadas.</b> — A luz mostra que a outra não pode manobrar; o veleiro precisa agir.</li><li><b>O veleiro, mas apenas se ela exibir também luzes de bordos.</b> — Com ou sem luzes de bordos, ela continua sendo embarcação sem governo, e o veleiro dá passagem.</li></ul>",
+   "referencia": "RIPEAM, Regras 27(a) e 18(b)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf",
+   "figura": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 150\" role=\"img\" aria-label=\"Duas luzes encarnadas circulares, uma sobre a outra\"><title>Duas luzes encarnadas na vertical</title><circle cx=\"80\" cy=\"42\" r=\"14\" fill=\"var(--nav-red)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><circle cx=\"80\" cy=\"92\" r=\"14\" fill=\"var(--nav-red)\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path d=\"M10 130 Q30 124 50 130 T90 130 T130 130 T150 130\" fill=\"none\" stroke=\"var(--sea-3)\" stroke-width=\"2\"/></svg>"
+   }
+  },
+  {
+   "tema": "RIPEAM",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro de 12 m, indo de um porto a outro ao longo da costa, quer usar a zona de tráfego costeiro de um esquema de separação de tráfego, embora pudesse usar com segurança a via de tráfego apropriada. Isso é permitido?",
+   "alternativas": [
+    "Não: só quem não pode usar a via apropriada pode usar a zona costeira.",
+    "Não: a zona de tráfego costeiro é proibida às embarcações de recreio.",
+    "Sim: veleiros e embarcações com menos de 20 m podem usar a zona costeira.",
+    "Sim, mas só com autorização por VHF do serviço de tráfego."
+   ],
+   "correta": 2,
+   "explicacao": "<p>Regra 10(d): o tráfego que pode usar a via apropriada normalmente não usa a zona costeira, mas a regra ressalva as embarcações com menos de 20 m, as a vela e as de pesca, que podem usá-la.</p><ul><li><b>Não: só quem não pode usar a via apropriada pode usar a zona costeira.</b> — Essa é a regra geral, que tem a ressalva para as embarcações pequenas e a vela.</li><li><b>Não: a zona de tráfego costeiro é proibida às embarcações de recreio.</b> — A Regra 10 não proíbe embarcações de recreio de usar a zona.</li><li><b>Sim, mas só com autorização por VHF do serviço de tráfego.</b> — A Regra 10 não pede autorização para usar a zona costeira.</li></ul>",
+   "referencia": "RIPEAM, Regra 10(d)(i) e (ii)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+
+
+ANEXO 2-B | 
+MARINHA DO BRASIL
+DIRETORIA DE PORTOS E COSTAS
+
+BOLETIM SIMPLIFICADO DE ATUALIZAÇÃO DE DADOS DE EMBARCAÇÃO (BSADE) | 
+À Capitania dos Portos, Delegacia ou Agência | 
+NATUREZA DO REQUERIMENTO | 
+ | 
+Inscrição de embarcação | 
+ | 
+Transferência de proprietário | 
+ | 
+Atualização de dados | 
+ | 
+Cancelamento de Inscrição | 
+ | 
+Transferência de jurisdição | 
+ | 
+Emissão de Certidão | 
+DADOS PESSOAIS DO REQUERENTE | 
+NOME DO PROPRIETÁRIO: | 
+ENDEREÇO: | 
+CIDADE: | 
+BAIRRO: | 
+CEP: | 
+IDENTIDADE: | 
+ÓRGÃO EMISSOR: | 
+DATA DE EMISSÃO: | 
+CPF/CNPJ: | 
+TEL.: | 
+CEL.: | 
+E-mail: | 
+Nota Fiscal No | 
+ | 
+Data da Venda | 
+ | 
+Local | 
+ | 
+Vendedor | 
+ | 
+CPF/CNPJ | 
+ | 
+DADOS DA EMBARCAÇÃO | 
+Nome da Embarcação | 
+ | 
+Inscrição | 
+ | 
+Arq. Bruta | 
+ | 
+Tipo | 
+ | 
+Atividade | 
+ | 
+Arq. Líquida | 
+ | 
+Comprimento | 
+ | 
+Tripulantes | 
+ | 
+Ano de Construção | 
+ | 
+Boca | 
+ | 
+Passageiros | 
+ | 
+Nº Casco | 
+ | 
+Pontal | 
+ | 
+Mat. Casco | 
+ | 
+Contorno | 
+ | 
+Área de Navegação | 
+
+ | 
+
+MOTORIZAÇÃO | 
+1º Motor/Marca | 
+ | 
+Potência | 
+ | 
+Nº Série | 
+ | 
+2º Motor/Marca | 
+ | 
+Potência | 
+ | 
+Nº Série | 
+ | 
+3º Motor/Marca | 
+ | 
+Potência | 
+ | 
+Nº Série | 
+ | 
+Local e data | 
+Assinatura do Requerente | 
+Carimbo e Assinatura do Atendente | 
+Protocolo:
+	(1) Este formulário é aplicável a embarcações miúdas.
+	(2) Deve ser emitido em duas vias, sendo uma entregue na CP/DL/AG e outra contendo o número do protocolo de recebimento, entregue ao requerente. Após assinado e datado pela CP/DL/AG, permite a utilização da embarcação por um período máximo de 30 dias, prorrogáveis por mais 30 dias.

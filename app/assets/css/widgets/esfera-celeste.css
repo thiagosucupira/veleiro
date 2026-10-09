@@ -1,0 +1,91 @@
+/* Widget esfera-celeste */
+.widget-esfera-celeste .instrumento-controles { gap: var(--s-2); }
+.ec-cena { position: relative; overflow: hidden; }
+.ec-canvas { position: relative; background: var(--paper); cursor: grab; }
+.ec-canvas:active { cursor: grabbing; }
+.ec-canvas canvas { display: block; width: 100%; height: 100%; }
+.ec-rotulos { position: absolute; inset: 0; pointer-events: none; overflow: hidden; --ec-sombra: var(--paper); }
+.ec-hud {
+  position: absolute; left: 8px; top: 8px; pointer-events: none;
+  font-size: var(--fs--1); font-weight: 650; color: var(--ink);
+  background: color-mix(in srgb, var(--paper) 82%, transparent);
+  padding: 2px 8px; border-radius: var(--r-input); max-width: calc(100% - 16px);
+}
+.ec-dica {
+  position: absolute; left: 8px; bottom: 8px; max-width: calc(100% - 16px); pointer-events: none;
+  font-size: var(--fs--1); font-weight: 600; color: var(--ink);
+  background: color-mix(in srgb, var(--paper) 84%, transparent);
+  padding: 2px 8px; border-radius: var(--r-input); border: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+}
+.ec-sem3d { padding: var(--s-4); }
+.ec-svg { max-width: 360px; margin: 0 auto; }
+
+/* rótulos CSS2D */
+.ec-rot {
+  font-size: 12px; line-height: 1.1; font-weight: 650; color: var(--ink); white-space: nowrap;
+  text-shadow: 0 0 2px var(--paper), 0 0 4px var(--paper), 0 0 6px var(--paper);
+  padding: 0 4px; user-select: none; transition: opacity var(--dur);
+}
+.ec-rotulos[data-ceu="noite"] .ec-rot { color: var(--nav-white); text-shadow: 0 0 2px var(--ec-sombra), 0 0 5px var(--ec-sombra); }
+.ec-rot-fraca { font-weight: 500; font-size: 12px; }
+.ec-rot-card { font-size: 14px; font-weight: 800; }
+.ec-rot-card.ec-real { color: var(--magenta); }
+.ec-rot-ponto { font-weight: 750; }
+.ec-rot-gama { color: var(--land-ink); }
+.ec-rot-sol { font-weight: 800; }
+.ec-rot-const { font-style: italic; font-weight: 600; font-size: 12px; color: var(--ink-2); }
+.ec-rot-voce { font-size: 12px; color: var(--magenta); font-weight: 700; }
+.ec-rot-tri { color: var(--magenta); font-weight: 800; font-size: 13px; }
+.ec-rot-ang { font-size: 12px; font-weight: 700; }
+.ec-rotulos[data-ceu="noite"] .ec-rot-tri, .ec-rotulos[data-ceu="noite"] .ec-rot-voce { color: var(--magenta); }
+.ec-rot.ec-sel { color: var(--magenta); font-weight: 800; }
+.ec-rot.ec-dim { opacity: 0.62; }
+.ec-rot.ec-tras { opacity: 0.55; }
+.ec-rot.ec-dim.ec-tras { opacity: 0.48; }
+.ec-rot.ec-oculto { visibility: hidden; }
+.ec-rot.ec-colide { visibility: hidden; }
+.ec-anel { width: 26px; height: 26px; border: 2px solid var(--magenta); border-radius: 50%; padding: 0; box-shadow: 0 0 0 2px color-mix(in srgb, var(--paper) 70%, transparent); }
+.ec-anel.ec-oculto { visibility: hidden; }
+
+/* painéis */
+.ec-paineis {
+  display: grid; gap: var(--s-3); padding: var(--s-3);
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 270px), 1fr));
+  border-top: 1px solid var(--line);
+}
+.ec-bloco { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-3) var(--s-4); min-width: 0; }
+.ec-bloco-largo { grid-column: 1 / -1; }
+.ec-bloco h4 { font-size: var(--fs-0); margin: 0 0 var(--s-2); }
+.ec-campo { display: flex; justify-content: space-between; align-items: baseline; gap: var(--s-2); margin-top: var(--s-2); font-weight: 600; font-size: 0.95rem; }
+.ec-valor { font-weight: 750; color: var(--ink); }
+.ec-bloco input[type="range"] { height: 36px; margin: 0; }
+.ec-data { max-width: 11.5rem; min-height: 40px; }
+.ec-chips { margin-top: var(--s-2); }
+.ec-bloco .chip { min-height: 40px; background: var(--paper); border-color: var(--line); }
+.ec-bloco .chip[aria-pressed="true"] { background: var(--magenta); color: var(--magenta-ink); border-color: var(--magenta); }
+.ec-bloco .btn-row { margin: var(--s-2) 0; }
+.ec-switch { display: flex; min-height: 40px; }
+.ec-select { margin-bottom: var(--s-3); }
+.ec-dl { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px var(--s-3); margin: var(--s-2) 0; font-size: 0.95rem; }
+.ec-dl dt { color: var(--ink-2); min-width: 0; }
+.ec-dl dd { margin: 0; font-weight: 700; text-align: right; white-space: nowrap; }
+.ec-nome { margin-bottom: var(--s-1); }
+.ec-nota { font-size: var(--fs--1); color: var(--ink-2); margin-bottom: var(--s-2); }
+.ec-estado { font-weight: 650; margin: var(--s-2) 0; }
+.ec-estado[data-ok="0"] { color: var(--ink-2); }
+.ec-tri { border-top: 1px solid var(--line); padding-top: var(--s-2); margin-top: var(--s-2); }
+.ec-tri summary { cursor: pointer; font-weight: 700; color: var(--magenta); min-height: 32px; display: flex; align-items: center; }
+.ec-formula { font-size: 0.92rem; background: var(--paper); border-radius: var(--r-input); padding: var(--s-2) var(--s-3); overflow-x: auto; }
+.ec-eltexto { margin-top: var(--s-3); }
+.ec-eltexto p { margin: 0; }
+.ec-fonte { font-size: var(--fs--1); color: var(--ink-3); }
+.ec-desafio .ec-des-cab { font-size: var(--fs--1); color: var(--ink-2); font-weight: 650; }
+.ec-des-enun { font-weight: 700; font-size: 1.05rem; margin: var(--s-2) 0 var(--s-3); }
+.ec-des-resp { display: flex; flex-direction: column; gap: var(--s-2); }
+.ec-des-resp .alternativa { min-height: 44px; }
+.ec-des-fb { margin: var(--s-3) 0; }
+@media (max-width: 520px) {
+  .ec-dl { font-size: 0.9rem; }
+  .ec-paineis { padding: var(--s-2); }
+  .ec-bloco { padding: var(--s-3); }
+}

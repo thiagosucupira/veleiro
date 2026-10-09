@@ -1,0 +1,172 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_ne-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; texto consolidado 5.5.2 confere (VLA facultativa p/ miúdas; médio/grande porte ARA/MSA/CPA).",
+   "evidence_quote": "A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela."
+  },
+  {
+   "id": "loc_ne-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; 5.5.2 b confere: idade mínima de oito anos.",
+   "evidence_quote": "deverá possuir idade mínima de oito anos"
+  },
+  {
+   "id": "loc_ne-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; 6.8 (ETN-VLA) e Portaria de Credenciamento com validade de cinco anos conferem no texto vigente.",
+   "evidence_quote": "Portaria de Credenciamento, com validade de cinco anos."
+  },
+  {
+   "id": "loc_ne-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; 6.7.5 confere no texto vigente.",
+   "evidence_quote": "limita-se aos municípios pertencentes à jurisdição da CP/DL/AG que realizou o seu credenciamento"
+  },
+  {
+   "id": "loc_ne-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; 6.7.4 confere (faixa/placa amarela, mín. 20 cm, 'TREINAMENTO NÁUTICO').",
+   "evidence_quote": "faixa/placa amarela em local visível do costado, com no mínimo 20 (vinte) centímetros de altura"
+  },
+  {
+   "id": "loc_ne-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; 6.7.1 confere (dois anos de ARA, MSA ou CPA ou correspondência profissional).",
+   "evidence_quote": "o instrutor deverá possuir, no mínimo, dois anos de habilitação nas categorias de ARA, MSA ou CPA"
+  },
+  {
+   "id": "loc_ne-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; ZIP de anexos (mais novo), Anexo 5-E Obs. 1 e 2, confirma 2 anos/nacional/condiciona inscrição; Obs. do ZIP acrescenta exigência de firma/assinatura gov.br (não contradiz).",
+   "evidence_quote": "possui abrangência nacional e validade de 02 anos a partir da data de sua emissão"
+  },
+  {
+   "id": "loc_ne-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; ZIP de anexos (Anexo 5-A) mantém Parte Teórica 2h (no ambiente de emprego da embarcação) e Parte Prática 4h com embarcação em movimento.",
+   "evidence_quote": "Parte Prática - 4h A parte prática deverá ser ministrada pelo instrutor com a embarcação em movimento"
+  },
+  {
+   "id": "loc_ne-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; 5.4.1 a-f confere; ressalva: atestado médico é dispensável com CNH válida, e o atestado de treinamento só para ARA.",
+   "evidence_quote": "para a habilitação específica na categoria de ARA, deverá ser apresentado o Atestado de Treinamento Náutico para Arrais-Amador"
+  },
+  {
+   "id": "loc_ne-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Índice DPC (07/10/2026) mostra Portaria 200 de 27/02/2026 como a mais recente da NORMAM-211, sem portaria posterior; 6.2 confere no texto vigente.",
+   "evidence_quote": "Somente os estabelecimentos que possuam o Certificado de Cadastramento válido junto às CP/DL/AG de sua jurisdição poderão funcionar como marina, clube e entidade desportiva náutica"
+  },
+  {
+   "id": "loc_ne-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cppb/escolas",
+   "notes": "Página reaberta em 07/10/2026: atualizada em 07/07/2026, cinco credenciados todos 'REGULAR' (dois ETN filantrópicas) conforme listados.",
+   "evidence_quote": "Atualizado em 07/07/2026 - 10:05"
+  },
+  {
+   "id": "loc_ne-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://assets.marinha.mil.br/cppe/sites/www.marinha.mil.br.cppe/files/2026-04/ESTABELECIMENTOS%20E%20PESSOAS%20F%C3%8DSICAS%20CADASTRADAS%20PARA%20TREINAMENTO%20N%C3%81UTICO.pdf",
+   "notes": "PDF reaberto: tabela com atividade autorizada e validade do cadastro por entidade; não localizei versão posterior no site da CPPE.",
+   "evidence_quote": "ESTABELECIMENTOS E PESSOAS FÍSICAS CREDENCIADOS PARA TREINAMENTO NÁUTICO E ALUGUEL DE MOTO AQUÁTICA"
+  },
+  {
+   "id": "loc_ne-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprn/escolas_nauticas",
+   "notes": "Página reaberta: lista os 3 estabelecimentos de Natal, 'Atualizado em 18/10/2021' (lista desatualizada, o fato da página confere).",
+   "evidence_quote": "Atualizado em 18/10/2021 - 10:58"
+  },
+  {
+   "id": "loc_ne-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpba/content/habilitacao",
+   "notes": "Página reaberta: tabela com 22 linhas (portaria, validade, categoria ARA/MTA); nenhuma linha de Veleiro; algumas validades já vencidas (ex. 19/05/2026).",
+   "evidence_quote": "Cadastramento e Autorização de Empresas Náuticas e de Amadores para: treinamento de condutores de embarcações e de moto aquática"
+  },
+  {
+   "id": "loc_ne-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpce/node/321",
+   "notes": "Página reaberta: atualizada em 16/09/2026; Iate Clube de Fortaleza, Portaria nº 8/2025/CPCE, validade junho-2030, ARA e Veleiro.",
+   "evidence_quote": "IATE CLUBE DE FORTALEZA – Portaria nº 8/2025/CPCE – Validade JUNHO-2030"
+  },
+  {
+   "id": "loc_ne-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpal/escolas_nauticas",
+   "notes": "Página reaberta: atualizada em 14/05/2019, Escola Náutica Shalom em Maceió com motonauta, arrais e mestre amador (lista antiga).",
+   "evidence_quote": "Aulas teóricas e praticas: moptonauta, arrais amador e mestre amador"
+  },
+  {
+   "id": "loc_ne-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpma/node/101",
+   "notes": "Página reaberta: atualizada em 18/11/2022, cinco itens numerados (item 4 com dois nomes), site www.ventoempopa.com, Port. CPMA-140/2019; lista antiga.",
+   "evidence_quote": "Site: www.ventoempopa.com: Port. CPMA -140/2019."
+  },
+  {
+   "id": "loc_ne-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cppi/sites/www.marinha.mil.br.cppi/files/ESCOLOAS%20N%C3%81UTICAS-AMADORES_0.pdf",
+   "notes": "PDF vigente linkado na home da CPPI (mesmo conteúdo): entidades em Parnaíba e Teresina, atestado de embarque ARA e declaração de frequência MTA; sem data.",
+   "evidence_quote": "Emissão de Atestado de Embarque para ARA / Emissão de Declaração de Frequência para MTA"
+  },
+  {
+   "id": "loc_ne-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://cabedelo.pb.gov.br/wp-content/uploads/2025/12/Edital_04_2025_ARRAIS-1.pdf",
+   "notes": "Edital reaberto: 10 jovens, Escola Náutica Novo Rumo, inscrições 09,10,11 e 15/12/2025.",
+   "evidence_quote": "selecionar 10 (dez) jovens de baixa renda residentes no Município de Cabedelo/PB"
+  },
+  {
+   "id": "loc_ne-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.salvadordabahia.com/nossas-listas/daqui-do-mar-lista-de-lugares-para-praticar-vela-ter-cursos-e-fazer-passeios-em-salvador/",
+   "notes": "Página reaberta: 'canal oficial de turismo e cultura da Prefeitura de Salvador', publicado 23.09.2026, atualizado 07.10.2026 15h07.",
+   "evidence_quote": "Publicado em 23.09.2026 às 18h 21 - atualizado em 07.10.2026 às 15h 07"
+  },
+  {
+   "id": "loc_ne-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://cabanga.com.br/wp-content/uploads/2026/02/Aviso-de-Regata-37a-Regata-Internacional-Recife-Fernando-de-Noronha-Refeno-2026.pdf",
+   "notes": "Aviso reaberto: partida 19/09/2026, certificado de inspeção da Marinha (NORMAM 211, grafado 'NORMAN'), limite de 110 barcos (ICMBio), inscrição por tripulante de R$1.200 a R$1.900.",
+   "evidence_quote": "O número de embarcações inscritas será limitado a 110."
+  },
+  {
+   "id": "loc_ne-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.refeno.com.br/",
+   "notes": "Site reaberto em 07/10/2026: 38ª edição, largada 25.09.2027 12h00 BRT, Marco Zero, 'Trezentas milhas'.",
+   "evidence_quote": "LARGADA · 25.09.2027 · 12H00 BRT · MARCO ZERO"
+  },
+  {
+   "id": "loc_ne-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.e-inscricao.com/barlavento-solutions/reseba-tripulante",
+   "notes": "Página reaberta: 4ª RESEBA, largada 30/10/2026, 160nm Aracaju-BTS, R$480 à vista via pix (normal).",
+   "evidence_quote": "Largada: 30 de outubro de 2026 ... À vista via pix R$ 480,00"
+  },
+  {
+   "id": "loc_ne-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.aratumaragojipe.com.br/2026/",
+   "notes": "Site do evento: Aratu Iate Clube organiza, ~30 milhas/60 km, data 22/08/2026 no site; Aviso de Regata RAM 2026 confirma 57ª em 22 de agosto de 2026.",
+   "evidence_quote": "percurso de cerca de 30 milhas (aproximadamente 60km) pela Baía de Todos-os-Santos e o Rio Paraguaçu"
+  }
+ ]
+}

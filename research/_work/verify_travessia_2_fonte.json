@@ -1,0 +1,202 @@
+{
+ "verdicts": [
+  {
+   "id": "travessia-67",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "Fonte confirma 3300 nm, Table Bay a Guanabara e aviso de largada 27/12/2025."
+  },
+  {
+   "id": "travessia-68",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "Organizador RCYC com cooperação do ICRJ literal no aviso."
+  },
+  {
+   "id": "travessia-69",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "6.1 e 6.2 confirmam LOA>=30ft, ORC válido, OSR Cat 1 e mínimo 4 tripulantes salvo solo/dupla."
+  },
+  {
+   "id": "travessia-70",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "6.1 c) exige SA Sailing Yachtmaster Offshore ou superior, ou equivalente legal para estrangeiros."
+  },
+  {
+   "id": "travessia-71",
+   "verdict": "confirmado",
+   "evidence_url": "https://cape2riorace.com/wp-content/uploads/2024/07/NoR-C2R-2025-final-V3.pdf",
+   "notes": "10.2 b) confirma 500 nm contínuas com 2 noites completas, 18 meses, comandante e 50% da tripulação (opção a é regata qualificatória)."
+  },
+  {
+   "id": "travessia-72",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.refeno.com.br/",
+   "notes": "Site mostra largada 25.09.2027 12h00 BRT Marco Zero, edição 2027."
+  },
+  {
+   "id": "travessia-73",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.refeno.com.br/",
+   "notes": "Texto do site confirma 300 milhas, través de bombordo e alísios constantes."
+  },
+  {
+   "id": "travessia-74",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nhc.noaa.gov/climo/",
+   "notes": "NHC confirma 1 jun-30 nov com atividade ocasional fora das datas."
+  },
+  {
+   "id": "travessia-75",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nhc.noaa.gov/climo/",
+   "notes": "NHC confirma pico em 10 set e atividade entre meados de ago e meados de out."
+  },
+  {
+   "id": "travessia-76",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.nhc.noaa.gov/climo/",
+   "notes": "NHC define bacia como Atlântico, Caribe e Golfo da América."
+  },
+  {
+   "id": "travessia-77",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-monitoramento-de-ciclones",
+   "notes": "CHM diz eventos de baixa frequência com grande impacto por vento e ondas."
+  },
+  {
+   "id": "travessia-78",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-monitoramento-de-ciclones",
+   "notes": "Relatórios individuais desde 2011 e nomenclatura com base na NORMAM-701/DHN confirmados; data final Biguá não reconferida."
+  },
+  {
+   "id": "travessia-79",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub.160 confirma alísios de SE em todas as estações na parte mais oriental e NE/SE se aproximando na ZCIT, que chega a Cabo Orange no fim de novembro."
+  },
+  {
+   "id": "travessia-80",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub.160: ZCIT ao norte no inverno, move-se para sul com o verão, atingindo Cabo Orange no fim de novembro."
+  },
+  {
+   "id": "travessia-81",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub.160 confirma corrente forte, NW, média 2 nós, às vezes 4, direção constante o ano todo."
+  },
+  {
+   "id": "travessia-82",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view",
+   "notes": "Pub.160 confirma extensão da Corrente Sul Equatorial a SW até cerca de 35°S."
+  },
+  {
+   "id": "travessia-83",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view",
+   "notes": "Pub.140 (PDF em cache) confirma coração do cinturão NE, N a NE 50-90%, 8-12 nós de manhã e 12-18 à tarde."
+  },
+  {
+   "id": "travessia-84",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view",
+   "notes": "Pub.140 diz alísios de NE penetram até cerca de 7°N no inverno."
+  },
+  {
+   "id": "travessia-85",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-meteoromarinha/previsao-24-horas",
+   "notes": "Boletim de 07/10 12 HMG traz exatamente as posições da ZCIT citadas."
+  },
+  {
+   "id": "travessia-86",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/APC",
+   "notes": "Lista NGA APC traz Pub.105 (2ª ed. 1995) e Pub.106 (ed. 2002)."
+  },
+  {
+   "id": "travessia-87",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/APC",
+   "notes": "Lista NGA traz Pub.109 Indian Ocean 4th Ed 2001."
+  },
+  {
+   "id": "travessia-88",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/Publications/SDPGuides",
+   "notes": "Página de listagem não pôde ser relida (bloqueada), mas os PDFs em cache identificam Pub.140 18ª ed. 2025 e Pub.160 15ª ed. 2026."
+  },
+  {
+   "id": "travessia-89",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3",
+   "notes": "Página CHM confirma Trinidad ao Rio da Prata, até 020°W, 12 cartas, Mercator 1:10.000.000, mensais."
+  },
+  {
+   "id": "travessia-90",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-publicacoes-3",
+   "notes": "Página CHM confirma EMGEPRON na BHMN Niterói ou cartasnauticasbrasil.com.br."
+  },
+  {
+   "id": "travessia-91",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/u1974/atlas-cartas-piloto-2ed-isogonicas-2020-22092021-plotter.pdf",
+   "notes": "PDF confirma dados 1951-1972; datas 1974 e 1993 conforme notas do pesquisador, não reconferidas."
+  },
+  {
+   "id": "travessia-92",
+   "verdict": "confirmado",
+   "evidence_url": "https://wwmiws.wmo.int/index.php/metareas/affiche/5",
+   "notes": "WMO WWMIWS traz exatamente a descrição geográfica da METAREA V com Brasil emissor."
+  },
+  {
+   "id": "travessia-93",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "CHM subordinado à DHN opera o serviço meteorológico, literal."
+  },
+  {
+   "id": "travessia-94",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Partes I, II e III em linguagem clara em português e repetidas em inglês, literal."
+  },
+  {
+   "id": "travessia-95",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Áreas costeiras ALFA a HOTEL e oceânicas NOVEMBER e SIERRA, literal."
+  },
+  {
+   "id": "travessia-96",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Critérios literais: Beaufort 7 (>=28 nós), ondas >=3 m, visibilidade <=1 km, ressaca >=2,5 m."
+  },
+  {
+   "id": "travessia-97",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante",
+   "notes": "Boletim especial para regatas oceânicas confirmado; pedido à Divisão e custo não reconferidos em detalhe."
+  },
+  {
+   "id": "travessia-98",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/cartassinoticas",
+   "notes": "Página CHM confirma e-mail chm.bndo@marinha.mil.br para cartas antigas e cartas 00 e 12 HMG."
+  },
+  {
+   "id": "travessia-99",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/u1921/apendice2.pdf",
+   "notes": "Imagem do Apêndice IV-3 (vista) confirma INMARSAT-C SafetyNET AOR-E 0730Z/1930Z ou conforme necessidade e PWZ-33 no Rio."
+  }
+ ]
+}

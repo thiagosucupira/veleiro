@@ -1,0 +1,32 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-vela-2-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "As embarcações deverão fundear, aproadas ao vento ou à corrente, com motor de propulsão em posição neutra, isto é, fora de marcha.",
+   "notes": "Índice DPC (2026-10-07) ainda lista a Portaria 200/2026 como vigente e o ZIP de anexos (Anexo 4-B item 6) traz texto idêntico."
+  },
+  {
+   "id": "extra-vela-2-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "O cabo de fundeio não deve ser amarrado próximo ao motor, pois o peso do motor poderá somar-se à tração vertical do cabo",
+   "notes": "Texto idêntico no Anexo 4-B do ZIP mais novo; nenhuma portaria posterior a 27/02/2026 no índice."
+  },
+  {
+   "id": "extra-vela-2-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/portaria-200-normam-211.html",
+   "evidence_quote": "4.18.4. Âncora - todas as embarcações, exceto as miúdas, devem estar dotadas de uma âncora compatível com o tamanho da embarcação e com, no mínimo, vinte metros de cabo",
+   "notes": "Item 4.18.4 consta no consolidado da Portaria 200/2026, ainda a última versão no índice DPC."
+  },
+  {
+   "id": "extra-vela-2-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/portaria-200-normam-211.html",
+   "evidence_quote": "4.18.2. Lanterna portátil - todas as embarcações deverão estar dotadas de uma unidade de lanterna portátil, com bateria recarregável ou com pilhas sobressalentes.",
+   "notes": "Item 4.18.2 consta no consolidado vigente (Portaria 200/2026); sem portaria posterior no índice."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+
+
+ANEXO 3-B
+LISTA DE VERIFICAÇÃO PARA A REALIZAÇÃO DE VISTORIA INICIAL
+(PARA TODAS AS CLASSES DE NAVEGAÇÃO)
+
+1.	Itens Gerais
+a)	Verificar se a embarcação é marcada de modo visível e durável, com letras e algarismos de tamanho apropriado (não menores que dez centímetros de altura), do seguinte modo:
+I)	nome da embarcação na popa juntamente com o porto de inscrição; e
+II)	nome da embarcação na metade de vante do costado em ambos os bordos, podendo se estender por todo o costado.
+b)	Verificar se a embarcação possui as seguintes luzes de navegação homologadas, e seu funcionamento, de acordo com a parte C e Anexo I do “Regulamento Internacional para Evitar Abalroamento no Mar - 1972”, e suas Emendas:
+I)	luz(es) de mastro (quando aplicável);
+II)	luzes de bordo;
+III)	luz de alcançado; e
+IV)	luz de fundeio.
+	OBS: deverá ser verificada a compatibilidade da embarcação com o Arranjo de Luzes da Navegação aprovado pela DPC (caso a embarcação o possua).
+c)	Verificar se a embarcação possui os equipamentos para sinais sonoros previstos na parte D do “Regulamento Internacional para Evitar Abalroamento no Mar - 1972”, e suas Emendas.
+d)	Verificar se a embarcação possui o equipamento de salvatagem, náutica, convés e máquinas previstos no Capítulo 4.
+e)	Coletes:
+I)	verificar se a quantidade de coletes salva-vidas existente a bordo corresponde à lotação da embarcação:
+1)	Classe II (mar aberto);
+2)	Classe III (interior) ou V (esportivo, podendo ser utilizado na navegação interior em embarcações até 24 metros).
+II)	os coletes classes II e III deverão portar apito firmemente preso por um fiel; e
+III)	verificar se os coletes estão estivados de maneira a serem prontamente utilizados, em local visível, bem sinalizado e de fácil acesso.
+f)	Boias salva-vidas:
+I)	deverá ser verificado se as boias salva-vidas estão suspensas em suporte e nunca presas à embarcação e se suas retinidas não estão fixas a bordo; e
+II)	verificar se as retinidas das boias salva-vidas possuem, pelo menos 20 metros de comprimento e se são feitas de material sintético e capazes de flutuar.
+g)	Lanterna elétrica funcionando.
+h)	Verificar o funcionamento do equipamento rádio em VHF - Marítimo, que disponha obrigatoriamente da frequência de chamada e socorro 156,8 MHz (canal 16).
+i)	Verificar se o comprimento total, a boca moldada e o pontal do casco da embarcação estão de acordo com aqueles anotados no Memorial Descritivo, no BADE ou no BSADE, conforme o caso.
+j)	Verificar se o material empregado na construção da embarcação está de acordo com aquele mencionado no Memorial Descritivo (item 3 - Características de Estrutura Material), no BADE ou no BSADE, conforme o caso.
+k)	Nas embarcações de grande porte ou iate, verificar se os volumes dos tanques de consumíveis estão de acordo com aqueles anotados no Memorial Descritivo (item 4 - Características de Cubagem). Caso seja necessário deverá ser requerida a abertura do fundo duplo ou levantamento do forro ou taboado ou ainda a retirada de qualquer empecilho à verificação dos volumes.
+l)	Verificar se os equipamentos instalados na embarcação estão de acordo com aqueles anotados no Memorial Descritivo:
+1) item 6 - Características de Propulsão;
+2) item 7 - Geração de Energia;
+3) item 12 - Equipamento de Esgoto e Lastro; e
+4) item 13 - Equipamento náuticos.
+m)	Nas embarcações de grande porte ou iate, verificar visualmente se o arranjo da embarcação está de acordo com o Arranjo Geral aprovado. Devem ser verificados os compartimentos em relação ao seu posicionamento e destinação e, ainda, o posicionamento dos principais equipamentos da embarcação.
+
+2.	Itens Exclusivos para a Navegação Oceânica
+As embarcações destinadas à navegação oceânica deverão estar dotadas de equipamentos para este fim.
+a)	Verificar o funcionamento da bomba de esgoto manual;
+b)	Verificar o funcionamento da agulha magnética e a respectiva curva de desvio;
+c)	Verificar o funcionamento do equipamento rádio em HF, com potência suficiente para operar pelo menos a 75 milhas da costa, capaz de operar obrigatoriamente nas frequências Internacional de Socorro somente para embarcações que forem navegar a mais de 30 milhas da costa; e
+d)	Dotação de Pirotécnicos.
+Verificar a quantidade exigida (Capítulo 4), os prazos de validade, se os modelos são aprovados pela DPC (vide Catálogo de Material Homologado no sítio da DPC na internet).
+e)	Balsas Infláveis
+Verificar se a balsa possui Certificado de Homologação emitido pela DPC. O vistoriador deverá ter atenção quanto à revisão anual da balsa inflável, que só poderá ser aceita se efetuada em Estação de Manutenção Autorizada, e credenciada pelo fabricante.
+Em caso de dúvida consultar o Catálogo de Material Homologado na página da DPC na INTRANET ou na INTERNET ou e-mail para dpc.secom@marinha.mil.br.
+
+3.	Aprovação de Material
+	O vistoriador deverá estar com a lista de material homologado pela Diretoria de Portos e Costas e verificar se os equipamentos a bordo constam da lista. Caso algum dos materiais não conste, deverá ser solicitada cópia do Certificado de Homologação do Material.

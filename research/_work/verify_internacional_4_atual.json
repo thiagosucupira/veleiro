@@ -1,0 +1,207 @@
+{
+ "verdicts": [
+  {
+   "id": "internacional-121",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.filovent.com/uk/faq/destinations/greece/boating-licences-regulations-greece",
+   "notes": "Refetch 2026-10-07: frase de não-UE caso a caso presente; fonte é comercial (Filovent), não autoridade grega.",
+   "evidence_quote": "For non-EU licences (Switzerland, Norway, United States, etc.), we check on a case-by-case basis with the Greek partner"
+  },
+  {
+   "id": "internacional-122",
+   "verdict": "confirmado",
+   "evidence_url": "https://asa.com/",
+   "notes": "Refetch: title \"ASA | Generating value across generations\" e meta description de instituição financeira; americansailing.com é a ASA de vela.",
+   "evidence_quote": "We are an enduring and diversified financial institution offering a range of investment products, loans and financial services"
+  },
+  {
+   "id": "internacional-123",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/",
+   "notes": "Refetch confirma texto atual e que escolas afiliadas podem acrescentar requisitos.",
+   "evidence_quote": "Each certification requires participants to fully satisfy both knowledge and skills standards"
+  },
+  {
+   "id": "internacional-124",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/",
+   "notes": "Refetch confirma \"yours for life ... from the day your ASA instructor signs your Logbook\".",
+   "evidence_quote": "being ASA certified will be yours for life"
+  },
+  {
+   "id": "internacional-125",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-101-keelboat-sailing-1/",
+   "notes": "Refetch confirma FAQ sem pré-requisitos, para iniciantes.",
+   "evidence_quote": "There are no prerequisites"
+  },
+  {
+   "id": "internacional-126",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-101-keelboat-sailing-1/",
+   "notes": "Refetch confirma 20-27 pés, sloop, dia, vento até 15 nós.",
+   "evidence_quote": "sloop-rigged keelboat ranging from 20 to 27 feet"
+  },
+  {
+   "id": "internacional-127",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-101-keelboat-sailing-1/",
+   "notes": "Refetch confirma FAQ de duração (dois dias completos, varia por escola).",
+   "evidence_quote": "Most ASA 101 courses are taught over two full days"
+  },
+  {
+   "id": "internacional-128",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-103-Standards.pdf",
+   "notes": "PDF atual confirma 25-35 pés, dia, até 20 nós.",
+   "evidence_quote": "keelboat of approximately 25 to 35 feet in length by day in moderate winds (up to 20 knots)"
+  },
+  {
+   "id": "internacional-129",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-103-Standards.pdf",
+   "notes": "PDF atual lista ASA 101 como pré-requisito.",
+   "evidence_quote": "PREREQUISITES: ASA 101 - Keelboat 1"
+  },
+  {
+   "id": "internacional-130",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-103-Standards.pdf",
+   "notes": "PDF diz \"minimum of 24 on-water sailing hours is required\" sob o título RECOMMENDATIONS; afirmação literal correta, mas a obrigatoriedade é ambígua (seção de recomendações).",
+   "evidence_quote": "A minimum of 24 on-water sailing hours is required before undertaking ASA 103"
+  },
+  {
+   "id": "internacional-131",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-104-Standards.pdf",
+   "notes": "PDF atual lista ASA 101 e ASA 103 como pré-requisitos.",
+   "evidence_quote": "ASA 101 - Keelboat 1 / ASA 103 - Coastal Cruising"
+  },
+  {
+   "id": "internacional-132",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-104-Standards.pdf",
+   "notes": "PDF confirma (a checagem automática falhou só por hífens/quebra de linha): \"ASA recommends a minimum of 80 on-water sailing hours\".",
+   "evidence_quote": "ASA recommends a minimum of 80 on-water sailing hours before BAREBOAT CRUISING undertaking ASA 104"
+  },
+  {
+   "id": "internacional-133",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-104-bareboat-cruising/",
+   "notes": "Refetch confirma 30-45 pés, multi-day, até 30 nós.",
+   "evidence_quote": "approximately 30 to 45 feet in length during a multi-day cruise upon inland or coastal waters in moderate to heavy winds (up to 30 knots)"
+  },
+  {
+   "id": "internacional-134",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-104-Standards.pdf",
+   "notes": "PDF confirma item 28 (cruzeiro live-aboard costeiro de ao menos 48 h).",
+   "evidence_quote": "Perform the duties of skipper and crew on a live-aboard coastal cruise of at least 48 hours"
+  },
+  {
+   "id": "internacional-135",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-105-coastal-navigation/",
+   "notes": "Refetch confirma cartas, marés/correntes, plotagem, correção de corrente e abatimento, rumos verdadeiros/magnéticos e estimada (DR).",
+   "evidence_quote": "correcting for current and leeway, and converting between true and magnetic bearings"
+  },
+  {
+   "id": "internacional-136",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-106-Standards.pdf",
+   "notes": "Página atual mostra \"101 103 104 105\" (+ selo \"106\" da própria página) e o PDF 106 lista os mesmos quatro pré-requisitos; a falha da checagem automática é só de formato.",
+   "evidence_quote": "ASA 101, ASA 103, ASA 104, ASA 105 (PDF 106)"
+  },
+  {
+   "id": "internacional-137",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-106-Standards.pdf",
+   "notes": "PDF confirma 30-50 pés, até 200 milhas, 48 h incluindo 24 h contínuas.",
+   "evidence_quote": "about 30 to 50 feet in length in inland and near coastal waters (within 200 miles of shore)"
+  },
+  {
+   "id": "internacional-138",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-107-Standards.pdf",
+   "notes": "PDF atual lista apenas ASA 105 como pré-requisito.",
+   "evidence_quote": "ASA 105, Coastal Navigation"
+  },
+  {
+   "id": "internacional-139",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-107-celestial-navigation/",
+   "notes": "Refetch confirma Sol, Lua, estrelas, planetas, sextante, correções e cálculo de posição.",
+   "evidence_quote": "navigate by the sun, moon, stars, and planets"
+  },
+  {
+   "id": "internacional-140",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-108-Standards.pdf",
+   "notes": "PDF atual lista 101,103,104,105,106,107 e nota que ASA 117 pode substituir o 107.",
+   "evidence_quote": "It is possible to fulfill the prerequisites with either ASA 107, Celestial Navigation or the ASA 117"
+  },
+  {
+   "id": "internacional-141",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-108-Standards.pdf",
+   "notes": "PDF confirma item 34 (72 h e 100nm sem tocar terra).",
+   "evidence_quote": "Act as skipper and crew on an offshore passage of no less than 72 hours and 100nm without touching land"
+  },
+  {
+   "id": "internacional-142",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-108-Standards.pdf",
+   "notes": "PDF confirma item 1 com Ocean Passages for the World e climatic charts.",
+   "evidence_quote": "Plan a passage across the North Atlantic or Pacific ... utilizing Ocean Passages for the World, climatic charts"
+  },
+  {
+   "id": "internacional-143",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-114-Standards.pdf",
+   "notes": "PDF atual lista ASA 101, 103 e 104.",
+   "evidence_quote": "ASA 101 Keelboat Sailing 1 / ASA 103 / ASA 104"
+  },
+  {
+   "id": "internacional-144",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/wp-content/uploads/2025/02/Certification-ASA-118-Standards.pdf",
+   "notes": "PDF atual: experiência com veleiros a motor; ASA 103 recomendado, não exigido.",
+   "evidence_quote": "Experience handling sailboats under power. ASA 103 is recommended, but not required."
+  },
+  {
+   "id": "internacional-145",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-117-celestial-endorsement/",
+   "notes": "Refetch mostra \"Prerequisites: 105\" (o 117 seguinte é o selo da própria página).",
+   "evidence_quote": "Prerequisites: 105"
+  },
+  {
+   "id": "internacional-146",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/learn-to-sail/certifications/asa-117-celestial-endorsement/",
+   "notes": "Refetch confirma sextante tradicional e Nautical Almanac; Sol e Polaris para latitude/longitude.",
+   "evidence_quote": "using a traditional sextant and a Nautical Almanac"
+  },
+  {
+   "id": "internacional-147",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/international-proficiency-certificate/",
+   "notes": "Refetch confirma exigência de ASA 101, 103 e 104.",
+   "evidence_quote": "certified in up to at least ASA's 101, 103, and 104 courses"
+  },
+  {
+   "id": "internacional-148",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/international-proficiency-certificate/",
+   "notes": "Refetch confirma charter no Mediterrâneo, países que não aceitam ICC UNECE, e \"VHF endorsement from American Sailing\" no cartão.",
+   "evidence_quote": "designed specifically for charter companies in the Mediterranean ... countries who do not accept the UNECE's ICC"
+  },
+  {
+   "id": "internacional-149",
+   "verdict": "confirmado",
+   "evidence_url": "https://americansailing.com/schools/",
+   "notes": "Refetch: cabeçalho 356 escolas, 27 países listados (USA 210), Brasil ausente; soma por país dá 354, diferença trivial do cabeçalho.",
+   "evidence_quote": "356 American Sailing Schools Worldwide"
+  }
+ ]
+}

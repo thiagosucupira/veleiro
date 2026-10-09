@@ -1,0 +1,202 @@
+{
+ "verdicts": [
+  {
+   "id": "travessia-100",
+   "verdict": "confirmado",
+   "evidence_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "notes": "Texto da fonte idêntico: costa do Brasil, 07°00'N, 35°50'S, meridiano 020°W."
+  },
+  {
+   "id": "travessia-101",
+   "verdict": "confirmado",
+   "evidence_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "notes": "Fonte traz Inmarsat AOR-E 00:30/12:30 UTC, sem NAVTEX, internet e HF 0400Z/2130Z."
+  },
+  {
+   "id": "travessia-102",
+   "verdict": "confirmado",
+   "evidence_url": "https://iho.int/uploads/user/Inter-Regional%20Coordination/WWNWS/WWNWS16/WWNWS16_2024_3.2-V_EN_NAVAREA%20V%20Self%20Assessment.pdf",
+   "notes": "Fonte: treinamento Iridium jun/2024, início operacional previsto 01/01/2025 se concluídos trâmites."
+  },
+  {
+   "id": "travessia-103",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radio-nautico-tela/avisos-radio-nauticos-e-sar",
+   "notes": "Página CHM lista avisos por costa, NAVAREA V, hidrovias e SAR (homem ao mar, 'solicita-se aos navegantes...')."
+  },
+  {
+   "id": "travessia-104",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ 1 diz exatamente isso, citando Lei 7.273/1984."
+  },
+  {
+   "id": "travessia-105",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ 3: litoral até meridiano 10°W, ~1,6 vez o território nacional."
+  },
+  {
+   "id": "travessia-106",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ 6 lista 185/OM, GMDSS e navios SOLAS; RENEC conferida no contexto da pergunta (lista de alertas)."
+  },
+  {
+   "id": "travessia-107",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ 7 lista os seis centros com as sedes citadas (incoerência 'cinco' é da página)."
+  },
+  {
+   "id": "travessia-108",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ 2 contém a frase de pessoas que adoecem a bordo e evacuação médica."
+  },
+  {
+   "id": "travessia-109",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/salvamarbrasil/node/49",
+   "notes": "FAQ 8: CHM transmite avisos-rádio náuticos e, por solicitação do SALVAMAR, avisos-rádio SAR."
+  },
+  {
+   "id": "travessia-110",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/chm/dados-do-smm-alertas-meteorologicos-inmet/alertas-meteorologicos-inmet",
+   "notes": "Página CHM diz que o INMET emite alertas para o território nacional incl. áreas fluviais via Alert-AS."
+  },
+  {
+   "id": "travessia-111",
+   "verdict": "confirmado",
+   "evidence_url": "https://nomads.ncep.noaa.gov/",
+   "notes": "NOMADS lista GFS 0.25, 0.50, 1.00 e GFS Wave com grib filter e https."
+  },
+  {
+   "id": "travessia-112",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM-211 1.7: oceânica sem restrições além de 20 milhas da costa."
+  },
+  {
+   "id": "travessia-113",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Tabela do 4.35, item 14: oceânica exige Capitão-Amador como habilitação mínima."
+  },
+  {
+   "id": "travessia-114",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.13: balsas infláveis para 100% das pessoas, podendo ser classe II."
+  },
+  {
+   "id": "travessia-115",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.14: dotação ao menos igual ao nº de pessoas; oceânica Classe I (SOLAS)."
+  },
+  {
+   "id": "travessia-116",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.19.2 a) II: oceânica 2 aparelhos GNSS, com recomendação de fonte independente."
+  },
+  {
+   "id": "travessia-117",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.24.2 a): VHF DSC, HF DSC substituível por satelital/SPOT X/Iridium GO, EPIRB 406 MHz."
+  },
+  {
+   "id": "travessia-118",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.24.2 último parágrafo: veleiros com VHF no tope devem ter antena de emergência."
+  },
+  {
+   "id": "travessia-119",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "NORMAM 4.23.6: EPIRB no INFOSAR (DECEA) e código com dígito 710 (Brasil) + 6 dígitos."
+  },
+  {
+   "id": "travessia-120",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.23.8: embarcações com rádio devem obter licença de estação de navio na ANATEL."
+  },
+  {
+   "id": "travessia-121",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/43814",
+   "notes": "IRIS 10665/43814: título, '3rd ed.' e data 2007-12-31 conferidos nos metadados."
+  },
+  {
+   "id": "travessia-122",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/43814",
+   "notes": "IRIS lista os três ISBNs: 9789240682313 eletrônica, 9789241547383 brochura, 9789241547208 capa dura."
+  },
+  {
+   "id": "travessia-123",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/43814",
+   "notes": "Resumo IRIS contém 'particularly for crew members responsible for medical care on ships without a medical doctor' e ênfase nas primeiras 48 horas."
+  },
+  {
+   "id": "travessia-124",
+   "verdict": "confirmado",
+   "evidence_url": "https://iris.who.int/handle/10665/44341",
+   "notes": "IRIS 10665/44341: Quantification addendum, 2010-12-31, quantidades recomendadas de medicamentos."
+  },
+  {
+   "id": "travessia-125",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR Apêndice H traz sessão 3 de telemedicina com serviços de aconselhamento médico e lista o International Medical Guide for Ships como literatura."
+  },
+  {
+   "id": "travessia-126",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Prefácio da Pub. 151 diz que distâncias são entre posições de cada porto, em geral por rotas de passagem mais segura (milhas náuticas inferido da publicação)."
+  },
+  {
+   "id": "travessia-127",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 achada literalmente no verbete RECIFE com o valor citado."
+  },
+  {
+   "id": "travessia-128",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 achada literalmente no verbete RECIFE com o valor citado."
+  },
+  {
+   "id": "travessia-129",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 achada literalmente no verbete RECIFE com o valor citado."
+  },
+  {
+   "id": "travessia-130",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 achada literalmente no verbete RECIFE com o valor citado."
+  },
+  {
+   "id": "travessia-131",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 achada literalmente no verbete RECIFE com o valor citado."
+  },
+  {
+   "id": "travessia-132",
+   "verdict": "confirmado",
+   "evidence_url": "https://msi.nga.mil/api/publications/download?key=16694076/SFH00000/Pub151bk.pdf&type=view",
+   "notes": "Pub. 151 achada literalmente no verbete RECIFE com o valor citado."
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+/* provisoes — calculadora de provisões e autonomia. Só tokens. */
+.pv-raiz { container-type: inline-size; }
+.pv-modo button { min-height: 40px; }
+.pv-corpo { padding: var(--s-4); }
+@container (max-width: 520px) { .pv-corpo { padding: var(--s-3); } }
+
+.pv-cols { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: var(--s-5); align-items: start; }
+@container (min-width: 761px) { .pv-col-res { position: sticky; top: calc(var(--topbar-h) + var(--s-3)); } }
+@container (max-width: 760px) { .pv-cols { grid-template-columns: minmax(0, 1fr); } }
+
+/* formulário */
+.pv-form { display: flex; flex-direction: column; gap: var(--s-2); margin-bottom: var(--s-3); }
+.pv-grupo { border: 1px solid var(--line); border-radius: var(--r-panel); background: var(--surface); }
+.pv-grupo > summary { cursor: pointer; font-weight: 720; padding: 0 var(--s-4); min-height: 44px; display: flex; align-items: center; list-style: none; }
+.pv-grupo > summary::-webkit-details-marker { display: none; }
+.pv-grupo > summary::after { content: ""; margin-left: auto; width: 8px; height: 8px; border-right: 2px solid var(--ink-2); border-bottom: 2px solid var(--ink-2); transform: rotate(45deg) translate(-2px, -2px); transition: transform var(--dur); }
+.pv-grupo[open] > summary::after { transform: rotate(-135deg) translate(-2px, -2px); }
+.pv-grupo-corpo { padding: 0 var(--s-4) var(--s-3); display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-3) var(--s-4); align-items: end; }
+@container (max-width: 420px) { .pv-grupo-corpo { grid-template-columns: minmax(0, 1fr); } }
+.pv-campo { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.pv-campo:has(.pv-dica) { grid-column: 1 / -1; }
+.pv-campo label, .pv-rot { font-weight: 650; font-size: 0.93rem; }
+.pv-inp-linha { display: flex; align-items: center; gap: var(--s-2); }
+.pv-inp { max-width: 9em; text-align: right; font-variant-numeric: tabular-nums; }
+.pv-inp[aria-invalid="true"] { border-color: var(--erro); box-shadow: 0 0 0 1px var(--erro); }
+.pv-un { color: var(--ink-2); font-size: 0.93rem; white-space: nowrap; }
+.pv-sel { max-width: 12em; }
+.pv-dica { font-size: var(--fs--1); color: var(--ink-2); margin: 0; line-height: 1.45; }
+
+/* resultado */
+.pv-resumo { display: flex; flex-wrap: wrap; gap: var(--s-3) var(--s-5); margin-bottom: var(--s-3); }
+.pv-stat { display: flex; flex-direction: column; min-width: 0; }
+.pv-stat-v { font-size: var(--fs-2); font-weight: 780; line-height: 1.1; }
+.pv-stat-forte .pv-stat-v { font-size: var(--fs-3); color: var(--magenta); }
+.pv-stat-l { font-size: var(--fs--1); color: var(--ink-2); }
+.pv-dias { margin-bottom: var(--s-3); }
+.pv-barra { display: flex; height: 14px; border-radius: 999px; overflow: hidden; background: var(--shoal); }
+.pv-barra-base { background: var(--magenta); }
+.pv-barra-margem { background: repeating-linear-gradient(135deg, var(--magenta-soft) 0 5px, color-mix(in srgb, var(--magenta) 45%, var(--magenta-soft)) 5px 8px); }
+.pv-barra-leg { display: flex; gap: var(--s-4); font-size: var(--fs--1); color: var(--ink-2); margin-top: 4px; flex-wrap: wrap; }
+.pv-barra-leg span { display: inline-flex; align-items: center; gap: 6px; }
+.pv-q { display: inline-block; width: 12px; height: 12px; border-radius: 3px; }
+.pv-q-base { background: var(--magenta); }
+.pv-q-margem { background: repeating-linear-gradient(135deg, var(--magenta-soft) 0 3px, color-mix(in srgb, var(--magenta) 45%, var(--magenta-soft)) 3px 5px); border: 1px solid var(--magenta); }
+.pv-tabela { margin: var(--s-3) 0; }
+.pv-tabela table.tabela { font-size: 0.93rem; }
+.pv-tabela th, .pv-tabela td { padding: 8px 10px; }
+.pv-tabela tbody th { font-weight: 650; }
+.pv-tabela td { white-space: nowrap; }
+.pv-forte { font-weight: 760; }
+@container (max-width: 420px) { .pv-tabela th, .pv-tabela td { padding: 7px 6px; font-size: 0.86rem; } .pv-tabela td { white-space: normal; } }
+
+.pv-tanques { display: flex; flex-direction: column; gap: var(--s-3); margin: var(--s-3) 0; }
+.pv-tanque-cab { display: flex; flex-wrap: wrap; gap: 2px var(--s-3); justify-content: space-between; font-size: 0.93rem; }
+.pv-tanque-cab span { color: var(--ink-2); font-size: var(--fs--1); }
+.pv-tanque-barra { position: relative; height: 18px; margin: 4px 0; background: var(--paper); border: 1px solid var(--line); border-radius: 4px; overflow: hidden; }
+.pv-tanque-cap { position: absolute; left: 0; top: 0; bottom: 0; background: var(--shoal-2); }
+.pv-tanque-prec { position: absolute; left: 0; top: 5px; height: 6px; background: var(--ok); border-radius: 3px; }
+.pv-tanque-falta .pv-tanque-prec { background: var(--erro); }
+.pv-tanque-falta .pv-tanque-cab strong::after { content: " falta espaço"; font-weight: 650; font-size: var(--fs--1); color: var(--erro); margin-left: 6px; }
+
+.pv-formulas { margin: var(--s-3) 0; }
+.pv-formulas > summary { cursor: pointer; font-weight: 700; color: var(--magenta); min-height: 40px; display: flex; align-items: center; }
+.pv-formulas-corpo { font-size: 0.93rem; background: var(--shoal); border-radius: var(--r-input); padding: var(--s-3) var(--s-4); }
+.pv-formulas-corpo p { margin: 0 0 var(--s-2); }
+.pv-formulas-corpo p:last-child { margin: 0; }
+.pv-acoes { margin-top: var(--s-2); }
+
+/* lista */
+.pv-sec-lista { margin-top: var(--s-5); border-top: 1px solid var(--line); padding-top: var(--s-4); }
+.pv-lista-cab { display: flex; justify-content: space-between; align-items: baseline; gap: var(--s-3); flex-wrap: wrap; }
+.pv-lista-cab h3 { font-size: var(--fs-1); margin: 0; }
+.pv-contagem { font-weight: 700; color: var(--ink-2); font-size: 0.93rem; }
+.pv-lista-ctl { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-3); align-items: center; margin: var(--s-3) 0; }
+.pv-nav button { min-height: 40px; }
+.pv-lista { display: flex; flex-direction: column; gap: var(--s-2); }
+.pv-lista-grupo { border: 1px solid var(--line); border-radius: var(--r-panel); background: var(--surface); }
+.pv-lista-grupo > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: var(--s-3); min-height: 44px; padding: 0 var(--s-4); font-weight: 720; }
+.pv-lista-grupo > summary::-webkit-details-marker { display: none; }
+.pv-lista-grupo > summary::after { content: ""; width: 8px; height: 8px; border-right: 2px solid var(--ink-2); border-bottom: 2px solid var(--ink-2); transform: rotate(45deg) translate(-2px, -2px); transition: transform var(--dur); }
+.pv-lista-grupo[open] > summary::after { transform: rotate(-135deg) translate(-2px, -2px); }
+.pv-grupo-cont { margin-left: auto; font-size: var(--fs--1); font-weight: 700; color: var(--ink-2); background: var(--shoal); border-radius: var(--r-chip); padding: 1px 10px; }
+.pv-grupo-cont.pv-grupo-ok { background: var(--ok-soft); color: var(--ok); }
+.pv-lista-grupo .pv-itens { padding: 0 var(--s-3) var(--s-3); columns: 2 300px; column-gap: var(--s-5); }
+.pv-lista-grupo .pv-itens li { break-inside: avoid; }
+.pv-itens { list-style: none; margin: 0; padding: 0; }
+.pv-item { display: flex; gap: var(--s-3); align-items: flex-start; padding: 8px 4px; border-radius: var(--r-input); cursor: pointer; min-height: 40px; line-height: 1.45; }
+.pv-item:hover { background: var(--shoal); }
+.pv-item input { flex: none; margin-top: 3px; width: 20px; height: 20px; }
+.pv-item input:checked + span { color: var(--ink-2); }
+.pv-ref { font-size: var(--fs--1); color: var(--ink-2); white-space: normal; }
+
+/* exercício */
+.pv-ex-cab { display: flex; justify-content: space-between; align-items: baseline; gap: var(--s-3); flex-wrap: wrap; }
+.pv-ex-cab h3 { font-size: var(--fs-1); margin: 0 0 var(--s-2); }
+.pv-placar { font-size: var(--fs--1); color: var(--ink-2); font-weight: 650; }
+.pv-ex-form { max-width: 720px; }
+.pv-resp-linha { flex-wrap: wrap; }
+.pv-resp { max-width: 10em; }
+.pv-passos { margin: var(--s-2) 0; padding-left: 1.3em; }
+.pv-passos li { margin-bottom: 4px; }
+.pv-ex-acoes { margin-top: var(--s-3); }
+.pv-copia { width: 100%; font-size: 0.9rem; }
+
+/* impressão: só o conteúdo deste widget */
+.pv-print-root { display: none; }
+@media print {
+  body.pv-imprimindo > *:not(.pv-print-root) { display: none !important; }
+  body.pv-imprimindo .pv-print-root { display: block; color: #000; font-size: 11pt; }
+  .pv-impresso h2 { font-size: 15pt; margin: 0 0 6pt; }
+  .pv-impresso h3 { font-size: 12pt; margin: 10pt 0 4pt; }
+  .pv-impresso ul { margin: 0; padding-left: 14pt; }
+  .pv-impresso table { border-collapse: collapse; width: 100%; }
+  .pv-impresso th, .pv-impresso td { border: 1px solid #999; padding: 3pt 5pt; text-align: left; }
+}

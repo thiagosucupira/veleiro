@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela.",
+   "notes": "Art. 5.5.2 a (p. 5-7) confirmado no texto consolidado; o limite de 6 m vem do art. 1.7: 'são consideradas embarcações miúdas aquelas que tenham comprimento menor ou igual a seis (6) metros'. A página DPC node/3510 também descreve Veleiro como apto a embarcações a vela sem motor na navegação interior. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente.",
+   "notes": "Art. 5.5.2 b (p. 5-7), texto vigente. As tabelas 4.33-4.35 confirmam a mesma escala por área (colunas de médio e de grande porte). Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "HABILITAÇÃO (mínima) 5.3 Veleiro, Arrais ou Motonauta (conforme o tipo de embarcação) ARRAIS-AMADOR ARRAIS-AMADOR",
+   "notes": "A checagem automática falhou por causa do layout da tabela. Conferi a tabela 4.33, item 10 (p. 4-20, logo após o rodapé 4-19) no texto -layout: miúdas 'Veleiro, Arrais ou Motonauta (conforme o tipo de embarcação)'; médio porte e grande porte/iates 'ARRAIS-AMADOR'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Quando em navegação costeira: Mestre-Amador ... Quando em navegação interior: Arrais-Amador",
+   "notes": "Tabela 4.34, item 14, conferida no texto -layout para as duas colunas (médio porte e grande porte/iates). A checagem automática falhou só por causa do layout. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Quando em navegação oceânica: Capitão-Amador / Quando em navegação costeira: Mestre-Amador / Quando em navegação interior: Arrais-Amador",
+   "notes": "Tabela 4.35, item 14, conferida no texto -layout para as duas colunas. A checagem automática falhou só por causa do layout. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "NAVEGAÇÃO OCEÂNICA - aquela considerada sem restrições e realizada além das 20 milhas náuticas da costa.",
+   "notes": "A definição está no Glossário/art. 1.7 e no art. 4.7 ('fora dos limites de visibilidade da costa e sem outros limites estabelecidos (Capitão-Amador)'). A costeira vai até 20 MN (Mestre-Amador). A palavra 'transatlântica' não aparece na norma: é aplicação direta da definição. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Somente os condutores de dispositivos flutuantes e de embarcações miúdas sem propulsão mecânica ... estão dispensados da habilitação de amador.",
+   "notes": "Art. 5.5.6 (p. 5-11), texto vigente. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) cópia autenticada do documento oficial de identificação, com fotografia e dentro da validade. A autenticação poderá ser feita no próprio local de inscrição",
+   "notes": "Art. 5.4.1 a (p. 5-4), texto vigente. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-39",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) cópia autenticada do Cadastro de Pessoa Física (CPF)... Será aceito também o documento oficial de identificação que contenha o CPF;",
+   "notes": "Art. 5.4.1 b (p. 5-4), texto vigente. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "II) conta de luz, água, gás ou telefone, preferencialmente com CEP, a vencer ou com data de vencimento ocorrido há, até, 120 dias.",
+   "notes": "Art. 5.4.1 c (p. 5-4), texto vigente. O mesmo artigo traz o contrato de locação (I) e a Declaração de Residência: 'O modelo de Declaração de Residência encontra-se no anexo 2-G'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/",
+   "evidence_quote": "SERVIÇOS DA DIRETORIA E COMPROVANTE DE PAGAMENTO DA GRU",
+   "notes": "Art. 5.4.1 d confirmado no texto vigente. A home atual da DPC (2026-10-07) tem o link 'SERVIÇOS DA DIRETORIA E COMPROVANTE DE PAGAMENTO DA GRU' (/dpc/servicos-da-diretoria). A página https://www.marinha.mil.br/dpc/node/3510 diz para escolher Tipo de Serviço = 'Serviços Administrativos' / 'Inscrição para exame de habilitação de Amador e emissão da Carteira de Habilitação de Amador - CHA'."
+  },
+  {
+   "id": "normas-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "e) atestado médico, emitido há menos de um ano, que comprove bom estado psicofísico, incluindo limitações",
+   "notes": "Art. 5.4.1 e (p. 5-4), texto vigente. Os exemplos citados estão no texto: lentes de correção visual, aparelho de correção auditiva e 'restrição para condução de embarcações durante a noite'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O atestado médico é dispensável para os candidatos que apresentarem sua Carteira Nacional de Habilitação (CNH) dentro da validade.",
+   "notes": "Art. 5.4.1 e (p. 5-4), texto vigente. Ressalva no texto: 'A mesma observação da alínea anterior deve ser atendida', ou seja, a regra do laudo em caso de dúvida motora continua valendo. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deverá ser apresentado laudo médico circunstanciado ... O CP/DL/AG, por seu turno, agendará uma avaliação técnica",
+   "notes": "Art. 5.4.1 e, Observação (p. 5-4), texto vigente. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "deverá conter reconhecimento de firma em cartório ou assinatura digital pelo GOV.BR do representante legal da ETN, do instrutor e do aluno.",
+   "notes": "Art. 5.4.1 f (p. 5-4) confirmado no PDF vigente. O Anexo 5-E do ZIP de anexos (Obs. 1) repete a mesma exigência de firma ou assinatura GOV.BR. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-46",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "estabelecimentos de treinamento náutico/pessoas físicas devidamente credenciadas nas CP/DL/AG, conforme estabelecido na Seção II do Capítulo 6;",
+   "notes": "Art. 5.4.1, Notas (p. 5-5). O índice confirma o Cap. 6, 'SEÇÃO II. CREDENCIAMENTO DE ESTABELECIMENTOS E PESSOAS FÍSICAS PARA O TREINA[MENTO]'. O Anexo 5-A do ZIP (Seção II) diz que os instrutores são 'cadastradas pelas CP/DL/AG'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-47",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "2. PROCEDIMENTOS PARA O EXAME DE MESTRE-AMADOR a) Para a realização deste exame o candidato deverá ser habilitado na categoria de Arrais-Amador.",
+   "notes": "Anexo 5-A do ZIP, item 2 a. O art. 5.4.1, Notas (PDF vigente), confirma: 'habilitação na categoria de Arrais-Amador, dentro da validade'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "na categoria de Capitão-Amador, o candidato deverá possuir habilitação na categoria de Mestre-Amador, dentro da validade, ambos no ato da efetiva inscrição",
+   "notes": "Art. 5.4.1, Notas (p. 5-5), PDF vigente. O Anexo 5-A do ZIP, item 1 a, confirma: 'Para a realização deste exame o candidato deverá ser habilitado na categoria de Mestre-Amador'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "para a inscrição ao exame da categoria de Mestre-Amador, o candidato deverá possuir habilitação na categoria de Arrais-Amador, dentro da validade.",
+   "notes": "Conclusão por ausência. Conferi de forma independente: busquei 'experi', 'tempo', 'milhas', 'dias', 'singradura', 'embarcado' e 'prática' nos arts. 5.1-5.3 e 'experi', 'singradura', 'dias de mar', 'horas de nav', 'embarcado' nos Anexos 5-A do ZIP (incluindo o Ap I). Nenhum tempo mínimo de habilitação ou de mar aparece para MSA/CPA. Os únicos requisitos são a CHA anterior válida, os documentos do 5.4.1 e o exame. Vale confirmar na Capitania. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O exame para a habilitação nas categorias de ARA, MSA e CPA é constituído de prova escrita (ou eletrônica) no idioma português (Brasil), devendo o candidato possuir idade mínima de 18 (dezoito) anos e saber ler e escrever.",
+   "notes": "Art. 5.4.2 a (p. 5-5), texto vigente. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Em caráter excepcional e exclusivamente para a obtenção da CHA de ARA, ao candidato analfabeto que dependa de embarcação a motor como meio de locomoção e resida em locais remotos",
+   "notes": "Art. 5.4.2 a (p. 5-5), texto vigente. Também exige idade mínima de 18 anos, e a decisão cabe ao CP/DL/AG, 'dando ciência aos seus Comandos de Distritos Navais'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "como por exemplo em Clubes Náuticos, Marinas, Entidades Desportivas Náuticas, escolas públicas ou privadas",
+   "notes": "Art. 5.4.2 b (p. 5-5/5-6), texto vigente. Ressalvas no texto: pedido agendado com antecedência, conforme a disponibilidade da OM, e despesas pagas pelo solicitante (art. 38 da LESTA). Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "comprovante de pagamento da Guia de Recolhimento da União (GRU) referente a apenas um dos serviços ... além do atestado de treinamento náutico para Motonauta (anexo 3-B), constante da NORMAM-212/DPC.",
+   "notes": "Art. 5.4.2 c (p. 5-6), texto vigente. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Caso aprovado, emissão da CHA Digital e sua disponibilização no aplicativo “Gov.Br” ... se aprovado, captura da foto da CHA",
+   "notes": "Fluxograma do art. 5.4.3 (p. 5-6), texto vigente. Conferi as etapas: treinamento em ETN credenciado, GRU, agendamento eletrônico, documentos e agendamento do exame, exame e captura da foto, CHA Digital no Gov.Br. O art. 5.5.1 d também diz que a OM 'disponibilizará a CHA digital na base do aplicativo gov.br'. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Estes treinamentos deverão ser supervisionados por instrutores dos estabelecimentos de treinamento náutico ou pessoas físicas cadastradas pelas CP/DL/AG.",
+   "notes": "Anexo 5-A do ZIP, Seção II, item 1, que também diz que o atestado (anexo 5-E) é 'documento obrigatório para a inscrição'. O texto é idêntico ao do PDF consolidado. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Parte Teórica - 2h A parte teórica deverá ser ministrada necessariamente no ambiente de emprego da embarcação, estando atracada, fundeada, no berço, ou em movimento",
+   "notes": "Anexo 5-A do ZIP, Seção II, a, I. Diferença menor: o ZIP lista os tópicos 1.1-1.10, enquanto o PDF consolidado inclui 1.11 e 1.12 (combustíveis). Isso não afeta a afirmação. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-57",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Parte Prática - 4h A parte prática deverá ser ministrada pelo instrutor com a embarcação em movimento ... 2.4. demonstração da ação do leme e do hélice; 2.5. execução de manobra de atracação, desatracação, fundeio e suspender;",
+   "notes": "Anexo 5-A do ZIP, Seção II, a, II. Inclui 2.2 (luzes, marcas e sinais sonoros) e 2.3 (regras de governo). Igual ao PDF. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "cumpriu ______ horas de treinamento teórico e prático em (mínimo de seis horas)",
+   "notes": "Anexo 5-E do ZIP de anexos, igual ao PDF consolidado. Bate com 2 h teóricas + 4 h práticas do Anexo 5-A. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "O Atestado de Treinamento de Arrais Amador possui abrangência nacional e validade de 02 anos a partir da data de sua emissão",
+   "notes": "Anexo 5-E do ZIP, Obs. 1, igual ao PDF. Na versão do ZIP a Obs. 1 também acrescenta a exigência de firma reconhecida ou assinatura GOV.BR. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  },
+  {
+   "id": "normas-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Para o cômputo total das aulas práticas poderão ser aceitos mais de um atestado de treinamento para Arrais Amador desde que o tempo de treinamento não seja inferior a uma hora.",
+   "notes": "Anexo 5-E do ZIP, Obs. 3, igual ao PDF consolidado. Página-índice DPC (consultada 2026-10-07) lista NORMAM 211 com 'PORTARIA DPC/DGN/MB Nº 200, DE 27 DE FEVEREIRO DE 2026' como vigente; sem portaria posterior."
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+/* Marés (widget mares). Só tokens do design system; Sol e Lua usam as cores de luz (--nav-*). */
+.widget-mares .instrumento-corpo { padding: var(--s-4); background: var(--paper); display: flex; flex-direction: column; gap: var(--s-4); }
+.mr-topo { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: center; width: 100%; }
+.mr-topo .segmented button { min-height: 40px; }
+@media (max-width: 560px) {
+  /* celular: as três vistas empilhadas, sem divisórias soltas quando o grupo quebra de linha */
+  .mr-vistas { display: grid; grid-template-columns: minmax(0, 1fr); width: 100%; }
+  .mr-vistas button { border-right: 0; border-bottom: 1px solid var(--line); text-align: left; }
+  .mr-vistas button:last-child { border-bottom: 0; }
+}
+.mr-placar { margin-left: auto; font-size: var(--fs--1); font-weight: 700; color: var(--ink-2); }
+.mr-aviso { margin: 0; font-size: 0.95rem; background: var(--aviso-soft); border-left: 4px solid var(--aviso); padding: var(--s-2) var(--s-3); border-radius: 0 var(--r-input) var(--r-input) 0; }
+
+/* ---------- tábua no formato DHN ---------- */
+.mr-tabua { border: 1px solid var(--line); border-radius: var(--r-input); background: var(--surface); padding: var(--s-3); }
+.mr-tabua-cab p { margin: 0; font-size: var(--fs--1); color: var(--ink-2); line-height: 1.45; }
+.mr-tabua-cab .mr-tabua-porto { font-size: var(--fs-0); font-weight: 750; color: var(--ink); }
+.mr-tabua-cab .mr-tabua-periodo { margin-top: 2px; }
+.mr-dias { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 6px; margin-top: var(--s-3); }
+@media (max-width: 900px) { .mr-dias { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@media (max-width: 520px) { .mr-dias { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.mr-dia {
+  width: 100%; height: 100%; font: inherit; color: var(--ink); background: var(--paper); text-align: left;
+  border: 1px solid var(--line); border-radius: var(--r-input); padding: 6px 8px; cursor: pointer;
+  display: flex; flex-direction: column; gap: 1px; font-variant-numeric: tabular-nums;
+}
+.mr-dia:hover { border-color: var(--magenta); }
+.mr-dia[aria-pressed="true"] { border-color: var(--magenta); box-shadow: inset 0 0 0 1px var(--magenta); background: var(--magenta-soft); }
+.mr-dia-cab { display: flex; justify-content: space-between; align-items: center; gap: 4px; font-weight: 750; font-size: 0.9rem; margin-bottom: 2px; min-height: 18px; }
+.mr-ev { display: flex; justify-content: space-between; gap: var(--s-2); font-size: 0.9rem; }
+.mr-ev-pm .mr-ev-a { font-weight: 750; }
+.mr-ev-bm { color: var(--ink-2); }
+.mr-tabua-leg { margin: var(--s-2) 0 0; font-size: var(--fs--1); color: var(--ink-2); }
+.mr-fase-svg { vertical-align: -2px; flex: none; }
+.mr-lua-escura { fill: var(--ink-3); }
+.mr-lua-clara { fill: var(--nav-white); }
+.mr-lua-borda { fill: none; stroke: var(--ink); stroke-width: 1; }
+
+/* ---------- gráfico ---------- */
+.mr-graf { position: relative; }
+.mr-graf[hidden] { display: none; }
+.mr-svg { display: block; width: 100%; height: auto; touch-action: pan-y; cursor: ew-resize; font-family: var(--font); font-variant-numeric: tabular-nums; user-select: none; }
+.mr-grade { stroke: var(--line); stroke-width: 0.6; fill: none; opacity: 0.7; }
+.mr-eixo-txt { font-size: 12px; fill: var(--ink-2); }
+.mr-eixo-un { font-weight: 650; }
+.mr-agua { fill: var(--sea-2); opacity: 0.55; }
+.mr-curva { fill: none; stroke: var(--ink); stroke-width: 2.2; stroke-linejoin: round; }
+.mr-curva-doze { fill: none; stroke: var(--ink-2); stroke-width: 1.4; stroke-dasharray: 5 4; }
+.mr-nr { stroke: var(--ink); stroke-width: 1.2; }
+.mr-nr-txt, .mr-nm-txt { font-size: 12px; fill: var(--ink-2); font-weight: 650; paint-order: stroke; stroke: var(--paper); stroke-width: 3px; }
+.mr-nm { stroke: var(--ink-3); stroke-width: 1; stroke-dasharray: 2 4; }
+.mr-nec { stroke: var(--erro); stroke-width: 1.6; stroke-dasharray: 7 4; }
+.mr-nec-txt { font-size: 12px; font-weight: 750; fill: var(--erro); paint-order: stroke; stroke: var(--paper); stroke-width: 3.5px; }
+.mr-janela { fill: var(--ok-soft); opacity: 0.9; }
+.mr-ext { fill: var(--paper); stroke: var(--ink); stroke-width: 1.6; }
+.mr-ext-txt { font-size: 12px; font-weight: 700; fill: var(--ink); paint-order: stroke; stroke: var(--paper); stroke-width: 3.5px; }
+.mr-ext-fundo { fill: var(--paper); opacity: 0.88; }
+.mr-cur-linha { stroke: var(--magenta); stroke-width: 1.6; }
+.mr-cur-pt { fill: var(--magenta); stroke: var(--paper); stroke-width: 2; }
+.mr-cur-txt { font-size: 12px; font-weight: 800; fill: var(--magenta); paint-order: stroke; stroke: var(--paper); stroke-width: 4px; }
+.mr-faixa-box { display: flex; align-items: center; gap: var(--s-3); margin-top: var(--s-2); font-weight: 650; font-size: 0.95rem; }
+.mr-faixa-box[hidden] { display: none; }
+.mr-faixa { flex: 1; min-height: 40px; }
+.mr-faixa-rot { min-width: 3.2em; font-weight: 800; color: var(--magenta); }
+.mr-leg-graf { margin: var(--s-1) 0 0; font-size: var(--fs--1); color: var(--ink-2); }
+.mr-leg-l { display: inline-block; width: 22px; height: 0; border-top: 2px solid var(--ink); vertical-align: middle; }
+.mr-leg-doze { border-top: 2px dashed var(--ink-2); }
+.mr-leg-q { display: inline-block; width: 14px; height: 10px; background: var(--ok-soft); border: 1px solid var(--ok); vertical-align: middle; }
+
+/* ---------- painéis ---------- */
+.mr-painel { display: flex; flex-direction: column; gap: var(--s-3); }
+.mr-painel h4 { font-size: var(--fs-0); margin: 0 0 var(--s-1); }
+.mr-leitura { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s-2); }
+.mr-num { background: var(--shoal); border-radius: var(--r-input); padding: var(--s-2) var(--s-3); display: flex; flex-direction: column; min-width: 0; }
+.mr-num-rot { font-size: var(--fs--1); color: var(--ink-2); }
+.mr-num b { font-size: var(--fs-2); line-height: 1.15; }
+@media (max-width: 420px) { .mr-num b { font-size: var(--fs-1); } .mr-num { padding: 6px 8px; } }
+.mr-cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-4); }
+@media (max-width: 760px) { .mr-cols { grid-template-columns: minmax(0, 1fr); } }
+.mr-passos { margin: 0; padding-left: 1.3em; }
+.mr-passos li { margin-bottom: 4px; }
+.mr-nota { margin: 0; font-size: 0.95rem; color: var(--ink-2); }
+.mr-ref { margin: 0; font-size: var(--fs--1); color: var(--ink-2); }
+.mr-form { display: flex; flex-direction: column; gap: var(--s-2); }
+.mr-linha { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-3); align-items: flex-end; }
+.mr-campo { display: flex; flex-direction: column; gap: 2px; }
+.mr-campo-rot { font-size: var(--fs--1); font-weight: 650; color: var(--ink-2); }
+.mr-campo-in { display: inline-flex; align-items: center; gap: 4px; }
+.mr-campo input { width: 6em; min-height: 40px; padding: 4px 8px; font-size: var(--fs-0); }
+.mr-campo-largo select { width: 100%; min-height: 40px; }
+.mr-suf { color: var(--ink-2); font-weight: 650; }
+.mr-check { display: flex; gap: var(--s-2); align-items: flex-start; font-size: 0.95rem; cursor: pointer; min-height: 40px; }
+.mr-check input { margin-top: 3px; flex: none; }
+.mr-baixio { display: grid; grid-template-columns: minmax(0, 320px) minmax(0, 1fr); gap: var(--s-4); align-items: start; }
+@media (max-width: 760px) { .mr-baixio { grid-template-columns: minmax(0, 1fr); } }
+.mr-corte-fig { margin: 0; }
+.mr-corte-fig figcaption { font-size: var(--fs--1); color: var(--ink-2); }
+.mr-corte { width: 100%; height: auto; display: block; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-input); font-family: var(--font); font-variant-numeric: tabular-nums; }
+.mr-corte-agua { fill: var(--sea-2); opacity: 0.7; }
+.mr-corte-fundo { fill: var(--land); stroke: var(--land-ink); stroke-width: 1; }
+.mr-corte-sup { stroke: var(--sea-3); stroke-width: 2; }
+.mr-corte-casco { fill: var(--surface); stroke: var(--ink); stroke-width: 1.4; stroke-linejoin: round; }
+.mr-corte-txt { font-size: 12px; font-weight: 650; fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 3px; }
+.mr-cota { stroke: var(--ink-2); stroke-width: 1; fill: none; }
+.mr-corte-txt.mr-bom, .mr-cota.mr-bom { fill: var(--ok); stroke-color: var(--ok); }
+.mr-cota.mr-bom { stroke: var(--ok); }
+.mr-cota.mr-alerta { stroke: var(--erro); }
+.mr-corte-txt.mr-alerta, .mr-corte-txt.mr-mau { fill: var(--erro); }
+li.mr-bom { color: var(--ok); font-weight: 650; }
+li.mr-alerta, li.mr-mau { color: var(--erro); font-weight: 650; }
+
+/* ---------- Sol, Terra e Lua ---------- */
+.mr-lua { display: grid; grid-template-columns: minmax(0, 420px) minmax(0, 1fr); gap: var(--s-4); align-items: start; }
+@media (max-width: 760px) { .mr-lua { grid-template-columns: minmax(0, 1fr); } }
+.mr-lua-fig { margin: 0; }
+.mr-lua-fig figcaption { font-size: var(--fs--1); color: var(--ink-2); }
+.mr-lua-svg { width: 100%; height: auto; display: block; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-input); font-family: var(--font); }
+.mr-sol-disco { fill: var(--nav-yellow); stroke: var(--ink); stroke-width: 0.8; }
+.mr-sol-raio { stroke: var(--nav-yellow); stroke-width: 2.4; stroke-linecap: round; }
+.mr-orbita { fill: none; stroke: var(--line); stroke-width: 1.2; stroke-dasharray: 4 4; }
+.mr-envelope { fill: var(--sea-2); stroke: var(--sea-3); stroke-width: 1.4; opacity: 0.9; }
+.mr-terra { fill: var(--sea-3); stroke: var(--ink); stroke-width: 1; }
+.mr-eixo-lua { stroke: var(--ink-3); stroke-width: 1; stroke-dasharray: 2 3; }
+.mr-lua-rot { font-size: 14px; font-weight: 700; fill: var(--ink); }
+.mr-terra-rot { font-size: 14px; fill: var(--ink); paint-order: stroke; stroke: var(--sea-3); stroke-width: 2px; }
+.mr-lua-peq { font-size: 14px; font-weight: 600; fill: var(--ink-2); }
+.mr-lua-ctl { display: flex; flex-direction: column; gap: var(--s-3); min-width: 0; }
+.mr-lua-txt p { margin: 0 0 var(--s-2); }
+.mr-lua-nome { font-size: var(--fs-1); }
+.mr-amp { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: var(--s-2); align-items: center; margin-bottom: var(--s-2); font-size: var(--fs--1); color: var(--ink-2); }
+.mr-amp-v { font-weight: 800; color: var(--ink); }
+
+/* ---------- exercícios ---------- */
+.mr-enunciado { font-size: 1.02rem; }
+.mr-enunciado u { text-decoration-thickness: 2px; }
+[data-res="certa"] input { border-color: var(--ok); box-shadow: inset 0 0 0 1px var(--ok); }
+[data-res="errada"] input { border-color: var(--erro); box-shadow: inset 0 0 0 1px var(--erro); }
+.mr-feedback:empty { display: none; }
+.mr-feedback { background: var(--shoal); border-radius: var(--r-panel); padding: var(--s-3) var(--s-4); }
+.mr-feedback p { margin: 0 0 var(--s-2); }
+.mr-res { font-weight: 750; }
+.mr-res[data-ok="1"] { color: var(--ok); }
+.mr-res[data-ok="0"] { color: var(--erro); }
+.mr-res-sub { font-weight: 700; margin-top: var(--s-3) !important; }
+.widget-mares .alternativas { max-width: 760px; }
+@media (max-width: 520px) { .widget-mares .instrumento-corpo { padding: var(--s-2); } .mr-tabua { padding: var(--s-2); } }

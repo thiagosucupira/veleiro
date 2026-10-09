@@ -1,0 +1,192 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-travessia-1-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "OSR 1.01.2 diz apenas 'governmental authority'; a identificação NORMAM-211/DPC entre parênteses é glosa do autor, não texto da OSR."
+  },
+  {
+   "id": "extra-travessia-1-02",
+   "verdict": "divergente",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Prazo de validade é condicional ('if it has an expiry date') e vale durante a regata; a afirmação generaliza para todo equipamento.",
+   "correction": "Pela OSR 2.04.1, todo equipamento exigido deve funcionar, ser verificado, limpo e revisado regularmente; se tiver prazo de validade, não pode tê-lo excedido durante a regata; quando não estiver em uso, deve ser estivado de modo a minimizar a deterioração e ser de fácil acesso.",
+   "evidence_quote": "if it has an expiry date, it will not have exceeded its expiry date whilst racing"
+  },
+  {
+   "id": "extra-travessia-1-03",
+   "verdict": "divergente",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Omite a exceção da própria 3.01.2 para mastros autoportantes (free-standing).",
+   "correction": "Pela OSR 3.01.2–3.01.3, o barco deve ter enxárcias e ao menos um estai que permaneçam ligados ao mastro e ao barco durante a regata (não se aplica a barcos com mastro autoportante), dimensionado para suportar toda a carga de vela independentemente da carga da testa da vela de proa.",
+   "evidence_quote": "(not applicable to boats with free-standing masts)"
+  },
+  {
+   "id": "extra-travessia-1-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Texto e escopo conferem com 3.02.1."
+  },
+  {
+   "id": "extra-travessia-1-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Marcação Cat. 0–3 precede 3.02.5 na extração; inspeção interna e externa após encalhe não intencional confere."
+  },
+  {
+   "id": "extra-travessia-1-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "OSR usa LH (comprimento do casco), não LOA; o exemplo de 32 pés (~9,75 m) é plausível mas depende do LH real."
+  },
+  {
+   "id": "extra-travessia-1-07",
+   "verdict": "divergente",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Omite a exceção do item b): até duas escotilhas por bordo podem não atender ao requisito de ficar acima da água a 90°, desde que cada uma tenha menos de 0,071 m².",
+   "correction": "Pela OSR 3.08.2, escotilhas (inclusive de paióis) devem ser fixadas permanentemente, poder ser fechadas de imediato e permanecer firmemente fechadas num emborcamento de 180°; (Cat. 0 a 4) devem ficar acima da água com o barco adernado a 90°, admitindo-se até duas escotilhas por bordo que não atendam a esse item, cada uma com abertura menor que 0,071 m².",
+   "evidence_quote": "a boat may have a maximum of two hatches on each side of centreline that do not conform to the requirement in b), provided that the opening of each is less than 0.071 m2 (110 in2)"
+  },
+  {
+   "id": "extra-travessia-1-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Área de 4 furos de 20 mm para LH ≥ 8,5 m confere com 3.09.3 b)."
+  },
+  {
+   "id": "extra-travessia-1-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Texto de 3.10 confere, incluindo as exceções de embornais integrais e passagens de instrumentos."
+  },
+  {
+   "id": "extra-travessia-1-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.03 confere."
+  },
+  {
+   "id": "extra-travessia-1-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.23.1 a) confere (dois baldes, cabo, 9 L); a afirmação não restringe categoria, o que é compatível."
+  },
+  {
+   "id": "extra-travessia-1-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Marcação Cat. 0,1,2 da extração precede b); bombas manuais duas, uma de cima e outra de baixo, e funcionamento com escotilhas fechadas (3.23.2) conferem."
+  },
+  {
+   "id": "extra-travessia-1-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.12 confere."
+  },
+  {
+   "id": "extra-travessia-1-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.25.1 e 3.25.2 conferem, incluindo a exceção de enrolador para vela de proa."
+  },
+  {
+   "id": "extra-travessia-1-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.15.1 ('emergency tiller capable of being fitted to the rudder stock except when') e 4.15.2 conferem."
+  },
+  {
+   "id": "extra-travessia-1-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.16.1 e 4.16.2 conferem."
+  },
+  {
+   "id": "extra-travessia-1-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.06.1 confere: duas âncoras, Cat. 1–3, 5 minutos; exceção para < 8,5 m (uma âncora) não citada mas não contradita."
+  },
+  {
+   "id": "extra-travessia-1-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.28.3 b) confere; marcação Cat. 0–3 precede b)."
+  },
+  {
+   "id": "extra-travessia-1-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.28.4 a) e c) conferem (c: bateria dedicada quando a partida elétrica é o único método)."
+  },
+  {
+   "id": "extra-travessia-1-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.28.1 b) (1,8 × √LWL m / √LWL ft, Cat. 0–3) e c) (inboard, Cat. 0–2 monocascos) conferem."
+  },
+  {
+   "id": "extra-travessia-1-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.05.1 e 4.05.2 conferem; a marcação Cat. 1–3 precede 4.05.2 (extintores), e a manta vale para todas as categorias."
+  },
+  {
+   "id": "extra-travessia-1-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.25 confere."
+  },
+  {
+   "id": "extra-travessia-1-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.21.1 (flutuação, 0,1 m² de cor visível, nome, cabo e mosquetão) e 4.21.2 (uma por balsa, Cat. 1–2, acessível emborcado) conferem."
+  },
+  {
+   "id": "extra-travessia-1-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Os temas de 6.02.1–6.02.15 conferem com a lista; a lista da afirmação é não exaustiva e não contradiz a fonte."
+  },
+  {
+   "id": "extra-travessia-1-25",
+   "verdict": "divergente",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "Omite a exceção iii: em barcos com data de série anterior a 1993 a abertura vertical pode chegar a 560 mm.",
+   "correction": "Pela OSR 3.14.1 b), as retrancas de segurança (lifelines) e os púlpitos devem ter altura mínima de 600 mm (24 pol) na linha superior e 230 mm (9 pol) na intermediária, e a abertura vertical não deve passar de 380 mm (560 mm em barcos com data de série anterior a 1993).",
+   "evidence_quote": "except that on a boat with a series date before 1993 where it shall be no greater than 560 mm (22\")"
+  },
+  {
+   "id": "extra-travessia-1-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "4.12 confere."
+  },
+  {
+   "id": "extra-travessia-1-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice L (leme): mancal, eixo, pá, emendas e teste de deflexão da ponta conferem."
+  },
+  {
+   "id": "extra-travessia-1-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf",
+   "notes": "Apêndice L (quilha, interno): backing plates, bolting, keel floors, corrosão de fixadores; externo: trincas de tensão. Conferem."
+  },
+  {
+   "id": "extra-travessia-1-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.27.3 e 3.27.4 conferem; marcação Cat. 0–3 precede 3.27.3."
+  },
+  {
+   "id": "extra-travessia-1-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf",
+   "notes": "3.21.1 b) (Cat. 1; bomba e dois compartimentos) confere."
+  }
+ ]
+}

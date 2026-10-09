@@ -1,0 +1,81 @@
+{
+ "claims": [
+  {
+   "id": "extra-fechamento-am-01",
+   "topic": "radio-gmdss",
+   "claim": "A página da Anatel sobre o GMDSS define a área A1 como a área dentro da cobertura de VHF de ao menos uma estação costeira, com alerta DSC contínuo, a cerca de 20 milhas da costa; a área A2 (MF), a cerca de 100 a 300 milhas. O material de apoio ao exame de Radiotelefonista da Anatel dá outros números (A1 de 30 a 50 milhas), então as milhas são ordem de grandeza, não definição única.",
+   "source_url": "https://www.gov.br/anatel/pt-br/regulado/outorga/servico-movel-maritimo/em-1979-a-organizacao-maritima-internacional-imo-reconhecendo-a-necessidade-de-implementar-o-sistema-de-comunicacao-maritima-decidiu-dar-inicio-a-implantacao-de-um-novo-sistema-de-socorro-e-seguranca-conhecido-como-sistema-global-de-socorro-e-seguranca",
+   "locator": "Anatel, Serviço Móvel Marítimo, página sobre o GMDSS, definição das áreas marítimas A1 e A2",
+   "quote": "área dentro da cobertura de um sistema de radiotelefonia de no mínimo uma estação costeira que opere em VHF, cerca de 20 milhas da costa, na qual esteja disponível o alerta DSC contínuo.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Fecha a pendência de arrais-3 m13 l1 (revisão cética). Complementa extra-radio-1-07, cujo status 'a confirmar' vem da divergência 30-50 x 20 milhas."
+  },
+  {
+   "id": "extra-fechamento-am-02",
+   "topic": "salvatagem-colete",
+   "claim": "O governo de Nova Gales do Sul (Transport for NSW, Austrália) não recomenda colete salva-vidas inflável para crianças com menos de 12 anos e recomenda colete com cinta entre as pernas. É orientação estrangeira, não regra brasileira; a NORMAM-211 só exige coletes de tamanho pequeno para crianças.",
+   "source_url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment/children-and-lifejackets",
+   "locator": "Transport for NSW, página \"Children and lifejackets\"",
+   "quote": "Inflatable lifejackets are not recommended for children aged under 12 years. [...] A lifejacket with a crotch strap is recommended.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Fonte oficial estrangeira. Para o lado brasileiro, ver extra-arrais-3-04 (NORMAM-211, art. 4.14: 'coletes de tamanho pequeno para as crianças'; busca no texto consolidado não achou regra sobre colete inflável para criança). Fecha a pendência de arrais-3 m11 l1."
+  },
+  {
+   "id": "extra-fechamento-am-03",
+   "topic": "penalidades",
+   "claim": "Pelo art. 12, I, do RLESTA, não possuir a documentação relativa à habilitação ou ao controle de saúde dá multa do grupo D.",
+   "source_url": "https://www.planalto.gov.br/ccivil_03/decreto/d2596.htm",
+   "locator": "Decreto nº 2.596/1998, art. 12, I",
+   "quote": "I - não possuir a documentação relativa à habilitação ou ao controle de saúde: Penalidade: multa do grupo D;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Reformulação do claim de normas-168, que diz só 'não possuir a habilitação', mais curto que a citação literal. O app já usa o texto da citação. Se aprovado, o bloco normas-168 de arrais-3 m15 l4 pode apontar para este id. A frase do app sobre o art. 11 (conduzir sem ser habilitado, grupo E) não faz parte deste claim e depende de outro fato (ver normas relativas ao art. 11)."
+  },
+  {
+   "id": "extra-fechamento-am-04",
+   "topic": "equipamentos-de-navegacao",
+   "claim": "Pela NORMAM-211 (art. 4.19.3), embarcações de grande porte ou iates construídos após 11/02/2000 devem ter radar de 9 GHz (se classificadas para navegação costeira ou oceânica) e ecobatímetro; para as embarcações menores o emprego é recomendado.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.19.3 a) e b), p. 4-10",
+   "quote": "a) Radar - as embarcações de grande porte, ou iates, construídas após 11/02/2000, classificadas para a navegação costeira ou oceânica, deverão ser dotadas de radar capaz de operar na faixa de frequência de 9 GHz. Para as embarcações menores o seu emprego é recomendado; b) Ecobatímetro - as embarcações de grande porte, ou iates, construídas após 11/02/2000, deverão estar equipadas com um ecobatímetro. Para as embarcações menores o seu emprego é recomendado",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui a redação de extra-mestre-3-02, que usava 'só' (exclusividade que a norma não afirma). Os textos de mestre-3 m9 l4 e do flashcard msa3-17 já seguem esta redação; ao confirmar, trocar o ref."
+  },
+  {
+   "id": "extra-fechamento-am-05",
+   "topic": "lotacao",
+   "claim": "Pela NORMAM-211 (art. 3.27.1), a lotação das embarcações é determinada pelos estaleiros construtores; quando o estaleiro não fornece o dado, ou a embarcação é de fabricação artesanal, a lotação segue as normas de lotação de passageiros e de peso máximo de carga (PMC) das NORMAM-201 ou 202.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 3, art. 3.27.1, p. 3-9",
+   "quote": "As embarcações deverão ter suas lotações determinadas pelos estaleiros construtores. Quando por qualquer motivo este dado não for disponibilizado pelo estaleiro construtor ou quando se tratar de embarcação de fabricação artesanal, a determinação da lotação deverá ser estabelecida utilizando as normas para lotação de passageiros e do peso máximo de carga (PMC)",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui extra-arrais-3-43, cujo claim omitia a exceção. O bloco de mestre-3 m13 l3 já traz a exceção; ao confirmar, trocar o ref."
+  },
+  {
+   "id": "extra-fechamento-am-06",
+   "topic": "provas-cpa",
+   "claim": "A página da DPC do exame de Capitão-Amador publica provas e gabaritos desde 2017 (em 2017 só 'Prova e Gabarito'); as relações de aprovados aparecem a partir de 2018.",
+   "source_url": "https://www.marinha.mil.br/dpc/exame-para-a-categoria-de-capitao-amador",
+   "locator": "Página \"Exame para Categoria de Capitão Amador\", listas por ano (2017 e 2018)",
+   "quote": "2018 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito CPA-2 - Relação dos Aprovados ... 2017 Exame CPA-1 - Prova e Gabarito CPA-2 - Prova e Gabarito",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui normas-90 (diz 'listas de aprovados desde 2017'). O texto de mestre-3 m14 l3 já usa esta redação; ao confirmar, trocar o ref."
+  },
+  {
+   "id": "extra-fechamento-am-07",
+   "topic": "provas-arrais",
+   "claim": "Na Capitania dos Portos da Bahia (CPBA), a página do Arrais-Amador diz que as provas ocorrem de segunda a sexta-feira, em computadores dedicados, com 40 questões. A página não trata do Mestre-Amador; para o MSA, as 40 questões vêm do Anexo 5-A da NORMAM-211.",
+   "source_url": "https://www.marinha.mil.br/cpba/node/386",
+   "locator": "CPBA node/386, \"O que é?\" e Etapa 6 (Arrais-Amador)",
+   "quote": "As provas ocorrem na Capitania de segunda a sexta-feira, e são realizadas em computadores dedicados a essa finalidade, constando de 40 questões.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Substitui taxas-28 (diz 'ARA e MSA'). O texto de mestre-3 m14 l4 já fala só do Arrais-Amador na CPBA; ao confirmar, trocar o ref."
+  }
+ ]
+}

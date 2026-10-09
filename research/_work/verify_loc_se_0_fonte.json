@@ -1,0 +1,154 @@
+{
+ "verdicts": [
+  {
+   "id": "loc_se-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Itens 5.5.2 a (facultativa, miúdas, só à vela) e texto seguinte (ARA/MSA/CPA) conferem."
+  },
+  {
+   "id": "loc_se-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Observação literal na página CPRJ, atualizada 28/09/2026."
+  },
+  {
+   "id": "loc_se-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cprj/entnaut",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpsp/sites/www.marinha.mil.br.cpsp/files/2026-09/ESTABELECIMENTOS%20NAUTICOS%20ATU%20EM%2029SET2026.pdf",
+   "notes": "Trecho literal confere com o contexto da fonte oficial."
+  },
+  {
+   "id": "loc_se-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cpes/node/33",
+   "notes": "Página CPES (cabeçalho: Atestado de Embarque p/ Arrais-Amador) lista a Horizonte Azul em Vitória."
+  },
+  {
+   "id": "loc_se-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfmg/escolas-nauticas",
+   "notes": "Consta na lista CFMG com CNPJ e 'Ltda', ou seja, empresa privada."
+  },
+  {
+   "id": "loc_se-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/cfmg/escolas-nauticas",
+   "notes": "Empresa consta na lista CFMG; 'sem site' é nota de pesquisa, não afirmação da fonte."
+  },
+  {
+   "id": "loc_se-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.feverj.org.br/contato.html",
+   "notes": "Autodeclaração literal confere; o site FEVERJ também tem aba Calendário e avisos de regata."
+  }
+ ]
+}

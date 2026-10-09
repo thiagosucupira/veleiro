@@ -1,0 +1,112 @@
+{
+ "verdicts": [
+  {
+   "id": "ext-gr-lefkada-sail-ionian",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-gr-kefalonia-seafarer-training",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-gr-alimos-academy-of-yachting-athens",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-gr-poros-greek-sails",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-hr-split-seafarer-training",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-ag-english-harbour-ondeck-antigua",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-ag-jolly-harbour-second-star-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-gd-st-georges-grenada-bluewater-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-gd-lance-aux-epines-ltd-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-vi-st-thomas-go-sail-virgin-islands",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-lc-rodney-bay-igy-rodney-bay-marina",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-cv-mindelo-marina-mindelo",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-us-fort-lauderdale-blue-water-sailing-school",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-us-fort-lauderdale-deep-blue-sea-training",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-us-annapolis-annapolis-sailing-school",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-us-annapolis-chronic-sailing",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-us-san-diego-learn-to-sail-san-diego",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  },
+  {
+   "id": "ext-online-crewbay",
+   "verdict": "ok",
+   "http_ok": true,
+   "notes": "Site e fonte abrem (2xx; Grenada Bluewater 406 só para curl simples, abre com UA de navegador); título e conteúdo coerentes com a entidade e os cursos."
+  }
+ ]
+}

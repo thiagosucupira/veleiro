@@ -1,0 +1,186 @@
+{
+ "verdicts": [
+  {
+   "id": "tecnico-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-15",
+   "notes": "Texto COLREG Regra 15 (IALA/USCG) idêntico; RIPEAM sem alteração posterior."
+  },
+  {
+   "id": "tecnico-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-16",
+   "notes": "Regra 16 COLREG: 'take early and substantial action to keep well clear' confere."
+  },
+  {
+   "id": "tecnico-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-17",
+   "notes": "Regra 17(a)(i) confere: a outra mantém rumo e velocidade."
+  },
+  {
+   "id": "tecnico-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-17",
+   "notes": "Regra 17(b) confere (ação que melhor ajude a evitar a colisão)."
+  },
+  {
+   "id": "tecnico-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-18",
+   "notes": "Caput da Regra 18 confere: 'Except where Rules 9, 10 and 13 otherwise require'."
+  },
+  {
+   "id": "tecnico-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-18",
+   "notes": "Regra 18(a)(i)-(iv) confere."
+  },
+  {
+   "id": "tecnico-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-18",
+   "notes": "Regra 18(b)(i)-(iii) confere."
+  },
+  {
+   "id": "tecnico-38",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-19",
+   "notes": "Regra 19(d)(i) confere (exceto embarcação alcançada em ultrapassagem)."
+  },
+  {
+   "id": "tecnico-39",
+   "verdict": "divergente",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-19",
+   "notes": "Texto oficial diz 'mínimo que lhe permita manter seu rumo' (minimum at which she can be kept on her course), não 'mínimo de governo'; além disso, se necessário, retirar todo o seguimento.",
+   "correction": "Regra 19(e): reduzir a velocidade ao mínimo que permita manter o rumo (e, se necessário, retirar todo o seguimento), navegando com extrema cautela até passar o perigo de abalroamento.",
+   "evidence_quote": "deve reduzir sua velocidade ao mínimo que lhe permita manter seu rumo"
+  },
+  {
+   "id": "tecnico-40",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-20",
+   "notes": "Regra 20(b) confere: luzes do pôr ao nascer do Sol."
+  },
+  {
+   "id": "tecnico-41",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-21",
+   "notes": "Luz de mastro 225°, da proa a 22,5° a ré do través, confere (IALA/busca)."
+  },
+  {
+   "id": "tecnico-42",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-21",
+   "notes": "Bordos 112,5° cada, verde BE e encarnada BB; confere."
+  },
+  {
+   "id": "tecnico-43",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-21",
+   "notes": "Combinação em lanterna única no eixo para <20 m consta da Regra 21(b); confere."
+  },
+  {
+   "id": "tecnico-44",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-21",
+   "notes": "Luz de alcançado 135° (67,5° de cada bordo da popa) confere."
+  },
+  {
+   "id": "tecnico-45",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-21",
+   "notes": "Luz de reboque amarela com as características da de alcançado; confere."
+  },
+  {
+   "id": "tecnico-46",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-21",
+   "notes": "Luz circular 360° confere."
+  },
+  {
+   "id": "tecnico-47",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-21",
+   "notes": "Luz intermitente: 120 lampejos/min ou mais; confere."
+  },
+  {
+   "id": "tecnico-48",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-22",
+   "notes": "Regra 22(a) >=50 m: 6/3/3/3/3 milhas confere."
+  },
+  {
+   "id": "tecnico-49",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-22",
+   "notes": "Regra 22(b): mastro 5 milhas, ou 3 se <20 m; confere."
+  },
+  {
+   "id": "tecnico-50",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-22",
+   "notes": "Regra 22(b): demais luzes 2 milhas para 12 a <50 m; confere."
+  },
+  {
+   "id": "tecnico-51",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-22",
+   "notes": "Regra 22(c) <12 m: mastro 2, bordos 1, demais 2; confere."
+  },
+  {
+   "id": "tecnico-52",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-23",
+   "notes": "Regra 23(a)(ii) confere: <50 m não obrigada à segunda luz de mastro, mas pode."
+  },
+  {
+   "id": "tecnico-53",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-23",
+   "notes": "Regra 23(d)(i) confere: circular branca e luzes de bordos em vez das de (a)."
+  },
+  {
+   "id": "tecnico-54",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-25",
+   "notes": "Regra 25(a) confere: bordos e alcançado."
+  },
+  {
+   "id": "tecnico-55",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-25",
+   "notes": "Regra 25(b) confere: lanterna combinada no tope do mastro para <20 m."
+  },
+  {
+   "id": "tecnico-56",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-25",
+   "notes": "Regra 25(c) confere: encarnada sobre verde, não junto da lanterna combinada."
+  },
+  {
+   "id": "tecnico-57",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-25",
+   "notes": "Regra 25(e) confere: cone com vértice para baixo a vante."
+  },
+  {
+   "id": "tecnico-58",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-26",
+   "notes": "Regra 26(b)(i) confere: verde sobre branca ou dois cones unidos pelos vértices."
+  },
+  {
+   "id": "tecnico-59",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-26",
+   "notes": "Regra 26(c)(i) confere: encarnada sobre branca."
+  },
+  {
+   "id": "tecnico-60",
+   "verdict": "confirmado",
+   "evidence_url": "https://ialacolreg.com/en/colreg/rule-27",
+   "notes": "Regra 27(a)(i)-(ii) confere: duas circulares encarnadas / duas esferas."
+  }
+ ]
+}

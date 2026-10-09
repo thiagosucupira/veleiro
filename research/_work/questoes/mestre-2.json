@@ -1,0 +1,613 @@
+{
+ "questoes": [
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 1,
+   "enunciado": "Às 1020 você marca um farol aos <b>125°</b> (marcação verdadeira) e quer traçar a reta de marcação na carta, partindo do farol. Em qual direção, a partir do farol, está o barco?",
+   "alternativas": [
+    "Na direção 305°, a recíproca, porque a marcação vai do barco ao farol.",
+    "Na direção 125°, a mesma da marcação, porque a reta passa pelo farol nesse rumo.",
+    "Na direção 215°, perpendicular à marcação, que é onde fica o barco.",
+    "Na direção 035°, perpendicular à marcação, que é onde fica o barco."
+   ],
+   "correta": 0,
+   "explicacao": "A marcação é a direção do barco para o objeto. Vista do farol, a direção do barco é a oposta: 125° + 180° = 305°. Traçar 125° a partir do farol colocaria o barco do lado errado, depois dele. As direções 215° e 035° são perpendiculares à reta e não têm relação com a observação.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I, cap. 4, item 4.2 (reta de marcação)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 1,
+   "enunciado": "Com a bússola de mão (desvio desprezível), você marca uma ponta aos <b>200°</b>. A declinação magnética atualizada da área é <b>18° W</b>. Que marcação verdadeira você traça na carta?",
+   "alternativas": [
+    "218°, porque 200° + 18° = 218°, somando a declinação.",
+    "200°, pois a carta já está em graus magnéticos.",
+    "020°, a recíproca de 200°, sem considerar a declinação.",
+    "182°, porque a declinação W subtrai: 200° − 18° = 182°."
+   ],
+   "correta": 3,
+   "explicacao": "Mv = Mag + Dag + Dec, com E somando e W subtraindo. Sem desvio, 200° − 18° = 182°. Somar a declinação W (218°) é o erro de sinal mais comum. A carta é traçada em verdadeiro, então não se usa 200° direto. A recíproca não entra na conversão e daria outra direção.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 (conversão de marcações)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 1,
+   "enunciado": "Você enxerga quatro pontos notáveis, com estas marcações verdadeiras: farol A 040°, torre B 070°, ponta C 135° e pico D 160°. Para uma posição por <b>duas</b> marcações, qual dos pares abaixo dá o melhor ângulo de cruzamento?",
+   "alternativas": [
+    "Farol A e torre B, que se cruzam a 30°, os dois mais próximos na carta.",
+    "Farol A e ponta C, que se cruzam a 95°, quase o ideal de 90°.",
+    "Ponta C e pico D, que se cruzam a 25°, ambos bem definidos.",
+    "Torre B e ponta C, que se cruzam a 65°, o ângulo mais próximo de 60°."
+   ],
+   "correta": 1,
+   "explicacao": "Com duas LDP, o ângulo ideal é 90° (180° dividido por 2), e se evitam cruzamentos menores que 30° ou maiores que 150°. A e C cruzam a 135° − 040° = 95°. A e B (30°) e C e D (25°) dão uma área de incerteza comprida e enganosa. B e C (65°) são aceitáveis, mas piores que 95°; o ideal de 60° vale para três LDP, não para duas.",
+   "referencia": "Miguens, vol. I, cap. 4, item 4.5.3 (seleção dos pontos de apoio)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 1,
+   "enunciado": "Ao navegar junto à costa, você vê o pico de um morro exatamente atrás da torre de uma igreja. Os dois estão representados na carta. O que essa observação informa?",
+   "alternativas": [
+    "O barco está num ponto exato, porque o alinhamento já é uma posição.",
+    "O barco está sobre a reta que une os dois, a meia distância entre eles.",
+    "O barco está sobre a reta que passa pelos dois, sem saber em que ponto dela.",
+    "O barco está sobre a perpendicular à reta que une os dois objetos."
+   ],
+   "correta": 2,
+   "explicacao": "Objetos vistos um atrás do outro formam um alinhamento, que é uma LDP: o barco está na reta que os contém, do lado de fora, mas a observação não diz a que distância. É preciso cruzar com outra LDP para obter o ponto. O alinhamento não dá posição por si só. O barco não fica entre os objetos nem na perpendicular: ele os vê um atrás do outro.",
+   "referencia": "Miguens, vol. I, cap. 4, item 4.2, alínea a (alinhamento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 2,
+   "enunciado": "Para achar o desvio da agulha, você navega com a proa exatamente sobre um alinhamento da carta, cujo rumo <b>verdadeiro</b> é <b>062°</b>. A declinação atualizada é <b>21° W</b> e a agulha de governo marca <b>085°</b>. Qual é o desvio da agulha para essa proa?",
+   "alternativas": [
+    "2° W",
+    "2° E",
+    "23° W",
+    "44° W"
+   ],
+   "correta": 0,
+   "explicacao": "Rumo magnético = Rv − Dec = 062° − (−21°) = 083°. Desvio = Rmg − Rag = 083° − 085° = −2°, ou seja, 2° W (a agulha lê mais que o rumo magnético). 2° E tem o sinal invertido. 23° W esquece a declinação, e 44° W aplica a declinação W com sinal trocado.",
+   "referencia": "Miguens, vol. I, cap. 3 (determinação do desvio da agulha por alinhamento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 2,
+   "enunciado": "O radar dá <b>3,0 M</b> até uma ilha e <b>4,0 M</b> até uma ponta. As duas circunferências de distância se cruzam em dois pontos: um muito perto da posição estimada e outro a 12 M dela, do outro lado das ilhas. Como decidir?",
+   "alternativas": [
+    "Adotar o ponto mais afastado da costa, por ser o mais seguro.",
+    "Adotar o ponto médio entre os dois cruzamentos, que reparte o erro.",
+    "Adotar qualquer um dos dois, pois as circunferências têm o mesmo valor.",
+    "Adotar o ponto mais próximo da posição estimada e confirmar com outra LDP."
+   ],
+   "correta": 3,
+   "explicacao": "Duas circunferências se cruzam em dois pontos; a posição estimada, que é a melhor informação que se tem, desfaz a ambiguidade, e uma terceira LDP confirma. Escolher só pela distância à costa não tem base na observação. O ponto médio não pertence a nenhuma das duas circunferências. E os dois cruzamentos não são equivalentes: só um deles é onde o barco está.",
+   "referencia": "Miguens, vol. I, cap. 4, itens 4.3 e 4.5 (posição por LDP de distância)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 2,
+   "enunciado": "Suas três marcações formaram um triângulo de uns 1,5 M por lado, bem maior do que o esperado para marcações cuidadosas. Não há perigos por perto. O que fazer?",
+   "alternativas": [
+    "Adotar o centro do triângulo, que é a posição mais provável.",
+    "Descartar a posição, procurar o erro e tirar nova posição.",
+    "Adotar o vértice mais próximo da costa, por segurança.",
+    "Descartar a marcação mais curta e adotar o cruzamento das outras."
+   ],
+   "correta": 1,
+   "explicacao": "Um triângulo pequeno permite adotar o centro; um triângulo grande indica erro grosseiro (objeto trocado, declinação, régua escorregada), e a regra é abandonar a posição e observar de novo. O vértice mais próximo do perigo só vale quando existe perigo perto. Descartar uma marcação sem saber qual está errada deixa só duas LDP, que não denunciam erro.",
+   "referencia": "Miguens, vol. I, cap. 4, item 4.5.4 (triângulo de incerteza)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 2,
+   "enunciado": "O ecobatímetro mostra a profundidade abaixo do transdutor, instalado a <b>0,5 m</b> sob a superfície, e marca <b>14,5 m</b>. A maré no instante está <b>1,8 m acima</b> do nível de redução. Que profundidade você compara com as isóbatas da carta?",
+   "alternativas": [
+    "16,8 m",
+    "12,7 m",
+    "13,2 m",
+    "12,2 m"
+   ],
+   "correta": 2,
+   "explicacao": "A profundidade real é a lida mais a profundidade do transdutor: 15,0 m. As sondagens da carta são referidas ao nível de redução; com a água 1,8 m acima dele, subtrai-se a maré: 13,2 m. Somar a maré (16,8 m) inverte o sinal. 12,7 m esquece o transdutor. 12,2 m subtrai o transdutor em vez de somá-lo.",
+   "referencia": "Miguens, vol. I, cap. 4, item 4.2, alínea d (isóbata como LDP)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 2,
+   "enunciado": "Sem corrente, rumo verdadeiro <b>090°</b> e <b>6,0 nós</b>. Às 1000 você marca um farol aos <b>000°</b> e, às 1030, aos <b>315°</b>. Qual é a distância ao farol às 1030?",
+   "alternativas": [
+    "4,2 M",
+    "3,0 M",
+    "2,1 M",
+    "6,0 M"
+   ],
+   "correta": 0,
+   "explicacao": "Às 1000 o farol estava ao norte; o barco foi 3,0 M para leste (6 nós × 0,5 h). Às 1030 a marcação 315° significa que o farol está a noroeste, com afastamentos iguais: 3,0 M ao norte e 3,0 M a oeste. Distância = 3,0 × √2 ≈ 4,2 M. A regra \"distância igual à navegada\" vale quando a segunda marcação polar é o dobro da primeira (aqui são 90° e 135°, que não são). 2,1 M e 6,0 M não correspondem a nenhuma relação do triângulo.",
+   "referencia": "Miguens, vol. I, cap. 6, itens 6.2 e 6.3 (marcações sucessivas)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 3,
+   "enunciado": "Rumo verdadeiro <b>090°</b>, <b>6,0 nós</b> na água, corrente de <b>180°</b> (para o sul) com <b>2,0 nós</b>. Às 1000 você marca um farol aos <b>000°</b> e, às 1030, aos <b>315°</b>. Qual era a distância ao farol às 1000?",
+   "alternativas": [
+    "3,0 M",
+    "2,0 M",
+    "4,0 M",
+    "1,0 M"
+   ],
+   "correta": 1,
+   "explicacao": "Em 30 min o barco se desloca 3,0 M para leste (superfície) e 1,0 M para o sul (corrente). Às 1000 o farol está ao norte, a s milhas. Às 1030 o barco está 3,0 M a leste e (s + 1,0) M ao sul do farol, e a marcação 315° exige afastamentos iguais: s + 1,0 = 3,0, logo s = 2,0 M. Sem corrente seria 3,0 M. Com a corrente invertida (para o norte) daria 4,0 M. E 1,0 M é só o vetor da corrente.",
+   "referencia": "Miguens, vol. I, cap. 6, itens 6.2 e 6.3 (transporte de LDP com corrente)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 3,
+   "enunciado": "Rumo verdadeiro <b>000°</b>, <b>6,0 nós</b>, sem corrente. Às 1200 um farol em <b>23°00,0′ S, 043°00,0′ W</b> está a 30° por boreste da proa; às 1230, a 60° por boreste. Qual é a posição às 1230? (Use cos 23° ≈ 0,92.)",
+   "alternativas": [
+    "23°01,5′ S e 042°57,2′ W.",
+    "22°58,5′ S e 043°02,8′ W.",
+    "23°01,5′ S e 043°02,8′ W.",
+    "23°01,5′ S e 043°02,6′ W."
+   ],
+   "correta": 2,
+   "explicacao": "A segunda marcação polar (60°) é o dobro da primeira (30°), então a distância ao farol é a navegada: 6,0 × 0,5 = 3,0 M. A marcação verdadeira do farol é 000° + 60° = 060°, e o barco está a 240° do farol: 1,5 M ao sul (latitude 23°01,5′ S) e 2,6 M a oeste. Em longitude, 2,6 ÷ 0,92 ≈ 2,8′ para oeste: 043°02,8′ W. 042°57,2′ W põe o barco a leste (como se fosse por bombordo). 22°58,5′ S o põe ao norte. 043°02,6′ W esquece de converter o afastamento em longitude.",
+   "referencia": "Miguens, vol. I, cap. 6, item 6.3.4 (marcações duplas) e cap. 1 (afastamento e longitude)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Linhas de posição",
+   "dificuldade": 3,
+   "enunciado": "A rosa da carta traz declinação <b>21°00′ W</b> (2012), aumentando <b>6′ por ano</b> para W. Estamos em 2026. A curva de desvios dá <b>4° E</b> para a proa em uso e a agulha de governo lê <b>105°</b> para um farol. Qual é a marcação verdadeira? (Aproxime a declinação a 0,5°.)",
+   "alternativas": [
+    "088,0°",
+    "078,5°",
+    "131,5°",
+    "086,5°"
+   ],
+   "correta": 3,
+   "explicacao": "Em 14 anos a declinação cresce 14 × 6′ = 84′ para W: 21°00′ + 1°24′ = 22°24′, que se aproxima a 22,5° W. Mv = Mag + Dag + Dec = 105° + 4° − 22,5° = 86,5°. Sem atualizar a declinação, o resultado seria 88,0°. 78,5° trata o desvio E como se fosse W. 131,5° soma a declinação W, o erro de sinal clássico.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 (declinação e desvio na marcação)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro navega a <b>7,5 nós</b>. Quanto ele percorre em <b>40 minutos</b>?",
+   "alternativas": [
+    "3,0 M",
+    "5,0 M",
+    "4,5 M",
+    "18,8 M"
+   ],
+   "correta": 1,
+   "explicacao": "Distância = velocidade × tempo, com o tempo em horas: 40 min = 40/60 h ≈ 0,667 h, e 7,5 × 0,667 = 5,0 M. Escrever 40 min como 0,4 h (3,0 M) ou 0,6 h (4,5 M) confunde minutos com décimos de hora. Dividir em vez de multiplicar (18,8 M) é erro de operação.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.2 (distância, velocidade e tempo)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 1,
+   "enunciado": "Uma Carta de Correntes de Maré indica, num trecho, corrente de <b>rumo 270°</b> e <b>2 nós</b>. O que isso significa?",
+   "alternativas": [
+    "A água vem do oeste a 2 nós e empurra o barco para o leste.",
+    "O barco ganha 2 nós de velocidade, qualquer que seja o seu rumo.",
+    "A água corre para o oeste a 2 nós, empurrando o barco nessa direção.",
+    "O vento sopra do oeste a 2 nós e a água o acompanha."
+   ],
+   "correta": 2,
+   "explicacao": "O rumo da corrente é para onde a água flui: 270° é oeste. Quem a descreve pelo lado de onde vem é o vento, não a corrente. Por isso a água \"vindo do oeste\" inverte a convenção. A corrente só soma velocidade ao barco quando age a favor; contra ou de través ela muda o efeito. Corrente e vento são grandezas diferentes.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.5 (rumo da corrente)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro navega com <b>5,0 nós</b> na água, rumo na superfície 090°, e a corrente tem <b>rumo 090°</b> e <b>1,5 nó</b>. Qual é a velocidade no fundo?",
+   "alternativas": [
+    "6,5 nós",
+    "3,5 nós",
+    "5,0 nós",
+    "7,5 nós"
+   ],
+   "correta": 0,
+   "explicacao": "Com a corrente na mesma direção e sentido do barco, o vetor fundo é a soma: 5,0 + 1,5 = 6,5 nós. 3,5 nós valeria se a corrente fosse contrária. O odômetro mede a velocidade na água, mas o que importa para a chegada é a velocidade no fundo, que é diferente. Multiplicar velocidades não tem sentido físico.",
+   "referencia": "Miguens, vol. I, cap. 5, itens 5.5 e 5.6 (corrente e velocidade no fundo)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro sai às <b>0915</b> para uma boia a <b>20 M</b>, com <b>6 nós</b> de velocidade no fundo. Qual é a hora estimada de chegada?",
+   "alternativas": [
+    "1248",
+    "1255",
+    "1215",
+    "1235"
+   ],
+   "correta": 3,
+   "explicacao": "Tempo = 20 ÷ 6 ≈ 3,33 h. A parte decimal 0,33 h vale 0,33 × 60 = 20 min, então 3 h 20 min, e 0915 + 3 h 20 = 1235. Ler 3,33 h como 3 h 33 min (1248) mistura décimos de hora com minutos. 3 h 40 min (1255) e 3 h exatas (1215) não correspondem ao tempo calculado.",
+   "referencia": "Miguens, vol. I, cap. 5, itens 5.2 e 5.7 (hora de chegada)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 2,
+   "enunciado": "Rumo na superfície 090°, 6 nós. Às 1200 você tinha uma posição observada. Às 1500, a posição observada ficou <b>1,8 M</b> no <b>rumo 135°</b> da estimada das 1500. Qual é a corrente?",
+   "alternativas": [
+    "Rumo 315° e 0,6 nó",
+    "Rumo 135° e 0,6 nó",
+    "Rumo 135° e 1,8 nós",
+    "Rumo 135° e 5,4 nós"
+   ],
+   "correta": 1,
+   "explicacao": "A corrente é o vetor que vai da estimada para a observada da mesma hora: rumo 135°. Sua velocidade é a distância dividida pelo tempo desde a última observada: 1,8 ÷ 3 = 0,6 nó. 315° seria a direção de onde a água vem. 1,8 nós esquece de dividir pelo tempo, e 5,4 nós multiplica em vez de dividir.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.7, alínea a (determinação da corrente)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 2,
+   "enunciado": "Veja o esquema. Rumo na superfície <b>090°</b>, <b>6,0 nós</b>; corrente de <b>180°</b>, <b>2,0 nós</b>. Quais são, aproximadamente, o rumo e a velocidade no fundo?",
+   "alternativas": [
+    "Rumo 072° e 6,3 nós.",
+    "Rumo 108° e 8,0 nós.",
+    "Rumo 108° e 6,3 nós.",
+    "Rumo 090° e 6,3 nós."
+   ],
+   "correta": 2,
+   "explicacao": "Os vetores formam um triângulo retângulo: 6,0 para leste e 2,0 para o sul. O fundo tem √(6² + 2²) ≈ 6,3 nós e se desvia arctg(2/6) ≈ 18° para o sul, isto é, para a direita da proa: 090° + 18° = 108°. 072° desvia para o lado errado (norte). 8,0 nós soma as velocidades como se a corrente fosse de popa. 090° ignora que a corrente de través desvia o caminho.",
+   "referencia": "Miguens, vol. I, cap. 5, itens 5.5 e 5.7 (triângulo de corrente)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 200\" role=\"img\" aria-label=\"Esquema fora de escala: vetor da superfície rumo 090° com 6,0 nós, vetor da corrente rumo 180° com 2,0 nós, e o vetor do fundo ligando o início ao fim\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"6\" y=\"6\" width=\"308\" height=\"188\" rx=\"8\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\"/><line x1=\"40\" y1=\"60\" x2=\"220\" y2=\"60\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><path d=\"M220 60 l-10 -5 v10 z\" fill=\"var(--ink)\"/><line x1=\"220\" y1=\"60\" x2=\"220\" y2=\"120\" stroke=\"var(--ink)\" stroke-width=\"2.5\" stroke-dasharray=\"6 4\"/><path d=\"M220 120 l-5 -10 h10 z\" fill=\"var(--ink)\"/><line x1=\"40\" y1=\"60\" x2=\"220\" y2=\"120\" stroke=\"var(--nav-red)\" stroke-width=\"2.5\"/><circle cx=\"40\" cy=\"60\" r=\"6\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g fill=\"var(--ink)\" font-size=\"12\" font-family=\"sans-serif\"><text x=\"60\" y=\"48\">superfície: 090° · 6,0 nós</text><text x=\"228\" y=\"92\">corrente:</text><text x=\"228\" y=\"106\">180° · 2,0 nós</text><text x=\"56\" y=\"130\" fill=\"var(--nav-red)\">fundo: rumo e velocidade?</text></g>\n</svg>"
+   }
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 2,
+   "enunciado": "Você quer manter o rumo no fundo <b>000°</b>. A velocidade do barco na água é <b>6 nós</b> e a corrente tem <b>rumo 090°</b> e <b>3 nós</b>. Qual é, aproximadamente, o rumo a governar?",
+   "alternativas": [
+    "330°",
+    "030°",
+    "000°",
+    "300°"
+   ],
+   "correta": 0,
+   "explicacao": "A corrente vem de través e empurra o barco para leste (BE). Para anular a componente lateral, a proa vai para o lado oposto, de modo que 6 · sen θ = 3, logo sen θ = 0,5 e θ = 30°: 000° − 30° = 330°. 030° corrige para o lado errado e aumenta o desvio. 000° ignora a corrente. 300° vem de arccos(0,5) = 60°, que não é a relação certa.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.7, alínea d (rumo a governar)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 2,
+   "enunciado": "A posição estimada das 1000 está em <b>23°30,0′ S</b>. Há uma corrente de <b>rumo 000°</b> e <b>1,5 nó</b> atuando desde a última posição observada, feita 2 h antes. Qual é a latitude da posição estimada corrigida?",
+   "alternativas": [
+    "23°33,0′ S",
+    "23°28,5′ S",
+    "23°30,0′ S",
+    "23°27,0′ S"
+   ],
+   "correta": 3,
+   "explicacao": "A estimada corrigida soma à estimada o vetor corrente pelo tempo decorrido: 1,5 nó × 2 h = 3,0 M para 000° (norte). No Hemisfério Sul, ir para o norte diminui a latitude: 23°30,0′ − 3,0′ = 23°27,0′ S. Ir para o sul (23°33,0′) inverte o sentido da corrente. 1,5 M esquece de multiplicar pelo tempo. E uma corrente para o norte muda sim a latitude.",
+   "referencia": "Miguens, vol. I, cap. 5, itens 5.5 e 5.7 (estimada corrigida)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 2,
+   "enunciado": "A proa de um veleiro aponta para <b>090°</b>. O vento sopra de <b>000°</b> (do norte) e o abatimento medido é de <b>4°</b>. Qual é, aproximadamente, o caminho na água?",
+   "alternativas": [
+    "086°",
+    "094°",
+    "090°",
+    "004°"
+   ],
+   "correta": 1,
+   "explicacao": "O vento é indicado pela direção de onde sopra e empurra o barco para sotavento. Vindo do norte, ele empurra para o sul, que para quem vai a leste é a direita: o caminho na água é 090° + 4° = 094°. 086° inverte o lado: o barco abate para sotavento, nunca para barlavento. Em popa o abatimento praticamente some, mas aqui o vento é de través. 004° soma o abatimento à direção do vento, o que não tem sentido.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.4 (efeito do vento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 2,
+   "enunciado": "O rumo <b>verdadeiro</b> a governar é <b>120°</b>. A declinação é <b>21° W</b> e o desvio da agulha para essa proa é <b>3° W</b>. Qual é o rumo da agulha a passar ao timoneiro?",
+   "alternativas": [
+    "096°",
+    "138°",
+    "144°",
+    "102°"
+   ],
+   "correta": 2,
+   "explicacao": "Do verdadeiro para a agulha, os sinais se invertem: Rmg = Rv − Dec = 120° − (−21°) = 141°, e Rag = Rmg − Dag = 141° − (−3°) = 144°. 096° subtrai as duas correções, aplicando o sentido da conversão inversa. 138° acerta a declinação, mas erra o sinal do desvio. 102° erra o sinal da declinação.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 (conversão de rumos)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 2,
+   "enunciado": "Depois de navegar <b>25 M</b> desde a última posição observada, a posição estimada tem uma incerteza que, de forma empírica, vale cerca de que raio?",
+   "alternativas": [
+    "2,5 M",
+    "0,25 M",
+    "5 M",
+    "12,5 M"
+   ],
+   "correta": 0,
+   "explicacao": "O Manual admite, de forma empírica, que a estimada é consistente a cerca de 10% da distância navegada desde a última posição observada: 25 M × 0,10 = 2,5 M. Esse raio forma a zona de probabilidade. Perto de perigo, a estimada deve ser tratada como esse círculo, não como um ponto. 1%, 20% e 50% não correspondem ao critério do Manual.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.8 (consistência da estimada)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 3,
+   "enunciado": "Você quer chegar, em <b>3 h</b>, a um ponto a <b>12 M</b> no rumo <b>000°</b>. A corrente tem <b>rumo 090°</b> e <b>3,0 nós</b>. Quais são o rumo e a velocidade na água necessários?",
+   "alternativas": [
+    "Rumo 037° e 5,0 nós",
+    "Rumo 323° e 4,0 nós",
+    "Rumo 000° e 4,0 nós",
+    "Rumo 323° e 5,0 nós"
+   ],
+   "correta": 3,
+   "explicacao": "A velocidade no fundo necessária é 12 ÷ 3 = 4,0 nós para o norte. O vetor superfície é o fundo menos a corrente: 4,0 para o norte e 3,0 para oeste, ou seja, √(4² + 3²) = 5,0 nós, e a proa fica arctg(3/4) ≈ 37° a oeste do norte: 323°. 037° corrige para o lado da corrente e aumenta o desvio. 4,0 nós é a velocidade no fundo, não na água. E ignorar a corrente deixaria o barco 9 M a leste do ponto.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.7, alínea c (chegar a um ponto numa hora marcada)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 3,
+   "enunciado": "Veja o croqui. Você saiu de A às <b>0800</b> (posição observada) no rumo <b>090°</b>, a <b>6,0 nós</b>. Às <b>1000</b>, a posição observada ficou <b>3,0 M ao sul</b> da estimada. Quais são a corrente e o abatimento?",
+   "alternativas": [
+    "Corrente 180° e 1,5 nó; abatimento de cerca de 14° para BE.",
+    "Corrente 180° e 1,5 nó; abatimento de cerca de 14° para BB.",
+    "Corrente 000° e 1,5 nó; abatimento de cerca de 14° para BE.",
+    "Corrente 180° e 3,0 nós; abatimento de cerca de 14° para BE."
+   ],
+   "correta": 0,
+   "explicacao": "A corrente vai da estimada para a observada: rumo 180°, e 3,0 M em 2 h dão 1,5 nó. O caminho no fundo (A até a observada) tem 12 M para leste e 3 M para o sul, logo rumo 090° + arctg(3/12) ≈ 104°. O ângulo entre a proa (090°) e o fundo (104°) é o abatimento, e o sul fica à direita de quem vai a leste, isto é, para BE. BB seria o lado oposto. Rumo 000° inverte o sentido. 3,0 nós esquece de dividir pelas 2 horas.",
+   "referencia": "Miguens, vol. I, cap. 5, itens 5.5 a 5.7 (corrente e abatimento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 190\" role=\"img\" aria-label=\"Croqui fora de escala: de A, a estimada das 1000 fica 12 milhas a leste; a posição observada das 1000 fica 3,0 milhas ao sul da estimada\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"6\" y=\"6\" width=\"308\" height=\"178\" rx=\"8\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\"/><line x1=\"40\" y1=\"60\" x2=\"260\" y2=\"60\" stroke=\"var(--ink)\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><line x1=\"260\" y1=\"60\" x2=\"260\" y2=\"110\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"60\" x2=\"260\" y2=\"110\" stroke=\"var(--nav-red)\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"60\" r=\"5\" fill=\"var(--ink)\"/><circle cx=\"260\" cy=\"60\" r=\"5\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\"/><circle cx=\"260\" cy=\"110\" r=\"6\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g fill=\"var(--ink)\" font-size=\"12\" font-family=\"sans-serif\"><text x=\"22\" y=\"44\">A · 0800</text><text x=\"120\" y=\"50\">090° · 6,0 nós · 2 h</text><text x=\"196\" y=\"42\">estimada 1000</text><text x=\"270\" y=\"114\">observada</text><text x=\"270\" y=\"128\">1000</text><text x=\"196\" y=\"90\">3,0 M</text><text x=\"60\" y=\"140\" fill=\"var(--nav-red)\">caminho no fundo</text></g>\n</svg>"
+   }
+  },
+  {
+   "tema": "Navegação estimada e corrente",
+   "dificuldade": 3,
+   "enunciado": "A estimada das 1000 está em <b>23°30,0′ S, 042°50,0′ W</b>. A corrente tem <b>rumo 090°</b> e <b>1,5 nó</b>, atuando há 2 h. Qual é a posição estimada corrigida? (Use cos 23,5° ≈ 0,92.)",
+   "alternativas": [
+    "23°30,0′ S e 042°53,3′ W",
+    "23°30,0′ S e 042°47,0′ W",
+    "23°30,0′ S e 042°46,7′ W",
+    "23°30,0′ S e 042°47,2′ W"
+   ],
+   "correta": 2,
+   "explicacao": "A corrente desloca o barco 1,5 × 2 = 3,0 M para leste, sem mudar a latitude. Em longitude, o afastamento se divide pelo cosseno da latitude: 3,0 ÷ 0,92 ≈ 3,3′. Indo para leste, a longitude W diminui: 042°50,0′ − 3,3′ = 042°46,7′ W. Somar (042°53,3′ W) inverte o sentido. Usar 3,0′ esquece a conversão e multiplicar pelo cosseno (2,8′) faz a conversão ao contrário.",
+   "referencia": "Miguens, vol. I, cap. 1 (afastamento e diferença de longitude) e cap. 5, item 5.5",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro vai de <b>23°45,0′ S</b> até <b>22°15,0′ S</b>, ambos no mesmo meridiano. Quais são o rumo verdadeiro e a distância?",
+   "alternativas": [
+    "Rumo 180° e 90 M",
+    "Rumo 000° e 90 M",
+    "Rumo 000° e 130 M",
+    "Rumo 000° e 1,5 M"
+   ],
+   "correta": 1,
+   "explicacao": "A diferença de latitude é 23°45′ − 22°15′ = 1°30′ = 90′. Um minuto de latitude vale uma milha, então são 90 M, e a latitude Sul diminui, isto é, o rumo é norte (000°). 180° iria para o sul. 130 M trata 1°30′ como 130′ em vez de 90′. 1,5 M confunde graus com milhas.",
+   "referencia": "Miguens, vol. I, cap. 1, itens 1.6 e 1.7.1",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro deve navegar no rumo <b>verdadeiro 045°</b>. A declinação é <b>20° W</b> e o desvio da agulha é desprezível. Qual é o rumo magnético correspondente?",
+   "alternativas": [
+    "025°",
+    "045°",
+    "065°",
+    "245°"
+   ],
+   "correta": 2,
+   "explicacao": "Do rumo verdadeiro para o magnético, subtrai-se a declinação com seu sinal (W é negativa): 045° − (−20°) = 065°. Subtrair 20° (025°) aplica o sentido da conversão contrária, que vai do magnético para o verdadeiro. Os dois só coincidem com declinação zero. A recíproca é outro rumo, 180° adiante, que nada tem a ver com a declinação.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 (conversão de rumos)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro percorreu <b>15 M</b> em <b>2 h 30 min</b>. Qual foi a velocidade média?",
+   "alternativas": [
+    "6,0 nós",
+    "6,5 nós",
+    "7,5 nós",
+    "37,5 nós"
+   ],
+   "correta": 0,
+   "explicacao": "Velocidade = distância ÷ tempo, com o tempo em horas: 2 h 30 min = 2,5 h, então 15 ÷ 2,5 = 6,0 nós. Escrever 2 h 30 como 2,3 h dá 6,5 nós. Ignorar os 30 minutos dá 7,5 nós. E multiplicar em vez de dividir dá 37,5, um valor impossível para um veleiro.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.2",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 1,
+   "enunciado": "Você quer chegar a uma boia às <b>1600</b>. Ela está a <b>18 M</b> e o seu veleiro faz <b>4 nós</b> no fundo. A que horas deve largar?",
+   "alternativas": [
+    "1110",
+    "1200",
+    "2030",
+    "1130"
+   ],
+   "correta": 3,
+   "explicacao": "Tempo de viagem = 18 ÷ 4 = 4,5 h = 4 h 30 min. Para chegar às 1600, larga-se 4 h 30 antes: 1130. Ler 4,5 h como 4 h 50 (1110) mistura décimos de hora com minutos. 4 h exatas (1200) desprezam a meia hora. Somar ao horário de chegada (2030) dá a hora de chegada de quem saísse às 1600, não a de largada.",
+   "referencia": "Miguens, vol. I, cap. 5, itens 5.2 e 5.7",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 2,
+   "enunciado": "De A, o ponto B fica <b>24′ ao norte</b> em latitude e a um <b>afastamento de 18 M para o leste</b> (veja o croqui). Quais são o rumo verdadeiro e a distância de A a B?",
+   "alternativas": [
+    "Rumo 053° e 30 M",
+    "Rumo 037° e 30 M",
+    "Rumo 037° e 42 M",
+    "Rumo 053° e 42 M"
+   ],
+   "correta": 1,
+   "explicacao": "O rumo é o ângulo a partir do norte: tg R = afastamento ÷ diferença de latitude = 18 ÷ 24 = 0,75, logo R ≈ 037°. A distância é a hipotenusa: √(24² + 18²) = 30 M. 053° usaria 24 ÷ 18, que mede o ângulo a partir do leste. 42 M soma os catetos em vez de calcular a hipotenusa.",
+   "referencia": "Miguens, vol. I, cap. 1 (navegação por rumo e distância)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf",
+   "figura": {
+    "svg": "<svg viewBox=\"0 0 320 200\" role=\"img\" aria-label=\"Croqui fora de escala: de A até B há 24 minutos de latitude para o norte e 18 milhas de afastamento para o leste\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"6\" y=\"6\" width=\"308\" height=\"188\" rx=\"8\" fill=\"var(--sea-1)\" stroke=\"var(--sea-3)\"/><line x1=\"70\" y1=\"160\" x2=\"190\" y2=\"160\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><line x1=\"190\" y1=\"160\" x2=\"190\" y2=\"40\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><line x1=\"70\" y1=\"160\" x2=\"190\" y2=\"40\" stroke=\"var(--nav-red)\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><path d=\"M180 160 v-10 h10\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"1\"/><circle cx=\"70\" cy=\"160\" r=\"5\" fill=\"var(--ink)\"/><circle cx=\"190\" cy=\"40\" r=\"5\" fill=\"var(--ink)\"/><line x1=\"285\" y1=\"60\" x2=\"285\" y2=\"30\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><path d=\"M279 36 L285 26 L291 36\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"1.5\"/><g fill=\"var(--ink)\" font-size=\"12\" font-family=\"sans-serif\"><text x=\"56\" y=\"180\">A</text><text x=\"198\" y=\"38\">B</text><text x=\"280\" y=\"76\">N</text><text x=\"72\" y=\"152\">afastamento: 18 M (leste)</text><text x=\"198\" y=\"104\">Δlat: 24′ N</text><text x=\"198\" y=\"118\">(24 M)</text><text x=\"90\" y=\"88\">rumo e</text><text x=\"90\" y=\"102\">distância?</text></g>\n</svg>"
+   }
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro navega <b>20 M</b> exatamente para o <b>leste</b> (Rv 090°) em latitude de cerca de <b>23° S</b>. Qual é a variação de longitude? (Use cos 23° ≈ 0,92.)",
+   "alternativas": [
+    "21,7′ para leste",
+    "18,4′ para leste",
+    "20,0′ para leste",
+    "21,7′ para oeste"
+   ],
+   "correta": 0,
+   "explicacao": "Fora do Equador, o minuto de longitude vale menos que uma milha: afastamento = Δlong × cos(lat). Então Δlong = 20 ÷ 0,92 ≈ 21,7′. Multiplicar (18,4′) faz a conversão ao contrário. Igualar minutos e milhas (20,0′) só vale para latitude. E navegando para o leste a longitude varia para leste, nunca para oeste.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.7 (diferença de longitude e afastamento)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 2,
+   "enunciado": "Você quer navegar no fundo no rumo <b>090°</b> por <b>18 M</b>, saindo às <b>0900</b>. Seu barco faz <b>6,5 nós</b> na água e a corrente tem <b>rumo 180°</b> e <b>2,5 nós</b>. Qual é, aproximadamente, o rumo a governar e a hora de chegada?",
+   "alternativas": [
+    "Rumo 113° e chegada às 1200",
+    "Rumo 067° e chegada às 1146",
+    "Rumo 090° e chegada às 1146",
+    "Rumo 067° e chegada às 1200"
+   ],
+   "correta": 3,
+   "explicacao": "A corrente empurra para o sul (BE de quem vai a leste), então a proa deve apontar para o norte do rumo desejado: sen θ = 2,5 ÷ 6,5, logo θ ≈ 23°, e RN = 090° − 23° = 067°. A velocidade no fundo é √(6,5² − 2,5²) = 6,0 nós, e 18 ÷ 6,0 = 3 h: chegada às 1200. 113° corrige para o lado errado. 1146 usaria os 6,5 nós da água como se fossem velocidade no fundo. E 090° deixaria o barco ser levado para o sul.",
+   "referencia": "Miguens, vol. I, cap. 5, item 5.7, alínea d (rumo a governar e hora de chegada)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 2,
+   "enunciado": "A rosa da carta traz declinação <b>19°40′ W</b> em 2008, aumentando <b>6′ por ano</b> para W. Em 2026, você quer navegar no rumo <b>verdadeiro 100°</b>, e o desvio da agulha para essa proa é <b>2° W</b>. Qual é o rumo da agulha? (Aproxime a declinação a 0,5°.)",
+   "alternativas": [
+    "121,5°",
+    "123,5°",
+    "119,5°",
+    "076,5°"
+   ],
+   "correta": 1,
+   "explicacao": "Em 18 anos a declinação cresce 18 × 6′ = 108′ para W: 19°40′ + 1°48′ = 21°28′, aproximada a 21,5° W. Rmg = 100° − (−21,5°) = 121,5°, e Rag = Rmg − Dag = 121,5° − (−2°) = 123,5°. 121,5° é o rumo magnético, sem o desvio. 119,5° erra o sinal do desvio. 076,5° subtrai a declinação e o desvio em vez de somá-los.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 (atualização da declinação e conversão)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro percorre <b>9 M a 6 nós</b> e depois <b>8 M a 4 nós</b>, sem corrente. Saindo às <b>0800</b>, qual é a hora estimada de chegada?",
+   "alternativas": [
+    "1124",
+    "1215",
+    "1130",
+    "1050"
+   ],
+   "correta": 2,
+   "explicacao": "Cada etapa tem seu tempo: 9 ÷ 6 = 1,5 h e 8 ÷ 4 = 2,0 h, ou 3,5 h = 3 h 30 min, e 0800 + 3 h 30 = 1130. Usar a média aritmética das velocidades (17 ÷ 5 = 3 h 24 min, 1124) é erro comum, porque o barco passa mais tempo na etapa lenta. Supor 4 nós (1215) ou 6 nós (1050) em tudo ignora que a velocidade mudou no meio.",
+   "referencia": "Miguens, vol. I, cap. 5, itens 5.2 e 5.3 (estimada com mudança de velocidade)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 2,
+   "enunciado": "Na carta, a sondagem sobre um baixio é <b>2,5 m</b> (nível de redução). No instante da passagem, a maré está <b>1,2 m acima</b> do nível de redução. O calado do veleiro é <b>1,8 m</b>. Qual é a folga sob a quilha?",
+   "alternativas": [
+    "1,9 m",
+    "0,7 m",
+    "−0,5 m",
+    "5,5 m"
+   ],
+   "correta": 0,
+   "explicacao": "A profundidade real é a sondagem da carta mais a altura da maré acima do nível de redução: 2,5 + 1,2 = 3,7 m. A folga é essa profundidade menos o calado: 3,7 − 1,8 = 1,9 m. 0,7 m ignora a maré. −0,5 m subtrai a maré, o que é o contrário do correto quando a água está acima do nível de redução. 5,5 m soma o calado em vez de subtraí-lo.",
+   "referencia": "Miguens, vol. I, cap. 10 (maré e sondagem) e cap. 2 (sondagens da carta)",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 3,
+   "enunciado": "O veleiro parte de <b>23°00,0′ S, 043°00,0′ W</b>. Primeiro navega 2 h no rumo verdadeiro <b>000°</b> a 6,0 nós; depois, 1 h no rumo <b>090°</b> a 6,0 nós. Sem corrente, qual é a posição estimada? (Use cos 22,8° ≈ 0,92.)",
+   "alternativas": [
+    "23°12,0′ S e 042°53,5′ W.",
+    "22°48,0′ S e 042°54,0′ W.",
+    "22°48,0′ S e 043°06,5′ W.",
+    "22°48,0′ S e 042°53,5′ W."
+   ],
+   "correta": 3,
+   "explicacao": "Na primeira perna o barco anda 12 M para o norte: a latitude Sul diminui 12′, de 23°00,0′ para 22°48,0′ S. Na segunda, anda 6 M para leste, e 6 ÷ 0,92 ≈ 6,5′ de longitude para leste: 043°00,0′ − 6,5′ = 042°53,5′ W. 23°12,0′ S põe a primeira perna para o sul. 042°54,0′ W esquece a conversão em longitude. 043°06,5′ W desloca para oeste.",
+   "referencia": "Miguens, vol. I, cap. 1, item 1.7 e cap. 5, itens 5.2 e 5.3",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 3,
+   "enunciado": "O rumo da agulha é <b>075°</b>, o desvio para essa proa é <b>3° E</b> e a declinação é <b>22° W</b>. A velocidade na água é <b>6,0 nós</b> e a corrente tem <b>rumo 146°</b> e <b>2,5 nós</b>. Quais são, aproximadamente, o rumo e a velocidade no fundo?",
+   "alternativas": [
+    "Rumo 073° e 6,5 nós",
+    "Rumo 079° e 8,5 nós",
+    "Rumo 079° e 6,5 nós",
+    "Rumo 033° e 6,5 nós"
+   ],
+   "correta": 2,
+   "explicacao": "Rv = Rag + Dag + Dec = 075° + 3° − 22° = 056°. A corrente (146°) é perpendicular a essa proa e a empurra para a direita: Rfd = 056° + arctg(2,5/6,0) ≈ 056° + 23° = 079°, e velfd = √(6,0² + 2,5²) = 6,5 nós. 073° vem de converter com o sinal do desvio trocado. 8,5 nós soma as velocidades. 033° desvia para o lado oposto ao da corrente.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 e cap. 5, itens 5.5 a 5.7",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 3,
+   "enunciado": "Um farol está em <b>23°00,0′ S, 043°10,0′ W</b>. Você o marca aos <b>090°</b> verdadeiros e o radar dá <b>5,0 M</b>. Qual é a sua posição? (Use cos 23° ≈ 0,92.)",
+   "alternativas": [
+    "23°00,0′ S e 043°14,6′ W",
+    "23°00,0′ S e 043°15,4′ W",
+    "23°00,0′ S e 043°15,0′ W",
+    "23°00,0′ S e 043°04,6′ W"
+   ],
+   "correta": 1,
+   "explicacao": "Marcação e distância do mesmo objeto cortam-se a 90°. Se o farol está aos 090°, o barco está na direção oposta, 270°, 5,0 M a oeste dele, na mesma latitude. Em longitude, 5,0 ÷ 0,92 ≈ 5,4′ para oeste: 043°10,0′ + 5,4′ = 043°15,4′ W. Multiplicar pelo cosseno dá 4,6′ (conversão ao contrário). Usar 5,0′ esquece o cosseno. E colocar o barco a leste inverte a marcação.",
+   "referencia": "Miguens, vol. I, cap. 4, item 4.3.1 (marcação e distância) e cap. 1, item 1.7",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  },
+  {
+   "tema": "Problemas de carta",
+   "dificuldade": 3,
+   "enunciado": "Você quer navegar no fundo no rumo verdadeiro <b>000°</b>. A velocidade na água é <b>6,5 nós</b>, a corrente tem <b>rumo 090°</b> e <b>2,5 nós</b>, a declinação é <b>22° W</b> e o desvio para essa proa é <b>2° E</b>. Qual é, aproximadamente, o rumo da agulha a governar?",
+   "alternativas": [
+    "357°",
+    "043°",
+    "313°",
+    "020°"
+   ],
+   "correta": 0,
+   "explicacao": "A corrente vem de través para leste, então a proa vai 23° para oeste: sen θ = 2,5 ÷ 6,5, logo RN = 360° − 23° ≈ 337°. Do verdadeiro para o magnético, a declinação W soma: 337° + 22° = 359°. Do magnético para a agulha, subtrai-se o desvio E: 359° − 2° = 357°. 043° corrige a corrente para o lado errado. 313° aplica a declinação com sinal trocado. 020° só converte 000° e esquece a corrente.",
+   "referencia": "Miguens, vol. I, cap. 3, item 3.2.5 e cap. 5, item 5.7, alínea d",
+   "fonte_url": "https://www.marinha.mil.br/dhn/sites/www.marinha.mil.br.dhn/files/arquivosss/Manual_Navega%C3%A7%C3%A3o_MB_Vol_1_%282%C2%AARevis%C3%A3o_2023%29.pdf"
+  }
+ ]
+}

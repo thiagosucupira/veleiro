@@ -1,0 +1,301 @@
+{
+ "claims": [
+  {
+   "id": "extra-radio-1-01",
+   "topic": "radio-equipamento",
+   "claim": "Pela NORMAM-211, o transceptor fixo HF deve ter potência suficiente para operar a uma distância de pelo menos 75 milhas da costa.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.23.1, p. 4-11",
+   "quote": "4.23.1. transceptor fixo HF - com potência suficiente para operar a uma distância de, pelo menos, 75 milhas da costa;",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-02",
+   "topic": "radio-equipamento",
+   "claim": "Pela NORMAM-211, o VHF portátil serve para o caso de abandono da embarcação ou falha do equipamento orgânico, e a bateria deve ser mantida sempre a plena carga.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.23.3, p. 4-11",
+   "quote": "A bateria deverá ser mantida sempre a plena carga.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-03",
+   "topic": "radio-equipamento",
+   "claim": "Pela NORMAM-211, toda EPIRB deve ser instalada a bordo em local de fácil acesso.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.23.6 a) I, p. 4-12",
+   "quote": "Toda Radiobaliza de Indicação de Posição de Emergência por Satélite (EPIRB) deve ser instalada a bordo em local de fácil acesso.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-04",
+   "topic": "radio-equipamento",
+   "claim": "Pela NORMAM-211, a EPIRB deve ter dimensões e peso que permitam a uma única pessoa levá-la até a embarcação de sobrevivência, com liberação, flutuação e ativação automáticas em naufrágio, e também dispositivo de ativação manual no local ou remotamente, a partir da estação de manobra.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.23.6 a) II e III, p. 4-12",
+   "quote": "Deve ter dimensões e peso tais que permitam o seu transporte, por uma única pessoa, até a embarcação de sobrevivência e ter sua liberação, flutuação e ativação automáticas em caso de naufrágio da embarcação.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-05",
+   "topic": "radio-equipamento",
+   "claim": "Pela NORMAM-211, o transponder de radar de 9 GHz (SART) consta da dotação de rádio das embarcações de grande porte ou iates, e não da dotação de médio porte em navegação oceânica.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.24.1 a) III (p. 4-13), art. 4.24.2 a) (p. 4-14) e tabela 4.35, item 21 (p. 4-24)",
+   "quote": "III) receptor - transmissor radar (transponder) operando na faixa de 9 GHz; e",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08. Na tabela 4.35 o item \"Rádio transmissor radar (transponder)\" aparece como Dispensado para médio porte e Obrigatório para grande porte ou iates."
+  },
+  {
+   "id": "extra-radio-1-06",
+   "topic": "radio-equipamento",
+   "claim": "Pela NORMAM-211, com a embarcação navegando deve haver disponibilidade permanente de energia elétrica suficiente para operar as instalações de rádio e carregar as baterias usadas como fonte de reserva.",
+   "source_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "locator": "NORMAM-211/DPC, Cap. 4, art. 4.23.5 a), p. 4-12",
+   "quote": "a) quando a embarcação estiver navegando, deverá haver disponibilidade permanente de um suprimento de energia elétrica suficiente para operar as instalações rádio",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-07",
+   "topic": "radio-gmdss",
+   "claim": "O material de apoio da Anatel define as áreas marítimas do GMDSS: A1 (VHF costeiro com DSC, cerca de 30 a 50 milhas da costa), A2 (MF costeiro com DSC, cerca de 100 a 150 milhas), A3 (cobertura do satélite Inmarsat, exceto polos) e A4 (regiões polares, sem cobertura Inmarsat).",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.2.12, p. 26",
+   "quote": "Área A1: Cobertura de VHF costeiro com DSC (cerca de 30–50 milhas da costa).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-08",
+   "topic": "radio-gmdss",
+   "claim": "O material de apoio da Anatel descreve o NAVTEX como sistema em 518 kHz (MF), entre outras frequências, com mensagens de segurança marítima em texto e cobertura típica de até cerca de 300 milhas náuticas da costa.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.2.10, p. 26",
+   "quote": "Cobertura típica de até cerca de 300 milhas náuticas da costa.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-09",
+   "topic": "radio-gmdss",
+   "claim": "O material de apoio da Anatel diz que o Inmarsat tem cobertura global, exceto nas regiões polares (aproximadamente acima de 70° N e abaixo de 70° S).",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.2.4, p. 23",
+   "quote": "Cobertura global, exceto regiões polares (aproximadamente acima de 70° N e abaixo de 70° S).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-10",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, a chamada e os sinais preparatórios de tráfego em 156,8 MHz (canal 16) não devem exceder um minuto, exceto em casos de socorro, urgência ou segurança.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.1.9.2, p. 17",
+   "quote": "A transmissão de chamada e dos sinais preparatórios de tráfego em 156,8 MHz não deve exceder a um minuto, exceto nos casos de socorro, urgência ou segurança.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-11",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, é proibido usar as frequências de chamada e socorro para tráfego de mensagens comuns.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 1.4.4, p. 8",
+   "quote": "É proibida a utilização das frequências de chamada e socorro para tráfego de mensagens comuns.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-12",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, toda estação que ouvir uma chamada de socorro deve cessar imediatamente qualquer transmissão que possa perturbar o tráfego de socorro e permanecer na escuta da frequência usada.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 1.4.4, p. 8",
+   "quote": "devem cessar imediatamente qualquer transmissão que possa perturbar o tráfego de socorro, e",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-13",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, MAYDAY é o sinal de socorro, usado em perigo grave e iminente que exija auxílio imediato (como navio afundando ou incêndio descontrolado).",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.1.9.3, p. 18",
+   "quote": "Quando usar: perigo grave e iminente; requer auxílio imediato (navio afundando, incêndio descontrolado etc.).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-14",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, PAN PAN é o sinal de urgência, repetido três vezes antes da chamada, usado em situação urgente relativa à segurança, sem perigo grave iminente.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.1.9.3, p. 18",
+   "quote": "Quando usar: situação urgente relativa à segurança, mas sem perigo grave iminente.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-15",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, SECURITÉ é o sinal de segurança, repetido três vezes antes da chamada, usado em aviso importante para a segurança da navegação (objetos à deriva, gelo, condições meteorológicas e semelhantes).",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.1.9.3, p. 18",
+   "quote": "Quando usar: aviso importante para a segurança da navegação (objetos à deriva, gelo, condições meteorológicas, etc.).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-16",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, a mensagem radiotelefônica de socorro traz o sinal MAYDAY, o nome ou identificação da estação, a situação (posição), a natureza do perigo, o tipo de auxílio necessário e outras informações que facilitem o socorro.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.1.9.3, p. 18",
+   "quote": "A mensagem radiotelefônica de socorro é constituída de:",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-17",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, em radiotelefonia a estação em perigo, ou a que dirige o tráfego de socorro, pede silêncio com a expressão SILENCE MAYDAY (no Regulamento de Radiocomunicações, SEELONCE MAYDAY).",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.1.9.5, p. 19",
+   "quote": "pedirá silêncio utilizando-se da expressão SILENCE MAYDAY",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-18",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, se um alerta de socorro for transmitido por engano, o navio deve cancelá-lo imediatamente, informando claramente às estações costeiras ou ao RCC/MRCC que foi alarme falso.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.2.15, p. 28",
+   "quote": "o navio deve cancelá-lo imediatamente, informando claramente às estações costeiras ou RCC/MRCC que se tratou de falso alarme",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-19",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, o indicativo de chamada da estação deve ser transmitido no início e no fim de cada comunicado e, nas estações do Serviço Móvel Marítimo, pelo menos uma vez a cada hora.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 1.4.2, p. 6",
+   "quote": "e, no caso das estações do SMM, pelo menos uma vez a cada hora.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-20",
+   "topic": "radio-equipamento",
+   "claim": "Segundo o material de apoio da Anatel, o SART é um dispositivo que responde quando iluminado por radar de 9 GHz (banda X) e faz aparecer marcações na tela do radar da unidade de busca.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.2.8, p. 25",
+   "quote": "Dispositivo que responde quando iluminado por um radar de 9 GHz (banda X, utilizada em radares marítimos).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-21",
+   "topic": "radio-equipamento",
+   "claim": "Segundo o material de apoio da Anatel, o AIS-SART transmite sua posição pelo sistema AIS e aparece diretamente nas telas de AIS e ECDIS dos navios próximos.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.2.8, p. 25",
+   "quote": "Aparece diretamente nas telas de AIS e ECDIS dos navios próximos.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-22",
+   "topic": "radio-equipamento",
+   "claim": "Segundo o material de apoio da Anatel, nos alertas de socorro por EPIRB os satélites do COSPAS-SARSAT detectam o sinal e o retransmitem a estações terrenas (LUT), que enviam a informação aos Centros de Coordenação de Salvamento (RCC/MRCC); satélites em órbita polar dão cobertura global com tempo de detecção que depende da passagem, e os geoestacionários detectam quase instantaneamente (para EPIRBs com GPS).",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 2.2.5, p. 23-24",
+   "quote": "As estações terrenas enviam a informação para Centros de Coordenação de Salvamento (RCC/MRCC).",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-23",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, todas as estações devem limitar a potência irradiada ao mínimo necessário para um serviço satisfatório, evitando interferências desnecessárias.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 1.4.2, p. 6",
+   "quote": "Todas as estações são obrigadas a limitar sua potência irradiada ao mínimo necessário para um serviço satisfatório, evitando interferências desnecessárias.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-24",
+   "topic": "radio-procedimento",
+   "claim": "Segundo o material de apoio da Anatel, os indicativos de chamada das estações dos diversos serviços no Brasil são formados nas séries PPA a PYZ e ZVA a ZZZ.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/26d83dbe3d877aa49974f414d3fa75b6",
+   "locator": "Anatel, Material de apoio ao exame de Radiotelefonista (versão 2026-03), item 1.4.2, p. 6",
+   "quote": "Os indicativos de chamada das estações dos diversos serviços no Brasil são formados dentro das séries:",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-25",
+   "topic": "radio-licenca",
+   "claim": "Segundo o tutorial MMAR, os equipamentos da estação são cadastrados pesquisando-se o número do certificado de homologação ou parte da descrição do modelo, e selecionando-se o equipamento na lista exibida pelo sistema.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "locator": "Anatel, Tutorial MMAR (junho/2026), Pedido de Inclusão, passo 8 e 9-A",
+   "quote": "Informe o número do certificado ou uma parte da descrição do modelo do equipamento.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-26",
+   "topic": "radio-licenca",
+   "claim": "Segundo o tutorial MMAR, na etapa UIT/GMDSS do pedido de licença de embarcação informam-se também a capacidade de pessoas a bordo e a quantidade de botes salva-vidas.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "locator": "Anatel, Tutorial MMAR (junho/2026), Pedido de Inclusão, passo 11",
+   "quote": "Quantidade de Botes Salva-vidas: número de botes salva-vidas disponíveis.",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  },
+  {
+   "id": "extra-radio-1-27",
+   "topic": "radio-licenca",
+   "claim": "Segundo o tutorial MMAR, os documentos do pedido de licença são enviados em arquivo PDF de no máximo 150 MB, e o pedido segue para análise da Agência da Anatel depois que o requerente marca as caixas de ciência dos termos e condições.",
+   "source_url": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9835bc212b5ea723ca4918a8986dd33a",
+   "locator": "Anatel, Tutorial MMAR (junho/2026), Pedido de Inclusão, passos 12 a 14",
+   "quote": "O arquivo deve ser em PDF com tamanho máximo de 150 MB",
+   "official": true,
+   "confidence": "alta",
+   "notes": "Consultado em 2026-10-08."
+  }
+ ]
+}

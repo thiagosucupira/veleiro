@@ -1,0 +1,522 @@
+{
+ "questoes": [
+  {
+   "tema": "Tripulação e quartos",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro tem quatro tripulantes aptos a fazer quarto. Eles dividem as 24 horas em quartos de <b>3 horas</b>, com <b>uma pessoa</b> por quarto, em rodízio fixo (A, B, C, D, A, B...). Quantas horas seguidas de folga cada um tem entre o fim de um quarto seu e o início do seguinte?",
+   "alternativas": [
+    "3 horas.",
+    "6 horas.",
+    "9 horas.",
+    "12 horas."
+   ],
+   "correta": 2,
+   "explicacao": "<b>9 horas.</b> Com quatro pessoas o ciclo completo dura 4 × 3 = 12 horas: cada um fica 3 horas de quarto e 12 − 3 = 9 horas de folga. <b>3 horas</b> é a duração do quarto, não da folga. <b>6 horas</b> seria a folga com apenas três pessoas (ciclo de 9 horas). <b>12 horas</b> é o ciclo inteiro, sem descontar o próprio quarto.",
+   "referencia": "Cálculo de escala de quartos (boa prática de cruzeiro); RIPEAM, Regra 5 (vigilância permanente)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Tripulação e quartos",
+   "dificuldade": 1,
+   "enunciado": "Três tripulantes dividem o dia em quartos de <b>4 horas</b>, um de cada vez, em rodízio. Quantas horas de quarto cada um faz em 24 horas?",
+   "alternativas": [
+    "4 horas.",
+    "8 horas.",
+    "12 horas.",
+    "16 horas."
+   ],
+   "correta": 1,
+   "explicacao": "<b>8 horas.</b> 24 ÷ 4 = 6 quartos por dia; divididos entre 3 pessoas, são 2 quartos cada um, ou 2 × 4 = 8 horas. <b>4 horas</b> seria um único quarto por dia. <b>12 horas</b> é a carga de uma tripulação de apenas duas pessoas. <b>16 horas</b> é o tempo de folga (24 − 8), não de quarto.",
+   "referencia": "Cálculo de escala de quartos (boa prática de cruzeiro); RIPEAM, Regra 5 (vigilância permanente)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Tripulação e quartos",
+   "dificuldade": 2,
+   "enunciado": "Num sistema de três equipes com quartos de 4 horas, costuma-se dividir o quarto das 16 às 20 horas em dois de 2 horas (os \"quartos de cão\"). Qual é a vantagem desse arranjo para a escala?",
+   "alternativas": [
+    "Para criar uma quarta equipe no fim da tarde, quando o tráfego de navios costuma aumentar.",
+    "Porque o RIPEAM manda trocar o vigia a cada 2 horas ao entardecer, com a luz mudando.",
+    "Para dar 9 horas seguidas de folga a cada equipe, em vez das 8 horas do sistema comum.",
+    "Para o número de quartos ficar ímpar e a escala girar, sem equipe presa ao mesmo horário."
+   ],
+   "correta": 3,
+   "explicacao": "Com 3 equipes e quartos de 4 h são 6 quartos por dia, e cada equipe cairia sempre nos mesmos horários (por exemplo, sempre a madrugada). Com um quarto dividido em dois, são 7 quartos por dia: como 7 não é múltiplo de 3, os horários giram de um dia para o outro. Não surge uma quarta equipe, são as mesmas três. A Regra 5 do RIPEAM exige vigilância permanente, mas não fixa a duração do quarto. E a folga não aumenta para 9 horas: continua em torno de 8.",
+   "referencia": "Miguens, Navegação: a Ciência e a Arte, vol. I (serviço de quarto); RIPEAM, Regra 5",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Tripulação e quartos",
+   "dificuldade": 1,
+   "enunciado": "Uma tripulante novata está de quarto às 3 h da manhã. O vento subiu de 18 para 27 nós em vinte minutos e passou do limite de 25 nós fixado nas ordens permanentes do comandante, que está dormindo. O que ela deve fazer?",
+   "alternativas": [
+    "Acordar o comandante na hora, como as ordens mandam, e preparar a redução de pano enquanto ele sobe.",
+    "Deixar o comandante dormir e reduzir o pano sozinha, para não incomodar, e avisá-lo só de manhã.",
+    "Esperar mais uma hora, para ver se o vento passa de 30 nós, e só então chamar o comandante.",
+    "Chamar o comandante apenas se o piloto automático deixar de conseguir governar o barco."
+   ],
+   "correta": 0,
+   "explicacao": "As ordens permanentes existem para tirar a dúvida: passou do limite, chama-se o comandante sem constrangimento. Reduzir sozinha e avisar depois tira dele a decisão e deixa uma pessoa cansada manobrando no escuro. Esperar mais uma hora transforma um aviso em emergência. E condicionar o chamado à falha do piloto automático é esperar o problema já instalado.",
+   "referencia": "Ordens permanentes e fator humano: boa marinharia (Cornell, World Cruising Handbook); OSR 1.02.1",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Tripulação e quartos",
+   "dificuldade": 3,
+   "enunciado": "Três tripulantes faziam quartos de 4 horas em rodízio (8 horas de quarto por dia cada um). Um deles adoece com enjoo forte e sai da escala. Os dois restantes dividem as 24 horas igualmente em quartos de 4 horas. Qual é a nova carga de cada um?",
+   "alternativas": [
+    "8 horas de quarto por dia, com 8 horas de folga seguida entre um quarto e o próximo.",
+    "12 horas de quarto por dia, com 12 horas de folga seguida entre um quarto e o próximo.",
+    "6 horas de quarto por dia, com 6 horas de folga seguida entre um quarto e o próximo.",
+    "12 horas de quarto por dia, com só 4 horas de folga seguida entre um quarto e o próximo."
+   ],
+   "correta": 3,
+   "explicacao": "São 24 ÷ 4 = 6 quartos por dia; com duas pessoas, 3 quartos cada uma, ou <b>12 horas</b> por dia. Como se alternam, cada uma descansa só 4 horas entre dois quartos, e o sono vem picado. A carga de 8 horas com 8 de folga é a da escala anterior, com três pessoas. Uma folga seguida de 12 horas confunde o total diário de descanso com o tempo contínuo. E 6 horas de quarto não fecha a conta: as 24 horas ficariam descobertas.",
+   "referencia": "Cálculo de escala de quartos; fadiga e sono: Cornell, World Cruising Handbook (boa prática de cruzeiro)"
+  },
+  {
+   "tema": "Tripulação e quartos",
+   "dificuldade": 2,
+   "enunciado": "Uma equipe de 10 pessoas vai disputar a travessia sob as OSR da World Sailing, Categoria 1. Quantos tripulantes, no mínimo (incluindo a pessoa no comando), precisam ter feito nos 5 anos anteriores o treinamento de segurança da OSR 6.02?",
+   "alternativas": [
+    "1 tripulante.",
+    "2 tripulantes.",
+    "3 tripulantes.",
+    "5 tripulantes."
+   ],
+   "correta": 2,
+   "explicacao": "A OSR 6.01.2 pede, nas Categorias 1 e 2, pelo menos <b>30% da tripulação</b>, nunca menos de duas pessoas, incluindo a pessoa no comando: 30% de 10 = 3. <b>1</b> seria só o comandante. <b>2</b> é o piso das tripulações pequenas, que aqui já está superado. <b>5</b> seria 50% da equipe.",
+   "referencia": "World Sailing, OSR 2026-2027, regra 6.01.2",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Saúde a bordo",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante quer usar um remédio contra enjoo durante a travessia. Qual é a conduta mais segura?",
+   "alternativas": [
+    "Combinar com o médico, testar numa saída curta e tomar o remédio antes de largar, não depois de enjoar.",
+    "Esperar o primeiro vômito para tomar o remédio, porque ele só funciona quando o sintoma já apareceu.",
+    "Experimentar o remédio só no meio do oceano, para ver o efeito na situação real da travessia.",
+    "Usar o remédio de outro tripulante, porque as doses contra enjoo são iguais para todas as pessoas."
+   ],
+   "correta": 0,
+   "explicacao": "A medicação preventiva costuma funcionar melhor antes dos sintomas e tem efeitos colaterais (sono, boca seca), por isso se combina com um médico e se testa antes. Esperar o vômito é chegar tarde: já há desidratação. Testar só no oceano pode deixar o tripulante sonolento sem alternativa. E remédio é individual: dose, alergias e interações com outros medicamentos variam.",
+   "referencia": "OMS, International Medical Guide for Ships, 3ª ed. (cinetose)",
+   "fonte_url": "https://iris.who.int/handle/10665/43814"
+  },
+  {
+   "tema": "Saúde a bordo",
+   "dificuldade": 2,
+   "enunciado": "Antes de largar, o comandante e o médico querem definir as quantidades recomendadas de cada medicamento do kit de travessia. Qual documento é a referência internacional para essas quantidades?",
+   "alternativas": [
+    "O aplicativo de primeiros socorros da Cruz Vermelha (FICR), usado como guia de atendimento.",
+    "O Apêndice H das OSR, que traz o modelo de curso de primeiros socorros para a tripulação.",
+    "A bula de cada medicamento, somando a dose máxima diária permitida a cada um dos tripulantes.",
+    "O Quantification addendum do International Medical Guide for Ships, publicado pela OMS em 2010."
+   ],
+   "correta": 3,
+   "explicacao": "A OMS publicou em 2010 o <i>Quantification addendum</i> do IMGS justamente com as quantidades recomendadas dos medicamentos. O aplicativo da Cruz Vermelha orienta o atendimento, não dimensiona o estoque. O Apêndice H das OSR é um modelo de curso (cita o IMGS como leitura) e não lista quantidades. E a soma das doses máximas das bulas não considera as doenças prováveis a bordo, nem prescrição individual.",
+   "referencia": "OMS, IMGS 3ª ed. e Quantification addendum (2010); OSR 2026-2027, Apêndice H",
+   "fonte_url": "https://iris.who.int/handle/10665/44341"
+  },
+  {
+   "tema": "Saúde a bordo",
+   "dificuldade": 2,
+   "enunciado": "Qual conjunto de sinais indica <b>insolação</b>, quadro grave que exige esfriar o corpo e pedir socorro médico, e não só esgotamento pelo calor?",
+   "alternativas": [
+    "Suor intenso, pele fria e úmida, fraqueza e tontura, com a pessoa consciente e orientada.",
+    "Pele quente e seca, confusão mental, pulso rápido e possível desmaio.",
+    "Dor de cabeça leve, boca seca e urina escura, com a pessoa lúcida e andando bem.",
+    "Enjoo, palidez e salivação aumentada, que melhoram quando se olha o horizonte."
+   ],
+   "correta": 1,
+   "explicacao": "Na insolação o corpo perde a capacidade de se resfriar: a pele fica quente e seca (ou vermelha), há confusão e pulso rápido. O quadro de suor intenso, pele fria e úmida com tontura é o esgotamento pelo calor, tratado com sombra, repouso e água em goles. Dor de cabeça com boca seca e urina escura sugere desidratação. E enjoo que melhora com o horizonte é cinetose.",
+   "referencia": "OMS, International Medical Guide for Ships, 3ª ed. (doenças por calor)",
+   "fonte_url": "https://iris.who.int/handle/10665/43814"
+  },
+  {
+   "tema": "Saúde a bordo",
+   "dificuldade": 2,
+   "enunciado": "Durante uma virada, um tripulante bate a cabeça na retranca e fica desacordado por cerca de um minuto. Ao acordar, está confuso e vomita duas vezes. O porto mais próximo está a quatro dias. Qual é a conduta correta?",
+   "alternativas": [
+    "Dar um analgésico e deixá-lo descansar até o fim do quarto, voltando ao serviço no turno seguinte do dia.",
+    "Mantê-lo acordado com café e conversa, e só chamar ajuda se o vômito se repetir mais uma vez depois disso.",
+    "Tratar como caso grave: repouso sob observação contínua e orientação médica já, por Pan-Pan ou satélite.",
+    "Esperar 24 horas para ver se melhora e, se não melhorar, discutir a conduta ao chegar ao porto."
+   ],
+   "correta": 2,
+   "explicacao": "Perda de consciência, confusão e vômito repetido são os sinais de alerta de um traumatismo craniano sério, que pode piorar de repente. É caso para observação contínua e orientação médica já, mesmo sem risco imediato de vida declarado (Pan-Pan, telefone satelital ou SALVAMAR). Analgésico e volta ao serviço mascaram o quadro e arriscam o barco. Café e conversa não tratam a causa, e condicionar a ajuda a mais um vômito é esperar o agravamento. Aguardar 24 horas ou o porto, a quatro dias, é perder o tempo em que a orientação poderia mudar o desfecho.",
+   "referencia": "OMS, International Medical Guide for Ships, 3ª ed.; SALVAMAR (atendimento a doentes a bordo)",
+   "fonte_url": "https://iris.who.int/handle/10665/43814"
+  },
+  {
+   "tema": "Saúde a bordo",
+   "dificuldade": 1,
+   "enunciado": "Um tripulante toma todo dia um remédio para pressão alta. Qual é o preparo correto para uma travessia de 25 dias?",
+   "alternativas": [
+    "Levar remédio para todos os dias mais uma margem, com receita e caixa original, e avisar o comandante.",
+    "Levar só o suficiente até o primeiro porto de escala, onde ele compra a reposição quando precisar.",
+    "Dividir a dose pela metade, para o estoque durar mais dias e sobrar espaço no kit de bordo da embarcação.",
+    "Não contar a ninguém, para não preocupar a tripulação nem estragar o clima da travessia."
+   ],
+   "correta": 0,
+   "explicacao": "Quem usa medicação contínua precisa de estoque para a viagem inteira mais uma folga para atrasos, com a receita e a caixa original (portos e alfândegas podem pedir). O comandante precisa saber das condições crônicas antes do porto, não no meio do oceano. Contar com a compra em escala é arriscado: o porto pode ser longe ou o remédio indisponível. Mexer na dose por conta própria põe a pessoa em risco. E esconder a condição impede que o comandante e o kit se preparem.",
+   "referencia": "OMS, International Medical Guide for Ships, 3ª ed.; OSR 4.08 (kit reflete a duração e o número de tripulantes)",
+   "fonte_url": "https://iris.who.int/handle/10665/43814"
+  },
+  {
+   "tema": "Saúde a bordo",
+   "dificuldade": 3,
+   "enunciado": "Um tripulante sente dor abdominal forte e crescente, com febre e abdômen rígido ao toque, e o quadro piora em horas. O porto de escape mais próximo está a <b>600 milhas náuticas</b>, e o veleiro faz média de 5 nós. Qual é a leitura e a conduta corretas?",
+   "alternativas": [
+    "Cerca de 5 dias até o porto: é muito tempo, então peça já orientação médica e avalie desvio ou evacuação.",
+    "Cerca de 5 dias até o porto: tempo suficiente, então dê um analgésico forte e siga a viagem normalmente.",
+    "Cerca de 2 dias até o porto: basta seguir a viagem e reavaliar o paciente só quando chegar ao porto.",
+    "Cerca de 12 dias até o porto: só um navio mercante poderia ajudar, então não adianta pedir orientação."
+   ],
+   "correta": 0,
+   "explicacao": "Tempo = 600 ÷ 5 = 120 h = 5 dias. Dor que piora, febre e abdômen rígido podem indicar emergência cirúrgica, e 5 dias é tempo demais para esperar sem orientação: o médico à distância ajuda a decidir entre tratar, desviar ou evacuar. Analgésico forte mascara os sinais. Dois e doze dias são erros de conta (600 ÷ 5 = 120 h). E achar que não adianta pedir orientação esquece que o médico orienta mesmo sem ajuda física por perto, e que o SALVAMAR e os navios podem ser acionados.",
+   "referencia": "OMS, IMGS 3ª ed.; SALVAMAR (evacuação médica); cálculo tempo = distância ÷ velocidade",
+   "fonte_url": "https://www.marinha.mil.br/salvamarbrasil/node/49"
+  },
+  {
+   "tema": "Saúde a bordo",
+   "dificuldade": 3,
+   "enunciado": "Na Categoria 0 das OSR (regatas transoceânicas), a regra 6.05 pede preparo médico da tripulação. Qual alternativa o descreve corretamente?",
+   "alternativas": [
+    "Um tripulante com STCW A-VI/4-2 (cuidados médicos) ou equivalente e outro com primeiros socorros dos últimos 5 anos.",
+    "Um médico inscrito no CRM e um enfermeiro, ambos embarcados como tripulantes efetivos durante toda a regata.",
+    "Todos os tripulantes com o certificado Offshore Personal Survival em dia, sem exigência de primeiros socorros.",
+    "Apenas a pessoa no comando, com primeiros socorros de qualquer data, desde que o kit médico de bordo esteja completo e conferido."
+   ],
+   "correta": 0,
+   "explicacao": "A OSR 6.05 (MoMu0) exige um tripulante com certificado STCW A-VI/4-2 (cuidados médicos) ou equivalente e outro com certificado de primeiros socorros feito nos últimos 5 anos. Não exige médico nem enfermeiro a bordo. O curso Offshore Personal Survival cobre sobrevivência (regra 6.01), não substitui os primeiros socorros. E um único certificado do comandante, de qualquer data, não atende: a regra pede duas pessoas e prazo de 5 anos.",
+   "referencia": "World Sailing, OSR 2026-2027, regra 6.05.1 e 6.05.2 (Categoria 0)",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf"
+  },
+  {
+   "tema": "Provisões",
+   "dificuldade": 2,
+   "enunciado": "Cinco pessoas planejam uma travessia de 18 dias, com 4 litros de água por pessoa por dia e <b>margem de 25% sobre o tempo</b> de viagem. Quantos litros de água, no mínimo, devem ser levados para o consumo normal?",
+   "alternativas": [
+    "360 L",
+    "385 L",
+    "450 L",
+    "540 L"
+   ],
+   "correta": 2,
+   "explicacao": "<b>450 L.</b> Com a margem, são 18 × 1,25 = 22,5 dias; o consumo é 5 × 4 = 20 L por dia; 22,5 × 20 = 450 L. <b>360 L</b> é a conta sem margem. <b>385 L</b> soma 25 litros em vez de 25%. <b>540 L</b> aplica uma margem de 50%.",
+   "referencia": "Planejamento de provisões (Cornell, World Cruising Handbook); cálculo = pessoas × L/dia × dias"
+  },
+  {
+   "tema": "Provisões",
+   "dificuldade": 1,
+   "enunciado": "Onde deve ficar o detector de gás de um barco com fogão a GLP (gás de cozinha)?",
+   "alternativas": [
+    "Junto ao teto da cabine, porque o GLP é mais leve que o ar e sobe até o ponto mais alto.",
+    "No cockpit, perto do leme, porque o gás vaza pelas escotilhas abertas e se acumula ali.",
+    "Na parte baixa, perto do fogão, porque o GLP é mais pesado que o ar e se acumula na sentina.",
+    "Ao lado do motor, porque o calor dele concentra o gás e acelera o vazamento da mangueira."
+   ],
+   "correta": 2,
+   "explicacao": "O GLP (propano e butano) é mais pesado que o ar: um vazamento escorre para a sentina e pode explodir com uma faísca, por isso o sensor fica embaixo, perto do fogão. Perto do teto seria o lugar para gases mais leves que o ar. O cockpit é aberto e arejado, e o gás que chega lá já passou pela cabine. E o calor do motor não concentra o gás em torno dele.",
+   "referencia": "Boa prática de segurança de bordo (Calder, Boatowner's Mechanical and Electrical Manual)"
+  },
+  {
+   "tema": "Provisões",
+   "dificuldade": 1,
+   "enunciado": "Um veleiro tem 90 litros de diesel e vai ao motor até uma ilha e depois volta ao ponto de partida. Pela regra de um terço da NORMAM-211, qual é o máximo de combustível a gastar na <b>ida</b>?",
+   "alternativas": [
+    "15 L",
+    "30 L",
+    "45 L",
+    "60 L"
+   ],
+   "correta": 1,
+   "explicacao": "<b>30 L.</b> A regra divide o combustível em três partes iguais: um terço para a ida, um terço para a volta e um terço de reserva; 90 ÷ 3 = 30. <b>15 L</b> seria um sexto. <b>45 L</b> divide em ida e volta sem reserva. <b>60 L</b> são dois terços, que deixam a volta e a reserva sem combustível.",
+   "referencia": "NORMAM-211/DPC, Anexo 4-B, item 4.2 (regra de um terço)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Provisões",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de Categoria 1 das OSR vai para a travessia com <b>6 tripulantes</b>. Além da água dos tanques, qual é o volume mínimo da reserva de água potável de emergência, em recipiente dedicado e lacrado, exigida pela OSR 3.21.3?",
+   "alternativas": [
+    "6 L",
+    "12 L",
+    "18 L",
+    "24 L"
+   ],
+   "correta": 1,
+   "explicacao": "<b>12 L.</b> A OSR 3.21.3 pede pelo menos 2 litros por pessoa: 6 × 2 = 12. <b>6 L</b> seria 1 litro por pessoa. <b>18 L</b> seria 3 litros por pessoa. <b>24 L</b> seria 4 litros por pessoa, o consumo diário de planejamento, que é outro cálculo. A reserva lacrada é separada do consumo normal e só é aberta numa emergência.",
+   "referencia": "World Sailing, OSR 2026-2027, regra 3.21.3",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Provisões",
+   "dificuldade": 3,
+   "enunciado": "Uma tripulação saiu com 340 litros de água, planejados para 21 dias (cerca de 16 L por dia). No 10º dia, o medidor mostra que já foram gastos 190 litros. Ficam <b>150 litros</b> e faltam 11 dias de viagem. No ritmo real de consumo, para quantos dias duram os 150 litros?",
+   "alternativas": [
+    "Cerca de 8 dias.",
+    "Cerca de 9 dias.",
+    "Cerca de 11 dias.",
+    "Cerca de 15 dias."
+   ],
+   "correta": 0,
+   "explicacao": "<b>Cerca de 8 dias.</b> O ritmo real é 190 ÷ 10 = 19 L por dia; 150 ÷ 19 ≈ 7,9 dias, menos que os 11 que faltam. É hora de racionar, buscar chuva ou rever o destino. <b>9 dias</b> usa o ritmo planejado (cerca de 16 L por dia), que já não vale. <b>11 dias</b> é o que o plano precisava, não o que a água dá. <b>15 dias</b> divide os 150 litros pelos 10 dias já navegados, sem sentido.",
+   "referencia": "Planejamento de provisões e controle de consumo (Cornell, World Cruising Handbook)"
+  },
+  {
+   "tema": "Mau tempo oceânico",
+   "dificuldade": 1,
+   "enunciado": "Pela escala Beaufort, um vento médio de <b>36 nós</b> corresponde a qual força?",
+   "alternativas": [
+    "Força 7, vento forte (28 a 33 nós).",
+    "Força 8, vento muito forte (34 a 40 nós).",
+    "Força 9, vento duro (41 a 47 nós).",
+    "Força 10, vento muito duro (48 a 55 nós)."
+   ],
+   "correta": 1,
+   "explicacao": "<b>Força 8</b>, que vai de 34 a 40 nós. A força 7 termina em 33 nós, a 9 começa em 41 e a 10 em 48. Lembrete: o CHM emite aviso de mau tempo a partir da força 7 (28 nós).",
+   "referencia": "Escala Beaufort (OMM nº 8), adotada pelo CHM; CHM, aviso de mau tempo (força 7 ou mais)",
+   "fonte_url": "https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/chm_escala_beaufort.pdf"
+  },
+  {
+   "tema": "Mau tempo oceânico",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de cruzeiro corre com o tempo, com ondas grandes vindas de popa. Qual é o principal risco dessa tática, que o drogue (âncora de arrasto) ajuda a reduzir?",
+   "alternativas": [
+    "O vento aparente ficar bem mais forte que o real, aumentando a banda do barco.",
+    "Ganhar velocidade descendo a onda, perder o governo e atravessar (broaching).",
+    "A falta de velocidade, que impede o barco de sair do alcance das ondas.",
+    "O consumo de combustível subir, porque o motor precisa ficar ligado o tempo todo."
+   ],
+   "correta": 1,
+   "explicacao": "Ao correr com o mar de popa, o barco surfa nas ondas, o leme perde efeito e a popa pode ser empurrada de lado (broaching), com risco de emborcar. O drogue freia a popa e mantém o barco alinhado com as ondas. O vento aparente, ao contrário do que diz a primeira alternativa, diminui quando se corre com o vento. A velocidade excessiva, e não a falta dela, é o problema. E correr com o tempo não exige motor ligado.",
+   "referencia": "Adlard Coles, Heavy Weather Sailing (correr com o tempo e drogue); Pardey, Storm Tactics Handbook"
+  },
+  {
+   "tema": "Mau tempo oceânico",
+   "dificuldade": 2,
+   "enunciado": "O Serviço Meteorológico Marinho (CHM) emite aviso de mau tempo quando prevê certas condições. Assinale a que <b>não</b> é um desses critérios.",
+   "alternativas": [
+    "Temperatura da água do mar abaixo de 20 °C.",
+    "Vento de força 7 Beaufort ou mais (28 nós ou mais).",
+    "Ondas de 3 m ou mais em águas profundas.",
+    "Visibilidade de 1 km ou menos."
+   ],
+   "correta": 0,
+   "explicacao": "Os critérios do CHM são vento de força 7 ou mais (28 nós ou mais), ondas de 3 m ou mais em águas profundas, visibilidade de 1 km ou menos e ressaca de 2,5 m ou mais na costa. A temperatura da água do mar não faz parte deles.",
+   "referencia": "CHM, Serviços Radiometeorológicos de Apoio ao Navegante (critérios do aviso de mau tempo)",
+   "fonte_url": "https://www.marinha.mil.br/chm/dados-do-smm-informacoes-gerais/servicos-radiometeorologicos-de-apoio-ao-navegante"
+  },
+  {
+   "tema": "Mau tempo oceânico",
+   "dificuldade": 2,
+   "enunciado": "À noite, no meio do Atlântico, com 15 nós de vento e o barco com a grande e a genoa plenas, a vigia vê relâmpagos a barlavento e a temperatura cai de repente. Qual é a atitude correta?",
+   "alternativas": [
+    "Esperar a chuva chegar para decidir, porque a rajada só vem junto com a chuva e não antes dela.",
+    "Manter o pano como está e ligar o motor, para ganhar distância da célula de chuva que se aproxima.",
+    "Cambar para fugir da célula, mesmo com os outros tripulantes dormindo nos beliches e sem aviso.",
+    "Chamar o comandante, reduzir pano e engatar a tripulação já, antes de a rajada chegar."
+   ],
+   "correta": 3,
+   "explicacao": "Relâmpagos e queda súbita de temperatura são sinais de uma borrasca (squall). A frente de rajada chega antes da chuva, então reduzir pano e preparar a tripulação depois de começar a chover é tarde. Manter o pano plenamente e depender do motor deixa o barco sobrecarregado quando a rajada bater. E cambar às pressas, sem avisar nem engatar a tripulação, cria mais risco do que resolve.",
+   "referencia": "Adlard Coles, Heavy Weather Sailing; Miguens, Navegação: a Ciência e a Arte, vol. III (meteorologia)"
+  },
+  {
+   "tema": "Mau tempo oceânico",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro de 9,75 m (32 pés) corre com o tempo num mar curto e íngreme, com ondas de cerca de 12 m entre cristas. Por que essa relação preocupa o comandante?",
+   "alternativas": [
+    "Ondas curtas quebram sempre de través, e por isso correr com o tempo deixa de ser possível.",
+    "O barco passa a andar mais rápido que a onda e fica na cava, onde o leme trabalha melhor.",
+    "O comprimento da onda é parecido com o do barco, que pode ficar montado na crista, sem leme, e atravessar.",
+    "Só ondas bem maiores que o casco fazem o barco atravessar, então o risco aqui é pequeno."
+   ],
+   "correta": 2,
+   "explicacao": "Quando o comprimento da onda é da ordem do comprimento do barco, ele pode ficar \"montado\" na crista, com a popa sem apoio e o leme sem efeito, e atravessar (broaching). A resposta é controlar a velocidade e o rumo, por exemplo freando a popa com um drogue. Ondas curtas não quebram sempre de través, e o aviso de que correr \"deixa de ser possível\" é exagero: a tática continua válida com cuidado. O barco não fica mais rápido que a onda na cava: ele surfa na face dela. E o risco de atravessar não exige ondas muito maiores que o casco, justamente ondas de comprimento parecido são as perigosas.",
+   "referencia": "Adlard Coles, Heavy Weather Sailing (mar de popa, broaching); Pardey, Storm Tactics Handbook"
+  },
+  {
+   "tema": "Mau tempo oceânico",
+   "dificuldade": 2,
+   "enunciado": "Pela OSR 4.04.3, os pontos de engate do convés devem permitir que <b>dois terços</b> da tripulação fiquem engatados ao mesmo tempo, sem depender dos jackstays. Num barco com 6 tripulantes, para quantas pessoas, no mínimo, isso deve valer?",
+   "alternativas": [
+    "2 pessoas.",
+    "3 pessoas.",
+    "4 pessoas.",
+    "6 pessoas."
+   ],
+   "correta": 2,
+   "explicacao": "<b>4 pessoas.</b> Dois terços de 6 são 6 × 2 ÷ 3 = 4. <b>2</b> seria um terço. <b>3</b> seria a metade. <b>6</b> seria toda a tripulação.",
+   "referencia": "World Sailing, OSR 2026-2027, regra 4.04.3 (pontos de engate)",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Emergências",
+   "dificuldade": 1,
+   "enunciado": "Qual destes é um sinal de perigo previsto no Anexo IV do RIPEAM?",
+   "alternativas": [
+    "Uma bandeira amarela (Q) içada no mastro.",
+    "Fumaça laranja, como a de um sinal fumígeno.",
+    "Um apito longo repetido a cada 2 minutos.",
+    "Uma luz branca fixa no tope do mastro."
+   ],
+   "correta": 1,
+   "explicacao": "Entre os sinais de perigo do Anexo IV estão o foguete com paraquedas ou a tocha manual de luz encarnada, a fumaça laranja e o movimento lento dos braços estendidos, para cima e para baixo. A bandeira Q é sinal de saúde/pratique, não de perigo. O apito longo a cada 2 minutos é o sinal de embarcação a motor em seguimento com visibilidade restrita (Regra 35). E a luz branca fixa no tope é uma luz de navegação.",
+   "referencia": "RIPEAM, Anexo IV, itens 1(i) a (k)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Emergências",
+   "dificuldade": 1,
+   "enunciado": "Em que canal do VHF é transmitido o <b>alerta de socorro DSC</b> (sinal de perigo previsto no Anexo IV do RIPEAM)?",
+   "alternativas": [
+    "Canal 6.",
+    "Canal 13.",
+    "Canal 16.",
+    "Canal 70."
+   ],
+   "correta": 3,
+   "explicacao": "<b>Canal 70</b> (156,525 MHz) é o canal dedicado ao DSC. O canal 16 é o de voz para socorro, urgência e segurança (Mayday e Pan-Pan). O canal 13 é de comunicações de navegação entre embarcações e o 6 é de comunicações entre embarcações com segurança.",
+   "referencia": "RIPEAM, Anexo IV, item 1(l)",
+   "fonte_url": "https://www.ccaimo.marinha.mil.br/drupal/sites/default/files/ripeam_colreg_consolidada_com_emd_dez2013.pdf"
+  },
+  {
+   "tema": "Emergências",
+   "dificuldade": 3,
+   "enunciado": "Segundo a NORMAM-211, qual alternativa descreve corretamente o código de identificação e o cadastro da EPIRB 406 MHz?",
+   "alternativas": [
+    "O código começa por 710 (Brasil), seguido de seis dígitos da estação, e a EPIRB é cadastrada no INFOSAR (DECEA).",
+    "O código começa por 710 (Brasil), mas o cadastro da EPIRB é feito na Anatel, junto com a licença da estação de navio.",
+    "O código começa por 55 (Brasil) e o cadastro é feito direto no Cospas-Sarsat, sem passar por órgão brasileiro.",
+    "O código não é exigido: basta o número de série do fabricante, e o cadastro é dispensado se o fabricante registrou."
+   ],
+   "correta": 0,
+   "explicacao": "A NORMAM-211 (art. 4.23.6) diz que o código é 710, o prefixo do Brasil, mais seis dígitos da estação (MMSI), e que toda EPIRB deve ser cadastrada no INFOSAR, serviço do DECEA, mantendo os dados atualizados. A Anatel licencia a estação de rádio, mas não cadastra a EPIRB. O prefixo 55 não é o do Brasil, e o registro direto no Cospas-Sarsat só vale se o país não oferecer registro próprio (OSR 4.19.4). E o cadastro não é dispensado por registro do fabricante.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.6 c), d) e e); OSR 4.19.4",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Emergências",
+   "dificuldade": 2,
+   "enunciado": "De dia, em alto-mar, um tripulante cai do convés e fica na água, enquanto o barco segue a 6 nós. Quais são as primeiras ações coerentes?",
+   "alternativas": [
+    "Chamar Mayday e só depois, com o rádio resolvido, lançar a boia e apertar o MOB no GNSS.",
+    "Ligar o motor e dar ré para chegar mais rápido, mantendo as velas içadas e o leme a meio.",
+    "Gritar \"homem ao mar\", lançar a boia e o dan buoy, marcar o MOB no GNSS e pôr um vigia só nele.",
+    "Arriar todas as velas e esperar que o náufrago nade até o barco, que então ficará parado ali."
+   ],
+   "correta": 2,
+   "explicacao": "Nos primeiros segundos contam: avisar a tripulação, lançar a boia (e o dan buoy, que as OSR exigem ao alcance do timoneiro) para dar flutuação e uma referência, marcar a posição no GNSS e designar uma pessoa para não tirar os olhos do náufrago. O Mayday vem logo em seguida, mas não antes de quem está na água ter flutuação e vigia. Dar ré com velas içadas é manobra confusa e põe o hélice perto do náufrago. E esperar que ele alcance a pé um barco que continua andando é inviável.",
+   "referencia": "World Sailing, OSR 2026-2027, regras 4.22.1 a) e 4.22.3; OSR 6.04 (treino anual de homem ao mar)",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Emergências",
+   "dificuldade": 3,
+   "enunciado": "Uma avaria no casco faz entrar água, e as bombas manuais e a elétrica ainda conseguem manter o nível sob controle. Quando se deve lançar a balsa e abandonar o barco?",
+   "alternativas": [
+    "Assim que a água passar do piso, para ganhar tempo e entrar na balsa com a tripulação descansada.",
+    "Só quando o barco estiver afundando ou em incêndio fora de controle, porque o barco é a melhor \"balsa\".",
+    "Assim que a primeira bomba falhar, mesmo que a segunda esteja mantendo o nível da água sob controle.",
+    "Depois que a EPIRB for ativada e transmitir por uma hora, para a Marinha ter tempo de chegar."
+   ],
+   "correta": 1,
+   "explicacao": "O barco costuma ser um abrigo maior, mais visível e mais seguro que a balsa, e continua sendo, enquanto se mantém flutuando e as bombas dão conta. A regra de sobrevivência é abandonar quando o barco está afundando ou o fogo não tem mais controle, passando \"para cima\" na balsa, sem molhar-se. Abandonar com a água no piso, ou com uma bomba falhando, tira a tripulação de um abrigo para um bote muito mais frágil. E a EPIRB deve ser acionada logo que o perigo é real, não depois de uma hora.",
+   "referencia": "Boa prática de sobrevivência no mar (curso Offshore Personal Survival; Cornell, World Cruising Handbook); World Sailing, OSR 6.04 (treino anual de abandono)",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05110802/WS_Offshore_Special-Regulations_2026-2027_v1_wcover.pdf"
+  },
+  {
+   "tema": "Emergências",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro de Categoria 1 das OSR leva <b>dois grab bags</b> (mochilas de abandono). Qual é o mínimo de equipamentos de comunicação a distribuir neles, conforme as OSR 3.29.1 e 3.29.9?",
+   "alternativas": [
+    "1 VHF portátil e 1 telefone satelital portátil.",
+    "2 VHF portáteis e 1 telefone satelital portátil.",
+    "1 VHF portátil e 2 telefones satelitais portáteis.",
+    "2 VHF portáteis e 2 telefones satelitais portáteis."
+   ],
+   "correta": 3,
+   "explicacao": "As OSR pedem, na Categoria 1, um VHF portátil de no mínimo 5 W <b>para cada grab bag</b> e um telefone satelital portátil <b>para cada grab bag</b>: com dois grab bags, são 2 e 2, estanques ou com capa à prova d'água. As outras combinações deixam um dos grab bags sem VHF, sem telefone ou sem os dois.",
+   "referencia": "World Sailing, OSR 2026-2027, regras 3.29.1 e 3.29.9",
+   "fonte_url": "https://media.sailing.org/sailing/wp-content/uploads/2025/12/05090814/Extract-Mo1_2026-2027_v1.pdf"
+  },
+  {
+   "tema": "Emergências",
+   "dificuldade": 3,
+   "enunciado": "O que muda na regra da EPIRB 406 MHz das Categorias 0, 1 e 2 a partir de 1º de janeiro de 2027, na Versão 2 das OSR 2026-2027?",
+   "alternativas": [
+    "Toda EPIRB precisa ter GNSS interno; a capacidade AIS vale só para as registradas depois de 2026.",
+    "O GNSS interno vale só para as EPIRBs registradas depois de 2026; as mais antigas ficam isentas.",
+    "A capacidade de transmitir AIS passa a valer para toda EPIRB, e o GNSS interno só para as novas.",
+    "A EPIRB deixa de ser exigida se cada tripulante levar um localizador pessoal AIS de homem ao mar."
+   ],
+   "correta": 0,
+   "explicacao": "A Versão 2 (vigente em 01/01/2027) generaliza o GNSS interno para <b>toda</b> EPIRB 406 MHz das Categorias 0, 1 e 2, e mantém a capacidade AIS só para as registradas depois de 2026. A segunda alternativa descreve a Versão 1, em que as EPIRBs antigas ainda ficavam isentas. A terceira inverte os requisitos. E o localizador pessoal AIS de cada tripulante (OSR 4.22.1) é um item a mais, não um substituto da EPIRB.",
+   "referencia": "World Sailing, OSR 2026-2027 Versão 2, regra 4.19.3 (p. 30)",
+   "fonte_url": "https://www.sailing.org/wp-content/uploads/2026/06/WS_Offshore_Special-Regulations_2026-2027_v2_wcover_Effective1Jan2027-1.pdf"
+  },
+  {
+   "tema": "Formalidades",
+   "dificuldade": 2,
+   "enunciado": "Qual afirmação sobre o Aviso de Saída está de acordo com a NORMAM-211?",
+   "alternativas": [
+    "É dispensado em navegação oceânica, porque a EPIRB já informa à Marinha para onde o barco vai.",
+    "É exigido só de embarcações com mais de 12 m, e o NAVSEG não pode substituir a entrega do aviso.",
+    "É obrigatório e pode ser substituído pelo registro do plano de viagem no aplicativo NAVSEG da Marinha.",
+    "É substituído pelo cadastro da EPIRB no INFOSAR, que informa o destino e a data de chegada."
+   ],
+   "correta": 2,
+   "explicacao": "O art. 4.6.1 diz que o Aviso de Saída é obrigatório e que pode ser substituído pelo registro do plano de viagem no aplicativo NAVSEG. Não há dispensa em navegação oceânica, a EPIRB só passa a avisar quando acionada e não informa destino. A norma não limita o aviso a embarcações maiores. E o cadastro no INFOSAR identifica o dono da baliza, não é um plano de viagem.",
+   "referencia": "NORMAM-211/DPC, art. 4.6.1",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Formalidades",
+   "dificuldade": 1,
+   "enunciado": "O comandante de um veleiro de cruzeiro classificado para navegação oceânica tem a habilitação de Mestre-Amador e planeja uma travessia transatlântica. Isso é permitido?",
+   "alternativas": [
+    "Sim: o Mestre-Amador habilita a conduzir entre portos nacionais e estrangeiros, sem limite de distância.",
+    "Sim, desde que o veleiro leve EPIRB, HF e balsa salva-vidas para todas as pessoas a bordo.",
+    "Sim, se a travessia fizer parte de um rally organizado por clube ou entidade, como a ARC.",
+    "Não: é navegação oceânica (além de 20 milhas da costa) e exige a habilitação de Capitão-Amador."
+   ],
+   "correta": 3,
+   "explicacao": "A navegação oceânica é a realizada além de 20 milhas da costa e corresponde ao Capitão-Amador (art. 4.7, art. 5.3.3 e tabela do art. 4.35). O Mestre-Amador conduz entre portos nacionais e estrangeiros, mas só nos limites da navegação costeira (até 20 MN). O equipamento de segurança é outra exigência, que não substitui a habilitação. E a participação num rally não muda a categoria de habilitação exigida pela norma brasileira.",
+   "referencia": "NORMAM-211/DPC, art. 1.7, art. 4.7, art. 4.35 (tabela, item 14) e art. 5.3.3",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Formalidades",
+   "dificuldade": 2,
+   "enunciado": "Um veleiro estrangeiro de esporte e recreio chega ao Brasil depois de uma travessia do Atlântico. Que documento a NORMAM-211 manda apresentar, e em que prazo?",
+   "alternativas": [
+    "A Declaração de Entrada/Saída (anexo 1-A), em até 72 horas após a entrada em águas brasileiras.",
+    "A Declaração de Entrada/Saída (anexo 1-A), em até 24 horas após a entrada em águas brasileiras.",
+    "O Aviso de Saída do plano de viagem, imediatamente após a entrada em águas brasileiras.",
+    "O Atestado de Treinamento Náutico (anexo 5-E), em até 24 horas após a entrada em águas brasileiras."
+   ],
+   "correta": 1,
+   "explicacao": "O art. 1.16.1 b) manda a embarcação estrangeira de esporte e recreio apresentar a Declaração de Entrada/Saída (anexo 1-A) em até 24 horas após a entrada. O prazo de 72 horas não é o da norma. O Aviso de Saída é do plano de viagem de uma partida, não do ingresso no país. E o Atestado de Treinamento Náutico (anexo 5-E) é requisito para o exame de Arrais-Amador.",
+   "referencia": "NORMAM-211/DPC, art. 1.16.1 b)",
+   "fonte_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf"
+  },
+  {
+   "tema": "Formalidades",
+   "dificuldade": 3,
+   "enunciado": "Um veleiro brasileiro vai fazer a travessia com VHF com DSC e HF com DSC. Qual conjunto está de acordo com a NORMAM-211 e com as regras da Anatel?",
+   "alternativas": [
+    "Basta o TIE da Capitania, que substitui a licença de rádio e o certificado do operador de rádio.",
+    "Basta a homologação dos aparelhos: a licença da estação só é pedida a navios mercantes e de passageiros.",
+    "Licença e MMSI são dispensados em alto-mar, fora das águas jurisdicionais brasileiras, durante a travessia.",
+    "Licença de Estação de Navio na Anatel, MMSI nos equipamentos com DSC e operador certificado pela Anatel."
+   ],
+   "correta": 3,
+   "explicacao": "A NORMAM-211 (art. 4.23.8) manda que a embarcação com equipamento de radiocomunicação obtenha a Licença de Estação de Navio na Anatel. O RGST (Resolução Anatel nº 777/2025) exige MMSI para as estações do serviço móvel marítimo ligadas ao GMDSS, programado em todos os equipamentos com a função, e certificado de operador, emitido ou reconhecido pela Anatel. O TIE é um documento da Capitania e não licencia rádio. A homologação do aparelho não substitui a licença da estação. E nada dispensa licença ou MMSI em alto-mar: é lá que o DSC mais importa.",
+   "referencia": "NORMAM-211/DPC, art. 4.23.8; Resolução Anatel nº 777/2025 (RGST), arts. 270 e 271",
+   "fonte_url": "https://informacoes.anatel.gov.br/legislacao/component/content/article/170-resolucoes/2025/2022-resolucao-777"
+  }
+ ]
+}

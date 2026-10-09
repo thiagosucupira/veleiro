@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "normas-91",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) Os exames para a categoria de Mestre-Amador serão programados pelas CP/DL ou AG.",
+   "notes": "Anexo 5-A item 2 b; literal."
+  },
+  {
+   "id": "normas-92",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "40 questões de múltipla escolha, sendo quatro com utilização de carta náutica, com a duração máxima de três horas.",
+   "notes": "Anexo 5-A item 2 c; literal."
+  },
+  {
+   "id": "normas-93",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "valor máximo de 10,0 pontos e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos",
+   "notes": "Anexo 5-A item 2 d; literal."
+  },
+  {
+   "id": "normas-94",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "I) protocolo da inscrição; II) documento oficial de identificação; III) caneta esferográfica azul ou preta; e IV) material de desenho: lápis ou lapiseira, régua, um par de esquadros ou régua paralelas, transferidor, compasso e borracha.",
+   "notes": "Anexo 5-A item 2 e (inicia após rodapé 5-A-4, logo p. 5-A-5); lista completa confere."
+  },
+  {
+   "id": "normas-95",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "m) Comunicações na navegação costeira: conceitos e funcionamento do sistema VHF, equipamentos, procedimentos, frequências de socorro, chamadas de emergência, chamadas de rotina e trânsito; Rede Nacional de Estações Costeiras (RENEC).",
+   "notes": "Anexo 5-A item 2.1 m; literal."
+  },
+  {
+   "id": "normas-96",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "i) Conceitos básicos de funcionamento e utilização do radar na navegação. j) Conceitos básicos de funcionamento e utilização do ecobatímetro.",
+   "notes": "Conferi no texto do Anexo 5-A item 2.1: b) navegação estimada e costeira, g) carta e publicações, f) marés, h) IALA região B, i) radar, j) ecobatímetro, k) meteorologia, n) EPIRB e AIS, o) sobrevivência, p) RIPEAM. Todos os itens citados existem."
+  },
+  {
+   "id": "normas-97",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "a) Os exames para a categoria de Arrais-Amador serão programados pelas CP/DL/AG.",
+   "notes": "Anexo 5-A item 3 a; literal."
+  },
+  {
+   "id": "normas-98",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) O exame constará de uma prova eletrônica ou escrita contendo 40 questões, com a duração máxima de duas horas.",
+   "notes": "Anexo 5-A item 3 b; literal."
+  },
+  {
+   "id": "normas-99",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) A prova possui valor máximo de 10,0 pontos, e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos na prova.",
+   "notes": "Anexo 5-A item 3 c; literal."
+  },
+  {
+   "id": "normas-100",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "I) protocolo da inscrição; II) documento oficial de identificação; e III) caneta esferográfica azul ou preta.",
+   "notes": "Anexo 5-A item 3 d; a lista do ARA não traz material de desenho, então o 'só' está correto."
+  },
+  {
+   "id": "normas-101",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "As provas deverão ser destruídas, imediatamente após a correção e a apresentação dos resultados aos candidatos, visando garantir a integridade e o sigilo do Banco de Questões.",
+   "notes": "Anexo 5-A item 2 g (MSA) e item 3 f (ARA); os dois existem e são literais."
+  },
+  {
+   "id": "normas-102",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A GRU paga pelo candidato reprovado ou que faltou à prova não poderá ser reutilizada para um novo exame. Dessa forma, o candidato que desejar realizar novo exame deverá efetuar nova inscrição",
+   "notes": "Texto idêntico no Anexo 5-A item 1 h (CPA), item 2 h (MSA) e item 3 g (ARA)."
+  },
+  {
+   "id": "normas-103",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Conhecimentos do sistema de comunicação móvel marítimo em VHF (fixo e portátil): equipamentos, procedimentos, frequências de chamada de rotina, de socorro, de urgência, de segurança e trânsito.",
+   "notes": "Anexo 5-A item 3.1 h; literal."
+  },
+  {
+   "id": "normas-104",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Sistema de Balizamento Marítimo da IALA região “B”, sinais de perigo e sinais diversos.",
+   "notes": "Anexo 5-A item 3.1 g; literal."
+  },
+  {
+   "id": "normas-105",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "VI) prevenção e combate a incêndio, incluindo a identificação e manuseio correto de extintores; VII) primeiros socorros e pronto atendimento",
+   "notes": "Conferi no texto do Anexo 5-A item 3.1: a.VI incêndio, a.VII primeiros socorros, b) salvatagem, marés (I-III), RIPEAM (luzes e marcas, sinais sonoros e luminosos, regras de governo), estabilidade básica, RLESTA e NORMAM-211. Todos presentes."
+  },
+  {
+   "id": "normas-106",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-212.pdf",
+   "evidence_quote": "b) O exame constará de uma prova escrita contendo vinte questões, com a duração máxima de 1 hora e 30 minutos. c) A prova possui valor máximo de dez pontos e será considerado aprovado o candidato que alcançar, pelo menos, cinco pontos",
+   "notes": "NORMAM-212 Anexo 3-C, Seção I, item 1 b e c; confere."
+  },
+  {
+   "id": "normas-107",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-212.pdf",
+   "evidence_quote": "devendo o candidato possuir idade mínima de dezoito anos e saber ler e escrever.",
+   "notes": "NORMAM-212 art. 3.1.2 a; literal."
+  },
+  {
+   "id": "normas-108",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-212.pdf",
+   "evidence_quote": "Os ARA, MSA e CPA estão isentos da realização do exame de habilitação, devendo cumprir o artigo 3.4 desta norma, para agregação de categoria de MTA.",
+   "notes": "NORMAM-212 art. 3.1.2, Nota; literal."
+  },
+  {
+   "id": "normas-109",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deve estar acompanhado de um documento oficial de identificação se o modelo for o da CHA sem foto. No caso da CHA com foto, está dispensado",
+   "notes": "Art. 5.5.1 a, p. 5-6; literal."
+  },
+  {
+   "id": "normas-110",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "é de responsabilidade do condutor portar seu dispositivo eletrônico que permita o acesso aos dados por ocasião da Inspeção Naval. Alternativamente, a CHA digital pode ser apresentada de forma impressa caso a impressão esteja legível",
+   "notes": "Art. 5.5.1 a, p. 5-6; confere."
+  },
+  {
+   "id": "normas-111",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "na base de dados do aplicativo “Gov.Br”, assim que o cidadão for comunicado por mensagem (SMS) e/ou e-mail",
+   "notes": "Art. 5.5.1 a; o trecho começa em 5-6 e continua em 5-7; alínea d também diz que a OM disponibiliza a CHA digital no Gov.br. Confere."
+  },
+  {
+   "id": "normas-112",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "b) A CHA possui validade em todo território nacional por um período de dez anos a partir da data da sua emissão.",
+   "notes": "Art. 5.5.1 b; literal."
+  },
+  {
+   "id": "normas-113",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) Para adultos com idade igual ou superior a 65 anos, a validade da CHA será de cinco anos a partir da sua emissão.",
+   "notes": "Art. 5.5.1 c; literal."
+  },
+  {
+   "id": "normas-114",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "e) Deverão constar no campo observações da CHA as restrições físicas do amador, relatadas no atestado médico.",
+   "notes": "Art. 5.5.1 e; literal."
+  },
+  {
+   "id": "normas-115",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "c) atestado médico, emitido há menos de um ano ... O atestado é dispensável, caso seja apresentada a Carteira Nacional de Habilitação - CNH dentro da validade",
+   "notes": "Conferi no art. 5.5.4, alíneas a a e (pp. 5-9/5-10): a) requerimento anexo 5-H; b) cópia autenticada ou cópia simples com o original; c) atestado com menos de um ano, dispensado se houver CNH válida; d) comprovante de residência; e) GRU de renovação; 'junto a uma CP/DL/AG'. Pequena simplificação: a cópia da CHA exige apresentar o original."
+  },
+  {
+   "id": "normas-116",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Está autorizada a condução de uma embarcação com protocolo para renovação de CHA, emitida pela CP/DL/AG, por até 30 dias após sua expedição.",
+   "notes": "Art. 5.5.4 Notas, p. 5-10; literal."
+  },
+  {
+   "id": "normas-117",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deverá submeter-se a novo processo de inscrição para a sua última categoria, cumprindo o que preconiza o artigo 5.4 deste capítulo, referente à inscrição e exame de amador.",
+   "notes": "Art. 5.5.4 Notas; o exame vem pela remissão ao art. 5.4. Confere."
+  },
+  {
+   "id": "normas-118",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "deverá manifestar-se, pelo menos, até a referida data limite, por meio do pagamento da GRU, iniciando o processo de renovação da CHA. Eventuais inconsistências/dificuldades de pagamento não são motivos causais para extensão da data-limite.",
+   "notes": "Art. 5.5.4 Notas; data-limite = validade + cinco anos. Confere. Observação: depois do pagamento ainda é preciso fazer o agendamento eletrônico ('basta' é só sobre não refazer o exame)."
+  },
+  {
+   "id": "normas-119",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A partir de 1o de junho de 2023 não serão mais aceitas CHA sem validade. Nesse sentido, os amadores que portarem CHA que não contenham a data de validade estarão passíveis de serem notificados",
+   "notes": "Art. 5.5.4 Notas, p. 5-10; a norma diz 'notificados' e 'responderem administrativamente' por infração à Lei 9.537/97, o que equivale a 'autuado'. Confere."
+  },
+  {
+   "id": "normas-120",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "só poderão requerer a sua renovação, a ser solicitada junto a qualquer CP/DL/AG. ... b) declaração de extravio, roubo, furto ou danos devidamente preenchida, conforme anexo 5-D ou Boletim de Ocorrência",
+   "notes": "Art. 5.5.5, p. 5-11; requerimento (anexo 5-H) e declaração 5-D ou BO conferem. A norma não diz 'não há segunda via' com essas palavras; isso decorre do 'só poderão requerer a sua renovação'. Ressalva extra da norma: os dados precisam constar do SISAMA."
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "verdicts": [
+  {
+   "id": "extra-arrais-1-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Texto idêntico no ZIP de anexos (Anexo 5-A, mais novo) e índice DPC não mostra portaria posterior à nº 200/27-02-2026 para a NORMAM-211.",
+   "evidence_quote": "I) termos náuticos, nomenclatura, peças e partes das embarcações, direções relativas, marinharia, nós e voltas;"
+  },
+  {
+   "id": "extra-arrais-1-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 2.1 idêntico no Anexo 5-A do ZIP; sem portaria posterior à nº 200.",
+   "evidence_quote": "2.1. preparação da embarcação para navegar, considerando embarque de pessoal, manobras de peso a bordo, uso do VHF"
+  },
+  {
+   "id": "extra-arrais-1-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Itens 2.4 a 2.6 idênticos no Anexo 5-A do ZIP; sem portaria posterior à nº 200.",
+   "evidence_quote": "2.6. apresentação das saída e aproximação segura de praias com ênfase no cumprimento das áreas seletivas para a navegação"
+  },
+  {
+   "id": "extra-arrais-1-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 2.7 idêntico no ZIP (no ZIP novo a lista termina em 2.7; o 2.8 do PDF consolidado não consta, mas não afeta a afirmação).",
+   "evidence_quote": "2.7. execução da lista de verificação para o funcionamento e orientações preventivas quanto à manutenção da embarcação"
+  },
+  {
+   "id": "extra-arrais-1-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Anexo 5-F do ZIP tem os três blocos (antes/durante/ao regressar) e 15 itens; sem portaria posterior.",
+   "evidence_quote": "ANTES DE INICIAR A NAVEGAÇÃO ... DURANTE A NAVEGAÇÃO ... AO REGRESSAR"
+  },
+  {
+   "id": "extra-arrais-1-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Itens 01 a 03 idênticos no Anexo 5-F do ZIP.",
+   "evidence_quote": "03. Inspecione o seu material contra incêndio, verificando o prazo de validade e o estado de conservação dos extintores;"
+  },
+  {
+   "id": "extra-arrais-1-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 04 idêntico no Anexo 5-F do ZIP.",
+   "evidence_quote": "04. Vistorie o casco quanto à sua estanqueidade"
+  },
+  {
+   "id": "extra-arrais-1-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 05 idêntico no Anexo 5-F do ZIP; Anexo 4-B 4.2 também traz a regra de um terço.",
+   "evidence_quote": "Calcule, com margem de segurança, o consumo de combustível, para garantir o seu regresso. (Regra do 1/3);"
+  },
+  {
+   "id": "extra-arrais-1-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 06 ainda cita dhn.mar.mil.br e cptec.inpe.br no ZIP novo (domínio DHN legado, não consegui abrir agora; CPTEC responde 200); a afirmação reflete o texto vigente da norma.",
+   "evidence_quote": "06. Verifique a previsão do tempo, disponível nos sites “www.dhn.mar.mil.br” e “www.cptec.inpe.br”;"
+  },
+  {
+   "id": "extra-arrais-1-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 07 idêntico no Anexo 5-F do ZIP.",
+   "evidence_quote": "07. Entregue o Aviso de Saída ao Iate Clube ou Marina."
+  },
+  {
+   "id": "extra-arrais-1-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 08 idêntico no Anexo 5-F do ZIP.",
+   "evidence_quote": "08. Esteja atento durante a condução de sua embarcação"
+  },
+  {
+   "id": "extra-arrais-1-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 09 do ZIP diz 200 m; o texto fiel é a lista genérica, enquanto o art. 1.8.1 fixa 100 m (remo/vela) e 200 m (motor), ressalva já anotada pelo pesquisador.",
+   "evidence_quote": "09. Não navegue a menos de 200 metros da praia, pois você colocará em risco os banhistas;"
+  },
+  {
+   "id": "extra-arrais-1-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Itens 10 a 12 idênticos no Anexo 5-F do ZIP.",
+   "evidence_quote": "12. Procure conhecer os locais de menor profundidade."
+  },
+  {
+   "id": "extra-arrais-1-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Item 13 idêntico no Anexo 5-F do ZIP.",
+   "evidence_quote": "13. Ao fundear, o faça com baixa velocidade"
+  },
+  {
+   "id": "extra-arrais-1-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Itens 14 e 15 idênticos no Anexo 5-F do ZIP.",
+   "evidence_quote": "14. Informe a chegada ao seu clube ou marina, para que o seu Aviso de Saída seja desativado;"
+  },
+  {
+   "id": "extra-arrais-1-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.6.1 conferido no PDF consolidado de 03/03/2026; Anexo 4-A do ZIP também prevê o NAVSEG; sem portaria posterior.",
+   "evidence_quote": "a Marinha do Brasil recomenda veementemente o uso do referido aplicativo"
+  },
+  {
+   "id": "extra-arrais-1-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.6.2 conferido no consolidado e repetido no Anexo 4-A do ZIP.",
+   "evidence_quote": "4.6.2. É responsabilidade do Comandante da embarcação ter a bordo o material de navegação e salvatagem compatível com a singradura"
+  },
+  {
+   "id": "extra-arrais-1-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.6.3 conferido literalmente no texto consolidado vigente.",
+   "evidence_quote": "queda acentuada da pressão atmosférica"
+  },
+  {
+   "id": "extra-arrais-1-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 4.6.5 conferido literalmente no texto consolidado vigente.",
+   "evidence_quote": "ou registrar seu plano de navegação no App NAVSEG"
+  },
+  {
+   "id": "extra-arrais-1-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Anexo 4-A do ZIP traz os mesmos campos e as observações sobre entrega ao clube/marina, rádio e pessoa de confiança.",
+   "evidence_quote": "Poderá ainda, ser entregue a uma pessoa de confiança."
+  },
+  {
+   "id": "extra-arrais-1-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 1.8.1, alínea a), conferido no texto consolidado vigente.",
+   "evidence_quote": "I) nas praias litorâneas: a linha de arrebentação das ondas"
+  },
+  {
+   "id": "extra-arrais-1-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Art. 1.8.1 conferido no texto consolidado vigente.",
+   "evidence_quote": "estão isentas dessas restrições"
+  },
+  {
+   "id": "extra-arrais-1-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Arts. 1.8.2 e 1.8.5 conferidos no texto consolidado vigente.",
+   "evidence_quote": "O fundeio nessa área será permitido apenas pelo tempo mínimo necessário"
+  },
+  {
+   "id": "extra-arrais-1-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Quadro do art. 4.33 item 08 conferido no consolidado (miúdas e médio: classes III ou V; grande porte: classe III); trecho só não casou por extração de tabela.",
+   "evidence_quote": "COLETES SALVA-VIDAS 4.14 OBRIGATÓRIO (classes III ou V) | OBRIGATÓRIO (classes III ou V) | OBRIGATÓRIO (classe III)"
+  },
+  {
+   "id": "extra-arrais-1-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Quadro do art. 4.33 item 05 confere (miúdas dispensado; médio porte 1 und <12 m, 2 und >=12 m, uma com retinida).",
+   "evidence_quote": "comp. menor que 12m: 01 und; comp. maior ou igual a 12m: 02 und. Pelo menos uma com retinida flutuante"
+  },
+  {
+   "id": "extra-arrais-1-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Quadro do art. 4.33 itens 01 a 04 e 11 confere (miúdas DISPENSADO; médio porte OBRIGATÓRIO, lanterna 01 unidade).",
+   "evidence_quote": "ÂNCORA (com no mínimo 20m de cabo ou amarra) 4.18 DISPENSADO OBRIGATÓRIO"
+  },
+  {
+   "id": "extra-arrais-1-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Quadro do art. 4.33 itens 06 e 09 confere (miúdas DISPENSADO; médio porte OBRIGATÓRIO).",
+   "evidence_quote": "EXTINTOR DE INCÊNDIO 4.27 DISPENSADO OBRIGATÓRIO (ver ref. e artigo 4.36)"
+  },
+  {
+   "id": "extra-arrais-1-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Quadro do art. 4.33 itens 13, 17 e 20 confere (luzes; VHF dispensado/recomendado/obrigatório; pirotécnicos dispensados para miúdas e médio porte).",
+   "evidence_quote": "RÁDIO VHF 4.23 DISPENSADO RECOMENDADO OBRIGATÓRIO"
+  },
+  {
+   "id": "extra-arrais-1-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "notes": "Quadro do art. 4.33 item 15 confere (miúdas dispensado; médio e grande a partir de 15 pessoas a bordo).",
+   "evidence_quote": "MATERIAIS E MEDICAMENTOS DE PRIMEIROS SOCORROS 4.22 DISPENSADO OBRIGATÓRIO (a partir de 15 pessoas a bordo)"
+  },
+  {
+   "id": "extra-arrais-1-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "notes": "Anexo 4-B item 4.1 idêntico no ZIP (recomendação de ventilação por pelo menos 4 minutos).",
+   "evidence_quote": "seja acionado durante pelo menos 4 minutos."
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "verdicts": [
+  {
+   "id": "programa-01",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "Rev. 1 no 200, de 27 de 5-12 03/03/2026 [...] fevereiro de 2026",
+   "notes": "Folha de Registro de Modificações do PDF consolidado de 03/03/2026 confere; página-índice da DPC (consultada em 2026-10-08) ainda lista a Portaria nº 200 de 27/02/2026 como a vigente, sem portaria posterior."
+  },
+  {
+   "id": "programa-02",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/normas-autoridade-maritima-brasileira",
+   "evidence_quote": "no 197, de 23 de janeiro de 2026 [...] 26/01/2026 [...] An5-A e An5-E.",
+   "notes": "Folha de Registro de Modificações do PDF consolidado de 03/03/2026 confere; página-índice da DPC (consultada em 2026-10-08) ainda lista a Portaria nº 200 de 27/02/2026 como a vigente, sem portaria posterior."
+  },
+  {
+   "id": "programa-03",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Capitão-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros, sem limite de afastamento da costa, exceto moto aquática.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-04",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Mestre-Amador - apto para conduzir embarcações entre portos nacionais e estrangeiros nos limites da navegação costeira (até 20 MN), exceto moto aquática.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-05",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Arrais-Amador - apto para conduzir embarcações nos limites da navegação interior, cujas áreas são definida nas NPCP/NPCF, exceto moto aquática.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-06",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Veleiro - apto para conduzir embarcações a vela sem propulsão a motor, nos limites da navegação interior.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-07",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "Para embarcações à vela de médio ou grande porte, a habilitação deverá obedecer os critérios previstos para a área de navegação para a qual estão classificadas, ou seja, ARA para navegação interior, MSA para navegação costeira e CPA para navegação oceânica, obrigatoriamente.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-08",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "EMBARCAÇÃO DE MÉDIO PORTE - é considerada embarcação de médio porte aquelas com comprimento inferior a 24 metros, exceto as miúdas.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-09",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "EMBARCAÇÃO MIÚDA - para aplicação dessa norma são consideradas embarcações miúdas aquelas que tenham comprimento inferior ou igual a seis (6) metros",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-10",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "A CHA - VLA possui caráter facultativo para condução em embarcações miúdas de propulsão exclusivamente à vela. [...] deverá possuir idade mínima de oito anos.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-11",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "para a inscrição ao exame da categoria de Mestre-Amador, o candidato deverá possuir habilitação na categoria de Arrais-Amador, dentro da validade. Já para a inscrição ao exame na categoria de Capitão-Amador, o candidato deverá possuir habilitação na categoria de Mestre-Amador",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-12",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf",
+   "evidence_quote": "O exame para a habilitação nas categorias de ARA, MSA e CPA é constituído de prova escrita (ou eletrônica) no idioma português (Brasil), devendo o candidato possuir idade mínima de 18 (dezoito) anos e saber ler e escrever.",
+   "notes": "Texto do cap. 5/Glossário igual no consolidado de 03/03/2026; índice da DPC não mostra portaria posterior à nº 200 (Rev.1 alterou só a p. 5-12), logo vigente."
+  },
+  {
+   "id": "programa-13",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões, com a duração máxima de duas horas.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-14",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "O exame constará de uma prova eletrônica ou escrita contendo 40 questões de múltipla escolha, sendo quatro com utilização de carta náutica, com a duração máxima de três horas.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-15",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "O exame constará de uma prova escrita contendo 40 questões, com a duração máxima de quatro horas.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-16",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "A prova possui valor máximo de 10,0 pontos e será considerado aprovado o candidato que alcançar pelo menos cinco (5,0) pontos",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-17",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "as inscrições serão feitas em todas essas Organizações Militares nos meses de fevereiro e agosto para exames a serem realizados, respectivamente, nos meses de abril e outubro do mesmo ano",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-18",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "material de desenho: lápis preto ou lapiseira, régua paralela e/ou um par de esquadros, compasso e borracha para desenho",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-19",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "material de desenho: lápis ou lapiseira, régua, um par de esquadros ou régua paralelas, transferidor, compasso e borracha.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-20",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "As provas deverão ser destruídas, imediatamente após a correção e a apresentação dos resultados aos candidatos, visando garantir a integridade e o sigilo do Banco de Questões.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-21",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "A DPC divulgará em seu site a programação geral do exame, a prova/gabarito e a relação contendo os nomes dos aprovados.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-22",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "O candidato poderá pedir revisão da sua prova em um prazo máximo de 07 dias úteis, contados a partir da data de divulgação oficial da prova e do gabarito",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-23",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "A GRU paga pelo candidato reprovado ou que faltou à prova não poderá ser reutilizada para um novo exame.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-24",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "a) Navegação Astronômica. b) Navegação Eletrônica. c) Estabilidade. d) Meteorologia e Oceanografia. e) Comunicações. f) Sobrevivência no Mar. g) Carta náutica e publicações de auxílio à navegação.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-25",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "b) Cálculo da hora legal da passagem meridiana superior do sol pelo processo aproximado. c) Posição pela passagem meridiana do sol.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-26",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "d) Acompanhamento Automático de Embarcações: I) auxílio de Plotagem Automática Radar (ARPA); e II) sistema Automático de Identificação (AIS). [...] f) Conceitos básicos de sistemas integrados de navegação(ECDIS, ECS, VTS, GNSS).",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-27",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "pontos notáveis de estabilidade (centro de gravidade, centro de carena e metacentro); II) altura metacêntrica; e III) condições de equilíbrio de uma embarcação.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-28",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "c) Interação Oceano-Atmosfera: I) ondas e marulhos; II) características das correntes costeiras e oceânicas; III) principais correntes oceânicas; e IV) estado do mar (Escala Beaufort).",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-29",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "a) Comunicações na Navegação Oceânica: I) equipamentos, procedimentos, frequências de socorro, chamada e trânsito; II) estações de terra; e III) uso e funcionamento do EPIRB e do SART.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-30",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "c) Lançamento e abertura de balsas salva-vidas. d) Navegação em balsas salva-vidas.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-31",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Reconhecimento dos elementos de uma carta náutica, conversão e traçados de rumos e marcações, e realização de plotagens de posições.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-32",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "b) Navegação: A Ciência e a Arte Vol. II - Navegação Astronômica e Derrotas, de ALTINEU PIRES MIGUENS (www.dhn.mar.mil.br). c) Capitão-Amador Navegando Seguro em Cruzeiros de Alto Mar, de JAIME ROBERTO DA COSTA FELIPE.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-33",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Entretanto, havendo conflitos com outras fontes, considerar como válidas, para efeito de prova, as informações constantes na bibliografia recomendada.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-34",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "O programa para o exame versará sobre Navegação Costeira, abordando os seguintes conhecimentos:",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-35",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "i) Conceitos básicos de funcionamento e utilização do radar na navegação. j) Conceitos básicos de funcionamento e utilização do ecobatímetro. [...] n) Conhecimento básico do funcionamento do EPIRB e AIS.",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-36",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Meteorologia: Conhecimento e interpretação de Cartas Sinóticas, Boletins Meteorológicos, imagens satélite e avisos de mau tempo, características das frentes, nevoeiros, nuvens e ciclones extra-tropicais, conhecimento dos ventos predominantes na costa do Brasil",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  },
+  {
+   "id": "programa-37",
+   "verdict": "confirmado",
+   "evidence_url": "https://www.marinha.mil.br/dpc/sites/www.marinha.mil.br.dpc/files/NORMAM-211-Anexos_0.zip",
+   "evidence_quote": "Comunicações na navegação costeira: conceitos e funcionamento do sistema VHF, equipamentos, procedimentos, frequências de socorro, chamadas de emergência, chamadas de rotina e trânsito; Rede Nacional de Estações Costeiras (RENEC).",
+   "notes": "Item do Anexo 5-A idêntico no texto do ZIP de anexos (mais novo) e no consolidado; sem portaria posterior à nº 200 no índice da DPC, vigente."
+  }
+ ]
+}
